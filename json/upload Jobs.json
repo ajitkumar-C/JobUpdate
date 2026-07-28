@@ -1,0 +1,73 @@
+[
+  {
+    "title": "ISRO Scientist/Engineer Recruitment 2026 Online Form",
+    "category": "Latest Jobs",
+    "postDate": "2026-07-01",
+    "shortInfo": "Indian Space Research Organisation (ISRO) has invited online applications for the recruitment of Scientist / Engineer vacancy.",
+    "applicationStart": "2026-07-01",
+    "applicationLastDate": "2026-07-25",
+    "feeLastDate": "2026-07-25",
+    "examDate": "TBD",
+    "fees": {
+      "generalObc": "Rs. 250/-",
+      "scStPh": "Rs. 0/-"
+    },
+    "ageLimit": {
+      "min": "18 Years",
+      "max": "35 Years"
+    },
+    "vacancies": [
+      {
+        "postName": "Scientist/Engineer 'SC' (Electronics)",
+        "totalPost": "95",
+        "eligibility": "B.E / B.Tech in Electronics Engineering with first class (65%)."
+      },
+      {
+        "postName": "Scientist/Engineer 'SC' (Computer Science)",
+        "totalPost": "75",
+        "eligibility": "B.E / B.Tech in Computer Science & Engineering with first class (65%)."
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://isro.gov.in/careers",
+      "downloadNotification": "https://isro.gov.in/notifications/scientist-2026"
+    }
+  },
+  {
+    "title": "Indian Air Force Agniveer Vayu Intake 01/2026 Online Form",
+    "category": "Defense Jobs",
+    "postDate": "2026-07-01",
+    "shortInfo": "Indian Air Force (IAF) has released the recruitment notification for Agniveer Vayu Intake 01/2026 under Agniveer Scheme. Interested candidates can apply online.",
+    "applicationStart": "2026-07-05",
+    "applicationLastDate": "2026-07-28",
+    "feeLastDate": "2026-07-28",
+    "examDate": "September 2026",
+    "fees": {
+      "generalObc": "Rs. 250/-",
+      "scStPh": "Rs. 250/-",
+      "paymentMode": "Online via Debit/Credit cards or Net Banking"
+    },
+    "ageLimit": {
+      "min": "17.5 Years",
+      "max": "21 Years",
+      "relaxationText": "Candidate must be born between 27/06/2005 and 27/12/2008 (both dates inclusive)."
+    },
+    "vacancies": [
+      {
+        "postName": "Agniveer Vayu (Science Subjects)",
+        "totalPost": "3500+ Posts",
+        "eligibility": "10+2 Intermediate with Mathematics, Physics and English with minimum 50% marks in aggregate and 50% marks in English."
+      },
+      {
+        "postName": "Agniveer Vayu (Other Than Science Subjects)",
+        "totalPost": "See Details",
+        "eligibility": "10+2 Intermediate in any stream with minimum 50% marks in aggregate and 50% marks in English."
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://agnipathvayu.cdac.in/",
+      "downloadNotification": "https://agnipathvayu.cdac.in/documents/IAF_Agniveer_Notification.pdf",
+      "officialWebsite": "https://agnipathvayu.cdac.in/"
+    }
+  }
+]

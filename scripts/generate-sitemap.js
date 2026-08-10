@@ -36,7 +36,7 @@ function generateSitemap() {
 
   // 1. Add static pages
   staticPages.forEach(page => {
-    const urlPath = page ? `/${page}` : '';
+    const urlPath = page ? `/${page}` : '/';
     urls.push({
       loc: `${BASE_URL}${urlPath}`,
       changefreq: 'daily',

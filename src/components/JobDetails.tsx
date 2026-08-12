@@ -74,6 +74,10 @@ export const JobDetails: React.FC<JobDetailsProps> = ({
             </div>
           )}
         </div>
+        <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem', fontSize: '0.8rem', color: 'var(--text-muted)', marginTop: '0.5rem', borderBottom: '1px solid var(--border)', paddingBottom: '0.75rem' }} className="no-print">
+          <span style={{ fontWeight: 500, color: 'var(--primary)' }}>✍️ Compiled by Sarkari Aavedan Editorial Team</span>
+          <span style={{ fontWeight: 500, color: '#10b981' }}>✓ Verified against Official Government Bulletins</span>
+        </div>
       </header>
 
       {/* Short Information Section */}

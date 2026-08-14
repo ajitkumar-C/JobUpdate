@@ -8,6 +8,7 @@ import { MOCK_JOBS, DEFAULT_CATEGORIES } from './mockData';
 import type { JobPost, Category } from './types';
 import { Shield, Sparkles, X } from 'lucide-react';
 import { AboutUs, ContactUs, Disclaimer, PrivacyPolicy } from './components/StaticPages';
+import { MaharashtraJobs } from './components/MaharashtraJobs';
 import { updateSEO } from './utils/seo';
 import { CategorySeoInfo } from './components/CategorySeoInfo';
 import './App.css';
@@ -37,13 +38,13 @@ export const App: React.FC = () => {
   const [searchTerm, setSearchTerm] = useState('');
   const [theme, setTheme] = useState<'light' | 'dark'>('light');
   const [showAdminButton, setShowAdminButton] = useState(false);
-  const [currentView, setCurrentView] = useState<'home' | 'about' | 'contact' | 'disclaimer' | 'privacy'>('home');
+  const [currentView, setCurrentView] = useState<'home' | 'about' | 'contact' | 'disclaimer' | 'privacy' | 'maharashtra'>('home');
   const [selectedCategoryCode, setSelectedCategoryCode] = useState<string | null>(null);
   const [isDrawerOpen, setIsDrawerOpen] = useState(false);
 
   // --- Zero-Dependency Router Helper ---
   const navigateTo = (
-    view: 'home' | 'about' | 'contact' | 'disclaimer' | 'privacy',
+    view: 'home' | 'about' | 'contact' | 'disclaimer' | 'privacy' | 'maharashtra',
     categoryCode: string | null,
     jobId: string | null,
     admin: boolean
@@ -58,6 +59,8 @@ export const App: React.FC = () => {
       ? '/admin'
       : jobId
       ? `/job/${jobId}`
+      : view === 'maharashtra'
+      ? '/state/maharashtra'
       : view !== 'home'
       ? `/${view}`
       : categoryCode
@@ -86,6 +89,11 @@ export const App: React.FC = () => {
       setIsAdminMode(false);
       setCurrentView('home');
       setSelectedCategoryCode(null);
+    } else if (segments[0] === 'state' && segments[1] === 'maharashtra') {
+      setCurrentView('maharashtra');
+      setSelectedJobId(null);
+      setSelectedCategoryCode(null);
+      setIsAdminMode(false);
     } else if (['about', 'contact', 'disclaimer', 'privacy'].includes(segments[0])) {
       setCurrentView(segments[0] as any);
       setSelectedJobId(null);
@@ -131,8 +139,9 @@ export const App: React.FC = () => {
     const activeCategory = categories.find(c => c.id === selectedCategoryCode);
     const categoryName = activeCategory ? activeCategory.name : null;
     const selectedJob = jobs.find(j => j.id === selectedJobId) || null;
+    const seoView = currentView === 'home' ? null : currentView;
 
-    updateSEO(selectedJob, categoryName, currentView === 'home' ? null : currentView);
+    updateSEO(selectedJob, categoryName, seoView);
   }, [selectedJobId, selectedCategoryCode, currentView, jobs, categories]);
 
   // --- Legacy Slug Redirect Support Hook ---
@@ -423,10 +432,10 @@ export const App: React.FC = () => {
       />
 
       {/* Sub Navigation Bar for Categories */}
-      {!isAdminMode && !selectedJobId && currentView === 'home' && (
+      {!isAdminMode && !selectedJobId && (
         <nav className="sub-nav no-print">
           <button
-            className={`sub-nav-item ${selectedCategoryCode === null ? 'active' : ''}`}
+            className={`sub-nav-item ${currentView === 'home' && selectedCategoryCode === null ? 'active' : ''}`}
             onClick={() => { navigateTo('home', null, null, false); window.scrollTo(0, 0); }}
           >
             All Sections
@@ -434,14 +443,22 @@ export const App: React.FC = () => {
           {categories.map((cat) => (
             <button
               key={cat.id}
-              className={`sub-nav-item ${selectedCategoryCode === cat.id ? 'active' : ''}`}
+              className={`sub-nav-item ${currentView === 'home' && selectedCategoryCode === cat.id ? 'active' : ''}`}
               onClick={() => { navigateTo('home', cat.id, null, false); window.scrollTo(0, 0); }}
             >
               {cat.name}
             </button>
           ))}
+          {/* State-Wise Jobs — Maharashtra */}
+          <button
+            className={`sub-nav-item sub-nav-state ${currentView === 'maharashtra' ? 'active' : ''}`}
+            onClick={() => { navigateTo('maharashtra', null, null, false); window.scrollTo(0, 0); }}
+          >
+            🌏 Maharashtra Jobs
+          </button>
         </nav>
       )}
+
 
       {/* Breaking News Ticker */}
       <BreakingTicker jobs={jobs} onJobClick={handleJobClick} />
@@ -475,6 +492,8 @@ export const App: React.FC = () => {
           <Disclaimer />
         ) : currentView === 'privacy' ? (
           <PrivacyPolicy />
+        ) : currentView === 'maharashtra' ? (
+          <MaharashtraJobs />
         ) : (
           /* Consumer Dashboard Home Screen */
           <>
@@ -579,6 +598,7 @@ export const App: React.FC = () => {
           <a href="/contact" onClick={(e) => { e.preventDefault(); navigateTo('contact', null, null, false); window.scrollTo(0, 0); }}>Contact</a>
           <a href="/disclaimer" onClick={(e) => { e.preventDefault(); navigateTo('disclaimer', null, null, false); window.scrollTo(0, 0); }}>Disclaimer</a>
           <a href="/privacy" onClick={(e) => { e.preventDefault(); navigateTo('privacy', null, null, false); window.scrollTo(0, 0); }}>Privacy Policy</a>
+          <a href="/state/maharashtra" onClick={(e) => { e.preventDefault(); navigateTo('maharashtra', null, null, false); window.scrollTo(0, 0); }}>🌏 Maharashtra Jobs</a>
         </div>
         <p>© 2026 Sarkari Aavedan (सरकारी आवेदन). All Rights Reserved.</p>
         <p className="footer-tagline">
@@ -678,6 +698,20 @@ export const App: React.FC = () => {
               </ul>
 
               <div style={{ marginTop: '2rem', borderTop: '1px solid var(--border-color)', paddingTop: '1.5rem' }}>
+                <h3 className="drawer-section-title">State-Wise Jobs / राज्य भरती</h3>
+                <ul className="drawer-list">
+                  <li>
+                    <button
+                      className={`drawer-item ${currentView === 'maharashtra' ? 'active' : ''}`}
+                      onClick={() => { navigateTo('maharashtra', null, null, false); window.scrollTo(0, 0); }}
+                    >
+                      🌏 Maharashtra / महाराष्ट्र नोकऱ्या
+                    </button>
+                  </li>
+                </ul>
+              </div>
+
+              <div style={{ marginTop: '1.5rem', borderTop: '1px solid var(--border-color)', paddingTop: '1.5rem' }}>
                 <h3 className="drawer-section-title">Information Pages</h3>
                 <ul className="drawer-list">
                   <li>

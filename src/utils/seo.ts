@@ -1,4 +1,4 @@
-import type { JobPost } from '../types';
+import { STATES_CONFIG } from '../config/states';
 
 /**
  * Helper to map category names to exact route slugs
@@ -22,7 +22,7 @@ function getCategorySlug(categoryName: string): string {
  * for excellent search engine indexing (E-E-A-T & Google-friendly structure).
  */
 export function updateSEO(
-  job?: JobPost | null,
+  job?: any | null,
   categoryName?: string | null,
   pageName?: string | null
 ) {
@@ -51,19 +51,19 @@ export function updateSEO(
   if (job) {
     // A. Job Detail View
     finalTitle = `${job.title} - Apply Online | सरकारी आवेदन`;
-    finalDesc = `${job.shortInfo.substring(0, 155)}...`;
+    finalDesc = `${(job.shortInfo || '').substring(0, 155)}...`;
     
     // Extract keywords from job title
-    const titleKeywords = job.title
+    const titleKeywords = (job.title || '')
       .replace(/[()|]/g, '')
       .split(/\s+/)
-      .filter(w => w.length > 3)
+      .filter((w: string) => w.length > 3)
       .join(', ');
     finalKeywords = `${job.category.toLowerCase()}, ${titleKeywords}, apply online, exam date, result 2026, free job alert, sarkari aavedan`;
     canonicalUrl = `https://sarkariavedan.info/job/${job.id}`;
 
     // Inject JobPosting Schema
-    const primaryVacancy = job.vacancies[0];
+    const primaryVacancy = job.vacancies?.[0];
     const postName = primaryVacancy ? primaryVacancy.postName : job.title;
     
     const validDate = (dateStr: string) => {
@@ -83,7 +83,7 @@ export function updateSEO(
         '@type': 'Organization',
         'name': 'Sarkari Aavedan',
         'logo': 'https://sarkariavedan.info/favicon.svg',
-        'sameAs': job.importantLinks.officialWebsite || 'https://sarkariavedan.info/'
+        'sameAs': job.importantLinks?.officialWebsite || 'https://sarkariavedan.info/'
       },
       'jobLocation': {
         '@type': 'Place',
@@ -190,61 +190,114 @@ export function updateSEO(
     document.head.appendChild(breadcrumbScript);
 
   } else if (pageName && pageName !== 'home') {
-    // C. Static Content Pages (About, Contact, Disclaimer, Privacy)
-    const formattedPageName = pageName.charAt(0).toUpperCase() + pageName.slice(1);
-    finalTitle = `${formattedPageName} - Sarkari Aavedan (सरकारी आवेदन)`;
-    finalDesc = `${formattedPageName} details, trust credentials, information sources, and candidate assistance tools on Sarkari Aavedan.`;
-    canonicalUrl = `https://sarkariavedan.info/${pageName}`;
+    // Check if pageName matches a registered state configuration
+    const stateEntry = Object.values(STATES_CONFIG).find(
+      s => s.code === pageName || s.name.toLowerCase() === pageName.toLowerCase()
+    );
 
-    // Determine correct schema mapping type
-    let pageSchemaType = 'WebPage';
-    if (pageName === 'about') {
-      pageSchemaType = 'AboutPage';
-      finalKeywords = 'about sarkari aavedan, official info source, E-E-A-T credentials, trust badge india, trust sarkari result';
-    } else if (pageName === 'contact') {
-      pageSchemaType = 'ContactPage';
-      finalKeywords = 'contact details, customer support email, technical assistance, support hours sarkari aavedan';
+    if (stateEntry) {
+      // C1. State Page View
+      finalTitle = `${stateEntry.nameLocal} (Maharashtra Govt Jobs) 2026 | Free Job Alert`;
+      finalDesc = stateEntry.seoDescription;
+      finalKeywords = stateEntry.seoKeywords;
+      canonicalUrl = `https://sarkariavedan.info/state/${stateEntry.code}`;
+
+      // Inject CollectionPage Schema
+      const stateSchema = {
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        'name': finalTitle,
+        'description': finalDesc,
+        'url': canonicalUrl
+      };
+      const mainScript = document.createElement('script');
+      mainScript.id = 'seo-main-schema';
+      mainScript.type = 'application/ld+json';
+      mainScript.text = JSON.stringify(stateSchema, null, 2);
+      document.head.appendChild(mainScript);
+
+      // Inject Breadcrumb
+      const breadcrumbData = {
+        '@context': 'https://schema.org',
+        '@type': 'BreadcrumbList',
+        'itemListElement': [
+          {
+            '@type': 'ListItem',
+            'position': 1,
+            'name': 'Home',
+            'item': 'https://sarkariavedan.info/'
+          },
+          {
+            '@type': 'ListItem',
+            'position': 2,
+            'name': stateEntry.name,
+            'item': canonicalUrl
+          }
+        ]
+      };
+      const breadcrumbScript = document.createElement('script');
+      breadcrumbScript.id = 'seo-breadcrumb-schema';
+      breadcrumbScript.type = 'application/ld+json';
+      breadcrumbScript.text = JSON.stringify(breadcrumbData, null, 2);
+      document.head.appendChild(breadcrumbScript);
+
     } else {
-      finalKeywords = 'privacy guidelines, disclaimer notice, third party redirect warning, data policy';
+      // C2. Static Content Pages (About, Contact, Disclaimer, Privacy)
+      const formattedPageName = pageName.charAt(0).toUpperCase() + pageName.slice(1);
+      finalTitle = `${formattedPageName} - Sarkari Aavedan (सरकारी आवेदन)`;
+      finalDesc = `${formattedPageName} details, trust credentials, information sources, and candidate assistance tools on Sarkari Aavedan.`;
+      canonicalUrl = `https://sarkariavedan.info/${pageName}`;
+
+      // Determine correct schema mapping type
+      let pageSchemaType = 'WebPage';
+      if (pageName === 'about') {
+        pageSchemaType = 'AboutPage';
+        finalKeywords = 'about sarkari aavedan, official info source, E-E-A-T credentials, trust badge india, trust sarkari result';
+      } else if (pageName === 'contact') {
+        pageSchemaType = 'ContactPage';
+        finalKeywords = 'contact details, customer support email, technical assistance, support hours sarkari aavedan';
+      } else {
+        finalKeywords = 'privacy guidelines, disclaimer notice, third party redirect warning, data policy';
+      }
+
+      const staticSchema = {
+        '@context': 'https://schema.org',
+        '@type': pageSchemaType,
+        'name': finalTitle,
+        'description': finalDesc,
+        'url': canonicalUrl
+      };
+      const mainScript = document.createElement('script');
+      mainScript.id = 'seo-main-schema';
+      mainScript.type = 'application/ld+json';
+      mainScript.text = JSON.stringify(staticSchema, null, 2);
+      document.head.appendChild(mainScript);
+
+      // Inject Static Page Breadcrumb Schema
+      const breadcrumbData = {
+        '@context': 'https://schema.org',
+        '@type': 'BreadcrumbList',
+        'itemListElement': [
+          {
+            '@type': 'ListItem',
+            'position': 1,
+            'name': 'Home',
+            'item': 'https://sarkariavedan.info/'
+          },
+          {
+            '@type': 'ListItem',
+            'position': 2,
+            'name': formattedPageName,
+            'item': canonicalUrl
+          }
+        ]
+      };
+      const breadcrumbScript = document.createElement('script');
+      breadcrumbScript.id = 'seo-breadcrumb-schema';
+      breadcrumbScript.type = 'application/ld+json';
+      breadcrumbScript.text = JSON.stringify(breadcrumbData, null, 2);
+      document.head.appendChild(breadcrumbScript);
     }
-
-    const staticSchema = {
-      '@context': 'https://schema.org',
-      '@type': pageSchemaType,
-      'name': finalTitle,
-      'description': finalDesc,
-      'url': canonicalUrl
-    };
-    const mainScript = document.createElement('script');
-    mainScript.id = 'seo-main-schema';
-    mainScript.type = 'application/ld+json';
-    mainScript.text = JSON.stringify(staticSchema, null, 2);
-    document.head.appendChild(mainScript);
-
-    // Inject Static Page Breadcrumb Schema
-    const breadcrumbData = {
-      '@context': 'https://schema.org',
-      '@type': 'BreadcrumbList',
-      'itemListElement': [
-        {
-          '@type': 'ListItem',
-          'position': 1,
-          'name': 'Home',
-          'item': 'https://sarkariavedan.info/'
-        },
-        {
-          '@type': 'ListItem',
-          'position': 2,
-          'name': formattedPageName,
-          'item': canonicalUrl
-        }
-      ]
-    };
-    const breadcrumbScript = document.createElement('script');
-    breadcrumbScript.id = 'seo-breadcrumb-schema';
-    breadcrumbScript.type = 'application/ld+json';
-    breadcrumbScript.text = JSON.stringify(breadcrumbData, null, 2);
-    document.head.appendChild(breadcrumbScript);
 
   } else {
     // D. Homepage (Root / Dashboard)

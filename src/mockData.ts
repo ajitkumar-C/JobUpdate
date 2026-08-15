@@ -4,6 +4,12 @@ export const DEFAULT_CATEGORIES: Category[] = [
   { id: 'latest-jobs', name: 'Latest Jobs' },
   { id: 'admit-card', name: 'Admit Card' },
   { id: 'result', name: 'Result' },
+  { id: 'answer-key', name: 'Answer Key' },
+  { id: 'syllabus', name: 'Syllabus' },
+  { id: 'admission', name: 'Admission' },
+  { id: 'certificate', name: 'Certificate' },
+  { id: 'outsourcing-offline', name: 'Outsourcing / Offline Jobs' },
+  { id: 'important', name: 'Important' }
 ];
 
 export const MOCK_JOBS: JobPost[] = [

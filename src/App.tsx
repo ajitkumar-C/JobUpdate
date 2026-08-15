@@ -486,7 +486,9 @@ export const App: React.FC = () => {
           >
             All Sections
           </button>
-          {categories.map((cat) => (
+          
+          {/* Latest Jobs Category */}
+          {categories.filter(c => c.id === 'latest-jobs').map((cat) => (
             <button
               key={cat.id}
               className={`sub-nav-item ${currentView === 'home' && selectedCategoryCode === cat.id ? 'active' : ''}`}
@@ -495,13 +497,25 @@ export const App: React.FC = () => {
               {cat.name}
             </button>
           ))}
-          {/* State-Wise Jobs */}
+
+          {/* State-Wise Jobs — Placed right after Latest Jobs */}
           <button
             className={`sub-nav-item sub-nav-state ${currentView === 'state-directory' || currentView === 'state-view' ? 'active' : ''}`}
             onClick={() => { navigateTo('state-directory', null, null, false); window.scrollTo(0, 0); }}
           >
             🌏 State Jobs
           </button>
+
+          {/* Admit Card & Result Categories */}
+          {categories.filter(c => ['admit-card', 'result'].includes(c.id)).map((cat) => (
+            <button
+              key={cat.id}
+              className={`sub-nav-item ${currentView === 'home' && selectedCategoryCode === cat.id ? 'active' : ''}`}
+              onClick={() => { navigateTo('home', cat.id, null, false); window.scrollTo(0, 0); }}
+            >
+              {cat.name}
+            </button>
+          ))}
         </nav>
       )}
 

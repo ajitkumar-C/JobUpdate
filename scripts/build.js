@@ -56,22 +56,4 @@ if (fs.existsSync(redirectsPath)) {
   console.log('ℹ️ No dist/_redirects found in build output. Good.');
 }
 
-// 6. Zip dist directory to netlify-bundle.zip
-console.log('\n--- Step 6: Packaging netlify-bundle.zip ---');
-const zipFile = path.join(rootDir, 'netlify-bundle.zip');
-if (fs.existsSync(zipFile)) {
-  try {
-    fs.unlinkSync(zipFile);
-  } catch (err) {
-    console.warn('⚠️ Could not delete existing netlify-bundle.zip:', err.message);
-  }
-}
-
-try {
-  execSync('tar -a -c -f netlify-bundle.zip -C dist .', { stdio: 'inherit', cwd: rootDir });
-  console.log('📦 Created netlify-bundle.zip successfully');
-} catch (err) {
-  console.error('❌ Failed to package zip bundle:', err.message);
-}
-
 console.log('\n🎉 Build complete!');

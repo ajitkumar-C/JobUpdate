@@ -8,7 +8,8 @@ import { MOCK_JOBS, DEFAULT_CATEGORIES } from './mockData';
 import type { JobPost, Category } from './types';
 import { Shield, Sparkles, X } from 'lucide-react';
 import { AboutUs, ContactUs, Disclaimer, PrivacyPolicy } from './components/StaticPages';
-import { MaharashtraJobs } from './components/MaharashtraJobs';
+import { StateDirectory } from './components/StateDirectory';
+import { StateJobs } from './components/StateJobs';
 import { updateSEO } from './utils/seo';
 import { CategorySeoInfo } from './components/CategorySeoInfo';
 import './App.css';
@@ -51,34 +52,40 @@ export const App: React.FC = () => {
   const [searchTerm, setSearchTerm] = useState('');
   const [theme, setTheme] = useState<'light' | 'dark'>('light');
   const [showAdminButton, setShowAdminButton] = useState(false);
-  const [currentView, setCurrentView] = useState<'home' | 'about' | 'contact' | 'disclaimer' | 'privacy' | 'maharashtra'>('home');
+  const [currentView, setCurrentView] = useState<'home' | 'about' | 'contact' | 'disclaimer' | 'privacy' | 'state-directory' | 'state-view'>('home');
+  const [selectedStateCode, setSelectedStateCode] = useState<string | null>(null);
   const [selectedCategoryCode, setSelectedCategoryCode] = useState<string | null>(null);
   const [isDrawerOpen, setIsDrawerOpen] = useState(false);
 
   // --- Zero-Dependency Router Helper ---
   const navigateTo = (
-    view: 'home' | 'about' | 'contact' | 'disclaimer' | 'privacy' | 'maharashtra',
+    view: 'home' | 'about' | 'contact' | 'disclaimer' | 'privacy' | 'state-directory' | 'state-view',
     categoryCode: string | null,
     jobId: string | null,
-    admin: boolean
+    admin: boolean,
+    stateCode: string | null = null
   ) => {
     setCurrentView(view);
     setSelectedCategoryCode(categoryCode);
     setSelectedJobId(jobId);
     setIsAdminMode(admin);
+    setSelectedStateCode(stateCode);
     setIsDrawerOpen(false); // Close drawer if open
 
-    const path = admin
-      ? '/admin'
-      : jobId
-      ? `/job/${jobId}`
-      : view === 'maharashtra'
-      ? '/state/maharashtra'
-      : view !== 'home'
-      ? `/${view}`
-      : categoryCode
-      ? `/${categoryCode}`
-      : '/';
+    let path = '/';
+    if (admin) {
+      path = '/admin';
+    } else if (jobId) {
+      path = `/job/${jobId}`;
+    } else if (view === 'state-directory') {
+      path = '/state-jobs';
+    } else if (view === 'state-view' && stateCode) {
+      path = `/state/${stateCode}`;
+    } else if (view !== 'home') {
+      path = `/${view}`;
+    } else if (categoryCode) {
+      path = `/${categoryCode}`;
+    }
 
     if (window.location.pathname !== path) {
       window.history.pushState({}, '', path);
@@ -102,13 +109,21 @@ export const App: React.FC = () => {
       setIsAdminMode(false);
       setCurrentView('home');
       setSelectedCategoryCode(null);
-    } else if (segments[0] === 'state' && segments[1] === 'maharashtra') {
-      setCurrentView('maharashtra');
+    } else if (segments[0] === 'state' && segments[1]) {
+      setCurrentView('state-view');
+      setSelectedStateCode(segments[1]);
+      setSelectedJobId(null);
+      setSelectedCategoryCode(null);
+      setIsAdminMode(false);
+    } else if (segments[0] === 'state-jobs') {
+      setCurrentView('state-directory');
+      setSelectedStateCode(null);
       setSelectedJobId(null);
       setSelectedCategoryCode(null);
       setIsAdminMode(false);
     } else if (['about', 'contact', 'disclaimer', 'privacy'].includes(segments[0])) {
       setCurrentView(segments[0] as any);
+      setSelectedStateCode(null);
       setSelectedJobId(null);
       setSelectedCategoryCode(null);
       setIsAdminMode(false);
@@ -480,12 +495,12 @@ export const App: React.FC = () => {
               {cat.name}
             </button>
           ))}
-          {/* State-Wise Jobs — Maharashtra */}
+          {/* State-Wise Jobs */}
           <button
-            className={`sub-nav-item sub-nav-state ${currentView === 'maharashtra' ? 'active' : ''}`}
-            onClick={() => { navigateTo('maharashtra', null, null, false); window.scrollTo(0, 0); }}
+            className={`sub-nav-item sub-nav-state ${currentView === 'state-directory' || currentView === 'state-view' ? 'active' : ''}`}
+            onClick={() => { navigateTo('state-directory', null, null, false); window.scrollTo(0, 0); }}
           >
-            🌏 Maharashtra Jobs
+            🌏 State Jobs
           </button>
         </nav>
       )}
@@ -523,8 +538,10 @@ export const App: React.FC = () => {
           <Disclaimer />
         ) : currentView === 'privacy' ? (
           <PrivacyPolicy />
-        ) : currentView === 'maharashtra' ? (
-          <MaharashtraJobs />
+        ) : currentView === 'state-directory' ? (
+          <StateDirectory onSelectState={(code) => navigateTo('state-view', null, null, false, code)} />
+        ) : currentView === 'state-view' && selectedStateCode ? (
+          <StateJobs stateCode={selectedStateCode} />
         ) : (
           /* Consumer Dashboard Home Screen */
           <>
@@ -629,7 +646,7 @@ export const App: React.FC = () => {
           <a href="/contact" onClick={(e) => { e.preventDefault(); navigateTo('contact', null, null, false); window.scrollTo(0, 0); }}>Contact</a>
           <a href="/disclaimer" onClick={(e) => { e.preventDefault(); navigateTo('disclaimer', null, null, false); window.scrollTo(0, 0); }}>Disclaimer</a>
           <a href="/privacy" onClick={(e) => { e.preventDefault(); navigateTo('privacy', null, null, false); window.scrollTo(0, 0); }}>Privacy Policy</a>
-          <a href="/state/maharashtra" onClick={(e) => { e.preventDefault(); navigateTo('maharashtra', null, null, false); window.scrollTo(0, 0); }}>🌏 Maharashtra Jobs</a>
+          <a href="/state-jobs" onClick={(e) => { e.preventDefault(); navigateTo('state-directory', null, null, false); window.scrollTo(0, 0); }}>🌏 State Jobs</a>
         </div>
         <p>© 2026 Sarkari Aavedan (सरकारी आवेदन). All Rights Reserved.</p>
         <p className="footer-tagline">
@@ -733,10 +750,34 @@ export const App: React.FC = () => {
                 <ul className="drawer-list">
                   <li>
                     <button
-                      className={`drawer-item ${currentView === 'maharashtra' ? 'active' : ''}`}
-                      onClick={() => { navigateTo('maharashtra', null, null, false); window.scrollTo(0, 0); }}
+                      className={`drawer-item ${currentView === 'state-directory' ? 'active' : ''}`}
+                      onClick={() => { navigateTo('state-directory', null, null, false); window.scrollTo(0, 0); }}
                     >
-                      🌏 Maharashtra / महाराष्ट्र नोकऱ्या
+                      🌏 All State Jobs / सर्व राज्ये
+                    </button>
+                  </li>
+                  <li>
+                    <button
+                      className={`drawer-item ${currentView === 'state-view' && selectedStateCode === 'mh' ? 'active' : ''}`}
+                      onClick={() => { navigateTo('state-view', null, null, false, 'mh'); window.scrollTo(0, 0); }}
+                    >
+                      🚩 Maharashtra / महाराष्ट्र नोकऱ्या
+                    </button>
+                  </li>
+                  <li>
+                    <button
+                      className={`drawer-item ${currentView === 'state-view' && selectedStateCode === 'up' ? 'active' : ''}`}
+                      onClick={() => { navigateTo('state-view', null, null, false, 'up'); window.scrollTo(0, 0); }}
+                    >
+                      🚩 Uttar Pradesh / उत्तर प्रदेश
+                    </button>
+                  </li>
+                  <li>
+                    <button
+                      className={`drawer-item ${currentView === 'state-view' && selectedStateCode === 'bihar' ? 'active' : ''}`}
+                      onClick={() => { navigateTo('state-view', null, null, false, 'bihar'); window.scrollTo(0, 0); }}
+                    >
+                      🚩 Bihar / बिहार नोकऱ्या
                     </button>
                   </li>
                 </ul>

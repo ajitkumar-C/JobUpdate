@@ -1,8 +1,7 @@
 /**
  * src/config/states.ts
  * 
- * Central state registry. Adding a new state = add one block here + create its scraper.
- * The StateJobs component reads from this config automatically.
+ * Central state registry. Dynamic generation for 33 states.
  */
 
 export interface StateConfig {
@@ -30,22 +29,76 @@ export interface StateInfoBlock {
   body: string;
 }
 
-// ============================================================
-//  STATE REGISTRY — Add new states below
-// ============================================================
-export const STATES_CONFIG: Record<string, StateConfig> = {
+// ─── State Definitions & Local Names ──────────────────────────────────────────
 
-  mh: {
-    code: 'mh',
-    name: 'Maharashtra',
-    nameLocal: 'महाराष्ट्र',
-    dataUrl: '/states/mh/scraped-jobs.json',
-    heroGradient: 'linear-gradient(135deg, #FF6F00 0%, #E65100 40%, #1B5E20 100%)',
-    accentColor: '#FF6F00',
-    accentColorDark: '#E65100',
-    seoDescription: 'Maharashtra government job alerts — MPSC, Police Bharti, NHM, ZP 2026. महाराष्ट्र सरकारी नोकरी. Find all state-specific recruitments on Sarkari Aavedan.',
-    seoKeywords: 'Maharashtra sarkari naukri, MPSC bharti 2026, Maharashtra police recruitment, NHM Maharashtra jobs, ZP teacher bharti, anganwadi recruitment Maharashtra',
-    categories: [
+export const STATE_DETAILS: Record<string, { name: string; local: string; gradient?: string; accent?: string; darkAccent?: string }> = {
+  an:           { name: 'Andaman & Nicobar',   local: 'अंडमान व निकोबार' },
+  arunachal:    { name: 'Arunachal Pradesh',   local: 'अरुणाचल प्रदेश' },
+  andhra:       { name: 'Andhra Pradesh',      local: 'आंध्र प्रदेश',        gradient: 'linear-gradient(135deg, #0d47a1 0%, #1565c0 40%, #1b5e20 100%)', accent: '#1565c0', darkAccent: '#0d47a1' },
+  assam:        { name: 'Assam',               local: 'आसाम' },
+  bihar:        { name: 'Bihar',               local: 'बिहार',              gradient: 'linear-gradient(135deg, #1b5e20 0%, #2e7d32 40%, #ff6f00 100%)', accent: '#2e7d32', darkAccent: '#1b5e20' },
+  chandigarh:   { name: 'Chandigarh',          local: 'चंडीगढ़' },
+  chhattisgarh: { name: 'Chhattisgarh',        local: 'छत्तीसगढ़' },
+  damandiu:     { name: 'Daman & Diu',         local: 'दमन आणि दीव' },
+  dadar:        { name: 'Dadar & Nagar Haveli',local: 'दादरा व नगर हवेली' },
+  delhi:        { name: 'Delhi',               local: 'दिल्ली',             gradient: 'linear-gradient(135deg, #1565c0 0%, #0d47a1 50%, #e65100 100%)', accent: '#0d47a1', darkAccent: '#0a3578' },
+  goa:          { name: 'Goa',                 local: 'गोवा' },
+  gujarat:      { name: 'Gujarat',             local: 'गुजरात',             gradient: 'linear-gradient(135deg, #ff6f00 0%, #e65100 50%, #1b5e20 100%)', accent: '#e65100', darkAccent: '#c43d00' },
+  haryana:      { name: 'Haryana',             local: 'हरियाणा' },
+  hp:           { name: 'Himachal Pradesh',    local: 'हिमाचल प्रदेश' },
+  jk:           { name: 'Jammu & Kashmir',     local: 'जम्मू व काश्मीर' },
+  jharkhand:    { name: 'Jharkhand',           local: 'झारखंड' },
+  karnataka:    { name: 'Karnataka',           local: 'कर्नाटक',            gradient: 'linear-gradient(135deg, #7b1fa2 0%, #4a148c 50%, #e65100 100%)', accent: '#4a148c', darkAccent: '#38006b' },
+  kerala:       { name: 'Kerala',              local: 'केरल',               gradient: 'linear-gradient(135deg, #1b5e20 0%, #2e7d32 50%, #ffd600 100%)', accent: '#2e7d32', darkAccent: '#1b5e20' },
+  mizoram:      { name: 'Mizoram',             local: 'मिझोरम' },
+  mp:           { name: 'Madhya Pradesh',      local: 'मध्य प्रदेश',        gradient: 'linear-gradient(135deg, #1565c0 0%, #0d47a1 50%, #4caf50 100%)', accent: '#0d47a1', darkAccent: '#083372' },
+  mh:           { name: 'Maharashtra',         local: 'महाराष्ट्र',          gradient: 'linear-gradient(135deg, #ff6f00 0%, #e65100 40%, #1b5e20 100%)', accent: '#ff6f00', darkAccent: '#e65100' },
+  manipur:      { name: 'Manipur',             local: 'मणीपूर' },
+  megha:        { name: 'Meghalaya',           local: 'मेघालय' },
+  nagaland:     { name: 'Nagaland',            local: 'नागालँड' },
+  odisha:       { name: 'Odisha',              local: 'ओडिशा',              gradient: 'linear-gradient(135deg, #0d47a1 0%, #00838f 50%, #2e7d32 100%)', accent: '#00838f', darkAccent: '#005662' },
+  punjab:       { name: 'Punjab',              local: 'पंजाब' },
+  puducherry:   { name: 'Puducherry',          local: 'पुडुचेरी' },
+  rajasthan:    { name: 'Rajasthan',           local: 'राजस्थान',           gradient: 'linear-gradient(135deg, #e65100 0%, #bf360c 50%, #ffd600 100%)', accent: '#bf360c', darkAccent: '#8e24aa' },
+  sikkim:       { name: 'Sikkim',              local: 'सिक्कीम' },
+  tamilnadu:    { name: 'Tamil Nadu',          local: 'तमिळनाडू',            gradient: 'linear-gradient(135deg, #00838f 0%, #006064 50%, #4caf50 100%)', accent: '#006064', darkAccent: '#00363a' },
+  telangana:    { name: 'Telangana',           local: 'तेलंगणा' },
+  tripura:      { name: 'Tripura',             local: 'त्रिपुरा' },
+  up:           { name: 'Uttar Pradesh',       local: 'उत्तर प्रदेश',        gradient: 'linear-gradient(135deg, #ff6f00 0%, #e65100 50%, #1b5e20 100%)', accent: '#e65100', darkAccent: '#bf360c' },
+  uttarakhand:  { name: 'Uttarakhand',         local: 'उत्तराखंड' },
+  wb:           { name: 'West Bengal',         local: 'पश्चिम बंगाल' }
+};
+
+// Default generic categories for state-wise listings
+const DEFAULT_STATE_CATEGORIES = [
+  { id: 'all', label: 'सर्व / All', icon: '🌏' },
+  { id: 'Latest Jobs', label: 'Latest Jobs', icon: '📚' },
+  { id: 'Admit Card', label: 'Admit Card', icon: '🛡️' },
+  { id: 'Result', label: 'Result', icon: '🏆' },
+  { id: 'Others', label: 'इतर नोकऱ्या', icon: '🏢' }
+];
+
+// Fallback details if a state lacks custom overrides
+const DEFAULT_GRADIENT = 'linear-gradient(135deg, #0d47a1 0%, #1565c0 50%, #1b5e20 100%)';
+const DEFAULT_ACCENT = '#1565c0';
+const DEFAULT_DARK_ACCENT = '#0d47a1';
+
+// Generate dynamic states configuration dictionary
+export const STATES_CONFIG: Record<string, StateConfig> = {};
+
+Object.entries(STATE_DETAILS).forEach(([code, details]) => {
+  STATES_CONFIG[code] = {
+    code,
+    name: details.name,
+    nameLocal: details.local,
+    dataUrl: `/states/${code}/scraped-jobs.json`,
+    heroGradient: details.gradient || DEFAULT_GRADIENT,
+    accentColor: details.accent || DEFAULT_ACCENT,
+    accentColorDark: details.darkAccent || DEFAULT_DARK_ACCENT,
+    seoDescription: `${details.name} government job alerts — State Public Service Commission (PSC), Police Bharti, Health Department, and local municipal corporation recruitments in ${details.name} 2026.`,
+    seoKeywords: `${details.name} sarkari naukri, ${details.name} recruitment 2026, ${details.name} govt jobs, state job alerts`,
+    // If Maharashtra, keep MPSC specific categories. Otherwise use default category chips.
+    categories: code === 'mh' ? [
       { id: 'all',                      label: 'सर्व / All',             icon: '🌏' },
       { id: 'MPSC Jobs',                label: 'MPSC भरती',              icon: '🏛️' },
       { id: 'Maharashtra Police Jobs',  label: 'पोलीस भरती',             icon: '🛡️' },
@@ -58,44 +111,20 @@ export const STATES_CONFIG: Record<string, StateConfig> = {
       { id: 'Defence Jobs',             label: 'संरक्षण',                icon: '🎖️' },
       { id: 'Research & University Jobs',label: 'संशोधन / विद्यापीठ',   icon: '🔬' },
       { id: 'Central Government Jobs',  label: 'केंद्र सरकार',           icon: '🏢' },
-      { id: 'MH Govt Jobs',             label: 'MH सरकारी',              icon: '🌏' },
-    ],
+      { id: 'MH Govt Jobs',             label: 'MH सरकारी',              icon: '🌏' }
+    ] : DEFAULT_STATE_CATEGORIES,
     infoBlocks: [
       {
-        title: '🏛️ MPSC Recruitment 2026 (एमपीएससी भरती)',
-        body: 'MPSC Group 1 covers 100+ Class A/B posts (Deputy Collector, DSP, Tahsildar). Group 2 includes 800+ posts (PSI, STI, ASO). Selection: Prelims (GS + CSAT) → Mains → Interview. Visit mpsc.gov.in for official syllabus.'
+        title: `🏛️ State Recruitments in ${details.name}`,
+        body: `Find the latest updates on state department recruitments, exams, and results for ${details.name} government job openings 2026. Verified from official state bulletins.`
       },
       {
-        title: '🛡️ Maharashtra Police Bharti 2026',
-        body: 'Constable & PSI bharti released via SLPRB. Selection: Written Exam → PMT → PET → Medical. Age: General 18–28 yrs | SC/ST +5 | OBC/VJNT +3. Visit mahapolice.gov.in.'
-      },
-      {
-        title: '🏥 NHM Maharashtra 2026 (आरोग्य नोकऱ्या)',
-        body: 'NHM offers Staff Nurse, ANM, CHO, Lab Technician, Medical Officer posts across all 36 districts. Apply at nhmmaharashtra.gov.in.'
-      },
-      {
-        title: '📚 ZP Teacher Bharti 2026 (शिक्षक भरती)',
-        body: 'Zilla Parishad recruits Primary & Upper Primary teachers via ZPTC. TET/CTET qualification required. Apply at respective district ZP website or mahazp.in.'
+        title: `📍 Local District Openings`,
+        body: `Access district-wise notifications, municipal corporations vacancies, and contract-based openings in ${details.name}.`
       }
     ]
-  },
-
-  // ─── Future state example (uncomment and fill to add UP) ───────────────
-  // up: {
-  //   code: 'up',
-  //   name: 'Uttar Pradesh',
-  //   nameLocal: 'उत्तर प्रदेश',
-  //   dataUrl: '/states/up/scraped-jobs.json',
-  //   heroGradient: 'linear-gradient(135deg, #1565C0 0%, #0D47A1 60%, #4CAF50 100%)',
-  //   accentColor: '#1565C0',
-  //   accentColorDark: '#0D47A1',
-  //   seoDescription: 'Uttar Pradesh sarkari naukri 2026 — UPPSC, UP Police, UPSSSC recruitment.',
-  //   seoKeywords: 'UP sarkari naukri, UPPSC bharti 2026, UP police recruitment, UPSSSC jobs',
-  //   categories: [ ... ],
-  //   infoBlocks: [ ... ]
-  // },
-
-};
+  };
+});
 
 /** Helper: get all registered state codes */
 export const getStateCodes = () => Object.keys(STATES_CONFIG);

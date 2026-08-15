@@ -746,14 +746,14 @@ export const App: React.FC = () => {
               </ul>
 
               <div style={{ marginTop: '2rem', borderTop: '1px solid var(--border-color)', paddingTop: '1.5rem' }}>
-                <h3 className="drawer-section-title">State-Wise Jobs / राज्य भरती</h3>
+                <h3 className="drawer-section-title">State-Wise Jobs</h3>
                 <ul className="drawer-list">
                   <li>
                     <button
                       className={`drawer-item ${currentView === 'state-directory' ? 'active' : ''}`}
                       onClick={() => { navigateTo('state-directory', null, null, false); window.scrollTo(0, 0); }}
                     >
-                      🌏 All State Jobs / सर्व राज्ये
+                      🌏 All State Jobs
                     </button>
                   </li>
                   <li>
@@ -761,7 +761,7 @@ export const App: React.FC = () => {
                       className={`drawer-item ${currentView === 'state-view' && selectedStateCode === 'mh' ? 'active' : ''}`}
                       onClick={() => { navigateTo('state-view', null, null, false, 'mh'); window.scrollTo(0, 0); }}
                     >
-                      🚩 Maharashtra / महाराष्ट्र नोकऱ्या
+                      🚩 Maharashtra Jobs
                     </button>
                   </li>
                   <li>
@@ -769,7 +769,7 @@ export const App: React.FC = () => {
                       className={`drawer-item ${currentView === 'state-view' && selectedStateCode === 'up' ? 'active' : ''}`}
                       onClick={() => { navigateTo('state-view', null, null, false, 'up'); window.scrollTo(0, 0); }}
                     >
-                      🚩 Uttar Pradesh / उत्तर प्रदेश
+                      🚩 Uttar Pradesh
                     </button>
                   </li>
                   <li>
@@ -777,7 +777,7 @@ export const App: React.FC = () => {
                       className={`drawer-item ${currentView === 'state-view' && selectedStateCode === 'bihar' ? 'active' : ''}`}
                       onClick={() => { navigateTo('state-view', null, null, false, 'bihar'); window.scrollTo(0, 0); }}
                     >
-                      🚩 Bihar / बिहार नोकऱ्या
+                      🚩 Bihar Jobs
                     </button>
                   </li>
                 </ul>
@@ -787,16 +787,16 @@ export const App: React.FC = () => {
                 <h3 className="drawer-section-title">Information Pages</h3>
                 <ul className="drawer-list">
                   <li>
-                    <button className="drawer-item" onClick={() => { navigateTo('about', null, null, false); window.scrollTo(0, 0); }}>About Us / हमारे बारे में</button>
+                    <button className="drawer-item" onClick={() => { navigateTo('about', null, null, false); window.scrollTo(0, 0); }}>About Us</button>
                   </li>
                   <li>
-                    <button className="drawer-item" onClick={() => { navigateTo('contact', null, null, false); window.scrollTo(0, 0); }}>Contact / संपर्क करें</button>
+                    <button className="drawer-item" onClick={() => { navigateTo('contact', null, null, false); window.scrollTo(0, 0); }}>Contact</button>
                   </li>
                   <li>
-                    <button className="drawer-item" onClick={() => { navigateTo('disclaimer', null, null, false); window.scrollTo(0, 0); }}>Disclaimer / अस्वीकरण</button>
+                    <button className="drawer-item" onClick={() => { navigateTo('disclaimer', null, null, false); window.scrollTo(0, 0); }}>Disclaimer</button>
                   </li>
                   <li>
-                    <button className="drawer-item" onClick={() => { navigateTo('privacy', null, null, false); window.scrollTo(0, 0); }}>Privacy Policy / गोपनीयता</button>
+                    <button className="drawer-item" onClick={() => { navigateTo('privacy', null, null, false); window.scrollTo(0, 0); }}>Privacy Policy</button>
                   </li>
                 </ul>
               </div>

@@ -31,9 +31,9 @@ interface StateJobsProps {
 // ─── Detail Panel Component ───────────────────────────────────────────────────
 
 const JobDetailPanel: React.FC<{ job: StateJob; stateCode: string; accentColor: string; accentDark: string; onClose: () => void }> = ({
-  job, stateCode, accentColor, accentDark, onClose
+  job, stateCode: _stateCode, accentColor, accentDark, onClose
 }) => {
-  const isMH = stateCode === 'mh';
+  const isMH = false; // Forced English for clean UX
   // Determine which links are available
   const hasOfficialSite = !!job.officialWebsite;
   const hasNotification = !!job.notificationLink;
@@ -173,7 +173,7 @@ const JobDetailPanel: React.FC<{ job: StateJob; stateCode: string; accentColor: 
 
 export const StateJobs: React.FC<StateJobsProps> = ({ stateCode }) => {
   const config = getStateConfig(stateCode);
-  const isMH = stateCode === 'mh';
+  const isMH = false; // Forced English for clean UX
 
   const [jobs, setJobs] = useState<StateJob[]>([]);
   const [loading, setLoading] = useState(true);

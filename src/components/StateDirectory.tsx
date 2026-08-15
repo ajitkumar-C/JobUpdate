@@ -12,8 +12,7 @@ export const StateDirectory: React.FC<StateDirectoryProps> = ({ onSelectState })
   const statesList = Object.values(STATES_CONFIG);
 
   const filtered = statesList.filter(s =>
-    s.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
-    s.nameLocal.toLowerCase().includes(searchTerm.toLowerCase())
+    s.name.toLowerCase().includes(searchTerm.toLowerCase())
   );
 
   return (
@@ -24,7 +23,7 @@ export const StateDirectory: React.FC<StateDirectoryProps> = ({ onSelectState })
           <span className="state-dir-badge">🌏 India State-Wise Recruitment</span>
           <h1 className="state-dir-title">
             State Government Jobs 2026
-            <span className="state-dir-title-sub">राज्यनिहाय सरकारी नोकऱ्या व भरती</span>
+            <span className="state-dir-title-sub">Find active recruitments state-wise</span>
           </h1>
           <p className="state-dir-desc">
             Direct access to official recruitment boards across 33 States and Union Territories. 
@@ -36,7 +35,7 @@ export const StateDirectory: React.FC<StateDirectoryProps> = ({ onSelectState })
             <Search className="search-icon" size={18} />
             <input
               type="text"
-              placeholder="राज्य शोधा / Search state (e.g. Maharashtra, Bihar, Delhi...)"
+              placeholder="Search state (e.g. Maharashtra, Bihar, Delhi...)"
               value={searchTerm}
               onChange={e => setSearchTerm(e.target.value)}
               className="state-dir-search-input"
@@ -48,12 +47,12 @@ export const StateDirectory: React.FC<StateDirectoryProps> = ({ onSelectState })
       {/* Directory Grid */}
       <div className="state-dir-body">
         <h2 className="state-dir-section-title">
-          📍 Select State / राज्य निवडा
+          📍 Select State
         </h2>
 
         {filtered.length === 0 ? (
           <div className="state-dir-empty">
-            No states match your search. कृपया दुसरा शब्द टाइप करा.
+            No states match your search.
           </div>
         ) : (
           <div className="state-dir-grid">
@@ -67,8 +66,7 @@ export const StateDirectory: React.FC<StateDirectoryProps> = ({ onSelectState })
                 <div className="state-dir-card-header">
                   <span className="state-dir-card-flag">🌏</span>
                   <div className="state-dir-card-names">
-                    <span className="state-dir-card-name-local">{state.nameLocal}</span>
-                    <span className="state-dir-card-name-eng">{state.name}</span>
+                    <span className="state-dir-card-name-local">{state.name}</span>
                   </div>
                 </div>
                 
@@ -79,7 +77,7 @@ export const StateDirectory: React.FC<StateDirectoryProps> = ({ onSelectState })
                 </div>
 
                 <div className="state-dir-card-footer" style={{ color: state.accentColor }}>
-                  <span>View Jobs / नोकऱ्या पहा</span>
+                  <span>View Jobs</span>
                   <ArrowRight size={14} />
                 </div>
               </div>

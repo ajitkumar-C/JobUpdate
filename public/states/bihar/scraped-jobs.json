@@ -9,12 +9,44 @@
     "district": "State Level",
     "vacancies": "100",
     "lastDate": "11-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/dlsa-sheikhpura-para-legal-volunteer-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/dlsa-sheikhpura-para-legal-volunteer-recruitment-2026/",
+    "officialWebsite": "https://sheikhpura.dcourts.gov.in/",
+    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec045421e013565f7f1afa0cfe8ad87a/uploads/2026/08/20260811100.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/dlsa-sheikhpura-para-legal-volunteer-recruitment-2026/",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Application Start Date",
+        "date": "12/08/2026"
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "11/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Para Legal Volunteer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Obtain the application form from the District Legal Services Authority office or management office.",
+      "Fill in the application form as per the prescribed format.",
+      "Send the completed application by registered post or deliver it by hand to: Secretary, District Legal Services Authority, Civil Court, Sheikhpura, Pin Code – 811105.",
+      "Applications must be submitted between 12.08.2026 and 11.09.2026 by 05:00 PM.",
+      "Previously selected and working Para Legal Volunteers must also re-apply and may be given preference."
+    ]
   },
   {
     "id": "bihar-aiims patna-project-technical-support-1",
@@ -77,12 +109,60 @@
     "district": "State Level",
     "vacancies": "1538",
     "lastDate": "27-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
+    "officialWebsite": "https://sbi.bank.in",
+    "notificationLink": "https://sbi.bank.in/webfiles/uploads/files_2627/08/JA_2026_Backlog_Detailed_Advt_ENG.pdf",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/sbijasrdjl26/",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "SC/ST/PwBD/XS/DXS",
+        "fee": "Nil"
+      },
+      {
+        "category": "OBC",
+        "fee": "Rs. 750/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Registration Start Date",
+        "date": "07/08/2026"
+      },
+      {
+        "event": "Online Registration End Date",
+        "date": "27/08/2026"
+      },
+      {
+        "event": "Preliminary Examination (Tentative) (September 2026)",
+        "date": ""
+      },
+      {
+        "event": "Main Examination (Tentative) (October/November 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Junior Associate (Customer Support & Sales) - Andhra Pradesh",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Bank’s official website: https://sbi.bank.in/web/careers/current-openings",
+      "Click on the advertisement for ‘Special Recruitment Drive for Junior Associates 2026’.",
+      "Scan and keep ready your photograph, signature, left hand thumb impression, and handwritten declaration as per specifications.",
+      "Fill in the Online Application Form carefully with all required details.",
+      "Upload the scanned photograph, signature, left thumb impression, and handwritten declaration.",
+      "Submit the application form. Note: Corrections will not be allowed after final submission.",
+      "Pay the application fee online using Debit Card / Credit Card / Internet Banking.",
+      "On successful payment, an e-receipt and application form with fee details will be generated. Print and retain for records.",
+      "Download and retain the system-generated online application form printout after submission."
+    ]
   },
   {
     "id": "bihar-shs bihar-specialist-doctors-obstetrician-amp-gynaecologist-",
@@ -94,12 +174,86 @@
     "district": "State Level",
     "vacancies": "450",
     "lastDate": "21-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/shs-bihar-specialist-doctor-recruitment-2026-2/",
-    "notificationLink": "https://govtjobguru.in/jobs/shs-bihar-specialist-doctor-recruitment-2026-2/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/shs-bihar-specialist-doctor-recruitment-2026-2/",
+    "officialWebsite": "https://shs.bihar.gov.in",
+    "notificationLink": "https://shs.bihar.gov.in/shs/advertisement/1785991666.pdf",
+    "applyOnlineLink": "https://healthhrshs.bihar.gov.in/specialistdoctor0326/",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Starting Date for Apply Online",
+        "date": "07/07/2026"
+      },
+      {
+        "event": "Closing Date for Apply Online",
+        "date": "21/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Obstetrician & Gynaecologist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Paediatrician",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Anaesthetist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Physician (MD Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "General Surgeon",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Orthopaedic Surgeon",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website of State Health Society, Bihar: https://shs.bihar.gov.in/",
+      "Navigate to the ‘HUMAN RESOURCE’ section and click on ‘Advertisement’ page.",
+      "Read the advertisement, guidelines, TOR, and other instructions carefully before applying.",
+      "Click on the online application link provided on the advertisement page.",
+      "Fill in all required details carefully and accurately in the online application form.",
+      "Upload a recent passport-size colour photograph (taken within 3 months, white background, clear face with open eyes, no dark glasses or cap) in jpg/jpeg/png format and signature in jpg/jpeg/png format.",
+      "Mention all certificate/mark sheet numbers and issue dates in the designated columns.",
+      "Select up to 3 preferred districts for posting in the online application.",
+      "Submit the online application form before the last date (21/08/2026 by 06:00 PM).",
+      "Download and print a copy of the submitted application form and keep it safe until the recruitment process is complete.",
+      "Print 5 copies of the passport-size photograph uploaded in the online application and keep them safe.",
+      "Do not submit multiple applications; duplicate applications may lead to cancellation of candidature."
+    ]
   },
   {
     "id": "bihar-aiims patna-srf-ayurveda-project-research-scientist-i-medical-",
@@ -179,12 +333,111 @@
     "district": "State Level",
     "vacancies": "21",
     "lastDate": "26-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/sjvn-executive-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/sjvn-executive-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/sjvn-executive-recruitment-2026/",
+    "officialWebsite": "https://www.sjvn.nic.in",
+    "notificationLink": "https://sjvn.nic.in/sites/default/files/2026-07/Detailed%20Advt%20127.pdf",
+    "applyOnlineLink": "https://recruitment.sjvn.co.in/ErecruitLogin/Login.jsp",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General/OBC (NCL)/EWS (Non-Exempted)",
+        "fee": "Rs. 500 + GST @18% (Total Rs. 590)"
+      },
+      {
+        "category": "SC/ST/PwBD/ESM/EWS (Exempted)",
+        "fee": "Nil"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Commencement of Online Registration",
+        "date": "05/08/2026"
+      },
+      {
+        "event": "Closing Date for Submitting Applications",
+        "date": "26/08/2026"
+      },
+      {
+        "event": "Last Date for Receipt of Application Print Out at SJVN Office",
+        "date": "15/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Chief General Manager (E8a) - Electrical/Mechanical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager (E4) - Mechanical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager (E4) - Electrical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager (E4) - C&I",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager (E4) - Chemical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Engineer (E2) - Mechanical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Engineer (E2) - Electrical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Engineer (E2) - C&I",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Engineer (E2) - Chemical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit SJVN official website www.sjvn.nic.in and register in the Career section.",
+      "Ensure you have a valid Email ID and Mobile number before registering.",
+      "Fill up all details in the online application form carefully, including qualification and experience details.",
+      "Upload recent passport size color photograph (max 50 KB, .jpg) and signature in Blue/Black Ink (max 50 KB, .jpg).",
+      "Pay the non-refundable application fee of Rs. 500 plus GST @18% through online mode (SC/ST/PwBD/ESM/EWS candidates are exempted).",
+      "After applying online, take a printout of the Application form (Preview).",
+      "Send the printout along with Payment Receipt, Experience details (clearly stating pay scale &amp; relevant experience), and certificates in support of Educational/Professional Qualification, Age, Category, Experience, etc. to: O/o DGM (HR/Recruitment), SJVN Limited, Shakti Sadan, Corporate Head Quarters, Shanan Shimla, HP-171006 by 15/09/2026.",
+      "For any queries, send email to recruitment@sjvn.nic.in with “Advt. No.127/2026 and Designation” in the subject line."
+    ]
   },
   {
     "id": "bihar-railtel-graduate-apprentice-engineer-diploma-apprentice-en",
@@ -196,12 +449,53 @@
     "district": "State Level",
     "vacancies": "40",
     "lastDate": "27-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
+    "officialWebsite": "https://www.railtelindia.com",
+    "notificationLink": "https://www.railtel.in/images/careers/DocScanner%2028-Jul-2026%2004-10%20PM.pdf",
+    "applyOnlineLink": "https://nats.education.gov.in",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "28/07/2026"
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "27/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Graduate Apprentice Engineer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice Engineer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the NATS 2.0 portal at https://nats.education.gov.in.",
+      "If not already registered, register yourself on the NATS 2.0 portal before applying.",
+      "Follow the guidelines given in the student manual of NATS available at the portal (web link: https://nats.education.gov.in/assets/manual/establishment_user_manual.pdf).",
+      "Fill in the online application form with accurate details.",
+      "Upload the certificate showing your CGPA or percentage in the ‘Upload Certificate’ column. If only CGPA is mentioned, also upload the CGPA to percentage conversion formula/certificate along with the undertaking (Annexure 1) as a single PDF file of size less than 1 MB.",
+      "Submit the application online before the last date of 27.08.2026.",
+      "No other mode of application will be entertained."
+    ]
   },
   {
     "id": "bihar-dcpu jamui-support-person",
@@ -230,12 +524,53 @@
     "district": "State Level",
     "vacancies": "140",
     "lastDate": "Update",
-    "officialWebsite": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
+    "officialWebsite": "https://www.aai.aero/",
+    "notificationLink": "https://www.aai.aero/sites/default/files/examdashboard_advertisement/notification%20of%20apprentices%202026-27%20Eastern%20Region.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "28/07/2026"
+      },
+      {
+        "event": "Last Date to Apply (Update Soon)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Graduate Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "ITI Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Graduate/Diploma candidates must register on the NATS portal: https://nats.education.gov.in",
+      "ITI candidates must register on the NAPS portal: https://www.apprenticeshipindia.gov.in",
+      "After registration, search for the concerned AAI Establishment ID corresponding to your preferred location.",
+      "Submit the online application through the respective portal.",
+      "Applications submitted through any other mode shall not be accepted."
+    ]
   },
   {
     "id": "bihar-patna high court-ex-cadre-assistant",
@@ -247,12 +582,95 @@
     "district": "State Level",
     "vacancies": "68",
     "lastDate": "27-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/patna-high-court-assistant-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/patna-high-court-assistant-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/patna-high-court-assistant-recruitment-2026/",
+    "officialWebsite": "https://patnahighcourt.gov.in",
+    "notificationLink": "https://patnahighcourt.gov.in/getfile/MTA4NTk=-9ZxNt--ak1--rrvWg=",
+    "applyOnlineLink": "https://cdn.digialm.com/EForms/configuredHtml/1149/101044/Index.html",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Unreserved / BC / EBC / EWS",
+        "fee": "₹1500/-"
+      },
+      {
+        "category": "SC / ST / Locomotor Disabled",
+        "fee": "₹750/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Commencement of Online Application Submission",
+        "date": "28/07/2026"
+      },
+      {
+        "event": "Last Date for Online Application Submission",
+        "date": "27/08/2026"
+      },
+      {
+        "event": "Last Date for Online Fee Payment",
+        "date": "30/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Ex-Cadre Assistant (Unreserved)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Ex-Cadre Assistant (Scheduled Castes - SC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Ex-Cadre Assistant (Scheduled Tribes - ST)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Ex-Cadre Assistant (Extremely Backward Classes - EBC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Ex-Cadre Assistant (Backward Classes - BC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Ex-Cadre Assistant (Economically Weaker Sections - EWS)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website of Patna High Court at https://patnahighcourt.gov.in.",
+      "Click on the ‘Recruitments’ tab in the left-hand menu column.",
+      "Click on the link ‘Ex-Cadre Assistant Recruitment Examination, 2026’.",
+      "Click on ‘Apply Online’ and then click on ‘New Registration’.",
+      "Fill in your Full Name, Father’s Name, Mother’s Name, Gender, Reservation Category, Date of Birth, Mobile Number, Email ID etc. and submit the registration form.",
+      "Note the Registration Number and Password sent via SMS/Email and login.",
+      "Fill in Personal Details and click ‘Submit’, then fill in Education Details and click ‘Submit’.",
+      "Capture your live photograph as per the instructions provided.",
+      "Upload all required documents: Scanned signature, Matriculation Certificate &amp; Marksheet, Graduation Certificate &amp; Marksheet, Computer Diploma/Certificate, NOC (if applicable), Identity Proof, Domicile Certificate (if applicable), Caste/NCL/EWS Certificate (if applicable), Disability Certificate (if applicable), and other relevant documents.",
+      "Preview the application form on the Print Preview Page, verify all details, check the checkbox, and proceed to payment.",
+      "Pay the application fee online (link active from 28.07.2026 to 27.08.2026, and again on 29.08.2026 and 30.08.2026).",
+      "After payment, the application form is finally submitted. No changes are allowed after payment.",
+      "Take a printout of the finally submitted online application form with payment details and retain it for future reference."
+    ]
   },
   {
     "id": "bihar-btsc-technician-bench-chemist-",
@@ -264,12 +682,49 @@
     "district": "State Level",
     "vacancies": "10",
     "lastDate": "23-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/btsc-technician-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/btsc-technician-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/btsc-technician-recruitment-2026/",
+    "officialWebsite": "https://btsc.bihar.gov.in",
+    "notificationLink": "https://btsc.bihar.gov.in/sites/default/files/Advertisement/26_2026.pdf",
+    "applyOnlineLink": "https://btsc.pariksha.nic.in/Agencies.aspx?KZhCrm9B4QPkl0gO2rAMuw==",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General/Unreserved",
+        "fee": "Rs. 100/-"
+      },
+      {
+        "category": "SC/ST/EWS/Women/PwD (Bihar domicile)",
+        "fee": "Rs. 85/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Application Start Date",
+        "date": "24/07/2026"
+      },
+      {
+        "event": "Online Application Last Date",
+        "date": "23/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Technician (Bench Chemist)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website www.btsc.bihar.gov.in.",
+      "Register and fill the Online Application Form between 24.07.2026 and 23.08.2026.",
+      "Upload required documents including Matriculation certificate, Nursing qualification certificate, registration certificate, caste/category certificate, disability certificate (if applicable), and photograph.",
+      "Pay the application fee online (through online mode only).",
+      "Submit the form before the last date 23.08.2026.",
+      "Take a printout of the submitted application for future reference."
+    ]
   },
   {
     "id": "bihar-btsc-assistant-bacteriologist-technician",
@@ -315,12 +770,109 @@
     "district": "State Level",
     "vacancies": "6777",
     "lastDate": "19-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/railway-nfr-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/railway-nfr-apprentice-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/railway-nfr-apprentice-recruitment-2026/",
+    "officialWebsite": "https://www.nfr.indianrailways.gov.in",
+    "notificationLink": "https://nfr.indianrailways.gov.in/cris//uploads/files/1784037710106-Notification%20for%20Engagement%20of%20Trainees%20under%20Act%20Apprenticeship%202026%20-%20Dated%2014-07-2026.pdf",
+    "applyOnlineLink": "https://app.nfr-recruitment.in/#/auth/landing",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General/OBC/EWS (Male)",
+        "fee": "₹100/-"
+      },
+      {
+        "category": "SC/ST/PwBD/EBC/Women",
+        "fee": "Exempted"
+      },
+      {
+        "category": "Application Modification Fee",
+        "fee": "₹50/- per occasion"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Date of Publication of Notification",
+        "date": "16/07/2026"
+      },
+      {
+        "event": "Opening Date for Online Application",
+        "date": "20/07/2026"
+      },
+      {
+        "event": "Closing Date for Online Application",
+        "date": "19/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Act Apprentice &ndash; Katihar (KIR) & Tindharia (TDH) Workshop",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Act Apprentice &ndash; Alipurduar (APDJ) Division",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Act Apprentice &ndash; Rangiya (RNY) Division",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Act Apprentice &ndash; Lumding (LMG) Division",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Act Apprentice &ndash; Tinsukia (TSK) Division",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Act Apprentice &ndash; New Bongaigaon Workshop (NBQS) & Engineering Workshop (EWS/BNGN)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Act Apprentice &ndash; Dibrugarh Workshop (DBWS)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Act Apprentice &ndash; Headquarter (HQ)/Maligaon",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official NFR website: www.nfr.indianrailways.gov.in",
+      "Navigate to: General Info &rarr; Departments &rarr; Personnel &rarr; Act Apprentice Notification",
+      "Register yourself and then log in to the portal.",
+      "Fill in the ONLINE application form carefully, indicating Units of choice in order of preference.",
+      "Upload all mandatory documents: Mark sheet &amp; Pass Certificate of Matriculation (Class X), ITI Provisional Certificate/NTC issued by NCVT/SCVT, Final ITI mark sheet, and other applicable certificates (caste, disability, EWS, etc.).",
+      "Pay the non-refundable application fee of ₹100/- online through the payment gateway (SC/ST/PwBD/EBC/Women candidates are exempted).",
+      "After successful payment, complete the remaining application process and download the application form.",
+      "Take a printout of the submitted online application for future reference.",
+      "Note: Only ONE application per candidate is allowed. Submission of more than one application will lead to disqualification."
+    ]
   },
   {
     "id": "bihar-bpssc-forest-range-officer",
@@ -332,12 +884,53 @@
     "district": "State Level",
     "vacancies": "16",
     "lastDate": "16-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/bpssc-bihar-forest-range-officer-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/bpssc-bihar-forest-range-officer-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/bpssc-bihar-forest-range-officer-recruitment-2026/",
+    "officialWebsite": "https://bpssc.bihar.gov.in",
+    "notificationLink": "https://bpssc.bihar.gov.in/Notices/EFC/Advt.%20No-10-2026%20FRO.pdf",
+    "applyOnlineLink": "https://apply-bpssc.com/bpssc_ro_v10_2026/applicationIndex",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "All Categories (Male/Female/Third Gender)",
+        "fee": "Rs. 100/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Application Start Date",
+        "date": "16/07/2026"
+      },
+      {
+        "event": "Online Application Last Date",
+        "date": "16/08/2026"
+      },
+      {
+        "event": "Cut-off Date for Age/Qualification",
+        "date": "01/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Forest Range Officer (Vanon ke Kshetra Adhikari)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website: https://bpssc.bihar.gov.in and go to the ‘Forest Dept.’ tab.",
+      "Click on the link related to Advt. No. 10/2026.",
+      "Register with a valid mobile number and email ID. Registration ID and Password will be sent via SMS/email.",
+      "Complete Part 1 of the online application (registration details: name, nationality, mobile, email, domicile, reservation category, gender, date of birth) and make the payment online.",
+      "Login with the Registration ID and Password to fill Part 2 of the application (father/husband name, mother’s name, address, educational qualification, etc.).",
+      "Upload a recent colour photograph (white background, 15-25 KB, .jpg/.jpeg/.gif) and signature in English and Hindi (black or blue ink, white background, 15-25 KB, .jpg/.jpeg/.gif).",
+      "Review all details carefully, then click ‘Confirm’ and ‘Submit’ the application.",
+      "After submission, a confirmation message will be sent to the registered mobile/email. Print the Acknowledgement on A4 size paper and keep it safe for future reference.",
+      "Application fee must be paid online (Net Banking / Credit Card / Rupay Debit Card). Fee once paid is non-refundable.",
+      "Only one online application per candidate is allowed. Multiple applications will be rejected."
+    ]
   },
   {
     "id": "bihar-aadhaar seva kendra under csc-supervisor-operator",
@@ -349,11 +942,110 @@
     "district": "State Level",
     "vacancies": "125",
     "lastDate": "20-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/aadhaar-supervisor-operator-bharti-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/aadhaar-supervisor-operator-bharti-2026/",
+    "officialWebsite": "https://csc.gov.in/",
+    "notificationLink": "https://career.csccloud.in/job-post/MTMzNA==",
     "applyOnlineLink": "https://govtjobguru.in/jobs/aadhaar-supervisor-operator-bharti-2026/",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Closing Date for Apply Online",
+        "date": "20/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Aadhaar Supervisor/Operator - Maharashtra",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aadhaar Supervisor/Operator - Madhya Pradesh",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aadhaar Supervisor/Operator - Chhattisgarh",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aadhaar Supervisor/Operator - Bihar",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aadhaar Supervisor/Operator - Uttar Pradesh",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aadhaar Supervisor/Operator - Karnataka",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aadhaar Supervisor/Operator - Goa",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aadhaar Supervisor/Operator - Haryana",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aadhaar Supervisor/Operator - Madhya Pradesh",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aadhaar Supervisor/Operator - Odisha",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aadhaar Supervisor/Operator - Rajasthan",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aadhaar Supervisor/Operator - Punjab",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": []
   }
 ]

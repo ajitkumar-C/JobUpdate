@@ -9,12 +9,155 @@
     "district": "State Level",
     "vacancies": "205",
     "lastDate": "16-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/aai-nr-apprentice-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/aai-nr-apprentice-2026/",
+    "officialWebsite": "https://www.aai.aero",
+    "notificationLink": "https://www.aai.aero/sites/default/files/examdashboard_advertisement/Final%20Advt.%20App.%202026-27-RHQ-NR.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-nr-apprentice-2026/",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "All Categories",
+        "fee": "No Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date of Application",
+        "date": "16/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Civil Engg. (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Civil Engg. (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electrical Engg. (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electrical Engg. (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electronics (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electronics (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Computer Science/IT (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Computer Science/IT (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aeronautical/Aerospace/Aircraft Maintenance (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aeronautical/Aerospace/Aircraft Maintenance (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Architecture (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Architecture (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Mechanical/Automobile (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Mechanical/Automobile (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "BCA/B.Com (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "COPA/Steno (ITI)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Computer Hardware & Networking (ITI)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit BOAT’s/RDAT’s web portal: www.nats.education.gov.in (for Graduate/Diploma Apprentices) or www.apprenticeshipindia.org (for ITI Trade Apprentices).",
+      "Register yourself on the concerned portal (NATS/NAPS) prior to applying for apprenticeship training in AAI.",
+      "Find establishment: Airports Authority of India &ndash; RHQ NR, New Delhi (NDLSWC000002(BOAT) / E05200700101(NAPS)) and click on the Apply button.",
+      "Complete your profile with all required details including educational qualifications, communication details, and training preferences.",
+      "Upload required documents including qualifying degree/provisional certificate in PDF format.",
+      "After successful application, the portal will display the message: ‘Successfully applied for the training position. Based on availability, you will be contacted by the establishment.’",
+      "Candidates applying for more than one discipline will not be considered and their application will be rejected.",
+      "No Application Fee is being charged."
+    ]
   },
   {
     "id": "hp-aiims bilaspur-senior-project-assistant",
@@ -94,12 +237,86 @@
     "district": "State Level",
     "vacancies": "388",
     "lastDate": "10-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/hp-high-court-recruitment-2026-apply-online-for-388-clerk-peon-steno-other-posts/",
-    "notificationLink": "https://govtjobguru.in/jobs/hp-high-court-recruitment-2026-apply-online-for-388-clerk-peon-steno-other-posts/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/hp-high-court-recruitment-2026-apply-online-for-388-clerk-peon-steno-other-posts/",
+    "officialWebsite": "https://highcourt.hp.gov.in/",
+    "notificationLink": "https://highcourt.hp.gov.in/uploads/recruitment/items/item_1786094343_5963.pdf",
+    "applyOnlineLink": "https://www.hphcrecruitment.in/login",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Unreserved (UR)",
+        "fee": "Rs. 450/- (including GST)"
+      },
+      {
+        "category": "Reserved Categories of HP (SC, ST, OBC, EWS, PH)",
+        "fee": "Rs. 300/- (including GST)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date of Online Application",
+        "date": "10/08/2026"
+      },
+      {
+        "event": "Closing Date of Online Application & Fee",
+        "date": "10/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Court Manager (Group-B)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Clerk (Group-C)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Stenographer Grade-III (Group-C)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Driver (Group-C)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Process Server (Group-D)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Peon/Orderly/Chowkidar/Safai Karamchari/Chowkidar-cum-Safai Karamchari etc. (Group-D)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official recruitment portal: https://www.hphcrecruitment.in/login or High Court website: https://highcourt.hp.gov.in/",
+      "Read the R&amp;P Rules, 2022 and advertisement notice carefully before applying.",
+      "Register and fill the Online Recruitment Application (ORA) form with accurate details.",
+      "Upload scanned copies of required documents: coloured photograph (20-50 KB, JPG/JPEG/PNG), signature (10-20 KB, JPG/JPEG/PNG), Matric Certificate (100-500 KB, JPG/JPEG/PNG), ID Proof (100-500 KB, JPG/JPEG/PNG), and other certificates/documents (100 KB to 2 MB, PDF).",
+      "Pay the examination fee online (UR: Rs. 450/-, Reserved categories of HP: Rs. 300/- including GST). Fee once paid is non-refundable.",
+      "Submit the application before the closing date: 10.09.2026 at 11:59 PM.",
+      "Take a printout/screenshot of the submitted application for future reference.",
+      "Candidates already in government/semi-government service must submit their application through proper channel along with NOC within 15 days from the last date of application."
+    ]
   },
   {
     "id": "hp-aiims bilaspur-junior-resident",
@@ -128,12 +345,167 @@
     "district": "State Level",
     "vacancies": "17",
     "lastDate": "18",
-    "officialWebsite": "https://govtjobguru.in/jobs/csir-ihbt-pa-past-ps-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/csir-ihbt-pa-past-ps-recruitment-2026/",
+    "officialWebsite": "https://www.ihbt.res.in",
+    "notificationLink": "https://www.ihbt.res.in/components/com_chronoforms5/chronoforms/uploads/Recruitment/20260806160516_Final_Advt._no._14_by_2026_with_Application_Form.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/csir-ihbt-pa-past-ps-recruitment-2026/",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Walk-in-Interview (Position Codes 14001, 14002, 14003)",
+        "date": "18/08/2026"
+      },
+      {
+        "event": "Walk-in-Interview (Position Codes 14004, 14005, 14006, 14007, 14008, 14009)",
+        "date": "19/08/2026"
+      },
+      {
+        "event": "Walk-in-Interview (Position Codes 14010, 14011, 14012, 14013, 14014, 14015)",
+        "date": "20/08/2026"
+      },
+      {
+        "event": "Walk-in-Interview (Position Codes 14016, 14017)",
+        "date": "21/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Project Assistant-I (PA-I) [Code: 14001]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior-PAT [Code: 14002]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate PAT-I [Code: 14003]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Scientist PS-I [Code: 14004]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate PAT-II [Code: 14005]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Assistant-I (PA-I) [Code: 14006]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior-PAT [Code: 14007]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Scientist-I / Principal-PAT / Senior-PAT [Code: 14008]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate PAT-II [Code: 14009]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate PAT-I [Code: 14010]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate PAT-I [Code: 14011]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Assistant-II (PA-II) [Code: 14012]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate PAT-I [Code: 14013]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate PAT-I [Code: 14014]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate PAT-II [Code: 14015]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate PAT-I [Code: 14016]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate PAT-I [Code: 14017]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the prescribed application format from CSIR-IHBT website: www.ihbt.res.in",
+      "Fill the application form with latest colored passport size photograph affixed on it.",
+      "Appear for Walk-in-Interview on the scheduled date, time and venue as mentioned against each position.",
+      "Bring self-attested photocopies of testimonials of age, educational qualifications, experience etc.",
+      "Bring all original certificates at the time of interview; failing which, candidate will not be allowed to appear.",
+      "Candidates applying for more than one position code must submit separate application form for each position code.",
+      "No Travelling Allowance will be paid for attending the interview.",
+      "For any query, contact exclusively at: recruitment@ihbt.res.in"
+    ]
   },
   {
     "id": "hp-hprca-clerk-job-trainee-",
@@ -145,12 +517,67 @@
     "district": "State Level",
     "vacancies": "40",
     "lastDate": "11-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/hprca-clerk-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/hprca-clerk-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/hprca-clerk-recruitment-2026/",
+    "officialWebsite": "https://hprca.hp.gov.in",
+    "notificationLink": "https://govtjobguru.in/wp-content/uploads/2026/08/HPRCA-Clerk-Recruitment-2026.pdf",
+    "applyOnlineLink": "https://hprca.hp.gov.in/login",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "All Categories (Examination Fee)",
+        "fee": "₹100/-"
+      },
+      {
+        "category": "All Categories (Processing Fee)",
+        "fee": "₹700/-"
+      },
+      {
+        "category": "Correction Window Fee",
+        "fee": "₹100/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "07/08/2026"
+      },
+      {
+        "event": "Opening Date for Online Application",
+        "date": "14/08/2026"
+      },
+      {
+        "event": "Closing Date for Online Application",
+        "date": "11/09/2026"
+      },
+      {
+        "event": "Correction Window Opens (approx.)",
+        "date": "15/09/2026"
+      },
+      {
+        "event": "Correction Window Closes (approx.)",
+        "date": "18/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Clerk (Job Trainee)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Register on the HPRCA portal by clicking the ‘Sign Up’ option to create a username and password.",
+      "Complete the One-Time Registration (OTR) by providing personal information, educational qualifications, work experience (if any), and uploading photograph, signature, and supporting documents.",
+      "Complete/Update your profile on the HPRCA portal (https://hprca.hp.gov.in).",
+      "Click on the ‘Apply’ button corresponding to the desired post.",
+      "Select your preferred district(s) for the examination from the dropdown menu.",
+      "Review the auto-filled application details from your profile.",
+      "Pay the application fee through the available online payment gateway (Credit Card/Debit Card/Net Banking).",
+      "After successful payment, your application will be considered complete. Download and keep a copy of the submitted application form."
+    ]
   },
   {
     "id": "hp-iocl nr-trade-apprentice-technician-apprentice-graduate-ap",
@@ -163,11 +590,136 @@
     "vacancies": "433",
     "lastDate": "06-09-26",
     "officialWebsite": "https://govtjobguru.in/jobs/iocl-nr-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/iocl-nr-apprentice-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/iocl-nr-apprentice-recruitment-2026/",
+    "notificationLink": "https://iocl.com/admin/img/Apprenticeships/Files/e2fe7d9255544d7e8a9e9c812dbfca7d.pdf",
+    "applyOnlineLink": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=B0Xxorf6hUGfjbuyZc4E5cLJ-uU_mEhAqmZkmr5RuPNURVVPR0FLNjRVMjBJOVFZSkNCN0czODE2Ty4u&route=shorturl",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date of Application",
+        "date": "07/08/2026"
+      },
+      {
+        "event": "Last Date of Submission of Application",
+        "date": "06/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Technician Apprentice - Mechanical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Electrical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Instrumentation",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Civil",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Electrical & Electronics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Electronics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Fitter",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Electrician",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Electronics Mechanic",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Instrument Mechanic",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Machinist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator (Fresher)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator (Skill Certificate Holders)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Register on the appropriate portal: NAPS (http://www.apprenticeshipindia.gov.in/) for Trade Apprentices (ITI &amp; Data Entry Operator) or NATS (https://nats.education.gov.in/student_register.php) for Technician and Graduate Apprentices.",
+      "Ensure 100% completion/updation of your profile (Personal Details, Educational Details, Category, Aggregate Percentage) on the respective portal.",
+      "Login to the respective NATS/NAPS portal using your User ID/Email ID and apply for the apprenticeship openings using the Establishment ID: NATS – NDLSDC000005 / NAPS – E05200700003.",
+      "After applying on the NATS/NAPS portal, also submit your details along with preferred State and three preferred locations in the Microsoft Office Form at: https://forms.cloud.microsoft/r/pw7D2cUK7c by 06.09.2026, 05:00 PM.",
+      "Candidates can apply for ONLY ONE DISCIPLINE CODE. Multiple discipline code applications will be summarily rejected.",
+      "Ensure you have a valid PAN Card, Aadhaar Card, active Aadhaar-seeded bank account enabled for DBT, and APAAR ID updated on NATS portal.",
+      "Applications must be submitted on or before 06th September 2026 at 05:00 PM. Applications received after the last date will not be considered."
+    ]
   },
   {
     "id": "hp-sbi-clerk-junior-associate-",
@@ -179,12 +731,60 @@
     "district": "State Level",
     "vacancies": "1538",
     "lastDate": "27-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
+    "officialWebsite": "https://sbi.bank.in",
+    "notificationLink": "https://sbi.bank.in/webfiles/uploads/files_2627/08/JA_2026_Backlog_Detailed_Advt_ENG.pdf",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/sbijasrdjl26/",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "SC/ST/PwBD/XS/DXS",
+        "fee": "Nil"
+      },
+      {
+        "category": "OBC",
+        "fee": "Rs. 750/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Registration Start Date",
+        "date": "07/08/2026"
+      },
+      {
+        "event": "Online Registration End Date",
+        "date": "27/08/2026"
+      },
+      {
+        "event": "Preliminary Examination (Tentative) (September 2026)",
+        "date": ""
+      },
+      {
+        "event": "Main Examination (Tentative) (October/November 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Junior Associate (Customer Support & Sales) - Andhra Pradesh",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Bank’s official website: https://sbi.bank.in/web/careers/current-openings",
+      "Click on the advertisement for ‘Special Recruitment Drive for Junior Associates 2026’.",
+      "Scan and keep ready your photograph, signature, left hand thumb impression, and handwritten declaration as per specifications.",
+      "Fill in the Online Application Form carefully with all required details.",
+      "Upload the scanned photograph, signature, left thumb impression, and handwritten declaration.",
+      "Submit the application form. Note: Corrections will not be allowed after final submission.",
+      "Pay the application fee online using Debit Card / Credit Card / Internet Banking.",
+      "On successful payment, an e-receipt and application form with fee details will be generated. Print and retain for records.",
+      "Download and retain the system-generated online application form printout after submission."
+    ]
   },
   {
     "id": "hp-hp jsv-para-fitter-para-multipurpose-worker-para-pump-ope",
@@ -230,12 +830,62 @@
     "district": "State Level",
     "vacancies": "312",
     "lastDate": "29-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/hprca-assistant-staff-nurse-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/hprca-assistant-staff-nurse-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/hprca-assistant-staff-nurse-recruitment-2026/",
+    "officialWebsite": "https://hprca.hp.gov.in",
+    "notificationLink": "https://govtjobguru.in/wp-content/uploads/2026/05/HPRCA-Assistant-Staff-Nurse-Recruitment-2026.pdf",
+    "applyOnlineLink": "https://hprca.hp.gov.in/homepage",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "All Categories (Examination Fee + Processing Fee)",
+        "fee": "₹800.00 (₹100/- as examination fee + ₹700/- as processing fee)"
+      },
+      {
+        "category": "Correction Fee",
+        "fee": "Rs. 100/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening date for Online Application",
+        "date": "30/07/2026"
+      },
+      {
+        "event": "Closing date for Online Application",
+        "date": "29/08/2026"
+      },
+      {
+        "event": "Correction Window Opens (approx.)",
+        "date": "01/09/2026"
+      },
+      {
+        "event": "Correction Window Closes (approx.)",
+        "date": "04/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Assistant Staff Nurse",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website of HPRCA at https://hprca.hp.gov.in.",
+      "Click on ‘Sign Up’ to create a username and password on the HPRCA portal.",
+      "Complete the One-Time Registration (OTR) by providing personal information, educational qualifications, work experience (if any), and uploading a recent photograph and signature along with relevant supporting documents.",
+      "Complete/update your profile. Only users with a complete profile can apply for posts.",
+      "Click on the ‘Apply’ button corresponding to the post of Assistant Staff Nurse (Post Code: 26044).",
+      "Select your preferred district(s) for the examination from the dropdown menu.",
+      "Review the auto-filled application details from your profile before proceeding.",
+      "Pay the application fee through the available online payment gateway (Credit Card/Debit Card/Net Banking).",
+      "After successful payment, your application will be considered complete. Download and save the confirmation.",
+      "Download the printed copy of the Online Application Form along with necessary original certificates and self-attested photocopies for document verification.",
+      ""
+    ]
   },
   {
     "id": "hp-hp jal shakti vibhag bilaspur-para-fitter-multipurpose-worker-para-pump-operator",
@@ -315,12 +965,57 @@
     "district": "State Level",
     "vacancies": "734",
     "lastDate": "21-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/hp-police-constable-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/hp-police-constable-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/hp-police-constable-recruitment-2026/",
+    "officialWebsite": "https://www.hppsc.hp.gov.in/hppsc",
+    "notificationLink": "https://hppsc.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1wSGo29lXLTBfw1DHezN8KfEg%2BrikZhi%2FLLqiZME0%2BQReThfPJPy%2BjgrmLJ%2B48MSfenisMCQ3fHXMZ0%2BajrVuV3AylOo9mGWYM%3D",
+    "applyOnlineLink": "https://hppsconline.hp.gov.in/HPPSC/ApplicantRegistration/Home/Login",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "A uniform fee shall be charged from all the candidates, irrespective of their category.",
+        "fee": "₹600/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "09/07/2026"
+      },
+      {
+        "event": "Online Application Start Date",
+        "date": "10/07/2026"
+      },
+      {
+        "event": "Last Date to Apply Online (Extended Upto)",
+        "date": "21/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Police Constable (Male)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Police Constable (Female)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Commission’s official website: www.hppsc.hp.gov.in/hppsc",
+      "Click on the Online Recruitment Application (ORA) link available from 10.07.2026 (12:01 AM onwards).",
+      "Fill in the online application form carefully with all required details.",
+      "Upload necessary documents as required.",
+      "Pay the examination fee as applicable.",
+      "Submit the application before 06.08.2026 till 11:59 PM.",
+      "Note: No correction will be allowed once the form is submitted. Candidates using cyber cafes or Lok Mitra Kendras are advised to review the form carefully before final submission."
+    ]
   },
   {
     "id": "hp-hppsc-assistant-professor-college-cadre-group-a-job-trai",
@@ -332,11 +1027,209 @@
     "district": "State Level",
     "vacancies": "373",
     "lastDate": "15-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/hppsc-assistant-professor-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/hppsc-assistant-professor-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/hppsc-assistant-professor-recruitment-2026/",
+    "officialWebsite": "http://www.hppsc.hp.gov.in/hppsc",
+    "notificationLink": "https://hppsc.hp.gov.in/CommonControls/CMSFileView?qs=oeMK915q2HkdpWSZ%2B0aaIFmLDoF0cTjGvKykbXugJ5GFUtB47X3D4jgMVyj9%2FoR0QK9lunvmYRc6LqNFH7TbkW53m8s3Ie8J9q162ahT%2FSI%3D",
+    "applyOnlineLink": "https://hppsconline.hp.gov.in/HPPSC/ApplicantRegistration/Home/Login",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "All Candidates (irrespective of category/gender)",
+        "fee": "Rs. 600"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification / Advertisement Release Date",
+        "date": "17/06/2026"
+      },
+      {
+        "event": "Online Application Start Date",
+        "date": "17/06/2026"
+      },
+      {
+        "event": "Last Date to Apply Online",
+        "date": "14/07/2026"
+      },
+      {
+        "event": "Last Date for Fee Payment",
+        "date": "14/07/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "English",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Chemistry",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Hindi",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Physics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Mathematics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Physical Education",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Botany",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Zoology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Geography",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "History",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Sociology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Political Science",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Commerce",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Public Administration",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Psychology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Economics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Geology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Sanskrit",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Philosophy",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Music-Instrumental",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Dance",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Tabla",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Music-V",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official HPPSC website at http://www.hppsc.hp.gov.in/hppsc.",
+      "Click on the “Apply Online” link on the homepage.",
+      "Select “One Time Registration (OTR) for Examinations” and complete “New Registration” if not already registered.",
+      "Log in to the OTR account and view the list of live advertisements on the dashboard.",
+      "Select the relevant subject advertisement (e.g., Hindi &ndash; 47/6-2026, History &ndash; 48/6-2026) and fill in the application form.",
+      "Upload scanned copies of the required documents, including Matriculation certificate, degree/marksheets, category certificate, and Bonafide HP certificate.",
+      "Pay the Rs. 600 application fee online via Debit Card, Credit Card, UPI, or other digital mode.",
+      "Give the undertaking confirming that uploaded documents are legible and readable, then submit the final application.",
+      "Download or save the confirmation/printout for future reference."
+    ]
   }
 ]

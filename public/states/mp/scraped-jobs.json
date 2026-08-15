@@ -9,12 +9,155 @@
     "district": "State Level",
     "vacancies": "205",
     "lastDate": "16-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/aai-nr-apprentice-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/aai-nr-apprentice-2026/",
+    "officialWebsite": "https://www.aai.aero",
+    "notificationLink": "https://www.aai.aero/sites/default/files/examdashboard_advertisement/Final%20Advt.%20App.%202026-27-RHQ-NR.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-nr-apprentice-2026/",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "All Categories",
+        "fee": "No Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date of Application",
+        "date": "16/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Civil Engg. (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Civil Engg. (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electrical Engg. (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electrical Engg. (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electronics (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electronics (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Computer Science/IT (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Computer Science/IT (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aeronautical/Aerospace/Aircraft Maintenance (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aeronautical/Aerospace/Aircraft Maintenance (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Architecture (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Architecture (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Mechanical/Automobile (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Mechanical/Automobile (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "BCA/B.Com (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "COPA/Steno (ITI)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Computer Hardware & Networking (ITI)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit BOAT’s/RDAT’s web portal: www.nats.education.gov.in (for Graduate/Diploma Apprentices) or www.apprenticeshipindia.org (for ITI Trade Apprentices).",
+      "Register yourself on the concerned portal (NATS/NAPS) prior to applying for apprenticeship training in AAI.",
+      "Find establishment: Airports Authority of India &ndash; RHQ NR, New Delhi (NDLSWC000002(BOAT) / E05200700101(NAPS)) and click on the Apply button.",
+      "Complete your profile with all required details including educational qualifications, communication details, and training preferences.",
+      "Upload required documents including qualifying degree/provisional certificate in PDF format.",
+      "After successful application, the portal will display the message: ‘Successfully applied for the training position. Based on availability, you will be contacted by the establishment.’",
+      "Candidates applying for more than one discipline will not be considered and their application will be rejected.",
+      "No Application Fee is being charged."
+    ]
   },
   {
     "id": "mp-iiitdm jabalpur-junior-research-fellow",
@@ -111,12 +254,51 @@
     "district": "State Level",
     "vacancies": "7",
     "lastDate": "31-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/income-tax-canteen-attendant-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/income-tax-canteen-attendant-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/income-tax-canteen-attendant-recruitment-2026/",
+    "officialWebsite": "https://incometaxmpcg.gov.in",
+    "notificationLink": "https://incometaxmpcg.gov.in/pdf/Canteen_Attendant_Notification.pdf",
+    "applyOnlineLink": "https://incometaxmpcg.gov.in/canteen-recruitment-2026/",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "All Categories",
+        "fee": "No Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Application Start Date",
+        "date": "11/08/2026"
+      },
+      {
+        "event": "Last Date for Online Application",
+        "date": "31/08/2026"
+      },
+      {
+        "event": "Cut-off Date for Eligibility",
+        "date": "31/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Canteen Attendant (General Central Service, Group 'C', Non-Gazetted, Non-Ministerial)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the regional website of the department: https://incometaxmpcg.gov.in",
+      "Fill the online application form available on the website.",
+      "Upload passport size photograph (taken not before 3 months from the date of notification) with full name and date.",
+      "Upload scanned signature in JPEG/JPG format (thumb impression allowed for PwD/PwBD candidates with blindness and low vision).",
+      "Upload required documents: Matriculation Certificate, Community/Caste Certificate (if applicable), Age relaxation documents (if applicable), PwBD Certificate (if applicable), Aadhar Card.",
+      "Submit the application online on or before 31.08.2026 (23:00 hrs).",
+      "Note: Only one application per candidate. Multiple applications will be summarily rejected.",
+      "There is no application fee for any category."
+    ]
   },
   {
     "id": "mp-manit bhopal-project-assistant",
@@ -145,12 +327,60 @@
     "district": "State Level",
     "vacancies": "1538",
     "lastDate": "27-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
+    "officialWebsite": "https://sbi.bank.in",
+    "notificationLink": "https://sbi.bank.in/webfiles/uploads/files_2627/08/JA_2026_Backlog_Detailed_Advt_ENG.pdf",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/sbijasrdjl26/",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "SC/ST/PwBD/XS/DXS",
+        "fee": "Nil"
+      },
+      {
+        "category": "OBC",
+        "fee": "Rs. 750/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Registration Start Date",
+        "date": "07/08/2026"
+      },
+      {
+        "event": "Online Registration End Date",
+        "date": "27/08/2026"
+      },
+      {
+        "event": "Preliminary Examination (Tentative) (September 2026)",
+        "date": ""
+      },
+      {
+        "event": "Main Examination (Tentative) (October/November 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Junior Associate (Customer Support & Sales) - Andhra Pradesh",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Bank’s official website: https://sbi.bank.in/web/careers/current-openings",
+      "Click on the advertisement for ‘Special Recruitment Drive for Junior Associates 2026’.",
+      "Scan and keep ready your photograph, signature, left hand thumb impression, and handwritten declaration as per specifications.",
+      "Fill in the Online Application Form carefully with all required details.",
+      "Upload the scanned photograph, signature, left thumb impression, and handwritten declaration.",
+      "Submit the application form. Note: Corrections will not be allowed after final submission.",
+      "Pay the application fee online using Debit Card / Credit Card / Internet Banking.",
+      "On successful payment, an e-receipt and application form with fee details will be generated. Print and retain for records.",
+      "Download and retain the system-generated online application form printout after submission."
+    ]
   },
   {
     "id": "mp-dlsa ujjain-para-legal-volunteer",
@@ -162,12 +392,80 @@
     "district": "State Level",
     "vacancies": "170",
     "lastDate": "31-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/dlsa-ujjain-plv-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/dlsa-ujjain-plv-recruitment-2026/",
+    "officialWebsite": "https://ujjain.dcourts.gov.in",
+    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec0229539ed932d32f1c56324cded92c/uploads/2026/08/2026080672.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/dlsa-ujjain-plv-recruitment-2026/",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "All Categories",
+        "fee": "No Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement / Application Start Date",
+        "date": "06/08/2026"
+      },
+      {
+        "event": "Last Date to Submit Application",
+        "date": "31/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Paralegal Volunteer (PLV) - District Legal Services Authority Ujjain",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Paralegal Volunteer (PLV) - Tehsil Legal Services Committee Khachrod",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Paralegal Volunteer (PLV) - Tehsil Legal Services Committee Nagda",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Paralegal Volunteer (PLV) - Tehsil Legal Services Committee Mahidpur",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Paralegal Volunteer (PLV) - Tehsil Legal Services Committee Tarana",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Paralegal Volunteer (PLV) - Tehsil Legal Services Committee Badnagar",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Fill the application form in the prescribed format.",
+      "Attach an affidavit (regarding no criminal case).",
+      "Paste one passport size photograph on the application form.",
+      "Submit the completed application to the respective Legal Services Authority/Committee office by 5:00 PM on 31.08.2026.",
+      "Applications can also be sent by post/courier to the respective office.",
+      "Applications received after the last date will not be considered under any circumstances."
+    ]
   },
   {
     "id": "mp-iit indore-junior-research-fellow",
@@ -196,12 +494,160 @@
     "district": "State Level",
     "vacancies": "76",
     "lastDate": "Within",
-    "officialWebsite": "https://govtjobguru.in/jobs/aiims-bhopal-group-b-non-faculty-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/aiims-bhopal-group-b-non-faculty-recruitment-2026/",
+    "officialWebsite": "https://www.aiimsbhopal.edu.in",
+    "notificationLink": "https://aiimsbhopal.edu.in/AIIMSFiles/career/Download/Detailed_Advt._Group-B_Deputation_03082026.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/aiims-bhopal-group-b-non-faculty-recruitment-2026/",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "03/08/2026"
+      },
+      {
+        "event": "Last Date for Receipt of Applications 30 days from the date of publication of this advertisement in Employment News)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Assistant Administrative Officer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Private Secretary (PS)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Engineer for Vigilance Cell (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Manager/Supervisor/Gas Officer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Sanitation Officer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Transport Supervisor",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Accounts Officer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Stores Officer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technical Assistant/Technician",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Administrative Officer (JAO)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Personal Assistant (PA)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Pharmacist Grade I",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medical Record Officer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Sanitation Officer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Sr. Pharmacist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Security Officer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Laundry Manager",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the prescribed application format (Annexure-I) from the AIIMS Bhopal website.",
+      "Fill in the application form completely and sign it.",
+      "Attach self-attested/certified photocopies of up-to-date APARs (at least for the preceding 05 years), vigilance clearance certificate, NOC, and other supporting documents.",
+      "Attach self-attested copies of documents related to qualification and experience.",
+      "Forward the application through proper channel (Employer/Cadre Controlling Authority) ensuring eligibility is verified.",
+      "Send the application by Speed Post/Registered Post only to: The Deputy Director (Admin.), All India Institute of Medical Sciences (AIIMS), Administrative Block, Kautilya Bhawan, Ground Floor, Saket Nagar, Bhopal-462020 (M.P.).",
+      "Super-scribe the envelope as: “Application for the Group ‘B’ Post of ……………….. on Deputation Basis at AIIMS Bhopal.”",
+      "Submit within 30 days from the date of publication of this advertisement in Employment News.",
+      "An advance copy may also be submitted to the above address."
+    ]
   },
   {
     "id": "mp-iit indore-project-administrative-assistant",
@@ -264,12 +710,50 @@
     "district": "State Level",
     "vacancies": "2106",
     "lastDate": "18-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/mpesb-group-2-sub-group-4-recruitment-2026-apply-online-for-2106-various-posts/",
-    "notificationLink": "https://govtjobguru.in/jobs/mpesb-group-2-sub-group-4-recruitment-2026-apply-online-for-2106-various-posts/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/mpesb-group-2-sub-group-4-recruitment-2026-apply-online-for-2106-various-posts/",
+    "officialWebsite": "https://esb.mp.gov.in",
+    "notificationLink": "https://esb.mp.gov.in/Rulebooks/RB_2026/Group2_SG4_Patwari_rect_test_2026_Rulebook_04082026.pdf",
+    "applyOnlineLink": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "For Unreserved Category",
+        "fee": "₹500/-"
+      },
+      {
+        "category": "For SC/ST/OBC/EWS/PH (MP State Only)",
+        "fee": "₹250/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Starting Date for Apply Online",
+        "date": "04/08/2026"
+      },
+      {
+        "event": "Closing Date for Apply Online",
+        "date": "18/08/2026"
+      },
+      {
+        "event": "Last Date for Correction Form",
+        "date": "23/08/2026"
+      },
+      {
+        "event": "Exam Date",
+        "date": "22/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Group 2 Sub Group 4 Combined Recruitment Various Post",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": []
   },
   {
     "id": "mp-mpesb-patwari",
@@ -281,12 +765,62 @@
     "district": "State Level",
     "vacancies": "200",
     "lastDate": "18-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/mpesb-patwari-recruitment-2026-apply-online-for-200-patwari-posts/",
-    "notificationLink": "https://govtjobguru.in/jobs/mpesb-patwari-recruitment-2026-apply-online-for-200-patwari-posts/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/mpesb-patwari-recruitment-2026-apply-online-for-200-patwari-posts/",
+    "officialWebsite": "https://esb.mp.gov.in/",
+    "notificationLink": "https://esb.mp.gov.in/Rulebooks/RB_2026/Group2_SG4_Patwari_rect_test_2026_Rulebook_04082026_v2.pdf",
+    "applyOnlineLink": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Unreserved (UR)",
+        "fee": "Rs. 500/-"
+      },
+      {
+        "category": "SC/ST/OBC/EWS/Divyangjan",
+        "fee": "Rs. 250/-"
+      },
+      {
+        "category": "Backlog",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Application Start Date",
+        "date": "04/08/2026"
+      },
+      {
+        "event": "Online Application Last Date",
+        "date": "18/08/2026"
+      },
+      {
+        "event": "Last Date correction Date",
+        "date": "23/08/2026"
+      },
+      {
+        "event": "Exam Date",
+        "date": "22/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Patwari",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website https://esb.mp.gov.in/.",
+      "Find and click on the MPESB Group-2 Sub Group 4 Patwari Recruitment 2026 application link.",
+      "Register and fill in the online application form carefully with correct details.",
+      "Upload required documents as specified in the notification.",
+      "Pay the application fee online as per your category.",
+      "Submit the application form before 18th August 2026.",
+      "Take a printout of the submitted application form for future reference."
+    ]
   },
   {
     "id": "mp-aai wr-graduate-apprentice-diploma-apprentice",
@@ -298,12 +832,94 @@
     "district": "State Level",
     "vacancies": "36",
     "lastDate": "30-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/aai-wr-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/aai-wr-apprentice-recruitment-2026/",
+    "officialWebsite": "https://www.aai.aero/",
+    "notificationLink": "https://www.aai.aero/sites/default/files/examdashboard_advertisement/BOAT%20ADVERTISEMENT%202026-27%20-Graduate%20Diploma.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-wr-apprentice-recruitment-2026/",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "All Candidates",
+        "fee": "No Application Fees"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Commencement of Online Application through BOAT/NATS Portal",
+        "date": "03/08/2026"
+      },
+      {
+        "event": "Last Date of Online Application through NATS Portal",
+        "date": "30/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Graduate Apprentice (Finance)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice (Electrical/Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice (Electronic Communication/Tele Communication)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice (Information Technology/Computer Science)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice (Mech Engineering)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice (HR)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice (Electrical/Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice (Mech Engineering)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must register on the BOAT web portal at https://nats.education.gov.in/ or https://moenats.aicte-india.org/student_register.php as a student/apprentice.",
+      "After completing enrollment/registration, apply to AAI advertisement shown on the dashboard in listing way.",
+      "After registering on BOAT web portal, candidates’ documents shall be verified by BOAT, after which necessary steps have to be followed to apply to Airports Authority of India, RHQ, Western Region (Establishment No. WMHMCC000058) under the desired trade for apprenticeship.",
+      "Applications received online through NATS portal will only be considered.",
+      "For any issues/queries related to NATS portal, contact BOAT, Western Region, Mumbai: Phone: +91-22-24055635 / 24053682, Email: director.boatwr@gmail.com, natssupport_student@aicte-india.org, Tollfree: 1800-222-060.",
+      "For clarification/queries, email: recttcellwr@aai.aero"
+    ]
   },
   {
     "id": "mp-nhm mp-hub-engineer-senior-public-health-consultant",
@@ -349,12 +965,53 @@
     "district": "State Level",
     "vacancies": "40",
     "lastDate": "27-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
+    "officialWebsite": "https://www.railtelindia.com",
+    "notificationLink": "https://www.railtel.in/images/careers/DocScanner%2028-Jul-2026%2004-10%20PM.pdf",
+    "applyOnlineLink": "https://nats.education.gov.in",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "28/07/2026"
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "27/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Graduate Apprentice Engineer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice Engineer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the NATS 2.0 portal at https://nats.education.gov.in.",
+      "If not already registered, register yourself on the NATS 2.0 portal before applying.",
+      "Follow the guidelines given in the student manual of NATS available at the portal (web link: https://nats.education.gov.in/assets/manual/establishment_user_manual.pdf).",
+      "Fill in the online application form with accurate details.",
+      "Upload the certificate showing your CGPA or percentage in the ‘Upload Certificate’ column. If only CGPA is mentioned, also upload the CGPA to percentage conversion formula/certificate along with the undertaking (Annexure 1) as a single PDF file of size less than 1 MB.",
+      "Submit the application online before the last date of 27.08.2026.",
+      "No other mode of application will be entertained."
+    ]
   },
   {
     "id": "mp-mpypil-senior-management-manager-",
@@ -366,12 +1023,147 @@
     "district": "State Level",
     "vacancies": "54",
     "lastDate": "18-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/mpypil-senior-management-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/mpypil-senior-management-recruitment-2026/",
+    "officialWebsite": "https://transport.mp.gov.in",
+    "notificationLink": "https://transport.mp.gov.in/sites/default/files/Senior-603%26603-a.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/mpypil-senior-management-recruitment-2026/",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "All Candidates (Portal Charge, excluding GST)",
+        "fee": "₹200"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening date for online applications",
+        "date": "29/07/2026"
+      },
+      {
+        "event": "Closing date for online applications with fee",
+        "date": "18/08/2026"
+      },
+      {
+        "event": "Opening date of the application-correction window",
+        "date": "07/08/2026"
+      },
+      {
+        "event": "Closing date of the application-correction window",
+        "date": "19/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Manager (Enforcement & Quality Control)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Manager (IT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Manager (Route Planning)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Manager (Human Resources, Administration and Training)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Manager (Urban Planner)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Manager (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Manager (Electrical/Electronics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Manager (Legal and Regulatory)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Manager (Data Analyst)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Manager (AI/ML Developer)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Manager (Business Analyst)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Manager (Infrastructure Security Expert)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Manager (GIS Analyst)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Manager (Transport Planner)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the MPOnline portal at https://iforms.mponline.gov.in.",
+      "Register and fill in the online application form carefully.",
+      "Upload required documents: 10th certificate, Higher Secondary, Graduation, essential qualification, experience, caste (if applicable), domicile (if applicable), EWS (same year), OBC Non-Creamy Layer declaration and any other applicable documents.",
+      "Pay the non-refundable portal charge of ₹200 (excluding GST) through any online payment gateway or authorized MPOnline Kiosk.",
+      "Submit the application form before the closing date (18/08/2026).",
+      "No offline application shall be accepted.",
+      "Candidates need not send hard copies of the application or certificates to MPYPIL.",
+      "Candidates must have a valid e-mail ID, which should remain active during the entire recruitment process.",
+      "Use the application-correction window (07/08/2026 to 19/08/2026) to make any corrections if needed."
+    ]
   },
   {
     "id": "mp-mpypil-assistant-manager-asi-head-constable-constable-hel",
@@ -383,12 +1175,190 @@
     "district": "State Level",
     "vacancies": "199",
     "lastDate": "18-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/mpypil-junior-management-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/mpypil-junior-management-recruitment-2026/",
+    "officialWebsite": "https://transport.mp.gov.in",
+    "notificationLink": "https://transport.mp.gov.in/sites/default/files/Junior-604%26604-a.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/mpypil-junior-management-recruitment-2026/",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "All Candidates (Non-refundable Portal Charge, excluding GST)",
+        "fee": "Rs. 200"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening date for online applications",
+        "date": "29/07/2026"
+      },
+      {
+        "event": "Closing date for online applications with fee",
+        "date": "18/08/2026"
+      },
+      {
+        "event": "Opening date of the application-correction window",
+        "date": "07/08/2026"
+      },
+      {
+        "event": "Closing date of the application-correction window",
+        "date": "19/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Assistant Manager (IT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager (ITMS)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager (Operator, Contracts and Coordination)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager (Business Development)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager (Electrical/Electronics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager (Trim Line)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager (Drive Line)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager (Regional Company Liaison)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager (Enforcement & Quality Control/Police Inspector/Company Commander)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Subedar/Police Sub-Inspector/Platoon Commander",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Sub-Inspector",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Police Head Constable",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Supervisor (Electrical/Electronics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Supervisor (Trim Line)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Supervisor (Drive Line)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Police Constable",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Helper (Electrical/Electronics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Helper (Trim Line)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Helper (Drive Line)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the MPOnline portal at https://iforms.mponline.gov.in to apply online.",
+      "No offline applications will be accepted.",
+      "Fill in all fields in the online application form carefully.",
+      "Upload required documents: 10th certificate, Higher Secondary, Graduation, essential qualification, experience, caste (if applicable), domicile (if applicable), EWS (same year), OBC Non-Creamy Layer declaration and any other applicable documents.",
+      "Pay the non-refundable portal charge of Rs. 200 (excluding GST) through any online payment gateway or an authorized MPOnline Kiosk.",
+      "Only applications with successful payment shall be considered.",
+      "Candidates must have a valid e-mail ID which should remain active during the entire recruitment process.",
+      "Candidates need not send hard copies of the application or certificates to MPYPIL.",
+      "Shortlisted candidates will be informed through notifications on the MPOnline Portal, Official website of the Transport Department, M.P., and via email.",
+      "Appear for Interview cum Document Verification on the scheduled date with all original documents, two sets of self-attested photocopies, two recent passport-size colour photographs, and a copy of the submitted online application form."
+    ]
   },
   {
     "id": "mp-mpypil-chief-general-manager-gm-agm-higher-management-",
@@ -400,12 +1370,253 @@
     "district": "State Level",
     "vacancies": "146",
     "lastDate": "18-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/mpypil-higher-management-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/mpypil-higher-management-recruitment-2026/",
+    "officialWebsite": "https://transport.mp.gov.in",
+    "notificationLink": "https://transport.mp.gov.in/sites/default/files/Higher-602%26602-a_0.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/mpypil-higher-management-recruitment-2026/",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "All Candidates (Portal Charge, excluding GST)",
+        "fee": "₹200"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening date for online applications",
+        "date": "29/07/2026"
+      },
+      {
+        "event": "Closing date for online applications with fee",
+        "date": "18/08/2026"
+      },
+      {
+        "event": "Opening date of the application-correction window",
+        "date": "07/08/2026"
+      },
+      {
+        "event": "Closing date of the application-correction window",
+        "date": "19/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Chief General Manager (Policy and Research)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Chief General Manager (Enforcement and Quality Control)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Chief General Manager (Finance and Accounts)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "General Manager (IT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "General Manager (ITMS)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "General Manager (IT & ITMS)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "General Manager (Operator Contracts and Coordination)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "General Manager (Human Resources, Administration and Training)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "General Manager (Route Planning)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "General Manager (Policy and Research)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "General Manager (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "General Manager (Urban Planner)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "General Manager (Civil/Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "General Manager (Enforcement and Quality)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "General Manager (Electrical/Electronics/Trim Line/Drive Line)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "General Manager (Business Development)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant General Manager (IT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant General Manager (ITMS)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant General Manager (Route Planning)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant General Manager (Operator Contracts and Coordination)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant General Manager (Human Resources, Administration and Training)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant General Manager (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant General Manager (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant General Manager (Electrical/Electronics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant General Manager (Trim Line)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant General Manager (Drive Line)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant General Manager (Finance and Accounts)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant General Manager (Software Engineer)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant General Manager (Software Developer)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the MPOnline portal at https://iforms.mponline.gov.in to apply online.",
+      "No offline applications will be accepted.",
+      "Fill in all fields in the online application form carefully.",
+      "Upload required documents: 10th certificate, Higher Secondary, Graduation, essential qualification, experience, caste (if applicable), domicile (if applicable), EWS (same year), OBC Non-Creamy Layer declaration and any other applicable documents.",
+      "Pay the non-refundable portal charge of ₹200 (excluding GST) through any online payment gateway or an authorized MPOnline Kiosk.",
+      "Only applications with successful payment will be considered.",
+      "Candidates must have a valid e-mail ID that remains active throughout the recruitment process.",
+      "Candidates need not send hard copies of the application or certificates to MPYPIL.",
+      "Candidates employed in Government/Semi-Government/Autonomous Bodies/PSUs must produce a No Objection Certificate (NOC) from their employer at the time of Interview cum Document Verification.",
+      "Regularly visit the official websites for updates regarding shortlisting, interview cum document verification and other recruitment-related information."
+    ]
   },
   {
     "id": "mp-aiims bhopal-project-technical-support-iii",
@@ -451,12 +1662,66 @@
     "district": "State Level",
     "vacancies": "31",
     "lastDate": "24-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/manit-bhopal-faculty-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/manit-bhopal-faculty-recruitment-2026/",
+    "officialWebsite": "https://www.manit.ac.in/",
+    "notificationLink": "https://www.manit.ac.in/sites/default/files/documents/Faculty_Advt_2026_L10_L12.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/manit-bhopal-faculty-recruitment-2026/",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "UR/OBC(NCL)/EWS (Applying from within India)",
+        "fee": "₹1500 (Application Fee ₹1000 + Processing Charges ₹500)"
+      },
+      {
+        "category": "SC/ST/PwBD/Women (Applying from within India)",
+        "fee": "₹500 (Processing Charges only)"
+      },
+      {
+        "category": "UR/OBC(NCL)/EWS (Applying from Abroad)",
+        "fee": "₹5760 (Application Fee ₹4800 + Processing Charges ₹960)"
+      },
+      {
+        "category": "SC/ST/PwBD (Applying from Abroad)",
+        "fee": "₹960 (Processing Charges only)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening date of online application form",
+        "date": "14/07/2026"
+      },
+      {
+        "event": "Closing date of online application form",
+        "date": "24/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Assistant Professor Grade-II (on Contract Basis)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor Grade-I",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the online application portal at https://manitrec.samarth.edu.in.",
+      "Ensure eligibility for the post in respect of qualification and other requisite criteria before filling the application form.",
+      "Fill in all required information and upload relevant documents before submitting the online application form.",
+      "Pay the applicable application fee and processing charges online.",
+      "In case of applying for multiple posts, submit separate Application Form for each post and each Department with separate application fee and processing charges.",
+      "Candidates serving in Government/Semi-Government/Autonomous Bodies/PSUs/Universities/Educational Institutions must furnish a ‘No Objection Certificate’ (NOC) and ‘Vigilance Clearance’ from their employer at the time of interview.",
+      "For any administrative matters, contact: faculty.recruitment@manit.ac.in; for technical issues: ITsupport@manit.ac.in.",
+      "Check the Institute website regularly for updates: https://www.manit.ac.in/content/careers."
+    ]
   },
   {
     "id": "mp-mpmrcl-general-manager-additional-general-manager",
@@ -502,12 +1767,111 @@
     "district": "State Level",
     "vacancies": "125",
     "lastDate": "20-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/aadhaar-supervisor-operator-bharti-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/aadhaar-supervisor-operator-bharti-2026/",
+    "officialWebsite": "https://csc.gov.in/",
+    "notificationLink": "https://career.csccloud.in/job-post/MTMzNA==",
     "applyOnlineLink": "https://govtjobguru.in/jobs/aadhaar-supervisor-operator-bharti-2026/",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Closing Date for Apply Online",
+        "date": "20/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Aadhaar Supervisor/Operator - Maharashtra",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aadhaar Supervisor/Operator - Madhya Pradesh",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aadhaar Supervisor/Operator - Chhattisgarh",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aadhaar Supervisor/Operator - Bihar",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aadhaar Supervisor/Operator - Uttar Pradesh",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aadhaar Supervisor/Operator - Karnataka",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aadhaar Supervisor/Operator - Goa",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aadhaar Supervisor/Operator - Haryana",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aadhaar Supervisor/Operator - Madhya Pradesh",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aadhaar Supervisor/Operator - Odisha",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aadhaar Supervisor/Operator - Rajasthan",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aadhaar Supervisor/Operator - Punjab",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": []
   },
   {
     "id": "mp-mppsc-aao-iaeo-more",

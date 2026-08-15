@@ -9,12 +9,155 @@
     "district": "State Level",
     "vacancies": "205",
     "lastDate": "16-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/aai-nr-apprentice-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/aai-nr-apprentice-2026/",
+    "officialWebsite": "https://www.aai.aero",
+    "notificationLink": "https://www.aai.aero/sites/default/files/examdashboard_advertisement/Final%20Advt.%20App.%202026-27-RHQ-NR.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-nr-apprentice-2026/",
     "state": "Chandigarh",
     "stateCode": "chandigarh",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "All Categories",
+        "fee": "No Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date of Application",
+        "date": "16/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Civil Engg. (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Civil Engg. (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electrical Engg. (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electrical Engg. (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electronics (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electronics (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Computer Science/IT (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Computer Science/IT (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aeronautical/Aerospace/Aircraft Maintenance (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aeronautical/Aerospace/Aircraft Maintenance (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Architecture (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Architecture (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Mechanical/Automobile (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Mechanical/Automobile (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "BCA/B.Com (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "COPA/Steno (ITI)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Computer Hardware & Networking (ITI)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit BOAT’s/RDAT’s web portal: www.nats.education.gov.in (for Graduate/Diploma Apprentices) or www.apprenticeshipindia.org (for ITI Trade Apprentices).",
+      "Register yourself on the concerned portal (NATS/NAPS) prior to applying for apprenticeship training in AAI.",
+      "Find establishment: Airports Authority of India &ndash; RHQ NR, New Delhi (NDLSWC000002(BOAT) / E05200700101(NAPS)) and click on the Apply button.",
+      "Complete your profile with all required details including educational qualifications, communication details, and training preferences.",
+      "Upload required documents including qualifying degree/provisional certificate in PDF format.",
+      "After successful application, the portal will display the message: ‘Successfully applied for the training position. Based on availability, you will be contacted by the establishment.’",
+      "Candidates applying for more than one discipline will not be considered and their application will be rejected.",
+      "No Application Fee is being charged."
+    ]
   },
   {
     "id": "chandigarh-csir csio-driver-security-officer",
@@ -43,12 +186,169 @@
     "district": "State Level",
     "vacancies": "38",
     "lastDate": "31-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/nhm-dhamtari-recruitment-2026-walk-in-for-38-anm-mo-staff-nurse-other-posts/",
-    "notificationLink": "https://govtjobguru.in/jobs/nhm-dhamtari-recruitment-2026-walk-in-for-38-anm-mo-staff-nurse-other-posts/",
+    "officialWebsite": "https://www.dhamtari.gov.in",
+    "notificationLink": "https://cdn.s3waas.gov.in/s3b5dc4e5d9b495d0196f61d45b26ef33e/uploads/2026/08/17865979573047.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/nhm-dhamtari-recruitment-2026-walk-in-for-38-anm-mo-staff-nurse-other-posts/",
     "state": "Chandigarh",
     "stateCode": "chandigarh",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [],
+    "dates": [
+      {
+        "event": "Walk-in Interview from (31-08-2026 to 18-09-2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "ANM (NHM 2nd ANM)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medical Officer AYUSH (RBSK)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "MPW (Male) - UHWC (NUHM)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Community Health Officer (HWC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Nursing Officer - NHM",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Staff Nurse - NBSU",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Staff Nurse (Pediatric Ward 30 Bedded - HRUICY)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Nursing Officer - CCU (NCD)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Nurses for Geriatric/Palliative Care (NCD)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Laboratory Technician (RBSK)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Physiotherapist - NHM",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medical Officer AYUSH (NUHM)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Psychologist - Clinical (NMHP)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Laboratory Technician - DPHL/IDSP",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Dental Assistant (NOHP)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Staff Nurse - NRC",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Staff Nurse - SNCU",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Radiographer/X-Ray Technician (HEM)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Nursing Officer - UHWC (NUHM)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Secretarial Assistant - NHM (DPMU)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must appear for walk-in interview on the scheduled date and time at the District Health Office (CMHO Office), Dhamtari.",
+      "Report at the venue between 09:00 AM and the specified time for document verification and registration.",
+      "Bring all original documents along with self-attested photocopies for verification.",
+      "Details and schedule are available on the official website: www.dhamtari.gov.in",
+      "No separate call letter will be issued; this notification serves as the interview call.",
+      "Candidates must fill the application form available at the venue or downloadable from the official website."
+    ]
   },
   {
     "id": "chandigarh-pgimer-data-entry-operator",
@@ -77,12 +377,57 @@
     "district": "State Level",
     "vacancies": "7",
     "lastDate": "27-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/punjab-vidhan-sabha-group-d-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/punjab-vidhan-sabha-group-d-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/punjab-vidhan-sabha-group-d-recruitment-2026/",
+    "officialWebsite": "https://punjabassembly.gov.in",
+    "notificationLink": "https://punjabassembly.gov.in/Uploads/Advertisement/bfb8ce67-e3a8-462a-945a-c3a29e628e58.pdf",
+    "applyOnlineLink": "https://punjabassembly.gov.in/public/jobs",
     "state": "Chandigarh",
     "stateCode": "chandigarh",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "For General Candidates",
+        "fee": "₹200/-"
+      },
+      {
+        "category": "For SC/ST/BC",
+        "fee": "₹100/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date to Apply Online",
+        "date": "27/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Chowkidar",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Safai Sewak",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website: https://punjabassembly.gov.in/public/jobs",
+      "Click on ‘Apply’ for the relevant post.",
+      "Enter a valid email ID and mobile number, then click ‘Get OTP’.",
+      "Enter the OTP received on your registered mobile number and click ‘Verify OTP’.",
+      "Fill in Basic Details, Contact Details, Category, Educational Qualifications, and other required information.",
+      "Upload scanned copies of recent passport size photograph (jpg, max 2MB) and signature (jpg, max 2MB).",
+      "Upload required documents including Domicile Certificate, Nationality, Disability Certificate (if applicable), Punjabi Proficiency Verification, etc.",
+      "Enter the Captcha, select the Declaration checkbox, and click ‘Preview &amp; Submit’.",
+      "Review the information in the Preview section. Click ‘Edit’ if changes are needed, otherwise click ‘Confirm &amp; Submit’.",
+      "Proceed to online payment by clicking ‘Pay Now’ and pay the fee using available online payment modes (UPI, QR Code, etc.).",
+      "Download and print the payment receipt and submitted application form after successful payment."
+    ]
   },
   {
     "id": "chandigarh-panjab university-guest-faculty",
@@ -163,11 +508,136 @@
     "vacancies": "433",
     "lastDate": "06-09-26",
     "officialWebsite": "https://govtjobguru.in/jobs/iocl-nr-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/iocl-nr-apprentice-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/iocl-nr-apprentice-recruitment-2026/",
+    "notificationLink": "https://iocl.com/admin/img/Apprenticeships/Files/e2fe7d9255544d7e8a9e9c812dbfca7d.pdf",
+    "applyOnlineLink": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=B0Xxorf6hUGfjbuyZc4E5cLJ-uU_mEhAqmZkmr5RuPNURVVPR0FLNjRVMjBJOVFZSkNCN0czODE2Ty4u&route=shorturl",
     "state": "Chandigarh",
     "stateCode": "chandigarh",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date of Application",
+        "date": "07/08/2026"
+      },
+      {
+        "event": "Last Date of Submission of Application",
+        "date": "06/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Technician Apprentice - Mechanical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Electrical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Instrumentation",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Civil",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Electrical & Electronics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Electronics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Fitter",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Electrician",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Electronics Mechanic",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Instrument Mechanic",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Machinist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator (Fresher)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator (Skill Certificate Holders)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Register on the appropriate portal: NAPS (http://www.apprenticeshipindia.gov.in/) for Trade Apprentices (ITI &amp; Data Entry Operator) or NATS (https://nats.education.gov.in/student_register.php) for Technician and Graduate Apprentices.",
+      "Ensure 100% completion/updation of your profile (Personal Details, Educational Details, Category, Aggregate Percentage) on the respective portal.",
+      "Login to the respective NATS/NAPS portal using your User ID/Email ID and apply for the apprenticeship openings using the Establishment ID: NATS – NDLSDC000005 / NAPS – E05200700003.",
+      "After applying on the NATS/NAPS portal, also submit your details along with preferred State and three preferred locations in the Microsoft Office Form at: https://forms.cloud.microsoft/r/pw7D2cUK7c by 06.09.2026, 05:00 PM.",
+      "Candidates can apply for ONLY ONE DISCIPLINE CODE. Multiple discipline code applications will be summarily rejected.",
+      "Ensure you have a valid PAN Card, Aadhaar Card, active Aadhaar-seeded bank account enabled for DBT, and APAAR ID updated on NATS portal.",
+      "Applications must be submitted on or before 06th September 2026 at 05:00 PM. Applications received after the last date will not be considered."
+    ]
   },
   {
     "id": "chandigarh-sbi-clerk-junior-associate-",
@@ -179,12 +649,60 @@
     "district": "State Level",
     "vacancies": "1538",
     "lastDate": "27-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
+    "officialWebsite": "https://sbi.bank.in",
+    "notificationLink": "https://sbi.bank.in/webfiles/uploads/files_2627/08/JA_2026_Backlog_Detailed_Advt_ENG.pdf",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/sbijasrdjl26/",
     "state": "Chandigarh",
     "stateCode": "chandigarh",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "SC/ST/PwBD/XS/DXS",
+        "fee": "Nil"
+      },
+      {
+        "category": "OBC",
+        "fee": "Rs. 750/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Registration Start Date",
+        "date": "07/08/2026"
+      },
+      {
+        "event": "Online Registration End Date",
+        "date": "27/08/2026"
+      },
+      {
+        "event": "Preliminary Examination (Tentative) (September 2026)",
+        "date": ""
+      },
+      {
+        "event": "Main Examination (Tentative) (October/November 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Junior Associate (Customer Support & Sales) - Andhra Pradesh",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Bank’s official website: https://sbi.bank.in/web/careers/current-openings",
+      "Click on the advertisement for ‘Special Recruitment Drive for Junior Associates 2026’.",
+      "Scan and keep ready your photograph, signature, left hand thumb impression, and handwritten declaration as per specifications.",
+      "Fill in the Online Application Form carefully with all required details.",
+      "Upload the scanned photograph, signature, left thumb impression, and handwritten declaration.",
+      "Submit the application form. Note: Corrections will not be allowed after final submission.",
+      "Pay the application fee online using Debit Card / Credit Card / Internet Banking.",
+      "On successful payment, an e-receipt and application form with fee details will be generated. Print and retain for records.",
+      "Download and retain the system-generated online application form printout after submission."
+    ]
   },
   {
     "id": "chandigarh-pgimer-senior-resident-junior-demonstrator",
@@ -230,11 +748,52 @@
     "district": "State Level",
     "vacancies": "40",
     "lastDate": "27-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
+    "officialWebsite": "https://www.railtelindia.com",
+    "notificationLink": "https://www.railtel.in/images/careers/DocScanner%2028-Jul-2026%2004-10%20PM.pdf",
+    "applyOnlineLink": "https://nats.education.gov.in",
     "state": "Chandigarh",
     "stateCode": "chandigarh",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "28/07/2026"
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "27/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Graduate Apprentice Engineer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice Engineer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the NATS 2.0 portal at https://nats.education.gov.in.",
+      "If not already registered, register yourself on the NATS 2.0 portal before applying.",
+      "Follow the guidelines given in the student manual of NATS available at the portal (web link: https://nats.education.gov.in/assets/manual/establishment_user_manual.pdf).",
+      "Fill in the online application form with accurate details.",
+      "Upload the certificate showing your CGPA or percentage in the ‘Upload Certificate’ column. If only CGPA is mentioned, also upload the CGPA to percentage conversion formula/certificate along with the undertaking (Annexure 1) as a single PDF file of size less than 1 MB.",
+      "Submit the application online before the last date of 27.08.2026.",
+      "No other mode of application will be entertained."
+    ]
   }
 ]

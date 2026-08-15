@@ -77,12 +77,51 @@
     "district": "State Level",
     "vacancies": "14",
     "lastDate": "31-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/indbank-relationship-manager-and-dealer-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/indbank-relationship-manager-and-dealer-recruitment-2026/",
+    "officialWebsite": "https://www.indbankonline.com",
+    "notificationLink": "https://www.indbankonline.com/v/?v=2026/08/Advertisement-for-the-post-of-Relationshipmanager-Dealer-dated-10.08.2026.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/indbank-relationship-manager-and-dealer-recruitment-2026/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "10/08/2026"
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "31/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Relationship Manager",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Dealer - For Stock Broking Terminals",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the application form from the official website www.indbankonline.com.",
+      "Fill in the application form duly and attach copies of all required enclosures.",
+      "Send the duly filled application via courier or Registered Post to: Head Administration, No 480, 1st Floor Khivraj Complex I, Anna Salai, Nandanam, Chennai-35.",
+      "Alternatively, send the scanned copy of the duly filled application with enclosures to recruitment@indbankonline.com.",
+      "Ensure the application is received on or before 31.08.2026."
+    ]
   },
   {
     "id": "wb-asansol district hospital-mbbs-house-staff",
@@ -196,12 +235,97 @@
     "district": "State Level",
     "vacancies": "34",
     "lastDate": "28-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/upsc-recruitment-2026-apply-online-for-34-aee-research-officer-other-posts/",
-    "notificationLink": "https://govtjobguru.in/jobs/upsc-recruitment-2026-apply-online-for-34-aee-research-officer-other-posts/",
+    "officialWebsite": "https://upsc.gov.in",
+    "notificationLink": "https://www.upsc.gov.in/sites/default/files/AdvtNo-10-2026-Engl-070826.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/upsc-recruitment-2026-apply-online-for-34-aee-research-officer-other-posts/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General/OBC/EWS (Male)",
+        "fee": "Rs. 25/-"
+      },
+      {
+        "category": "SC/ST/PwBD/Women (All Categories)",
+        "fee": "Nil (Exempted)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Application Start Date",
+        "date": "08/08/2026"
+      },
+      {
+        "event": "Last Date for Submission (Posts other than UT of Ladakh)",
+        "date": "28/08/2026"
+      },
+      {
+        "event": "Last Date for Submission (Posts under UT of Ladakh)",
+        "date": "04/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Assistant Executive Engineer (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Executive Engineer (Electronics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Director (Engineering)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Superintendent Translation (Hindi Branch)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Research Officer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Horticulture Development Officer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Soil Conservation Assistant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the UPSC Online Recruitment Application portal at https://upsconline.nic.in/ora/",
+      "Create an account and complete Universal Registration to obtain a Universal Registration Number (URN).",
+      "Fill up the Common Application Form (CAF) including uploading photograph and capturing live photograph.",
+      "Fill up the post/vacancy specific module for the desired post.",
+      "Upload all required documents/certificates in PDF format (Date of Birth proof, Educational Qualifications, Experience Certificates, Caste Certificate, Disability Certificate, etc.).",
+      "Pay the application fee of Rs. 25/- online via Visa/Master/Rupay Credit/Debit Card, UPI, or Internet Banking (SC/ST/PwBD/Women candidates are exempted).",
+      "Submit the application before the closing date and take a printout of the submitted application.",
+      "Candidates are advised to use their Aadhaar Card as the ID document for verification."
+    ]
   },
   {
     "id": "wb-sbi-clerk-junior-associate-",
@@ -213,12 +337,60 @@
     "district": "State Level",
     "vacancies": "1538",
     "lastDate": "27-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
+    "officialWebsite": "https://sbi.bank.in",
+    "notificationLink": "https://sbi.bank.in/webfiles/uploads/files_2627/08/JA_2026_Backlog_Detailed_Advt_ENG.pdf",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/sbijasrdjl26/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "SC/ST/PwBD/XS/DXS",
+        "fee": "Nil"
+      },
+      {
+        "category": "OBC",
+        "fee": "Rs. 750/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Registration Start Date",
+        "date": "07/08/2026"
+      },
+      {
+        "event": "Online Registration End Date",
+        "date": "27/08/2026"
+      },
+      {
+        "event": "Preliminary Examination (Tentative) (September 2026)",
+        "date": ""
+      },
+      {
+        "event": "Main Examination (Tentative) (October/November 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Junior Associate (Customer Support & Sales) - Andhra Pradesh",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Bank’s official website: https://sbi.bank.in/web/careers/current-openings",
+      "Click on the advertisement for ‘Special Recruitment Drive for Junior Associates 2026’.",
+      "Scan and keep ready your photograph, signature, left hand thumb impression, and handwritten declaration as per specifications.",
+      "Fill in the Online Application Form carefully with all required details.",
+      "Upload the scanned photograph, signature, left thumb impression, and handwritten declaration.",
+      "Submit the application form. Note: Corrections will not be allowed after final submission.",
+      "Pay the application fee online using Debit Card / Credit Card / Internet Banking.",
+      "On successful payment, an e-receipt and application form with fee details will be generated. Print and retain for records.",
+      "Download and retain the system-generated online application form printout after submission."
+    ]
   },
   {
     "id": "wb-iiest shibpur-junior-research-fellow",
@@ -247,12 +419,247 @@
     "district": "State Level",
     "vacancies": "34",
     "lastDate": "13",
-    "officialWebsite": "https://govtjobguru.in/jobs/csir-cmeri-recruitment-2026-walk-in-for-34-project-assistant-associate-other-posts/",
-    "notificationLink": "https://govtjobguru.in/jobs/csir-cmeri-recruitment-2026-walk-in-for-34-project-assistant-associate-other-posts/",
+    "officialWebsite": "https://www.cmeri.res.in",
+    "notificationLink": "https://www.cmeri.res.in/sites/default/files/vacancy/Walk-In-Interview_AdvertisementPRCT042026.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/csir-cmeri-recruitment-2026-walk-in-for-34-project-assistant-associate-other-posts/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "03/08/2026"
+      },
+      {
+        "event": "Walk-in-Interview Day 1 (P-2691 to P-2696, P-26112 to P-26119)",
+        "date": "13/08/2026"
+      },
+      {
+        "event": "Walk-in-Interview Day 2 (P-2697 to P-26111)",
+        "date": "14/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Project Assistant-II (P-2691)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Assistant-II (P-2692)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Assistant-II (P-2693)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Assistant-II (P-2694)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Assistant-II (P-2695)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Assistant-II (P-2696)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-I (P-2697)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-I (P-2698)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-I (P-2699)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-I (P-26100)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-I (P-26101)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-I (P-26102)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-I (P-26103)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Project Associate (P-26104)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-I (P-26105)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project JRF or Project Associate-I (P-26106)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-II (P-26107)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Junior Research Fellow (P-26108)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Project Associate (P-26109)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Scientist-I / Principal Project Associate / Senior Project Associate (P-26110)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Scientist-I / Principal Project Associate / Senior Project Associate (P-26111)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-I (P-26112)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-I (P-26113)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Project Associate (P-26114)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-I (P-26115)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-I (P-26116)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-I (P-26117)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-I or Project Associate-II (P-26118)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Senior Research Fellow (P-26119)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the Application Form from the CSIR-CMERI official website.",
+      "Fill in the Application Form completely and accurately.",
+      "Collect all original certificates and mark sheets along with self-attested photocopies of each.",
+      "Arrange a recent passport size photograph.",
+      "Appear at the Walk-in-Interview at CSIR-CMERI, M.G. Avenue, Durgapur-713209 on the scheduled date and time as per Table-II.",
+      "Candidates currently engaged in CSIR-CMERI or any other CSIR Lab/Institute must produce NOC from Competent Authority.",
+      "No TA/DA will be paid for attending the Walk-in-Interview.",
+      "Selection will be based on performance and overall assessment by the selection committee."
+    ]
   },
   {
     "id": "wb-braithwaite &amp; co-safety-officer-engineer",
@@ -298,12 +705,76 @@
     "district": "State Level",
     "vacancies": "25",
     "lastDate": "20-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/clw-sports-quota-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/clw-sports-quota-recruitment-2026/",
+    "officialWebsite": "https://www.clw.indianrailways.gov.in",
+    "notificationLink": "https://clw.indianrailways.gov.in/uploads/Sports%20Quota%20Notification%202026%2020271.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/clw-sports-quota-recruitment-2026/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "SC/ST/Ex-Servicemen/PwBDs/Women/Minorities/Economically Backward Classes",
+        "fee": "Rs. 250/-"
+      },
+      {
+        "category": "All Other Candidates",
+        "fee": "Rs. 500/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Employment Notice Date",
+        "date": "20/07/2026"
+      },
+      {
+        "event": "Application Opening Date",
+        "date": "21/07/2026"
+      },
+      {
+        "event": "Application Closing Date (General)",
+        "date": "20/08/2026"
+      },
+      {
+        "event": "Application Closing Date (Remote Areas/Abroad)",
+        "date": "31/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Sportsperson - Level-5/4 (Various Disciplines)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Sportsperson - Level-2 (Various Disciplines)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Sportsperson - Level-1 (Various Disciplines)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Fill up the application in prescribed format as per Annexure ‘A’ on good quality A-4 size white paper after carefully reading the Employment Notice.",
+      "All columns of application should be filled up by the candidate in his/her own handwriting in English/Hindi using blue/black ball point pen.",
+      "Applicant should write in his/her own handwriting the sample declaration statement in the space provided in the application form.",
+      "Applicant should firmly affix one recent (taken within one month) colour passport size photograph (without cap and/or coloured glass) with white background on the application.",
+      "Send 02 (two) photographs duly signed on the back along with the application form and keep at least 05 (five) same photographs for future use.",
+      "Enclose legible photocopies (Xerox) of all Certificates in proof of Educational Qualification, Age, Caste Certificate and Proof of Sports Achievements duly attested by any Gazetted Officer or Self-Attested.",
+      "Enclose application fee (IPO/Bank DD) as applicable. Applications without application fee will be rejected.",
+      "Clearly indicate the Specific Category No., Sports Discipline and Event/Position as given in Para-2.",
+      "Write on the top of the envelope: ‘APPLICATION AGAINST SPORTS QUOTA (OPEN ADVERTISEMENT &amp; TALENT SCOUTING) RECRUITMENT FOR THE YEAR 2026-2027’.",
+      "Send application by post to: Chief Personnel Officer, Administrative Building, Chittaranjan Locomotive Works, PO- Chittaranjan, District-Paschim Bardhaman, West Bengal, Pin Code-713331. OR drop directly in the Drop Box placed at Dy.GM’s Office/CLW during office hours.",
+      "Serving Government Employees should send their applications through proper channel only."
+    ]
   },
   {
     "id": "wb-sinp-medical-officer",
@@ -383,12 +854,55 @@
     "district": "State Level",
     "vacancies": "84",
     "lastDate": "24-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/aiims-kalyani-junior-resident-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/aiims-kalyani-junior-resident-recruitment-2026/",
+    "officialWebsite": "https://www.aiimskalyani.edu.in",
+    "notificationLink": "https://aiimskalyani.edu.in/aiimsapi/uploads/documents/general/advertisement_for_jr_recruitment_20260731_143759_acf20831.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/aiims-kalyani-junior-resident-recruitment-2026/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Unreserved/OBC Category",
+        "fee": "Rs. 1,000/-"
+      },
+      {
+        "category": "SC/ST/EWS Category",
+        "fee": "Rs. 500/-"
+      },
+      {
+        "category": "PwBD Category",
+        "fee": "Exempted (No Application Fees required)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date for Online Registration",
+        "date": "24/08/2026"
+      },
+      {
+        "event": "Written Examination",
+        "date": "08/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Junior Resident (Non-Academic)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official AIIMS Kalyani website: www.aiimskalyani.edu.in",
+      "Click on the registration link: https://forms.gle/4f8GaA6iePAsazbC9",
+      "Fill in the required personal and educational details.",
+      "Upload mandatory documents: MBBS Mark Sheets (1st, 2nd, 3rd and final year) &amp; Certificates, Proof of MBBS Exam Attempts, Permanent Medical Registration Certificate, MBBS Degree Certificate or Provisional Pass Certificate, Internship Completion Certificate, One Recent Passport Size Photograph, Aadhar Card, Age proof, Category Certificate (if applicable), and Scan copy of Demand Draft.",
+      "Pay the application fee via Demand Draft in favour of ‘AIIMS KALYANI INTERNAL RESOURCES ACCOUNT’ payable at Kalyani.",
+      "Complete registration before 24.08.2026, 5:00 PM.",
+      "On the day of Written Exam and/or Interview, bring the application form (in prescribed format), original documents, one set of self-attested photocopies, and the Demand Draft for application fee.",
+      ""
+    ]
   },
   {
     "id": "wb-sinp-security-guard-scientist-technician-lower-division",
@@ -400,12 +914,244 @@
     "district": "State Level",
     "vacancies": "62",
     "lastDate": "15-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/sinp-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/sinp-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/sinp-recruitment-2026/",
+    "officialWebsite": "https://www.saha.ac.in",
+    "notificationLink": "https://govtjobguru.in/wp-content/uploads/2026/08/SINP-Recruitment-2026.pdf",
+    "applyOnlineLink": "https://www.saha.ac.in/web/portal/applications/recruitment/begin2.php",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Scientist 'C' and Scientific Assistant 'B'",
+        "fee": "Rs. 500/-"
+      },
+      {
+        "category": "All other posts (Technician 'B', LDC, Security Guard, Work Assistant, Halwai-cum-Cook)",
+        "fee": "Rs. 300/-"
+      },
+      {
+        "category": "Women candidates",
+        "fee": "Exempted"
+      },
+      {
+        "category": "PwBD candidates",
+        "fee": "Exempted"
+      },
+      {
+        "category": "Ex-Servicemen",
+        "fee": "Exempted"
+      },
+      {
+        "category": "Deputation post candidates",
+        "fee": "Exempted"
+      },
+      {
+        "category": "SC/ST candidates (for posts reserved for respective category only)",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Date of Advertisement",
+        "date": "31/07/2026"
+      },
+      {
+        "event": "Opening of Online Application",
+        "date": "31/07/2026"
+      },
+      {
+        "event": "Last Date of Submission of Online Application",
+        "date": "15/09/2026"
+      },
+      {
+        "event": "Last Date of Submission of PDF File through Email",
+        "date": "18/09/2026"
+      },
+      {
+        "event": "Last Date of Receipt of Hard Copy of Application (for employed/deputation candidates)",
+        "date": "28/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Scientist 'C' (A/1/2026-SC-S)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist 'C' (A/2/2026-SC-L)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist 'C' (A/3/2026-SC-T)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist 'C' (A/4/2026-SC-F)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientific Assistant 'B' (B/1/2026-SAB-COMP)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientific Assistant 'B' (B/2/2026-SAB-GR-B)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientific Assistant 'B' (B/3/2026-SAB-SIRC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientific Assistant 'B' (B/4/2026-SAB-BM-E)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientific Assistant 'B' (B/5/2026-SAB-AC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientific Assistant 'B' (B/6/2026-SAB-WKS)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician 'B' (C/1/2026-TB-Comp)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician 'B' (C/2/2026-TB-WKS)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician 'B' (C/3/2026-TB-BMC-1)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician 'B' (C/4/2026-TB-BMC-2)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician 'B' (C/5/2026-TB-ELEC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician 'B' (C/6/2026-TB-AC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician 'B' (C/7/2026-TB-ELECT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician 'B' (C/8/2026-TB-SIRC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician 'B' (C/9/2026-TB-FRENA)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Administrative Officer &ndash; I (B/7/2026-AAO-I)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Lower Division Clerk (C/10/2026-LDC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Security Guard A (C/11/2026-SGA)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Work Assistant 'A' (C/12/2026-WA)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Halwai-cum-Cook (C/13/2026-Cook)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website: https://www.saha.ac.in/web/job-opportunities and fill the online application form.",
+      "Candidates not exempt from fees must pay the requisite fee online before filling the application form and note the transaction reference number.",
+      "Upload self-attested documents (PDF format) including age proof, educational qualifications, ITI/relevant qualifications, experience, fee payment proof, caste/PwBD/Ex-serviceman certificates as applicable, along with scanned photograph and signature.",
+      "After submitting the online application, save the completed form as a PDF file.",
+      "Email the PDF file along with supporting documents (renamed as ‘Post Code_Application No.’) to recruit.staff@saha.ac.in with candidate’s name and post name in the subject line, before 18.09.2026 (3:00 PM IST).",
+      "Candidates applying through proper channel (Government/Quasi-Government/Autonomous/PSU employees) and Deputation candidates must send a hard copy/printout of the online submitted application along with self-attested documents, duly ink-signed and superscripted with post name and post code, to: The Registrar, Registrar’s Office, Saha Institute of Nuclear Physics, 1/AF, Bidhannagar, Kolkata &ndash; 700064, on or before 28.09.2026 (3:00 PM IST).",
+      "Deputation candidates must also include forwarding letter from present employer with Vigilance Clearance and photocopies of APARs for last 5 years duly attested.",
+      "Candidates applying for more than one post must apply separately for each post with separate fee."
+    ]
   },
   {
     "id": "wb-railtel-graduate-apprentice-engineer-diploma-apprentice-en",
@@ -417,12 +1163,53 @@
     "district": "State Level",
     "vacancies": "40",
     "lastDate": "27-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
+    "officialWebsite": "https://www.railtelindia.com",
+    "notificationLink": "https://www.railtel.in/images/careers/DocScanner%2028-Jul-2026%2004-10%20PM.pdf",
+    "applyOnlineLink": "https://nats.education.gov.in",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "28/07/2026"
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "27/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Graduate Apprentice Engineer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice Engineer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the NATS 2.0 portal at https://nats.education.gov.in.",
+      "If not already registered, register yourself on the NATS 2.0 portal before applying.",
+      "Follow the guidelines given in the student manual of NATS available at the portal (web link: https://nats.education.gov.in/assets/manual/establishment_user_manual.pdf).",
+      "Fill in the online application form with accurate details.",
+      "Upload the certificate showing your CGPA or percentage in the ‘Upload Certificate’ column. If only CGPA is mentioned, also upload the CGPA to percentage conversion formula/certificate along with the undertaking (Annexure 1) as a single PDF file of size less than 1 MB.",
+      "Submit the application online before the last date of 27.08.2026.",
+      "No other mode of application will be entertained."
+    ]
   },
   {
     "id": "wb-sub divisional office contai-nulia-civil-defence-volunteer",
@@ -451,12 +1238,183 @@
     "district": "State Level",
     "vacancies": "120",
     "lastDate": "14-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/hal-mt-and-design-trainee-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/hal-mt-and-design-trainee-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/hal-mt-and-design-trainee-recruitment-2026/",
+    "officialWebsite": "https://www.hal-india.co.in",
+    "notificationLink": "https://cbexams.com/halreg2026/Inc/Detailed_Advertisement_29072026.pdf",
+    "applyOnlineLink": "https://cbexams.com/halreg2026/default",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "UR / OBC(NCL) / EWS",
+        "fee": "Rs. 500/- (inclusive of GST)"
+      },
+      {
+        "category": "SC / ST / PwBD / Internal Candidates",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Release of Advertisement & Online Application Format",
+        "date": "29/07/2026"
+      },
+      {
+        "event": "Last Date for Receipt of Applications",
+        "date": "14/08/2026"
+      },
+      {
+        "event": "Downloading of Admit Cards",
+        "date": "20/08/2026"
+      },
+      {
+        "event": "Online Test (05-09-2026 & 06-09-2026 )",
+        "date": ""
+      },
+      {
+        "event": "Declaration of Online Test Results",
+        "date": "10/09/2026"
+      },
+      {
+        "event": "Downloading of Interview Call Letters",
+        "date": "12/09/2026"
+      },
+      {
+        "event": "Interviews at Bengaluru (21-09-2026 to 25-09-2026)",
+        "date": ""
+      },
+      {
+        "event": "Release of List of Provisionally Selected Candidates",
+        "date": "30/09/2026"
+      },
+      {
+        "event": "Issuance/Downloading of Provisional Offer",
+        "date": "06/10/2026"
+      },
+      {
+        "event": "Pre-employment Medical Examination (09-10-2026 to 15-10-2026)",
+        "date": ""
+      },
+      {
+        "event": "Pre-induction Training Document Verification at Bengaluru (26-10-2026 to 28-10-2026)",
+        "date": ""
+      },
+      {
+        "event": "Commencement of Induction Training at Bengaluru",
+        "date": "29/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Design Trainee - Aeronautical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Design Trainee - Electrical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Design Trainee - Electronics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Design Trainee - Instrumentation",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Design Trainee - Mechanical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Design Trainee - Computer Science",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Design Trainee - Metallurgy",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Electrical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Electronics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Mechanical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Computer Science",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Metallurgy",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Production",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Civil",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit HAL Website www.hal-india.co.in and click the link ‘SELECTION OF DESIGN TRAINEE/MANAGEMENT TRAINEE &ndash; 2026’ under the Careers Section.",
+      "Select the name of the post for which you want to apply.",
+      "Enter and re-enter a valid email id for OTP based registration.",
+      "Fill up Eligibility Details and upload photograph. A unique Application number will be generated.",
+      "Fill up Personal &amp; Qualification details. Use the ‘Edit’ option to correct any details before final submission.",
+      "SC/ST/PwBD/Internal candidates: On submission of personal &amp; qualification details, registration is complete. Print the Application Confirmation page.",
+      "UR/OBC(NCL)/EWS candidates: After submitting Personal &amp; Qualification Details, proceed to the Payment Gateway to pay the Application Fee of Rs.500/- (inclusive of GST) via Credit Card, Internet Banking, or UPI.",
+      "After successful payment, print the Application Confirmation page for future reference.",
+      "Ensure application is submitted well before the last date (14-08-2026, 1400 hrs.)."
+    ]
   },
   {
     "id": "wb-aai-graduate-apprentice-diploma-apprentice-iti-apprent",
@@ -468,12 +1426,53 @@
     "district": "State Level",
     "vacancies": "140",
     "lastDate": "Update",
-    "officialWebsite": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
+    "officialWebsite": "https://www.aai.aero/",
+    "notificationLink": "https://www.aai.aero/sites/default/files/examdashboard_advertisement/notification%20of%20apprentices%202026-27%20Eastern%20Region.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "28/07/2026"
+      },
+      {
+        "event": "Last Date to Apply (Update Soon)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Graduate Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "ITI Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Graduate/Diploma candidates must register on the NATS portal: https://nats.education.gov.in",
+      "ITI candidates must register on the NAPS portal: https://www.apprenticeshipindia.gov.in",
+      "After registration, search for the concerned AAI Establishment ID corresponding to your preferred location.",
+      "Submit the online application through the respective portal.",
+      "Applications submitted through any other mode shall not be accepted."
+    ]
   },
   {
     "id": "wb-aai nscbi-graduate-apprentice-diploma-apprentice-iti-apprent",
@@ -485,12 +1484,119 @@
     "district": "State Level",
     "vacancies": "38",
     "lastDate": "24-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/aai-nscbi-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/aai-nscbi-apprentice-recruitment-2026/",
+    "officialWebsite": "https://www.aai.aero",
+    "notificationLink": "https://www.aai.aero/sites/default/files/examdashboard_advertisement/Approved%20Advertisement%20for%20engagement%20of%20Apprentices%20for%20the%20year%202026-27.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-nscbi-apprentice-recruitment-2026/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "All Candidates",
+        "fee": "No Application Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date to Apply",
+        "date": "24/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Graduate Apprentice - Engg. Civil",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice - Engg. Civil",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Engg. Electrical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice - Engg. Electrical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice (ITI) - Engg. Electrical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Electronics and Communication",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice - Electronics and Tele Communication",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice (ITI) - Electronics & Mechanics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - IT",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Technical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice - Technical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice (ITI) - COPA",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Graduate/Diploma Apprentices must register and apply through the NATS/BOPT portal at https://nats.education.gov.in. Search for establishment: Airports Authority of India, O/o Airport Director, NSCBI Airport, Kolkata-52 (Establishment Code: EWBPNC000002).",
+      "ITI Trade Apprentices must register and apply through the NAPS portal at www.apprenticeshipindia.org. Search for establishment code: E06161900020.",
+      "After successful application, the message ‘Successfully applied for the training position. Based on availability, you will be contacted by the establishment’ will appear.",
+      "Candidates must register on the concerned portal (NATS/BOPT for Graduate/Diploma; NAPS for ITI Trade) prior to applying.",
+      "Applications received only through NATS/BOPT/NAPS portal will be considered. No other mode of application will be entertained.",
+      "Candidates applying for more than one discipline will not be considered and their application will be rejected.",
+      "No Application Fee is charged."
+    ]
   },
   {
     "id": "wb-rrc eastern railway-level-2-level-1",
@@ -502,12 +1608,95 @@
     "district": "State Level",
     "vacancies": "15",
     "lastDate": "06-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/rrc-eastern-railway-group-c-d-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/rrc-eastern-railway-group-c-d-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/rrc-eastern-railway-group-c-d-recruitment-2026/",
+    "officialWebsite": "https://rrcer.org/",
+    "notificationLink": "https://rrcer.org/Final%20notification%20S&G%202026-27%20along%20with%20relevant%20annexures%20pdf.pdf",
+    "applyOnlineLink": "https://rrceronline.co.in/SnG26v02LvalmDM/Reg_instructions_ERSGQ.aspx",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "UR Male, OBC Male, EWS Male",
+        "fee": "Rs. 500/- (Refund of Rs. 400/- on appearing in written exam)"
+      },
+      {
+        "category": "SC, ST, Ex-Servicemen, PwBD, Women, Minorities, Economically Backward Classes",
+        "fee": "Rs. 250/- (Full refund on appearing in written exam)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Date of Publication of Notification",
+        "date": "24/07/2026"
+      },
+      {
+        "event": "Opening Date and Time of Online Applications",
+        "date": "07/08/2026"
+      },
+      {
+        "event": "Closing Date and Time of Online Applications",
+        "date": "06/09/2026"
+      },
+      {
+        "event": "Tentative Date of Written Exam (2nd week of November)",
+        "date": "01/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Level-2 (Group C) - Eastern Railway",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Level-2 (Group C) - CLW",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Level-2 (Group C) - Metro Railway",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Level-1 (Erstwhile Group D) - Eastern Railway",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Level-1 (Erstwhile Group D) - CLW",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Level-1 (Erstwhile Group D) - Metro Railway",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website of RRC/ER Kolkata (www.rrcer.org) and click on ‘Online/E-Application for Scouts &amp; Guides Quota/2026-27’.",
+      "Click on the ‘New Registration’ link and fill in personal information (Name, Father’s Name, Date of Birth, Community, Email Address, Mobile Number).",
+      "On submission, an e-mail/SMS will be received with Registration Number and Password.",
+      "Login using the Registration Number and Password sent via e-mail/SMS.",
+      "Upload scanned copies of Photograph, Signature and LTI, self-attested certificates for Date of Birth, Educational/Technical Qualifications, Caste (SC/ST/OBC/EBC/EWS), Income Certificate, Self-declarations for OBC and Minority candidates, and Scouts &amp; Guides achievements.",
+      "Fill up all mandatory fields of the Application Form.",
+      "Pay the examination fee online using Internet Banking, Debit Card, Credit Card, or UPI.",
+      "Submit the properly filled application form and take 2 copies of the printout.",
+      "Note the Unique Application Number generated for future reference."
+    ]
   },
   {
     "id": "wb-pnb-local-bank-officer-lbo-last-date-extended-",
@@ -519,12 +1708,56 @@
     "district": "State Level",
     "vacancies": "545",
     "lastDate": "16-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/pnb-lbo-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/pnb-lbo-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/pnb-lbo-recruitment-2026/",
+    "officialWebsite": "https://pnb.bank.in/",
+    "notificationLink": "https://govtjobguru.in/wp-content/uploads/2026/07/PNB-LBO-REcruitemnt-2026.pdf",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/pnbjul26/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "SC/ST/PwBD category candidates",
+        "fee": "Rs. 50/- + GST @18% = Rs. 59/- (only postage charges)"
+      },
+      {
+        "category": "All Others (General/OBC/EWS)",
+        "fee": "Rs. 1000/- + GST @18% = Rs. 1180/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date of Online Registration",
+        "date": "20/07/2026"
+      },
+      {
+        "event": "Closing Date of Online Registration (Extended Upto)",
+        "date": "16/08/2026"
+      },
+      {
+        "event": "Tentative Date of Online Test (August 2026/ September 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Local Bank Officer (LBO)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Bank’s official website https://pnb.bank.in/ under Recruitment/Career section.",
+      "Click on the link ‘CLICK HERE FOR NEW REGISTRATION’ to register your application by entering basic information.",
+      "Note down the provisional registration number and password generated by the system.",
+      "Fill in the online application form carefully with all required details.",
+      "Scan and upload photograph, signature, left hand thumb impression, handwritten declaration, proof of age, caste/disability certificate, educational qualification, and work experience documents as per specified guidelines.",
+      "Pay the application fee online using Debit Cards (RuPay/Visa/MasterCard), Credit Cards, Internet Banking, IMPS, Cash Cards/Mobile Wallets, or UPI.",
+      "Submit the application form after verifying all details.",
+      "Take a printout of the e-receipt and online application form for future reference.",
+      "Applications can be submitted from 20.07.2026 to 09.08.2026 only."
+    ]
   },
   {
     "id": "wb-niper kolkata-teaching-and-non-teaching",
@@ -553,12 +1786,71 @@
     "district": "State Level",
     "vacancies": "6",
     "lastDate": "18-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/barc-scientific-assistant-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/barc-scientific-assistant-recruitment-2026/",
+    "officialWebsite": "https://barc.gov.in",
+    "notificationLink": "https://recruit.barc.gov.in/barcrecruit/appmanager/UserApps/getDocument?action=docfile&pid=998",
     "applyOnlineLink": "https://govtjobguru.in/jobs/barc-scientific-assistant-recruitment-2026/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General/OBC/EWS (Male)",
+        "fee": "₹150/-"
+      },
+      {
+        "category": "SC/ST/Women",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date for Online Application Submission",
+        "date": "17/07/2026"
+      },
+      {
+        "event": "Closing Date for Online Application Submission",
+        "date": "18/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Scientific Assistant/C (Psychologist)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientific Assistant/B (Pathology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientific Assistant/B (Radiography)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientific Assistant/B (Nuclear Medicine Technologist)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Only Online Applications will be accepted.",
+      "The facility of online application will be open from 17.07.2026 to 18.08.2026.",
+      "For online submission of application, visit the website recruit.barc.gov.in. Read instructions carefully given on home page by clicking the option “How to apply”.",
+      "Only one application is acceptable for one post. In case a candidate wishes to apply for more than one post, application and fees should be submitted separately for each post.",
+      "After submission of the application, an Application number will be generated. Applicant is required to make the online payment of the application fee after submission of application.",
+      "For payment of fee, click on the ‘Make Payment’ option under the ‘My Account’ menu. Select the Application number from the Drop-Down Box and click the ‘Submit’ button to proceed for online payment.",
+      "Candidates are advised to submit the ONLINE application well in advance without waiting for the closing date (18.08.2026)."
+    ]
   },
   {
     "id": "wb-railway nfr-act-apprentices",
@@ -570,12 +1862,109 @@
     "district": "State Level",
     "vacancies": "6777",
     "lastDate": "19-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/railway-nfr-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/railway-nfr-apprentice-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/railway-nfr-apprentice-recruitment-2026/",
+    "officialWebsite": "https://www.nfr.indianrailways.gov.in",
+    "notificationLink": "https://nfr.indianrailways.gov.in/cris//uploads/files/1784037710106-Notification%20for%20Engagement%20of%20Trainees%20under%20Act%20Apprenticeship%202026%20-%20Dated%2014-07-2026.pdf",
+    "applyOnlineLink": "https://app.nfr-recruitment.in/#/auth/landing",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General/OBC/EWS (Male)",
+        "fee": "₹100/-"
+      },
+      {
+        "category": "SC/ST/PwBD/EBC/Women",
+        "fee": "Exempted"
+      },
+      {
+        "category": "Application Modification Fee",
+        "fee": "₹50/- per occasion"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Date of Publication of Notification",
+        "date": "16/07/2026"
+      },
+      {
+        "event": "Opening Date for Online Application",
+        "date": "20/07/2026"
+      },
+      {
+        "event": "Closing Date for Online Application",
+        "date": "19/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Act Apprentice &ndash; Katihar (KIR) & Tindharia (TDH) Workshop",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Act Apprentice &ndash; Alipurduar (APDJ) Division",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Act Apprentice &ndash; Rangiya (RNY) Division",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Act Apprentice &ndash; Lumding (LMG) Division",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Act Apprentice &ndash; Tinsukia (TSK) Division",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Act Apprentice &ndash; New Bongaigaon Workshop (NBQS) & Engineering Workshop (EWS/BNGN)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Act Apprentice &ndash; Dibrugarh Workshop (DBWS)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Act Apprentice &ndash; Headquarter (HQ)/Maligaon",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official NFR website: www.nfr.indianrailways.gov.in",
+      "Navigate to: General Info &rarr; Departments &rarr; Personnel &rarr; Act Apprentice Notification",
+      "Register yourself and then log in to the portal.",
+      "Fill in the ONLINE application form carefully, indicating Units of choice in order of preference.",
+      "Upload all mandatory documents: Mark sheet &amp; Pass Certificate of Matriculation (Class X), ITI Provisional Certificate/NTC issued by NCVT/SCVT, Final ITI mark sheet, and other applicable certificates (caste, disability, EWS, etc.).",
+      "Pay the non-refundable application fee of ₹100/- online through the payment gateway (SC/ST/PwBD/EBC/Women candidates are exempted).",
+      "After successful payment, complete the remaining application process and download the application form.",
+      "Take a printout of the submitted online application for future reference.",
+      "Note: Only ONE application per candidate is allowed. Submission of more than one application will lead to disqualification."
+    ]
   },
   {
     "id": "wb-csir cmeri-technician-last-date-extended-",
@@ -587,11 +1976,94 @@
     "district": "State Level",
     "vacancies": "27",
     "lastDate": "13-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/csir-cmeri-technician-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/csir-cmeri-technician-recruitment-2026/",
+    "officialWebsite": "https://www.cmeri.res.in",
+    "notificationLink": "https://www.cmeri.res.in/sites/default/files/vacancy/Detail-Advt.No_.01_2026.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/csir-cmeri-technician-recruitment-2026/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General/OBC/EWS (other than Ex-Servicemen/SC/ST/Women/PwBD)",
+        "fee": "Rs. 500/-"
+      },
+      {
+        "category": "Ex-Servicemen/SC/ST/Women/PwBD",
+        "fee": "Nil (Exempted)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Date of commencement of online application",
+        "date": "04/07/2026"
+      },
+      {
+        "event": "Last Date for submission of online application (Extended Upto)",
+        "date": "13/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Technician (1) [Group-II] - Fitter (Post Code: 260101)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (1) [Group-II] - Electrician / Mechanic (Electrical Power Drives) (Post Code: 260102)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (1) [Group-II] - Electronics Mechanic / Instrument Mechanic (Post Code: 260103)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (1) [Group-II] - Machinist (Post Code: 260104)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (1) [Group-II] - Foundryman (Post Code: 260105)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (1) [Group-II] - Mechanic (Motor Vehicle/Diesel) (Post Code: 260106)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (1) [Group-II] - Refrigeration & Air-Conditioning (Post Code: 260107)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official CSIR-CMERI website: http://www.cmeri.res.in",
+      "Register with your name and email address on the Online Application Portal.",
+      "Log in using your credentials and fill in the online application form for the desired post code.",
+      "Upload recent passport size scanned colour photograph, signature, and all relevant certificates/documents at the specified places.",
+      "Pay the non-refundable application fee of Rs. 500/- (if applicable) online through State Bank Collect only.",
+      "Enter the payment transaction number/receipt number in the online application form.",
+      "Download the e-receipt from SBI Collect and upload it on the online application portal.",
+      "Verify the application to ensure it is accurate and complete, then click the ‘Submit’ button.",
+      "Keep a printout of the completed application form for future reference. Do NOT send a hard copy after submission.",
+      "A candidate can apply for multiple post codes by paying the application fee separately for each post code."
+    ]
   }
 ]

@@ -2260,4 +2260,101 @@ textarea.form-control {
   .state-dir-grid { grid-template-columns: 1fr; }
 }
 
+/* ============================================================
+   STATE DETAIL EXTENDED PARAMETERS (StateJobs.tsx)
+   ============================================================ */
+.state-detail-section {
+  margin-top: 1.75rem;
+  padding-top: 1.5rem;
+  border-top: 1px dashed var(--border, #eee);
+}
+[data-theme="dark"] .state-detail-section {
+  border-top-color: rgba(255,255,255,0.08);
+}
+.state-detail-section-title {
+  font-size: 1.05rem;
+  font-weight: 800;
+  color: var(--text-primary);
+  margin: 0 0 1rem 0;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.state-detail-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 0.5rem;
+}
+.state-detail-table th, 
+.state-detail-table td {
+  padding: 0.65rem 0.85rem;
+  font-size: 0.88rem;
+  text-align: left;
+  border: 1px solid var(--border, #e8e8e8);
+}
+.state-detail-table th {
+  background: var(--bg-secondary, #f9f9f9);
+  font-weight: 700;
+  color: var(--text-primary);
+}
+[data-theme="dark"] .state-detail-table th {
+  background: rgba(255,255,255,0.03);
+}
+[data-theme="dark"] .state-detail-table th,
+[data-theme="dark"] .state-detail-table td {
+  border-color: rgba(255,255,255,0.08);
+}
+
+/* Vacancy List Cards */
+.state-detail-vacancies-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+}
+.state-detail-vacancy-card {
+  background: var(--bg-secondary, #f9f9f9);
+  border: 1px solid var(--border, #e8e8e8);
+  border-radius: 8px;
+  padding: 1rem;
+}
+[data-theme="dark"] .state-detail-vacancy-card {
+  background: rgba(255,255,255,0.02);
+  border-color: rgba(255,255,255,0.08);
+}
+.state-detail-vacancy-postname {
+  font-size: 0.95rem;
+  font-weight: 800;
+  margin: 0 0 0.65rem 0;
+  color: var(--text-primary);
+}
+.state-detail-vacancy-specs {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.5rem 1rem;
+}
+.state-detail-vacancy-specs li {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  line-height: 1.4;
+}
+.state-detail-vacancy-specs li strong {
+  color: var(--text-primary);
+}
+
+/* Steps List */
+.state-detail-steps {
+  padding-left: 1.25rem;
+  margin: 0;
+}
+.state-detail-steps li {
+  font-size: 0.88rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+  margin-bottom: 0.5rem;
+}
+
+
 

@@ -43,12 +43,47 @@
     "district": "State Level",
     "vacancies": "10",
     "lastDate": "07-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/mizoram-psc-asi-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/mizoram-psc-asi-recruitment-2026/",
+    "officialWebsite": "https://mpsc.mizoram.gov.in/",
+    "notificationLink": "https://mpsc.mizoram.gov.in/uploads/attachments/2026/08/03ea5378e5c08e5012edace70204e62b/advertisement-no22-of-2026-27-assistant-sub-inspectorm-of-police.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/mizoram-psc-asi-recruitment-2026/",
     "state": "Mizoram",
     "stateCode": "mizoram",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Persons with Disabilities",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "06/08/2026"
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "07/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Assistant Sub-Inspector (Ministerial)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Mizoram Public Service Commission’s official online portal at https://mpsconline.mizoram.gov.in.",
+      "If not already registered, complete the One-Time Registration (OTR) on the portal before applying.",
+      "Log in and fill out the application form for the post of Assistant Sub-Inspector (Ministerial).",
+      "Upload all mandatory documents including: Marksheets of HSLC and above, Educational Certificates of HSLC and above, Proof of Computer Proficiency, Proof of Mizo Language Proficiency, SC/ST Certificate (if applicable), Proof of date of birth, and Proof of educational qualifications.",
+      "Pay the application fee through the available payment modes (UPI must be done using the mobile number used for OTR registration).",
+      "Verify that the application is actually submitted after payment is made.",
+      "Submit the application before 07.09.2026 up to 4:00 PM.",
+      "Government servants must apply through proper channel."
+    ]
   },
   {
     "id": "mizoram-mizoram psc-bench-clerk-grade-ii",
@@ -94,12 +129,46 @@
     "district": "State Level",
     "vacancies": "5",
     "lastDate": "31-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/mizoram-psc-soil-conservation-ranger-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/mizoram-psc-soil-conservation-ranger-recruitment-2026/",
+    "officialWebsite": "https://mpsc.mizoram.gov.in/",
+    "notificationLink": "https://mpsc.mizoram.gov.in/uploads/attachments/2026/07/d27f11760cc587ff221e745cbd40c978/advertisement-no21-of-2026-27-soil-conservation-ranger.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/mizoram-psc-soil-conservation-ranger-recruitment-2026/",
     "state": "Mizoram",
     "stateCode": "mizoram",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Persons with Disabilities",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "28/07/2026"
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "31/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Soil Conservation Ranger",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Mizoram Public Service Commission’s online portal at https://mpsconline.mizoram.gov.in.",
+      "If not already registered, complete the one-time registration (OTR) on the portal well before the last date.",
+      "Log in and fill in the application form for the post of Soil Conservation Ranger.",
+      "Upload all mandatory documents: Marksheets of HSLC &amp; above, Educational Certificates of HSLC &amp; above, Proof of Computer Proficiency, Proof of Mizo Language Proficiency, SC/ST Certificate (if applicable), Proof of date of birth, and Proof of educational qualifications.",
+      "Pay the application fee through the available payment modes (UPI must use the mobile number used for one-time registration). Persons with disabilities are exempted from payment.",
+      "Verify that the application is actually submitted after payment is made.",
+      "Ensure all documents are uploaded before the closing date of 31/08/2026 up to 4:00 PM."
+    ]
   },
   {
     "id": "mizoram-mizoram psc-sub-inspector-of-excise-amp-narcotics",
@@ -111,12 +180,50 @@
     "district": "State Level",
     "vacancies": "2",
     "lastDate": "28-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/mizoram-psc-si-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/mizoram-psc-si-recruitment-2026/",
+    "officialWebsite": "https://mpsc.mizoram.gov.in/",
+    "notificationLink": "https://mpsc.mizoram.gov.in/uploads/attachments/2026/07/8859e5318ef2b059e7b4ca7650956143/advertisement-no19-of-2026-27-sub-inspector-of-excise.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/mizoram-psc-si-recruitment-2026/",
     "state": "Mizoram",
     "stateCode": "mizoram",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Persons with Disabilities",
+        "fee": "Exempted"
+      },
+      {
+        "category": "General/Others",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "24/07/2026"
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "28/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Sub-Inspector of Excise & Narcotics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Mizoram Public Service Commission’s official online portal at https://mpsconline.mizoram.gov.in.",
+      "If not already registered, complete the One-Time Registration (OTR) on the portal before applying.",
+      "Fill in the application form with accurate and complete details.",
+      "Upload all mandatory documents including: Marksheets of HSLC and above, Educational Certificates of HSLC and above, Proof of Computer Proficiency, Proof of Mizo Language Proficiency, SC/ST Certificate (if applicable), Proof of date of birth, Graduation certificate and complete marksheets.",
+      "Pay the application fee (UPI payment must be done using the mobile number used for OTR registration). Persons with disabilities are exempted from payment.",
+      "Verify that the application is actually submitted after payment is made.",
+      "Submit the application before 28/08/2026 upto 4:00 PM."
+    ]
   },
   {
     "id": "mizoram-mizoram psc-junior-scientific-officer-jso-",
@@ -128,12 +235,88 @@
     "district": "State Level",
     "vacancies": "12",
     "lastDate": "27-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/mizoram-psc-jso-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/mizoram-psc-jso-recruitment-2026/",
+    "officialWebsite": "https://mpsc.mizoram.gov.in/",
+    "notificationLink": "https://mpsc.mizoram.gov.in/uploads/attachments/2026/07/cdb25b2e38d1083f1ef5ba519c06df28/advertisement-no18-of-2026-27-junior-scientific-officer-jso.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/mizoram-psc-jso-recruitment-2026/",
     "state": "Mizoram",
     "stateCode": "mizoram",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Persons with Disabilities",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "24/07/2026"
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "27/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "JSO (DNA)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "JSO (Fingerprint)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "JSO (Chemistry)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "JSO (Ballistics & Toolmarks)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "JSO (Questioned Documents)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "JSO (Photography)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "JSO (Cyber Forensic)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Mizoram Public Service Commission’s official online portal at https://mpsconline.mizoram.gov.in.",
+      "If not already registered, complete the One-Time Registration (OTR) on the portal before applying.",
+      "Log in and fill out the application form for the post of Junior Scientific Officer (JSO).",
+      "Upload all mandatory documents including marksheets, educational certificates, proof of computer proficiency, Mizo language proficiency, SC/ST certificate (if applicable), proof of date of birth, and relevant educational qualification proofs.",
+      "Pay the application fee through the available payment mode (UPI must be done using the mobile number used for OTR). Persons with disabilities are exempted from payment.",
+      "Verify that the application is actually submitted after payment is made.",
+      "Submit the application before 27/08/2026 up to 4:00 PM."
+    ]
   },
   {
     "id": "mizoram-pnb-local-bank-officer-lbo-last-date-extended-",
@@ -145,11 +328,55 @@
     "district": "State Level",
     "vacancies": "545",
     "lastDate": "16-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/pnb-lbo-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/pnb-lbo-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/pnb-lbo-recruitment-2026/",
+    "officialWebsite": "https://pnb.bank.in/",
+    "notificationLink": "https://govtjobguru.in/wp-content/uploads/2026/07/PNB-LBO-REcruitemnt-2026.pdf",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/pnbjul26/",
     "state": "Mizoram",
     "stateCode": "mizoram",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "SC/ST/PwBD category candidates",
+        "fee": "Rs. 50/- + GST @18% = Rs. 59/- (only postage charges)"
+      },
+      {
+        "category": "All Others (General/OBC/EWS)",
+        "fee": "Rs. 1000/- + GST @18% = Rs. 1180/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date of Online Registration",
+        "date": "20/07/2026"
+      },
+      {
+        "event": "Closing Date of Online Registration (Extended Upto)",
+        "date": "16/08/2026"
+      },
+      {
+        "event": "Tentative Date of Online Test (August 2026/ September 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Local Bank Officer (LBO)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Bank’s official website https://pnb.bank.in/ under Recruitment/Career section.",
+      "Click on the link ‘CLICK HERE FOR NEW REGISTRATION’ to register your application by entering basic information.",
+      "Note down the provisional registration number and password generated by the system.",
+      "Fill in the online application form carefully with all required details.",
+      "Scan and upload photograph, signature, left hand thumb impression, handwritten declaration, proof of age, caste/disability certificate, educational qualification, and work experience documents as per specified guidelines.",
+      "Pay the application fee online using Debit Cards (RuPay/Visa/MasterCard), Credit Cards, Internet Banking, IMPS, Cash Cards/Mobile Wallets, or UPI.",
+      "Submit the application form after verifying all details.",
+      "Take a printout of the e-receipt and online application form for future reference.",
+      "Applications can be submitted from 20.07.2026 to 09.08.2026 only."
+    ]
   }
 ]

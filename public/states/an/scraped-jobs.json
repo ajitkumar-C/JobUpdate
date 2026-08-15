@@ -9,12 +9,53 @@
     "district": "State Level",
     "vacancies": "140",
     "lastDate": "Update",
-    "officialWebsite": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
+    "officialWebsite": "https://www.aai.aero/",
+    "notificationLink": "https://www.aai.aero/sites/default/files/examdashboard_advertisement/notification%20of%20apprentices%202026-27%20Eastern%20Region.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
     "state": "Andaman & Nicobar",
     "stateCode": "an",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "28/07/2026"
+      },
+      {
+        "event": "Last Date to Apply (Update Soon)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Graduate Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "ITI Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Graduate/Diploma candidates must register on the NATS portal: https://nats.education.gov.in",
+      "ITI candidates must register on the NAPS portal: https://www.apprenticeshipindia.gov.in",
+      "After registration, search for the concerned AAI Establishment ID corresponding to your preferred location.",
+      "Submit the online application through the respective portal.",
+      "Applications submitted through any other mode shall not be accepted."
+    ]
   },
   {
     "id": "an-indian coast guard-engine-driver",

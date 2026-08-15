@@ -94,12 +94,67 @@
     "district": "State Level",
     "vacancies": "300",
     "lastDate": "16-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/sccl-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/sccl-apprentice-recruitment-2026/",
+    "officialWebsite": "https://www.scclmines.com",
+    "notificationLink": "https://scclmines.com/apprenticeship/docs/202601_Circular_Annexure.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/sccl-apprentice-recruitment-2026/",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "All Candidates",
+        "fee": "No Registration Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Portal Opening Date & Time",
+        "date": "06/08/2026"
+      },
+      {
+        "event": "Portal Closing Date & Time",
+        "date": "16/08/2026"
+      },
+      {
+        "event": "Hard Copy Submission Start",
+        "date": "06/08/2026"
+      },
+      {
+        "event": "Hard Copy Submission End",
+        "date": "16/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Graduate Apprentice - Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Non-Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Register on the NATS 2.0 web portal at www.nats.education.gov.in and obtain a Registration Number by filling required fields and uploading certificate copies.",
+      "Apply through the official SCCL web portal at www.scclmines.com/apprenticeship from 06.08.2026 12PM to 16.08.2026 5PM. Read terms and conditions before applying.",
+      "Enter all required information and upload a recent photo (JPEG format, 10KB&ndash;50KB, 3.5cm x 4.5cm with signature at bottom) along with the following original certificates in PDF format (50KB&ndash;250KB): SSC Certificate, Graduate/Diploma Certificate (Provisional Certificate &amp; Consolidated Marks Memo), Reservation Certificate (if applicable), SCCL Employee/Ex-Employee Children documents (if applicable), PDF/PAF Certificate (if applicable).",
+      "Open a Union Bank of India (UBI) account at any SCCL salary disbursing branch, complete Aadhaar linking and e-KYC, and enable Direct Benefit Transfer (DBT).",
+      "Submit the duly signed portal-generated application printout along with NATS 2.0 registration form, certificate copies (Provisional Certificate &amp; Consolidated Marks Memo), and UBI bank account first page at the nearest Area GVTC/MVTC from 06.08.2026 12PM to 16.08.2026 5PM.",
+      "Opt into the Union Bank of India Rs.30 Lakhs Group Accidental Insurance Policy by paying approximately Rs.750/- premium for the one-year training period."
+    ]
   },
   {
     "id": "telangana-indbank-relationship-manager-dealer",
@@ -111,12 +166,51 @@
     "district": "State Level",
     "vacancies": "14",
     "lastDate": "31-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/indbank-relationship-manager-and-dealer-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/indbank-relationship-manager-and-dealer-recruitment-2026/",
+    "officialWebsite": "https://www.indbankonline.com",
+    "notificationLink": "https://www.indbankonline.com/v/?v=2026/08/Advertisement-for-the-post-of-Relationshipmanager-Dealer-dated-10.08.2026.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/indbank-relationship-manager-and-dealer-recruitment-2026/",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "10/08/2026"
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "31/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Relationship Manager",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Dealer - For Stock Broking Terminals",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the application form from the official website www.indbankonline.com.",
+      "Fill in the application form duly and attach copies of all required enclosures.",
+      "Send the duly filled application via courier or Registered Post to: Head Administration, No 480, 1st Floor Khivraj Complex I, Anna Salai, Nandanam, Chennai-35.",
+      "Alternatively, send the scanned copy of the duly filled application with enclosures to recruitment@indbankonline.com.",
+      "Ensure the application is received on or before 31.08.2026."
+    ]
   },
   {
     "id": "telangana-tgcab-cooperative-intern",
@@ -162,12 +256,107 @@
     "district": "State Level",
     "vacancies": "9",
     "lastDate": "13-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/csir-ngri-recruitment-2026-recruitment-for-project-assistant-other-posts/",
-    "notificationLink": "https://govtjobguru.in/jobs/csir-ngri-recruitment-2026-recruitment-for-project-assistant-other-posts/",
+    "officialWebsite": "https://www.ngri.res.in",
+    "notificationLink": "https://www.ngri.res.in/upload/uploadfiles/files/pp082026-07082026.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/csir-ngri-recruitment-2026-recruitment-for-project-assistant-other-posts/",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "07/08/2026"
+      },
+      {
+        "event": "Last Date for Online Application/Document Upload",
+        "date": "13/08/2026"
+      },
+      {
+        "event": "Walk-in Interview (Post Code A & B)",
+        "date": "17/08/2026"
+      },
+      {
+        "event": "Walk-in Interview (Post Code C)",
+        "date": "19/08/2026"
+      },
+      {
+        "event": "Walk-in Interview (Post Code D, E & F)",
+        "date": "21/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Project Assistant-II (PA-II) - Post Code A",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-I (PAT-I) - Post Code B",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-I (PAT-I) - Post Code C (MLP 002632)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-I / II (PAT-I / II) - Post Code C (CLP-941-28)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-I (PAT-I) - Post Code D",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-II (PAT-II) - Post Code E (MLP 002632)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-II (PAT-II) - Post Code E (FBR 090408)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-II (PAT-II) - Post Code F",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "All candidates must fill the Google Form (available on CSIR-NGRI website) before attending the interview.",
+      "Fill the Application Form available on the official website.",
+      "For Walk-in Interview: Report at CSIR-NGRI, Uppal Road, Hyderabad between 08:30 AM and 10:00 AM on the respective interview date.",
+      "Bring the filled Application Form, Original Certificates, one set of self-attested photocopies of certificates (Educational Qualifications, Age, Caste, Experience), Curriculum Vitae, and one recent passport size photo.",
+      "Candidates unable to attend Walk-in must fill the Google Form and upload the filled application form along with all certificates (educational qualifications, age, caste, CV, experience, Aadhar) in a single PDF on or before 13.08.2026 for online interview.",
+      "Final Semester/Year students awaiting results are NOT eligible.",
+      "No TA/DA will be paid for attending the Walk-in Interview."
+    ]
   },
   {
     "id": "telangana-iit hyderabad-post-doctoral-research-fellow",
@@ -247,12 +436,71 @@
     "district": "State Level",
     "vacancies": "165",
     "lastDate": "16-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/drdo-drdl-paid-internship-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/drdo-drdl-paid-internship-recruitment-2026/",
+    "officialWebsite": "https://www.drdo.gov.in",
+    "notificationLink": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtDRDL0708026.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/drdo-drdl-paid-internship-recruitment-2026/",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date for Filling of Applications",
+        "date": "16/08/2026"
+      },
+      {
+        "event": "Information to Selected Candidates for Interview",
+        "date": "23/08/2026"
+      },
+      {
+        "event": "Date of Start of Internship",
+        "date": "01/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Engineering &ndash; Electronics (EE)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Engineering &ndash; Mechanical/Chemical/Aerospace/Production/Material/Safety/Textile Technology (ME)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Mathematics and Allied Science (PH)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Computer Science and Engineering &ndash; CSE, AI, Cyber Security & Allied (CS)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must be pursuing UG Engineering (Final Year) or PG Engineering/Physical Science (Final Year) from a recognized Indian University/Institute.",
+      "Obtain a referral/request letter from the Principal/Director of the Institution (mandatory).",
+      "Fill the application form as per the prescribed format on college letterhead.",
+      "Forward the scanned copy of the application to drdlintern2026@gmail.com.",
+      "Submit the application in an envelope at the registration desk during walk-in-interview, clearly writing ‘Application for Paid Internship’ and the Branch Code on the envelope.",
+      "Shortlisted candidates will be notified about joining procedures, undertaking forms, and indemnity bond details via phone and DRDO website.",
+      "At the time of joining, submit all required documents including NOC from college, police verification certificate, Aadhar card, college ID, passport size photographs, medical fitness certificate, and all previous semester mark sheets."
+    ]
   },
   {
     "id": "telangana-sbi-clerk-junior-associate-",
@@ -264,12 +512,60 @@
     "district": "State Level",
     "vacancies": "1538",
     "lastDate": "27-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
+    "officialWebsite": "https://sbi.bank.in",
+    "notificationLink": "https://sbi.bank.in/webfiles/uploads/files_2627/08/JA_2026_Backlog_Detailed_Advt_ENG.pdf",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/sbijasrdjl26/",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "SC/ST/PwBD/XS/DXS",
+        "fee": "Nil"
+      },
+      {
+        "category": "OBC",
+        "fee": "Rs. 750/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Registration Start Date",
+        "date": "07/08/2026"
+      },
+      {
+        "event": "Online Registration End Date",
+        "date": "27/08/2026"
+      },
+      {
+        "event": "Preliminary Examination (Tentative) (September 2026)",
+        "date": ""
+      },
+      {
+        "event": "Main Examination (Tentative) (October/November 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Junior Associate (Customer Support & Sales) - Andhra Pradesh",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Bank’s official website: https://sbi.bank.in/web/careers/current-openings",
+      "Click on the advertisement for ‘Special Recruitment Drive for Junior Associates 2026’.",
+      "Scan and keep ready your photograph, signature, left hand thumb impression, and handwritten declaration as per specifications.",
+      "Fill in the Online Application Form carefully with all required details.",
+      "Upload the scanned photograph, signature, left thumb impression, and handwritten declaration.",
+      "Submit the application form. Note: Corrections will not be allowed after final submission.",
+      "Pay the application fee online using Debit Card / Credit Card / Internet Banking.",
+      "On successful payment, an e-receipt and application form with fee details will be generated. Print and retain for records.",
+      "Download and retain the system-generated online application form printout after submission."
+    ]
   },
   {
     "id": "telangana-gmc wanaparthy-professor-associate-professor-and-more",
@@ -383,12 +679,185 @@
     "district": "State Level",
     "vacancies": "48",
     "lastDate": "21-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/isro-nrsc-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/isro-nrsc-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/isro-nrsc-recruitment-2026/",
+    "officialWebsite": "https://www.nrsc.gov.in/Career_Apply",
+    "notificationLink": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/July/NRSC_RMT_1_2026_dated_31072026.pdf",
+    "applyOnlineLink": "https://apps.nrsc.gov.in/eRecruitment_NRSC/",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General/EWS/OBC (Male)",
+        "fee": "₹250/-"
+      },
+      {
+        "category": "Women/SC/ST/PwBD/Ex-Servicemen",
+        "fee": "₹250/- (Refundable subject to eligibility and participation in selection process)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date for Online Registration",
+        "date": "01/08/2026"
+      },
+      {
+        "event": "Closing Date for Online Registration",
+        "date": "21/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Research Scientist (RS20)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Research Scientist (RS21)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Research Scientist (RS22)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Research Scientist (RS23)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Research Scientist (RS24)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Research Scientist (RS25)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-I (PAI-06)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-II (PAII-02)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-II (PAII-03)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Scientist-B (PSB03)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Scientist-B (PSB04)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Scientist-B (PSB05)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Scientist-B (PSB06)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Scientist-I (PSI-06)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Research Fellow (JRF30)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Research Fellow (JRF31)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Research Fellow (JRF32)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Research Fellow (JRF33)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Research Fellow (JRF34)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Research Fellow (JRF35)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the NRSC official website: https://www.nrsc.gov.in/Career_Apply",
+      "Register online from 01.08.2026 (1000 hrs) to 21.08.2026 (1700 hrs).",
+      "Fill in all required details carefully in the online application form.",
+      "Upload scanned copies of required documents: recent passport-size photograph (jpg/jpeg, max 40KB, 110x140px), signature (jpg/jpeg, max 20KB, 200x50px), SSC/10th certificate, Intermediate/Diploma, Graduation certificate and mark sheets, Post Graduation certificate and mark sheets, GATE/NET score card (for JRF posts), caste/category certificate if applicable.",
+      "After filling the form, you will be redirected to BHARATKOSH payment gateway to pay the application fee of ₹250/-.",
+      "On successful payment, download the e-acknowledgement for future reference.",
+      "After successful payment, login again to the e-recruitment portal for final submission of the application.",
+      "Download the personalised registration confirmation form containing Name, Registration No., Advertisement No., and Post Code.",
+      "Candidates intending to apply for more than one post must submit separate applications for each post."
+    ]
   },
   {
     "id": "telangana-iit hyderabad-junior-research-fellow",
@@ -434,12 +903,53 @@
     "district": "State Level",
     "vacancies": "40",
     "lastDate": "27-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
+    "officialWebsite": "https://www.railtelindia.com",
+    "notificationLink": "https://www.railtel.in/images/careers/DocScanner%2028-Jul-2026%2004-10%20PM.pdf",
+    "applyOnlineLink": "https://nats.education.gov.in",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "28/07/2026"
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "27/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Graduate Apprentice Engineer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice Engineer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the NATS 2.0 portal at https://nats.education.gov.in.",
+      "If not already registered, register yourself on the NATS 2.0 portal before applying.",
+      "Follow the guidelines given in the student manual of NATS available at the portal (web link: https://nats.education.gov.in/assets/manual/establishment_user_manual.pdf).",
+      "Fill in the online application form with accurate details.",
+      "Upload the certificate showing your CGPA or percentage in the ‘Upload Certificate’ column. If only CGPA is mentioned, also upload the CGPA to percentage conversion formula/certificate along with the undertaking (Annexure 1) as a single PDF file of size less than 1 MB.",
+      "Submit the application online before the last date of 27.08.2026.",
+      "No other mode of application will be entertained."
+    ]
   },
   {
     "id": "telangana-tslprb-sct-sub-inspector-of-police-station-fire-officer-d",
@@ -451,12 +961,127 @@
     "district": "State Level",
     "vacancies": "325",
     "lastDate": "Update",
-    "officialWebsite": "https://govtjobguru.in/jobs/tslprb-ai-asi-pc-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/tslprb-ai-asi-pc-recruitment-2026/",
+    "officialWebsite": "https://www.tgprb.in",
+    "notificationLink": "https://www.tgprb.in/SI_PC_2026/PC%20Driver%20&%20Mechanic%20Notification%202026%20dated%2029-07-2026.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/tslprb-ai-asi-pc-recruitment-2026/",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "OC & BC (Local Telangana)",
+        "fee": "As designated in the Online Application (exact amount not specified)"
+      },
+      {
+        "category": "SC & ST (Local Telangana)",
+        "fee": "Concessional fee as designated in the Online Application (exact amount not specified)"
+      },
+      {
+        "category": "Fee Rebate for additional posts &ndash; Local SC/ST candidates",
+        "fee": "₹50 per additional post (in excess of 1)"
+      },
+      {
+        "category": "Fee Rebate for additional posts &ndash; All other candidates",
+        "fee": "₹100 per additional post (in excess of 1)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Release Date",
+        "date": "29/07/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "SCT Sub Inspector of Police (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "SCT Reserve Sub Inspector of Police (AR)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "SCT Reserve Sub Inspector of Police (SAR CPL) (Men)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "SCT Reserve Sub Inspector of Police (TGSP) (Men)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "SCT Sub Inspector, Telangana Special Protection Force",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Station Fire Officer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Jailor (Men)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Jailor (Women)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "SCT Police Constable (Mechanic) (Men)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "SCT Police Constable (Driver) (Men)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "SCT Assistant Sub Inspector, Fingerprint Bureau",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official TSLPRB website: www.tgprb.in",
+      "Register using your mobile number as the User ID.",
+      "Select the notification(s) and post(s) you wish to apply for.",
+      "Note the applicable fee and complete payment via Credit Card, Debit Card, or Net Banking.",
+      "Log in and fill in Part-I of the Application Form.",
+      "Scan and upload your passport-size photograph and specimen signature as a single JPG file (30 KB&ndash;100 KB).",
+      "Review all entries, confirm via OTP sent to your registered mobile number, and submit Part-I.",
+      "Download and print the generated Part-I application form in PDF.",
+      "Candidates who qualify the Preliminary Written Test (SI Civil/RSI/SPF SI/SFO/Deputy Jailor group) &mdash; or, for PC Mechanic/Driver and ASI FPB (which have no Preliminary Written Test), at the appropriate later stage &mdash; must revisit the website to submit Part-II along with scanned certificates/documents.",
+      "Download and retain a copy of the final submitted form for future reference."
+    ]
   },
   {
     "id": "telangana-telangana anganwadi-anganwadi-teacher",
@@ -485,12 +1110,183 @@
     "district": "State Level",
     "vacancies": "120",
     "lastDate": "14-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/hal-mt-and-design-trainee-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/hal-mt-and-design-trainee-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/hal-mt-and-design-trainee-recruitment-2026/",
+    "officialWebsite": "https://www.hal-india.co.in",
+    "notificationLink": "https://cbexams.com/halreg2026/Inc/Detailed_Advertisement_29072026.pdf",
+    "applyOnlineLink": "https://cbexams.com/halreg2026/default",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "UR / OBC(NCL) / EWS",
+        "fee": "Rs. 500/- (inclusive of GST)"
+      },
+      {
+        "category": "SC / ST / PwBD / Internal Candidates",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Release of Advertisement & Online Application Format",
+        "date": "29/07/2026"
+      },
+      {
+        "event": "Last Date for Receipt of Applications",
+        "date": "14/08/2026"
+      },
+      {
+        "event": "Downloading of Admit Cards",
+        "date": "20/08/2026"
+      },
+      {
+        "event": "Online Test (05-09-2026 & 06-09-2026 )",
+        "date": ""
+      },
+      {
+        "event": "Declaration of Online Test Results",
+        "date": "10/09/2026"
+      },
+      {
+        "event": "Downloading of Interview Call Letters",
+        "date": "12/09/2026"
+      },
+      {
+        "event": "Interviews at Bengaluru (21-09-2026 to 25-09-2026)",
+        "date": ""
+      },
+      {
+        "event": "Release of List of Provisionally Selected Candidates",
+        "date": "30/09/2026"
+      },
+      {
+        "event": "Issuance/Downloading of Provisional Offer",
+        "date": "06/10/2026"
+      },
+      {
+        "event": "Pre-employment Medical Examination (09-10-2026 to 15-10-2026)",
+        "date": ""
+      },
+      {
+        "event": "Pre-induction Training Document Verification at Bengaluru (26-10-2026 to 28-10-2026)",
+        "date": ""
+      },
+      {
+        "event": "Commencement of Induction Training at Bengaluru",
+        "date": "29/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Design Trainee - Aeronautical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Design Trainee - Electrical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Design Trainee - Electronics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Design Trainee - Instrumentation",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Design Trainee - Mechanical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Design Trainee - Computer Science",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Design Trainee - Metallurgy",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Electrical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Electronics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Mechanical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Computer Science",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Metallurgy",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Production",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Civil",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit HAL Website www.hal-india.co.in and click the link ‘SELECTION OF DESIGN TRAINEE/MANAGEMENT TRAINEE &ndash; 2026’ under the Careers Section.",
+      "Select the name of the post for which you want to apply.",
+      "Enter and re-enter a valid email id for OTP based registration.",
+      "Fill up Eligibility Details and upload photograph. A unique Application number will be generated.",
+      "Fill up Personal &amp; Qualification details. Use the ‘Edit’ option to correct any details before final submission.",
+      "SC/ST/PwBD/Internal candidates: On submission of personal &amp; qualification details, registration is complete. Print the Application Confirmation page.",
+      "UR/OBC(NCL)/EWS candidates: After submitting Personal &amp; Qualification Details, proceed to the Payment Gateway to pay the Application Fee of Rs.500/- (inclusive of GST) via Credit Card, Internet Banking, or UPI.",
+      "After successful payment, print the Application Confirmation page for future reference.",
+      "Ensure application is submitted well before the last date (14-08-2026, 1400 hrs.)."
+    ]
   },
   {
     "id": "telangana-isro-scientist-engineer-sc-",
@@ -502,12 +1298,105 @@
     "district": "State Level",
     "vacancies": "92",
     "lastDate": "17-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/isro-scientist-engineer-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/isro-scientist-engineer-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/isro-scientist-engineer-recruitment-2026/",
+    "officialWebsite": "https://www.isro.gov.in/",
+    "notificationLink": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/July/GATE_Bilingual_Advertisement_2026_28072026.pdf",
+    "applyOnlineLink": "https://apps.ursc.gov.in/CentralBE-2026/advt.jsp",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General/OBC/EWS (Male)",
+        "fee": "₹250/-"
+      },
+      {
+        "category": "Women/SC/ST/Ex-Servicemen/PwBD",
+        "fee": "Nil (Exempted)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date for Online Registration",
+        "date": "28/07/2026"
+      },
+      {
+        "event": "Closing Date for Online Registration",
+        "date": "17/08/2026"
+      },
+      {
+        "event": "Last Date for Payment of Application Fee",
+        "date": "19/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Scientist/Engineer 'SC' (Electronics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer 'SC' (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer 'SC' (Computer Science)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer 'SC' (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer 'SC' (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer 'SC' (Refrigeration & Air Conditioning)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer 'SC' (Architecture)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer 'SC' (Civil) &ndash; Autonomous Body [PRL]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit ISRO official website www.isro.gov.in between 28-07-2026 and 17-08-2026.",
+      "Candidates registered under National Career Services (NCS) portal and fulfilling eligibility conditions may apply online.",
+      "Fill in all required details in the online application form carefully.",
+      "Upload clear scanned copies/images of photograph (jpg format) and GATE Score card (PDF format).",
+      "Submit the online application form.",
+      "Pay the non-refundable application fee of ₹250/- through Bharatkosh portal via Internet Banking, UPI, Debit Card, or Credit Card (last date: 19-08-2026).",
+      "Note the online Registration Number generated after registration for future reference.",
+      "Ensure correct e-mail ID is provided as hall tickets/call letters will be sent by e-mail only.",
+      "Women/SC/ST/Ex-servicemen/PwBD candidates are exempted from application fee."
+    ]
   },
   {
     "id": "telangana-bits pilani-junior-research-fellow-postdoctoral-research-fello",
@@ -570,12 +1459,56 @@
     "district": "State Level",
     "vacancies": "545",
     "lastDate": "16-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/pnb-lbo-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/pnb-lbo-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/pnb-lbo-recruitment-2026/",
+    "officialWebsite": "https://pnb.bank.in/",
+    "notificationLink": "https://govtjobguru.in/wp-content/uploads/2026/07/PNB-LBO-REcruitemnt-2026.pdf",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/pnbjul26/",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "SC/ST/PwBD category candidates",
+        "fee": "Rs. 50/- + GST @18% = Rs. 59/- (only postage charges)"
+      },
+      {
+        "category": "All Others (General/OBC/EWS)",
+        "fee": "Rs. 1000/- + GST @18% = Rs. 1180/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date of Online Registration",
+        "date": "20/07/2026"
+      },
+      {
+        "event": "Closing Date of Online Registration (Extended Upto)",
+        "date": "16/08/2026"
+      },
+      {
+        "event": "Tentative Date of Online Test (August 2026/ September 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Local Bank Officer (LBO)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Bank’s official website https://pnb.bank.in/ under Recruitment/Career section.",
+      "Click on the link ‘CLICK HERE FOR NEW REGISTRATION’ to register your application by entering basic information.",
+      "Note down the provisional registration number and password generated by the system.",
+      "Fill in the online application form carefully with all required details.",
+      "Scan and upload photograph, signature, left hand thumb impression, handwritten declaration, proof of age, caste/disability certificate, educational qualification, and work experience documents as per specified guidelines.",
+      "Pay the application fee online using Debit Cards (RuPay/Visa/MasterCard), Credit Cards, Internet Banking, IMPS, Cash Cards/Mobile Wallets, or UPI.",
+      "Submit the application form after verifying all details.",
+      "Take a printout of the e-receipt and online application form for future reference.",
+      "Applications can be submitted from 20.07.2026 to 09.08.2026 only."
+    ]
   },
   {
     "id": "telangana-niab-technical-officer",
@@ -604,12 +1537,77 @@
     "district": "State Level",
     "vacancies": "7",
     "lastDate": "22-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/tgpsc-town-planning-assistant-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/tgpsc-town-planning-assistant-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/tgpsc-town-planning-assistant-recruitment-2026/",
+    "officialWebsite": "https://www.tgpsc.gov.in",
+    "notificationLink": "https://websitenew.tgpsc.gov.in/preview/UFJFU1NOT1RFL05PVElGSUNBVElPTi1UT1dOLVBMQU5OSU5HLUFTU1QyMDI2MDcxMDE3MTYwNi5wZGZhY2Nlc3N0aW1lPTIwMjYtMTAtMTA=r95v17a0y2d8i13v",
+    "applyOnlineLink": "https://application.tgpsc.gov.in/CandidateEntryGYUDF0622302786",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "OC & BC Applicants (Application Processing Fee)",
+        "fee": "Rs. 1000/-"
+      },
+      {
+        "category": "SC, ST & PwD Applicants (Application Processing Fee)",
+        "fee": "Rs. 500/-"
+      },
+      {
+        "category": "All Applicants (Examination Fee)",
+        "fee": "Rs. 120/-"
+      },
+      {
+        "category": "Unemployed Applicants (Examination Fee)",
+        "fee": "Exempted"
+      },
+      {
+        "category": "Government Employees (Examination Fee)",
+        "fee": "Rs. 120/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Submission of Online Application Starts",
+        "date": "15/07/2026"
+      },
+      {
+        "event": "Last Date & Time of Submission of Online Application",
+        "date": "22/08/2026"
+      },
+      {
+        "event": "Downloading of Hall Tickets (7 days prior to the date of examination upto 5:00 PM on the previous day of Examination.)",
+        "date": ""
+      },
+      {
+        "event": "Tentative Schedule of Examination (October 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Town Planning Assistant (State Level - Post Code 01)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Town Planning Assistant (Multi Zonal - Post Code 02)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the TGPSC website at https://www.tgpsc.gov.in and register via One Time Registration (OTR) if not already registered, to obtain a TGPSC ID.",
+      "Login to the website using your TGPSC ID and Date of Birth, and authenticate via OTP received on your registered mobile number.",
+      "Verify personal details fetched from OTR database (Name, Date of Birth, Educational Qualifications, Community, Gender, Disability, Ex-Servicemen &amp; Sports, etc.).",
+      "Select the preferred examination centre.",
+      "Preview the application for correctness and click on SAVE &amp; PAYMENT button.",
+      "Pay the prescribed application processing fee and examination fee online through Net Banking, Debit Card, Credit Card, or UPI.",
+      "After payment, download the generated PDF application form and note the Reference ID Number for future correspondence."
+    ]
   },
   {
     "id": "telangana-tgpsc-assistant-director-of-town-planning",
@@ -621,12 +1619,70 @@
     "district": "State Level",
     "vacancies": "10",
     "lastDate": "17-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/tgpsc-assistant-director-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/tgpsc-assistant-director-recruitment-2026/",
+    "officialWebsite": "https://www.tgpsc.gov.in",
+    "notificationLink": "https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTi1BU1NULURJUi1UT1dOLVBMQU5OSU5HICgxKTIwMjYwNzA2MTgwNDExLnBkZg==r95v17a0y2d8i13v",
     "applyOnlineLink": "https://govtjobguru.in/jobs/tgpsc-assistant-director-recruitment-2026/",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "OC & BC Applicants (Application Processing Fee)",
+        "fee": "Rs. 1000/-"
+      },
+      {
+        "category": "SC, ST & PwD Applicants (Application Processing Fee)",
+        "fee": "Rs. 500/-"
+      },
+      {
+        "category": "All Applicants (Examination Fee)",
+        "fee": "Rs. 120/-"
+      },
+      {
+        "category": "Unemployed Applicants (Examination Fee)",
+        "fee": "Exempted"
+      },
+      {
+        "category": "Government Employees (Examination Fee)",
+        "fee": "Rs. 120/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Submission of Online Application From",
+        "date": "10/07/2026"
+      },
+      {
+        "event": "Last Date & Time of Submission of Online Application",
+        "date": "17/08/2026"
+      },
+      {
+        "event": "Downloading of Hall Tickets (7 days prior to the date of examination)",
+        "date": ""
+      },
+      {
+        "event": "Tentative Schedule of Examination (October 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Assistant Director of Town Planning in Town and Country Planning Department",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the TGPSC website at https://www.tgpsc.gov.in and register through One Time Registration (OTR) if not already registered, to obtain a TGPSC ID.",
+      "If already registered, log in using your TGPSC ID and Date of Birth, and authenticate via OTP received on your registered mobile number.",
+      "Verify the details fetched from OTR database (Name, Date of Birth, Educational Qualifications, Community, Gender, Disability, Ex-Servicemen &amp; Sports, etc.).",
+      "Select the preferred examination centre.",
+      "Preview the application for correctness and click on SAVE &amp; PAYMENT button to proceed to online fee payment.",
+      "Pay the prescribed application processing fee and examination fee through Net Banking, Debit Card, Credit Card, or UPI via the payment gateway.",
+      "After payment, download the generated PDF application form and note the Reference ID Number for future correspondence."
+    ]
   },
   {
     "id": "telangana-tslprb-sct-police-constable-fire-fighter-waeder",
@@ -638,12 +1694,90 @@
     "district": "State Level",
     "vacancies": "7112",
     "lastDate": "Update",
-    "officialWebsite": "https://govtjobguru.in/jobs/telangana-police-tslprb-constable-si-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/telangana-police-tslprb-constable-si-recruitment-2026/",
+    "officialWebsite": "https://tslprb.in",
+    "notificationLink": "https://www.tgprb.in/SI_PC_2026/PC%20(Civil%20et%20al)%202026%20Notification%20dated%2029-07-2026.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/telangana-police-tslprb-constable-si-recruitment-2026/",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [],
+    "dates": [
+      {
+        "event": "Press Note Date",
+        "date": "05/07/2026"
+      },
+      {
+        "event": "Starting Date for Apply online (Update Soon)",
+        "date": ""
+      },
+      {
+        "event": "Closing Date for Apply Online (Update Soon)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Police Constable (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Police Constable (AR)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Police Constable (SARCPL)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Fire Fighter",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Warder (Male)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Warder (Female)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Constable (Special Protection Force)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Register on the TSLPRB Website (www.tgprb.in) using your Mobile Number as User ID.",
+      "Select the Post(s) for which you want to apply as per your eligibility.",
+      "Note the fee payable depending on the Posts chosen.",
+      "Pay the fee using Credit Card, Debit Card, Net Banking, or any other mode available on the TSLPRB Website.",
+      "Fill Part I of the Online Application Form on the TSLPRB Website.",
+      "Scan and upload a combined Passport Size Photo and Specimen Signature as one JPG file (size between 30kb and 100kb).",
+      "Submit the Application Form and press the Submit button.",
+      "Print/download the Application Form generated for the Notification(s) applied for.",
+      "Candidates who qualify in the Preliminary Written Test must visit www.tgprb.in again to submit the Part-II Application along with scanned copies of Certificates/Documents (dates to be announced later).",
+      ""
+    ]
   },
   {
     "id": "telangana-tgpsc-seed-certification-officer",
@@ -655,11 +1789,69 @@
     "district": "State Level",
     "vacancies": "19",
     "lastDate": "12-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/tgpsc-seed-certification-officer-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/tgpsc-seed-certification-officer-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/tgpsc-seed-certification-officer-recruitment-2026/",
+    "officialWebsite": "https://www.tgpsc.gov.in",
+    "notificationLink": "https://websitenew.tgpsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJL05PVElGSUNBVElPTi1TRUVELUNFUlRJLU9GRklDRVIgKDEpMjAyNjA3MDIxNzIzMzIucGRmr95v17a0y2d8i13v",
+    "applyOnlineLink": "https://application.tgpsc.gov.in/CandidateEntryERJKOG0354782026",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "OC & BC Applicants (Application Processing Fee)",
+        "fee": "Rs. 1000/-"
+      },
+      {
+        "category": "SC, ST & PwD Applicants (Application Processing Fee)",
+        "fee": "Rs. 500/-"
+      },
+      {
+        "category": "All Applicants (Examination Fee)",
+        "fee": "Rs. 80/-"
+      },
+      {
+        "category": "Unemployed Applicants (Examination Fee)",
+        "fee": "Exempted"
+      },
+      {
+        "category": "Government Employees (Examination Fee)",
+        "fee": "Rs. 80/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Submission of Online Application Starts",
+        "date": "07/07/2026"
+      },
+      {
+        "event": "Last Date & Time of Submission of Online Application",
+        "date": "12/08/2026"
+      },
+      {
+        "event": "Downloading of Hall Tickets (7 days prior to the date of examination up to 5:00 PM on the previous day of Examination)",
+        "date": ""
+      },
+      {
+        "event": "Tentative Schedule of Examination (October 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Seed Certification Officer in Telangana Seed & Organic Certification Authority",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the TGPSC website at https://www.tgpsc.gov.in and register via One Time Registration (OTR) to obtain a TGPSC ID (if not already registered).",
+      "Login to the Commission’s website using your registered OTR/TGPSC ID and Date of Birth, then authenticate via OTP received on your registered mobile number.",
+      "Verify personal details fetched from OTR database (Name, Date of Birth, Educational Qualifications, Community, Gender, Disability, Ex-Servicemen &amp; Sports, etc.).",
+      "Select the preferred examination centre.",
+      "Preview the application for correctness and click on SAVE &amp; PAYMENT button.",
+      "Pay the prescribed application processing fee and examination fee online through Net Banking, Debit Card, Credit Card, or UPI.",
+      "After payment, download the generated PDF application form and retain the Reference ID Number for future correspondence."
+    ]
   }
 ]

@@ -128,12 +128,63 @@
     "district": "State Level",
     "vacancies": "13",
     "lastDate": "01-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/ucsl-supervisor-recruitment-2026-2/",
-    "notificationLink": "https://govtjobguru.in/jobs/ucsl-supervisor-recruitment-2026-2/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/ucsl-supervisor-recruitment-2026-2/",
+    "officialWebsite": "https://www.cochinshipyard.in",
+    "notificationLink": "https://cochinshipyard.in/uploads/career/7a53689b9d7c4e22050c2b7b166f534f.pdf",
+    "applyOnlineLink": "https://cochinshipyard.in/careerdetail/career_locations/797",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General/OBC",
+        "fee": "₹300/-"
+      },
+      {
+        "category": "SC/ST/PwBD",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Application Starts",
+        "date": "11/08/2026"
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "01/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Supervisor (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Supervisor (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Supervisor (Finance)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official websites www.cochinshipyard.in or www.udupicsl.com.",
+      "Register in the SAP online portal.",
+      "Submit the application form online.",
+      "Upload certificates and a passport-sized photo.",
+      "Ensure submission success and application status shows ‘In process’.",
+      "Retain a soft copy of the application with registration number."
+    ]
   },
   {
     "id": "karnataka-ucsl-office-assistant-draftsman-mechanical-draftsman-el",
@@ -145,12 +196,79 @@
     "district": "State Level",
     "vacancies": "10",
     "lastDate": "01-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/ucsl-workman-recruitment-2026-apply-online-for-10-office-assistant-draftsman-other-posts/",
-    "notificationLink": "https://govtjobguru.in/jobs/ucsl-workman-recruitment-2026-apply-online-for-10-office-assistant-draftsman-other-posts/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/ucsl-workman-recruitment-2026-apply-online-for-10-office-assistant-draftsman-other-posts/",
+    "officialWebsite": "https://www.udupicsl.com",
+    "notificationLink": "https://cochinshipyard.in/uploads/career/d113c609e10c30357f15750fc2f34c71.pdf",
+    "applyOnlineLink": "https://cochinshipyard.in/careerdetail/career_locations/798",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General/OBC",
+        "fee": "₹300 (Non-refundable, plus bank charges extra)"
+      },
+      {
+        "category": "SC/ST/PwBD",
+        "fee": "Nil (Exempted)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Commencement of Online Application",
+        "date": "11/08/2026"
+      },
+      {
+        "event": "Last Date of Online Application",
+        "date": "01/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Office Assistant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Draftsman (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Draftsman (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Store Keeper",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Read the User Manual and FAQ published on www.cochinshipyard.in (Career page &rarr; UCSL, Malpe) or www.udupicsl.com (Career page) before applying.",
+      "Complete One-time Registration in the SAP Online portal.",
+      "Submit the online application against the applicable post from 11 August 2026 to 01 September 2026.",
+      "Upload all required certificates: proof of age, educational qualification, experience, caste, disability, and a recent passport-size colour photograph.",
+      "Pay the application fee of ₹300/- (non-refundable) online via Debit Card/Credit Card/Internet Banking/Wallets/UPI (SC/ST/PwBD candidates are exempted).",
+      "Do not submit more than one application. Application once submitted is final.",
+      "Retain a soft copy/printout of the online application with the unique registration number for future reference.",
+      "Do not send printouts or certificates by post to UCSL."
+    ]
   },
   {
     "id": "karnataka-csir nal-multi-tasking-staff-mts-",
@@ -162,12 +280,52 @@
     "district": "State Level",
     "vacancies": "6",
     "lastDate": "21-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/csir-nal-mts-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/csir-nal-mts-recruitment-2026/",
+    "officialWebsite": "https://www.nal.res.in",
+    "notificationLink": "https://www.nal.res.in/sites/default/files/2026-08/MTS%20Notification%20%20%2812.08.2026%29.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/csir-nal-mts-recruitment-2026/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General/OBC/EWS",
+        "fee": "₹500/-"
+      },
+      {
+        "category": "SC/ST/Ex-Servicemen (ESM)/PwBD/Women",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Starting Date of Receipt of Hard Copy of Application",
+        "date": "12/08/2026"
+      },
+      {
+        "event": "Last Date for Receipt of Hard-Copy Applications",
+        "date": "21/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Multi-Tasking Staff (MTS)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Carefully read the advertisement and ensure eligibility before applying.",
+      "Fill in the prescribed application form completely and accurately.",
+      "Pay the application fee of ₹500/- through Demand Draft (DD) drawn in favour of the Director, CSIR-National Aerospace Laboratories, payable at Bengaluru (wherever applicable). Write your name and father’s name on the back of the DD.",
+      "Affix a recent passport-size colour photograph in the space provided in the application form and sign in the designated place.",
+      "Enclose self-attested copies of all relevant certificates, mark sheets, experience certificates, testimonials, caste/category certificates, and other supporting documents.",
+      "Superscribe the envelope as: ‘Application for the Post of MTS, Advt. No.11/2026’.",
+      "Send the complete application by Speed Post/Courier only to: The Director, CSIR&ndash;National Aerospace Laboratories (CSIR&ndash;NAL), Post Bag No. 1779, HAL Airport Road, Kodihalli, Bengaluru &ndash; 560017, Karnataka.",
+      "Ensure the application reaches the office on or before 21/09/2026 upto 5.00 PM.",
+      "Retain a photocopy of the duly filled-in application form, DD, and all enclosures for your records."
+    ]
   },
   {
     "id": "karnataka-indbank-relationship-manager-dealer",
@@ -179,12 +337,51 @@
     "district": "State Level",
     "vacancies": "14",
     "lastDate": "31-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/indbank-relationship-manager-and-dealer-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/indbank-relationship-manager-and-dealer-recruitment-2026/",
+    "officialWebsite": "https://www.indbankonline.com",
+    "notificationLink": "https://www.indbankonline.com/v/?v=2026/08/Advertisement-for-the-post-of-Relationshipmanager-Dealer-dated-10.08.2026.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/indbank-relationship-manager-and-dealer-recruitment-2026/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "10/08/2026"
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "31/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Relationship Manager",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Dealer - For Stock Broking Terminals",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the application form from the official website www.indbankonline.com.",
+      "Fill in the application form duly and attach copies of all required enclosures.",
+      "Send the duly filled application via courier or Registered Post to: Head Administration, No 480, 1st Floor Khivraj Complex I, Anna Salai, Nandanam, Chennai-35.",
+      "Alternatively, send the scanned copy of the duly filled application with enclosures to recruitment@indbankonline.com.",
+      "Ensure the application is received on or before 31.08.2026."
+    ]
   },
   {
     "id": "karnataka-karnataka high court-second-division-assistant-sda-",
@@ -196,12 +393,65 @@
     "district": "State Level",
     "vacancies": "20",
     "lastDate": "11-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/karnataka-high-court-assistant-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/karnataka-high-court-assistant-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/karnataka-high-court-assistant-recruitment-2026/",
+    "officialWebsite": "https://judiciary.karnataka.gov.in",
+    "notificationLink": "https://judiciary.karnataka.gov.in/common_folder/notification//SDA_Gazettee.pdf",
+    "applyOnlineLink": "https://judiciary.karnataka.gov.in/recruitment/hck/sdr/home.php",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General Merit",
+        "fee": "Rs.350/-"
+      },
+      {
+        "category": "Category - II(A) / II(B) / III(A) / III(B) of Other Backward Classes",
+        "fee": "Rs.350/-"
+      },
+      {
+        "category": "Scheduled Caste / Scheduled Tribe / Category &ndash; I of Other Backward Classes / Persons with Benchmark Disability",
+        "fee": "Rs.200/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "11/08/2026"
+      },
+      {
+        "event": "Online Application Start Date",
+        "date": "13/08/2026"
+      },
+      {
+        "event": "Last Date for Online Application",
+        "date": "11/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Second Division Assistant (Residual Parent Cadre)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Second Division Assistant (Kalyana Karnataka Region - Backlog)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website of High Court of Karnataka: https://judiciary.karnataka.gov.in",
+      "Click on the online application link provided on the website.",
+      "Fill in all required details carefully in the online application form.",
+      "Upload recent colour photograph (5cm &times; 3.6cm, max 50KB, JPG, white background) and scanned signature (2.5cm &times; 7.5cm, max 25KB, JPG) as per specifications.",
+      "Pay the prescribed application fee through State Bank of India online payment gateway via Net Banking / Credit Card / Debit Card / UPI.",
+      "Submit the application before 11:59 PM on 11.09.2026.",
+      "Download and retain a copy of the submitted application and fee payment receipt until completion of the recruitment process."
+    ]
   },
   {
     "id": "karnataka-samagra shikshana dharwad-consultant",
@@ -315,12 +565,59 @@
     "district": "State Level",
     "vacancies": "16",
     "lastDate": "22-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/bhel-project-engineer-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/bhel-project-engineer-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/bhel-project-engineer-recruitment-2026/",
+    "officialWebsite": "https://careers.bhel.in",
+    "notificationLink": "https://ednnet.bhel.in/FTARecruitment/FTA2026.pdf",
+    "applyOnlineLink": "https://ednnet.bhel.in/FTARecruitment/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General / OBC / EWSs",
+        "fee": "Rs. 236/-"
+      },
+      {
+        "category": "SC / ST / Persons with Disability",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Commencement of Online Submission of Applications",
+        "date": "08/08/2026"
+      },
+      {
+        "event": "Closing of Online Submission of Applications",
+        "date": "22/08/2026"
+      },
+      {
+        "event": "Last Date of Receipt of Downloaded Application Form and Self-Attested Copies by Post",
+        "date": "27/08/2026"
+      },
+      {
+        "event": "Last Date of Receipt of Hard Copies from Far Flung Areas",
+        "date": "29/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Project Engineer (FTA-1)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Submit the application online only through BHEL EDN recruitment site: https://edn.bhel.com or https://careers.bhel.in.",
+      "Fill the online application form with all required particulars including fee payment details.",
+      "Pay the non-refundable processing fee of Rs. 236/- online through SBI Collect (link provided on the website). SC/ST and Persons with Disability are exempted from fee.",
+      "Enter the receipt/journal number given by the bank on payment of fee in the online Application Form.",
+      "After successfully submitting the online application, print the application format which will have the unique acknowledgement number.",
+      "Send the printed application form along with fee receipt (wherever applicable) to: AGM (HR), Bharat Heavy Electricals Limited, Electronics Division, P. B. No. 2606, Mysore Road, Bengaluru-560026, so as to reach latest by 27.08.2026.",
+      "The envelope containing the application form should be super-scribed as “Application for Appointment as Project Engineer on Fixed Tenure Basis- DABG”.",
+      "Necessary documents (self-attested photo copies and originals for verification) are required only at the time of interview, if called for: Class X certificate for Date of Birth, Category certificates (EWSs/SC/ST/OBC/PwD/Ex-servicemen), OBC self-undertaking, J&amp;K age relaxation certificate (if applicable), Mark sheets of all semesters/consolidated mark sheet, Additional qualification proof, CGPA conversion proof, Offer of Appointment/Joining Letter/Experience Certificate with First and Last Salary Slip."
+    ]
   },
   {
     "id": "karnataka-samagra shikshana dharwad-consultant",
@@ -383,12 +680,113 @@
     "district": "State Level",
     "vacancies": "134",
     "lastDate": "24",
-    "officialWebsite": "https://govtjobguru.in/jobs/konkan-railway-apprentice-recruitment-2026-walk-in-for-134-graduate-diploma-apprentice-trainee-posts/",
-    "notificationLink": "https://govtjobguru.in/jobs/konkan-railway-apprentice-recruitment-2026-walk-in-for-134-graduate-diploma-apprentice-trainee-posts/",
+    "officialWebsite": "https://konkanrailway.com",
+    "notificationLink": "https://konkanrailway.com/sites/default/files/2026-08/Notification_%20for_Apprentice%20Trainee_2026_27.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/konkan-railway-apprentice-recruitment-2026-walk-in-for-134-graduate-diploma-apprentice-trainee-posts/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "07/08/2026"
+      },
+      {
+        "event": "Document Verification - BE Civil Engineering & Diploma (Civil) & BE Electronics Engineering",
+        "date": "24/08/2026"
+      },
+      {
+        "event": "Document Verification - BE Electrical Engineering & Diploma (Electrical) & Diploma (Electronics)",
+        "date": "25/08/2026"
+      },
+      {
+        "event": "Document Verification - BE Mechanical Engineering & Diploma (Mechanical)",
+        "date": "27/08/2026"
+      },
+      {
+        "event": "Document Verification - General Stream Graduates",
+        "date": "28/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "BE Civil Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "BE Electrical Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "BE Electronics Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "BE Mechanical Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma (Electronics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "General Stream Graduates",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Register online on the National Apprenticeship Training Scheme (NATS) portal and obtain a valid approved NATS ID.",
+      "Ensure your NATS ID is approved before the date of Document Verification.",
+      "Appear for Document Verification on the scheduled date for your respective post at Executives Club, Konkan Rail Vihar, Sector-40, Opp. Seawoods Railway Station (West), Navi Mumbai-400706.",
+      "Registration time at the venue is 09:00 hrs to 12:00 hrs only.",
+      "Bring all required original documents along with one set of self-attested photocopies.",
+      "Carry your valid NATS ID, Aadhaar card, PAN card, mark sheets, degree/diploma certificate, caste certificate (if applicable), domicile certificate, and two passport-size photographs."
+    ]
   },
   {
     "id": "karnataka-iob-local-bank-officer-lbo-ndash-jmgs-i",
@@ -400,12 +798,81 @@
     "district": "State Level",
     "vacancies": "250",
     "lastDate": "24-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/iob-lbo-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/iob-lbo-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/iob-lbo-recruitment-2026/",
+    "officialWebsite": "https://www.iob.in",
+    "notificationLink": "https://www.iob.bank.in/documents/d/guest/lbo-final-ad-2026-27",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/iobjul26/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "SC / ST / PwBD (Intimation Charges only)",
+        "fee": "INR 175/- (inclusive of GST)"
+      },
+      {
+        "category": "GEN / EWS / OBC",
+        "fee": "INR 850/- (inclusive of GST)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Payment of Application Fee / Intimation Charges (Start)",
+        "date": "08/08/2026"
+      },
+      {
+        "event": "Payment of Application Fee / Intimation Charges (End)",
+        "date": "24/08/2026"
+      },
+      {
+        "event": "Opening Date of Online Registration",
+        "date": "08/08/2026"
+      },
+      {
+        "event": "Closing Date of Online Registration",
+        "date": "24/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Local Bank Officer (LBO) &ndash; JMGS I (Tamil Nadu)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Local Bank Officer (LBO) &ndash; JMGS I (Karnataka)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Local Bank Officer (LBO) &ndash; JMGS I (Maharashtra)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Local Bank Officer (LBO) &ndash; JMGS I (Gujarat)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Bank’s official website www.iob.bank.in and navigate to the ‘Careers’ page.",
+      "Click on the link ‘Recruitment of Local Bank Officers &ndash; 2026-27’ and select the post to be applied for.",
+      "Click on ‘Click here to Register Online’ to first register online.",
+      "On successful registration, an E-mail and SMS will be sent with Registration Number and Password.",
+      "Log in and fill in all required details in the online application form carefully.",
+      "Upload scanned photograph, signature, left thumb impression, and handwritten declaration as per specified guidelines.",
+      "Click on ‘COMPLETE REGISTRATION’ button at the end of the Online Application form.",
+      "Pay the Application Fee / Intimation Charges online using Debit Card / Credit Card / Internet Banking / BHIM / UPI etc.",
+      "Take a printout of the system generated online application form and e-receipt for future reference."
+    ]
   },
   {
     "id": "karnataka-kea-pharmacy-officer-nursing-officer",
@@ -417,12 +884,90 @@
     "district": "State Level",
     "vacancies": "233",
     "lastDate": "30-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/kea-nursing-officer-pharmacy-officer-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/kea-nursing-officer-pharmacy-officer-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/kea-nursing-officer-pharmacy-officer-recruitment-2026/",
+    "officialWebsite": "https://cetonline.karnataka.gov.in/kea/",
+    "notificationLink": "https://cetonline.karnataka.gov.in/keawebentry456/nurkk2026/NUR_REC_1_KK_07082026english.pdf",
+    "applyOnlineLink": "https://cetonline.karnataka.gov.in/RECT-app_nur_phar/login",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General Merit and other categories (Category-2A / 2B / 3A / 3B)",
+        "fee": "₹750 (₹500 application fee + ₹250 processing fee)"
+      },
+      {
+        "category": "SC / ST / Category-1 / Ex-servicemen / Third Gender candidates",
+        "fee": "₹500 (₹250 application fee + ₹250 processing fee)"
+      },
+      {
+        "category": "Persons with Disability (PWD) candidates",
+        "fee": "₹250 (processing fee only)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "06/08/2026"
+      },
+      {
+        "event": "Online Application Start Date",
+        "date": "07/08/2026"
+      },
+      {
+        "event": "Online Application Last Date",
+        "date": "30/08/2026"
+      },
+      {
+        "event": "Last Date to Pay Application Fee",
+        "date": "31/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Nursing Officer (Shushrushadhikari) &ndash; KK Cadre (Karnataka Residential Educational Institutions Society)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Pharmacy Officer &ndash; KK Cadre (ESI Scheme, Medical Services Department)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Nursing Officer (Shushrushadhikari) &ndash; KK Cadre (Medical Services Department)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Pharmacy Officer &ndash; General/Open Cadre (ESI Scheme, Medical Services Department)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Nursing Officer (Shushrushadhikari) &ndash; General/Open Cadre (ESI Scheme, Medical Services Department)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official KEA website: https://cetonline.karnataka.gov.in/kea/",
+      "Click on the relevant application link for this recruitment.",
+      "Fill in the online application form carefully with all required details.",
+      "Upload a recent passport-size colour photograph (JPEG format, white background, 50KB to 200KB) and a signature made in black ink on white paper, scanned (JPEG format, 50KB to 70KB).",
+      "Pay the applicable application fee online before 31-08-2026.",
+      "Once submitted, no information in the application can be modified or corrected at any stage.",
+      "Keep a copy of the acknowledgment/fee payment receipt (chalan) until the recruitment process is complete."
+    ]
   },
   {
     "id": "karnataka-iit dharwad-placement-executive-training-and-placement-officer",
@@ -451,12 +996,88 @@
     "district": "State Level",
     "vacancies": "6",
     "lastDate": "30-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/isro-hsfc-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/isro-hsfc-recruitment-2026/",
+    "officialWebsite": "https://www.hsfc.gov.in",
+    "notificationLink": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/August/PhDLive_Register_Adv_10.08.2026.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/isro-hsfc-recruitment-2026/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "All Categories (Scientist/Engineer SD Post Code 01-06)",
+        "fee": "No Application Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date of Online Application",
+        "date": "10/08/2026"
+      },
+      {
+        "event": "Closing Date of Submission of Online Application",
+        "date": "30/08/2026"
+      },
+      {
+        "event": "Crucial Date of Eligibility",
+        "date": "30/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Scientist/Engineer SD - Bioinstrumentation OR Biophysics OR Medical Physics (Post Code 01)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer SD - Developmental Biology OR Biotechnology (Post Code 02)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer SD - Cellular & Molecular Biology OR Cell Biology (Post Code 03)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer SD - Computational Biology OR Systems Biology OR Bioinformatics (Post Code 04)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer SD - Biomedical Engineering OR Biomedical Sciences - Biomechanics (Post Code 05)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer SD - Biomedical Engineering OR Biomedical Sciences - Bio-imaging/Signal Processing (Post Code 06)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit ISRO Live Register portal at https://www.isro.gov.in (under Career tab).",
+      "Register or update your registration in the Live Register portal on or before 30.08.2026 by 1700 hours.",
+      "Fill in the online application form carefully with correct details.",
+      "Upload recent colour passport size photograph (not older than 6 months) in .jpg/.jpeg format, max 1MB, 500×400 pixels.",
+      "Upload signature in .jpg/.jpeg format, max 1MB, 200×700 pixels.",
+      "Upload all Pre-requisite/Essential Qualification certificates in .pdf format, max 1MB each.",
+      "Upload valid PwBD certificate / Discharge Certificate for Ex-Servicemen / NOC for serving Central Government Employees as applicable in .pdf format, max 1MB.",
+      "Submit the online application before 30.08.2026 by 1700 hours.",
+      "Take a printout of the online application for future reference and note the online Registration Number.",
+      "No documents need to be sent by post or email."
+    ]
   },
   {
     "id": "karnataka-sbi-clerk-junior-associate-",
@@ -468,12 +1089,60 @@
     "district": "State Level",
     "vacancies": "1538",
     "lastDate": "27-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
+    "officialWebsite": "https://sbi.bank.in",
+    "notificationLink": "https://sbi.bank.in/webfiles/uploads/files_2627/08/JA_2026_Backlog_Detailed_Advt_ENG.pdf",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/sbijasrdjl26/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "SC/ST/PwBD/XS/DXS",
+        "fee": "Nil"
+      },
+      {
+        "category": "OBC",
+        "fee": "Rs. 750/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Registration Start Date",
+        "date": "07/08/2026"
+      },
+      {
+        "event": "Online Registration End Date",
+        "date": "27/08/2026"
+      },
+      {
+        "event": "Preliminary Examination (Tentative) (September 2026)",
+        "date": ""
+      },
+      {
+        "event": "Main Examination (Tentative) (October/November 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Junior Associate (Customer Support & Sales) - Andhra Pradesh",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Bank’s official website: https://sbi.bank.in/web/careers/current-openings",
+      "Click on the advertisement for ‘Special Recruitment Drive for Junior Associates 2026’.",
+      "Scan and keep ready your photograph, signature, left hand thumb impression, and handwritten declaration as per specifications.",
+      "Fill in the Online Application Form carefully with all required details.",
+      "Upload the scanned photograph, signature, left thumb impression, and handwritten declaration.",
+      "Submit the application form. Note: Corrections will not be allowed after final submission.",
+      "Pay the application fee online using Debit Card / Credit Card / Internet Banking.",
+      "On successful payment, an e-receipt and application form with fee details will be generated. Print and retain for records.",
+      "Download and retain the system-generated online application form printout after submission."
+    ]
   },
   {
     "id": "karnataka-drdo ada-project-assistant-i",
@@ -485,12 +1154,101 @@
     "district": "State Level",
     "vacancies": "111",
     "lastDate": "13-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/drdo-ada-project-assistant-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/drdo-ada-project-assistant-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/drdo-ada-project-assistant-recruitment-2026/",
+    "officialWebsite": "https://ada.gov.in",
+    "notificationLink": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtADA06082026.pdf",
+    "applyOnlineLink": "https://ada.gov.in/adv138/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "03/08/2026"
+      },
+      {
+        "event": "Online Registration Last Date",
+        "date": "13/08/2026"
+      },
+      {
+        "event": "Tentative Written Test Date (Option 1)",
+        "date": "16/08/2026"
+      },
+      {
+        "event": "Tentative Written Test Date (Option 2)",
+        "date": "23/08/2026"
+      },
+      {
+        "event": "Tentative Written Test Date (Option 3)",
+        "date": "30/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Project Assistant-I (Computer Science Engineering)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Assistant-I (Electronics & Communication Engineering)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Assistant-I (Aeronautical Engineering)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Assistant-I (Electrical & Electronics Engineering)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Assistant-I (Mechanical Engineering)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Assistant-I (Metallurgy Engineering)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Assistant-I (Civil Engineering)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official ADA website at https://ada.gov.in and register online before 13th August 2026 by 1700 hrs.",
+      "Fill in all mandatory fields in the application form as per the format provided in the advertisement.",
+      "Affix a recent passport size photograph on the right top corner of the first page of the application form.",
+      "Attach self-attested copies of certificates/supporting documents related to qualification, experience, and caste.",
+      "If any documents/certificates are in a language other than English, attach a duly self-attested transcript in English.",
+      "Report for the Written Test/Interview at the designated venue in Bangalore on the date published on the ADA website, along with the duly filled application form and all original certificates for verification.",
+      "Candidates presently employed in Government departments/PSUs/Autonomous Bodies must produce a No Objection Certificate from the employer at the time of interview.",
+      "Carry Aadhar Card in original."
+    ]
   },
   {
     "id": "karnataka-csir nal-project-associate-i-project-associate-ii-project-a",
@@ -502,12 +1260,164 @@
     "district": "State Level",
     "vacancies": "89",
     "lastDate": "10-08-2026",
-    "officialWebsite": "https://govtjobguru.in/jobs/csir-nal-project-staff-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/csir-nal-project-staff-recruitment-2026/",
+    "officialWebsite": "https://www.nal.res.in",
+    "notificationLink": "https://www.nal.res.in/sites/default/files/2026-08/Advt%20No.13-2026%20-July2026%20-%20Final%20%281%29.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/csir-nal-project-staff-recruitment-2026/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Date of Publication",
+        "date": "05/08/2026"
+      },
+      {
+        "event": "Walk-in-Interview Date (Project Associate-I PAT-I Mechanical/Aerospace & Project Associate-II NET/GATE Aerospace)",
+        "date": "10/08/2026"
+      },
+      {
+        "event": "Walk-in-Interview Date (Project Associate-I PAT-I ECE/Electronics & Project Associate-II PAT-II ECE/EEE & Project Associate-II NET/GATE CS)",
+        "date": "12/08/2026"
+      },
+      {
+        "event": "Walk-in-Interview Date (Project Associate-I Chemistry/Materials & Project Associate-I NET/GATE Metallurgical & Project Associate-II NET/GATE Metallurgical)",
+        "date": "14/08/2026"
+      },
+      {
+        "event": "Walk-in-Interview Date (Project Associate-II PAT-II Chemistry)",
+        "date": "17/08/2026"
+      },
+      {
+        "event": "Walk-in-Interview Date (Project Associate-II PAT-II Aerospace/Mechanical)",
+        "date": "21/08/2026"
+      },
+      {
+        "event": "Walk-in-Interview Date (Project Assistant-I PA-I & Project Assistant-II PA-II)",
+        "date": "24/08/2026"
+      },
+      {
+        "event": "Walk-in-Interview Date (Senior PAT)",
+        "date": "25/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Project Associate-I / PAT-I (Mechanical/Aerospace/Aeronautical/Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-II (NET/GATE) (Aerospace/Aeronautical/Mechanical/Control Engineering)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-I / PAT-I (ECE/Electronics/Instrumentation/Control/EEE/AI/ML/CS/M.Sc. Physics/Electronics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-II / PAT-II (ECE/EEE/Instrumentation & Control/Robotics/CS/Data Science/RF/Microwave/Physics/Electronics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-II (NET/GATE) (Computer Science Engineering)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-I (Chemistry/Materials Science/Chemical Engineering)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-I (NET/GATE) (Metallurgical Engineering/M.Sc. Physics/Materials Science)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-II (NET/GATE) (Metallurgical Engineering/M.Tech Metallurgical/M.Sc. Chemistry/B.E./B.Tech Chemical Engineering)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-II (Chemistry/Analytical Chemistry/General Chemistry/Physical Chemistry/Chemical Engineering)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate-II / PAT-II (Aerospace/Aeronautical/Mechanical/Machine Design/Thermal Engg/Structures)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Assistant-I / PA-I (Fitter/Turner/Machinist/Manufacturing)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Assistant-II / PA-II (Mechanical/B.Sc. Chemistry)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior PAT (Electronics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior PAT (Aerospace/Aeronautical/Mechanical Engineering)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must attend the Walk-in-Interview on the specified date as per their post/specialization.",
+      "Report at CSIR-NAL (RAB Meeting Complex), Adjacent to SBI, NAL Branch, Kodihalli, Bengaluru &ndash; 560017 between 9.00 AM to 9.45 AM for registration.",
+      "No candidates will be allowed for registration after 09.45 AM.",
+      "Bring a duly filled application form (available on the official website: https://www.nal.res.in).",
+      "Carry a copy of Aadhar Card or any Government-issued ID with photograph.",
+      "Bring latest passport size photograph.",
+      "Bring original certificates with one set of photocopies (including Caste Certificate, if applicable).",
+      "Candidates applying for more than one position must apply separately for each position.",
+      "If already working in CSIR-NAL or any other CSIR lab, a No Objection Certificate from the Project Leader/HOD is mandatory at the time of interview.",
+      "Do NOT send the application by post/speed post/e-mail."
+    ]
   },
   {
     "id": "karnataka-kea kshd-assistant-horticulture-officer-assistant-horticult",
@@ -519,12 +1429,76 @@
     "district": "State Level",
     "vacancies": "85",
     "lastDate": "30-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/kea-kshd-recruitment-2026-apply-online-for-85-assistant-horticulture-officer-director-posts/",
-    "notificationLink": "https://govtjobguru.in/jobs/kea-kshd-recruitment-2026-apply-online-for-85-assistant-horticulture-officer-director-posts/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/kea-kshd-recruitment-2026-apply-online-for-85-assistant-horticulture-officer-director-posts/",
+    "officialWebsite": "https://cetonline.karnataka.gov.in/kea/indexnew",
+    "notificationLink": "https://cetonline.karnataka.gov.in/keawebentry456/hortkk2026/HORT_KK_NOTIFICATION_05082026english.pdf",
+    "applyOnlineLink": "https://cetonline.karnataka.gov.in/kea/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General Merit and other categories (2A/2B/3A/3B)",
+        "fee": "₹750 (₹500 application fee + ₹250 processing fee)"
+      },
+      {
+        "category": "SC / ST / Category-1 / Ex-Servicemen / Third Gender",
+        "fee": "₹500 (₹250 application fee + ₹250 processing fee)"
+      },
+      {
+        "category": "Persons with Disabilities",
+        "fee": "₹250 (processing fee only)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Release Date",
+        "date": "04/08/2026"
+      },
+      {
+        "event": "Online Application Start Date",
+        "date": "05/08/2026"
+      },
+      {
+        "event": "Online Application Last Date",
+        "date": "30/08/2026"
+      },
+      {
+        "event": "Last Date for Fee Payment",
+        "date": "31/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Assistant Horticulture Officer (General)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Horticulture Director (General)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Horticulture Director (Kalyana-Karnataka Quota)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official Karnataka Examination Authority website: cetonline.karnataka.gov.in/kea",
+      "Locate the link for KSHD Assistant Horticulture Officer / Director Recruitment 2026.",
+      "Register and fill in the online application form carefully, as no correction is allowed after submission.",
+      "Upload a recent passport-size photograph in JPEG format (white background, 50 KB&ndash;200 KB) and a scanned signature in JPEG format (50 KB&ndash;70 KB).",
+      "Pay the applicable application fee through the online payment gateway.",
+      "Download the fee payment challan/receipt and keep a printout for future reference.",
+      "Submit the application before the last date, i.e., 30.08.2026 (fee payment by 31.08.2026)."
+    ]
   },
   {
     "id": "karnataka-ucsl-office-assistant",
@@ -757,12 +1731,58 @@
     "district": "State Level",
     "vacancies": "11",
     "lastDate": "29-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/mms-bengaluru-post-office-staff-car-driver-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/mms-bengaluru-post-office-staff-car-driver-recruitment-2026/",
+    "officialWebsite": "https://www.indiapost.gov.in",
+    "notificationLink": "https://www.indiapost.gov.in/api/documents/file/1034tw42vyvr3kbvd3e7gy369dy3beji0s5ja0e34b062aa0eiqj0gxg634ume",
     "applyOnlineLink": "https://govtjobguru.in/jobs/mms-bengaluru-post-office-staff-car-driver-recruitment-2026/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "01/08/2026"
+      },
+      {
+        "event": "Last Date to Apply (approx. 60 days from publication in Employment News)",
+        "date": "30/09/2026"
+      },
+      {
+        "event": "Age Limit Cut-off Date",
+        "date": "30/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Staff Car Driver (Ordinary Grade) &ndash; MMS Bengaluru",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Staff Car Driver (Ordinary Grade) &ndash; MMS Sub Depot Mysuru",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Application must be submitted in duplicate in the prescribed Proforma (Annexure-I) only.",
+      "Applications must be forwarded through proper channel (Head of Office/Forwarding Authority) along with the certificate in Proforma Annexure-II.",
+      "The following documents must be enclosed: (i) Integrity Certificate, (ii) List of major/minor penalties imposed during last 10 years (or NIL certificate), (iii) Vigilance Clearance Certificate, (iv) Attested photocopies of APAR for last 5 years (2020-2021 to 2024-2025), (v) Experience certificate for driving LMV &amp; HMV for 3 years attested by Gazetted Officer, (vi) Valid Driving License for LMV and HMV attested by Gazetted Officer, (vii) 10th standard certificate attested by Gazetted Officer.",
+      "Send application by Speed Post only to: The Manager, Mail Motor Service, No. 4, Basaveshwara Road, Vasanthanagar, Bengaluru-560001.",
+      "Applications not forwarded through proper channel or received without requisite certificates/documents will not be entertained.",
+      "Applications without complete information or requisite documents will be rejected outright without any notice.",
+      "Candidates who apply will not be allowed to withdraw their candidature subsequently.",
+      "Application must reach within 60 days from the date of publication of notification in Employment News."
+    ]
   },
   {
     "id": "karnataka-krcl-junior-engineer-civil-alp-station-master-technicia",
@@ -774,12 +1794,133 @@
     "district": "State Level",
     "vacancies": "201",
     "lastDate": "Update",
-    "officialWebsite": "https://govtjobguru.in/jobs/konkan-railway-recruitment-2026-apply-online-for-201-je-alp-technician-other-posts/",
-    "notificationLink": "https://govtjobguru.in/jobs/konkan-railway-recruitment-2026-apply-online-for-201-je-alp-technician-other-posts/",
+    "officialWebsite": "https://www.konkanrailway.com",
+    "notificationLink": "https://konkanrailway.com/sites/default/files/2026-07/EMPLOYMENT_NOTIFICATION_310726_1.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/konkan-railway-recruitment-2026-apply-online-for-201-je-alp-technician-other-posts/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General/UR/OBC-NCL/EWS (Male)",
+        "fee": "Rs. 1180/- (Rs. 1000/- + 18% GST + payment gateway charges)"
+      },
+      {
+        "category": "SC/ST/Ex-Serviceman/Female/Minorities/EBC/PwBD (Fee Refundable after appearing in CBT)",
+        "fee": "Rs. 1180/- (Refunded after appearing in CBT, deducting bank charges)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Date of Employment Notification",
+        "date": "31/07/2026"
+      },
+      {
+        "event": "Online Application Window Opens (Last week of August 2026 (tentative; exact date to be published 7 days in advance)",
+        "date": "01/08/2026"
+      },
+      {
+        "event": "CBT Tentatively Scheduled (September 2026 (tentative))",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Junior Engineer (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Track Maintainer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Section Engineer (S&T)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "ESTM-III",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Section Controller",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Station Master",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Goods Train Manager",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Loco Pilot",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Section Engineer (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician/III (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Commercial Supervisor",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official KRCL website: www.konkanrailway.com",
+      "Register your name on the official website to generate a Registration Number and Password (link goes live in the last week of August 2026).",
+      "Use the registration number and password sent to your registered email and mobile to access the application form.",
+      "Fill in all required details carefully including post preference, domicile/land loser/employment exchange status, and personal information.",
+      "Upload scanned passport-size photograph (JPEG, 30&ndash;70 KB), signature (JPEG, 30&ndash;70 KB), and other required documents.",
+      "Pay the prescribed examination fee online via Internet Banking, Debit/Credit Card, or UPI.",
+      "Submit the application and keep a printed copy for future reference.",
+      "Note your Registration Number for further stages of the recruitment process.",
+      "For queries, email: helpdskrectcell@krcl.co.in (active only till closing date of application)."
+    ]
   },
   {
     "id": "karnataka-kpsc-gazetted-probationers",
@@ -791,12 +1932,185 @@
     "district": "State Level",
     "vacancies": "319",
     "lastDate": "31-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/kpsc-kas-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/kpsc-kas-recruitment-2026/",
+    "officialWebsite": "http://kpsc.kar.nic.in",
+    "notificationLink": "https://kpsc.kar.nic.in/GP%202026-27%20Final%20Notification%20with%20PH%20Schedules%20HOSTED%20ON%2031-07-2026.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/kpsc-kas-recruitment-2026/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General Merit (GM)",
+        "fee": "Rs. 600/-"
+      },
+      {
+        "category": "Category 2A, 2B, 3A, 3B",
+        "fee": "Rs. 300/-"
+      },
+      {
+        "category": "Ex-Military Person",
+        "fee": "Rs. 50/-"
+      },
+      {
+        "category": "SC, ST, Category-1, Physically Handicapped",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Application Start Date",
+        "date": "01/08/2026"
+      },
+      {
+        "event": "Application Last Date",
+        "date": "31/08/2026"
+      },
+      {
+        "event": "Preliminary Examination Date (Tentative)",
+        "date": "15/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Assistant Commissioner (Junior Scale) - DPAR (Group-A)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Commissioner of Commercial Taxes (Group-A)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Director - Treasury Department (Group-A)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Executive Officer/Assistant Secretary - RD & PR Department (Group-A)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Director Grade-1 - Social Welfare Department (Group-A)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Tahashildar Grade-2 - Revenue Department (Group-B)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Commercial Tax Officer - Commercial Tax Department (Group-B)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Superintendent - Prisons Department (Group-B)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Registrar of Co-operative Societies - Co-operation Department (Group-B)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Director - Agricultural Marketing (Co-operation Dept) (Group-B)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Superintendent of Excise - Finance Dept (Excise Dept) (Group-B)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Employment Officer - Skill Development, Entrepreneurship & Livelihood Dept (Group-B)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Chief Officer Grade-1 - Urban Development Department (Group-B)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Treasury Officer - Finance Dept (Treasury Dept) (Group-B)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Director - Food, Civil Supplies, Consumer Affairs Dept (Group-B)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Section Officer - Karnataka Government Secretariat (Group-B)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Section Officer - Karnataka Public Service Commission (Group-B)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Director Grade-2 - Social Welfare Department (Group-B)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the KPSC official website: https://kpsconline.karnataka.gov.in",
+      "Complete One Time Registration (OTR) by clicking ‘New Registration’ if not already registered.",
+      "Verify your email ID and mobile number during registration.",
+      "Login using Enrollment Number or Mobile Number or E-mail ID with OTP.",
+      "Update your Profile before submitting the application.",
+      "Click on ‘Apply to Post’ tab and select the desired post.",
+      "Read the notification carefully and verify eligibility before proceeding.",
+      "Fill in all required details accurately.",
+      "Upload photograph (JPEG/JPG, max 200 KB) and signature (JPEG/JPG, max 70 KB).",
+      "Pay the application fee online using Credit Card, Debit Card, Net Banking, or UPI.",
+      "After successful payment, download and save the application with QR code confirming: Application submitted, Payment done, Application is accepted."
+    ]
   },
   {
     "id": "karnataka-drdo dysl ai-junior-research-fellow",
@@ -842,12 +2156,53 @@
     "district": "State Level",
     "vacancies": "40",
     "lastDate": "27-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
+    "officialWebsite": "https://www.railtelindia.com",
+    "notificationLink": "https://www.railtel.in/images/careers/DocScanner%2028-Jul-2026%2004-10%20PM.pdf",
+    "applyOnlineLink": "https://nats.education.gov.in",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "28/07/2026"
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "27/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Graduate Apprentice Engineer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice Engineer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the NATS 2.0 portal at https://nats.education.gov.in.",
+      "If not already registered, register yourself on the NATS 2.0 portal before applying.",
+      "Follow the guidelines given in the student manual of NATS available at the portal (web link: https://nats.education.gov.in/assets/manual/establishment_user_manual.pdf).",
+      "Fill in the online application form with accurate details.",
+      "Upload the certificate showing your CGPA or percentage in the ‘Upload Certificate’ column. If only CGPA is mentioned, also upload the CGPA to percentage conversion formula/certificate along with the undertaking (Annexure 1) as a single PDF file of size less than 1 MB.",
+      "Submit the application online before the last date of 27.08.2026.",
+      "No other mode of application will be entertained."
+    ]
   },
   {
     "id": "karnataka-wcd yadgir-anganwadi-worker-aww-anganwadi-helper-awh-",
@@ -859,12 +2214,100 @@
     "district": "State Level",
     "vacancies": "232",
     "lastDate": "24-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/karnataka-anganwadi-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/karnataka-anganwadi-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/karnataka-anganwadi-recruitment-2026/",
+    "officialWebsite": "https://zpyadgiri.karnataka.gov.in/en",
+    "notificationLink": "https://cdn.s3waas.gov.in/s3ba3866600c3540f67c1e9575e213be0a/uploads/2026/07/17848714287211.pdf",
+    "applyOnlineLink": "https://sevasindhuservices.karnataka.gov.in/renderApplicationForm.do?serviceId=26060001&UUID=0b904684-a9bd-4806-8d8c-e94b10aec5b6&directService=true&tempId=10332&serviceNameToDisplay=Recruitment+of+various+posts+in+WCD+Department&grievDefined=0&serviceLinkRequired=No&userLoggedIn=N&source=CTZN&OWASP_CSRFTOKEN=W05W-AFBX-H5QW-W32G-XSF6-BGPJ-DN7U-V33W",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "23/07/2026"
+      },
+      {
+        "event": "Application Start Date",
+        "date": "24/07/2026"
+      },
+      {
+        "event": "Application Last Date",
+        "date": "24/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Anganwadi Worker (Anganwadi Karyakarte) - Shahapur",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Anganwadi Worker (Anganwadi Karyakarte) - Surapura",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Anganwadi Worker (Anganwadi Karyakarte) - Yadgiri",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Anganwadi Worker (Anganwadi Karyakarte) - Gurumathkal",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Anganwadi Helper (Anganwadi Sahayaki) - Shahapur",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Anganwadi Helper (Anganwadi Sahayaki) - Surapura",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Anganwadi Helper (Anganwadi Sahayaki) - Yadgiri",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Anganwadi Helper (Anganwadi Sahayaki) - Gurumathkal",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website: https://yadgir.nic.in/ or https://pyadgiri.karnataka.gov.in/",
+      "Click on the notification link for Anganwadi Worker/Helper recruitment.",
+      "Read all guidelines and instructions carefully before filling the application.",
+      "Fill in the online application form with all required details.",
+      "Scan and upload all required original documents clearly.",
+      "Submit the application online before 24-08-2026.",
+      "No applications through any other mode will be accepted or considered.",
+      "All necessary documents must be submitted online only; documents submitted later will not be considered."
+    ]
   },
   {
     "id": "karnataka-ramanagara district court-peon-and-more-typist",
@@ -893,12 +2336,183 @@
     "district": "State Level",
     "vacancies": "120",
     "lastDate": "14-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/hal-mt-and-design-trainee-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/hal-mt-and-design-trainee-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/hal-mt-and-design-trainee-recruitment-2026/",
+    "officialWebsite": "https://www.hal-india.co.in",
+    "notificationLink": "https://cbexams.com/halreg2026/Inc/Detailed_Advertisement_29072026.pdf",
+    "applyOnlineLink": "https://cbexams.com/halreg2026/default",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "UR / OBC(NCL) / EWS",
+        "fee": "Rs. 500/- (inclusive of GST)"
+      },
+      {
+        "category": "SC / ST / PwBD / Internal Candidates",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Release of Advertisement & Online Application Format",
+        "date": "29/07/2026"
+      },
+      {
+        "event": "Last Date for Receipt of Applications",
+        "date": "14/08/2026"
+      },
+      {
+        "event": "Downloading of Admit Cards",
+        "date": "20/08/2026"
+      },
+      {
+        "event": "Online Test (05-09-2026 & 06-09-2026 )",
+        "date": ""
+      },
+      {
+        "event": "Declaration of Online Test Results",
+        "date": "10/09/2026"
+      },
+      {
+        "event": "Downloading of Interview Call Letters",
+        "date": "12/09/2026"
+      },
+      {
+        "event": "Interviews at Bengaluru (21-09-2026 to 25-09-2026)",
+        "date": ""
+      },
+      {
+        "event": "Release of List of Provisionally Selected Candidates",
+        "date": "30/09/2026"
+      },
+      {
+        "event": "Issuance/Downloading of Provisional Offer",
+        "date": "06/10/2026"
+      },
+      {
+        "event": "Pre-employment Medical Examination (09-10-2026 to 15-10-2026)",
+        "date": ""
+      },
+      {
+        "event": "Pre-induction Training Document Verification at Bengaluru (26-10-2026 to 28-10-2026)",
+        "date": ""
+      },
+      {
+        "event": "Commencement of Induction Training at Bengaluru",
+        "date": "29/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Design Trainee - Aeronautical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Design Trainee - Electrical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Design Trainee - Electronics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Design Trainee - Instrumentation",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Design Trainee - Mechanical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Design Trainee - Computer Science",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Design Trainee - Metallurgy",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Electrical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Electronics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Mechanical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Computer Science",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Metallurgy",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Production",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Civil",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit HAL Website www.hal-india.co.in and click the link ‘SELECTION OF DESIGN TRAINEE/MANAGEMENT TRAINEE &ndash; 2026’ under the Careers Section.",
+      "Select the name of the post for which you want to apply.",
+      "Enter and re-enter a valid email id for OTP based registration.",
+      "Fill up Eligibility Details and upload photograph. A unique Application number will be generated.",
+      "Fill up Personal &amp; Qualification details. Use the ‘Edit’ option to correct any details before final submission.",
+      "SC/ST/PwBD/Internal candidates: On submission of personal &amp; qualification details, registration is complete. Print the Application Confirmation page.",
+      "UR/OBC(NCL)/EWS candidates: After submitting Personal &amp; Qualification Details, proceed to the Payment Gateway to pay the Application Fee of Rs.500/- (inclusive of GST) via Credit Card, Internet Banking, or UPI.",
+      "After successful payment, print the Application Confirmation page for future reference.",
+      "Ensure application is submitted well before the last date (14-08-2026, 1400 hrs.)."
+    ]
   },
   {
     "id": "karnataka-isro ursc-graduate-apprentice-technician-apprentice-commerci",
@@ -911,11 +2525,153 @@
     "vacancies": "410",
     "lastDate": "28-08-26",
     "officialWebsite": "https://govtjobguru.in/jobs/isro-ursc-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/isro-ursc-apprentice-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/isro-ursc-apprentice-recruitment-2026/",
+    "notificationLink": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/July/URSC_Advt_for_Apprentice_July_2026_Blingual28072026.pdf",
+    "applyOnlineLink": "https://web.umang.gov.in/landing/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date for Online Registration",
+        "date": "29/07/2026"
+      },
+      {
+        "event": "Closing Date for Online Registration",
+        "date": "28/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Graduate Apprentice - Computer Science Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Electronics and Communication Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Mechanical Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Chemical Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Industrial Engineering and Management",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Automobile Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Aeronautical Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Aerospace Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Computer Science Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Electronics Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Mechanical Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Electrical Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Civil Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Instrumentation Technology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Automobile Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Commercial Practice Apprentice - Diploma in Commercial Practice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates fulfilling the essential qualifications must first register/enroll on the National Apprenticeship Training Scheme (NATS) portal at https://nats.education.gov.in.",
+      "Upload Degree/Diploma certificate (as applicable) and a valid government-issued ID on the NATS portal. An Enrolment Number / Apprenticeship Registration Number will be generated.",
+      "Ensure your Aadhaar number is seeded with your bank account and enabled for DBT payment.",
+      "After NATS registration, apply through the UMANG portal at https://web.umang.gov.in/landing/: Register &amp; Login &rarr; Search for ‘URSC Apprenticeship��� &rarr; Apply for position &rarr; Fill all required details &rarr; Submit application.",
+      "Upload the following documents in jpg/jpeg/png format (each file not exceeding 1 MB): (a) Marks certificates of all semesters/years of B.E./B.Tech./Diploma in one file; (b) B.E./B.Tech./Diploma Certificate / Provisional Certificate / Passing Certificate.",
+      "Upload scanned photograph (max 50 KB) and signature (max 50 KB) in jpg/jpeg/png format.",
+      "SC/ST/OBC candidates must upload the latest caste certificate (max 50 KB, jpg/jpeg/png) issued by the Competent Authority.",
+      "PwBD candidates must upload the disability certificate issued by the Competent Authority.",
+      "Mandatorily mention the NATS Enrolment Number / Apprenticeship Registration Number in the UMANG portal application form.",
+      "Use a valid and active email ID; submit only one application per email ID. Avoid duplicate applications."
+    ]
   },
   {
     "id": "karnataka-bel-probationary-legal-officer",
@@ -944,12 +2700,105 @@
     "district": "State Level",
     "vacancies": "92",
     "lastDate": "17-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/isro-scientist-engineer-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/isro-scientist-engineer-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/isro-scientist-engineer-recruitment-2026/",
+    "officialWebsite": "https://www.isro.gov.in/",
+    "notificationLink": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/July/GATE_Bilingual_Advertisement_2026_28072026.pdf",
+    "applyOnlineLink": "https://apps.ursc.gov.in/CentralBE-2026/advt.jsp",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General/OBC/EWS (Male)",
+        "fee": "₹250/-"
+      },
+      {
+        "category": "Women/SC/ST/Ex-Servicemen/PwBD",
+        "fee": "Nil (Exempted)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date for Online Registration",
+        "date": "28/07/2026"
+      },
+      {
+        "event": "Closing Date for Online Registration",
+        "date": "17/08/2026"
+      },
+      {
+        "event": "Last Date for Payment of Application Fee",
+        "date": "19/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Scientist/Engineer 'SC' (Electronics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer 'SC' (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer 'SC' (Computer Science)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer 'SC' (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer 'SC' (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer 'SC' (Refrigeration & Air Conditioning)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer 'SC' (Architecture)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer 'SC' (Civil) &ndash; Autonomous Body [PRL]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit ISRO official website www.isro.gov.in between 28-07-2026 and 17-08-2026.",
+      "Candidates registered under National Career Services (NCS) portal and fulfilling eligibility conditions may apply online.",
+      "Fill in all required details in the online application form carefully.",
+      "Upload clear scanned copies/images of photograph (jpg format) and GATE Score card (PDF format).",
+      "Submit the online application form.",
+      "Pay the non-refundable application fee of ₹250/- through Bharatkosh portal via Internet Banking, UPI, Debit Card, or Credit Card (last date: 19-08-2026).",
+      "Note the online Registration Number generated after registration for future reference.",
+      "Ensure correct e-mail ID is provided as hall tickets/call letters will be sent by e-mail only.",
+      "Women/SC/ST/Ex-servicemen/PwBD candidates are exempted from application fee."
+    ]
   },
   {
     "id": "karnataka-district court tumkur-stenographer-grade-iii-typist",
@@ -961,12 +2810,63 @@
     "district": "State Level",
     "vacancies": "24",
     "lastDate": "24-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/district-court-tumkur-stenographer-typist-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/district-court-tumkur-stenographer-typist-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/district-court-tumkur-stenographer-typist-recruitment-2026/",
+    "officialWebsite": "https://tumakuru.dcourts.gov.in/",
+    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec033083202a936b7d0ef8b680d7ae73/uploads/2026/07/2026072358.pdf",
+    "applyOnlineLink": "https://judiciary.karnataka.gov.in/recruitment/district/tmk/typ/home.php",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Category 2A, 2B, 3A, 3B and General Candidates",
+        "fee": "Rs. 200/-"
+      },
+      {
+        "category": "SC, ST, Category-1 and Persons with Disabilities",
+        "fee": "Fee Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "22/07/2026"
+      },
+      {
+        "event": "Online Application Start Date",
+        "date": "25/07/2026"
+      },
+      {
+        "event": "Last Date to Apply Online",
+        "date": "24/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Stenographer Grade-III",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Typist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website https://tumakuru.dcourts.gov.in/ and click on the application link.",
+      "Fill in all required details in the online application form carefully.",
+      "Upload scanned photograph (5cm x 3.6cm, max 50kb, .jpg format, white background) and signature (2.5cm x 7.5cm, max 25kb, .jpg format, black ballpoint pen on white paper).",
+      "Pay the prescribed application fee online through State Bank Collect via Net Banking / Credit Card / Debit Card / UPI ID / QR Code.",
+      "After payment, immediately e-verify the transaction.",
+      "Download and print the application form and fee payment receipt.",
+      "Retain the printed application and payment receipt until the recruitment process is complete.",
+      "Applications submitted offline, by post, or in person will not be considered.",
+      "Online application window: 25/07/2026 to 24/08/2026 till 11:59 PM."
+    ]
   },
   {
     "id": "karnataka-rwf-sports-person",
@@ -978,12 +2878,126 @@
     "district": "State Level",
     "vacancies": "15",
     "lastDate": "24-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/rwf-sports-quota-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/rwf-sports-quota-recruitment-2026/",
+    "officialWebsite": "https://www.rwf.indianrailways.gov.in",
+    "notificationLink": "https://rwf.indianrailways.gov.in/uploads/uploads/Notification%20for%20Sports%20Quota%20recruitment%202026-27.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/rwf-sports-quota-recruitment-2026/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General/All candidates (except SC/ST/Ex-Servicemen/Minorities/EBC)",
+        "fee": "Rs. 500/- (Refund of Rs. 400/- to those who actually appear in trials)"
+      },
+      {
+        "category": "SC/ST/Ex-Servicemen/Minorities/Economically Backward Classes (EBC)",
+        "fee": "Rs. 250/- (Full refund to those who actually appear in trials)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "25/07/2026"
+      },
+      {
+        "event": "Closing Date for Applications (General)",
+        "date": "24/08/2026"
+      },
+      {
+        "event": "Closing Date for Applications (NE States & Specified Remote Areas)",
+        "date": "31/08/2026"
+      },
+      {
+        "event": "Date of Field Trials (Tentative) (06-10-2026 to 08-10-2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Badminton (Men) - Singles",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Badminton (Women)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Table Tennis (Men) - Singles",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Table Tennis (Women)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Cricket (Men) - Batsman",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Hockey (Men) - Mid Fielder",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Hockey (Men) - Forward",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Football (Men) - Defender",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Kabaddi (Men) - Left Rider",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Kabaddi (Men) - All Rounder",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the notification and application form (Annexure-I) from the Rail Wheel Factory website: www.rwf.indianrailways.gov.in.",
+      "Print the application form on good quality white A-4 (210 x 297 mm) size paper.",
+      "Fill in the required information in your own handwriting using blue ballpoint pen. The application should be filled in English or Hindi only.",
+      "Affix one recent passport size photo (4 cm x 5 cm), preferably not older than 3 months, on the application form. Do not attest the photograph.",
+      "Sign at the prescribed places and provide Left Thumb Impression (LTI) clearly.",
+      "Indicate two marks of physical identification in the application form.",
+      "Attach self-attested copies of all required certificates: Date of Birth, Educational Qualification, Sports Achievements, Caste Certificate (if applicable), Minority/EBC Income Certificate (if applicable).",
+      "Attach the Examination Fee in the form of crossed Indian Postal Order (IPO) or Demand Draft drawn in favour of Principal Financial Adviser (PFA), Rail Wheel Factory, Yelahanka, Bangalore-560 064, payable at Bangalore.",
+      "Write your name and full address on the IPO/DD.",
+      "Write on the top of the sealed envelope: “Application against Sports Quota (Open Advertisement) dated 25.07.2026 – Recruitment for the year 2026-27”.",
+      "Send the application by post to: The Assistant Personnel Officer, Personnel Department, Rail Wheel Factory (Ministry of Railways), Administrative Building, Yelahanka, Bangalore 560064. Alternatively, drop the application in the Drop Box at the Personnel Department office on the 2nd Floor of the above address.",
+      "Candidates applying for more than one game/event must submit separate applications with separate Examination Fee."
+    ]
   },
   {
     "id": "karnataka-stpi-junior-hindi-translator-jht-",
@@ -995,12 +3009,58 @@
     "district": "State Level",
     "vacancies": "09",
     "lastDate": "07-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/stpi-jht-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/stpi-jht-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/stpi-jht-recruitment-2026/",
+    "officialWebsite": "https://www.stpi.in",
+    "notificationLink": "https://stpi.in/sites/default/files/career-documents/notice25072026.pdf",
+    "applyOnlineLink": "https://recruitment.stpi.in/jht?_gl=1*vxsyif*_ga*MTk0MTI3OTU0My4xNzg0OTU0Mzk0*_ga_HMXXYT8XE5*czE3ODQ5NTQzOTMkbzEkZzEkdDE3ODQ5NTQ5NjckajYwJGwwJGgw",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General/OBC (Male)",
+        "fee": "₹500/-"
+      },
+      {
+        "category": "Female Candidates",
+        "fee": "No Fee"
+      },
+      {
+        "category": "SC/ST/PH Category",
+        "fee": "No Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Start Date for Submission of Online Applications",
+        "date": "25/07/2026"
+      },
+      {
+        "event": "Last Date and Time for Receipt of Online Applications",
+        "date": "07/09/2026"
+      },
+      {
+        "event": "Schedule of Written (Objective Type) Examination (Paper-I) (October &ndash; November 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Junior Hindi Translator",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates meeting the eligibility requirements may apply online at website www.stpi.in.",
+      "No other mode of application shall be accepted.",
+      "Candidates must fill the online application properly and complete all essential steps of the online application.",
+      "Only completed filled online applications shall be considered for further process of recruitment.",
+      "Persons working in Central/State Government/PSUs/Autonomous organizations may submit a copy of NOC issued from their organization at the time of applying online.",
+      "Pay the application fee of ₹500/- (not applicable for female candidates and SC/ST/PH category candidates) through the mode specified in the online application portal.",
+      "Candidates seeking reservation against reserved category posts shall upload their caste/category certificate in the prescribed format applicable for Central Govt. Organization."
+    ]
   },
   {
     "id": "karnataka-iisc-program-assistant",
@@ -1047,11 +3107,60 @@
     "vacancies": "56",
     "lastDate": "24-08-26",
     "officialWebsite": "https://govtjobguru.in/jobs/shivamogga-district-court-peon-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/shivamogga-district-court-peon-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/shivamogga-district-court-peon-recruitment-2026/",
+    "notificationLink": "https://shivamogga.dcourts.gov.in/notice-category/recruitments/",
+    "applyOnlineLink": "https://shivamogga.dcourts.gov.in/notice-category/recruitments/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General Category (OC)",
+        "fee": "Rs. 200/-"
+      },
+      {
+        "category": "Category 2A, 2B, 3A, 3B",
+        "fee": "Rs. 100/-"
+      },
+      {
+        "category": "SC, ST, Category-1 and Persons with Disabilities",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "20/07/2026"
+      },
+      {
+        "event": "Online Application Start Date",
+        "date": "23/07/2026"
+      },
+      {
+        "event": "Last Date to Submit Application",
+        "date": "24/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Peon (Jawan)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must read all instructions carefully before filling the online application.",
+      "Visit the official website: https://shivamogga.dcourts.gov.in/notice-category/recruitments/",
+      "Applications can be submitted online from 23.07.2026 to 24.08.2026 till 11:59 PM.",
+      "Upload scanned colour photograph (5cm x 3.6cm, max 50kb, .jpg format, white background).",
+      "Upload scanned signature (2.5cm x 7.5cm, max 26kb, .jpg format) using black ballpoint pen on white paper.",
+      "Upload scanned SSLC marksheet or equivalent in PDF format.",
+      "Pay the prescribed application fee online through State Bank Collect via SBI e-pay modes / net banking / credit card / debit card / UPI ID.",
+      "Submit only one application for all categories; mention all reservation claims in the same application.",
+      "Download and retain a copy of the submitted application and fee payment receipt until the recruitment process is complete.",
+      "Applications submitted by any mode other than online will not be considered."
+    ]
   },
   {
     "id": "karnataka-kslsa-section-officer",
@@ -1063,12 +3172,59 @@
     "district": "State Level",
     "vacancies": "20",
     "lastDate": "19-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/kslsa-section-officer-recruitment-2026-apply-online-for-20-posts/",
-    "notificationLink": "https://govtjobguru.in/jobs/kslsa-section-officer-recruitment-2026-apply-online-for-20-posts/",
+    "officialWebsite": "https://tumakuru.dcourts.gov.in/",
+    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec033083202a936b7d0ef8b680d7ae73/uploads/2026/07/2026072146.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/kslsa-section-officer-recruitment-2026-apply-online-for-20-posts/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General Merit / Category-II(A) / II(B) / III(A) / III(B) of Other Backward Classes",
+        "fee": "Rs. 1,000/-"
+      },
+      {
+        "category": "Scheduled Caste / Scheduled Tribe / Category-I of Other Backward Classes / Persons with Benchmark Disability",
+        "fee": "Rs. 500/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "20/07/2026"
+      },
+      {
+        "event": "Last Date for Online Application Submission",
+        "date": "19/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Section Officer (Residual Parent Cadre)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Section Officer (Kalyana Karnataka Region)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Karnataka Examinations Authority website: https://cetonline.karnataka.gov.in/kea/indexnew",
+      "Fill in all required details in the online application form.",
+      "Upload a recent passport size photograph (white background, 5cm x 3.5cm, 50kb-200kb, jpg format) and signature (black ball point pen on white paper, 2.5cm x 7.5cm, 25kb-50kb, jpg format).",
+      "Compulsorily provide: Aadhaar Card Number, SSLC/10th Standard Registration Number, LL.B Marks Card, Caste Certificate and Income details (if applicable), and other reservation details.",
+      "Pay the application fee through UPI/Net Banking/Debit Card payment gateway.",
+      "Preview the filled application before final submission.",
+      "Submit the application on or before 19.08.2026 till 11:59 p.m.",
+      "Take a printout of the submitted application for your records.",
+      "Retain the application number for future reference (admission card, interview intimation, etc.)."
+    ]
   },
   {
     "id": "karnataka-karnataka forest department-forest-watcher-group-d-",
@@ -1080,12 +3236,148 @@
     "district": "State Level",
     "vacancies": "707",
     "lastDate": "31-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/karnataka-forest-department-group-d-recruitment-2026/",
+    "officialWebsite": "https://aranya.gov.in",
     "notificationLink": "https://govtjobguru.in/jobs/karnataka-forest-department-group-d-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/karnataka-forest-department-group-d-recruitment-2026/",
+    "applyOnlineLink": "https://recruitment.aranya.gov.in/candidate/login",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General, Category 2A, 2B, 3A, 3B (Male)",
+        "fee": "Rs. 200/-"
+      },
+      {
+        "category": "General, Category 2A, 2B, 3A, 3B (Female / Third Gender)",
+        "fee": "Rs. 100/-"
+      },
+      {
+        "category": "SC, ST, Category-I (Male)",
+        "fee": "Rs. 100/-"
+      },
+      {
+        "category": "SC, ST, Category-I (Female / Third Gender)",
+        "fee": "Rs. 50/-"
+      },
+      {
+        "category": "Persons with Benchmark Disabilities (PwBD)",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Release Date",
+        "date": "20/07/2026"
+      },
+      {
+        "event": "Online Application Start Date",
+        "date": "01/08/2026"
+      },
+      {
+        "event": "Online Application Last Date",
+        "date": "31/08/2026"
+      },
+      {
+        "event": "Last Date to Pay Application Fee",
+        "date": "02/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Forest Watcher Group 'D' - Shimoga Circle",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Forest Watcher Group 'D' - Bangalore Circle",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Forest Watcher Group 'D' - Chamarajanagar Circle",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Forest Watcher Group 'D' - Bellary Circle",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Forest Watcher Group 'D' - Mysore Circle",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Forest Watcher Group 'D' - Belgaum Circle",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Forest Watcher Group 'D' - Kalaburgi Circle",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Forest Watcher Group 'D' - Chikkamagaluru Circle",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Forest Watcher Group 'D' - Hassan Circle",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Forest Watcher Group 'D' - Mangalore Circle",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Forest Watcher Group 'D' - Dharwad Circle",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Forest Watcher Group D - Circle Kodagu",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official Karnataka Forest Department website: https://aranya.gov.in.",
+      "Go to the “Recruitment” section on the bottom of the homepage.",
+      "Read the Karnataka Forest Department Services (Recruitment) (Amendment) Rules, 2019 carefully before filling the online application.",
+      "Register and fill in the online application form with accurate personal, educational, and category details.",
+      "Upload the required certificates/documents as prompted in the online form.",
+      "Pay the applicable application fee online (or generate a cash challan for payment at the specified banks).",
+      "Review all entered details carefully – corrections or additions are not allowed once the application is submitted.",
+      "Submit the application and save/print a copy of the completed form for your records."
+    ]
   },
   {
     "id": "karnataka-district panchayat kolar-ayurveda-specialist-doctor-homoeopathy-specialist-",
@@ -1114,12 +3406,56 @@
     "district": "State Level",
     "vacancies": "545",
     "lastDate": "16-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/pnb-lbo-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/pnb-lbo-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/pnb-lbo-recruitment-2026/",
+    "officialWebsite": "https://pnb.bank.in/",
+    "notificationLink": "https://govtjobguru.in/wp-content/uploads/2026/07/PNB-LBO-REcruitemnt-2026.pdf",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/pnbjul26/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "SC/ST/PwBD category candidates",
+        "fee": "Rs. 50/- + GST @18% = Rs. 59/- (only postage charges)"
+      },
+      {
+        "category": "All Others (General/OBC/EWS)",
+        "fee": "Rs. 1000/- + GST @18% = Rs. 1180/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date of Online Registration",
+        "date": "20/07/2026"
+      },
+      {
+        "event": "Closing Date of Online Registration (Extended Upto)",
+        "date": "16/08/2026"
+      },
+      {
+        "event": "Tentative Date of Online Test (August 2026/ September 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Local Bank Officer (LBO)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Bank’s official website https://pnb.bank.in/ under Recruitment/Career section.",
+      "Click on the link ‘CLICK HERE FOR NEW REGISTRATION’ to register your application by entering basic information.",
+      "Note down the provisional registration number and password generated by the system.",
+      "Fill in the online application form carefully with all required details.",
+      "Scan and upload photograph, signature, left hand thumb impression, handwritten declaration, proof of age, caste/disability certificate, educational qualification, and work experience documents as per specified guidelines.",
+      "Pay the application fee online using Debit Cards (RuPay/Visa/MasterCard), Credit Cards, Internet Banking, IMPS, Cash Cards/Mobile Wallets, or UPI.",
+      "Submit the application form after verifying all details.",
+      "Take a printout of the e-receipt and online application form for future reference.",
+      "Applications can be submitted from 20.07.2026 to 09.08.2026 only."
+    ]
   },
   {
     "id": "karnataka-cmti-data-entry-operator-cum-assistant-and-more-project",
@@ -1182,12 +3518,78 @@
     "district": "State Level",
     "vacancies": "572",
     "lastDate": "20-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/kea-vao-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/kea-vao-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/kea-vao-recruitment-2026/",
+    "officialWebsite": "https://cetonline.karnataka.gov.in",
+    "notificationLink": "https://cetonline.karnataka.gov.in/keawebentry456/vaokk2026/vao_kk_notification_10072026kannada.pdf",
+    "applyOnlineLink": "https://cetonline.karnataka.gov.in/login",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General and Category 2A, 2B, 3A, 3B",
+        "fee": "₹750 (₹500 application fee + ₹250 processing fee)"
+      },
+      {
+        "category": "SC / ST / Category-1 / Ex-Servicemen / Third Gender",
+        "fee": "₹500 (₹250 application fee + ₹250 processing fee)"
+      },
+      {
+        "category": "Special Chetana (PwBD) candidates",
+        "fee": "₹250 (processing fee only)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "10/07/2026"
+      },
+      {
+        "event": "Online Application Start Date",
+        "date": "11/07/2026"
+      },
+      {
+        "event": "Online Application Last Date (Extended Upto)",
+        "date": "20/08/2026"
+      },
+      {
+        "event": "Last Date to Pay Application Fee (Extended Upto)",
+        "date": "21/08/2026"
+      },
+      {
+        "event": "Written Exam Date (General/RPC cadre districts)",
+        "date": "04/10/2026"
+      },
+      {
+        "event": "Written Exam Date (Kalyana-Karnataka cadre districts)",
+        "date": "25/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Village Accountant / Grama Aadalitha Adhikari - General/RPC Cadre",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Village Accountant / Grama Aadalitha Adhikari - Kalyana-Karnataka Cadre",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official KEA website: cetonline.karnataka.gov.in/kea",
+      "Click on the application link for VAO Recruitment 2026 applicable to your cadre (General/RPC or Kalyana-Karnataka).",
+      "Register with your basic details and generate login credentials.",
+      "Fill in the online application form with personal, educational, and category details, selecting only one district of preference.",
+      "Upload a recent passport-size photograph (JPEG format, 50KB-200KB) and signature (JPEG format, 50KB-70KB) as per the specified format.",
+      "Verify all entered details carefully, as no correction is allowed after submission.",
+      "Pay the applicable application fee online and complete the submission.",
+      "Download and retain a printout of the submitted application and fee payment receipt for future reference."
+    ]
   },
   {
     "id": "karnataka-kea kreis-teacher",
@@ -1199,12 +3601,178 @@
     "district": "State Level",
     "vacancies": "1087",
     "lastDate": "13-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/kea-kreis-teacher-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/kea-kreis-teacher-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/kea-kreis-teacher-recruitment-2026/",
+    "officialWebsite": "https://cetonline.karnataka.gov.in/",
+    "notificationLink": "https://cetonline.karnataka.gov.in/keawebentry456/kreiskk2026/kries_kk_notification_10072026kannada.pdf",
+    "applyOnlineLink": "https://cetonline.karnataka.gov.in/kea/indexnew",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General and other categories (2A/2B/3A/3B)",
+        "fee": "₹750 (₹500 application fee + ₹250 exam fee)"
+      },
+      {
+        "category": "SC / ST / Category-1 / Ex-servicemen / Third Gender",
+        "fee": "₹500 (₹250 application fee + ₹250 exam fee)"
+      },
+      {
+        "category": "Special Pay (PWD) candidates",
+        "fee": "₹250 (exam fee only)"
+      },
+      {
+        "category": "Additional fee per extra post (beyond first post)",
+        "fee": "₹100 per additional post"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Release Date",
+        "date": "10/07/2026"
+      },
+      {
+        "event": "Online Application Start Date",
+        "date": "15/07/2026"
+      },
+      {
+        "event": "Online Application Last Date",
+        "date": "13/08/2026"
+      },
+      {
+        "event": "Last Date for Fee Payment",
+        "date": "14/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Kannada Language Teachers (RPC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "English Language Teachers (RPC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Hindi Language Teachers (RPC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Mathematics Teachers (RPC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Science Teachers (RPC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Social Science Teachers (RPC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Computer Science Teachers (RPC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Physical Education Teachers (RPC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Kannada Language Teachers (KK)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "English Language Teachers (KK)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Hindi Language Teachers (KK)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Mathematics Teachers (KK)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Science Teachers (KK)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Social Science Teachers (KK)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Physical Education Teachers (KK)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Drawing Teachers (KK)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Drawing Teachers (KK)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official KEA CET online portal: cetonline.karnataka.gov.in/kea.",
+      "Locate the link for KREIS Teacher Recruitment 2026 (RPC cadre or Kalyana-Karnataka cadre, as applicable) and register with your basic details.",
+      "Fill in the online application form carefully with personal, educational and category details.",
+      "Upload your photograph (JPEG, 50KB-200KB) and signature (JPEG, 50KB-70KB) as per the specified format.",
+      "Pay the applicable application fee online, including additional fee if applying for more than one post.",
+      "Review all entered details before final submission, as no correction is allowed after submission.",
+      "Download and print a copy of the submitted application and fee payment receipt/challan for future reference."
+    ]
   },
   {
     "id": "karnataka-kea-land-surveyor-last-date-extended-",
@@ -1216,12 +3784,77 @@
     "district": "State Level",
     "vacancies": "750",
     "lastDate": "20-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/kea-surveyor-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/kea-surveyor-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/kea-surveyor-recruitment-2026/",
+    "officialWebsite": "https://cetonline.karnataka.gov.in/",
+    "notificationLink": "https://cetonline.karnataka.gov.in/keawebentry456/landkk2026/kk_landkannada.pdf",
+    "applyOnlineLink": "https://cetonline.karnataka.gov.in/kea/indexnew",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General and other categories (2A/2B/3A/3B)",
+        "fee": "₹750"
+      },
+      {
+        "category": "SC / ST / Category-1 / Ex-servicemen / Third Gender",
+        "fee": "₹500"
+      },
+      {
+        "category": "Special Pay (PWD) candidates",
+        "fee": "₹250"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Release Date",
+        "date": "11/07/2026"
+      },
+      {
+        "event": "Online Application Start Date",
+        "date": "11/07/2026"
+      },
+      {
+        "event": "Online Application Last Date (Extended upto)",
+        "date": "20/08/2026"
+      },
+      {
+        "event": "Last Date for Fee Payment (Extended Upto)",
+        "date": "21/08/2026"
+      },
+      {
+        "event": "Paper-II (Specific Paper) Exam Date",
+        "date": "03/10/2026"
+      },
+      {
+        "event": "Paper-I (General Knowledge) Exam Date",
+        "date": "04/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Surveyor (Bhoomapaka) - Regular Cadre (RPC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Surveyor (Bhoomapaka) - Kalyana-Karnataka Local Cadre (KK)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official KEA CET online portal: cetonline.karnataka.gov.in/kea.",
+      "Locate the link for Surveyor Recruitment 2026 (Regular cadre or Kalyana-Karnataka cadre, as applicable) and register with your basic details.",
+      "Fill in the online application form carefully with personal, educational and category details.",
+      "Upload your photograph (JPEG, 50KB-200KB) and signature (JPEG, 50KB-70KB) as per the specified format and size.",
+      "Pay the applicable application fee online through the payment gateway.",
+      "Review all entered details before final submission, as no correction is allowed after submission.",
+      "Download and print a copy of the submitted application and fee payment receipt/challan for future reference."
+    ]
   },
   {
     "id": "karnataka-dhs chikkaballapur-general-duty-medical-officer",

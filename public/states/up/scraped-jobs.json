@@ -9,12 +9,155 @@
     "district": "State Level",
     "vacancies": "205",
     "lastDate": "16-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/aai-nr-apprentice-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/aai-nr-apprentice-2026/",
+    "officialWebsite": "https://www.aai.aero",
+    "notificationLink": "https://www.aai.aero/sites/default/files/examdashboard_advertisement/Final%20Advt.%20App.%202026-27-RHQ-NR.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-nr-apprentice-2026/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "All Categories",
+        "fee": "No Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date of Application",
+        "date": "16/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Civil Engg. (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Civil Engg. (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electrical Engg. (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electrical Engg. (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electronics (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electronics (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Computer Science/IT (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Computer Science/IT (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aeronautical/Aerospace/Aircraft Maintenance (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aeronautical/Aerospace/Aircraft Maintenance (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Architecture (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Architecture (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Mechanical/Automobile (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Mechanical/Automobile (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "BCA/B.Com (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "COPA/Steno (ITI)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Computer Hardware & Networking (ITI)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit BOAT’s/RDAT’s web portal: www.nats.education.gov.in (for Graduate/Diploma Apprentices) or www.apprenticeshipindia.org (for ITI Trade Apprentices).",
+      "Register yourself on the concerned portal (NATS/NAPS) prior to applying for apprenticeship training in AAI.",
+      "Find establishment: Airports Authority of India &ndash; RHQ NR, New Delhi (NDLSWC000002(BOAT) / E05200700101(NAPS)) and click on the Apply button.",
+      "Complete your profile with all required details including educational qualifications, communication details, and training preferences.",
+      "Upload required documents including qualifying degree/provisional certificate in PDF format.",
+      "After successful application, the portal will display the message: ‘Successfully applied for the training position. Based on availability, you will be contacted by the establishment.’",
+      "Candidates applying for more than one discipline will not be considered and their application will be rejected.",
+      "No Application Fee is being charged."
+    ]
   },
   {
     "id": "up-upsssc-junior-engineer-agriculture-",
@@ -26,12 +169,70 @@
     "district": "State Level",
     "vacancies": "134",
     "lastDate": "07-10-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/upsssc-je-agriculture-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/upsssc-je-agriculture-recruitment-2026/",
+    "officialWebsite": "https://upsssc.gov.in",
+    "notificationLink": "https://upsssc.gov.in//ViewPdf.aspx?HnWf3AX1TPcbZWvpTaJvREO3S7UAQjKO5DMOPRjzZ3I=",
     "applyOnlineLink": "https://govtjobguru.in/jobs/upsssc-je-agriculture-recruitment-2026/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Unreserved (General)",
+        "fee": "Rs. 25 (Online Processing Fee only)"
+      },
+      {
+        "category": "OBC (Other Backward Class)",
+        "fee": "Rs. 25 (Online Processing Fee only)"
+      },
+      {
+        "category": "Scheduled Caste (SC)",
+        "fee": "Rs. 25 (Online Processing Fee only)"
+      },
+      {
+        "category": "Scheduled Tribe (ST)",
+        "fee": "Rs. 25 (Online Processing Fee only)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Publication Date",
+        "date": "14/08/2026"
+      },
+      {
+        "event": "Start Date for Online Registration and Fee Submission",
+        "date": "17/09/2026"
+      },
+      {
+        "event": "Last Date for Fee Submission / Online Application Form Submission",
+        "date": "07/10/2026"
+      },
+      {
+        "event": "Last Date for Fee Adjustment and Application Modification",
+        "date": "14/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Junior Engineer (Agriculture) / Avar Abhiyanta (Krishi)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website upsssc.gov.in and go to the Homepage.",
+      "Click on the relevant advertisement under the ‘Live Advertisement Segment’ on the Applicant Segment section.",
+      "Login using your PET-2025 Registration Number via OTP sent to your registered mobile/email.",
+      "Fill in the application form with personal details, educational qualifications, and other required information.",
+      "Upload photo and signature (auto-fetched from PET-2025 records).",
+      "Fill in other details including preferential qualifications, address, and category details.",
+      "Read and accept the Declaration carefully.",
+      "Pay the application fee via Credit Card/Debit Card/Internet Banking/UPI or SBI e-Challan.",
+      "After successful fee payment and reconciliation, the application will be auto-submitted.",
+      "Download and print the application form for future reference.",
+      "Modifications to the application can be made up to 14-10-2026 via the Applicant’s Dashboard."
+    ]
   },
   {
     "id": "up-upsssc-veterinary-pharmacist",
@@ -43,12 +244,70 @@
     "district": "State Level",
     "vacancies": "1308",
     "lastDate": "05-10-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/upsssc-veterinary-pharmacist-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/upsssc-veterinary-pharmacist-recruitment-2026/",
+    "officialWebsite": "https://upsssc.gov.in",
+    "notificationLink": "https://upsssc.gov.in//ViewPdf.aspx?CSZTbXFLQRz/5MZaLnlokmwT0pv9K4wjRylGSlUjpqw=",
     "applyOnlineLink": "https://govtjobguru.in/jobs/upsssc-veterinary-pharmacist-recruitment-2026/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Unreserved (General)",
+        "fee": "Rs. 25 (Online Processing Fee only)"
+      },
+      {
+        "category": "Other Backward Class (OBC)",
+        "fee": "Rs. 25 (Online Processing Fee only)"
+      },
+      {
+        "category": "Scheduled Caste (SC)",
+        "fee": "Rs. 25 (Online Processing Fee only)"
+      },
+      {
+        "category": "Scheduled Tribe (ST)",
+        "fee": "Rs. 25 (Online Processing Fee only)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Publication Date",
+        "date": "14/08/2026"
+      },
+      {
+        "event": "Start Date for Registration/Online Application Fee Submission",
+        "date": "14/09/2026"
+      },
+      {
+        "event": "Last Date for Fee Submission/Online Application Form Submission",
+        "date": "05/10/2026"
+      },
+      {
+        "event": "Last Date for Fee Adjustment and Application Modification",
+        "date": "12/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Veterinary Pharmacist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website upsssc.gov.in and click on the relevant advertisement under the Live Advertisement Segment on the Homepage.",
+      "Login using your PET-2025 Registration Number via OTP sent to your registered mobile number/email.",
+      "Fill in the mandatory educational qualification details including board/university name, year of passing, certificate number, and marks obtained.",
+      "Verify the auto-populated personal details (name, category, date of birth, gender, etc.) from PET-2025 records.",
+      "Photo and signature uploaded during PET-2025 will be auto-displayed and cannot be changed.",
+      "Fill in preferential qualification details (if any) and verify permanent/correspondence address.",
+      "Read the declaration carefully, tick all checkboxes, enter the verification code, and click Save and Submit.",
+      "Pay the application fee online via Credit Card / Debit Card / Internet Banking / UPI or SBI e-Challan.",
+      "After successful fee payment and reconciliation, the application form will be auto-submitted. Download and print the application form.",
+      "If fee adjustment is pending, use the ‘Update Your Transaction ID by Double Verification’ option on the Applicant Segment of the website.",
+      "Application modification (address, EWS/horizontal reservation category, qualification details, marital status) is allowed up to 12-10-2026 via the Applicant’s Dashboard."
+    ]
   },
   {
     "id": "up-icds up kanpur nagar-anganwadi-helper",
@@ -247,12 +506,52 @@
     "district": "State Level",
     "vacancies": "305",
     "lastDate": "01-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/icds-up-maharajganj-anganwadi-bharti-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/icds-up-maharajganj-anganwadi-bharti-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/icds-up-maharajganj-anganwadi-bharti-2026/",
+    "officialWebsite": "https://upanganwadibharti.in",
+    "notificationLink": "https://upanganwadibharti.in/workernew/uploadOrder/ordercopy_1786456852_59363cf0.pdf",
+    "applyOnlineLink": "https://upanganwadibharti.in",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "No Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "11/08/2026"
+      },
+      {
+        "event": "Last Date to Apply Online",
+        "date": "01/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Anganwadi Worker (Anganwadi Karyakartri)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Anganwadi Helper (Anganwadi Sahayika)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official recruitment portal: https://upanganwadibharti.in",
+      "Fill in the online application form carefully and accurately in the prescribed format available on the website.",
+      "Upload self-attested copies of all required documents (clean and legible) as mentioned in the online form.",
+      "No offline or postal applications will be accepted.",
+      "Submit the application before the last date: 01 September 2026 (midnight 12:00 AM).",
+      "Selection will be based entirely on the documents uploaded at the time of application; no written exam or interview will be conducted."
+    ]
   },
   {
     "id": "up-indbank-relationship-manager-dealer",
@@ -264,12 +563,51 @@
     "district": "State Level",
     "vacancies": "14",
     "lastDate": "31-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/indbank-relationship-manager-and-dealer-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/indbank-relationship-manager-and-dealer-recruitment-2026/",
+    "officialWebsite": "https://www.indbankonline.com",
+    "notificationLink": "https://www.indbankonline.com/v/?v=2026/08/Advertisement-for-the-post-of-Relationshipmanager-Dealer-dated-10.08.2026.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/indbank-relationship-manager-and-dealer-recruitment-2026/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "10/08/2026"
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "31/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Relationship Manager",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Dealer - For Stock Broking Terminals",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the application form from the official website www.indbankonline.com.",
+      "Fill in the application form duly and attach copies of all required enclosures.",
+      "Send the duly filled application via courier or Registered Post to: Head Administration, No 480, 1st Floor Khivraj Complex I, Anna Salai, Nandanam, Chennai-35.",
+      "Alternatively, send the scanned copy of the duly filled application with enclosures to recruitment@indbankonline.com.",
+      "Ensure the application is received on or before 31.08.2026."
+    ]
   },
   {
     "id": "up-aiims gorakhpur-programme-support-associate",
@@ -383,12 +721,77 @@
     "district": "State Level",
     "vacancies": "1251",
     "lastDate": "29-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/upsssc-livestock-extension-officer-recruitment-2026-apply-online-for-1251-%e0%a4%aa%e0%a4%b6%e0%a5%81%e0%a4%a7%e0%a4%a8-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%b0-%e0%a4%85%e0%a4%a7/",
-    "notificationLink": "https://govtjobguru.in/jobs/upsssc-livestock-extension-officer-recruitment-2026-apply-online-for-1251-%e0%a4%aa%e0%a4%b6%e0%a5%81%e0%a4%a7%e0%a4%a8-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%b0-%e0%a4%85%e0%a4%a7/",
+    "officialWebsite": "https://upsssc.gov.in",
+    "notificationLink": "https://upsssc.gov.in/ViewPdf.aspx?8f1ccvnPlOm2snCCCtwDSmuqpivoGd8VDuahy3LB7Tc=",
     "applyOnlineLink": "https://govtjobguru.in/jobs/upsssc-livestock-extension-officer-recruitment-2026-apply-online-for-1251-%e0%a4%aa%e0%a4%b6%e0%a5%81%e0%a4%a7%e0%a4%a8-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%b0-%e0%a4%85%e0%a4%a7/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Unreserved (General)",
+        "fee": "₹25 (Online Processing Fee only)"
+      },
+      {
+        "category": "Other Backward Class (OBC)",
+        "fee": "₹25 (Online Processing Fee only)"
+      },
+      {
+        "category": "Scheduled Caste (SC)",
+        "fee": "₹25 (Online Processing Fee only)"
+      },
+      {
+        "category": "Scheduled Tribe (ST)",
+        "fee": "₹25 (Online Processing Fee only)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Publication Date",
+        "date": "10/08/2026"
+      },
+      {
+        "event": "Online Application Start Date (Fee Deposit)",
+        "date": "09/09/2026"
+      },
+      {
+        "event": "Last Date to Submit Online Application & Deposit Fee",
+        "date": "29/09/2026"
+      },
+      {
+        "event": "Last Date for Fee Adjustment & Application Modification",
+        "date": "06/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Livestock Extension Officer (Pashudhan Prasar Adhikari) - General & Special Selection",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Livestock Extension Officer (Pashudhan Prasar Adhikari) - Special Selection",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website upsssc.gov.in and click on the relevant advertisement under the Live Advertisement Segment on the Homepage.",
+      "Login using your PET-2025 Registration Number via OTP sent to your registered mobile number/email.",
+      "Verify your personal details auto-populated from PET-2025 (name, category, date of birth, gender, etc.).",
+      "Select the post(s) you wish to apply for and fill in educational qualification details (board/university name, year of passing, certificate/roll number, marks, etc.).",
+      "Verify the photo and signature auto-populated from PET-2025 (no changes allowed).",
+      "Fill in other details including preferential qualifications (if any) and permanent/correspondence address.",
+      "Read the Declaration carefully, tick all checkboxes, enter the verification code, and click ‘Save and Submit’.",
+      "Pay the prescribed application fee via Credit Card/Debit Card/Internet Banking/UPI or SBI e-Challan.",
+      "After successful fee payment and reconciliation, the application form will be auto-submitted. Download and print the application form.",
+      "If fee adjustment is pending, use the ‘Update Your Transaction ID by Double Verification’ option on the Applicant Segment of the website.",
+      "Modifications to permitted fields (correspondence address, EWS/horizontal reservation category, preferential qualification details, marital status) can be made up to 06-10-2026."
+    ]
   },
   {
     "id": "up-gims-staff-nurse",
@@ -400,12 +803,60 @@
     "district": "State Level",
     "vacancies": "100",
     "lastDate": "07-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/gims-staff-nurse-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/gims-staff-nurse-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/gims-staff-nurse-recruitment-2026/",
+    "officialWebsite": "https://www.gims.ac.in",
+    "notificationLink": "https://www.gims.ac.in/assets/pdf/DetailedAdv1.pdf",
+    "applyOnlineLink": "https://cdn3.digialm.com/EForms/configuredHtml/31586/101679/Index.html",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Unreserved (UR)",
+        "fee": "Rs. 1298/- (Rs. 1100 + GST Rs. 198)"
+      },
+      {
+        "category": "OBC / EWS",
+        "fee": "Rs. 1298/- (Rs. 1100 + GST Rs. 198)"
+      },
+      {
+        "category": "SC / ST",
+        "fee": "Rs. 944/- (Rs. 800 + GST Rs. 144)"
+      },
+      {
+        "category": "Divyang (All Categories in UP)",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "09/08/2026"
+      },
+      {
+        "event": "Starting Date for Apply Online",
+        "date": "10/08/2026"
+      },
+      {
+        "event": "Last Date for Online Application Submission",
+        "date": "07/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Staff Nurse",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidate Registration on the Institute’s website www.gims.ac.in (window opens from 10/08/2026)",
+      "Filling up of details of the form",
+      "Uploading photo, signatures and other documents",
+      "Payment of Fees and Application Form Submission",
+      "Printout of Application form"
+    ]
   },
   {
     "id": "up-sgpgims-specialist-medical-officer-gr-ii",
@@ -519,12 +970,97 @@
     "district": "State Level",
     "vacancies": "34",
     "lastDate": "28-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/upsc-recruitment-2026-apply-online-for-34-aee-research-officer-other-posts/",
-    "notificationLink": "https://govtjobguru.in/jobs/upsc-recruitment-2026-apply-online-for-34-aee-research-officer-other-posts/",
+    "officialWebsite": "https://upsc.gov.in",
+    "notificationLink": "https://www.upsc.gov.in/sites/default/files/AdvtNo-10-2026-Engl-070826.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/upsc-recruitment-2026-apply-online-for-34-aee-research-officer-other-posts/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General/OBC/EWS (Male)",
+        "fee": "Rs. 25/-"
+      },
+      {
+        "category": "SC/ST/PwBD/Women (All Categories)",
+        "fee": "Nil (Exempted)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Application Start Date",
+        "date": "08/08/2026"
+      },
+      {
+        "event": "Last Date for Submission (Posts other than UT of Ladakh)",
+        "date": "28/08/2026"
+      },
+      {
+        "event": "Last Date for Submission (Posts under UT of Ladakh)",
+        "date": "04/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Assistant Executive Engineer (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Executive Engineer (Electronics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Director (Engineering)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Superintendent Translation (Hindi Branch)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Research Officer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Horticulture Development Officer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Soil Conservation Assistant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the UPSC Online Recruitment Application portal at https://upsconline.nic.in/ora/",
+      "Create an account and complete Universal Registration to obtain a Universal Registration Number (URN).",
+      "Fill up the Common Application Form (CAF) including uploading photograph and capturing live photograph.",
+      "Fill up the post/vacancy specific module for the desired post.",
+      "Upload all required documents/certificates in PDF format (Date of Birth proof, Educational Qualifications, Experience Certificates, Caste Certificate, Disability Certificate, etc.).",
+      "Pay the application fee of Rs. 25/- online via Visa/Master/Rupay Credit/Debit Card, UPI, or Internet Banking (SC/ST/PwBD/Women candidates are exempted).",
+      "Submit the application before the closing date and take a printout of the submitted application.",
+      "Candidates are advised to use their Aadhaar Card as the ID document for verification."
+    ]
   },
   {
     "id": "up-iocl nr-trade-apprentice-technician-apprentice-graduate-ap",
@@ -537,11 +1073,136 @@
     "vacancies": "433",
     "lastDate": "06-09-26",
     "officialWebsite": "https://govtjobguru.in/jobs/iocl-nr-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/iocl-nr-apprentice-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/iocl-nr-apprentice-recruitment-2026/",
+    "notificationLink": "https://iocl.com/admin/img/Apprenticeships/Files/e2fe7d9255544d7e8a9e9c812dbfca7d.pdf",
+    "applyOnlineLink": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=B0Xxorf6hUGfjbuyZc4E5cLJ-uU_mEhAqmZkmr5RuPNURVVPR0FLNjRVMjBJOVFZSkNCN0czODE2Ty4u&route=shorturl",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date of Application",
+        "date": "07/08/2026"
+      },
+      {
+        "event": "Last Date of Submission of Application",
+        "date": "06/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Technician Apprentice - Mechanical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Electrical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Instrumentation",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Civil",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Electrical & Electronics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Electronics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Fitter",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Electrician",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Electronics Mechanic",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Instrument Mechanic",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Machinist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator (Fresher)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator (Skill Certificate Holders)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Register on the appropriate portal: NAPS (http://www.apprenticeshipindia.gov.in/) for Trade Apprentices (ITI &amp; Data Entry Operator) or NATS (https://nats.education.gov.in/student_register.php) for Technician and Graduate Apprentices.",
+      "Ensure 100% completion/updation of your profile (Personal Details, Educational Details, Category, Aggregate Percentage) on the respective portal.",
+      "Login to the respective NATS/NAPS portal using your User ID/Email ID and apply for the apprenticeship openings using the Establishment ID: NATS – NDLSDC000005 / NAPS – E05200700003.",
+      "After applying on the NATS/NAPS portal, also submit your details along with preferred State and three preferred locations in the Microsoft Office Form at: https://forms.cloud.microsoft/r/pw7D2cUK7c by 06.09.2026, 05:00 PM.",
+      "Candidates can apply for ONLY ONE DISCIPLINE CODE. Multiple discipline code applications will be summarily rejected.",
+      "Ensure you have a valid PAN Card, Aadhaar Card, active Aadhaar-seeded bank account enabled for DBT, and APAAR ID updated on NATS portal.",
+      "Applications must be submitted on or before 06th September 2026 at 05:00 PM. Applications received after the last date will not be considered."
+    ]
   },
   {
     "id": "up-sbi-clerk-junior-associate-",
@@ -553,12 +1214,60 @@
     "district": "State Level",
     "vacancies": "1538",
     "lastDate": "27-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
+    "officialWebsite": "https://sbi.bank.in",
+    "notificationLink": "https://sbi.bank.in/webfiles/uploads/files_2627/08/JA_2026_Backlog_Detailed_Advt_ENG.pdf",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/sbijasrdjl26/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "SC/ST/PwBD/XS/DXS",
+        "fee": "Nil"
+      },
+      {
+        "category": "OBC",
+        "fee": "Rs. 750/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Registration Start Date",
+        "date": "07/08/2026"
+      },
+      {
+        "event": "Online Registration End Date",
+        "date": "27/08/2026"
+      },
+      {
+        "event": "Preliminary Examination (Tentative) (September 2026)",
+        "date": ""
+      },
+      {
+        "event": "Main Examination (Tentative) (October/November 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Junior Associate (Customer Support & Sales) - Andhra Pradesh",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Bank’s official website: https://sbi.bank.in/web/careers/current-openings",
+      "Click on the advertisement for ‘Special Recruitment Drive for Junior Associates 2026’.",
+      "Scan and keep ready your photograph, signature, left hand thumb impression, and handwritten declaration as per specifications.",
+      "Fill in the Online Application Form carefully with all required details.",
+      "Upload the scanned photograph, signature, left thumb impression, and handwritten declaration.",
+      "Submit the application form. Note: Corrections will not be allowed after final submission.",
+      "Pay the application fee online using Debit Card / Credit Card / Internet Banking.",
+      "On successful payment, an e-receipt and application form with fee details will be generated. Print and retain for records.",
+      "Download and retain the system-generated online application form printout after submission."
+    ]
   },
   {
     "id": "up-bsip-scientist-b",
@@ -570,12 +1279,54 @@
     "district": "State Level",
     "vacancies": "19",
     "lastDate": "04-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/bsip-scientist-b-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/bsip-scientist-b-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/bsip-scientist-b-recruitment-2026/",
+    "officialWebsite": "https://www.bsip.res.in",
+    "notificationLink": "https://www.bsip.res.in/storage/careers/z87nghuv602wWJxsQP11gf8IRDI6AhrnkfMEP2fF.pdf",
+    "applyOnlineLink": "https://portal.bsip.in/scientist/Login.aspx",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General/OBC/EWS",
+        "fee": "Rs. 1,000/-"
+      },
+      {
+        "category": "SC/ST/PH/Women candidates and candidates who applied under Advertisement No. BSIP/S&A/02/2023 dated 14.02.2023",
+        "fee": "No Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Commencement of Online Registration",
+        "date": "10/08/2026"
+      },
+      {
+        "event": "Last Date for Submission of Application & Payment",
+        "date": "04/09/2026"
+      },
+      {
+        "event": "Last Date for Receipt of Hard Copy",
+        "date": "11/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Scientist 'B'",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Apply ONLINE through the Institute website www.bsip.res.in under the section “CAREER BSIP RECRUITMENT PORTAL”.",
+      "Fill in the online application form and upload required documents including Demand Draft of Rs. 1,000/- (for Gen/OBC/EWS candidates).",
+      "Send the Hard Copy of the Online Application along with self-attested copies of Mark Sheets, Certificates, Degrees, Testimonials, etc., and Demand Draft to the Registrar, BSIP, 53, University Road, Lucknow 226 007 via Speed/Registered Post only.",
+      "The envelope should be super-scribed “APPLICATION FOR THE POST OF SCIENTIST ‘B'”.",
+      "Hard copy must reach on or before 11th September 2026 till 1730 hrs.",
+      "Persons working in Central/State Government/Public Sector Undertaking/Autonomous Bodies shall submit their applications through proper channel within due date.",
+      "For technical/administrative support, contact: 0522-2742918, 2742956, 0522-2740098 or email: help.recruitment@bsip.res.in (Monday to Friday, 09:30 AM to 05:45 PM)."
+    ]
   },
   {
     "id": "up-icds bareilly-anganwadi-worker",
@@ -587,12 +1338,151 @@
     "district": "State Level",
     "vacancies": "174",
     "lastDate": "25-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/icds-bareilly-up-anganwadi-worker-bharti-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/icds-bareilly-up-anganwadi-worker-bharti-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/icds-bareilly-up-anganwadi-worker-bharti-2026/",
+    "officialWebsite": "http://upanganwadibharti.in",
+    "notificationLink": "https://cdn.s3waas.gov.in/s31d7f7abc18fcb43975065399b0d1e48e/uploads/2026/08/17859176897209.pdf",
+    "applyOnlineLink": "http://upanganwadibharti.in",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "No Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "05/08/2026"
+      },
+      {
+        "event": "Last Date to Apply Online",
+        "date": "25/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Anganwadi Worker (Anganwadi Karyakatri) - Alampur Jaffrabad",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Anganwadi Worker (Anganwadi Karyakatri) - Baheri",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Anganwadi Worker (Anganwadi Karyakatri) - Bhadpura",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Anganwadi Worker (Anganwadi Karyakatri) - Bhojipura",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Anganwadi Worker (Anganwadi Karyakatri) - Bhuta",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Anganwadi Worker (Anganwadi Karyakatri) - Bithri Chainpur",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Anganwadi Worker (Anganwadi Karyakatri) - Damkhoda (Richha)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Anganwadi Worker (Anganwadi Karyakatri) - Faridpur",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Anganwadi Worker (Anganwadi Karyakatri) - Fatehganj Pashchimi",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Anganwadi Worker (Anganwadi Karyakatri) - Kyara",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Anganwadi Worker (Anganwadi Karyakatri) - Majhgawan",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Anganwadi Worker (Anganwadi Karyakatri) - Mirganj",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Anganwadi Worker (Anganwadi Karyakatri) - Nawabganj",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Anganwadi Worker (Anganwadi Karyakatri) - Ramnagar",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Anganwadi Worker (Anganwadi Karyakatri) - Shergarh",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Anganwadi Worker (Anganwadi Karyakatri) - Bareilly City/Urban",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website: http://upanganwadibharti.in",
+      "Fill in the online application form carefully and accurately.",
+      "Upload self-attested copies of all required documents (clean and legible).",
+      "Ensure all details including marks, educational records, and personal information are correct.",
+      "Submit the online application before the last date: 25 August 2026.",
+      "No offline or postal applications will be accepted.",
+      "Any incorrect or forged information will lead to cancellation of candidature."
+    ]
   },
   {
     "id": "up-dbeo mirzapur-academic-resource-person",
@@ -740,12 +1630,81 @@
     "district": "State Level",
     "vacancies": "37",
     "lastDate": "03-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/uppsc-recruitment-2026-apply-online-for-37-architectural-assistant-others-posts/",
-    "notificationLink": "https://govtjobguru.in/jobs/uppsc-recruitment-2026-apply-online-for-37-architectural-assistant-others-posts/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/uppsc-recruitment-2026-apply-online-for-37-architectural-assistant-others-posts/",
+    "officialWebsite": "https://uppsc.up.nic.in",
+    "notificationLink": "https://uppsc.up.nic.in/OuterPages/View_Enclosure.aspx?ID=750&flag=H&FID=933",
+    "applyOnlineLink": "https://uppsc.up.nic.in/CandidatePages/Notifications.aspx",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Unreserved/EWS/OBC",
+        "fee": "Rs. 225/- (Exam fee Rs. 200/- + Online processing fee Rs. 25/-)"
+      },
+      {
+        "category": "Scheduled Castes/Scheduled Tribes",
+        "fee": "Rs. 105/- (Exam fee Rs. 80/- + Online processing fee Rs. 25/-)"
+      },
+      {
+        "category": "Persons with Disabilities (PWDs)",
+        "fee": "Rs. 25/- (Exam fee NIL + Online processing fee Rs. 25/-)"
+      },
+      {
+        "category": "Ex-Servicemen",
+        "fee": "Rs. 105/- (Exam fee Rs. 80/- + Online processing fee Rs. 25/-)"
+      },
+      {
+        "category": "Dependents of Freedom Fighters/Women/Skilled Player",
+        "fee": "As per original category"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Date of Commencement of Online Application",
+        "date": "03/08/2026"
+      },
+      {
+        "event": "Last Date for Payment of Examination Fee & Submission of Online Application",
+        "date": "03/09/2026"
+      },
+      {
+        "event": "Last Date for Correction/Modification in submitted Online Application & Fee Reconciliation",
+        "date": "10/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Architectural Assistant (Uttar Pradesh Housing and Development Board)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Estate Manager (Uttar Pradesh Housing and Development Board)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Microbiologist (Food Safety and Drug Administration, U.P.)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must complete One Time Registration (O.T.R.) and obtain O.T.R. number from https://otr.pariksha.nic.in at least 72 hours before submission of online application.",
+      "Visit the official website https://uppsc.up.nic.in and click on ‘ALL NOTIFICATIONS/ADVERTISEMENTS’.",
+      "Click on ‘Apply’ for the desired post and authenticate with O.T.R. number via OTP or O.T.R. password.",
+      "Complete Stage 1: Fill in essential qualification details as required for the post.",
+      "Complete Stage 2: Fill in permanent and correspondence address and choose Yes/No against each preferential qualification on the Applicant Dashboard.",
+      "Complete Stage 3: Pay the prescribed examination fee via SBI MOPS (Net Banking, Card Payments, or Other Payment Modes) and take a print of the Payment Transaction Slip.",
+      "Complete Stage 4: Take a print of the final submitted application form and keep it safe for future reference.",
+      "Candidates may modify qualifications once till the last date for correction/modification via ‘Candidate Dashboard Login’."
+    ]
   },
   {
     "id": "up-uppsc-manager-system-senior-programmer-programmer-comput",
@@ -757,12 +1716,88 @@
     "district": "State Level",
     "vacancies": "10",
     "lastDate": "03-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/uppsc-computer-operator-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/uppsc-computer-operator-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/uppsc-computer-operator-recruitment-2026/",
+    "officialWebsite": "https://uppsc.up.nic.in",
+    "notificationLink": "https://uppsc.up.nic.in/OuterPages/View_Enclosure.aspx?ID=749&flag=H&FID=931",
+    "applyOnlineLink": "https://uppsc.up.nic.in/CandidatePages/Notifications.aspx",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Unreserved / Economically Weaker Sections / Other Backward Classes",
+        "fee": "Exam fee Rs. 200/- + Online processing fee Rs. 25/- = Total Rs. 225/-"
+      },
+      {
+        "category": "Scheduled Castes / Scheduled Tribes",
+        "fee": "Exam fee Rs. 80/- + Online processing fee Rs. 25/- = Total Rs. 105/-"
+      },
+      {
+        "category": "Persons with Disabilities (PWDs)",
+        "fee": "Exam fee Rs. NIL/- + Online processing fee Rs. 25/- = Total Rs. 25/-"
+      },
+      {
+        "category": "Ex-Servicemen",
+        "fee": "Exam fee Rs. 80/- + Online processing fee Rs. 25/- = Total Rs. 105/-"
+      },
+      {
+        "category": "Dependents of Freedom Fighters / Women / Skilled Player",
+        "fee": "According to their original category"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Date of Commencement of Online Application",
+        "date": "03/08/2026"
+      },
+      {
+        "event": "Last Date for Payment of Examination Fee in the Bank & Submission of Online Application",
+        "date": "03/09/2026"
+      },
+      {
+        "event": "Last Date for Correction/Modification in Submitted Online Application & Fee Reconciliation",
+        "date": "10/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Manager (System) - Industrial Development Department",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Programmer - Industrial Development Department",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Programmer Grade-2 - Directorate of Financial Planning and Resources",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Computer Operator Grade-B - Uttar Pradesh Public Service Commission",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must complete One Time Registration (O.T.R.) at https://otr.pariksha.nic.in and obtain an O.T.R. number at least 72 hours before submitting the online application.",
+      "Visit the official website https://uppsc.up.nic.in and click on ‘ALL NOTIFICATIONS/ADVERTISEMENTS’ then ‘ONLINE ADVERTISEMENTS’.",
+      "Click on ‘Apply’ for the desired post. Authenticate using O.T.R. number via OTP or O.T.R. password.",
+      "Complete First Stage: Authenticate with O.T.R. All personal details will be auto-populated. Fill in essential qualification details.",
+      "Complete Second Stage: Fill in permanent and correspondence address and preferential qualifications via ‘Application Part-2’ on the Applicant Dashboard.",
+      "Complete Third Stage: Pay the examination fee through SBI MOPS via Net Banking, Card Payments, or Other Payment Modes. Take a printout of the Payment Transaction Slip.",
+      "Complete Fourth Stage: Take a printout of the final submitted application form and keep it safe for future reference.",
+      "In case of any modification in qualification, use ‘Candidate Dashboard Login’ to modify only once before the last date for correction/modification."
+    ]
   },
   {
     "id": "up-rbi-bank-medical-consultant",
@@ -791,12 +1826,75 @@
     "district": "State Level",
     "vacancies": "-",
     "lastDate": "01-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/upsssc-pet-notification-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/upsssc-pet-notification-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/upsssc-pet-notification-2026/",
+    "officialWebsite": "https://upsssc.gov.in",
+    "notificationLink": "https://upsssc.gov.in/ViewPdf.aspx?mQakfo5LrW2Cdx4YG2/st+GVGmBBNX8aG1X69whn6lU=",
+    "applyOnlineLink": "https://upsssc.gov.in//AllNotifications.aspx",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Unreserved (General)",
+        "fee": "Rs. 185 (Application Fee Rs. 160 + Online Processing Fee Rs. 25)"
+      },
+      {
+        "category": "Other Backward Class (OBC)",
+        "fee": "Rs. 185 (Application Fee Rs. 160 + Online Processing Fee Rs. 25)"
+      },
+      {
+        "category": "Scheduled Caste (SC)",
+        "fee": "Rs. 95 (Application Fee Rs. 70 + Online Processing Fee Rs. 25)"
+      },
+      {
+        "category": "Scheduled Tribe (ST)",
+        "fee": "Rs. 95 (Application Fee Rs. 70 + Online Processing Fee Rs. 25)"
+      },
+      {
+        "category": "Persons with Disabilities (PwD)",
+        "fee": "Rs. 25 (Online Processing Fee only)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Publication Date",
+        "date": "01/08/2026"
+      },
+      {
+        "event": "Starting Date for Apply Online",
+        "date": "03/08/2026"
+      },
+      {
+        "event": "Last Date to Submit Online Application Form / Pay Registration Fee",
+        "date": "01/09/2026"
+      },
+      {
+        "event": "Last Date for Fee Adjustment and Application Modification",
+        "date": "08/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Preliminary Eligibility Test (PET)-2026 (Group C Posts)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Complete One Time Registration (OTR) on the official website upsssc.gov.in before applying.",
+      "Visit the official website upsssc.gov.in and go to the ‘Live Advertisements’ section.",
+      "Login using OTR number or OTR registered mobile number.",
+      "Enter OTP received on registered mobile number and verification code to login.",
+      "Fill in the application form with required details (details from OTR will be auto-populated).",
+      "Fill in additional details such as marital status, EWS, UP state employee, freedom fighter dependent, ex-serviceman, outstanding sportsperson, disability category, etc.",
+      "Read and accept the declaration at the bottom of the application form.",
+      "Click ‘Submit’ after entering the verification code.",
+      "Note the 11-digit registration number from the Registration Slip.",
+      "Click ‘Proceed for Payment’ on the Registration Slip page and pay the required examination fee via Credit Card, Debit Card, Internet Banking, or SBI e-Challan.",
+      "After successful payment, download and print the application form. The application process is complete only after downloading/printing the form.",
+      "Keep the Registration Slip safe for future reference."
+    ]
   },
   {
     "id": "up-sgpgims-professor-associate-professor-assistant-professor",
@@ -808,12 +1906,244 @@
     "district": "State Level",
     "vacancies": "70",
     "lastDate": "31-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/sgpgims-faculty-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/sgpgims-faculty-2026/",
+    "officialWebsite": "https://www.sgpgims.org.in",
+    "notificationLink": "https://sgpgims.org.in/Home/recruit/Er/2026/31.07.2026_APC_Advt_310726.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/sgpgims-faculty-2026/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General Category",
+        "fee": "Rs. 2000/-"
+      },
+      {
+        "category": "OBC/SC/ST/PwD/EWS (domiciled in Uttar Pradesh)",
+        "fee": "Rs. 1000/-"
+      },
+      {
+        "category": "Overseas Candidates",
+        "fee": "USD 100 or equivalent foreign currency"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date for Receipt of Hard Copy of Application",
+        "date": "31/08/2026"
+      },
+      {
+        "event": "Cut-off Date for Determining Qualification, Experience & Upper Age Limit",
+        "date": "31/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Assistant Professor &ndash; General Pediatrics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor &ndash; Pediatric Pulmonology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor &ndash; Pediatric Neurology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor &ndash; Pediatric Oncology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor &ndash; Pediatric Cardiology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor &ndash; Pediatric Gastroenterology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor &ndash; Pediatric Surgical Super Specialities",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor &ndash; Pediatric & Neonatology Anaesthesia",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor &ndash; Pediatric Critical Care",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor &ndash; Pediatric Emergency",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor &ndash; Pediatric Radiodiagnosis",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor &ndash; General Pediatrics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor &ndash; Pediatric Pulmonology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor &ndash; Pediatric Neurology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor &ndash; Pediatric Oncology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor &ndash; Pediatric Cardiology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor &ndash; Pediatric & Neonatology Anaesthesia",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor &ndash; Pediatric Critical Care",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor &ndash; Pediatric Emergency",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor &ndash; Pediatric Radiodiagnosis",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor &ndash; General Pediatrics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor &ndash; Pediatric Pulmonology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor &ndash; Pediatric Neurology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor &ndash; Pediatric Oncology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor &ndash; Pediatric Cardiology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor &ndash; Pediatric & Neonatology Anaesthesia",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor &ndash; Pediatric Emergency",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor &ndash; Pediatric Radiodiagnosis",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the application form from the Institute’s website: www.sgpgims.org.in.",
+      "Fill in the prescribed application format completely and accurately.",
+      "Attach a Non-Refundable Demand Draft as application fee (Rs. 2000 for General; Rs. 1000 for OBC/SC/ST/PwD/EWS domiciled in UP; USD 100 or equivalent for overseas candidates) in favor of Director, SGPGIMS, Lucknow Academic Account, payable at SBI Code No. 7789, SGPGIMS, Lucknow. Write your name on the back of the draft.",
+      "Attach all required documents: date of birth certificate, address proof, category certificate (OBC within last 6 months), copies of professional degrees, MBBS/MD/MS/DNB/DM/MCh/DrNB registration certificates, teaching experience certificates, prints of research papers published, and testimonials from 3 referees.",
+      "Submit 10 copies of the Summary page (pages 4A &amp; 4B).",
+      "Superscribe the envelope with ‘Application for faculty position’, mention the advertisement number, and address it to: Executive Registrar, Sanjay Gandhi Postgraduate Institute of Medical Sciences, Raebareli Road, Lucknow 226014, India.",
+      "Send the application by Speed Post/Registered Post so as to reach on or before 31st August 2026.",
+      "Advance applications are accepted, but a copy forwarded through proper channel or a ‘No Objection Certificate’ from the current employer must be submitted before the interview call or presented on the date of interview."
+    ]
   },
   {
     "id": "up-niper-it-assistant",
@@ -893,12 +2223,53 @@
     "district": "State Level",
     "vacancies": "40",
     "lastDate": "27-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
+    "officialWebsite": "https://www.railtelindia.com",
+    "notificationLink": "https://www.railtel.in/images/careers/DocScanner%2028-Jul-2026%2004-10%20PM.pdf",
+    "applyOnlineLink": "https://nats.education.gov.in",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "28/07/2026"
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "27/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Graduate Apprentice Engineer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice Engineer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the NATS 2.0 portal at https://nats.education.gov.in.",
+      "If not already registered, register yourself on the NATS 2.0 portal before applying.",
+      "Follow the guidelines given in the student manual of NATS available at the portal (web link: https://nats.education.gov.in/assets/manual/establishment_user_manual.pdf).",
+      "Fill in the online application form with accurate details.",
+      "Upload the certificate showing your CGPA or percentage in the ‘Upload Certificate’ column. If only CGPA is mentioned, also upload the CGPA to percentage conversion formula/certificate along with the undertaking (Annexure 1) as a single PDF file of size less than 1 MB.",
+      "Submit the application online before the last date of 27.08.2026.",
+      "No other mode of application will be entertained."
+    ]
   },
   {
     "id": "up-hapur up anganwadi-anganwadi-worker-helper",
@@ -910,12 +2281,42 @@
     "district": "State Level",
     "vacancies": "317",
     "lastDate": "18-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/up-anganwadi-bharti-2024/",
-    "notificationLink": "https://govtjobguru.in/jobs/up-anganwadi-bharti-2024/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/up-anganwadi-bharti-2024/",
+    "officialWebsite": "https://upanganwadibharti.in/",
+    "notificationLink": "http://upanganwadibharti.in/",
+    "applyOnlineLink": "https://upanganwadibharti.in/workernew/users/registration.php",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Nil"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Closing Date for Apply Online (As per Schedule)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Anganwadi Worker/Helper 2026",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Eligibility Criteria: Only female candidates are eligible for the advertised posts.",
+      "Educational Qualification: The minimum educational requirement for the vacant posts (Anganwadi worker) is Intermediate or its equivalent.",
+      "Residency Requirement: Applicants must be permanent residents of the Ward/Gram Sabha of the vacant post. In cases where no eligible candidate from the said category is available in the Gram Sabha, applicants must be permanent residents of the concerned Nyaya Panchayat.",
+      "Age Limit: The age of applicants should be between 18 years (minimum) and 35 years (maximum) as of the cut-off date, which is 01.01.2026.",
+      "Application Process: Online application forms for the posts will be accepted exclusively on the departmental website http://upanganwadibharti.in within the specified time period.",
+      "Application Deadline: The last date to apply online for the posts depends on the notifications. Please check the notification from the links given below.",
+      "Detailed Information: For detailed eligibility criteria, application process, and more information regarding the above-mentioned posts, please visit the departmental website http://upanganwadibharti.in."
+    ]
   },
   {
     "id": "up-up anganwadi-anganwadi-helper",
@@ -927,12 +2328,42 @@
     "district": "State Level",
     "vacancies": "140",
     "lastDate": "19-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/up-anganwadi-bharti-2024/",
-    "notificationLink": "https://govtjobguru.in/jobs/up-anganwadi-bharti-2024/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/up-anganwadi-bharti-2024/",
+    "officialWebsite": "https://upanganwadibharti.in/",
+    "notificationLink": "http://upanganwadibharti.in/",
+    "applyOnlineLink": "https://upanganwadibharti.in/workernew/users/registration.php",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Nil"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Closing Date for Apply Online (As per Schedule)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Anganwadi Worker/Helper 2026",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Eligibility Criteria: Only female candidates are eligible for the advertised posts.",
+      "Educational Qualification: The minimum educational requirement for the vacant posts (Anganwadi worker) is Intermediate or its equivalent.",
+      "Residency Requirement: Applicants must be permanent residents of the Ward/Gram Sabha of the vacant post. In cases where no eligible candidate from the said category is available in the Gram Sabha, applicants must be permanent residents of the concerned Nyaya Panchayat.",
+      "Age Limit: The age of applicants should be between 18 years (minimum) and 35 years (maximum) as of the cut-off date, which is 01.01.2026.",
+      "Application Process: Online application forms for the posts will be accepted exclusively on the departmental website http://upanganwadibharti.in within the specified time period.",
+      "Application Deadline: The last date to apply online for the posts depends on the notifications. Please check the notification from the links given below.",
+      "Detailed Information: For detailed eligibility criteria, application process, and more information regarding the above-mentioned posts, please visit the departmental website http://upanganwadibharti.in."
+    ]
   },
   {
     "id": "up-wcd sant kabir nagar-anganwadi-worker",
@@ -944,12 +2375,42 @@
     "district": "State Level",
     "vacancies": "192",
     "lastDate": "20-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/up-anganwadi-bharti-2024/",
-    "notificationLink": "https://govtjobguru.in/jobs/up-anganwadi-bharti-2024/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/up-anganwadi-bharti-2024/",
+    "officialWebsite": "https://upanganwadibharti.in/",
+    "notificationLink": "http://upanganwadibharti.in/",
+    "applyOnlineLink": "https://upanganwadibharti.in/workernew/users/registration.php",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Nil"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Closing Date for Apply Online (As per Schedule)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Anganwadi Worker/Helper 2026",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Eligibility Criteria: Only female candidates are eligible for the advertised posts.",
+      "Educational Qualification: The minimum educational requirement for the vacant posts (Anganwadi worker) is Intermediate or its equivalent.",
+      "Residency Requirement: Applicants must be permanent residents of the Ward/Gram Sabha of the vacant post. In cases where no eligible candidate from the said category is available in the Gram Sabha, applicants must be permanent residents of the concerned Nyaya Panchayat.",
+      "Age Limit: The age of applicants should be between 18 years (minimum) and 35 years (maximum) as of the cut-off date, which is 01.01.2026.",
+      "Application Process: Online application forms for the posts will be accepted exclusively on the departmental website http://upanganwadibharti.in within the specified time period.",
+      "Application Deadline: The last date to apply online for the posts depends on the notifications. Please check the notification from the links given below.",
+      "Detailed Information: For detailed eligibility criteria, application process, and more information regarding the above-mentioned posts, please visit the departmental website http://upanganwadibharti.in."
+    ]
   },
   {
     "id": "up-iit (bhu) varanasi-research-associate-i",
@@ -978,12 +2439,183 @@
     "district": "State Level",
     "vacancies": "120",
     "lastDate": "14-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/hal-mt-and-design-trainee-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/hal-mt-and-design-trainee-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/hal-mt-and-design-trainee-recruitment-2026/",
+    "officialWebsite": "https://www.hal-india.co.in",
+    "notificationLink": "https://cbexams.com/halreg2026/Inc/Detailed_Advertisement_29072026.pdf",
+    "applyOnlineLink": "https://cbexams.com/halreg2026/default",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "UR / OBC(NCL) / EWS",
+        "fee": "Rs. 500/- (inclusive of GST)"
+      },
+      {
+        "category": "SC / ST / PwBD / Internal Candidates",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Release of Advertisement & Online Application Format",
+        "date": "29/07/2026"
+      },
+      {
+        "event": "Last Date for Receipt of Applications",
+        "date": "14/08/2026"
+      },
+      {
+        "event": "Downloading of Admit Cards",
+        "date": "20/08/2026"
+      },
+      {
+        "event": "Online Test (05-09-2026 & 06-09-2026 )",
+        "date": ""
+      },
+      {
+        "event": "Declaration of Online Test Results",
+        "date": "10/09/2026"
+      },
+      {
+        "event": "Downloading of Interview Call Letters",
+        "date": "12/09/2026"
+      },
+      {
+        "event": "Interviews at Bengaluru (21-09-2026 to 25-09-2026)",
+        "date": ""
+      },
+      {
+        "event": "Release of List of Provisionally Selected Candidates",
+        "date": "30/09/2026"
+      },
+      {
+        "event": "Issuance/Downloading of Provisional Offer",
+        "date": "06/10/2026"
+      },
+      {
+        "event": "Pre-employment Medical Examination (09-10-2026 to 15-10-2026)",
+        "date": ""
+      },
+      {
+        "event": "Pre-induction Training Document Verification at Bengaluru (26-10-2026 to 28-10-2026)",
+        "date": ""
+      },
+      {
+        "event": "Commencement of Induction Training at Bengaluru",
+        "date": "29/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Design Trainee - Aeronautical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Design Trainee - Electrical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Design Trainee - Electronics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Design Trainee - Instrumentation",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Design Trainee - Mechanical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Design Trainee - Computer Science",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Design Trainee - Metallurgy",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Electrical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Electronics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Mechanical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Computer Science",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Metallurgy",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Production",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Civil",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit HAL Website www.hal-india.co.in and click the link ‘SELECTION OF DESIGN TRAINEE/MANAGEMENT TRAINEE &ndash; 2026’ under the Careers Section.",
+      "Select the name of the post for which you want to apply.",
+      "Enter and re-enter a valid email id for OTP based registration.",
+      "Fill up Eligibility Details and upload photograph. A unique Application number will be generated.",
+      "Fill up Personal &amp; Qualification details. Use the ‘Edit’ option to correct any details before final submission.",
+      "SC/ST/PwBD/Internal candidates: On submission of personal &amp; qualification details, registration is complete. Print the Application Confirmation page.",
+      "UR/OBC(NCL)/EWS candidates: After submitting Personal &amp; Qualification Details, proceed to the Payment Gateway to pay the Application Fee of Rs.500/- (inclusive of GST) via Credit Card, Internet Banking, or UPI.",
+      "After successful payment, print the Application Confirmation page for future reference.",
+      "Ensure application is submitted well before the last date (14-08-2026, 1400 hrs.)."
+    ]
   },
   {
     "id": "up-csir-director",
@@ -1012,12 +2644,52 @@
     "district": "State Level",
     "vacancies": "632",
     "lastDate": "15-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/lakhimpur-up-anganwadi-bharti-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/lakhimpur-up-anganwadi-bharti-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/lakhimpur-up-anganwadi-bharti-2026/",
+    "officialWebsite": "https://upanganwadibharti.in",
+    "notificationLink": "https://upanganwadibharti.in/workernew/uploadOrder/ordercopy_1784959724_946b70b5.pdf",
+    "applyOnlineLink": "https://upanganwadibharti.in/workernew/users/registration.php",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "No Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "25/07/2026"
+      },
+      {
+        "event": "Last Date to Apply Online",
+        "date": "15/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Anganwadi Worker (Anganwadi Karyakatri)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Anganwadi Helper (Anganwadi Sahayika)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official departmental website: http://upanganwadibharti.in",
+      "Fill the online application form carefully and correctly in the prescribed format available on the website.",
+      "Upload self-attested copies of all required documents (clear and legible).",
+      "Ensure all academic records, marks, and data entered are accurate; incorrect or forged information will lead to cancellation of candidature.",
+      "No offline or postal applications will be accepted.",
+      "Submit the application before the last date: 15.08.2026."
+    ]
   },
   {
     "id": "up-icds bulandshahr-anganwadi-worker-anganwadi-helper",
@@ -1029,12 +2701,50 @@
     "district": "State Level",
     "vacancies": "678",
     "lastDate": "14-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/bulandshahr-up-anganwadi-bharti-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/bulandshahr-up-anganwadi-bharti-2026/",
+    "officialWebsite": "https://upanganwadibharti.in/",
+    "notificationLink": "https://upanganwadibharti.in/workernew/uploadOrder/ordercopy_1784897506_0da337e4.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/bulandshahr-up-anganwadi-bharti-2026/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "No Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date for Online Application",
+        "date": "14/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Anganwadi Worker (Anganwadi Karyakatri)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Anganwadi Helper (Anganwadi Sahayika)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "All applications must be submitted online through the official portal: https://upanganwadibharti.in/",
+      "Only female candidates are eligible to apply.",
+      "Fill the online application form carefully and accurately as per the format available on the departmental website.",
+      "Upload self-attested copies of all required documents (clean and legible) as mentioned in the online form.",
+      "Ensure correct entry of certificate numbers, academic marks, income, caste, and residence certificate details &mdash; online verification will be done through the portal.",
+      "No hard copy/offline application or documents sent by post will be accepted at any stage.",
+      "If any detail entered in the application is found incorrect or fabricated, the candidature will be cancelled.",
+      "The last date for online application is 14.08.2026 by midnight 12:00 AM."
+    ]
   },
   {
     "id": "up-upsc-agricultural-engineer-medical-officer-research-off",
@@ -1046,12 +2756,129 @@
     "district": "State Level",
     "vacancies": "40",
     "lastDate": "14-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/upsc-recruitment-2026-apply-online-for-37-medical-officer-specialist-other-posts/",
-    "notificationLink": "https://govtjobguru.in/jobs/upsc-recruitment-2026-apply-online-for-37-medical-officer-specialist-other-posts/",
+    "officialWebsite": "https://upsc.gov.in",
+    "notificationLink": "https://www.upsc.gov.in/sites/default/files/AdvtNo-09-2026-Engl-240726.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/upsc-recruitment-2026-apply-online-for-37-medical-officer-specialist-other-posts/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General/OBC/EWS (Male)",
+        "fee": "Rs. 25/-"
+      },
+      {
+        "category": "Female/SC/ST/PwBD",
+        "fee": "Nil (Exempted)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date for Online Application",
+        "date": "25/07/2026"
+      },
+      {
+        "event": "Closing Date for Online Application",
+        "date": "14/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Agricultural Engineer (Farm Machinery Training and Testing Institute, Dept. of Agriculture and Farmers Welfare)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medical Officer/Research Officer (Unani) (Ministry of Ayush)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist 'B' (Botany) (NRLC, Lucknow, Ministry of Culture)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist 'B' (Environmental Science) (NRLC, Lucknow, Ministry of Culture)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist 'B' (Geology) (NRLC, Lucknow, Ministry of Culture)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist 'B' (Physics) (NRLC, Lucknow, Ministry of Culture)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist 'B' (Zoology) (NRLC, Lucknow, Ministry of Culture)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Civilian Medical Officer (DGAFMS, Ministry of Defence)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Specialist Grade III Assistant Professor (Immuno-Haematology and Blood Transfusion) (Dept. of Health & Family Welfare)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Specialist Grade III Assistant Professor (Surgical Oncology) (Dept. of Health & Family Welfare)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Industrial Adviser (Ministry of Steel)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Veterinary Assistant Surgeon (Dept. of Animal Husbandry and Animal Welfare, Govt. of Puducherry)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the UPSC Online Recruitment Application portal at https://upsconline.nic.in/ora/",
+      "Complete Account Creation and Universal Registration to obtain a Universal Registration Number (URN).",
+      "Fill up the Common Application Form (CAF) including uploading photograph and capturing live photograph.",
+      "Fill up the post/vacancy specific module for the desired post.",
+      "Upload all required documents/certificates in support of claims (Date of Birth, Caste, Disability, Educational Qualifications, Experience, etc.) in PDF format.",
+      "Pay the application fee of Rs. 25/- online (if applicable) via Visa/Master/Rupay Credit/Debit Card/UPI or Internet Banking. Fee is waived for Female/SC/ST/PwBD candidates.",
+      "Submit the application before 1800 Hrs on 14-08-2026.",
+      "Take a printout of the finally submitted Online Recruitment Application for future reference.",
+      "Candidates are not required to send printouts by post; bring them at the time of interview if called."
+    ]
   },
   {
     "id": "up-upsssc-scientific-assistant-vaigyanik-sahayak-lab-assista",
@@ -1063,12 +2890,91 @@
     "district": "State Level",
     "vacancies": "208",
     "lastDate": "17-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/upsssc-forensic-science-laboratory-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/upsssc-forensic-science-laboratory-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/upsssc-forensic-science-laboratory-recruitment-2026/",
+    "officialWebsite": "https://upsssc.gov.in",
+    "notificationLink": "https://upsssc.gov.in/ViewPdf.aspx?omt6wajWeQ/wMLs6acTFSsdT5ApHGahB+4GmYQbMxzY=",
+    "applyOnlineLink": "https://upsssc.gov.in/AllNotifications.aspx",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Unreserved (General)",
+        "fee": "₹25 (Online Processing Fee only)"
+      },
+      {
+        "category": "Other Backward Class (OBC)",
+        "fee": "₹25 (Online Processing Fee only)"
+      },
+      {
+        "category": "Scheduled Caste (SC)",
+        "fee": "₹25 (Online Processing Fee only)"
+      },
+      {
+        "category": "Scheduled Tribe (ST)",
+        "fee": "₹25 (Online Processing Fee only)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Publication Date",
+        "date": "24/07/2026"
+      },
+      {
+        "event": "Online Application / Fee Deposit Start Date",
+        "date": "27/07/2026"
+      },
+      {
+        "event": "Last Date to Submit Online Application / Fee Deposit",
+        "date": "17/08/2026"
+      },
+      {
+        "event": "Last Date for Fee Adjustment and Application Modification",
+        "date": "24/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Scientific Assistant / Vaigyanik Sahayak (General Selection)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientific Assistant / Vaigyanik Sahayak (Special Selection)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Lab Assistant / Prayogshala Sahayak (General Selection)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Lab Assistant / Prayogshala Sahayak (Special Selection)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website upsssc.gov.in and click on the relevant advertisement under the Live Advertisement Segment on the Homepage.",
+      "Login using your PET-2025 Registration Number via OTP sent to your registered mobile number/email.",
+      "Verify your personal details auto-populated from PET-2025 registration (name, father/husband name, mother name, category, date of birth, gender, etc.).",
+      "Select the post(s) you wish to apply for and fill in educational qualification details including board/university name, year of passing, certificate/roll number, date of issue, and marks obtained.",
+      "Enter the verification code and click the Submit button to generate your application with an 11-digit registration number.",
+      "Upload/verify photo and signature (auto-populated from PET-2025; no changes allowed).",
+      "Fill in preference of posts and preferred qualification details in the ‘Other Details’ section.",
+      "Read and accept the Declaration by ticking all checkboxes, enter verification code, and click ‘Save and Submit’.",
+      "Pay the application fee via Credit Card/Debit Card/Internet Banking/UPI or SBI e-Challan as per instructions on the website.",
+      "After successful fee payment and reconciliation, the application will be auto-submitted. Download and print the application form for future reference.",
+      "If needed, modifications can be made till 24-08-2026 via the ‘Modify Application’ option on the Applicant’s Dashboard using OTP verification."
+    ]
   },
   {
     "id": "up-iit bhu-project-associate",
@@ -1165,12 +3071,74 @@
     "district": "State Level",
     "vacancies": "111",
     "lastDate": "20-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/upessc-up-principal-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/upessc-up-principal-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/upessc-up-principal-recruitment-2026/",
+    "officialWebsite": "https://www.upessc.up.gov.in",
+    "notificationLink": "https://upessc.up.gov.in/Notice/3e23-9b4f-4145-8397-89fe.pdf",
+    "applyOnlineLink": "https://principalhe.upessc.org/otr/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General/Unreserved/OBC/EWS and Others",
+        "fee": "Rs. 3,000.00"
+      },
+      {
+        "category": "SC/ST",
+        "fee": "Rs. 3,000.00"
+      },
+      {
+        "category": "Divyangjan (PwD)",
+        "fee": "Rs. 3,000.00"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Publication Date",
+        "date": "21/07/2026"
+      },
+      {
+        "event": "Online Registration (OTR) / Application Start Date",
+        "date": "21/07/2026"
+      },
+      {
+        "event": "Last Date to Submit Online Application Fee",
+        "date": "20/08/2026"
+      },
+      {
+        "event": "Last Date for Amendment/Correction in Online Application",
+        "date": "23/08/2026"
+      },
+      {
+        "event": "Examination Date",
+        "date": "24/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Principal (Pracharya) - Co-Education Degree Colleges",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Principal (Pracharya) - Women's Degree Colleges",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website www.upessc.up.gov.in.",
+      "Complete One Time Registration (OTR) which is mandatory before applying.",
+      "Fill in the online application form in English language.",
+      "Upload photograph (passport size, 30KB-300KB, 300-600 pixel resolution) and signature (10KB-200KB, 140×110 pixel resolution) in JPG/JPEG format.",
+      "Upload all required certificates/documents in PDF format (50KB-500KB each).",
+      "Pay the examination fee online via Credit/Debit Card or Net Banking.",
+      "Submit the application form and keep three printed copies for future reference.",
+      "Two copies of the printed application must be submitted at the Commission office at the time of interview along with required documents."
+    ]
   },
   {
     "id": "up-icar ivri-young-professional",
@@ -1199,12 +3167,44 @@
     "district": "State Level",
     "vacancies": "50",
     "lastDate": "21-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/sidbi-cca-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/sidbi-cca-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/sidbi-cca-recruitment-2026/",
+    "officialWebsite": "https://www.sidbi.in",
+    "notificationLink": "https://www.sidbi.in/head/uploads/career_document/Webad_Website_Final_20_07_2026.pdf",
+    "applyOnlineLink": "https://icaiplacements.icai.org/#/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "20/07/2026"
+      },
+      {
+        "event": "Closing Date for Apply Online",
+        "date": "21/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Consultant Credit Analyst (CCA)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "The selection process is being organized by ICAI (ICAI Placement Directorate) for Newly Qualified Chartered Accountants.",
+      "Interested candidates must visit the ICAI website at https://icaiplacements.icai.org/#/ for indicative guidelines and procedure for registration.",
+      "Register and apply through the ICAI Placement portal for the SIDBI Consultant Credit Analyst (CCA) post.",
+      "SIDBI will conduct interviews at Mumbai, New Delhi, Chennai, and Ahmedabad centers.",
+      "Applications sent directly to SIDBI will NOT be entertained under any circumstances."
+    ]
   },
   {
     "id": "up-nmrc-young-professional",
@@ -1284,11 +3284,41 @@
     "district": "State Level",
     "vacancies": "Various",
     "lastDate": "As",
-    "officialWebsite": "https://govtjobguru.in/jobs/up-anganwadi-bharti-2024/",
-    "notificationLink": "https://govtjobguru.in/jobs/up-anganwadi-bharti-2024/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/up-anganwadi-bharti-2024/",
+    "officialWebsite": "https://upanganwadibharti.in/",
+    "notificationLink": "http://upanganwadibharti.in/",
+    "applyOnlineLink": "https://upanganwadibharti.in/workernew/users/registration.php",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Nil"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Closing Date for Apply Online (As per Schedule)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Anganwadi Worker/Helper 2026",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Eligibility Criteria: Only female candidates are eligible for the advertised posts.",
+      "Educational Qualification: The minimum educational requirement for the vacant posts (Anganwadi worker) is Intermediate or its equivalent.",
+      "Residency Requirement: Applicants must be permanent residents of the Ward/Gram Sabha of the vacant post. In cases where no eligible candidate from the said category is available in the Gram Sabha, applicants must be permanent residents of the concerned Nyaya Panchayat.",
+      "Age Limit: The age of applicants should be between 18 years (minimum) and 35 years (maximum) as of the cut-off date, which is 01.01.2026.",
+      "Application Process: Online application forms for the posts will be accepted exclusively on the departmental website http://upanganwadibharti.in within the specified time period.",
+      "Application Deadline: The last date to apply online for the posts depends on the notifications. Please check the notification from the links given below.",
+      "Detailed Information: For detailed eligibility criteria, application process, and more information regarding the above-mentioned posts, please visit the departmental website http://upanganwadibharti.in."
+    ]
   }
 ]

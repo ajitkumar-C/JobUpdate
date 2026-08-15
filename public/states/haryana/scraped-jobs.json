@@ -9,12 +9,155 @@
     "district": "State Level",
     "vacancies": "205",
     "lastDate": "16-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/aai-nr-apprentice-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/aai-nr-apprentice-2026/",
+    "officialWebsite": "https://www.aai.aero",
+    "notificationLink": "https://www.aai.aero/sites/default/files/examdashboard_advertisement/Final%20Advt.%20App.%202026-27-RHQ-NR.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-nr-apprentice-2026/",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "All Categories",
+        "fee": "No Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date of Application",
+        "date": "16/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Civil Engg. (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Civil Engg. (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electrical Engg. (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electrical Engg. (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electronics (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electronics (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Computer Science/IT (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Computer Science/IT (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aeronautical/Aerospace/Aircraft Maintenance (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Aeronautical/Aerospace/Aircraft Maintenance (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Architecture (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Architecture (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Mechanical/Automobile (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Mechanical/Automobile (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "BCA/B.Com (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "COPA/Steno (ITI)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Computer Hardware & Networking (ITI)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit BOAT’s/RDAT’s web portal: www.nats.education.gov.in (for Graduate/Diploma Apprentices) or www.apprenticeshipindia.org (for ITI Trade Apprentices).",
+      "Register yourself on the concerned portal (NATS/NAPS) prior to applying for apprenticeship training in AAI.",
+      "Find establishment: Airports Authority of India &ndash; RHQ NR, New Delhi (NDLSWC000002(BOAT) / E05200700101(NAPS)) and click on the Apply button.",
+      "Complete your profile with all required details including educational qualifications, communication details, and training preferences.",
+      "Upload required documents including qualifying degree/provisional certificate in PDF format.",
+      "After successful application, the portal will display the message: ‘Successfully applied for the training position. Based on availability, you will be contacted by the establishment.’",
+      "Candidates applying for more than one discipline will not be considered and their application will be rejected.",
+      "No Application Fee is being charged."
+    ]
   },
   {
     "id": "haryana-esic-ayurvedic-physician-walk-in-",
@@ -94,12 +237,128 @@
     "district": "State Level",
     "vacancies": "22",
     "lastDate": "29-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/npcc-engineer-consultant-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/npcc-engineer-consultant-recruitment-2026/",
+    "officialWebsite": "https://www.npcc.gov.in",
+    "notificationLink": "http://npcc.gov.in/writereaddata/others/Advertisement-EDD&CZO7926F.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/npcc-engineer-consultant-recruitment-2026/",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General & OBC Candidates",
+        "fee": "Rs. 500/- for each application"
+      },
+      {
+        "category": "SC/ST/PwBD/EWS/Ex-Servicemen",
+        "fee": "Nil"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date for Online Application",
+        "date": "08/08/2026"
+      },
+      {
+        "event": "Closing Date for Online Application",
+        "date": "29/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Site Engineer (Structural Engineer)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Site Engineer (Architect)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Site Engineer (MEP)-Civil",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Site Engineer (MEP)-Electrical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Site Engineer (MEP)-Mechanical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer-Civil",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer-Electrical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Consultant-Projects",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Site Engineer (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Sr. Associate (Office Support)-Finance",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Civil) - Chhattisgarh",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Mechanical) - Chhattisgarh",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the NPCC official website at www.npcc.gov.in and click on the link for online application.",
+      "Read the full advertisement carefully and ensure you fulfill all the eligibility conditions before applying.",
+      "Ensure availability of all required documents before filling the application form.",
+      "Fill in the online application form with correct and complete information.",
+      "Upload the required documents: Matriculation/Birth Certificate, marksheets/degree certificates, proof of post-qualification experience, latest pay-in-slip, Form-16 of last two financial years (if applicable), category certificate (if applicable), disability certificate (if applicable), Income &amp; Asset Certificate for EWS (if applicable), Aadhar Card and any other supporting documents.",
+      "Pay the application fee through the payment gateway (Rs. 500/- for General &amp; OBC candidates; Nil for SC/ST/PwBD/EWS/Ex-Servicemen).",
+      "Submit the online application on or before 29.08.2026 till 11:59 P.M.",
+      "No other mode of application shall be considered."
+    ]
   },
   {
     "id": "haryana-thsti-project-associate-i-senior-project-associate",
@@ -146,11 +405,136 @@
     "vacancies": "433",
     "lastDate": "06-09-26",
     "officialWebsite": "https://govtjobguru.in/jobs/iocl-nr-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/iocl-nr-apprentice-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/iocl-nr-apprentice-recruitment-2026/",
+    "notificationLink": "https://iocl.com/admin/img/Apprenticeships/Files/e2fe7d9255544d7e8a9e9c812dbfca7d.pdf",
+    "applyOnlineLink": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=B0Xxorf6hUGfjbuyZc4E5cLJ-uU_mEhAqmZkmr5RuPNURVVPR0FLNjRVMjBJOVFZSkNCN0czODE2Ty4u&route=shorturl",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date of Application",
+        "date": "07/08/2026"
+      },
+      {
+        "event": "Last Date of Submission of Application",
+        "date": "06/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Technician Apprentice - Mechanical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Electrical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Instrumentation",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Civil",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Electrical & Electronics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Electronics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Fitter",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Electrician",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Electronics Mechanic",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Instrument Mechanic",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Machinist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator (Fresher)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator (Skill Certificate Holders)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Register on the appropriate portal: NAPS (http://www.apprenticeshipindia.gov.in/) for Trade Apprentices (ITI &amp; Data Entry Operator) or NATS (https://nats.education.gov.in/student_register.php) for Technician and Graduate Apprentices.",
+      "Ensure 100% completion/updation of your profile (Personal Details, Educational Details, Category, Aggregate Percentage) on the respective portal.",
+      "Login to the respective NATS/NAPS portal using your User ID/Email ID and apply for the apprenticeship openings using the Establishment ID: NATS – NDLSDC000005 / NAPS – E05200700003.",
+      "After applying on the NATS/NAPS portal, also submit your details along with preferred State and three preferred locations in the Microsoft Office Form at: https://forms.cloud.microsoft/r/pw7D2cUK7c by 06.09.2026, 05:00 PM.",
+      "Candidates can apply for ONLY ONE DISCIPLINE CODE. Multiple discipline code applications will be summarily rejected.",
+      "Ensure you have a valid PAN Card, Aadhaar Card, active Aadhaar-seeded bank account enabled for DBT, and APAAR ID updated on NATS portal.",
+      "Applications must be submitted on or before 06th September 2026 at 05:00 PM. Applications received after the last date will not be considered."
+    ]
   },
   {
     "id": "haryana-rcb-part-time-doctor",
@@ -179,12 +563,180 @@
     "district": "State Level",
     "vacancies": "100",
     "lastDate": "11-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/echs-ambala-recruitment-2026-apply-for-100-medical-para-medical-non-medical-staff-psots/",
-    "notificationLink": "https://govtjobguru.in/jobs/echs-ambala-recruitment-2026-apply-for-100-medical-para-medical-non-medical-staff-psots/",
+    "officialWebsite": "https://www.echs.gov.in",
+    "notificationLink": "https://www.echs.gov.in/assets/advertisement/Ambala%20Cant%2011.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/echs-ambala-recruitment-2026-apply-for-100-medical-para-medical-non-medical-staff-psots/",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date to Submit Application",
+        "date": "11/08/2026"
+      },
+      {
+        "event": "Interview Start Date",
+        "date": "21/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Medical Officer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Dental Officer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medical Specialist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Gynaecologist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Radiologist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Dental A/T/H (Dental Hygienist/Technician/Assistant)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Nursing Assistant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Pharmacist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Physiotherapist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Laboratory Technician",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Laboratory Assistant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Radiographer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "IT Technician",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Driver",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Clerk",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Data Entry Operator",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Receptionist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Peon",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Chowkidar",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Safaiwala",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the application form from the official ECHS website: www.echs.gov.in.",
+      "Fill in the application form as per the prescribed format.",
+      "Attach self-attested photocopies of Education Qualifications, PAN Card, Aadhar Card, and Work Experience certificates.",
+      "Attach original copies of the latest Medical Certificate signed by SEMO/CMO and Character Certificate.",
+      "Attach NOC from concerned Station Cell if currently working with any Army Organisation.",
+      "ESM candidates must attach Copy of Discharge Book and PPO.",
+      "Submit the complete application in physical form to OIC, Station HQ (ECHS), Ambala Cantt on or before 11 Aug 2026 by 01:30 PM.",
+      "Applications received after the deadline will not be accepted."
+    ]
   },
   {
     "id": "haryana-central university of haryana-professor-associate-professor",
@@ -213,12 +765,39 @@
     "district": "State Level",
     "vacancies": "108",
     "lastDate": "03-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/haryana-anganwadi-female-supervisor-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/haryana-anganwadi-female-supervisor-recruitment-2026/",
+    "officialWebsite": "https://wcdhry.gov.in/",
+    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s34c144c47ecba6f8318128703ca9e2601/uploads/2026/08/20260804697336976.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/haryana-anganwadi-female-supervisor-recruitment-2026/",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Closing Date to Fill Application Form (within 30 days from the date of publication of this advertisement.)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Female Supervisor",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Fill the application form for Supervisor on transfer/deputation basis.",
+      "Enclose self-attested photocopies of relevant documents.",
+      "Submit the application through proper channel to Director, Women and Child Development Department, Bays No 1,5-20, Sector -4, Panchkula, Haryana – 134112.",
+      "Ensure application reaches within 30 days from the date of publication of the advertisement."
+    ]
   },
   {
     "id": "haryana-bric thsti-assistant-data-manager-statistical-programmer-and-",
@@ -247,12 +826,53 @@
     "district": "State Level",
     "vacancies": "40",
     "lastDate": "27-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
+    "officialWebsite": "https://www.railtelindia.com",
+    "notificationLink": "https://www.railtel.in/images/careers/DocScanner%2028-Jul-2026%2004-10%20PM.pdf",
+    "applyOnlineLink": "https://nats.education.gov.in",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "28/07/2026"
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "27/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Graduate Apprentice Engineer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice Engineer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the NATS 2.0 portal at https://nats.education.gov.in.",
+      "If not already registered, register yourself on the NATS 2.0 portal before applying.",
+      "Follow the guidelines given in the student manual of NATS available at the portal (web link: https://nats.education.gov.in/assets/manual/establishment_user_manual.pdf).",
+      "Fill in the online application form with accurate details.",
+      "Upload the certificate showing your CGPA or percentage in the ‘Upload Certificate’ column. If only CGPA is mentioned, also upload the CGPA to percentage conversion formula/certificate along with the undertaking (Annexure 1) as a single PDF file of size less than 1 MB.",
+      "Submit the application online before the last date of 27.08.2026.",
+      "No other mode of application will be entertained."
+    ]
   },
   {
     "id": "haryana-skau-staff-nurse-ayurvedic-pharmacist-clerk",
@@ -264,12 +884,77 @@
     "district": "State Level",
     "vacancies": "60",
     "lastDate": "21-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/skau-non-teaching-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/skau-non-teaching-recruitment-2026/",
+    "officialWebsite": "https://www.skau.ac.in",
+    "notificationLink": "https://skau.ac.in/downloads/files/n6a689841e4009.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/skau-non-teaching-recruitment-2026/",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Male candidates of General category (including Dependent Son of ESM of Haryana) / Male candidates of Backward Classes (Creamy Layer) / All male/female candidates of all categories of other States",
+        "fee": "Rs. 1500/-"
+      },
+      {
+        "category": "Female candidates of General category (including Female Dependent of ESM of Haryana only)",
+        "fee": "Rs. 750/-"
+      },
+      {
+        "category": "Male & Female candidates of OSC/DSC/BC-A (Non-Creamy Layer)/BC-B (Non-Creamy Layer)/ESM categories of Haryana / EWS category of Haryana",
+        "fee": "Rs. 375/-"
+      },
+      {
+        "category": "Persons with Benchmark Disabilities (PwBD) of Haryana with at least 40% disability",
+        "fee": "NIL"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Date of Publication",
+        "date": "28/07/2026"
+      },
+      {
+        "event": "Opening Date for Submission of Online Applications",
+        "date": "30/07/2026"
+      },
+      {
+        "event": "Closing Date for Payment of Fees and Submission of Online Application Form",
+        "date": "21/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Staff Nurse",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Ayurvedic Pharmacist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Clerk",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit https://recruitment.skau.ac.in/nonteaching/ and register online using Parivar Pehchan Patra (PPP)/Mobile Number.",
+      "After registration, a login ID will be created. Complete the registration process using the login ID.",
+      "Fill up the online application form against the respective advertisement as per your qualifications.",
+      "Pay the requisite application fee through Net Banking, Debit Card, or Credit Card.",
+      "After submission of the application form and fee, take a printout of the submitted online application form.",
+      "Sign every page of the filled-in form and upload the scanned signed copy of the application form.",
+      "Process of submission is complete only after uploading the duly signed copy of the downloaded application form.",
+      "Retain the printout of the finally submitted online application form for future reference."
+    ]
   },
   {
     "id": "haryana-rec-advisor",
@@ -366,11 +1051,125 @@
     "district": "State Level",
     "vacancies": "1450",
     "lastDate": "12-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/iocl-panipat-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/iocl-panipat-apprentice-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/iocl-panipat-apprentice-recruitment-2026/",
+    "officialWebsite": "https://www.iocl.com",
+    "notificationLink": "https://iocl.com/admin/img/Apprenticeships/Files/90a26aa24f4347d79b3616275c5d8f07.pdf",
+    "applyOnlineLink": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=B0Xxorf6hUGfjbuyZc4E5feMWzMF77xEq7SIf6dirUhUNU5STlkwNDJPU0FGVFUyWEdDUVVMUk1OQi4u&route=shorturl",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Date of Opening of Online Application in NAPS/NATS Portal and Filling up Microsoft Forms",
+        "date": "14/07/2026"
+      },
+      {
+        "event": "Last Date of Submission of Online Application in NAPS/NATS Portal and Filling up Microsoft Forms",
+        "date": "12/08/2026"
+      },
+      {
+        "event": "Tentative Date of Publication of List of Candidates Called for Document Verification",
+        "date": "20/08/2026"
+      },
+      {
+        "event": "Tentative Date of Document Verification",
+        "date": "27/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Trade Apprentice - Attendant Operator (Chemical Plant) [Code 101]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice (Fitter) [Code 102]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Chemical [Code 104]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Mechanical [Code 105]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Electrical [Code 106]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Instrumentation [Code 107]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Secretarial Assistant (Panipat) [Code 108]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Secretarial Assistant (New Delhi) [Code 108]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Accountant [Code 109]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator Fresher [Code 110]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator Skill Certificate Holders [Code 111]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the IOCL official website www.iocl.com from 14-07-2026 till 12-08-2026.",
+      "Ensure you have a valid and active Apprentice Registration/Enrolment Number registered on NAPS/NATS portal.",
+      "STEP I: For Codes 101, 102, 108, 109, 110 &amp; 111 &ndash; Register on NAPS portal at https://apprenticeshipindia.gov.in/ and apply for the relevant opportunity under IOCL Panipat Refinery &amp; Petrochemical Complex.",
+      "For Codes 104, 105, 106 &amp; 107 &ndash; Register on NATS portal at https://nats.education.gov.in and apply for the advertisement notified by IOCL Panipat Refinery &amp; Petrochemical Complex on your dashboard.",
+      "Use Establishment ID: NHRPPC000003 (for NATS) or E10150600035 (for NAPS) for Panipat Refinery &amp; Petrochemical Complex.",
+      "STEP II: After applying on NAPS/NATS portal, mandatorily submit additional details in Microsoft Forms by visiting the link at www.iocl.com.",
+      "Ensure all details in Microsoft Forms match those in the NAPS/NATS portal (Enrollment No./Student ID/Registration No., email ID, mobile number).",
+      "Both Step I and Step II must be completed for the application to be considered valid.",
+      "Candidates applying for Code 108 (Secretarial Assistant) must specify their preferred training location (Panipat or New Delhi) in Microsoft Forms."
+    ]
   }
 ]

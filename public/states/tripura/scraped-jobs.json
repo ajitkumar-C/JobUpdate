@@ -26,12 +26,68 @@
     "district": "State Level",
     "vacancies": "7",
     "lastDate": "31-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/neepco-je-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/neepco-je-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/neepco-je-recruitment-2026/",
+    "officialWebsite": "https://www.neepco.co.in",
+    "notificationLink": "https://neepco.co.in/neepco/sites/default/files/2026-08/advt_je_english_version_aggbps_tgbps_0.pdf",
+    "applyOnlineLink": "https://recruitment.neepco-spark.co.in/",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "All Categories",
+        "fee": "No Application Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Commencement of Online Registration",
+        "date": "11/08/2026"
+      },
+      {
+        "event": "Closing of Online Registration",
+        "date": "31/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Junior Engineer (Electrical) - Agartala Gas Based Power Station (Post Code: HR/356/11/E)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Mechanical) - Agartala Gas Based Power Station (Post Code: HR/356/11/M)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Electrical) - Tripura Gas Based Power Station (Post Code: HR/356/19/E)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Mechanical) - Tripura Gas Based Power Station (Post Code: HR/356/19/M)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website www.neepco.co.in and navigate to the Careers section.",
+      "The online registration portal will be functional from 00:01 Hrs of 11-08-2026 to 23:59 Hrs of 31-08-2026.",
+      "Ensure you are registered in Agartala Employment Exchange or Sepahijala Employment Exchange and possess Tripura state domicile.",
+      "Fill in the online application form with accurate details including a valid email ID (which must remain active for at least one year).",
+      "No application fee is required.",
+      "Submit the application online. No manual/paper application will be accepted.",
+      "Download the Admit Card from the Recruitment Portal once available. Admit cards will not be sent by post.",
+      "Candidates already working in Government/Public Sector Enterprises must produce a No Objection Certificate (NOC) at the time of written test."
+    ]
   },
   {
     "id": "tripura-tripura university-non-teaching",
@@ -60,12 +116,60 @@
     "district": "State Level",
     "vacancies": "1538",
     "lastDate": "27-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
+    "officialWebsite": "https://sbi.bank.in",
+    "notificationLink": "https://sbi.bank.in/webfiles/uploads/files_2627/08/JA_2026_Backlog_Detailed_Advt_ENG.pdf",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/sbijasrdjl26/",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "SC/ST/PwBD/XS/DXS",
+        "fee": "Nil"
+      },
+      {
+        "category": "OBC",
+        "fee": "Rs. 750/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Registration Start Date",
+        "date": "07/08/2026"
+      },
+      {
+        "event": "Online Registration End Date",
+        "date": "27/08/2026"
+      },
+      {
+        "event": "Preliminary Examination (Tentative) (September 2026)",
+        "date": ""
+      },
+      {
+        "event": "Main Examination (Tentative) (October/November 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Junior Associate (Customer Support & Sales) - Andhra Pradesh",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Bank’s official website: https://sbi.bank.in/web/careers/current-openings",
+      "Click on the advertisement for ‘Special Recruitment Drive for Junior Associates 2026’.",
+      "Scan and keep ready your photograph, signature, left hand thumb impression, and handwritten declaration as per specifications.",
+      "Fill in the Online Application Form carefully with all required details.",
+      "Upload the scanned photograph, signature, left thumb impression, and handwritten declaration.",
+      "Submit the application form. Note: Corrections will not be allowed after final submission.",
+      "Pay the application fee online using Debit Card / Credit Card / Internet Banking.",
+      "On successful payment, an e-receipt and application form with fee details will be generated. Print and retain for records.",
+      "Download and retain the system-generated online application form printout after submission."
+    ]
   },
   {
     "id": "tripura-ongc-medical-officer-ndash-occupational-health-speciali",
@@ -77,12 +181,102 @@
     "district": "State Level",
     "vacancies": "24",
     "lastDate": "18-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/ongc-medical-officer-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/ongc-medical-officer-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/ongc-medical-officer-recruitment-2026/",
+    "officialWebsite": "https://www.ongcindia.com",
+    "notificationLink": "https://govtjobguru.in/wp-content/uploads/2026/08/ONGC-Medical-Officer-Recruitemnt-2026.pdf",
+    "applyOnlineLink": "https://forms.zohopublic.in/Corporate__Recruitment/form/Advt32026RPEngagementofDoctorsonFixedTerm/formperma/pjbt9aqpB98c1BrwbrjF9gG7_GzdF2AYhm-vTUgV1TQ",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Start of Registration",
+        "date": "05/08/2026"
+      },
+      {
+        "event": "End Date for Registration",
+        "date": "18/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Medical Officer &ndash; Occupational Health (MO(OH)) on Fixed Term",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medical Officer &ndash; Physician on Fixed Term (Dehradun Hospital)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medical Officer &ndash; Paediatrics on Fixed Term (Dehradun Hospital)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medical Officer &ndash; Surgery on Fixed Term (Dehradun Hospital)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medical Officer &ndash; Anaesthesia on Fixed Term (Sivasagar Hospital)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medical Officer &ndash; Obstetrics & Gynecology on Fixed Term (Sivasagar Hospital)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medical Officer &ndash; Physician on Fixed Term (Sivasagar Hospital)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medical Officer &ndash; Surgery on Fixed Term (Sivasagar Hospital)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medical Officer &ndash; Homeopathy on Fixed Term",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official ONGC website at www.ongcindia.com to register on the registration web link.",
+      "Registration window is open from 05.08.2026 to 18.08.2026 (23:59 hours).",
+      "Candidates can apply for only ONE post-location combination based on their eligibility and interest. In case of multiple applications, only the latest application shall be considered.",
+      "Upload the required documents: recent passport size color photograph with signature, photo identity proof (PAN Card, Aadhar, Passport, Driving License, Voter ID), Class 10th Board Certificate (DOB proof), consolidated marksheet of MBBS/BHMS degree, MBBS/BHMS degree certificate, PG degree/diploma marksheets and certificates, DNB certificate (if applicable), training certificate in occupational health/public health/occupational medicine (if applicable), and proof of higher qualification (if any).",
+      "Candidates will be informed about the interview (date, time, venue) through email.",
+      "Document Verification and Interview will be conducted in-person (physical mode) at the specific work location/venue for which the candidate has applied.",
+      "No TA/DA shall be paid for attending the interview."
+    ]
   },
   {
     "id": "tripura-cau-project-assistant",
@@ -111,11 +305,55 @@
     "district": "State Level",
     "vacancies": "545",
     "lastDate": "16-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/pnb-lbo-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/pnb-lbo-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/pnb-lbo-recruitment-2026/",
+    "officialWebsite": "https://pnb.bank.in/",
+    "notificationLink": "https://govtjobguru.in/wp-content/uploads/2026/07/PNB-LBO-REcruitemnt-2026.pdf",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/pnbjul26/",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "SC/ST/PwBD category candidates",
+        "fee": "Rs. 50/- + GST @18% = Rs. 59/- (only postage charges)"
+      },
+      {
+        "category": "All Others (General/OBC/EWS)",
+        "fee": "Rs. 1000/- + GST @18% = Rs. 1180/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date of Online Registration",
+        "date": "20/07/2026"
+      },
+      {
+        "event": "Closing Date of Online Registration (Extended Upto)",
+        "date": "16/08/2026"
+      },
+      {
+        "event": "Tentative Date of Online Test (August 2026/ September 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Local Bank Officer (LBO)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Bank’s official website https://pnb.bank.in/ under Recruitment/Career section.",
+      "Click on the link ‘CLICK HERE FOR NEW REGISTRATION’ to register your application by entering basic information.",
+      "Note down the provisional registration number and password generated by the system.",
+      "Fill in the online application form carefully with all required details.",
+      "Scan and upload photograph, signature, left hand thumb impression, handwritten declaration, proof of age, caste/disability certificate, educational qualification, and work experience documents as per specified guidelines.",
+      "Pay the application fee online using Debit Cards (RuPay/Visa/MasterCard), Credit Cards, Internet Banking, IMPS, Cash Cards/Mobile Wallets, or UPI.",
+      "Submit the application form after verifying all details.",
+      "Take a printout of the e-receipt and online application form for future reference.",
+      "Applications can be submitted from 20.07.2026 to 09.08.2026 only."
+    ]
   }
 ]

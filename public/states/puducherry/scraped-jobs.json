@@ -94,11 +94,128 @@
     "district": "State Level",
     "vacancies": "40",
     "lastDate": "14-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/upsc-recruitment-2026-apply-online-for-37-medical-officer-specialist-other-posts/",
-    "notificationLink": "https://govtjobguru.in/jobs/upsc-recruitment-2026-apply-online-for-37-medical-officer-specialist-other-posts/",
+    "officialWebsite": "https://upsc.gov.in",
+    "notificationLink": "https://www.upsc.gov.in/sites/default/files/AdvtNo-09-2026-Engl-240726.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/upsc-recruitment-2026-apply-online-for-37-medical-officer-specialist-other-posts/",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General/OBC/EWS (Male)",
+        "fee": "Rs. 25/-"
+      },
+      {
+        "category": "Female/SC/ST/PwBD",
+        "fee": "Nil (Exempted)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date for Online Application",
+        "date": "25/07/2026"
+      },
+      {
+        "event": "Closing Date for Online Application",
+        "date": "14/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Agricultural Engineer (Farm Machinery Training and Testing Institute, Dept. of Agriculture and Farmers Welfare)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medical Officer/Research Officer (Unani) (Ministry of Ayush)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist 'B' (Botany) (NRLC, Lucknow, Ministry of Culture)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist 'B' (Environmental Science) (NRLC, Lucknow, Ministry of Culture)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist 'B' (Geology) (NRLC, Lucknow, Ministry of Culture)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist 'B' (Physics) (NRLC, Lucknow, Ministry of Culture)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist 'B' (Zoology) (NRLC, Lucknow, Ministry of Culture)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Civilian Medical Officer (DGAFMS, Ministry of Defence)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Specialist Grade III Assistant Professor (Immuno-Haematology and Blood Transfusion) (Dept. of Health & Family Welfare)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Specialist Grade III Assistant Professor (Surgical Oncology) (Dept. of Health & Family Welfare)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Industrial Adviser (Ministry of Steel)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Veterinary Assistant Surgeon (Dept. of Animal Husbandry and Animal Welfare, Govt. of Puducherry)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the UPSC Online Recruitment Application portal at https://upsconline.nic.in/ora/",
+      "Complete Account Creation and Universal Registration to obtain a Universal Registration Number (URN).",
+      "Fill up the Common Application Form (CAF) including uploading photograph and capturing live photograph.",
+      "Fill up the post/vacancy specific module for the desired post.",
+      "Upload all required documents/certificates in support of claims (Date of Birth, Caste, Disability, Educational Qualifications, Experience, etc.) in PDF format.",
+      "Pay the application fee of Rs. 25/- online (if applicable) via Visa/Master/Rupay Credit/Debit Card/UPI or Internet Banking. Fee is waived for Female/SC/ST/PwBD candidates.",
+      "Submit the application before 1800 Hrs on 14-08-2026.",
+      "Take a printout of the finally submitted Online Recruitment Application for future reference.",
+      "Candidates are not required to send printouts by post; bring them at the time of interview if called."
+    ]
   }
 ]

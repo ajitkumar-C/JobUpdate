@@ -77,12 +77,67 @@
     "district": "State Level",
     "vacancies": "300",
     "lastDate": "16-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/sccl-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/sccl-apprentice-recruitment-2026/",
+    "officialWebsite": "https://www.scclmines.com",
+    "notificationLink": "https://scclmines.com/apprenticeship/docs/202601_Circular_Annexure.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/sccl-apprentice-recruitment-2026/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "All Candidates",
+        "fee": "No Registration Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Portal Opening Date & Time",
+        "date": "06/08/2026"
+      },
+      {
+        "event": "Portal Closing Date & Time",
+        "date": "16/08/2026"
+      },
+      {
+        "event": "Hard Copy Submission Start",
+        "date": "06/08/2026"
+      },
+      {
+        "event": "Hard Copy Submission End",
+        "date": "16/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Graduate Apprentice - Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Non-Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Register on the NATS 2.0 web portal at www.nats.education.gov.in and obtain a Registration Number by filling required fields and uploading certificate copies.",
+      "Apply through the official SCCL web portal at www.scclmines.com/apprenticeship from 06.08.2026 12PM to 16.08.2026 5PM. Read terms and conditions before applying.",
+      "Enter all required information and upload a recent photo (JPEG format, 10KB&ndash;50KB, 3.5cm x 4.5cm with signature at bottom) along with the following original certificates in PDF format (50KB&ndash;250KB): SSC Certificate, Graduate/Diploma Certificate (Provisional Certificate &amp; Consolidated Marks Memo), Reservation Certificate (if applicable), SCCL Employee/Ex-Employee Children documents (if applicable), PDF/PAF Certificate (if applicable).",
+      "Open a Union Bank of India (UBI) account at any SCCL salary disbursing branch, complete Aadhaar linking and e-KYC, and enable Direct Benefit Transfer (DBT).",
+      "Submit the duly signed portal-generated application printout along with NATS 2.0 registration form, certificate copies (Provisional Certificate &amp; Consolidated Marks Memo), and UBI bank account first page at the nearest Area GVTC/MVTC from 06.08.2026 12PM to 16.08.2026 5PM.",
+      "Opt into the Union Bank of India Rs.30 Lakhs Group Accidental Insurance Policy by paying approximately Rs.750/- premium for the one-year training period."
+    ]
   },
   {
     "id": "odisha-indbank-relationship-manager-dealer",
@@ -94,12 +149,51 @@
     "district": "State Level",
     "vacancies": "14",
     "lastDate": "31-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/indbank-relationship-manager-and-dealer-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/indbank-relationship-manager-and-dealer-recruitment-2026/",
+    "officialWebsite": "https://www.indbankonline.com",
+    "notificationLink": "https://www.indbankonline.com/v/?v=2026/08/Advertisement-for-the-post-of-Relationshipmanager-Dealer-dated-10.08.2026.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/indbank-relationship-manager-and-dealer-recruitment-2026/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "10/08/2026"
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "31/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Relationship Manager",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Dealer - For Stock Broking Terminals",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the application form from the official website www.indbankonline.com.",
+      "Fill in the application form duly and attach copies of all required enclosures.",
+      "Send the duly filled application via courier or Registered Post to: Head Administration, No 480, 1st Floor Khivraj Complex I, Anna Salai, Nandanam, Chennai-35.",
+      "Alternatively, send the scanned copy of the duly filled application with enclosures to recruitment@indbankonline.com.",
+      "Ensure the application is received on or before 31.08.2026."
+    ]
   },
   {
     "id": "odisha-cuo-research-assistant-field-investigator",
@@ -332,12 +426,51 @@
     "district": "State Level",
     "vacancies": "5989",
     "lastDate": "16-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/osssc-nursing-officer-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/osssc-nursing-officer-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/osssc-nursing-officer-recruitment-2026/",
+    "officialWebsite": "https://osssc.gov.in/",
+    "notificationLink": "https://govtjobguru.in/wp-content/uploads/2026/06/OSSSC-Nursing-Officer-Recruitment-2026.pdf",
+    "applyOnlineLink": "https://www.osssc.gov.in/Public/Pages/Post_detail_information.aspx",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Examination Fee (all applicants other than SC, ST and PwDs category)",
+        "fee": "Rs.500/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Starting Date for Online Registration/Re-Registration",
+        "date": "13/06/2026"
+      },
+      {
+        "event": "Closing Date for Online Registration/Re-Registration (Extended Upto)",
+        "date": "16/08/2026"
+      },
+      {
+        "event": "Last date for Submission of online Application Form (Extended Upto)",
+        "date": "19/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Nursing Ofifcer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the OSSSC official website: www.osssc.gov.in",
+      "Fresh candidates (New User) who have not registered earlier must click on ‘Apply Online’ on the Home page to register.",
+      "Candidates who have already registered (Registered User) for any other post must login and re-register for this post by selecting the ‘Re-registration’ option under the Applicant Menu.",
+      "After completing Registration/Re-registration, login and fill up the online Application Form with all required details and documents.",
+      "Pay the Examination Fee of Rs. 500/- (if applicable) using Net Banking/Credit Card/Debit Card/UPI through the Payment Gateway.",
+      "Upload scanned copies of required documents including photograph (jpg/jpeg/png, 20kb-100kb) and signature (jpg/jpeg/png, 20kb-50kb).",
+      "Submit the online application before the last date of 13.07.2026.",
+      "Print the Confirmation Page after successful payment and submission."
+    ]
   },
   {
     "id": "odisha-east coast railway (ecr)-alp-station-master-goods-trains-manager-junior-eng",
@@ -349,12 +482,235 @@
     "district": "State Level",
     "vacancies": "1421",
     "lastDate": "14-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/east-coast-railway-ecr-gdce-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/east-coast-railway-ecr-gdce-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/east-coast-railway-ecr-gdce-recruitment-2026/",
+    "officialWebsite": "https://www.rrcbbs.org.in",
+    "notificationLink": "https://www.rrcbbs.org.in/ECoR-GDCE-2026.pdf",
+    "applyOnlineLink": "https://ecorbbs.in/ECORGDCEMP26V04/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Date of Publication on RRC/Bhubaneswar Website",
+        "date": "07/08/2026"
+      },
+      {
+        "event": "Opening Date for ONLINE Registration & Filling of Application",
+        "date": "15/08/2026"
+      },
+      {
+        "event": "Closing Date for ONLINE Registration & Filling of Application",
+        "date": "14/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Assistant Loco Pilot (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Station Master (Operating)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Goods Trains Manager (Operating)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Civil - Track Machine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Civil - P.Way) - ECoR HQ",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Civil - P.Way) - KUR",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Civil - P.Way) - WAT",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Civil - Works)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Civil - Bridge)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Civil - DD & Estimation)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician-III/TCM/Tele/S&T",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician-III/AC/Electrical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician-III/TRD(OHE)/Electrical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician-III/Power/Electrical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician-III/Track Machine/Civil Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician-III/Fitter/C&W/Mechanical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician-III/Welder/C&W/Mechanical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician-III/Welder/Civil Engineering (WAT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician-III/Welder/Civil Engineering (KUR)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician-III/Bridge/Civil Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician-III/Blacksmith/Civil Engineering (WAT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician-III/Blacksmith/Civil Engineering (KUR)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician-III/Driller/Civil Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician-III/Fitter/CRW/MCS/Mechanical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician-III/Welder/CRW/MCS/Mechanical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Clerk cum Typist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Commercial Clerk cum Ticket Collector",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website www.rrcbbs.org.in and click on the GDCE 2026 online application link.",
+      "Read all instructions and eligibility criteria thoroughly before filling the application.",
+      "Keep scanned copies ready in JPEG format: passport size colour photograph (not older than 3 months), signature, and self-attested certificates (date of birth, educational/technical qualification, caste certificate, PwBD certificate).",
+      "Fill in personal details/BIO-DATA carefully including IPAS ID, HRMS ID, and Date of Birth.",
+      "Upload the colour photograph (35mm x 45mm, JPEG, 100 DPI, up to 100 KB) and scanned signature (50mm x 20mm, JPEG, 100 DPI, 10-40 KB).",
+      "Seek ‘NO OBJECTION’ from the Controlling Authority of the department concerned.",
+      "Take a printout of the filled-in application, get it duly forwarded by the controlling officer in hard copy, and upload the scanned signed copy on the relevant tab of supporting documents (mandatory).",
+      "Click the Register button after verifying all details. Once registered, no changes can be made.",
+      "Note the unique application number allotted after registration and download/print the application in PDF format.",
+      "Download the acknowledgement for submission of the application."
+    ]
   },
   {
     "id": "odisha-district court mayurbhanj-junior-clerk-cum-copyist-grade-iii-stenographer-ju",
@@ -367,11 +723,65 @@
     "vacancies": "19",
     "lastDate": "07-09-26",
     "officialWebsite": "https://govtjobguru.in/jobs/district-court-mayurbhanj-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/district-court-mayurbhanj-recruitment-2026/",
+    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec02d87c68a56bc8eb803b44f25abb62/uploads/2026/08/2026080722.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/district-court-mayurbhanj-recruitment-2026/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "All Categories",
+        "fee": "No Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "07/08/2026"
+      },
+      {
+        "event": "Last Date for Receipt of Application",
+        "date": "07/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Junior Clerk-Cum-Copyist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Grade-III Stenographer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Typist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Salaried Amin",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download and fill the prescribed Form-A as given in the advertisement.",
+      "Mention the Post Name and Category in CAPITAL LETTERS on the top of the envelope.",
+      "Attach all required self-attested documents including certificates, mark sheets, caste certificate, photographs, character certificates, and two self-addressed envelopes with Rs.60/- postal stamp each.",
+      "Candidates applying for more than one post must submit separate applications with relevant documents for each post.",
+      "Send the duly filled application to: The District Judge, Mayurbhanj, At/P.O. Baripada, Dist. Mayurbhanj, Odisha, PIN-757001 through Speed Post, OR drop it in the Application Drop Box at the Administrative Office of the District &amp; Sessions Judge, Mayurbhanj.",
+      "Applications must reach by 5.00 P.M. on 07.09.2026 (Monday). Applications received after the due date and time shall be summarily rejected."
+    ]
   },
   {
     "id": "odisha-atal behari college bhadrak-guest-faculty",
@@ -451,12 +861,157 @@
     "district": "State Level",
     "vacancies": "66",
     "lastDate": "19-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/ravenshaw-university-assistant-professor-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/ravenshaw-university-assistant-professor-recruitment-2026/",
+    "officialWebsite": "https://www.ravenshawuniversity.ac.in",
+    "notificationLink": "https://ravenshawuniversity.ac.in/announcement/98.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/ravenshaw-university-assistant-professor-recruitment-2026/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "04/08/2026"
+      },
+      {
+        "event": "Last Date to Submit Application",
+        "date": "19/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Guest Faculty - Botany",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Guest Faculty - Chemistry",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Guest Faculty - Commerce",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Guest Faculty - Computer Science (Comp. Sc.)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Guest Faculty - Computer Science (Artificial Intelligence)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Guest Faculty - Economics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Guest Faculty - Education",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Guest Faculty - Geology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Guest Faculty - Geography",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Guest Faculty - History",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Guest Faculty - Mathematics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Guest Faculty - Philosophy",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Guest Faculty - Political Science",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Guest Faculty - Sanskrit",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Guest Faculty - Sociology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Guest Faculty - Statistics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Guest Faculty - Zoology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the application form from the University website: www.ravenshawuniversity.ac.in.",
+      "Fill in the application form in the prescribed format.",
+      "Attach self-attested copies of all relevant documents.",
+      "Send the duly filled application by Speed Post / Registered Post to: The Registrar, Ravenshaw University, College Square, Kataka, Odisha-753003, so as to reach on or before 19.08.2026 by 5:00 PM.",
+      "The sealed envelope should be superscribed in Block letters: “Application for the Post of Guest Faculty of (Department), Advertisement No. ___, Dated ___”.",
+      "Additionally, send a scanned copy of the duly filled application form along with all supporting documents via email to recruitment@ravenshawuniversity.ac.in on or before the prescribed last date."
+    ]
   },
   {
     "id": "odisha-sbi-clerk-junior-associate-",
@@ -468,12 +1023,60 @@
     "district": "State Level",
     "vacancies": "1538",
     "lastDate": "27-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
+    "officialWebsite": "https://sbi.bank.in",
+    "notificationLink": "https://sbi.bank.in/webfiles/uploads/files_2627/08/JA_2026_Backlog_Detailed_Advt_ENG.pdf",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/sbijasrdjl26/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "SC/ST/PwBD/XS/DXS",
+        "fee": "Nil"
+      },
+      {
+        "category": "OBC",
+        "fee": "Rs. 750/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Registration Start Date",
+        "date": "07/08/2026"
+      },
+      {
+        "event": "Online Registration End Date",
+        "date": "27/08/2026"
+      },
+      {
+        "event": "Preliminary Examination (Tentative) (September 2026)",
+        "date": ""
+      },
+      {
+        "event": "Main Examination (Tentative) (October/November 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Junior Associate (Customer Support & Sales) - Andhra Pradesh",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Bank’s official website: https://sbi.bank.in/web/careers/current-openings",
+      "Click on the advertisement for ‘Special Recruitment Drive for Junior Associates 2026’.",
+      "Scan and keep ready your photograph, signature, left hand thumb impression, and handwritten declaration as per specifications.",
+      "Fill in the Online Application Form carefully with all required details.",
+      "Upload the scanned photograph, signature, left thumb impression, and handwritten declaration.",
+      "Submit the application form. Note: Corrections will not be allowed after final submission.",
+      "Pay the application fee online using Debit Card / Credit Card / Internet Banking.",
+      "On successful payment, an e-receipt and application form with fee details will be generated. Print and retain for records.",
+      "Download and retain the system-generated online application form printout after submission."
+    ]
   },
   {
     "id": "odisha-govt iti anandapur-guest-instructor",
@@ -570,12 +1173,178 @@
     "district": "State Level",
     "vacancies": "41",
     "lastDate": "17-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/csir-immt-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/csir-immt-apprentice-recruitment-2026/",
+    "officialWebsite": "https://www.immt.res.in/",
+    "notificationLink": "https://www.immt.res.in/webroot/upload/admin/announcement/2026-08-05_announcement_img_1785932971.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/csir-immt-apprentice-recruitment-2026/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Confirmation Email Deadline",
+        "date": "17/08/2026"
+      },
+      {
+        "event": "Walk-in-Interview Date",
+        "date": "18/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Apprentice Trainee - Chemical Engineering (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Apprentice Trainee - Metallurgy (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Apprentice Trainee - Mechanical Engineering (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Apprentice Trainee - Electronics Engineering (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Apprentice Trainee - Office Assistant (Non-Engineering Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Apprentice Trainee - Electrical Engineering (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Apprentice Trainee - Mechanical Engineering (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Apprentice Trainee - Modern Office Management (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Apprentice Trainee - Metallurgy (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Apprentice Trainee - Chemical Engineering (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Apprentice Trainee - Civil Engineering (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Apprentice Trainee - Electronics Engineering (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Apprentice Trainee - Fitter (ITI)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Apprentice Trainee - Electrician (ITI)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Apprentice Trainee - Machinist (ITI)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Apprentice Trainee - Mechanic of Refrigeration & AC (ITI)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Apprentice Trainee - Electronics Mechanic (ITI)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Apprentice Trainee - Turner (ITI)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Apprentice Trainee - PASAA/COPA (ITI)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Apprentice Trainee - Welder (ITI)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Send a confirmation email to recruitment.immt@csir.res.in about your participation latest by 11 AM on 17.08.2026.",
+      "Register on NATS 2.0 Portal (https://nats.education.gov.in) for Diploma/Graduate candidates OR on NAPS portal (https://www.apprenticeshipindia.gov.in) for ITI candidates.",
+      "Download and fill the application form (Annexure-I) available with the advertisement.",
+      "Report at S.S. Bhatnagar Hall, CSIR-IMMT, Bhubaneswar on 18.08.2026 between 9.30 AM and 10.15 AM for registration and document verification.",
+      "Submit the duly filled application form along with self-attested copies of all required documents at the time of reporting.",
+      "Attend the Walk-in-Interview at 10.30 AM on 18.08.2026 in the conference room at CSIR-IMMT, Bhubaneswar."
+    ]
   },
   {
     "id": "odisha-oav begunia-more-warden-cook",
@@ -689,12 +1458,59 @@
     "district": "State Level",
     "vacancies": "46",
     "lastDate": "11-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/opsc-aee-civil-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/opsc-aee-civil-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/opsc-aee-civil-recruitment-2026/",
+    "officialWebsite": "https://opsc.gov.in",
+    "notificationLink": "https://govtjobguru.in/wp-content/uploads/2026/08/opsc-aae-recruitment-2026.pdf",
+    "applyOnlineLink": "https://opscechayan.in/#/auth/landing",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General",
+        "fee": "Rs.700/-"
+      },
+      {
+        "category": "SC/ST",
+        "fee": "Nil"
+      },
+      {
+        "category": "PwD",
+        "fee": "Nil"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Application Starts",
+        "date": "11/08/2026"
+      },
+      {
+        "event": "Closing Date to Fill Application Form",
+        "date": "11/09/2026"
+      },
+      {
+        "event": "Preliminary Exam Date",
+        "date": "08/11/2026"
+      },
+      {
+        "event": "Qualification & Age Criteria Calculated As On",
+        "date": "01/01/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Assistant Executive Engineer (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Go to https://opsc.gov.in.",
+      "Click on the link for Online Application and Submission.",
+      "Fill out the proforma application on the Commission’s website.",
+      "Submit Registration Online Application before 11th Sept 2026 (5:00 PM)."
+    ]
   },
   {
     "id": "odisha-bse odisha-osstet",
@@ -774,12 +1590,53 @@
     "district": "State Level",
     "vacancies": "40",
     "lastDate": "27-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
+    "officialWebsite": "https://www.railtelindia.com",
+    "notificationLink": "https://www.railtel.in/images/careers/DocScanner%2028-Jul-2026%2004-10%20PM.pdf",
+    "applyOnlineLink": "https://nats.education.gov.in",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "28/07/2026"
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "27/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Graduate Apprentice Engineer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice Engineer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the NATS 2.0 portal at https://nats.education.gov.in.",
+      "If not already registered, register yourself on the NATS 2.0 portal before applying.",
+      "Follow the guidelines given in the student manual of NATS available at the portal (web link: https://nats.education.gov.in/assets/manual/establishment_user_manual.pdf).",
+      "Fill in the online application form with accurate details.",
+      "Upload the certificate showing your CGPA or percentage in the ‘Upload Certificate’ column. If only CGPA is mentioned, also upload the CGPA to percentage conversion formula/certificate along with the undertaking (Annexure 1) as a single PDF file of size less than 1 MB.",
+      "Submit the application online before the last date of 27.08.2026.",
+      "No other mode of application will be entertained."
+    ]
   },
   {
     "id": "odisha-redhakhol forest division-computer-data-science-expert",
@@ -842,12 +1699,183 @@
     "district": "State Level",
     "vacancies": "120",
     "lastDate": "14-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/hal-mt-and-design-trainee-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/hal-mt-and-design-trainee-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/hal-mt-and-design-trainee-recruitment-2026/",
+    "officialWebsite": "https://www.hal-india.co.in",
+    "notificationLink": "https://cbexams.com/halreg2026/Inc/Detailed_Advertisement_29072026.pdf",
+    "applyOnlineLink": "https://cbexams.com/halreg2026/default",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "UR / OBC(NCL) / EWS",
+        "fee": "Rs. 500/- (inclusive of GST)"
+      },
+      {
+        "category": "SC / ST / PwBD / Internal Candidates",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Release of Advertisement & Online Application Format",
+        "date": "29/07/2026"
+      },
+      {
+        "event": "Last Date for Receipt of Applications",
+        "date": "14/08/2026"
+      },
+      {
+        "event": "Downloading of Admit Cards",
+        "date": "20/08/2026"
+      },
+      {
+        "event": "Online Test (05-09-2026 & 06-09-2026 )",
+        "date": ""
+      },
+      {
+        "event": "Declaration of Online Test Results",
+        "date": "10/09/2026"
+      },
+      {
+        "event": "Downloading of Interview Call Letters",
+        "date": "12/09/2026"
+      },
+      {
+        "event": "Interviews at Bengaluru (21-09-2026 to 25-09-2026)",
+        "date": ""
+      },
+      {
+        "event": "Release of List of Provisionally Selected Candidates",
+        "date": "30/09/2026"
+      },
+      {
+        "event": "Issuance/Downloading of Provisional Offer",
+        "date": "06/10/2026"
+      },
+      {
+        "event": "Pre-employment Medical Examination (09-10-2026 to 15-10-2026)",
+        "date": ""
+      },
+      {
+        "event": "Pre-induction Training Document Verification at Bengaluru (26-10-2026 to 28-10-2026)",
+        "date": ""
+      },
+      {
+        "event": "Commencement of Induction Training at Bengaluru",
+        "date": "29/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Design Trainee - Aeronautical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Design Trainee - Electrical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Design Trainee - Electronics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Design Trainee - Instrumentation",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Design Trainee - Mechanical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Design Trainee - Computer Science",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Design Trainee - Metallurgy",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Electrical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Electronics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Mechanical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Computer Science",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Metallurgy",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Production",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Management Trainee - Civil",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit HAL Website www.hal-india.co.in and click the link ‘SELECTION OF DESIGN TRAINEE/MANAGEMENT TRAINEE &ndash; 2026’ under the Careers Section.",
+      "Select the name of the post for which you want to apply.",
+      "Enter and re-enter a valid email id for OTP based registration.",
+      "Fill up Eligibility Details and upload photograph. A unique Application number will be generated.",
+      "Fill up Personal &amp; Qualification details. Use the ‘Edit’ option to correct any details before final submission.",
+      "SC/ST/PwBD/Internal candidates: On submission of personal &amp; qualification details, registration is complete. Print the Application Confirmation page.",
+      "UR/OBC(NCL)/EWS candidates: After submitting Personal &amp; Qualification Details, proceed to the Payment Gateway to pay the Application Fee of Rs.500/- (inclusive of GST) via Credit Card, Internet Banking, or UPI.",
+      "After successful payment, print the Application Confirmation page for future reference.",
+      "Ensure application is submitted well before the last date (14-08-2026, 1400 hrs.)."
+    ]
   },
   {
     "id": "odisha-aai-graduate-apprentice-diploma-apprentice-iti-apprent",
@@ -859,12 +1887,53 @@
     "district": "State Level",
     "vacancies": "140",
     "lastDate": "Update",
-    "officialWebsite": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
+    "officialWebsite": "https://www.aai.aero/",
+    "notificationLink": "https://www.aai.aero/sites/default/files/examdashboard_advertisement/notification%20of%20apprentices%202026-27%20Eastern%20Region.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "28/07/2026"
+      },
+      {
+        "event": "Last Date to Apply (Update Soon)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Graduate Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "ITI Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Graduate/Diploma candidates must register on the NATS portal: https://nats.education.gov.in",
+      "ITI candidates must register on the NAPS portal: https://www.apprenticeshipindia.gov.in",
+      "After registration, search for the concerned AAI Establishment ID corresponding to your preferred location.",
+      "Submit the online application through the respective portal.",
+      "Applications submitted through any other mode shall not be accepted."
+    ]
   },
   {
     "id": "odisha-nit rourkela-junior-research-fellow",
@@ -893,12 +1962,61 @@
     "district": "State Level",
     "vacancies": "6",
     "lastDate": "17-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/nalco-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/nalco-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/nalco-recruitment-2026/",
+    "officialWebsite": "https://www.nalcoindia.com",
+    "notificationLink": "https://mudira.nalcoindia.co.in/iorms/Uploaded_Data/Advertisement/639202303340126639_V1%20Detailed%20Advertisement.pdf",
+    "applyOnlineLink": "https://mudira.nalcoindia.co.in/Account/LoginBTv2.aspx?ReturnUrl=%2f",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "All Candidates",
+        "fee": "No Application Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening of Online Submission of Application",
+        "date": "28/07/2026"
+      },
+      {
+        "event": "Last Date of Submission of Online Application",
+        "date": "17/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Medical Officer (E02 Grade)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Specialist - Orthopedic/Radiology (E02 Grade)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Specialist - Ophthalmology/Radiology (E03 Grade)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit NALCO’s official website: www.nalcoindia.com and navigate to the Career section.",
+      "Read the instructions carefully before filling in the online application form.",
+      "Fill in accurate information in the online application form.",
+      "Upload recent passport size colour photograph, signature, self-attested scanned copies of qualification proofs, proof related to experience, recent salary slip, and document related to existing employer or copy of Form 16/annual IT return.",
+      "Ensure all relevant documents are duly uploaded as per requirements.",
+      "Submit the online application before 17/08/2026 by 06:00 PM.",
+      "Keep a copy of the submitted online application (hard copy) along with submitted documents for future reference. No need to send hard copy by post.",
+      "A candidate shall be considered for one post only; applying for more than one post will result in cancellation of candidature."
+    ]
   },
   {
     "id": "odisha-zss rayagada-physiotherapist",
@@ -944,12 +2062,296 @@
     "district": "State Level",
     "vacancies": "75",
     "lastDate": "17-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/irel-executive-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/irel-executive-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/irel-executive-recruitment-2026/",
+    "officialWebsite": "http://www.irel.co.in",
+    "notificationLink": "https://www.irel.co.in/documents/20126/167125/Final+Full+Advt-35-2026.pdf/fdcd1f78-329d-c4e7-6faf-427c17dbd3a2?t=1784535209048",
+    "applyOnlineLink": "https://cdn.digialm.com/EForms/configuredHtml/1258/100473/Index.html",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "UR / EWS / OBC (NCL) candidates",
+        "fee": "INR 944/- (Application Fee INR 590/- + Processing Fee INR 354/-, inclusive of GST)"
+      },
+      {
+        "category": "SC / ST / PwBD / ESM / Women / Internal candidates",
+        "fee": "INR 354/- (Processing Fee only, inclusive of GST; Application Fee exempted)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date for Online Registration",
+        "date": "20/07/2026"
+      },
+      {
+        "event": "Last Date for Submission of Online Application (Extended Upto)",
+        "date": "17/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Chief Manager - Technical (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager - Technical (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager - Technical (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Chief Manager - Technical (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager - Technical (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager - Technical (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager - Technical (Chemical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager - Technical (Chemical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager - Technical (Mineral)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Manager - Technical (Mining)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager - Technical (Mining)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager - Technical (Commercial/Purchase)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager - Technical (Industrial Safety)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager - Technical (Industrial Safety)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager - Technical (Instrumentation)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy General Manager - Technical (IT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Manager - Technical (IT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager - Technical (IT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager - Technical (Geology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Manager (Legal)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Manager (Legal)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Manager (Security)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Manager (Security)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Manager (Medical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "General Manager - Finance",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Chief Manager - Finance",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Manager - Finance",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager - Finance",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager - Finance",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy General Manager - Marketing",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager - Sales",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager - HRM (Administration)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager - Legal & HRM",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager - HRM",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager (Rajbhasha)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager (Company Secretary)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official IREL website at http://www.irel.co.in or the direct application link: https://cdn.digialm.com/EForms/configuredHtml/1258/100473/Index.html",
+      "Step-I: Register by filling in Personal Details and Contact Details. An OTP will be sent to your registered Mobile No. and E-mail ID. Verify both OTPs to complete registration. You will receive an Application Sequence Number (User ID) and Password.",
+      "Step-II: Re-login using the User ID and Password. Complete all fields including Personal Details, Additional Details, Communication Details, Qualification Details, and Declaration.",
+      "Upload all required documents including recent passport-size photograph (JPG/JPEG, min 100KB max 200KB, 3.5cm x 4.5cm) and signature (JPG/JPEG, min 80KB max 150KB).",
+      "Preview the application form and verify all details. Edit if necessary before final submission.",
+      "Submit the application and pay the applicable fee online via Payment Gateway (Debit/Credit Card/Net Banking/Wallets/UPI).",
+      "After successful payment, print and save the Application Form in PDF for future reference.",
+      "Candidates from Govt./PSU must forward their application through proper channel or produce NOC at the time of interview."
+    ]
   },
   {
     "id": "odisha-opsc-assistant-horticulture-officer",
@@ -961,12 +2363,72 @@
     "district": "State Level",
     "vacancies": "22",
     "lastDate": "28-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/opsc-assistant-horticulture-officer-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/opsc-assistant-horticulture-officer-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/opsc-assistant-horticulture-officer-recruitment-2026/",
+    "officialWebsite": "https://opsc.gov.in",
+    "notificationLink": "https://govtjobguru.in/wp-content/uploads/2026/07/OPSC-Assistant-Horticulture-Officer-Recruitment-2026.pdf",
+    "applyOnlineLink": "https://opscechayan.in/#/auth/landing",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General/OBC (Other than SC/ST/PwD)",
+        "fee": "Rs. 700/-"
+      },
+      {
+        "category": "SC/ST/PwD",
+        "fee": "Nil (Exempted)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Start Date for Online Application & Fee Payment",
+        "date": "28/07/2026"
+      },
+      {
+        "event": "Last Date for Online Application & Fee Payment",
+        "date": "28/08/2026"
+      },
+      {
+        "event": "Date of Written Examination",
+        "date": "27/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Assistant Horticulture Officer (Group-B) - UR",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Horticulture Officer (Group-B) - SC",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Horticulture Officer (Group-B) - ST",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website of OPSC at https://opsc.gov.in.",
+      "Read the detailed advertisement carefully before filling up the online application form.",
+      "Register and create a Permanent Public Service Account Number (PPSAN).",
+      "Fill in the online application form with accurate information.",
+      "Upload scanned images of latest passport size photograph, full signature, and Left-hand Thumb Impression (LTI).",
+      "Upload all required scanned documents/certificates including HSC certificate, degree certificate, mark sheets, caste certificate (if applicable), disability certificate (if applicable), etc.",
+      "Pay the examination fee of Rs. 700/- through online mode (not applicable for SC/ST/PwD candidates).",
+      "Furnish bank account details (Account Number, IFSC Code, Name of Account Holder, Name of Bank Branch) in the online application form.",
+      "Submit the online application form before 28.08.2026 (5:00 P.M.).",
+      "Take a printout of the finally submitted online application form and keep it for future reference.",
+      "Applications received through any other mode will not be accepted and will be summarily rejected."
+    ]
   },
   {
     "id": "odisha-opsc-assistant-fisheries-officer",
@@ -978,12 +2440,53 @@
     "district": "State Level",
     "vacancies": "44",
     "lastDate": "24-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/opsc-assistant-fisheries-officer-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/opsc-assistant-fisheries-officer-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/opsc-assistant-fisheries-officer-recruitment-2026/",
+    "officialWebsite": "https://www.opsc.gov.in",
+    "notificationLink": "https://govtjobguru.in/wp-content/uploads/2026/07/opsc-Assistant-Fisheries-Officer-Recruitment-2026.pdf",
+    "applyOnlineLink": "https://opscechayan.in/#/auth/landing",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "All Categories",
+        "fee": "No Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Application Start Date",
+        "date": "24/07/2026"
+      },
+      {
+        "event": "Online Application Last Date",
+        "date": "24/08/2026"
+      },
+      {
+        "event": "Date of Written Examination",
+        "date": "26/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Assistant Fisheries Officer (Group-B)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website of OPSC at http://opsc.gov.in.",
+      "Go through the details of the Advertisement before filling up the online application form.",
+      "Click on the link for Online Application available from 24.07.2026 to 24.08.2026 (05.00 P.M.).",
+      "Fill in the online application form with accurate information.",
+      "Upload self-attested scanned copies of required documents/certificates as per Para-11 of the advertisement.",
+      "Upload scanned image of latest passport size photograph, full signature, and Left Hand Thumb Impression (LTI).",
+      "Submit the online application form before the closing date.",
+      "On successful submission, a unique Permanent Public Service Account Number (PPSAN) will be assigned.",
+      "Take a printout of the finally submitted online Registration and Application form and put signature under the declaration.",
+      "Submit hard copy of online application form along with copies of requisite certificates and documents as and when asked by OPSC."
+    ]
   },
   {
     "id": "odisha-opsc-veterinary-assistant-surgeon-additional-veterinary",
@@ -995,12 +2498,74 @@
     "district": "State Level",
     "vacancies": "436",
     "lastDate": "24-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/opsc-veterinary-assistant-surgeon-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/opsc-veterinary-assistant-surgeon-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/opsc-veterinary-assistant-surgeon-recruitment-2026/",
+    "officialWebsite": "https://www.opsc.gov.in",
+    "notificationLink": "https://govtjobguru.in/wp-content/uploads/2026/07/OPSC-veterinary-Assistant-Surgeon-Recruitment-2026.pdf",
+    "applyOnlineLink": "https://opscechayan.in/#/auth/landing",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General/OBC/SEBC (Other than SC, ST, PwD)",
+        "fee": "Rs. 700/-"
+      },
+      {
+        "category": "SC/ST/PwD",
+        "fee": "Nil (Exempted)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "18/07/2026"
+      },
+      {
+        "event": "Opening Date for Registration & Fee Payment",
+        "date": "24/07/2026"
+      },
+      {
+        "event": "Last Date for Submission of Online Application",
+        "date": "24/08/2026"
+      },
+      {
+        "event": "Date of Written Examination",
+        "date": "26/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Veterinary Assistant Surgeon / Additional Veterinary Assistant Surgeon (SEBC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Veterinary Assistant Surgeon / Additional Veterinary Assistant Surgeon (SC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Veterinary Assistant Surgeon / Additional Veterinary Assistant Surgeon (ST)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website of OPSC at https://www.opsc.gov.in.",
+      "Read the detailed advertisement carefully before filling the online application form.",
+      "Register and fill the Online Application Form available on the OPSC website from 24.07.2026 to 24.08.2026 (5:00 P.M.).",
+      "Upload scanned image of latest passport size photograph, full signature, and Left-hand Thumb Impression (LTI).",
+      "Pay the examination fee of Rs. 700/- through online mode (SC/ST/PwD candidates are exempted from fee payment).",
+      "Furnish bank account details (Account Number, IFSC Code, Name of Account Holder, Name of Bank Branch) in the Online Application Form for refund purposes.",
+      "Submit the Online Application Form before the closing date of 24.08.2026 (5:00 P.M.).",
+      "Take a printout of the finally submitted Online Registration and Application Form and keep it for future use.",
+      "Download the Admission Certificate from the OPSC website prior to the date of written examination."
+    ]
   },
   {
     "id": "odisha-sail rsp-apprentice",
@@ -1012,12 +2577,473 @@
     "district": "State Level",
     "vacancies": "1110",
     "lastDate": "26-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/sail-rsp-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/sail-rsp-apprentice-recruitment-2026/",
+    "officialWebsite": "https://sail.co.in/",
+    "notificationLink": "https://aima-web-images.s3.ap-south-1.amazonaws.com/sailcareers.com/Downloads/RSP_News%20&%20Jobs_17072026_140526.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/sail-rsp-apprentice-recruitment-2026/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "No fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "17/07/2026"
+      },
+      {
+        "event": "Last Date to Apply on Portal",
+        "date": "26/08/2026"
+      },
+      {
+        "event": "Walk-in (AOCP, COPA, Mechanic Diesel, Electrician)",
+        "date": "01/09/2026"
+      },
+      {
+        "event": "Walk-in (Fitter, Tool & Die, Electronics Mech, Inst. Mechanic, LACP)",
+        "date": "04/09/2026"
+      },
+      {
+        "event": "Walk-in (Machinist, MMV, RAC, Turner, Welder)",
+        "date": "09/09/2026"
+      },
+      {
+        "event": "Walk-in (ICTSM, Central AC Mechanic, Technician Mechatronics, MPC & Automation)",
+        "date": "12/09/2026"
+      },
+      {
+        "event": "Walk-in (Ceramic, Chemical, Civil, Computer Science, EEE, Electrical)",
+        "date": "16/09/2026"
+      },
+      {
+        "event": "Walk-in (Mechanical, Mechatronics, Metallurgy, IT, Automobile)",
+        "date": "19/09/2026"
+      },
+      {
+        "event": "Walk-in (ECE, E&I, Production, BA, B.Sc, B.Com, BCA, BBA, B.Sc. Nursing, GNM, Dip. Physiotherapy, DMLT, DRT, DXT, DOTT, DEO, Dip. Pharmacy)",
+        "date": "23/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Trade Apprentice - AOCP",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - COPA",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Diesel Mechanic",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Electrician",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Fitter",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Tool & Die Maker",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Electronics Mechanic",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Instrument Mechanic",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - LACP",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Machinist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Mechanic Motor Vehicle",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Mechanic Refrigeration and AC",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Turner",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Welder",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - ICTSM",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Central AC Plant Mechanic",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Technician Mechatronics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Manufacturing Process Control & Automation",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Ceramic Technology (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Ceramic Technology (Degree)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Chemical (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Chemical (Degree)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Civil (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Civil (Degree)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Computer Science (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Computer Science (Degree)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - EEE (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - EEE (Degree)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Electrical (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Electrical (Degree)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Mechanical/Mechatronics (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Mechanical/Mechatronics (Degree)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Metallurgy (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Metallurgy (Degree)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Electronics & Telecommunication (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Electronics & Telecommunication (Degree)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Information Technology (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Information Technology (Degree)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Automobile (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Automobile (Degree)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Electronics & Communication (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Electronics & Communication (Degree)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Electronics & Instrumentation (Degree)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Production (Degree)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Bachelor in Arts (BA)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Bachelor in Science (B.Sc)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Bachelor of Commerce (B.Com)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Bachelor of Computer Application (BCA)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Bachelor of Business Administration (BBA)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - B.Sc Nursing",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Diploma in Nursing (GNM)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Diploma in Physiotherapy (DP)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Diploma in Medical Lab Technology (DMLT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Diploma in Radiological Technology (DRT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Diploma in X-ray Technology (DXT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Diploma in Operation Theatre Technology (DOTT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Data Entry Operator (PGDCA/DEO)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate/Technician Apprentice - Diploma in Pharmacy (D Pharma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "For Trade Apprentices (ITI): Register on https://apprenticeshipindia.org. After registration, login and go to ‘Apprenticeship Opportunity’, search by Establishment Name ‘SAIL ROURKELA STEEL PLANT’, and apply for the respective trade.",
+      "For Graduate/Technician Apprentices (Degree/Diploma): Register on https://nats.education.gov.in. After registration, login and go to ‘Establishments Requests’, click ‘Find Establishments’, select ‘Steel Authority of India Limited, Rourkela Steel Plant’, and apply in the respective branch.",
+      "After successful online registration and application, take a printout of the filled-in online application for future reference.",
+      "Ensure your bank account is DBT enabled with KYC Verified.",
+      "After applying online, attend the Walk-in at Central Recreation Room, Trainees’ Hostel, Sector-5, Rourkela-769002, Dist: Sundargarh (Odisha) as per the schedule on the designated date for your trade/branch between 9:30 AM to 10:30 AM.",
+      "Carry all required original and self-attested documents at the time of Walk-in.",
+      "Last date to apply on respective portal: 26th August, 2026."
+    ]
   },
   {
     "id": "odisha-svnirtar-assistant-professor-and-more-assistant",
@@ -1097,11 +3123,48 @@
     "district": "State Level",
     "vacancies": "14",
     "lastDate": "18-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/ssb-odisha-junior-assistant-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/ssb-odisha-junior-assistant-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/ssb-odisha-junior-assistant-recruitment-2026/",
+    "officialWebsite": "https://www.ssbodisha.ac.in",
+    "notificationLink": "https://ssbodisha.ac.in/wp-content/uploads/2026/06/Advt.No_.03-2026.pdf",
+    "applyOnlineLink": "https://ssbodisha.site/newjr26/public/advertisement.php",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "For SC and ST",
+        "fee": "₹200/-"
+      },
+      {
+        "category": "For All Other Categories",
+        "fee": "₹500/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date & Time of Online Application",
+        "date": "01/07/2026"
+      },
+      {
+        "event": "Closing Date & Time of Online Applications & Online Payment",
+        "date": "18/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Junior Assistant (Group-C)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website of State Selection Board: www.ssbodisha.ac.in",
+      "Click on the link available for online application for Junior Assistants in CHSE(O).",
+      "Follow the instructions under ‘HOW TO APPLY’ while filling up the online application form.",
+      "Also follow the detailed instructions given in the main instruction page of the online application on the official website.",
+      "Complete the online payment before the closing date and time i.e., 18.08.2026 at 11:45 PM.",
+      "No other means/mode of submission (Physical Copy/Hard Copy) will be entertained under any circumstances."
+    ]
   }
 ]

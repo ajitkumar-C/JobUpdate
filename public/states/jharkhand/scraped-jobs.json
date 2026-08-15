@@ -43,12 +43,83 @@
     "district": "State Level",
     "vacancies": "17",
     "lastDate": "15-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/mecon-draftsman-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/mecon-draftsman-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/mecon-draftsman-recruitment-2026/",
+    "officialWebsite": "https://www.meconlimited.co.in",
+    "notificationLink": "https://careers.meconlimited.co.in/api/download?file=20260731_171655_Advt%20-%20Draftsman%2027%2005%202026%20(Final)%20_.pdf",
+    "applyOnlineLink": "https://recruitment.meconlimited.co.in/Account/Login",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening date for submission of Online application",
+        "date": "01/08/2026"
+      },
+      {
+        "event": "Closing date for submission of Online application",
+        "date": "15/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Draftsman (Civil & Structural) - Post Code 01",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Draftsman (Material Handling) - Post Code 02",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Draftsman (Iron Making) - Post Code 03",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Draftsman (GMMB) - Post Code 04",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Draftsman (Oil & Gas) - Post Code 05",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Draftsman (Civil & Structural) - Post Code 06",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit MECON’s official website: www.meconlimited.co.in",
+      "Navigate to Careers &gt; Career Opportunities &gt; Click here to apply Online",
+      "Fill in the online application form carefully with accurate details.",
+      "Upload scanned passport size colour photograph in jpg/jpeg format (max 40 KB).",
+      "Upload scanned signature with Blue/Black ink pen in jpg/jpeg format (max 40 KB).",
+      "Upload self-attested scanned copies of: Matriculation/Secondary Board Certificate for age proof; Final/Provisional Certificate for requisite educational qualification; All semesters/years mark sheets or consolidated mark sheet; Work Experience Certificates/documents as per Para 5; PAN Card and Aadhaar Card.",
+      "Ensure Aadhaar number entered matches the uploaded Aadhaar Card.",
+      "Submit the online application before 15.08.2026.",
+      "No other mode of submission is allowed."
+    ]
   },
   {
     "id": "jharkhand-aiims deoghar-lab-technician-scientist",
@@ -94,12 +165,60 @@
     "district": "State Level",
     "vacancies": "1538",
     "lastDate": "27-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
+    "officialWebsite": "https://sbi.bank.in",
+    "notificationLink": "https://sbi.bank.in/webfiles/uploads/files_2627/08/JA_2026_Backlog_Detailed_Advt_ENG.pdf",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/sbijasrdjl26/",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "SC/ST/PwBD/XS/DXS",
+        "fee": "Nil"
+      },
+      {
+        "category": "OBC",
+        "fee": "Rs. 750/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Registration Start Date",
+        "date": "07/08/2026"
+      },
+      {
+        "event": "Online Registration End Date",
+        "date": "27/08/2026"
+      },
+      {
+        "event": "Preliminary Examination (Tentative) (September 2026)",
+        "date": ""
+      },
+      {
+        "event": "Main Examination (Tentative) (October/November 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Junior Associate (Customer Support & Sales) - Andhra Pradesh",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Bank’s official website: https://sbi.bank.in/web/careers/current-openings",
+      "Click on the advertisement for ‘Special Recruitment Drive for Junior Associates 2026’.",
+      "Scan and keep ready your photograph, signature, left hand thumb impression, and handwritten declaration as per specifications.",
+      "Fill in the Online Application Form carefully with all required details.",
+      "Upload the scanned photograph, signature, left thumb impression, and handwritten declaration.",
+      "Submit the application form. Note: Corrections will not be allowed after final submission.",
+      "Pay the application fee online using Debit Card / Credit Card / Internet Banking.",
+      "On successful payment, an e-receipt and application form with fee details will be generated. Print and retain for records.",
+      "Download and retain the system-generated online application form printout after submission."
+    ]
   },
   {
     "id": "jharkhand-dhs godda-staff-nurse-anm-and-more",
@@ -196,12 +315,53 @@
     "district": "State Level",
     "vacancies": "40",
     "lastDate": "27-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
+    "officialWebsite": "https://www.railtelindia.com",
+    "notificationLink": "https://www.railtel.in/images/careers/DocScanner%2028-Jul-2026%2004-10%20PM.pdf",
+    "applyOnlineLink": "https://nats.education.gov.in",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "28/07/2026"
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "27/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Graduate Apprentice Engineer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice Engineer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the NATS 2.0 portal at https://nats.education.gov.in.",
+      "If not already registered, register yourself on the NATS 2.0 portal before applying.",
+      "Follow the guidelines given in the student manual of NATS available at the portal (web link: https://nats.education.gov.in/assets/manual/establishment_user_manual.pdf).",
+      "Fill in the online application form with accurate details.",
+      "Upload the certificate showing your CGPA or percentage in the ‘Upload Certificate’ column. If only CGPA is mentioned, also upload the CGPA to percentage conversion formula/certificate along with the undertaking (Annexure 1) as a single PDF file of size less than 1 MB.",
+      "Submit the application online before the last date of 27.08.2026.",
+      "No other mode of application will be entertained."
+    ]
   },
   {
     "id": "jharkhand-aai-graduate-apprentice-diploma-apprentice-iti-apprent",
@@ -213,12 +373,53 @@
     "district": "State Level",
     "vacancies": "140",
     "lastDate": "Update",
-    "officialWebsite": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
+    "officialWebsite": "https://www.aai.aero/",
+    "notificationLink": "https://www.aai.aero/sites/default/files/examdashboard_advertisement/notification%20of%20apprentices%202026-27%20Eastern%20Region.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "28/07/2026"
+      },
+      {
+        "event": "Last Date to Apply (Update Soon)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Graduate Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "ITI Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Graduate/Diploma candidates must register on the NATS portal: https://nats.education.gov.in",
+      "ITI candidates must register on the NAPS portal: https://www.apprenticeshipindia.gov.in",
+      "After registration, search for the concerned AAI Establishment ID corresponding to your preferred location.",
+      "Submit the online application through the respective portal.",
+      "Applications submitted through any other mode shall not be accepted."
+    ]
   },
   {
     "id": "jharkhand-nit jamshedpur-junior-research-fellow",
@@ -264,12 +465,107 @@
     "district": "State Level",
     "vacancies": "7299",
     "lastDate": "Update",
-    "officialWebsite": "https://govtjobguru.in/jobs/jssc-jtaacce-para-teacher-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/jssc-jtaacce-para-teacher-recruitment-2026/",
+    "officialWebsite": "https://jssc.jharkhand.gov.in/",
+    "notificationLink": "https://jssc.jharkhand.gov.in/sites/default/files/Brochure%20Backlog%20Vacancy%20JTAACCE-2026%20(Para%20Teacher).pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/jssc-jtaacce-para-teacher-recruitment-2026/",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General/Other candidates",
+        "fee": "₹100"
+      },
+      {
+        "category": "SC/ST candidates of Jharkhand State",
+        "fee": "₹50"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Start of online registration and application filling (Postponed)",
+        "date": ""
+      },
+      {
+        "event": "Last date for registration and filling application details",
+        "date": ""
+      },
+      {
+        "event": "Last date for exam fee payment",
+        "date": ""
+      },
+      {
+        "event": "Last date to upload photo/signature and take printout",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Intermediate Trained Assistant Teacher (Para Category) - Class 1 to 5 (Regular)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Trained Assistant Teacher - Language - Class 6 to 8 (Regular)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Trained Assistant Teacher - Social Science - Class 6 to 8 (Regular)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Trained Assistant Teacher - Science & Mathematics - Class 6 to 8 (Regular)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Intermediate Trained Assistant Teacher - Class 1 to 5 (Backlog)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Trained Assistant Teacher - Language - Class 6 to 8 (Backlog)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Trained Assistant Teacher - Social Science - Class 6 to 8 (Backlog)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Trained Assistant Teacher - Science & Mathematics - Class 6 to 8 (Backlog)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official JSSC website: https://jssc.jharkhand.gov.in/",
+      "Click on “Online Application for JTAACCE-2026 (Para Teacher)” and complete registration.",
+      "Note down the registration number and password sent via SMS/email.",
+      "Log in again and fill in complete personal, educational, and category details; save and continue through each page. Select whether you are applying for the regular vacancy (04/2026), backlog vacancy (05/2026), or both.",
+      "Pay the exam fee online after logging in again the next day (post 12:00 noon). Only one fee is payable even if applying for both advertisements.",
+      "One day after fee payment, log in again to upload your scanned photograph and signature.",
+      "Verify all details, submit the form, and take a printout for future reference."
+    ]
   },
   {
     "id": "jharkhand-dhs giridih-staff-nurse-anm",
@@ -298,12 +594,73 @@
     "district": "State Level",
     "vacancies": "60",
     "lastDate": "30-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/iit-ism-dhanbad-associate-professor-professor-recruitment-2026-apply-online-for-60-posts/",
-    "notificationLink": "https://govtjobguru.in/jobs/iit-ism-dhanbad-associate-professor-professor-recruitment-2026-apply-online-for-60-posts/",
+    "officialWebsite": "https://iitism.ac.in",
+    "notificationLink": "https://www.iitism.ac.in/storage/CareerDocument/Career_1782835949.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/iit-ism-dhanbad-associate-professor-professor-recruitment-2026-apply-online-for-60-posts/",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "30/06/2026"
+      },
+      {
+        "event": "Last Date to Submit Online Application",
+        "date": "30/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Associate Professor / Professor",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor / Professor",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor / Professor",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor / Professor",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor / Professor",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Institute’s official recruitment portal at https://fr.iitism.ac.in",
+      "Register and fill the online application form completely.",
+      "Upload all required certificates and relevant documents along with the application form.",
+      "Candidates applying for more than one department should apply separately.",
+      "Submit the application before the closing date of 30.09.2026.",
+      "For any clarification, contact recruitment@iitism.ac.in or call 0326-223-5204/5268 during office hours."
+    ]
   },
   {
     "id": "jharkhand-iit (ism) dhanbad-assistant-professor",
@@ -315,12 +672,41 @@
     "district": "State Level",
     "vacancies": "30",
     "lastDate": "31-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/iit-ism-dhanbad-assistant-professor-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/iit-ism-dhanbad-assistant-professor-recruitment-2026/",
+    "officialWebsite": "https://iitism.ac.in",
+    "notificationLink": "https://www.iitism.ac.in/storage/CareerDocument/Career_1782835923.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/iit-ism-dhanbad-assistant-professor-recruitment-2026/",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "30/06/2026"
+      },
+      {
+        "event": "Last Date to Submit Online Application",
+        "date": "31/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Assistant Professor (Grade-I/II)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Institute’s official website at https://fr.iitism.ac.in",
+      "Fill the online application form at the recruitment portal of IIT(ISM), Dhanbad.",
+      "Upload all required certificates and relevant documents along with the application form.",
+      "Candidates applying for more than one department should apply separately.",
+      "Applicants employed in Government or Semi-Government Organizations must produce a ‘NO OBJECTION CERTIFICATE’ from their employer at the time of interview.",
+      "Submit the online application before the closing date of 31.08.2026.",
+      "For any clarification, contact: recruitment@iitism.ac.in or call 0326-223-5204/5268 during office hours."
+    ]
   },
   {
     "id": "jharkhand-jssc-jilcce-2026-date-change-",
@@ -332,11 +718,102 @@
     "district": "State Level",
     "vacancies": "326",
     "lastDate": "04-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/jssc-jilcce-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/jssc-jilcce-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/jssc-jilcce-recruitment-2026/",
+    "officialWebsite": "https://jssc.jharkhand.gov.in",
+    "notificationLink": "https://jssc.jharkhand.gov.in/sites/default/files/Brochure%20JILCCE-2026.pdf",
+    "applyOnlineLink": "https://jcx26.cbtexam.in/Jssc/index.html",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General/Unreserved",
+        "fee": "Rs. 100/-"
+      },
+      {
+        "category": "SC/ST of Jharkhand State",
+        "fee": "Rs. 50/-"
+      },
+      {
+        "category": "Divyang (PwD) with 40% or more disability of Jharkhand State",
+        "fee": "Nil (Full Exemption)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Application Registration Start Date",
+        "date": "05/08/2026"
+      },
+      {
+        "event": "Online Application Last Date (Registration & Information Entry)",
+        "date": "04/09/2026"
+      },
+      {
+        "event": "Exam Fee Payment, Photo & Signature Upload Last Date",
+        "date": "05/09/2026"
+      },
+      {
+        "event": "Correction Window Start Date",
+        "date": "06/09/2026"
+      },
+      {
+        "event": "Correction Window End Date",
+        "date": "08/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Health Supervisor (Health Directorate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Field Investigator (Planning & Development Dept. - Economics & Statistics Directorate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Multi-Purpose Health Worker (Health Medical Education & Family Welfare Dept.)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Veterinary Assistant/Medical Assistant (Urban Development Dept. & Housing Dept.)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Insect Collector (Health Directorate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Fisheries Technical Assistant (Agriculture, Animal Husbandry & Cooperation Dept. - Fisheries Branch)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website: www.jssc.jharkhand.gov.in",
+      "Click on ‘Online Application for JILCCE-2026’ and complete Registration.",
+      "After registration, Registration Number and Password will be sent to your mobile and email. Note them carefully.",
+      "Log in again using Registration Number and Password and fill in detailed information. Save and Continue each page.",
+      "Pay the examination fee online.",
+      "Upload scanned photograph and full signature.",
+      "Submit the application form and take a printout for future reference.",
+      "Verify all information before final submission. Incorrect declarations may lead to cancellation of candidature.",
+      "Correction window available from 21-08-2026 to midnight of 23-08-2026 (except name, date of birth, email ID, and mobile number)."
+    ]
   }
 ]

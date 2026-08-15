@@ -128,12 +128,51 @@
     "district": "State Level",
     "vacancies": "14",
     "lastDate": "31-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/indbank-relationship-manager-and-dealer-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/indbank-relationship-manager-and-dealer-recruitment-2026/",
+    "officialWebsite": "https://www.indbankonline.com",
+    "notificationLink": "https://www.indbankonline.com/v/?v=2026/08/Advertisement-for-the-post-of-Relationshipmanager-Dealer-dated-10.08.2026.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/indbank-relationship-manager-and-dealer-recruitment-2026/",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "10/08/2026"
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "31/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Relationship Manager",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Dealer - For Stock Broking Terminals",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the application form from the official website www.indbankonline.com.",
+      "Fill in the application form duly and attach copies of all required enclosures.",
+      "Send the duly filled application via courier or Registered Post to: Head Administration, No 480, 1st Floor Khivraj Complex I, Anna Salai, Nandanam, Chennai-35.",
+      "Alternatively, send the scanned copy of the duly filled application with enclosures to recruitment@indbankonline.com.",
+      "Ensure the application is received on or before 31.08.2026."
+    ]
   },
   {
     "id": "gujarat-mehsana urban co-op. bank-agm-assistant-treasury-officer",
@@ -196,12 +235,58 @@
     "district": "State Level",
     "vacancies": "13",
     "lastDate": "31-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/gpcb-clerk-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/gpcb-clerk-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/gpcb-clerk-recruitment-2026/",
+    "officialWebsite": "https://www.gpcb.bank.in",
+    "notificationLink": "https://gpcb.bank.in/assets/documents/Detailed-Adevertisement.pdf",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/gpcbmay26/",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "All Candidates",
+        "fee": "Rs. 590/- (Rs. 500/- + 18% GST) - Non Refundable"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Registration Start Date",
+        "date": "10/08/2026"
+      },
+      {
+        "event": "Online Registration End Date",
+        "date": "31/08/2026"
+      },
+      {
+        "event": "Download of Call Letter for Examination",
+        "date": "11/08/2026"
+      },
+      {
+        "event": "Online Examination (September 2026 (Tentatively))",
+        "date": ""
+      },
+      {
+        "event": "Declaration of Result Status (10-12 working days)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Clerk (Junior Clerk)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website www.gpcb.bank.in and click on ‘APPLY ONLINE’.",
+      "Click on ‘Click here for New Registration’ and enter Name, Contact details, and Email ID. Note the Provisional Registration Number and Password generated.",
+      "Fill in the application form carefully. Use ‘SAVE AND NEXT’ to save progress.",
+      "Upload scanned photograph (4.5cm &times; 3.5cm), signature (black ink), left thumb impression, and hand-written declaration as per specifications.",
+      "Preview and verify all details before clicking ‘Complete Registration’.",
+      "Proceed to payment and pay the application fee of Rs. 500/- + GST (Rs. 590/- total) online using Debit Card, Credit Card, Internet Banking, IMPS, Cash Cards, or Mobile Wallets.",
+      "Take a printout of the e-Receipt and the online application form after successful payment."
+    ]
   },
   {
     "id": "gujarat-gmdc-teacher",
@@ -383,12 +468,81 @@
     "district": "State Level",
     "vacancies": "250",
     "lastDate": "24-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/iob-lbo-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/iob-lbo-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/iob-lbo-recruitment-2026/",
+    "officialWebsite": "https://www.iob.in",
+    "notificationLink": "https://www.iob.bank.in/documents/d/guest/lbo-final-ad-2026-27",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/iobjul26/",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "SC / ST / PwBD (Intimation Charges only)",
+        "fee": "INR 175/- (inclusive of GST)"
+      },
+      {
+        "category": "GEN / EWS / OBC",
+        "fee": "INR 850/- (inclusive of GST)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Payment of Application Fee / Intimation Charges (Start)",
+        "date": "08/08/2026"
+      },
+      {
+        "event": "Payment of Application Fee / Intimation Charges (End)",
+        "date": "24/08/2026"
+      },
+      {
+        "event": "Opening Date of Online Registration",
+        "date": "08/08/2026"
+      },
+      {
+        "event": "Closing Date of Online Registration",
+        "date": "24/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Local Bank Officer (LBO) &ndash; JMGS I (Tamil Nadu)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Local Bank Officer (LBO) &ndash; JMGS I (Karnataka)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Local Bank Officer (LBO) &ndash; JMGS I (Maharashtra)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Local Bank Officer (LBO) &ndash; JMGS I (Gujarat)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Bank’s official website www.iob.bank.in and navigate to the ‘Careers’ page.",
+      "Click on the link ‘Recruitment of Local Bank Officers &ndash; 2026-27’ and select the post to be applied for.",
+      "Click on ‘Click here to Register Online’ to first register online.",
+      "On successful registration, an E-mail and SMS will be sent with Registration Number and Password.",
+      "Log in and fill in all required details in the online application form carefully.",
+      "Upload scanned photograph, signature, left thumb impression, and handwritten declaration as per specified guidelines.",
+      "Click on ‘COMPLETE REGISTRATION’ button at the end of the Online Application form.",
+      "Pay the Application Fee / Intimation Charges online using Debit Card / Credit Card / Internet Banking / BHIM / UPI etc.",
+      "Take a printout of the system generated online application form and e-receipt for future reference."
+    ]
   },
   {
     "id": "gujarat-iim ahmedabad-research-associate",
@@ -417,12 +571,60 @@
     "district": "State Level",
     "vacancies": "1538",
     "lastDate": "27-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/sbi-clerk-recruitment-2026/",
+    "officialWebsite": "https://sbi.bank.in",
+    "notificationLink": "https://sbi.bank.in/webfiles/uploads/files_2627/08/JA_2026_Backlog_Detailed_Advt_ENG.pdf",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/sbijasrdjl26/",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "SC/ST/PwBD/XS/DXS",
+        "fee": "Nil"
+      },
+      {
+        "category": "OBC",
+        "fee": "Rs. 750/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Registration Start Date",
+        "date": "07/08/2026"
+      },
+      {
+        "event": "Online Registration End Date",
+        "date": "27/08/2026"
+      },
+      {
+        "event": "Preliminary Examination (Tentative) (September 2026)",
+        "date": ""
+      },
+      {
+        "event": "Main Examination (Tentative) (October/November 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Junior Associate (Customer Support & Sales) - Andhra Pradesh",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Bank’s official website: https://sbi.bank.in/web/careers/current-openings",
+      "Click on the advertisement for ‘Special Recruitment Drive for Junior Associates 2026’.",
+      "Scan and keep ready your photograph, signature, left hand thumb impression, and handwritten declaration as per specifications.",
+      "Fill in the Online Application Form carefully with all required details.",
+      "Upload the scanned photograph, signature, left thumb impression, and handwritten declaration.",
+      "Submit the application form. Note: Corrections will not be allowed after final submission.",
+      "Pay the application fee online using Debit Card / Credit Card / Internet Banking.",
+      "On successful payment, an e-receipt and application form with fee details will be generated. Print and retain for records.",
+      "Download and retain the system-generated online application form printout after submission."
+    ]
   },
   {
     "id": "gujarat-iit gandhinagar-project-manager",
@@ -468,12 +670,102 @@
     "district": "State Level",
     "vacancies": "24",
     "lastDate": "18-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/ongc-medical-officer-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/ongc-medical-officer-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/ongc-medical-officer-recruitment-2026/",
+    "officialWebsite": "https://www.ongcindia.com",
+    "notificationLink": "https://govtjobguru.in/wp-content/uploads/2026/08/ONGC-Medical-Officer-Recruitemnt-2026.pdf",
+    "applyOnlineLink": "https://forms.zohopublic.in/Corporate__Recruitment/form/Advt32026RPEngagementofDoctorsonFixedTerm/formperma/pjbt9aqpB98c1BrwbrjF9gG7_GzdF2AYhm-vTUgV1TQ",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Start of Registration",
+        "date": "05/08/2026"
+      },
+      {
+        "event": "End Date for Registration",
+        "date": "18/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Medical Officer &ndash; Occupational Health (MO(OH)) on Fixed Term",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medical Officer &ndash; Physician on Fixed Term (Dehradun Hospital)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medical Officer &ndash; Paediatrics on Fixed Term (Dehradun Hospital)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medical Officer &ndash; Surgery on Fixed Term (Dehradun Hospital)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medical Officer &ndash; Anaesthesia on Fixed Term (Sivasagar Hospital)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medical Officer &ndash; Obstetrics & Gynecology on Fixed Term (Sivasagar Hospital)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medical Officer &ndash; Physician on Fixed Term (Sivasagar Hospital)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medical Officer &ndash; Surgery on Fixed Term (Sivasagar Hospital)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medical Officer &ndash; Homeopathy on Fixed Term",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official ONGC website at www.ongcindia.com to register on the registration web link.",
+      "Registration window is open from 05.08.2026 to 18.08.2026 (23:59 hours).",
+      "Candidates can apply for only ONE post-location combination based on their eligibility and interest. In case of multiple applications, only the latest application shall be considered.",
+      "Upload the required documents: recent passport size color photograph with signature, photo identity proof (PAN Card, Aadhar, Passport, Driving License, Voter ID), Class 10th Board Certificate (DOB proof), consolidated marksheet of MBBS/BHMS degree, MBBS/BHMS degree certificate, PG degree/diploma marksheets and certificates, DNB certificate (if applicable), training certificate in occupational health/public health/occupational medicine (if applicable), and proof of higher qualification (if any).",
+      "Candidates will be informed about the interview (date, time, venue) through email.",
+      "Document Verification and Interview will be conducted in-person (physical mode) at the specific work location/venue for which the candidate has applied.",
+      "No TA/DA shall be paid for attending the interview."
+    ]
   },
   {
     "id": "gujarat-gnfc-chief-manager-and-more-medical-officer",
@@ -502,12 +794,94 @@
     "district": "State Level",
     "vacancies": "36",
     "lastDate": "30-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/aai-wr-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/aai-wr-apprentice-recruitment-2026/",
+    "officialWebsite": "https://www.aai.aero/",
+    "notificationLink": "https://www.aai.aero/sites/default/files/examdashboard_advertisement/BOAT%20ADVERTISEMENT%202026-27%20-Graduate%20Diploma.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-wr-apprentice-recruitment-2026/",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "All Candidates",
+        "fee": "No Application Fees"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Commencement of Online Application through BOAT/NATS Portal",
+        "date": "03/08/2026"
+      },
+      {
+        "event": "Last Date of Online Application through NATS Portal",
+        "date": "30/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Graduate Apprentice (Finance)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice (Electrical/Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice (Electronic Communication/Tele Communication)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice (Information Technology/Computer Science)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice (Mech Engineering)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice (HR)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice (Electrical/Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice (Mech Engineering)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must register on the BOAT web portal at https://nats.education.gov.in/ or https://moenats.aicte-india.org/student_register.php as a student/apprentice.",
+      "After completing enrollment/registration, apply to AAI advertisement shown on the dashboard in listing way.",
+      "After registering on BOAT web portal, candidates’ documents shall be verified by BOAT, after which necessary steps have to be followed to apply to Airports Authority of India, RHQ, Western Region (Establishment No. WMHMCC000058) under the desired trade for apprenticeship.",
+      "Applications received online through NATS portal will only be considered.",
+      "For any issues/queries related to NATS portal, contact BOAT, Western Region, Mumbai: Phone: +91-22-24055635 / 24053682, Email: director.boatwr@gmail.com, natssupport_student@aicte-india.org, Tollfree: 1800-222-060.",
+      "For clarification/queries, email: recttcellwr@aai.aero"
+    ]
   },
   {
     "id": "gujarat-gsssb-horticulture-assistant",
@@ -519,12 +893,57 @@
     "district": "State Level",
     "vacancies": "100",
     "lastDate": "17-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/gsssb-horticulture-assistant-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/gsssb-horticulture-assistant-recruitment-2026/",
+    "officialWebsite": "https://gsssb.gujarat.gov.in",
+    "notificationLink": "https://gsssb.gujarat.gov.in/ViewFile?fileName=4naZ%E2%9C%BF8wS64TzwZ61AZrbMP4tvDBt3Mj8UPSd1xKcshuU98VAz%E2%9C%A4owQeA4dNXmSJGjJNaCK9ILIemn%E2%9C%BFKrYjIT5t02fVhvx9y%E2%9C%BFZJEQGbpQPMnXZfEFrEnGQbv%E2%9C%BFsc%E2%9C%BF0Qm9LGYCNkwc%E2%9C%A47dsQ7XS5dgGFDEQ%E2%99%AC%E2%99%AC",
     "applyOnlineLink": "https://govtjobguru.in/jobs/gsssb-horticulture-assistant-recruitment-2026/",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Unreserved (General) Category",
+        "fee": "Rs. 500/-"
+      },
+      {
+        "category": "Reserved Categories (All category women, SEBC, SC, ST, EWS, Divyang, Ex-Servicemen)",
+        "fee": "Rs. 400/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Application Start Date",
+        "date": "03/08/2026"
+      },
+      {
+        "event": "Online Application Last Date",
+        "date": "17/08/2026"
+      },
+      {
+        "event": "Examination Fee Payment Last Date",
+        "date": "20/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Horticulture Assistant, Class-3 (Bagayat Madadnish, Varg-3)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website: https://ojas.gujarat.gov.in",
+      "Click on ‘Online Application’ and select GSSSB.",
+      "Click on the advertisement for ‘Horticulture Assistant, Class-3’ (Advertisement No. 454/202627) and click ‘Apply Now’.",
+      "Fill in Personal Details (fields marked with * are mandatory).",
+      "Fill in Educational Details.",
+      "Accept the terms in the ‘Assurance’ section and click ‘Save’. An Application Number will be generated &ndash; save it.",
+      "Upload Passport-size photograph (5 cm height x 3.6 cm width) and Signature (2.5 cm height x 7.5 cm width) in JPG format (max 15 KB each).",
+      "Click ‘Confirm Application’, verify all details, and confirm. A Confirmation Number will be generated &ndash; save it for all future correspondence.",
+      "Pay the examination fee online (Debit Card, Internet Banking, UPI, or Wallets) by 20/08/2026 (23:59 hrs). Save the fee receipt.",
+      "Print and save a copy of the application form before the last date."
+    ]
   },
   {
     "id": "gujarat-gsssb-multi-purpose-health-supervisor",
@@ -536,12 +955,61 @@
     "district": "State Level",
     "vacancies": "119",
     "lastDate": "15-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/gsssb-multi-purpose-health-supervisor-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/gsssb-multi-purpose-health-supervisor-recruitment-2026/",
+    "officialWebsite": "https://gsssb.gujarat.gov.in",
+    "notificationLink": "https://gsssb.gujarat.gov.in/ViewFile?fileName=4naZ%E2%9C%BF8wS64TzwZ61AZrbMP4tvDBt3Mj8UPSd1xKcshuRRW%E2%9C%BFWna3x%E2%9C%BFMCy%E2%9C%BFvOeYjN4AG3q2zRVDyVzT2yncSCHNY4%E2%9C%BFvv2jMnDm4VMYCXyyAEKBjo1wD03qIOPqUaYKVljRRPMs1H1kLPg0YuKa9j7JUg%E2%99%AC%E2%99%AC",
     "applyOnlineLink": "https://govtjobguru.in/jobs/gsssb-multi-purpose-health-supervisor-recruitment-2026/",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Unreserved (General) Category",
+        "fee": "Rs. 500/-"
+      },
+      {
+        "category": "Reserved Categories (All categories of Women, SEBC, SC, ST, EWS, Differently Abled, Ex-Servicemen)",
+        "fee": "Rs. 400/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Application Start Date",
+        "date": "01/08/2026"
+      },
+      {
+        "event": "Online Application Last Date",
+        "date": "15/08/2026"
+      },
+      {
+        "event": "Examination Fee Payment Last Date",
+        "date": "18/08/2026"
+      },
+      {
+        "event": "Tentative Exam Month (November 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Multi Purpose Health Supervisor (MPHS), Class-3",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official OJAS website: https://ojas.gujarat.gov.in",
+      "Click on ‘Online Application’ and select ‘Apply’, then select GSSSB.",
+      "Click on the advertisement for Advertisement No. 452/202627 &ndash; Multi Purpose Health Supervisor, Class-3 and click ‘Apply Now’.",
+      "Fill in ‘Personal Details’ (fields marked with red asterisk * are mandatory).",
+      "Fill in ‘Educational Details’.",
+      "Accept the ‘Assurance’ (terms and conditions) by selecting ‘Yes’ and click ‘Save’. An Application Number will be generated &ndash; save it.",
+      "Upload Photograph (5 cm height x 3.6 cm width) and Signature (2.5 cm height x 7.5 cm width) in JPG format (max 15 KB each) with a white background passport-size photo with date of photograph (not older than 1 year from last date).",
+      "Click ‘Confirm Application’, enter Application Number and Date of Birth, verify all details, and click ‘Confirm Application’. A Confirmation Number will be generated &ndash; save it for all future correspondence.",
+      "Print the application form and keep a copy.",
+      "Pay the examination fee online (Debit Card, Internet Banking, UPI, or Wallets) by 18/08/2026 (23:59 hrs) and save the fee receipt."
+    ]
   },
   {
     "id": "gujarat-gsssb-municipal-accountant",
@@ -570,12 +1038,59 @@
     "district": "State Level",
     "vacancies": "14",
     "lastDate": "11-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/bel-project-engineer-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/bel-project-engineer-recruitment-2026/",
+    "officialWebsite": "https://bel-india.in/",
+    "notificationLink": "https://bel-india.in/wp-content/uploads/2026/07/WEB-ADVERTISEMENT-RAJ-GUJ.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/bel-project-engineer-recruitment-2026/",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Project Engineer &ndash; I (General/OBC)",
+        "fee": "Rs. 400 + 18% GST"
+      },
+      {
+        "category": "SC/ST/PwBD/Ex-Servicemen",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Date of Release of Advertisement",
+        "date": "28/07/2026"
+      },
+      {
+        "event": "Walk-in Selection Date at Jodhpur",
+        "date": "05/08/2026"
+      },
+      {
+        "event": "Pre-Registration Deadline",
+        "date": "11/08/2026"
+      },
+      {
+        "event": "Venue Intimation on BEL Website",
+        "date": "07/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Project Engineer (PE)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must pre-register for the walk-in selection through the QR Code provided in the advertisement by 09:00 AM on 11.08.2026.",
+      "Pay the application fee of Rs. 400 + 18% GST through SBI Collect (online or SBI Branch). SC/ST/PwBD/Ex-servicemen are exempted from fee payment.",
+      "Note the SBI Collect Reference Number and enter it in the application form.",
+      "Fill in the application form in the prescribed format appended to the advertisement.",
+      "Attach all required self-attested documents including degree certificates, experience certificates, caste certificate (if applicable), disability certificate (if applicable), SBI fee payment receipt, and updated resume.",
+      "Appear for the walk-in selection at Jodhpur on 05.08.2026 at 08:00 AM (venue to be intimated on BEL website on or before 07.08.2026).",
+      "Candidates working in PSUs/Government/Quasi-Government organizations must bring a ‘No Objection Certificate’ at the time of selection.",
+      "For any queries, contact: PKHRRECT@BEL.CO.IN"
+    ]
   },
   {
     "id": "gujarat-gsssb-assistant-engineer",
@@ -604,12 +1119,53 @@
     "district": "State Level",
     "vacancies": "40",
     "lastDate": "27-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
+    "officialWebsite": "https://www.railtelindia.com",
+    "notificationLink": "https://www.railtel.in/images/careers/DocScanner%2028-Jul-2026%2004-10%20PM.pdf",
+    "applyOnlineLink": "https://nats.education.gov.in",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "28/07/2026"
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "27/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Graduate Apprentice Engineer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice Engineer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the NATS 2.0 portal at https://nats.education.gov.in.",
+      "If not already registered, register yourself on the NATS 2.0 portal before applying.",
+      "Follow the guidelines given in the student manual of NATS available at the portal (web link: https://nats.education.gov.in/assets/manual/establishment_user_manual.pdf).",
+      "Fill in the online application form with accurate details.",
+      "Upload the certificate showing your CGPA or percentage in the ‘Upload Certificate’ column. If only CGPA is mentioned, also upload the CGPA to percentage conversion formula/certificate along with the undertaking (Annexure 1) as a single PDF file of size less than 1 MB.",
+      "Submit the application online before the last date of 27.08.2026.",
+      "No other mode of application will be entertained."
+    ]
   },
   {
     "id": "gujarat-isro-scientist-engineer-sc-",
@@ -621,12 +1177,105 @@
     "district": "State Level",
     "vacancies": "92",
     "lastDate": "17-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/isro-scientist-engineer-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/isro-scientist-engineer-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/isro-scientist-engineer-recruitment-2026/",
+    "officialWebsite": "https://www.isro.gov.in/",
+    "notificationLink": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/July/GATE_Bilingual_Advertisement_2026_28072026.pdf",
+    "applyOnlineLink": "https://apps.ursc.gov.in/CentralBE-2026/advt.jsp",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General/OBC/EWS (Male)",
+        "fee": "₹250/-"
+      },
+      {
+        "category": "Women/SC/ST/Ex-Servicemen/PwBD",
+        "fee": "Nil (Exempted)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date for Online Registration",
+        "date": "28/07/2026"
+      },
+      {
+        "event": "Closing Date for Online Registration",
+        "date": "17/08/2026"
+      },
+      {
+        "event": "Last Date for Payment of Application Fee",
+        "date": "19/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Scientist/Engineer 'SC' (Electronics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer 'SC' (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer 'SC' (Computer Science)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer 'SC' (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer 'SC' (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer 'SC' (Refrigeration & Air Conditioning)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer 'SC' (Architecture)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer 'SC' (Civil) &ndash; Autonomous Body [PRL]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit ISRO official website www.isro.gov.in between 28-07-2026 and 17-08-2026.",
+      "Candidates registered under National Career Services (NCS) portal and fulfilling eligibility conditions may apply online.",
+      "Fill in all required details in the online application form carefully.",
+      "Upload clear scanned copies/images of photograph (jpg format) and GATE Score card (PDF format).",
+      "Submit the online application form.",
+      "Pay the non-refundable application fee of ₹250/- through Bharatkosh portal via Internet Banking, UPI, Debit Card, or Credit Card (last date: 19-08-2026).",
+      "Note the online Registration Number generated after registration for future reference.",
+      "Ensure correct e-mail ID is provided as hall tickets/call letters will be sent by e-mail only.",
+      "Women/SC/ST/Ex-servicemen/PwBD candidates are exempted from application fee."
+    ]
   },
   {
     "id": "gujarat-gmrc-manager-general-manager",
@@ -723,12 +1372,44 @@
     "district": "State Level",
     "vacancies": "50",
     "lastDate": "21-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/sidbi-cca-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/sidbi-cca-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/sidbi-cca-recruitment-2026/",
+    "officialWebsite": "https://www.sidbi.in",
+    "notificationLink": "https://www.sidbi.in/head/uploads/career_document/Webad_Website_Final_20_07_2026.pdf",
+    "applyOnlineLink": "https://icaiplacements.icai.org/#/",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "20/07/2026"
+      },
+      {
+        "event": "Closing Date for Apply Online",
+        "date": "21/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Consultant Credit Analyst (CCA)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "The selection process is being organized by ICAI (ICAI Placement Directorate) for Newly Qualified Chartered Accountants.",
+      "Interested candidates must visit the ICAI website at https://icaiplacements.icai.org/#/ for indicative guidelines and procedure for registration.",
+      "Register and apply through the ICAI Placement portal for the SIDBI Consultant Credit Analyst (CCA) post.",
+      "SIDBI will conduct interviews at Mumbai, New Delhi, Chennai, and Ahmedabad centers.",
+      "Applications sent directly to SIDBI will NOT be entertained under any circumstances."
+    ]
   },
   {
     "id": "gujarat-pnb-local-bank-officer-lbo-last-date-extended-",
@@ -740,12 +1421,56 @@
     "district": "State Level",
     "vacancies": "545",
     "lastDate": "16-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/pnb-lbo-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/pnb-lbo-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/pnb-lbo-recruitment-2026/",
+    "officialWebsite": "https://pnb.bank.in/",
+    "notificationLink": "https://govtjobguru.in/wp-content/uploads/2026/07/PNB-LBO-REcruitemnt-2026.pdf",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/pnbjul26/",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "SC/ST/PwBD category candidates",
+        "fee": "Rs. 50/- + GST @18% = Rs. 59/- (only postage charges)"
+      },
+      {
+        "category": "All Others (General/OBC/EWS)",
+        "fee": "Rs. 1000/- + GST @18% = Rs. 1180/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date of Online Registration",
+        "date": "20/07/2026"
+      },
+      {
+        "event": "Closing Date of Online Registration (Extended Upto)",
+        "date": "16/08/2026"
+      },
+      {
+        "event": "Tentative Date of Online Test (August 2026/ September 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Local Bank Officer (LBO)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Bank’s official website https://pnb.bank.in/ under Recruitment/Career section.",
+      "Click on the link ‘CLICK HERE FOR NEW REGISTRATION’ to register your application by entering basic information.",
+      "Note down the provisional registration number and password generated by the system.",
+      "Fill in the online application form carefully with all required details.",
+      "Scan and upload photograph, signature, left hand thumb impression, handwritten declaration, proof of age, caste/disability certificate, educational qualification, and work experience documents as per specified guidelines.",
+      "Pay the application fee online using Debit Cards (RuPay/Visa/MasterCard), Credit Cards, Internet Banking, IMPS, Cash Cards/Mobile Wallets, or UPI.",
+      "Submit the application form after verifying all details.",
+      "Take a printout of the e-receipt and online application form for future reference.",
+      "Applications can be submitted from 20.07.2026 to 09.08.2026 only."
+    ]
   },
   {
     "id": "gujarat-gujarat high court-civil-judge",
@@ -757,11 +1482,40 @@
     "district": "State Level",
     "vacancies": "237",
     "lastDate": "Update",
-    "officialWebsite": "https://govtjobguru.in/jobs/gujarat-high-court-civil-judge-recruitment-2026/",
+    "officialWebsite": "https://hcguj.nic.in",
     "notificationLink": "https://govtjobguru.in/jobs/gujarat-high-court-civil-judge-recruitment-2026/",
     "applyOnlineLink": "https://govtjobguru.in/jobs/gujarat-high-court-civil-judge-recruitment-2026/",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "24/04/2026"
+      },
+      {
+        "event": "Starting Date for Apply Online (Update Soon)",
+        "date": ""
+      },
+      {
+        "event": "Closing Date for Apply Online (Update Soon)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Civil Judge",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "The High Court of Gujarat has notified 237 (approx.) Regular Vacancies for the Cadre of Civil Judges.",
+      "The Recruitment Process will be initiated shortly as per the notification dated 24/04/2026.",
+      "Candidates are advised to keep checking the official website of the High Court of Gujarat for further updates regarding the application process."
+    ]
   }
 ]

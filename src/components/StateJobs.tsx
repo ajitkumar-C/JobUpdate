@@ -14,14 +14,18 @@ export interface StateJob {
   district: string;
   vacancies: string | null;
   lastDate?: string;
-  // Official links extracted by deep scraper
   officialWebsite?: string;
   notificationLink?: string;
   applyOnlineLink?: string;
-  // Meta
   state: string;
   stateCode: string;
   scrapedAt: string;
+  // Deep-scraped parameters
+  fees?: { category: string; fee: string }[];
+  dates?: { event: string; date: string }[];
+  vacancyList?: { postName: string; count: string; qualification: string; ageLimit: string; payScale: string }[];
+  howToApply?: string[];
+  ageLimit?: string;
 }
 
 interface StateJobsProps {
@@ -97,6 +101,84 @@ const JobDetailPanel: React.FC<{ job: StateJob; stateCode: string; accentColor: 
               <span className="state-detail-meta-value">{job.scrapedAt}</span>
             </div>
           </div>
+
+          {/* Dynamic Dates Table Section */}
+          {job.dates && job.dates.length > 0 && (
+            <div className="state-detail-section">
+              <h3 className="state-detail-section-title">📅 Important Dates</h3>
+              <table className="state-detail-table">
+                <thead>
+                  <tr>
+                    <th>Event</th>
+                    <th>Date</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {job.dates.map((d, index) => (
+                    <tr key={index}>
+                      <td>{d.event}</td>
+                      <td>{d.date}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          )}
+
+          {/* Dynamic Application Fees Section */}
+          {job.fees && job.fees.length > 0 && (
+            <div className="state-detail-section">
+              <h3 className="state-detail-section-title">💳 Application Fees</h3>
+              <table className="state-detail-table">
+                <thead>
+                  <tr>
+                    <th>Category</th>
+                    <th>Fee</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {job.fees.map((f, index) => (
+                    <tr key={index}>
+                      <td>{f.category}</td>
+                      <td>{f.fee}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          )}
+
+          {/* Dynamic Vacancy Breakdown List */}
+          {job.vacancyList && job.vacancyList.length > 0 && (
+            <div className="state-detail-section">
+              <h3 className="state-detail-section-title">📋 Vacancies & Post-Wise Eligibility</h3>
+              <div className="state-detail-vacancies-list">
+                {job.vacancyList.map((vac, index) => (
+                  <div key={index} className="state-detail-vacancy-card">
+                    <h4 className="state-detail-vacancy-postname">🏷️ {vac.postName}</h4>
+                    <ul className="state-detail-vacancy-specs">
+                      {vac.count && <li><strong>Total Posts:</strong> {vac.count}</li>}
+                      {vac.qualification && <li><strong>Qualification:</strong> {vac.qualification}</li>}
+                      {vac.ageLimit && <li><strong>Age Limit:</strong> {vac.ageLimit}</li>}
+                      {vac.payScale && <li><strong>Pay Scale / Salary:</strong> {vac.payScale}</li>}
+                    </ul>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {/* Dynamic How to Apply Section */}
+          {job.howToApply && job.howToApply.length > 0 && (
+            <div className="state-detail-section">
+              <h3 className="state-detail-section-title">✍️ How to Apply</h3>
+              <ol className="state-detail-steps">
+                {job.howToApply.map((step, index) => (
+                  <li key={index}>{step}</li>
+                ))}
+              </ol>
+            </div>
+          )}
 
           {/* Official Links Section */}
           <div className="state-detail-links-section">

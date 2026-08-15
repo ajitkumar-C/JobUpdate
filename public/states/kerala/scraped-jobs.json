@@ -43,12 +43,79 @@
     "district": "State Level",
     "vacancies": "10",
     "lastDate": "01-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/ucsl-workman-recruitment-2026-apply-online-for-10-office-assistant-draftsman-other-posts/",
-    "notificationLink": "https://govtjobguru.in/jobs/ucsl-workman-recruitment-2026-apply-online-for-10-office-assistant-draftsman-other-posts/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/ucsl-workman-recruitment-2026-apply-online-for-10-office-assistant-draftsman-other-posts/",
+    "officialWebsite": "https://www.udupicsl.com",
+    "notificationLink": "https://cochinshipyard.in/uploads/career/d113c609e10c30357f15750fc2f34c71.pdf",
+    "applyOnlineLink": "https://cochinshipyard.in/careerdetail/career_locations/798",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General/OBC",
+        "fee": "₹300 (Non-refundable, plus bank charges extra)"
+      },
+      {
+        "category": "SC/ST/PwBD",
+        "fee": "Nil (Exempted)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Commencement of Online Application",
+        "date": "11/08/2026"
+      },
+      {
+        "event": "Last Date of Online Application",
+        "date": "01/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Office Assistant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Draftsman (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Draftsman (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Store Keeper",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Read the User Manual and FAQ published on www.cochinshipyard.in (Career page &rarr; UCSL, Malpe) or www.udupicsl.com (Career page) before applying.",
+      "Complete One-time Registration in the SAP Online portal.",
+      "Submit the online application against the applicable post from 11 August 2026 to 01 September 2026.",
+      "Upload all required certificates: proof of age, educational qualification, experience, caste, disability, and a recent passport-size colour photograph.",
+      "Pay the application fee of ₹300/- (non-refundable) online via Debit Card/Credit Card/Internet Banking/Wallets/UPI (SC/ST/PwBD candidates are exempted).",
+      "Do not submit more than one application. Application once submitted is final.",
+      "Retain a soft copy/printout of the online application with the unique registration number for future reference.",
+      "Do not send printouts or certificates by post to UCSL."
+    ]
   },
   {
     "id": "kerala-csl-graduate-apprentices-category-i-technician-diploma",
@@ -60,12 +127,143 @@
     "district": "State Level",
     "vacancies": "139",
     "lastDate": "01-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/csl-apprentice-recruitment-2026-apply-online-for-139-graduate-and-technician-apprentice-posts/",
-    "notificationLink": "https://govtjobguru.in/jobs/csl-apprentice-recruitment-2026-apply-online-for-139-graduate-and-technician-apprentice-posts/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/csl-apprentice-recruitment-2026-apply-online-for-139-graduate-and-technician-apprentice-posts/",
+    "officialWebsite": "https://cochinshipyard.in/careersummary/career_locations/1",
+    "notificationLink": "https://cochinshipyard.in/uploads/career/afd6b02aeff840cd040835d58aa059b4.pdf",
+    "applyOnlineLink": "https://nats.education.gov.in",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "All Candidates",
+        "fee": "Nil"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Commencement of Online Application",
+        "date": "12/08/2026"
+      },
+      {
+        "event": "Last Date of Online Application",
+        "date": "01/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Graduate Apprentice - Electrical & Electronics Engg.",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Mechanical Engg.",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Electronics & Communication Engg.",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Civil Engg.",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Computer Science/Information Technology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Fire & Safety Engg.",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Marine Engg.",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Naval Architecture & Shipbuilding",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (Diploma) Apprentice - Electrical Engg.",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (Diploma) Apprentice - Mechanical Engg.",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (Diploma) Apprentice - Electronics Engg.",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (Diploma) Apprentice - Instrumentation Technology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (Diploma) Apprentice - Civil Engg.",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (Diploma) Apprentice - Computer Engg.",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (Diploma) Apprentice - Commercial Practice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the NATS portal at https://nats.education.gov.in.",
+      "If already registered on old portal (portal.mhrdnats.gov.in): Activate your account on the new portal using the ‘Forgot Password’ option at the student login page. Login and complete the application form ensuring all details are correct. Then search for ‘COCHIN SHIPYARD LIMITED’ under ‘Apply against advertised vacancies’ and click Apply.",
+      "If not registered on old portal: Go to https://nats.education.gov.in, click ‘Student’, then ‘Student Register’, complete the application form, and note the unique Enrolment Number generated. Then login, search for ‘COCHIN SHIPYARD LIMITED’ under ‘Apply against advertised vacancies’, and click Apply.",
+      "Ensure all marks and details are entered correctly before submission.",
+      "For issues/queries related to NATS portal, contact Board of Apprenticeship Training (BOAT), Southern Region, Chennai via email: studentquery@boatsrp.com.",
+      "Online application window: 12.08.2026 to 01.09.2026."
+    ]
   },
   {
     "id": "kerala-cochin port authority-executive-engineer",
@@ -366,12 +564,53 @@
     "district": "State Level",
     "vacancies": "40",
     "lastDate": "27-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/railtel-apprentice-recruitment-2026/",
+    "officialWebsite": "https://www.railtelindia.com",
+    "notificationLink": "https://www.railtel.in/images/careers/DocScanner%2028-Jul-2026%2004-10%20PM.pdf",
+    "applyOnlineLink": "https://nats.education.gov.in",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "28/07/2026"
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "27/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Graduate Apprentice Engineer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice Engineer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the NATS 2.0 portal at https://nats.education.gov.in.",
+      "If not already registered, register yourself on the NATS 2.0 portal before applying.",
+      "Follow the guidelines given in the student manual of NATS available at the portal (web link: https://nats.education.gov.in/assets/manual/establishment_user_manual.pdf).",
+      "Fill in the online application form with accurate details.",
+      "Upload the certificate showing your CGPA or percentage in the ‘Upload Certificate’ column. If only CGPA is mentioned, also upload the CGPA to percentage conversion formula/certificate along with the undertaking (Annexure 1) as a single PDF file of size less than 1 MB.",
+      "Submit the application online before the last date of 27.08.2026.",
+      "No other mode of application will be entertained."
+    ]
   },
   {
     "id": "kerala-bpcl-process-technician-chemical-process-operator-opera",
@@ -383,12 +622,80 @@
     "district": "State Level",
     "vacancies": "154",
     "lastDate": "19-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/bpcl-technician-and-operator-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/bpcl-technician-and-operator-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/bpcl-technician-and-operator-recruitment-2026/",
+    "officialWebsite": "https://www.bharatpetroleum.com",
+    "notificationLink": "https://www.bharatpetroleum.in/images/files/bpcl-kr-and-mr-non-mgmt-rect-notification-july-26.pdf",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/bpclmar26/",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General / EWS / OBC (NCL)",
+        "fee": "Rs. 590/- (Application fee Rs. 500/- + GST @18% Rs. 90/-)"
+      },
+      {
+        "category": "SC / ST / PwBD / Ex-Servicemen (ESM)",
+        "fee": "Exempted (No Fee)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Date of Opening of Online Application",
+        "date": "29/07/2026"
+      },
+      {
+        "event": "Last Date of Submission of Online Application and Payment of Application Fees (Extended Upto)",
+        "date": "19/08/2026"
+      },
+      {
+        "event": "Tentative Schedule for Issuance of Call Letter for CBT (10 days before conduct of CBT)",
+        "date": ""
+      },
+      {
+        "event": "Tentative Month of Computer Based Test (CBT) (September, 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Process Technician (Chemical) - Post Code A (Mumbai Refinery)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Process Operator/Operator (Chemical) - Post Code B (Kochi Refinery)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician/Operator (Mechanical) - Post Code C (Kochi Refinery)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (Electrical) - Post Code D (Kochi Refinery)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the BPCL Careers website at www.bharatpetroleum.com &gt; Careers.",
+      "Read the detailed advertisement carefully and ensure you meet the prescribed eligibility criteria.",
+      "Register online and fill in the application form with accurate details.",
+      "Upload all relevant documents as required.",
+      "Pay the application fee online (for General, EWS, and OBC(NCL) candidates): Rs. 590/- (Application fee Rs. 500/- + GST @18% Rs. 90/-) through online payment gateway. SC/ST/PwBD/ESM candidates are exempted from fee payment.",
+      "Submit the online application before 13.08.2026 (11:59 pm).",
+      "Download the call letter for CBT from the BPCL Careers website approximately 10 days before the scheduled CBT date using Registration Number and Password.",
+      "Affix a recent recognizable photograph on the call letter and appear at the examination centre with the call letter and a valid Photo Identity Proof."
+    ]
   },
   {
     "id": "kerala-isro-scientist-engineer-sc-",
@@ -400,12 +707,105 @@
     "district": "State Level",
     "vacancies": "92",
     "lastDate": "17-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/isro-scientist-engineer-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/isro-scientist-engineer-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/isro-scientist-engineer-recruitment-2026/",
+    "officialWebsite": "https://www.isro.gov.in/",
+    "notificationLink": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/July/GATE_Bilingual_Advertisement_2026_28072026.pdf",
+    "applyOnlineLink": "https://apps.ursc.gov.in/CentralBE-2026/advt.jsp",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General/OBC/EWS (Male)",
+        "fee": "₹250/-"
+      },
+      {
+        "category": "Women/SC/ST/Ex-Servicemen/PwBD",
+        "fee": "Nil (Exempted)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date for Online Registration",
+        "date": "28/07/2026"
+      },
+      {
+        "event": "Closing Date for Online Registration",
+        "date": "17/08/2026"
+      },
+      {
+        "event": "Last Date for Payment of Application Fee",
+        "date": "19/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Scientist/Engineer 'SC' (Electronics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer 'SC' (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer 'SC' (Computer Science)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer 'SC' (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer 'SC' (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer 'SC' (Refrigeration & Air Conditioning)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer 'SC' (Architecture)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist/Engineer 'SC' (Civil) &ndash; Autonomous Body [PRL]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit ISRO official website www.isro.gov.in between 28-07-2026 and 17-08-2026.",
+      "Candidates registered under National Career Services (NCS) portal and fulfilling eligibility conditions may apply online.",
+      "Fill in all required details in the online application form carefully.",
+      "Upload clear scanned copies/images of photograph (jpg format) and GATE Score card (PDF format).",
+      "Submit the online application form.",
+      "Pay the non-refundable application fee of ₹250/- through Bharatkosh portal via Internet Banking, UPI, Debit Card, or Credit Card (last date: 19-08-2026).",
+      "Note the online Registration Number generated after registration for future reference.",
+      "Ensure correct e-mail ID is provided as hall tickets/call letters will be sent by e-mail only.",
+      "Women/SC/ST/Ex-servicemen/PwBD candidates are exempted from application fee."
+    ]
   },
   {
     "id": "kerala-cusat-assistant-professor",
@@ -468,11 +868,295 @@
     "district": "State Level",
     "vacancies": "75",
     "lastDate": "17-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/irel-executive-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/irel-executive-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/irel-executive-recruitment-2026/",
+    "officialWebsite": "http://www.irel.co.in",
+    "notificationLink": "https://www.irel.co.in/documents/20126/167125/Final+Full+Advt-35-2026.pdf/fdcd1f78-329d-c4e7-6faf-427c17dbd3a2?t=1784535209048",
+    "applyOnlineLink": "https://cdn.digialm.com/EForms/configuredHtml/1258/100473/Index.html",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "UR / EWS / OBC (NCL) candidates",
+        "fee": "INR 944/- (Application Fee INR 590/- + Processing Fee INR 354/-, inclusive of GST)"
+      },
+      {
+        "category": "SC / ST / PwBD / ESM / Women / Internal candidates",
+        "fee": "INR 354/- (Processing Fee only, inclusive of GST; Application Fee exempted)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date for Online Registration",
+        "date": "20/07/2026"
+      },
+      {
+        "event": "Last Date for Submission of Online Application (Extended Upto)",
+        "date": "17/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Chief Manager - Technical (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager - Technical (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager - Technical (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Chief Manager - Technical (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager - Technical (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager - Technical (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager - Technical (Chemical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager - Technical (Chemical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager - Technical (Mineral)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Manager - Technical (Mining)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager - Technical (Mining)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager - Technical (Commercial/Purchase)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager - Technical (Industrial Safety)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager - Technical (Industrial Safety)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager - Technical (Instrumentation)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy General Manager - Technical (IT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Manager - Technical (IT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager - Technical (IT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager - Technical (Geology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Manager (Legal)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Manager (Legal)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Manager (Security)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Manager (Security)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Manager (Medical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "General Manager - Finance",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Chief Manager - Finance",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Manager - Finance",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager - Finance",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager - Finance",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy General Manager - Marketing",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager - Sales",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager - HRM (Administration)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager - Legal & HRM",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager - HRM",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager (Rajbhasha)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager (Company Secretary)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official IREL website at http://www.irel.co.in or the direct application link: https://cdn.digialm.com/EForms/configuredHtml/1258/100473/Index.html",
+      "Step-I: Register by filling in Personal Details and Contact Details. An OTP will be sent to your registered Mobile No. and E-mail ID. Verify both OTPs to complete registration. You will receive an Application Sequence Number (User ID) and Password.",
+      "Step-II: Re-login using the User ID and Password. Complete all fields including Personal Details, Additional Details, Communication Details, Qualification Details, and Declaration.",
+      "Upload all required documents including recent passport-size photograph (JPG/JPEG, min 100KB max 200KB, 3.5cm x 4.5cm) and signature (JPG/JPEG, min 80KB max 150KB).",
+      "Preview the application form and verify all details. Edit if necessary before final submission.",
+      "Submit the application and pay the applicable fee online via Payment Gateway (Debit/Credit Card/Net Banking/Wallets/UPI).",
+      "After successful payment, print and save the Application Form in PDF for future reference.",
+      "Candidates from Govt./PSU must forward their application through proper channel or produce NOC at the time of interview."
+    ]
   }
 ]

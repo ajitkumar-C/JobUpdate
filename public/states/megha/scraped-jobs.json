@@ -26,12 +26,68 @@
     "district": "State Level",
     "vacancies": "7",
     "lastDate": "31-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/neepco-je-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/neepco-je-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/neepco-je-recruitment-2026/",
+    "officialWebsite": "https://www.neepco.co.in",
+    "notificationLink": "https://neepco.co.in/neepco/sites/default/files/2026-08/advt_je_english_version_aggbps_tgbps_0.pdf",
+    "applyOnlineLink": "https://recruitment.neepco-spark.co.in/",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "All Categories",
+        "fee": "No Application Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Commencement of Online Registration",
+        "date": "11/08/2026"
+      },
+      {
+        "event": "Closing of Online Registration",
+        "date": "31/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Junior Engineer (Electrical) - Agartala Gas Based Power Station (Post Code: HR/356/11/E)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Mechanical) - Agartala Gas Based Power Station (Post Code: HR/356/11/M)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Electrical) - Tripura Gas Based Power Station (Post Code: HR/356/19/E)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Mechanical) - Tripura Gas Based Power Station (Post Code: HR/356/19/M)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website www.neepco.co.in and navigate to the Careers section.",
+      "The online registration portal will be functional from 00:01 Hrs of 11-08-2026 to 23:59 Hrs of 31-08-2026.",
+      "Ensure you are registered in Agartala Employment Exchange or Sepahijala Employment Exchange and possess Tripura state domicile.",
+      "Fill in the online application form with accurate details including a valid email ID (which must remain active for at least one year).",
+      "No application fee is required.",
+      "Submit the application online. No manual/paper application will be accepted.",
+      "Download the Admit Card from the Recruitment Portal once available. Admit cards will not be sent by post.",
+      "Candidates already working in Government/Public Sector Enterprises must produce a No Objection Certificate (NOC) at the time of written test."
+    ]
   },
   {
     "id": "megha-neigrihms-more-senior-research-fellow-project-nurse",
@@ -77,12 +133,76 @@
     "district": "State Level",
     "vacancies": "24",
     "lastDate": "18-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/neigrihms-junior-resident-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/neigrihms-junior-resident-recruitment-2026/",
+    "officialWebsite": "https://neigrihms.gov.in",
+    "notificationLink": "https://neigrihms.gov.in/Latest%20News/estt-2/2026/Rolling%20Advertisement%20for%20recruitment%20of%20Junior%20Resident%20Doctor%20%285th%20Cut-Off%20date%29.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/neigrihms-junior-resident-recruitment-2026/",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Rolling Advertisement Date",
+        "date": "31/10/2025"
+      },
+      {
+        "event": "Fifth Cut-Off Date",
+        "date": "18/08/2026"
+      },
+      {
+        "event": "Last Date of Application",
+        "date": "18/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Junior Resident Doctor (UR)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Resident Doctor (EWS)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Resident Doctor (OBC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Resident Doctor (SC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Resident Doctor (PwBD - Reserved)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the prescribed application proforma from Annexure-I.",
+      "Fill in the application form with all required details.",
+      "Attach scanned copies of the following self-attested certificates: Two recent passport size photos, Certificate of Date of Birth (10th certificate), EWS/SC/ST/OBC (Non-Creamy Layer) certificate (if applicable), MBBS passed Certificate, MBBS Marksheets, MBBS Attempt certificate, MBBS Internship Completion Certificate, Medical Registration Certificate for MBBS, NOC from present employer (if employed), MCI/NMC Eligibility certificate (for foreign medical institution candidates), Result of screening test for Indian nationals with Foreign Medical Qualifications issued by the National Board of Examinations.",
+      "Send the completed application along with all scanned documents by email to neigrihms.recruitment@gmail.com before 18th August 2026 up to 5:30 PM.",
+      "Bring original documents at the time of interview."
+    ]
   },
   {
     "id": "megha-iim shillong-assistant-manager-manager",
@@ -128,12 +248,56 @@
     "district": "State Level",
     "vacancies": "545",
     "lastDate": "16-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/pnb-lbo-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/pnb-lbo-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/pnb-lbo-recruitment-2026/",
+    "officialWebsite": "https://pnb.bank.in/",
+    "notificationLink": "https://govtjobguru.in/wp-content/uploads/2026/07/PNB-LBO-REcruitemnt-2026.pdf",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/pnbjul26/",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "SC/ST/PwBD category candidates",
+        "fee": "Rs. 50/- + GST @18% = Rs. 59/- (only postage charges)"
+      },
+      {
+        "category": "All Others (General/OBC/EWS)",
+        "fee": "Rs. 1000/- + GST @18% = Rs. 1180/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date of Online Registration",
+        "date": "20/07/2026"
+      },
+      {
+        "event": "Closing Date of Online Registration (Extended Upto)",
+        "date": "16/08/2026"
+      },
+      {
+        "event": "Tentative Date of Online Test (August 2026/ September 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Local Bank Officer (LBO)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Bank’s official website https://pnb.bank.in/ under Recruitment/Career section.",
+      "Click on the link ‘CLICK HERE FOR NEW REGISTRATION’ to register your application by entering basic information.",
+      "Note down the provisional registration number and password generated by the system.",
+      "Fill in the online application form carefully with all required details.",
+      "Scan and upload photograph, signature, left hand thumb impression, handwritten declaration, proof of age, caste/disability certificate, educational qualification, and work experience documents as per specified guidelines.",
+      "Pay the application fee online using Debit Cards (RuPay/Visa/MasterCard), Credit Cards, Internet Banking, IMPS, Cash Cards/Mobile Wallets, or UPI.",
+      "Submit the application form after verifying all details.",
+      "Take a printout of the e-receipt and online application form for future reference.",
+      "Applications can be submitted from 20.07.2026 to 09.08.2026 only."
+    ]
   },
   {
     "id": "megha-nesac-research-scientist-junior-research-fellow-project-",
@@ -145,12 +309,160 @@
     "district": "State Level",
     "vacancies": "16",
     "lastDate": "12-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/nesac-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/nesac-recruitment-2026/",
+    "officialWebsite": "https://nesac.gov.in",
+    "notificationLink": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/July/Advertisement_Final_17072026.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/nesac-recruitment-2026/",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Walk-in-Interview (RS04, JRF01, JRF06, JRF07, PA01)",
+        "date": "10/08/2026"
+      },
+      {
+        "event": "Walk-in-Interview (RS01, RS05, JRF02, JRF03, JRF09, JRF10)",
+        "date": "11/08/2026"
+      },
+      {
+        "event": "Walk-in-Interview (RS02, RS03, JRF04, JRF05, JRF08)",
+        "date": "12/08/2026"
+      },
+      {
+        "event": "Notification Date",
+        "date": "17/07/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Research Scientist (RS01 - Geology/Geophysics/Earth Science)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Research Scientist (RS02 - Computer Science & Engineering/IT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Research Scientist (RS03 - Disaster Management/Geography/Geoinformatics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Research Scientist (RS04 - Botany/Forestry/Environmental Science/Geoinformatics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Research Scientist (RS05 - Physics/Meteorology/Atmospheric Science)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Research Fellow (JRF01 - Forestry/Environmental Science/Geoinformatics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Research Fellow (JRF02 - Physics/Atmospheric Science/Environmental Science)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Research Fellow (JRF03 - Physics/Electronics/Meteorology/Atmospheric Science)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Research Fellow (JRF04 - Computer Science & Engineering/IT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Research Fellow (JRF05 - Computer Science & Engineering/IT/Remote Sensing & GIS)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Research Fellow (JRF06 - Forestry/Ecology/Environmental Sciences/Geoinformatics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Research Fellow (JRF07 - Forestry/Ecology/Environmental Sciences/Geoinformatics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Research Fellow (JRF08 - Earth Science Engineering/Water Resources Engineering/Remote Sensing & GIS)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Research Fellow (JRF09 - Geology/Geophysics/Physics/Earth Science/CSE)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Research Fellow (JRF10 - Geological Sciences)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate &ndash; I (PA01 - Botany/Forestry/Environmental Science)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Interested and eligible candidates must appear directly at the walk-in-interview venue on the scheduled date.",
+      "Carry Biodata in the prescribed format (available at https://nesac.gov.in/category/career/) neatly typed (handwritten not accepted).",
+      "Bring all relevant original documents as proof of details furnished in the Biodata along with a set of self-attested photocopies.",
+      "Candidates applying for more than one post must submit separate Biodata for each post.",
+      "Candidates employed under Central/State Government/Public Sector Undertakings or Autonomous Bodies must produce original ‘No Objection Certificate’ at the time of interview.",
+      "Candidates must carry a valid Government-issued identity card (Aadhaar/Passport etc.) for identity verification.",
+      "Only passed candidates are eligible; students awaiting final results need not appear.",
+      "For any issues in downloading the Biodata format, email: ao.nesac@nesac.gov.in"
+    ]
   },
   {
     "id": "megha-meghalaya high court-computer-operator-court-officer",
@@ -179,12 +491,125 @@
     "district": "State Level",
     "vacancies": "21",
     "lastDate": "17-08-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/neiah-teaching-non-teaching-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/neiah-teaching-non-teaching-recruitment-2026/",
+    "officialWebsite": "https://www.neiah.nic.in",
+    "notificationLink": "https://ayush.gov.in/assets/pdf/careers/NIC,_Ministry_of_Ayush,_New_Delhi.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/neiah-teaching-non-teaching-recruitment-2026/",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General/OBC (Level-11, Level-12 & Level-13 posts)",
+        "fee": "Rs. 1400/-"
+      },
+      {
+        "category": "SC/ST/EWS (Level-11, Level-12 & Level-13 posts)",
+        "fee": "Rs. 700/-"
+      },
+      {
+        "category": "Persons with Disabilities (PWD/PH)",
+        "fee": "No Fee"
+      },
+      {
+        "category": "Deputation Candidates",
+        "fee": "No Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Published in Employment News",
+        "date": "04/07/2026"
+      },
+      {
+        "event": "Last Date for Receipt of Applications",
+        "date": "17/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Professor (Ayurveda)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Ayurveda)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Homoeopathy)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Homoeopathy)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Homoeopathy Allied Subject)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Homoeopathy Allied Subject)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Obstetrician & Gynecologist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Surgical Specialist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Pediatrician",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Radiologist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the prescribed application form from the official website: www.neiah.nic.in.",
+      "Fill in the application form completely in all respects.",
+      "Attach self-attested copies of all certificates, mark sheets, and testimonials in support of age, educational qualifications, experience, Caste/Community/PWD/EWS issued by Competent Authority.",
+      "Attach Council Registration certificate and Teacher’s Code (as applicable).",
+      "Attach two recent passport size colour photographs.",
+      "Attach non-refundable application fee in the form of Bank Demand Draft (DD) in favour of “Director, North Eastern Institute of Ayurveda &amp; Homoeopathy” payable at Shillong. Write candidate name, category, and post applied for on the back of the DD.",
+      "Candidates applying on deputation must attach duly attested photocopies of all necessary documents, up-to-date Confidential Reports (at least for the latest 05 years), Vigilance Clearance certificate, and attested copies of CR Dossiers.",
+      "Attach No Objection Certificate and Experience Certificate in the prescribed format (Annexure-I) from the employer.",
+      "Super-scribe the envelope: “APPLICATION FOR THE POST OF ________________ Sl No.________”.",
+      "Send the application by Registered Post / Speed Post to: The Director, North Eastern Institute of Ayurveda &amp; Homoeopathy (NEIAH), Mawdiangdiang, Shillong, Meghalaya &ndash; 793018.",
+      "Applications must reach the Institute on or before 17.08.2026 (45 days from date of publication in Employment News on 04.07.2026)."
+    ]
   },
   {
     "id": "megha-neiah-more-radiologist-professor",

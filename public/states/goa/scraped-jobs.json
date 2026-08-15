@@ -111,12 +111,113 @@
     "district": "State Level",
     "vacancies": "134",
     "lastDate": "24",
-    "officialWebsite": "https://govtjobguru.in/jobs/konkan-railway-apprentice-recruitment-2026-walk-in-for-134-graduate-diploma-apprentice-trainee-posts/",
-    "notificationLink": "https://govtjobguru.in/jobs/konkan-railway-apprentice-recruitment-2026-walk-in-for-134-graduate-diploma-apprentice-trainee-posts/",
+    "officialWebsite": "https://konkanrailway.com",
+    "notificationLink": "https://konkanrailway.com/sites/default/files/2026-08/Notification_%20for_Apprentice%20Trainee_2026_27.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/konkan-railway-apprentice-recruitment-2026-walk-in-for-134-graduate-diploma-apprentice-trainee-posts/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "07/08/2026"
+      },
+      {
+        "event": "Document Verification - BE Civil Engineering & Diploma (Civil) & BE Electronics Engineering",
+        "date": "24/08/2026"
+      },
+      {
+        "event": "Document Verification - BE Electrical Engineering & Diploma (Electrical) & Diploma (Electronics)",
+        "date": "25/08/2026"
+      },
+      {
+        "event": "Document Verification - BE Mechanical Engineering & Diploma (Mechanical)",
+        "date": "27/08/2026"
+      },
+      {
+        "event": "Document Verification - General Stream Graduates",
+        "date": "28/08/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "BE Civil Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "BE Electrical Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "BE Electronics Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "BE Mechanical Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma (Electronics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "General Stream Graduates",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Register online on the National Apprenticeship Training Scheme (NATS) portal and obtain a valid approved NATS ID.",
+      "Ensure your NATS ID is approved before the date of Document Verification.",
+      "Appear for Document Verification on the scheduled date for your respective post at Executives Club, Konkan Rail Vihar, Sector-40, Opp. Seawoods Railway Station (West), Navi Mumbai-400706.",
+      "Registration time at the venue is 09:00 hrs to 12:00 hrs only.",
+      "Bring all required original documents along with one set of self-attested photocopies.",
+      "Carry your valid NATS ID, Aadhaar card, PAN card, mark sheets, degree/diploma certificate, caste certificate (if applicable), domicile certificate, and two passport-size photographs."
+    ]
   },
   {
     "id": "goa-bits pilani-project-associate-i",
@@ -179,12 +280,133 @@
     "district": "State Level",
     "vacancies": "201",
     "lastDate": "Update",
-    "officialWebsite": "https://govtjobguru.in/jobs/konkan-railway-recruitment-2026-apply-online-for-201-je-alp-technician-other-posts/",
-    "notificationLink": "https://govtjobguru.in/jobs/konkan-railway-recruitment-2026-apply-online-for-201-je-alp-technician-other-posts/",
+    "officialWebsite": "https://www.konkanrailway.com",
+    "notificationLink": "https://konkanrailway.com/sites/default/files/2026-07/EMPLOYMENT_NOTIFICATION_310726_1.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/konkan-railway-recruitment-2026-apply-online-for-201-je-alp-technician-other-posts/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-08-15"
+    "scrapedAt": "2026-08-15",
+    "fees": [
+      {
+        "category": "General/UR/OBC-NCL/EWS (Male)",
+        "fee": "Rs. 1180/- (Rs. 1000/- + 18% GST + payment gateway charges)"
+      },
+      {
+        "category": "SC/ST/Ex-Serviceman/Female/Minorities/EBC/PwBD (Fee Refundable after appearing in CBT)",
+        "fee": "Rs. 1180/- (Refunded after appearing in CBT, deducting bank charges)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Date of Employment Notification",
+        "date": "31/07/2026"
+      },
+      {
+        "event": "Online Application Window Opens (Last week of August 2026 (tentative; exact date to be published 7 days in advance)",
+        "date": "01/08/2026"
+      },
+      {
+        "event": "CBT Tentatively Scheduled (September 2026 (tentative))",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Junior Engineer (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Track Maintainer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Section Engineer (S&T)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "ESTM-III",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Section Controller",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Station Master",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Goods Train Manager",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Loco Pilot",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Section Engineer (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician/III (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Commercial Supervisor",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official KRCL website: www.konkanrailway.com",
+      "Register your name on the official website to generate a Registration Number and Password (link goes live in the last week of August 2026).",
+      "Use the registration number and password sent to your registered email and mobile to access the application form.",
+      "Fill in all required details carefully including post preference, domicile/land loser/employment exchange status, and personal information.",
+      "Upload scanned passport-size photograph (JPEG, 30&ndash;70 KB), signature (JPEG, 30&ndash;70 KB), and other required documents.",
+      "Pay the prescribed examination fee online via Internet Banking, Debit/Credit Card, or UPI.",
+      "Submit the application and keep a printed copy for future reference.",
+      "Note your Registration Number for further stages of the recruitment process.",
+      "For queries, email: helpdskrectcell@krcl.co.in (active only till closing date of application)."
+    ]
   },
   {
     "id": "goa-mormugao port authority-sr-dy-chief-accounts-officer-sr-dy-traffic-manager",

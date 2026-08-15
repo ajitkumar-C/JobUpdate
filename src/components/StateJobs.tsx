@@ -369,62 +369,97 @@ export const StateJobs: React.FC<StateJobsProps> = ({ stateCode }) => {
             <p>{isMH ? 'कोणत्याही भरत्या सापडल्या नाहीत / No listings found.' : 'No job listings found.'}</p>
           </div>
         ) : (
-          <div className="state-grid">
-            {filtered.map(job => (
-              <article
-                key={job.id}
-                className="state-card"
-                onClick={() => setSelectedJob(job)}
-                style={{ cursor: 'pointer' }}
-              >
-                <div className="state-card-top">
-                  <span
-                    className="state-card-cat-badge"
-                    style={{ color: config.accentColor, background: `${config.accentColor}18` }}
-                  >
-                    {job.categoryIcon} {job.category}
-                  </span>
-                  {job.vacancies && (
-                    <span className="state-card-vacancies">
-                      <Briefcase size={11} /> {job.vacancies} Posts
-                    </span>
-                  )}
+          <div className="state-categories-container">
+            {config.categories.filter(c => c.id !== 'all').map(cat => {
+              const categoryJobs = filtered.filter(j => j.category === cat.id);
+              if (categoryJobs.length === 0) return null;
+
+              return (
+                <div key={cat.id} className="state-category-group" style={{ marginBottom: '2.5rem' }}>
+                  <h3 className="state-category-group-title" style={{
+                    fontSize: '1.15rem',
+                    fontWeight: 800,
+                    color: 'var(--text-primary)',
+                    marginBottom: '1.25rem',
+                    paddingBottom: '0.5rem',
+                    borderBottom: `2px solid ${config.accentColor}20`,
+                    display: 'flex',
+                    alignItems: 'center',
+                    gap: '0.5rem'
+                  }}>
+                    <span>{cat.icon}</span>
+                    <span>{cat.label}</span>
+                    <span style={{
+                      fontSize: '0.75rem',
+                      fontWeight: 700,
+                      background: `${config.accentColor}18`,
+                      color: config.accentColor,
+                      padding: '0.15rem 0.5rem',
+                      borderRadius: '999px',
+                      marginLeft: '0.25rem'
+                    }}>{categoryJobs.length}</span>
+                  </h3>
+
+                  <div className="state-grid">
+                    {categoryJobs.map(job => (
+                      <article
+                        key={job.id}
+                        className="state-card"
+                        onClick={() => setSelectedJob(job)}
+                        style={{ cursor: 'pointer' }}
+                      >
+                        <div className="state-card-top">
+                          <span
+                            className="state-card-cat-badge"
+                            style={{ color: config.accentColor, background: `${config.accentColor}18` }}
+                          >
+                            {job.categoryIcon} {job.category}
+                          </span>
+                          {job.vacancies && (
+                            <span className="state-card-vacancies">
+                              <Briefcase size={11} /> {job.vacancies} Posts
+                            </span>
+                          )}
+                        </div>
+
+                        <h2 className="state-card-title">{job.title}</h2>
+
+                        {job.shortInfo && (
+                          <p className="state-card-short-info">{job.shortInfo}</p>
+                        )}
+
+                        <div className="state-card-meta">
+                          <span className="state-card-meta-item">
+                            <MapPin size={11} /> {job.district}
+                          </span>
+                          {isMH && (
+                            <span className="state-card-meta-item">
+                              <Building2 size={11} /> {job.categoryMarathi}
+                            </span>
+                          )}
+                          {job.lastDate && (
+                            <span className="state-card-meta-item" style={{ color: 'var(--danger, #dc2626)', fontWeight: 600 }}>
+                              📅 Last: {job.lastDate}
+                            </span>
+                          )}
+                        </div>
+
+                        <div className="state-card-footer">
+                          <button
+                            className="state-view-btn"
+                            style={{ background: `linear-gradient(135deg, ${config.accentColor}, ${config.accentColorDark})` }}
+                            onClick={e => { e.stopPropagation(); setSelectedJob(job); }}
+                          >
+                            <span>{isMH ? 'View Details / तपशील पहा' : 'View Details'}</span>
+                            <ExternalLink size={13} />
+                          </button>
+                        </div>
+                      </article>
+                    ))}
+                  </div>
                 </div>
-
-                <h2 className="state-card-title">{job.title}</h2>
-
-                {job.shortInfo && (
-                  <p className="state-card-short-info">{job.shortInfo}</p>
-                )}
-
-                <div className="state-card-meta">
-                  <span className="state-card-meta-item">
-                    <MapPin size={11} /> {job.district}
-                  </span>
-                  {isMH && (
-                    <span className="state-card-meta-item">
-                      <Building2 size={11} /> {job.categoryMarathi}
-                    </span>
-                  )}
-                  {job.lastDate && (
-                    <span className="state-card-meta-item" style={{ color: 'var(--danger, #dc2626)', fontWeight: 600 }}>
-                      📅 Last: {job.lastDate}
-                    </span>
-                  )}
-                </div>
-
-                <div className="state-card-footer">
-                  <button
-                    className="state-view-btn"
-                    style={{ background: `linear-gradient(135deg, ${config.accentColor}, ${config.accentColorDark})` }}
-                    onClick={e => { e.stopPropagation(); setSelectedJob(job); }}
-                  >
-                    <span>{isMH ? 'View Details / तपशील पहा' : 'View Details'}</span>
-                    <ExternalLink size={13} />
-                  </button>
-                </div>
-              </article>
-            ))}
+              );
+            })}
           </div>
         )}
 

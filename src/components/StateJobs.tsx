@@ -92,7 +92,7 @@ const JobDetailPanel: React.FC<{ job: StateJob; accentColor: string; accentDark:
               <span className="state-detail-meta-value">{job.district}, Maharashtra</span>
             </div>
             <div className="state-detail-meta-item">
-              <span className="state-detail-meta-label">🗓️ Scraped On</span>
+              <span className="state-detail-meta-label">🗓️ Job Posted on</span>
               <span className="state-detail-meta-value">{job.scrapedAt}</span>
             </div>
           </div>

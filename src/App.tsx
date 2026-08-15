@@ -10,6 +10,8 @@ import { Shield, Sparkles, X } from 'lucide-react';
 import { AboutUs, ContactUs, Disclaimer, PrivacyPolicy } from './components/StaticPages';
 import { StateDirectory } from './components/StateDirectory';
 import { StateJobs } from './components/StateJobs';
+import { BlogDirectory } from './components/BlogDirectory';
+import { BlogDetail } from './components/BlogDetail';
 import { updateSEO } from './utils/seo';
 import { CategorySeoInfo } from './components/CategorySeoInfo';
 import './App.css';
@@ -52,24 +54,27 @@ export const App: React.FC = () => {
   const [searchTerm, setSearchTerm] = useState('');
   const [theme, setTheme] = useState<'light' | 'dark'>('light');
   const [showAdminButton, setShowAdminButton] = useState(false);
-  const [currentView, setCurrentView] = useState<'home' | 'about' | 'contact' | 'disclaimer' | 'privacy' | 'state-directory' | 'state-view'>('home');
+  const [currentView, setCurrentView] = useState<'home' | 'about' | 'contact' | 'disclaimer' | 'privacy' | 'state-directory' | 'state-view' | 'blog-directory' | 'blog-view'>('home');
   const [selectedStateCode, setSelectedStateCode] = useState<string | null>(null);
   const [selectedCategoryCode, setSelectedCategoryCode] = useState<string | null>(null);
+  const [selectedBlogId, setSelectedBlogId] = useState<string | null>(null);
   const [isDrawerOpen, setIsDrawerOpen] = useState(false);
 
   // --- Zero-Dependency Router Helper ---
   const navigateTo = (
-    view: 'home' | 'about' | 'contact' | 'disclaimer' | 'privacy' | 'state-directory' | 'state-view',
+    view: 'home' | 'about' | 'contact' | 'disclaimer' | 'privacy' | 'state-directory' | 'state-view' | 'blog-directory' | 'blog-view',
     categoryCode: string | null,
     jobId: string | null,
     admin: boolean,
-    stateCode: string | null = null
+    stateCode: string | null = null,
+    blogId: string | null = null
   ) => {
     setCurrentView(view);
     setSelectedCategoryCode(categoryCode);
     setSelectedJobId(jobId);
     setIsAdminMode(admin);
     setSelectedStateCode(stateCode);
+    setSelectedBlogId(blogId);
     setIsDrawerOpen(false); // Close drawer if open
 
     let path = '/';
@@ -81,6 +86,10 @@ export const App: React.FC = () => {
       path = '/state-jobs';
     } else if (view === 'state-view' && stateCode) {
       path = `/state/${stateCode}`;
+    } else if (view === 'blog-directory') {
+      path = '/blog';
+    } else if (view === 'blog-view' && blogId) {
+      path = `/blog/${blogId}`;
     } else if (view !== 'home') {
       path = `/${view}`;
     } else if (categoryCode) {
@@ -121,6 +130,18 @@ export const App: React.FC = () => {
       setSelectedJobId(null);
       setSelectedCategoryCode(null);
       setIsAdminMode(false);
+    } else if (segments[0] === 'blog') {
+      setIsAdminMode(false);
+      setSelectedStateCode(null);
+      setSelectedJobId(null);
+      setSelectedCategoryCode(null);
+      if (segments[1]) {
+        setCurrentView('blog-view');
+        setSelectedBlogId(segments[1]);
+      } else {
+        setCurrentView('blog-directory');
+        setSelectedBlogId(null);
+      }
     } else if (['about', 'contact', 'disclaimer', 'privacy'].includes(segments[0])) {
       setCurrentView(segments[0] as any);
       setSelectedStateCode(null);
@@ -154,6 +175,18 @@ export const App: React.FC = () => {
     window.addEventListener('popstate', handleRouting);
     return () => window.removeEventListener('popstate', handleRouting);
   }, [categories, isAuthorized]);
+
+  // --- Select Blog Custom Event Listener ---
+  useEffect(() => {
+    const handleSelectBlog = (e: Event) => {
+      const detail = (e as CustomEvent).detail;
+      if (detail) {
+        navigateTo('blog-view', null, null, false, null, detail);
+      }
+    };
+    window.addEventListener('select-blog', handleSelectBlog);
+    return () => window.removeEventListener('select-blog', handleSelectBlog);
+  }, []);
 
   // --- Dynamic Routing Initialization Hook ---
   useEffect(() => {
@@ -516,6 +549,14 @@ export const App: React.FC = () => {
               {cat.name}
             </button>
           ))}
+
+          {/* Blog Section */}
+          <button
+            className={`sub-nav-item sub-nav-blog ${currentView === 'blog-directory' || currentView === 'blog-view' ? 'active' : ''}`}
+            onClick={() => { navigateTo('blog-directory', null, null, false); window.scrollTo(0, 0); }}
+          >
+            ✍️ Blog
+          </button>
         </nav>
       )}
 
@@ -552,6 +593,10 @@ export const App: React.FC = () => {
           <Disclaimer />
         ) : currentView === 'privacy' ? (
           <PrivacyPolicy />
+        ) : currentView === 'blog-directory' ? (
+          <BlogDirectory onSelectPost={(id) => navigateTo('blog-view', null, null, false, null, id)} />
+        ) : currentView === 'blog-view' && selectedBlogId ? (
+          <BlogDetail postId={selectedBlogId} onBack={() => navigateTo('blog-directory', null, null, false)} />
         ) : currentView === 'state-directory' ? (
           <StateDirectory onSelectState={(code) => navigateTo('state-view', null, null, false, code)} />
         ) : currentView === 'state-view' && selectedStateCode ? (
@@ -792,6 +837,20 @@ export const App: React.FC = () => {
                       onClick={() => { navigateTo('state-view', null, null, false, 'bihar'); window.scrollTo(0, 0); }}
                     >
                       🚩 Bihar Jobs
+                    </button>
+                  </li>
+                </ul>
+              </div>
+
+              <div style={{ marginTop: '1.5rem', borderTop: '1px solid var(--border-color)', paddingTop: '1.5rem' }}>
+                <h3 className="drawer-section-title">Career Corner</h3>
+                <ul className="drawer-list">
+                  <li>
+                    <button
+                      className={`drawer-item ${currentView === 'blog-directory' || currentView === 'blog-view' ? 'active' : ''}`}
+                      onClick={() => { navigateTo('blog-directory', null, null, false); window.scrollTo(0, 0); }}
+                    >
+                      ✍️ Sarkari Aavedan Blog
                     </button>
                   </li>
                 </ul>

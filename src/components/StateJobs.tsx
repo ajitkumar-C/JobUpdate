@@ -30,9 +30,10 @@ interface StateJobsProps {
 
 // ─── Detail Panel Component ───────────────────────────────────────────────────
 
-const JobDetailPanel: React.FC<{ job: StateJob; accentColor: string; accentDark: string; onClose: () => void }> = ({
-  job, accentColor, accentDark, onClose
+const JobDetailPanel: React.FC<{ job: StateJob; stateCode: string; accentColor: string; accentDark: string; onClose: () => void }> = ({
+  job, stateCode, accentColor, accentDark, onClose
 }) => {
+  const isMH = stateCode === 'mh';
   // Determine which links are available
   const hasOfficialSite = !!job.officialWebsite;
   const hasNotification = !!job.notificationLink;
@@ -67,8 +68,8 @@ const JobDetailPanel: React.FC<{ job: StateJob; accentColor: string; accentDark:
           {/* Title */}
           <h2 className="state-detail-title">{job.title}</h2>
 
-          {/* Marathi category */}
-          <p className="state-detail-marathi">{job.categoryMarathi}</p>
+          {/* Category Subtitle */}
+          {isMH && <p className="state-detail-marathi">{job.categoryMarathi}</p>}
 
           {/* Short info */}
           {job.shortInfo && (
@@ -89,7 +90,7 @@ const JobDetailPanel: React.FC<{ job: StateJob; accentColor: string; accentDark:
             )}
             <div className="state-detail-meta-item">
               <span className="state-detail-meta-label">📍 District / Location</span>
-              <span className="state-detail-meta-value">{job.district}, Maharashtra</span>
+              <span className="state-detail-meta-value">{job.district}, {isMH ? 'Maharashtra' : job.state}</span>
             </div>
             <div className="state-detail-meta-item">
               <span className="state-detail-meta-label">🗓️ Job Posted on</span>
@@ -100,7 +101,7 @@ const JobDetailPanel: React.FC<{ job: StateJob; accentColor: string; accentDark:
           {/* Official Links Section */}
           <div className="state-detail-links-section">
             <h3 className="state-detail-links-title">
-              🔗 Important Links / महत्त्वाचे दुवे
+              {isMH ? '🔗 Important Links / महत्त्वाचे दुवे' : '🔗 Important Links'}
             </h3>
 
             {hasAnyLink ? (
@@ -114,7 +115,7 @@ const JobDetailPanel: React.FC<{ job: StateJob; accentColor: string; accentDark:
                     style={{ background: `linear-gradient(135deg, ${accentColor}, ${accentDark})` }}
                   >
                     <ExternalLink size={15} />
-                    <span>Apply Online / ऑनलाइन अर्ज</span>
+                    <span>{isMH ? 'Apply Online / ऑनलाइन अर्ज' : 'Apply Online'}</span>
                   </a>
                 )}
                 {hasNotification && (
@@ -125,7 +126,7 @@ const JobDetailPanel: React.FC<{ job: StateJob; accentColor: string; accentDark:
                     className="state-link-btn state-link-btn-secondary"
                   >
                     <FileText size={15} />
-                    <span>Official Notification / अधिकृत जाहिरात</span>
+                    <span>{isMH ? 'Official Notification / अधिकृत जाहिरात' : 'Official Notification'}</span>
                   </a>
                 )}
                 {hasOfficialSite && (
@@ -136,14 +137,16 @@ const JobDetailPanel: React.FC<{ job: StateJob; accentColor: string; accentDark:
                     className="state-link-btn state-link-btn-outline"
                   >
                     <Globe size={15} />
-                    <span>Official Website / अधिकृत संकेतस्थळ</span>
+                    <span>{isMH ? 'Official Website / अधिकृत संकेतस्थळ' : 'Official Website'}</span>
                   </a>
                 )}
               </div>
             ) : (
               <p className="state-detail-no-links">
-                Official links will be available once the recruitment is officially announced.
-                अधिकृत दुवे लवकरच उपलब्ध होतील.
+                {isMH 
+                  ? 'Official links will be available once the recruitment is officially announced. अधिकृत दुवे लवकरच उपलब्ध होतील.'
+                  : 'Official links will be available once the recruitment is officially announced.'
+                }
               </p>
             )}
           </div>
@@ -158,7 +161,7 @@ const JobDetailPanel: React.FC<{ job: StateJob; accentColor: string; accentDark:
         {/* Highlighted Close Button */}
         <div className="state-detail-footer-close">
           <button onClick={onClose} className="state-detail-close-btn">
-            Close Details / बंद करा
+            {isMH ? 'Close Details / बंद करा' : 'Close Details'}
           </button>
         </div>
       </div>
@@ -170,6 +173,7 @@ const JobDetailPanel: React.FC<{ job: StateJob; accentColor: string; accentDark:
 
 export const StateJobs: React.FC<StateJobsProps> = ({ stateCode }) => {
   const config = getStateConfig(stateCode);
+  const isMH = stateCode === 'mh';
 
   const [jobs, setJobs] = useState<StateJob[]>([]);
   const [loading, setLoading] = useState(true);
@@ -219,16 +223,21 @@ export const StateJobs: React.FC<StateJobsProps> = ({ stateCode }) => {
       {/* Hero Banner */}
       <div className="state-hero" style={{ background: config.heroGradient }}>
         <div className="state-hero-inner">
-          <div className="state-hero-badge">🌏 {config.nameLocal}</div>
+          <div className="state-hero-badge">🌏 {isMH ? config.nameLocal : config.name}</div>
           <h1 className="state-hero-title">
             {config.name} Govt Jobs 2026
-            <span className="state-hero-title-local">{config.nameLocal} सरकारी नोकऱ्या</span>
+            {isMH && <span className="state-hero-title-local">{config.nameLocal} सरकारी नोकऱ्या</span>}
           </h1>
-          <p className="state-hero-desc">{config.seoDescription}</p>
+          <p className="state-hero-desc">
+            {isMH 
+              ? config.seoDescription
+              : `Find the latest government job notifications, admit cards, exam schedules and results in ${config.name} for 2026.`
+            }
+          </p>
           <div className="state-search-bar">
             <input
               type="text"
-              placeholder={`नोकरी शोधा / Search ${config.name} jobs, district...`}
+              placeholder={isMH ? `नोकरी शोधा / Search ${config.name} jobs, district...` : `Search ${config.name} jobs...`}
               value={searchTerm}
               onChange={e => setSearchTerm(e.target.value)}
               className="state-search-input"
@@ -271,11 +280,11 @@ export const StateJobs: React.FC<StateJobsProps> = ({ stateCode }) => {
         {loading ? (
           <div className="state-loading">
             <div className="state-loading-spinner" style={{ borderTopColor: config.accentColor }} />
-            <p>भरती जाहिराती लोड होत आहेत...</p>
+            <p>{isMH ? 'भरती जाहिराती लोड होत आहेत...' : 'Loading job openings...'}</p>
           </div>
         ) : filtered.length === 0 ? (
           <div className="state-empty">
-            <p>कोणत्याही भरत्या सापडल्या नाहीत / No listings found.</p>
+            <p>{isMH ? 'कोणत्याही भरत्या सापडल्या नाहीत / No listings found.' : 'No job listings found.'}</p>
           </div>
         ) : (
           <div className="state-grid">
@@ -310,9 +319,11 @@ export const StateJobs: React.FC<StateJobsProps> = ({ stateCode }) => {
                   <span className="state-card-meta-item">
                     <MapPin size={11} /> {job.district}
                   </span>
-                  <span className="state-card-meta-item">
-                    <Building2 size={11} /> {job.categoryMarathi}
-                  </span>
+                  {isMH && (
+                    <span className="state-card-meta-item">
+                      <Building2 size={11} /> {job.categoryMarathi}
+                    </span>
+                  )}
                   {job.lastDate && (
                     <span className="state-card-meta-item" style={{ color: 'var(--danger, #dc2626)', fontWeight: 600 }}>
                       📅 Last: {job.lastDate}
@@ -326,7 +337,7 @@ export const StateJobs: React.FC<StateJobsProps> = ({ stateCode }) => {
                     style={{ background: `linear-gradient(135deg, ${config.accentColor}, ${config.accentColorDark})` }}
                     onClick={e => { e.stopPropagation(); setSelectedJob(job); }}
                   >
-                    <span>View Details / तपशील पहा</span>
+                    <span>{isMH ? 'View Details / तपशील पहा' : 'View Details'}</span>
                     <ExternalLink size={13} />
                   </button>
                 </div>
@@ -337,7 +348,7 @@ export const StateJobs: React.FC<StateJobsProps> = ({ stateCode }) => {
 
         {/* SEO Rich Content Section */}
         <section className="state-seo-section">
-          <h2>{config.name} सरकारी नोकऱ्या 2026 — {config.name} Govt Jobs</h2>
+          <h2>{isMH ? `${config.name} सरकारी नोकऱ्या 2026 — ${config.name} Govt Jobs` : `${config.name} Government Jobs 2026`}</h2>
           <div className="state-seo-grid">
             {config.infoBlocks.map((block, i) => (
               <div key={i}>
@@ -349,7 +360,7 @@ export const StateJobs: React.FC<StateJobsProps> = ({ stateCode }) => {
           <p className="state-seo-disclaimer">
             <strong>Disclaimer:</strong> Sarkari Aavedan aggregates public recruitment notifications.
             Always verify details on official government portals before applying.
-            आम्ही सरकारी जाहिरातींची माहिती एकत्रित करतो. अर्ज करण्यापूर्वी अधिकृत संकेतस्थळावर माहिती तपासा.
+            {isMH && ' आम्ही सरकारी जाहिरातींची माहिती एकत्रित करतो. अर्ज करण्यापूर्वी अधिकृत संकेतस्थळावर माहिती तपासा.'}
           </p>
         </section>
       </div>
@@ -358,6 +369,7 @@ export const StateJobs: React.FC<StateJobsProps> = ({ stateCode }) => {
       {selectedJob && (
         <JobDetailPanel
           job={selectedJob}
+          stateCode={stateCode}
           accentColor={config.accentColor}
           accentDark={config.accentColorDark}
           onClose={() => setSelectedJob(null)}

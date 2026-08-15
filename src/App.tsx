@@ -13,17 +13,30 @@ import { updateSEO } from './utils/seo';
 import { CategorySeoInfo } from './components/CategorySeoInfo';
 import './App.css';
 export const generateJobSlug = (title: string, category: string): string => {
-  const cleanTitle = (title || '')
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/(^-|-$)/g, '');
   const cleanCategory = (category || 'job')
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/(^-|-$)/g, '');
 
-  const truncatedTitle = cleanTitle.substring(0, 120).replace(/-$/, '');
-  return `${cleanCategory}-${truncatedTitle}`;
+  let titleSlug = (title || '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/(^-|-$)/g, '');
+
+  const words = titleSlug.split('-');
+  const stopWords = new Set([
+    'apply', 'online', 'for', 'post', 'posts', 'recruitment', 'form', 
+    'registration', 'vacancy', 'vacancies', 'notification', 'alert', 
+    'free', 'admit-card', 'result', 'syllabus', 'exam', 'admission',
+    'certificate', 'outsourcing', 'offline', 'important', 'and', 'with', 
+    'the', 'in', 'of', 'at', 'on', 'to', 'by', 'an', 'a', 'is'
+  ]);
+
+  const cleanWords = words.filter(w => w.length > 0 && !stopWords.has(w));
+  const finalWords = cleanWords.slice(0, 6);
+
+  const finalTitle = finalWords.length > 0 ? finalWords.join('-') : words.slice(0, 5).join('-');
+  return `${cleanCategory}-${finalTitle}`;
 };
 
 export const App: React.FC = () => {
@@ -149,11 +162,29 @@ export const App: React.FC = () => {
     if (selectedJobId && jobs.length > 0) {
       const exactMatch = jobs.find(j => j.id === selectedJobId);
       if (!exactMatch) {
-        // Look for a job where the ID starts with the requested ID (legacy 50-char slug prefix match)
-        const prefixMatch = jobs.find(j => j.id.startsWith(selectedJobId) || selectedJobId.startsWith(j.id));
-        if (prefixMatch) {
-          console.log(`Redirecting legacy slug "${selectedJobId}" to new unique slug "${prefixMatch.id}"`);
-          navigateTo('home', null, prefixMatch.id, false);
+        // Try token overlap fuzzy matching to gracefully redirect old long slugs to new simplified slugs
+        const reqTokens = selectedJobId.toLowerCase().split('-');
+        let bestMatch = null;
+        let highestOverlapCount = 0;
+
+        for (const job of jobs) {
+          const jobTokens = job.id.toLowerCase().split('-');
+          let overlapCount = 0;
+          for (const t of jobTokens) {
+            if (reqTokens.includes(t)) {
+              overlapCount++;
+            }
+          }
+          // Match on at least 3 key tokens to prevent wrong redirects
+          if (overlapCount > highestOverlapCount && overlapCount >= 3) {
+            highestOverlapCount = overlapCount;
+            bestMatch = job;
+          }
+        }
+
+        if (bestMatch) {
+          console.log(`Redirecting legacy slug "${selectedJobId}" to new optimized slug "${bestMatch.id}"`);
+          navigateTo('home', null, bestMatch.id, false);
         }
       }
     }

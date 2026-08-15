@@ -396,11 +396,30 @@ async function scrapeSarkariPortal() {
 
 
             // Build job posting object
-            const titleSlug = (title || item.rawTitle)
+            const cleanCategory = item.category
               .toLowerCase()
               .replace(/[^a-z0-9]+/g, '-')
               .replace(/(^-|-$)/g, '');
-            const jobId = `${item.category.toLowerCase().replace(/[^a-z0-9]+/g, '-')}-${titleSlug.substring(0, 120)}`;
+
+            let titleSlug = (title || item.rawTitle)
+              .toLowerCase()
+              .replace(/[^a-z0-9]+/g, '-')
+              .replace(/(^-|-$)/g, '');
+
+            const words = titleSlug.split('-');
+            const stopWords = new Set([
+              'apply', 'online', 'for', 'post', 'posts', 'recruitment', 'form', 
+              'registration', 'vacancy', 'vacancies', 'notification', 'alert', 
+              'free', 'admit-card', 'result', 'syllabus', 'exam', 'admission',
+              'certificate', 'outsourcing', 'offline', 'important', 'and', 'with', 
+              'the', 'in', 'of', 'at', 'on', 'to', 'by', 'an', 'a', 'is'
+            ]);
+
+            const cleanWords = words.filter(w => w.length > 0 && !stopWords.has(w));
+            const finalWords = cleanWords.slice(0, 6);
+            const finalTitle = finalWords.length > 0 ? finalWords.join('-') : words.slice(0, 5).join('-');
+            
+            const jobId = `${cleanCategory}-${finalTitle}`;
 
             const job = {
               id: jobId,

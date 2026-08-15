@@ -24,7 +24,8 @@ function getCategorySlug(categoryName: string): string {
 export function updateSEO(
   job?: any | null,
   categoryName?: string | null,
-  pageName?: string | null
+  pageName?: string | null,
+  blogPost?: any | null
 ) {
   if (typeof window === 'undefined') return;
 
@@ -48,7 +49,124 @@ export function updateSEO(
   removeSchemaScript('seo-job-schema');
 
   // 3. Process dynamic route contexts
-  if (job) {
+  if (blogPost) {
+    // Blog Post Detail View
+    finalTitle = `${blogPost.title} - Sarkari Aavedan (सरकारी आवेदन)`;
+    finalDesc = blogPost.summary || (blogPost.content || '').substring(0, 155);
+    if (blogPost.keywords && Array.isArray(blogPost.keywords)) {
+      finalKeywords = blogPost.keywords.join(', ');
+    } else {
+      finalKeywords = 'sarkari blog, career details, eligibility guidelines, exam pattern';
+    }
+    canonicalUrl = `https://sarkariavedan.info/blog/${blogPost.id}`;
+
+    // Inject BlogPosting Schema
+    const blogSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'BlogPosting',
+      'headline': blogPost.title,
+      'description': blogPost.summary,
+      'image': blogPost.image ? `https://sarkariavedan.info${blogPost.image}` : 'https://sarkariavedan.info/favicon.svg',
+      'author': {
+        '@type': 'Organization',
+        'name': 'Sarkari Aavedan'
+      },
+      'publisher': {
+        '@type': 'Organization',
+        'name': 'Sarkari Aavedan',
+        'logo': {
+          '@type': 'ImageObject',
+          'url': 'https://sarkariavedan.info/favicon.svg'
+        }
+      },
+      'datePublished': blogPost.publishedDate || new Date().toISOString().split('T')[0],
+      'url': canonicalUrl
+    };
+
+    const mainScript = document.createElement('script');
+    mainScript.id = 'seo-main-schema';
+    mainScript.type = 'application/ld+json';
+    mainScript.text = JSON.stringify(blogSchema, null, 2);
+    document.head.appendChild(mainScript);
+
+    // Inject Blog Breadcrumb Schema
+    const breadcrumbData = {
+      '@context': 'https://schema.org',
+      '@type': 'BreadcrumbList',
+      'itemListElement': [
+        {
+          '@type': 'ListItem',
+          'position': 1,
+          'name': 'Home',
+          'item': 'https://sarkariavedan.info/'
+        },
+        {
+          '@type': 'ListItem',
+          'position': 2,
+          'name': 'Blog',
+          'item': 'https://sarkariavedan.info/blog'
+        },
+        {
+          '@type': 'ListItem',
+          'position': 3,
+          'name': blogPost.title,
+          'item': canonicalUrl
+        }
+      ]
+    };
+    const breadcrumbScript = document.createElement('script');
+    breadcrumbScript.id = 'seo-breadcrumb-schema';
+    breadcrumbScript.type = 'application/ld+json';
+    breadcrumbScript.text = JSON.stringify(breadcrumbData, null, 2);
+    document.head.appendChild(breadcrumbScript);
+
+  } else if (pageName === 'blog-directory') {
+    // Blog Directory View
+    finalTitle = 'Sarkari Aavedan Blog | Career Guides & Exam Preparation';
+    finalDesc = 'Read comprehensive, expert-reviewed career blueprints, eligibility guidelines, age relaxation charts, and syllabus patterns for defense and engineering exams.';
+    finalKeywords = 'sarkari aavedan blog, career guides, army eligibility, navy recruitment, ssc preparation, gate exam pattern, neet strategy';
+    canonicalUrl = 'https://sarkariavedan.info/blog';
+
+    // Inject CollectionPage Schema
+    const collectionSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'CollectionPage',
+      'name': finalTitle,
+      'description': finalDesc,
+      'url': canonicalUrl
+    };
+    const mainScript = document.createElement('script');
+    mainScript.id = 'seo-main-schema';
+    mainScript.type = 'application/ld+json';
+    mainScript.text = JSON.stringify(collectionSchema, null, 2);
+    document.head.appendChild(mainScript);
+
+    // Inject Category Breadcrumb Schema
+    const breadcrumbData = {
+      '@context': 'https://schema.org',
+      '@type': 'BreadcrumbList',
+      'itemListElement': [
+        {
+          '@type': 'ListItem',
+          'position': 1,
+          'name': 'Home',
+          'item': 'https://sarkariavedan.info/'
+        },
+        {
+          '@type': 'ListItem',
+          'position': 2,
+          'name': 'Blog',
+          'item': canonicalUrl
+        }
+      ]
+    };
+    const breadcrumbScript = document.createElement('script');
+    breadcrumbScript.id = 'seo-breadcrumb-schema';
+    breadcrumbScript.type = 'application/ld+json';
+    breadcrumbScript.text = JSON.stringify(breadcrumbData, null, 2);
+    document.head.appendChild(breadcrumbScript);
+
+  } else if (job) {
     // A. Job Detail View
     finalTitle = `${job.title} - Apply Online | सरकारी आवेदन`;
     finalDesc = `${(job.shortInfo || '').substring(0, 155)}...`;

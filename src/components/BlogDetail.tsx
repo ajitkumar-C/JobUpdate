@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { ArrowLeft, Calendar, Clock, Tag } from 'lucide-react';
+import { updateSEO } from '../utils/seo';
 
 interface BlogPostFull {
   id: string;
@@ -31,24 +32,72 @@ const renderMarkdown = (text: string) => {
   let inTable = false;
   let keyCounter = 0;
 
-  const parseInlineMarkdown = (line: string): React.ReactNode => {
-    // Bold matches: **text**
-    const boldRegex = /\*\*(.*?)\*\*/g;
-    const parts = [];
-    let lastIndex = 0;
-    let match;
-
-    while ((match = boldRegex.exec(line)) !== null) {
-      if (match.index > lastIndex) {
-        parts.push(line.substring(lastIndex, match.index));
+  const parseInlineMarkdown = (line: string, isTableCell = false): React.ReactNode => {
+    // If it's a table cell and is purely a link: [Text](URL)
+    const pureLinkMatch = /^\[(.*?)\]\((.*?)\)$/.exec(line.trim());
+    if (pureLinkMatch && isTableCell) {
+      const text = pureLinkMatch[1];
+      const url = pureLinkMatch[2];
+      let btnClass = 'blog-table-btn';
+      const cleanText = text.toLowerCase();
+      if (cleanText.includes('official website') || cleanText.includes('official site')) {
+        btnClass += ' btn-blue';
+      } else if (cleanText.includes('notification')) {
+        btnClass += ' btn-orange';
+      } else if (cleanText.includes('apply')) {
+        btnClass += ' btn-green';
+      } else if (cleanText.includes('admit')) {
+        btnClass += ' btn-purple';
+      } else if (cleanText.includes('result')) {
+        btnClass += ' btn-red';
+      } else {
+        btnClass += ' btn-default';
       }
-      parts.push(<strong key={`b-${match.index}`}>{match[1]}</strong>);
-      lastIndex = boldRegex.lastIndex;
+      return (
+        <a 
+          href={url} 
+          target="_blank" 
+          rel="noopener noreferrer" 
+          className={btnClass}
+        >
+          {text}
+        </a>
+      );
     }
-    if (lastIndex < line.length) {
-      parts.push(line.substring(lastIndex));
+
+    // Normal regex split to parse bold and links
+    const regex = /(\*\*.*?\*\*|\[.*?\]\(.*?\))/g;
+    const parts = line.split(regex);
+    if (parts.length === 1 && !line.includes('**') && !line.includes('](')) {
+      return line;
     }
-    return parts.length > 0 ? <>{parts}</> : line;
+    
+    return (
+      <>
+        {parts.map((part, index) => {
+          if (part.startsWith('**') && part.endsWith('**')) {
+            return <strong key={index}>{part.slice(2, -2)}</strong>;
+          }
+          if (part.startsWith('[') && part.includes('](')) {
+            const linkMatch = /^\[(.*?)\]\((.*?)\)$/.exec(part);
+            if (linkMatch) {
+              return (
+                <a 
+                  key={index} 
+                  href={linkMatch[2]} 
+                  target="_blank" 
+                  rel="noopener noreferrer" 
+                  className={isTableCell ? 'blog-table-btn btn-default' : 'blog-inline-link'}
+                >
+                  {linkMatch[1]}
+                </a>
+              );
+            }
+          }
+          return part;
+        })}
+      </>
+    );
   };
 
   const flushList = () => {
@@ -88,7 +137,7 @@ const renderMarkdown = (text: string) => {
     if (line.startsWith('|')) {
       flushList();
       inTable = true;
-      const cells = line.split('|').slice(1, -1).map(c => parseInlineMarkdown(c.trim()));
+      const cells = line.split('|').slice(1, -1).map(c => parseInlineMarkdown(c.trim(), true));
       
       // Skip separator row: |---|---|
       if (line.includes('---')) {
@@ -166,6 +215,7 @@ export const BlogDetail: React.FC<BlogDetailProps> = ({ postId, onBack }) => {
       .then((data: BlogPostFull) => {
         setPost(data);
         setLoading(false);
+        updateSEO(null, null, 'blog-view', data);
       })
       .catch(() => setLoading(false));
 

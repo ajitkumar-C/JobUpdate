@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Search, Calendar, User, Clock, ArrowRight } from 'lucide-react';
+import { updateSEO } from '../utils/seo';
 
 export interface BlogPostMeta {
   id: string;
@@ -32,8 +33,12 @@ export const BlogDirectory: React.FC<BlogDirectoryProps> = ({ onSelectPost }) =>
       .then((data: BlogPostMeta[]) => {
         setPosts(data);
         setLoading(false);
+        updateSEO(null, null, 'blog-directory');
       })
-      .catch(() => setLoading(false));
+      .catch(() => {
+        setLoading(false);
+        updateSEO(null, null, 'blog-directory');
+      });
   }, []);
 
   const filtered = posts.filter(post => {

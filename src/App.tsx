@@ -197,6 +197,9 @@ export const App: React.FC = () => {
 
   // --- SEO Injections Effect ---
   useEffect(() => {
+    if (currentView === 'blog-directory' || currentView === 'blog-view') {
+      return; // Handled internally by BlogDirectory and BlogDetail components
+    }
     const activeCategory = categories.find(c => c.id === selectedCategoryCode);
     const categoryName = activeCategory ? activeCategory.name : null;
     const selectedJob = jobs.find(j => j.id === selectedJobId) || null;

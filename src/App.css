@@ -2820,6 +2820,83 @@ textarea.form-control {
   .blog-detail-title { font-size: 1.6rem; }
 }
 
+/* Blog Table Buttons & Inline Links */
+.blog-table-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.45rem 1.1rem;
+  font-size: 0.82rem;
+  font-weight: 700;
+  border-radius: 6px;
+  text-decoration: none !important;
+  color: #ffffff !important;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  transition: background-color 0.18s, transform 0.15s, box-shadow 0.15s;
+  cursor: pointer;
+  border: none;
+  white-space: nowrap;
+}
+.blog-table-btn:hover {
+  transform: translateY(-1.5px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+.blog-table-btn:active {
+  transform: translateY(0);
+  box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+}
+
+.blog-table-btn.btn-blue {
+  background-color: #1e3c72;
+}
+.blog-table-btn.btn-blue:hover {
+  background-color: #2a5298;
+}
+
+.blog-table-btn.btn-orange {
+  background-color: #e65100;
+}
+.blog-table-btn.btn-orange:hover {
+  background-color: #f57c00;
+}
+
+.blog-table-btn.btn-green {
+  background-color: #2e7d32;
+}
+.blog-table-btn.btn-green:hover {
+  background-color: #388e3c;
+}
+
+.blog-table-btn.btn-purple {
+  background-color: #6a1b9a;
+}
+.blog-table-btn.btn-purple:hover {
+  background-color: #7b1fa2;
+}
+
+.blog-table-btn.btn-red {
+  background-color: #c62828;
+}
+.blog-table-btn.btn-red:hover {
+  background-color: #d32f2f;
+}
+
+.blog-table-btn.btn-default {
+  background-color: #37474f;
+}
+.blog-table-btn.btn-default:hover {
+  background-color: #455a64;
+}
+
+.blog-inline-link {
+  color: #1565c0;
+  text-decoration: underline;
+  font-weight: 600;
+}
+.blog-inline-link:hover {
+  color: #0d47a1;
+}
+
 
 
 

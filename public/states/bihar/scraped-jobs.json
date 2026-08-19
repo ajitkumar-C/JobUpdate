@@ -1,5 +1,109 @@
 [
   {
+    "id": "bihar-bpsc-teacher-primary-secondary-higher-secondary-tre-4-0",
+    "title": "BPSC Recruitment 2026 – Teacher (Primary, Secondary, Higher Secondary) - TRE 4.0 Posts",
+    "shortInfo": "BPSC has announced notification for Teacher (Primary, Secondary, Higher Secondary) - TRE 4.0 posts. Required qualification: Graduation/Post Graduation with B.Ed/D.El.Ed; BTET/CTET qualified. Last date to apply: 30-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "32388",
+    "lastDate": "30-09-26",
+    "officialWebsite": "https://www.bpsc.bihar.gov.in",
+    "notificationLink": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Advertisement-142026-TRE-4.0_BPSC-20260818-jwk5si.pdf",
+    "applyOnlineLink": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Districtwise-Vacancies-Class-1-to-5_BPSC-20260818-smxlit.pdf",
+    "state": "Bihar",
+    "stateCode": "bihar",
+    "scrapedAt": "2026-08-19",
+    "fees": [
+      {
+        "category": "General/Unreserved/OBC/Other State",
+        "fee": "Rs. 100"
+      },
+      {
+        "category": "SC/ST/PH",
+        "fee": "Rs. 100"
+      },
+      {
+        "category": "Biometric Fee",
+        "fee": "Rs. 200"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Application Start Date",
+        "date": "01/09/2026"
+      },
+      {
+        "event": "Last Date Payment of Fee",
+        "date": "29/09/2026"
+      },
+      {
+        "event": "Last Date to Apply Online",
+        "date": "30/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Primary Teacher (Class 1-5)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Primary Teacher (Class 6-8)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Secondary Teacher (Class 9-10)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Higher Secondary Teacher (Class 11-12)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official BPSC website: https://bpsc.bihar.gov.in",
+      "Complete One Time Registration (OTR) at https://bpsconline.bihar.gov.in",
+      "Click on ‘New User Registration’ button for new users.",
+      "Fill in personal, address, qualification and experience details in the profile.",
+      "Upload photo and signature and lock the profile.",
+      "Go to Active Advertisements and click ‘Pay Fees’ button.",
+      "Pay the application fee online through SBI Payment Gateway.",
+      "After successful payment, click ‘Apply’ and fill the Application Form.",
+      "Submit the Application Form and take a printout for future reference.",
+      "Link Digilocker account via OAMS for document verification."
+    ]
+  },
+  {
+    "id": "bihar-igims-data-entry-operator-senior-resident",
+    "title": "IGIMS Recruitment 2026 – Data Entry Operator, Senior Resident Posts",
+    "shortInfo": "IGIMS has announced notification for Data Entry Operator, Senior Resident posts. Required qualification: MSW, M.Sc, Diploma, MS/MD, B.Tech/B.E, M.A, M.Phil/Ph.D, MCA. Last date to apply: 04-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "5",
+    "lastDate": "04-09-26",
+    "officialWebsite": "https://www.igims.org/resources/uploads/TenderManagement/178636620796.pdf",
+    "notificationLink": "https://www.igims.org/resources/uploads/TenderManagement/178636620796.pdf",
+    "applyOnlineLink": "https://www.igims.org/resources/uploads/TenderManagement/178636620796.pdf",
+    "state": "Bihar",
+    "stateCode": "bihar",
+    "scrapedAt": "2026-08-19"
+  },
+  {
     "id": "bihar-dlsa sheikhpura-para-legal-volunteer",
     "title": "DLSA Sheikhpura Recruitment 2026 – Para Legal Volunteer Posts",
     "shortInfo": "DLSA Sheikhpura has announced notification for Para Legal Volunteer posts. Required qualification: 10TH. Last date to apply: 11-09-26.",
@@ -14,7 +118,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/dlsa-sheikhpura-para-legal-volunteer-recruitment-2026/",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "Fee",
@@ -63,7 +167,7 @@
     "applyOnlineLink": "https://api.aiimspatna.edu.in/advertisement/project-tecnician-AIIMSPATVRDL2026125-10082026.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "bihar-mgcu-graduate-apprentice",
@@ -80,7 +184,7 @@
     "applyOnlineLink": "https://www.mgcub.ac.in/storage/content_files/1786440843_NATS_MGCU_Vacancy%20Advertisement_final.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "bihar-aiims patna-executive-engineer-security-officer",
@@ -97,7 +201,7 @@
     "applyOnlineLink": "https://api.aiimspatna.edu.in/advertisement/Deputation-Advertisement-and-Application-Form-11082026.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "bihar-sbi-clerk-junior-associate-",
@@ -114,7 +218,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/sbijasrdjl26/",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "SC/ST/PwBD/XS/DXS",
@@ -179,7 +283,7 @@
     "applyOnlineLink": "https://healthhrshs.bihar.gov.in/specialistdoctor0326/",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "Fee",
@@ -270,7 +374,7 @@
     "applyOnlineLink": "https://api.aiimspatna.edu.in/advertisement/advertisment-for-various-posts-under-TB-Ayush-project-06082026.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "bihar-esic-advocate",
@@ -287,24 +391,7 @@
     "applyOnlineLink": "https://esic.gov.in/attachments/recruitmentfile/ADVERTISEMENT_FOR_INVITING_APPLICATIONS_FOR_EMPANELMENT_OF_ADVOCATES_TO_REPRESENT_ESIC_REGIONAL_OFFICE_BIHAR_1785925426.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-08-17"
-  },
-  {
-    "id": "bihar-manuu-electrician-caretaker-plumber",
-    "title": "MANUU Recruitment 2026 – Electrician, Caretaker, Plumber Posts",
-    "shortInfo": "MANUU has announced notification for Electrician, Caretaker, Plumber posts. Required qualification: ITI, Any Graduate. Last date to apply: 11-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "10",
-    "lastDate": "11-08-26",
-    "officialWebsite": "https://manuu.edu.in/sites/default/files/Notification/2026-08/Walk%20in%20interview%20for%20Caretakers%2C%20Electrician%20and%20Plumber.pdf",
-    "notificationLink": "https://manuu.edu.in/sites/default/files/Notification/2026-08/Walk%20in%20interview%20for%20Caretakers%2C%20Electrician%20and%20Plumber.pdf",
-    "applyOnlineLink": "https://manuu.edu.in/sites/default/files/Notification/2026-08/Walk%20in%20interview%20for%20Caretakers%2C%20Electrician%20and%20Plumber.pdf",
-    "state": "Bihar",
-    "stateCode": "bihar",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "bihar-nalanda university-non-teaching",
@@ -321,7 +408,7 @@
     "applyOnlineLink": "https://nalandauniv.edu.in/wp-content/uploads/2026/08/3.-Recruitment-Notice-PDF-03.08.2026.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "bihar-sjvn-chief-general-manager-deputy-manager-engineer",
@@ -338,7 +425,7 @@
     "applyOnlineLink": "https://recruitment.sjvn.co.in/ErecruitLogin/Login.jsp",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "General/OBC (NCL)/EWS (Non-Exempted)",
@@ -454,7 +541,7 @@
     "applyOnlineLink": "https://nats.education.gov.in",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "Fee",
@@ -498,23 +585,6 @@
     ]
   },
   {
-    "id": "bihar-dcpu jamui-support-person",
-    "title": "DCPU Jamui Recruitment 2026 – Support Person Posts",
-    "shortInfo": "DCPU Jamui has announced notification for Support Person posts. Required qualification: MSW, Diploma. Last date to apply: 16-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "15",
-    "lastDate": "16-08-26",
-    "officialWebsite": "https://cdn.s3waas.gov.in/s337bc2f75bf1bcfe8450a1a41c200364c/uploads/2026/07/17853230473449.pdf",
-    "notificationLink": "https://cdn.s3waas.gov.in/s337bc2f75bf1bcfe8450a1a41c200364c/uploads/2026/07/17853230473449.pdf",
-    "applyOnlineLink": "https://cdn.s3waas.gov.in/s337bc2f75bf1bcfe8450a1a41c200364c/uploads/2026/07/17853230473449.pdf",
-    "state": "Bihar",
-    "stateCode": "bihar",
-    "scrapedAt": "2026-08-17"
-  },
-  {
     "id": "bihar-aai-graduate-apprentice-diploma-apprentice-iti-apprent",
     "title": "AAI Recruitment 2026 – Graduate Apprentice, Diploma Apprentice, ITI Apprentice Posts",
     "shortInfo": "AAI has announced notification for Graduate Apprentice, Diploma Apprentice, ITI Apprentice posts. Required qualification: Graduate Degree / Diploma / ITI. Last date to apply: Update.",
@@ -529,7 +599,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [],
     "dates": [
       {
@@ -587,7 +657,7 @@
     "applyOnlineLink": "https://cdn.digialm.com/EForms/configuredHtml/1149/101044/Index.html",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "Unreserved / BC / EBC / EWS",
@@ -687,7 +757,7 @@
     "applyOnlineLink": "https://btsc.pariksha.nic.in/Agencies.aspx?KZhCrm9B4QPkl0gO2rAMuw==",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "General/Unreserved",
@@ -741,24 +811,7 @@
     "applyOnlineLink": "https://btsc.bihar.gov.in/sites/default/files/circulars/Notice_No_2144_Technician%20%28Bench%20Chemist%29.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-08-17"
-  },
-  {
-    "id": "bihar-dcpu sheohar-support-person",
-    "title": "DCPU Sheohar Recruitment 2026 – Support Person Posts",
-    "shortInfo": "DCPU Sheohar has announced notification for Support Person posts. Required qualification: MSW. Last date to apply: 16-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "5",
-    "lastDate": "16-08-26",
-    "officialWebsite": "https://cdn.s3waas.gov.in/s34f6ffe13a5d75b2d6a3923922b3922e5/uploads/2026/07/17842834183900.pdf",
-    "notificationLink": "https://cdn.s3waas.gov.in/s34f6ffe13a5d75b2d6a3923922b3922e5/uploads/2026/07/17842834183900.pdf",
-    "applyOnlineLink": "https://cdn.s3waas.gov.in/s34f6ffe13a5d75b2d6a3923922b3922e5/uploads/2026/07/17842834183900.pdf",
-    "state": "Bihar",
-    "stateCode": "bihar",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "bihar-railway nfr-act-apprentices",
@@ -775,7 +828,7 @@
     "applyOnlineLink": "https://app.nfr-recruitment.in/#/auth/landing",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "General/OBC/EWS (Male)",
@@ -875,64 +928,6 @@
     ]
   },
   {
-    "id": "bihar-bpssc-forest-range-officer",
-    "title": "BPSSC Recruitment 2026 – Forest Range Officer Posts",
-    "shortInfo": "BPSSC has announced notification for Forest Range Officer posts. Required qualification: Bachelor's degree in relevant fields. Last date to apply: 16-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "16",
-    "lastDate": "16-08-26",
-    "officialWebsite": "https://bpssc.bihar.gov.in",
-    "notificationLink": "https://bpssc.bihar.gov.in/Notices/EFC/Advt.%20No-10-2026%20FRO.pdf",
-    "applyOnlineLink": "https://apply-bpssc.com/bpssc_ro_v10_2026/applicationIndex",
-    "state": "Bihar",
-    "stateCode": "bihar",
-    "scrapedAt": "2026-08-17",
-    "fees": [
-      {
-        "category": "All Categories (Male/Female/Third Gender)",
-        "fee": "Rs. 100/-"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Online Application Start Date",
-        "date": "16/07/2026"
-      },
-      {
-        "event": "Online Application Last Date",
-        "date": "16/08/2026"
-      },
-      {
-        "event": "Cut-off Date for Age/Qualification",
-        "date": "01/08/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Forest Range Officer (Vanon ke Kshetra Adhikari)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the official website: https://bpssc.bihar.gov.in and go to the ‘Forest Dept.’ tab.",
-      "Click on the link related to Advt. No. 10/2026.",
-      "Register with a valid mobile number and email ID. Registration ID and Password will be sent via SMS/email.",
-      "Complete Part 1 of the online application (registration details: name, nationality, mobile, email, domicile, reservation category, gender, date of birth) and make the payment online.",
-      "Login with the Registration ID and Password to fill Part 2 of the application (father/husband name, mother’s name, address, educational qualification, etc.).",
-      "Upload a recent colour photograph (white background, 15-25 KB, .jpg/.jpeg/.gif) and signature in English and Hindi (black or blue ink, white background, 15-25 KB, .jpg/.jpeg/.gif).",
-      "Review all details carefully, then click ‘Confirm’ and ‘Submit’ the application.",
-      "After submission, a confirmation message will be sent to the registered mobile/email. Print the Acknowledgement on A4 size paper and keep it safe for future reference.",
-      "Application fee must be paid online (Net Banking / Credit Card / Rupay Debit Card). Fee once paid is non-refundable.",
-      "Only one online application per candidate is allowed. Multiple applications will be rejected."
-    ]
-  },
-  {
     "id": "bihar-aadhaar seva kendra under csc-supervisor-operator",
     "title": "Aadhaar Seva Kendra under CSC Recruitment 2026 – Supervisor, Operator Posts",
     "shortInfo": "Aadhaar Seva Kendra under CSC has announced notification for Supervisor, Operator posts. Required qualification: 12th, ITI, Diploma. Last date to apply: 20-08-26.",
@@ -947,7 +942,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aadhaar-supervisor-operator-bharti-2026/",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "Fee",

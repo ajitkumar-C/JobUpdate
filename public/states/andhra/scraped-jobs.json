@@ -1,5 +1,112 @@
 [
   {
+    "id": "andhra-bank of baroda (bob)-local-bank-officer-lbo",
+    "title": "Bank of Baroda (BOB) Recruitment 2026 – Local Bank Officer LBO Posts",
+    "shortInfo": "Bank of Baroda (BOB) has announced notification for Local Bank Officer LBO posts. Required qualification: Graduation in any discipline, 1 year experience. Last date to apply: 07-09-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "2482",
+    "lastDate": "07-09-26",
+    "officialWebsite": "https://www.bankofbaroda.bank.in",
+    "notificationLink": "https://bankofbaroda.bank.in/-/media/Project/BOB/CountryWebsites/India/Career/2026/26-08/Advertisement-18-04.pdf",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/bobjul26/",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-08-19",
+    "fees": [
+      {
+        "category": "General / EWS / OBC candidates",
+        "fee": "Rs. 850/- (Inclusive of GST) + Payment Gateway Charges"
+      },
+      {
+        "category": "SC / ST / PwBD / Ex-Servicemen (ESM/DESM) / Women candidates",
+        "fee": "Rs. 175/- (Inclusive of GST) + Payment Gateway Charges"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Registration Starts",
+        "date": "18/08/2026"
+      },
+      {
+        "event": "Last Date for Submission of Application & Payment of Fees",
+        "date": "07/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Local Bank Officer (LBO)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit Bank’s official website www.bankofbaroda.bank.in under Career section &rarr; Current Opportunities.",
+      "Register online in the appropriate Online Application Format available through the link on the Careers &rarr; Current Opportunities page.",
+      "Upload scanned photograph, signature, bio-data, and other required documents as per specifications.",
+      "Carefully fill in all details in the online application form. No changes are permitted after clicking SUBMIT.",
+      "Pay the application fee online using Debit Card / Credit Card / Internet Banking / UPI etc.",
+      "On successful payment, an e-receipt and application form will be generated &mdash; print and retain for future reference.",
+      "Note down the acknowledgement number and keep a copy of the application form for future reference.",
+      "Download call letters from the Bank’s website under Career section &rarr; Current Opportunities using registration details and password."
+    ]
+  },
+  {
+    "id": "andhra-aiims mangalagiri-research-scientist-multi-tasking-staff",
+    "title": "AIIMS Mangalagiri Recruitment 2026 – Research Scientist, Multi Tasking Staff Posts",
+    "shortInfo": "AIIMS Mangalagiri has announced notification for Research Scientist, Multi Tasking Staff posts. Required qualification: 10TH, MBBS. Last date to apply: 28-08-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "28-08-26",
+    "officialWebsite": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/08/Advertisement-for-Research-Scientist-B-Medical-Multitasking-Staff-recruitment-Reg.pdf",
+    "notificationLink": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/08/Advertisement-for-Research-Scientist-B-Medical-Multitasking-Staff-recruitment-Reg.pdf",
+    "applyOnlineLink": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/08/Advertisement-for-Research-Scientist-B-Medical-Multitasking-Staff-recruitment-Reg.pdf",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-08-19"
+  },
+  {
+    "id": "andhra-dwcd prakasam-ayah-educator-part-time",
+    "title": "DWCD Prakasam Recruitment 2026 – Ayah, Educator Part Time Posts",
+    "shortInfo": "DWCD Prakasam has announced notification for Ayah, Educator Part Time posts. Required qualification: B.A, Diploma, 10TH, B.Sc, B.Ed. Last date to apply: 19-08-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "6",
+    "lastDate": "19-08-26",
+    "officialWebsite": "https://cdn.s3waas.gov.in/s3f3f27a324736617f20abbf2ffd806f6d/uploads/2026/08/17867083961562.pdf",
+    "notificationLink": "https://cdn.s3waas.gov.in/s3f3f27a324736617f20abbf2ffd806f6d/uploads/2026/08/17867083961562.pdf",
+    "applyOnlineLink": "https://cdn.s3waas.gov.in/s3f3f27a324736617f20abbf2ffd806f6d/uploads/2026/08/17867083961562.pdf",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-08-19"
+  },
+  {
+    "id": "andhra-apcrda-deputy-director",
+    "title": "APCRDA Recruitment 2026 – Deputy Director Posts",
+    "shortInfo": "APCRDA has announced notification for Deputy Director posts. Required qualification: MBA/PGDM, M.A, LLM. Last date to apply: 27-08-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "3",
+    "lastDate": "27-08-26",
+    "officialWebsite": "https://crda.ap.gov.in/crda_norifications/NOT08101669/01~Employment%20Notification%206-2026.pdf",
+    "notificationLink": "https://crda.ap.gov.in/crda_norifications/NOT08101669/01~Employment%20Notification%206-2026.pdf",
+    "applyOnlineLink": "https://crda.ap.gov.in/crda_norifications/NOT08101669/01~Employment%20Notification%206-2026.pdf",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-08-19"
+  },
+  {
     "id": "andhra-hsl-medical-officer",
     "title": "HSL Recruitment 2026 – Medical Officer Posts",
     "shortInfo": "HSL has announced notification for Medical Officer posts. Required qualification: MBBS. Last date to apply: 25-08-26.",
@@ -14,7 +121,7 @@
     "applyOnlineLink": "https://hslvizag.in/hsl-cms/media/Draft%20Advertisement%20-%20Medical%20Officer%20-%20Aug26%20-%20Final%202.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "andhra-angrau-young-professional-i",
@@ -31,7 +138,7 @@
     "applyOnlineLink": "https://angrau.ac.in/UPLOADS/CareersPDFs/YP_1_Nandyal_12_08_2026.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "andhra-hbch&amp;rc-radiation-technologist",
@@ -48,7 +155,7 @@
     "applyOnlineLink": "https://tmc.gov.in/postmaster/ViewFile?FileId=Pkfz34Wr64H2iAJr36YpUw==",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "andhra-aiims mangalagiri-faculty",
@@ -65,24 +172,7 @@
     "applyOnlineLink": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/08/ADVERTISEMENT-FOR-RECRUITMENT-TO-THE-POSTS-OF-FACULTY-GROUP-A-ON-DIRECT-RECRUITMENT-DEPUTATION-BASIS-IN-VARIOUS-DEPARTMENTS-OF-AIIMS-MANGALAGIRI-1.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-08-17"
-  },
-  {
-    "id": "andhra-manuu-lecturer-walk-in-",
-    "title": "MANUU Recruitment 2026 – Lecturer (Walk-in) Posts",
-    "shortInfo": "MANUU has announced notification for Lecturer (Walk-in) posts. Required qualification: BS, M.E/M.Tech, B.Tech/B.E. Last date to apply: 13-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "2",
-    "lastDate": "13-08-26",
-    "officialWebsite": "https://manuu.edu.in/sites/default/files/Notification/2026-08/Website%20-%20Walk-in%20-%20Poly.%20Kadapa%20-%20August%2026.pdf",
-    "notificationLink": "https://manuu.edu.in/sites/default/files/Notification/2026-08/Website%20-%20Walk-in%20-%20Poly.%20Kadapa%20-%20August%2026.pdf",
-    "applyOnlineLink": "https://manuu.edu.in/sites/default/files/Notification/2026-08/Website%20-%20Walk-in%20-%20Poly.%20Kadapa%20-%20August%2026.pdf",
-    "state": "Andhra Pradesh",
-    "stateCode": "andhra",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "andhra-sbi-clerk-junior-associate-",
@@ -99,7 +189,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/sbijasrdjl26/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "SC/ST/PwBD/XS/DXS",
@@ -150,190 +240,6 @@
     ]
   },
   {
-    "id": "andhra-apscb-apprentice",
-    "title": "APSCB Recruitment 2026 – Apprentice Posts",
-    "shortInfo": "APSCB has announced notification for Apprentice posts. Required qualification: B.Sc, B.Com, LLB, B.Tech. Last date to apply: 11-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "25",
-    "lastDate": "11-08-26",
-    "officialWebsite": "https://www.apcob.bank.in",
-    "notificationLink": "https://apcob.bank.in/wp-content/uploads/2026/08/Notification_Apprenticesfinal.pdf",
-    "applyOnlineLink": "https://tms.apcob.org/apprentice/#/Apprenticeshome",
-    "state": "Andhra Pradesh",
-    "stateCode": "andhra",
-    "scrapedAt": "2026-08-17",
-    "fees": [
-      {
-        "category": "Fee",
-        "fee": "Not Mentioned"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Opening Date for Online Applications",
-        "date": "02/08/2026"
-      },
-      {
-        "event": "Last Date for Online Applications",
-        "date": "11/08/2026"
-      },
-      {
-        "event": "Date of Document Verification (August, 2026 (tentatively))",
-        "date": ""
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Apprentice (Agriculture)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Apprentice (Information Technology)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Apprentice (Legal)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Apprentice (General)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Register on the NATS 2.0 apprenticeship portal at www.nats.education.gov.in and ensure 100% complete profile.",
-      "Note your Enrolment ID generated in the NATS 2.0 Portal for future correspondence.",
-      "Visit the Bank’s official website: https://www.apcob.bank.in to apply online.",
-      "Fill in the online application form with accurate details between 02.08.2026 and 11.08.2026.",
-      "Submit the application before the last date of 11.08.2026. No other mode of application will be accepted.",
-      "Shortlisted candidates will be called for Document Verification at APCOB Head Office, Vijayawada."
-    ]
-  },
-  {
-    "id": "andhra-apscb-staff-assistant-assistant-manager",
-    "title": "APSCB Recruitment 2026 – Staff Assistant, Assistant Manager Posts",
-    "shortInfo": "APSCB has announced notification for Staff Assistant, Assistant Manager posts. Required qualification: Graduation in any discipline, knowledge of English, proficiency in Telugu, working knowledge of computers.. Last date to apply: 15-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "338",
-    "lastDate": "15-08-26",
-    "officialWebsite": "https://apcob.bank.in",
-    "notificationLink": "https://govtjobguru.in/jobs/apcob-staff-assistant-recruitment-2026/",
-    "applyOnlineLink": "https://ibpsreg.ibps.in/dccbmay26/",
-    "state": "Andhra Pradesh",
-    "stateCode": "andhra",
-    "scrapedAt": "2026-08-17",
-    "fees": [
-      {
-        "category": "SC / ST / PwBD / Ex-Servicemen",
-        "fee": "₹590"
-      },
-      {
-        "category": "OC / BC / EWS",
-        "fee": "₹826"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Opening date for online registration",
-        "date": "24/07/2026"
-      },
-      {
-        "event": "Closing date for online registration (Extended Upto)",
-        "date": "15/08/2026"
-      },
-      {
-        "event": "Last date for payment of online application (Extended Upto)",
-        "date": "15/08/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Staff Assistant &ndash; Chittoor DCCB",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Staff Assistant &ndash; Kadapa DCCB",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Manager &ndash; Prakasam DCCB",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Staff Assistant &ndash; Nellore DCCB",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Staff Assistant &ndash; Prakasam DCCB",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Staff Assistant &ndash; Visakhapatnam DCCB",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Manager &ndash; Kadapa DCCB",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Staff Assistant &ndash; Vizianagaram DCCB",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the official website of the concerned DCCB (Chittoor, Kadapa, Nellore, Prakasam, Visakhapatnam, or Vizianagaram DCCB, as applicable).",
-      "Click on the “Apply Online” link on the homepage.",
-      "Select “Click here for New Registration” and enter your name, contact details, and email ID to generate a Provisional Registration Number and Password.",
-      "Log in using the generated credentials and fill in the online application form with personal, educational, and other required details.",
-      "Upload the scanned photograph, signature, left thumb impression, and a handwritten declaration as per the specified format and size.",
-      "Preview the application form carefully before final submission, since no correction is allowed after clicking “Completed Registration.”",
-      "Pay the requisite application fee/intimation charges through the online payment gateway.",
-      "Submit the application and save/print the system-generated e-receipt and application form for your own records."
-    ]
-  },
-  {
     "id": "andhra-ongc-medical-officer-ndash-occupational-health-speciali",
     "title": "ONGC Recruitment 2026 – Medical Officer &ndash; Occupational Health, Specialist for Dehradun Hospital, Specialist for Sivasagar Hospital, Medical Officer &ndash; Homeopathy Posts",
     "shortInfo": "ONGC has announced notification for Medical Officer &ndash; Occupational Health, Specialist for Dehradun Hospital, Specialist for Sivasagar Hospital, Medical Officer &ndash; Homeopathy posts. Required qualification: MBBS, MD, MS, DNB, PG Diploma, BHMS. Last date to apply: 18-08-26.",
@@ -348,7 +254,7 @@
     "applyOnlineLink": "https://forms.zohopublic.in/Corporate__Recruitment/form/Advt32026RPEngagementofDoctorsonFixedTerm/formperma/pjbt9aqpB98c1BrwbrjF9gG7_GzdF2AYhm-vTUgV1TQ",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "Fee",
@@ -455,7 +361,7 @@
     "applyOnlineLink": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/08/Advertisement-for-recruitment-of-Various-Non-Faculty-Group-A-Posts-at-AIIMS-Mangalagiri.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "andhra-aiims mangalagiri-perfusionist-senior-medical-physicist",
@@ -472,7 +378,7 @@
     "applyOnlineLink": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/08/Advertisement-for-Engagement-of-Non-Faculty-Posts-on-Contractual-Basis-at-AIIMS-Mangalagiri-2026.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "andhra-aiims mangalagiri-nuclear-medicine-technologist",
@@ -489,24 +395,7 @@
     "applyOnlineLink": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/08/Advertisement-for-recruitment-of-Non-Faculty-Group-C-Posts-at-AIIMS-Mangalagiri-1.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-08-17"
-  },
-  {
-    "id": "andhra-angrau-teaching-associate-walk-in-",
-    "title": "ANGRAU Recruitment 2026 – Teaching Associate (Walk-in) Posts",
-    "shortInfo": "ANGRAU has announced notification for Teaching Associate (Walk-in) posts. Required qualification: M.Phil/Ph.D. Last date to apply: 13-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "13-08-26",
-    "officialWebsite": "https://angrau.ac.in/UPLOADS/CareersPDFs/TA_AGRO_AGCBPT.pdf",
-    "notificationLink": "https://angrau.ac.in/UPLOADS/CareersPDFs/TA_AGRO_AGCBPT.pdf",
-    "applyOnlineLink": "https://angrau.ac.in/UPLOADS/CareersPDFs/TA_AGRO_AGCBPT.pdf",
-    "state": "Andhra Pradesh",
-    "stateCode": "andhra",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "andhra-railtel-graduate-apprentice-engineer-diploma-apprentice-en",
@@ -523,7 +412,7 @@
     "applyOnlineLink": "https://nats.education.gov.in",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "Fee",
@@ -564,478 +453,6 @@
       "Upload the certificate showing your CGPA or percentage in the ‘Upload Certificate’ column. If only CGPA is mentioned, also upload the CGPA to percentage conversion formula/certificate along with the undertaking (Annexure 1) as a single PDF file of size less than 1 MB.",
       "Submit the application online before the last date of 27.08.2026.",
       "No other mode of application will be entertained."
-    ]
-  },
-  {
-    "id": "andhra-isro-scientist-engineer-sc-",
-    "title": "ISRO Recruitment 2026 – Scientist/Engineer 'SC' Posts",
-    "shortInfo": "ISRO has announced notification for Scientist/Engineer 'SC' posts. Required qualification: BE/B.Tech or equivalent. Last date to apply: 17-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "92",
-    "lastDate": "17-08-26",
-    "officialWebsite": "https://www.isro.gov.in/",
-    "notificationLink": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/July/GATE_Bilingual_Advertisement_2026_28072026.pdf",
-    "applyOnlineLink": "https://apps.ursc.gov.in/CentralBE-2026/advt.jsp",
-    "state": "Andhra Pradesh",
-    "stateCode": "andhra",
-    "scrapedAt": "2026-08-17",
-    "fees": [
-      {
-        "category": "General/OBC/EWS (Male)",
-        "fee": "₹250/-"
-      },
-      {
-        "category": "Women/SC/ST/Ex-Servicemen/PwBD",
-        "fee": "Nil (Exempted)"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Opening Date for Online Registration",
-        "date": "28/07/2026"
-      },
-      {
-        "event": "Closing Date for Online Registration",
-        "date": "17/08/2026"
-      },
-      {
-        "event": "Last Date for Payment of Application Fee",
-        "date": "19/08/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Scientist/Engineer 'SC' (Electronics)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Scientist/Engineer 'SC' (Mechanical)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Scientist/Engineer 'SC' (Computer Science)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Scientist/Engineer 'SC' (Civil)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Scientist/Engineer 'SC' (Electrical)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Scientist/Engineer 'SC' (Refrigeration & Air Conditioning)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Scientist/Engineer 'SC' (Architecture)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Scientist/Engineer 'SC' (Civil) &ndash; Autonomous Body [PRL]",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit ISRO official website www.isro.gov.in between 28-07-2026 and 17-08-2026.",
-      "Candidates registered under National Career Services (NCS) portal and fulfilling eligibility conditions may apply online.",
-      "Fill in all required details in the online application form carefully.",
-      "Upload clear scanned copies/images of photograph (jpg format) and GATE Score card (PDF format).",
-      "Submit the online application form.",
-      "Pay the non-refundable application fee of ₹250/- through Bharatkosh portal via Internet Banking, UPI, Debit Card, or Credit Card (last date: 19-08-2026).",
-      "Note the online Registration Number generated after registration for future reference.",
-      "Ensure correct e-mail ID is provided as hall tickets/call letters will be sent by e-mail only.",
-      "Women/SC/ST/Ex-servicemen/PwBD candidates are exempted from application fee."
-    ]
-  },
-  {
-    "id": "andhra-irel-chief-manager-deputy-manager-assistant-manager-man",
-    "title": "IREL Recruitment 2026 – Chief Manager, Deputy Manager, Assistant Manager, Manager, Senior Manager, General Manager, DGM (Last Date Extended) Posts",
-    "shortInfo": "IREL has announced notification for Chief Manager, Deputy Manager, Assistant Manager, Manager, Senior Manager, General Manager, DGM (Last Date Extended) posts. Required qualification: B.E./B.Tech, MBA, CA/CMA, LLB, MBBS, M.Sc, MA, CS. Last date to apply: 17-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "75",
-    "lastDate": "17-08-26",
-    "officialWebsite": "http://www.irel.co.in",
-    "notificationLink": "https://www.irel.co.in/documents/20126/167125/Final+Full+Advt-35-2026.pdf/fdcd1f78-329d-c4e7-6faf-427c17dbd3a2?t=1784535209048",
-    "applyOnlineLink": "https://cdn.digialm.com/EForms/configuredHtml/1258/100473/Index.html",
-    "state": "Andhra Pradesh",
-    "stateCode": "andhra",
-    "scrapedAt": "2026-08-17",
-    "fees": [
-      {
-        "category": "UR / EWS / OBC (NCL) candidates",
-        "fee": "INR 944/- (Application Fee INR 590/- + Processing Fee INR 354/-, inclusive of GST)"
-      },
-      {
-        "category": "SC / ST / PwBD / ESM / Women / Internal candidates",
-        "fee": "INR 354/- (Processing Fee only, inclusive of GST; Application Fee exempted)"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Opening Date for Online Registration",
-        "date": "20/07/2026"
-      },
-      {
-        "event": "Last Date for Submission of Online Application (Extended Upto)",
-        "date": "17/08/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Chief Manager - Technical (Mechanical)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Deputy Manager - Technical (Mechanical)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Manager - Technical (Mechanical)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Chief Manager - Technical (Electrical)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Deputy Manager - Technical (Electrical)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Manager - Technical (Electrical)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Deputy Manager - Technical (Chemical)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Manager - Technical (Chemical)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Deputy Manager - Technical (Mineral)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Manager - Technical (Mining)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Manager - Technical (Mining)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Deputy Manager - Technical (Commercial/Purchase)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Deputy Manager - Technical (Industrial Safety)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Manager - Technical (Industrial Safety)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Manager - Technical (Instrumentation)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Deputy General Manager - Technical (IT)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Manager - Technical (IT)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Deputy Manager - Technical (IT)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Deputy Manager - Technical (Geology)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Manager (Legal)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Manager (Legal)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Manager (Security)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Manager (Security)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Manager (Medical)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "General Manager - Finance",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Chief Manager - Finance",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Manager - Finance",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Deputy Manager - Finance",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Manager - Finance",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Deputy General Manager - Marketing",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Deputy Manager - Sales",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Deputy Manager - HRM (Administration)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Deputy Manager - Legal & HRM",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Manager - HRM",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Manager (Rajbhasha)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Manager (Company Secretary)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the official IREL website at http://www.irel.co.in or the direct application link: https://cdn.digialm.com/EForms/configuredHtml/1258/100473/Index.html",
-      "Step-I: Register by filling in Personal Details and Contact Details. An OTP will be sent to your registered Mobile No. and E-mail ID. Verify both OTPs to complete registration. You will receive an Application Sequence Number (User ID) and Password.",
-      "Step-II: Re-login using the User ID and Password. Complete all fields including Personal Details, Additional Details, Communication Details, Qualification Details, and Declaration.",
-      "Upload all required documents including recent passport-size photograph (JPG/JPEG, min 100KB max 200KB, 3.5cm x 4.5cm) and signature (JPG/JPEG, min 80KB max 150KB).",
-      "Preview the application form and verify all details. Edit if necessary before final submission.",
-      "Submit the application and pay the applicable fee online via Payment Gateway (Debit/Credit Card/Net Banking/Wallets/UPI).",
-      "After successful payment, print and save the Application Form in PDF for future reference.",
-      "Candidates from Govt./PSU must forward their application through proper channel or produce NOC at the time of interview."
-    ]
-  },
-  {
-    "id": "andhra-pnb-local-bank-officer-lbo-last-date-extended-",
-    "title": "PNB Recruitment 2026 – Local Bank Officer (LBO) (Last Date Extended) Posts",
-    "shortInfo": "PNB has announced notification for Local Bank Officer (LBO) (Last Date Extended) posts. Required qualification: Graduate in any discipline. Last date to apply: 16-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "545",
-    "lastDate": "16-08-26",
-    "officialWebsite": "https://pnb.bank.in/",
-    "notificationLink": "https://govtjobguru.in/wp-content/uploads/2026/07/PNB-LBO-REcruitemnt-2026.pdf",
-    "applyOnlineLink": "https://ibpsreg.ibps.in/pnbjul26/",
-    "state": "Andhra Pradesh",
-    "stateCode": "andhra",
-    "scrapedAt": "2026-08-17",
-    "fees": [
-      {
-        "category": "SC/ST/PwBD category candidates",
-        "fee": "Rs. 50/- + GST @18% = Rs. 59/- (only postage charges)"
-      },
-      {
-        "category": "All Others (General/OBC/EWS)",
-        "fee": "Rs. 1000/- + GST @18% = Rs. 1180/-"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Opening Date of Online Registration",
-        "date": "20/07/2026"
-      },
-      {
-        "event": "Closing Date of Online Registration (Extended Upto)",
-        "date": "16/08/2026"
-      },
-      {
-        "event": "Tentative Date of Online Test (August 2026/ September 2026)",
-        "date": ""
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Local Bank Officer (LBO)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the Bank’s official website https://pnb.bank.in/ under Recruitment/Career section.",
-      "Click on the link ‘CLICK HERE FOR NEW REGISTRATION’ to register your application by entering basic information.",
-      "Note down the provisional registration number and password generated by the system.",
-      "Fill in the online application form carefully with all required details.",
-      "Scan and upload photograph, signature, left hand thumb impression, handwritten declaration, proof of age, caste/disability certificate, educational qualification, and work experience documents as per specified guidelines.",
-      "Pay the application fee online using Debit Cards (RuPay/Visa/MasterCard), Credit Cards, Internet Banking, IMPS, Cash Cards/Mobile Wallets, or UPI.",
-      "Submit the application form after verifying all details.",
-      "Take a printout of the e-receipt and online application form for future reference.",
-      "Applications can be submitted from 20.07.2026 to 09.08.2026 only."
     ]
   }
 ]

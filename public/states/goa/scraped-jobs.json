@@ -1,20 +1,76 @@
 [
   {
-    "id": "goa-csir nio-project-associate-i",
-    "title": "CSIR NIO Recruitment 2026 – Project Associate - I Posts",
-    "shortInfo": "CSIR NIO has announced notification for Project Associate - I posts. Required qualification: M.Sc. Last date to apply: 16-08-26.",
+    "id": "goa-bank of baroda (bob)-local-bank-officer-lbo",
+    "title": "Bank of Baroda (BOB) Recruitment 2026 – Local Bank Officer LBO Posts",
+    "shortInfo": "Bank of Baroda (BOB) has announced notification for Local Bank Officer LBO posts. Required qualification: Graduation in any discipline, 1 year experience. Last date to apply: 07-09-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "2482",
+    "lastDate": "07-09-26",
+    "officialWebsite": "https://www.bankofbaroda.bank.in",
+    "notificationLink": "https://bankofbaroda.bank.in/-/media/Project/BOB/CountryWebsites/India/Career/2026/26-08/Advertisement-18-04.pdf",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/bobjul26/",
+    "state": "Goa",
+    "stateCode": "goa",
+    "scrapedAt": "2026-08-19",
+    "fees": [
+      {
+        "category": "General / EWS / OBC candidates",
+        "fee": "Rs. 850/- (Inclusive of GST) + Payment Gateway Charges"
+      },
+      {
+        "category": "SC / ST / PwBD / Ex-Servicemen (ESM/DESM) / Women candidates",
+        "fee": "Rs. 175/- (Inclusive of GST) + Payment Gateway Charges"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Registration Starts",
+        "date": "18/08/2026"
+      },
+      {
+        "event": "Last Date for Submission of Application & Payment of Fees",
+        "date": "07/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Local Bank Officer (LBO)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit Bank’s official website www.bankofbaroda.bank.in under Career section &rarr; Current Opportunities.",
+      "Register online in the appropriate Online Application Format available through the link on the Careers &rarr; Current Opportunities page.",
+      "Upload scanned photograph, signature, bio-data, and other required documents as per specifications.",
+      "Carefully fill in all details in the online application form. No changes are permitted after clicking SUBMIT.",
+      "Pay the application fee online using Debit Card / Credit Card / Internet Banking / UPI etc.",
+      "On successful payment, an e-receipt and application form will be generated &mdash; print and retain for future reference.",
+      "Note down the acknowledgement number and keep a copy of the application form for future reference.",
+      "Download call letters from the Bank’s website under Career section &rarr; Current Opportunities using registration details and password."
+    ]
+  },
+  {
+    "id": "goa-csir nio-project-associate-ii",
+    "title": "CSIR NIO Recruitment 2026 – Project Associate II Posts",
+    "shortInfo": "CSIR NIO has announced notification for Project Associate II posts. Required qualification: M.Sc, M.E/M.Tech. Last date to apply: 23-08-26.",
     "category": "Others",
     "categoryIcon": "🏢",
     "categoryMarathi": "Others",
     "district": "State Level",
-    "vacancies": "2",
-    "lastDate": "16-08-26",
-    "officialWebsite": "https://www.nio.res.in/vacancies/temporary/1606167",
-    "notificationLink": "https://www.nio.res.in/vacancies/temporary/1606167",
-    "applyOnlineLink": "https://www.nio.res.in/vacancies/temporary/1606167",
+    "vacancies": "1",
+    "lastDate": "23-08-26",
+    "officialWebsite": "https://www.nio.res.in/vacancies/temporary/1632959",
+    "notificationLink": "https://www.nio.res.in/vacancies/temporary/1632959",
+    "applyOnlineLink": "https://www.nio.res.in/vacancies/temporary/1632959",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "goa-echs panaji-safaiwala-and-more-pharmacist",
@@ -31,24 +87,7 @@
     "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/Rc%20Pune12.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-08-17"
-  },
-  {
-    "id": "goa-nio-project-associate-i",
-    "title": "NIO Recruitment 2026 – Project Associate I Posts",
-    "shortInfo": "NIO has announced notification for Project Associate I posts. Required qualification: M.E/M.Tech, M.Sc. Last date to apply: 16-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "2",
-    "lastDate": "16-08-26",
-    "officialWebsite": "https://www.nio.res.in/vacancies/temporary/1604293",
-    "notificationLink": "https://www.nio.res.in/vacancies/temporary/1604293",
-    "applyOnlineLink": "https://www.nio.res.in/vacancies/temporary/1604293",
-    "state": "Goa",
-    "stateCode": "goa",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "goa-csir nio-project-associate-i",
@@ -65,24 +104,7 @@
     "applyOnlineLink": "https://www.nio.res.in/vacancies/temporary/1349854",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-08-17"
-  },
-  {
-    "id": "goa-nio-senior-project-associate",
-    "title": "NIO Recruitment 2026 – Senior Project Associate Posts",
-    "shortInfo": "NIO has announced notification for Senior Project Associate posts. Required qualification: B.Tech/B.E, M.E/M.Tech, M.Sc, M.Phil/Ph.D. Last date to apply: 16-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "2",
-    "lastDate": "16-08-26",
-    "officialWebsite": "https://www.nio.res.in/vacancies/temporary/1436980",
-    "notificationLink": "https://www.nio.res.in/vacancies/temporary/1436980",
-    "applyOnlineLink": "https://www.nio.res.in/vacancies/temporary/1436980",
-    "state": "Goa",
-    "stateCode": "goa",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "goa-nit goa-student-activity-amp-sports-officer",
@@ -99,7 +121,7 @@
     "applyOnlineLink": "https://nitgoa.ac.in/uploads/Advt_SAS_Officer%207august2026.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "goa-krcl-apprentice-trainee-wlak-in-",
@@ -116,7 +138,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/konkan-railway-apprentice-recruitment-2026-walk-in-for-134-graduate-diploma-apprentice-trainee-posts/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "Fee",
@@ -220,23 +242,6 @@
     ]
   },
   {
-    "id": "goa-bits pilani-project-associate-i",
-    "title": "BITS Pilani Recruitment 2026 – Project Associate I Posts",
-    "shortInfo": "BITS Pilani has announced notification for Project Associate I posts. Required qualification: M.Phil/Ph.D, MS, M.Sc. Last date to apply: 11-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "11-08-26",
-    "officialWebsite": "https://www.bits-pilani.ac.in/wp-content/uploads/PA-advertisement-Amrita-Chatterjee.pdf",
-    "notificationLink": "https://www.bits-pilani.ac.in/wp-content/uploads/PA-advertisement-Amrita-Chatterjee.pdf",
-    "applyOnlineLink": "https://www.bits-pilani.ac.in/wp-content/uploads/PA-advertisement-Amrita-Chatterjee.pdf",
-    "state": "Goa",
-    "stateCode": "goa",
-    "scrapedAt": "2026-08-17"
-  },
-  {
     "id": "goa-mormugao port authority-materials-manager",
     "title": "Mormugao Port Authority Recruitment 2026 – Materials Manager Posts",
     "shortInfo": "Mormugao Port Authority has announced notification for Materials Manager posts. Required qualification: B.Tech/B.E. Last date to apply: 06-09-26.",
@@ -251,7 +256,7 @@
     "applyOnlineLink": "https://mormugaoport.gov.in/careers_doc/view/1786014690816172.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "goa-echs-medical-and-non-medical-staff",
@@ -268,7 +273,7 @@
     "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/Rc%20Pune12.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "goa-krcl-junior-engineer-civil-alp-station-master-technicia",
@@ -285,7 +290,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/konkan-railway-recruitment-2026-apply-online-for-201-je-alp-technician-other-posts/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "General/UR/OBC-NCL/EWS (Male)",
@@ -423,7 +428,7 @@
     "applyOnlineLink": "https://mormugaoport.gov.in/careers_doc/view/1784288306936843.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "goa-esso ncpor-joint-manager",
@@ -440,6 +445,6 @@
     "applyOnlineLink": "https://www.ncpor.res.in/upload/recruitments/Joint%20Manager%20A%20NCPOR%202026%2006%20Final.PDF",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   }
 ]

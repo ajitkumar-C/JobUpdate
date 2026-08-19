@@ -1,5 +1,61 @@
 [
   {
+    "id": "arunachal-bank of baroda (bob)-local-bank-officer-lbo",
+    "title": "Bank of Baroda (BOB) Recruitment 2026 – Local Bank Officer LBO Posts",
+    "shortInfo": "Bank of Baroda (BOB) has announced notification for Local Bank Officer LBO posts. Required qualification: Graduation in any discipline, 1 year experience. Last date to apply: 07-09-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "2482",
+    "lastDate": "07-09-26",
+    "officialWebsite": "https://www.bankofbaroda.bank.in",
+    "notificationLink": "https://bankofbaroda.bank.in/-/media/Project/BOB/CountryWebsites/India/Career/2026/26-08/Advertisement-18-04.pdf",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/bobjul26/",
+    "state": "Arunachal Pradesh",
+    "stateCode": "arunachal",
+    "scrapedAt": "2026-08-19",
+    "fees": [
+      {
+        "category": "General / EWS / OBC candidates",
+        "fee": "Rs. 850/- (Inclusive of GST) + Payment Gateway Charges"
+      },
+      {
+        "category": "SC / ST / PwBD / Ex-Servicemen (ESM/DESM) / Women candidates",
+        "fee": "Rs. 175/- (Inclusive of GST) + Payment Gateway Charges"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Registration Starts",
+        "date": "18/08/2026"
+      },
+      {
+        "event": "Last Date for Submission of Application & Payment of Fees",
+        "date": "07/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Local Bank Officer (LBO)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit Bank’s official website www.bankofbaroda.bank.in under Career section &rarr; Current Opportunities.",
+      "Register online in the appropriate Online Application Format available through the link on the Careers &rarr; Current Opportunities page.",
+      "Upload scanned photograph, signature, bio-data, and other required documents as per specifications.",
+      "Carefully fill in all details in the online application form. No changes are permitted after clicking SUBMIT.",
+      "Pay the application fee online using Debit Card / Credit Card / Internet Banking / UPI etc.",
+      "On successful payment, an e-receipt and application form will be generated &mdash; print and retain for future reference.",
+      "Note down the acknowledgement number and keep a copy of the application form for future reference.",
+      "Download call letters from the Bank’s website under Career section &rarr; Current Opportunities using registration details and password."
+    ]
+  },
+  {
     "id": "arunachal-rgu-field-investigator",
     "title": "RGU Recruitment 2026 – Field Investigator Posts",
     "shortInfo": "RGU has announced notification for Field Investigator posts. Required qualification: B.Sc, BSW. Last date to apply: 20-08-26.",
@@ -14,24 +70,7 @@
     "applyOnlineLink": "https://rgu.ac.in/uploads/notices/12-08-2026%20Notice%20for%20Walk-in-Interview%20of%202%20Project%20Staffs,%20JR%20%28Project%29.pdf",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-08-17"
-  },
-  {
-    "id": "arunachal-rgu-project-associate",
-    "title": "RGU Recruitment 2026 – Project Associate Posts",
-    "shortInfo": "RGU has announced notification for Project Associate posts. Required qualification: M.Sc. Last date to apply: 17-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "17-08-26",
-    "officialWebsite": "https://rgu.ac.in/uploads/notices/12-08-2026%20Notice%20for%20Walk-in-Interview%20of%20Project%20Associate,%20JR%20%28Project%29.pdf",
-    "notificationLink": "https://rgu.ac.in/uploads/notices/12-08-2026%20Notice%20for%20Walk-in-Interview%20of%20Project%20Associate,%20JR%20%28Project%29.pdf",
-    "applyOnlineLink": "https://rgu.ac.in/uploads/notices/12-08-2026%20Notice%20for%20Walk-in-Interview%20of%20Project%20Associate,%20JR%20%28Project%29.pdf",
-    "state": "Arunachal Pradesh",
-    "stateCode": "arunachal",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "arunachal-rgu-teaching-assistant",
@@ -48,24 +87,7 @@
     "applyOnlineLink": "https://rgu.ac.in/uploads/notices/Advt_Walk-in-interview_TA,%20Psychology.pdf",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-08-17"
-  },
-  {
-    "id": "arunachal-rgu-teaching-assistant",
-    "title": "RGU Recruitment 2026 – Teaching Assistant Posts",
-    "shortInfo": "RGU has announced notification for Teaching Assistant posts. Required qualification: M.Phil/Ph.D, M.Sc. Last date to apply: 12-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "12-08-26",
-    "officialWebsite": "https://rgu.ac.in/uploads/notices/Advt_Walk-in-interview_TA_Dept.%20of%20Chemistry.pdf",
-    "notificationLink": "https://rgu.ac.in/uploads/notices/Advt_Walk-in-interview_TA_Dept.%20of%20Chemistry.pdf",
-    "applyOnlineLink": "https://rgu.ac.in/uploads/notices/Advt_Walk-in-interview_TA_Dept.%20of%20Chemistry.pdf",
-    "state": "Arunachal Pradesh",
-    "stateCode": "arunachal",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "arunachal-nit arunachal pradesh-non-teaching-positions",
@@ -82,84 +104,6 @@
     "applyOnlineLink": "https://api.nitap.ac.in/nitap/documents/cmmopvzkf000007ohp63p4zvb/1785313840352-260_Add_28072026_131910_001198.pdf",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-08-17"
-  },
-  {
-    "id": "arunachal-oil india-contractual-warden-contractual-data-assistant",
-    "title": "Oil India Recruitment 2026 – Contractual Warden, Contractual Data Assistant Posts",
-    "shortInfo": "Oil India has announced notification for Contractual Warden, Contractual Data Assistant posts. Required qualification: Any Graduate, Diploma, Any Bachelors Degree. Last date to apply: 12-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "3",
-    "lastDate": "12-08-26",
-    "officialWebsite": "https://www.oil-india.com/advertisement-list",
-    "notificationLink": "https://www.oil-india.com/advertisement-list",
-    "applyOnlineLink": "https://www.oil-india.com/advertisement-list",
-    "state": "Arunachal Pradesh",
-    "stateCode": "arunachal",
-    "scrapedAt": "2026-08-17"
-  },
-  {
-    "id": "arunachal-pnb-local-bank-officer-lbo-last-date-extended-",
-    "title": "PNB Recruitment 2026 – Local Bank Officer (LBO) (Last Date Extended) Posts",
-    "shortInfo": "PNB has announced notification for Local Bank Officer (LBO) (Last Date Extended) posts. Required qualification: Graduate in any discipline. Last date to apply: 16-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "545",
-    "lastDate": "16-08-26",
-    "officialWebsite": "https://pnb.bank.in/",
-    "notificationLink": "https://govtjobguru.in/wp-content/uploads/2026/07/PNB-LBO-REcruitemnt-2026.pdf",
-    "applyOnlineLink": "https://ibpsreg.ibps.in/pnbjul26/",
-    "state": "Arunachal Pradesh",
-    "stateCode": "arunachal",
-    "scrapedAt": "2026-08-17",
-    "fees": [
-      {
-        "category": "SC/ST/PwBD category candidates",
-        "fee": "Rs. 50/- + GST @18% = Rs. 59/- (only postage charges)"
-      },
-      {
-        "category": "All Others (General/OBC/EWS)",
-        "fee": "Rs. 1000/- + GST @18% = Rs. 1180/-"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Opening Date of Online Registration",
-        "date": "20/07/2026"
-      },
-      {
-        "event": "Closing Date of Online Registration (Extended Upto)",
-        "date": "16/08/2026"
-      },
-      {
-        "event": "Tentative Date of Online Test (August 2026/ September 2026)",
-        "date": ""
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Local Bank Officer (LBO)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the Bank’s official website https://pnb.bank.in/ under Recruitment/Career section.",
-      "Click on the link ‘CLICK HERE FOR NEW REGISTRATION’ to register your application by entering basic information.",
-      "Note down the provisional registration number and password generated by the system.",
-      "Fill in the online application form carefully with all required details.",
-      "Scan and upload photograph, signature, left hand thumb impression, handwritten declaration, proof of age, caste/disability certificate, educational qualification, and work experience documents as per specified guidelines.",
-      "Pay the application fee online using Debit Cards (RuPay/Visa/MasterCard), Credit Cards, Internet Banking, IMPS, Cash Cards/Mobile Wallets, or UPI.",
-      "Submit the application form after verifying all details.",
-      "Take a printout of the e-receipt and online application form for future reference.",
-      "Applications can be submitted from 20.07.2026 to 09.08.2026 only."
-    ]
+    "scrapedAt": "2026-08-19"
   }
 ]

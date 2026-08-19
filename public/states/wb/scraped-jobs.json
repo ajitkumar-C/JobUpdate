@@ -1,5 +1,61 @@
 [
   {
+    "id": "wb-bank of baroda (bob)-local-bank-officer-lbo",
+    "title": "Bank of Baroda (BOB) Recruitment 2026 – Local Bank Officer LBO Posts",
+    "shortInfo": "Bank of Baroda (BOB) has announced notification for Local Bank Officer LBO posts. Required qualification: Graduation in any discipline, 1 year experience. Last date to apply: 07-09-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "2482",
+    "lastDate": "07-09-26",
+    "officialWebsite": "https://www.bankofbaroda.bank.in",
+    "notificationLink": "https://bankofbaroda.bank.in/-/media/Project/BOB/CountryWebsites/India/Career/2026/26-08/Advertisement-18-04.pdf",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/bobjul26/",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-08-19",
+    "fees": [
+      {
+        "category": "General / EWS / OBC candidates",
+        "fee": "Rs. 850/- (Inclusive of GST) + Payment Gateway Charges"
+      },
+      {
+        "category": "SC / ST / PwBD / Ex-Servicemen (ESM/DESM) / Women candidates",
+        "fee": "Rs. 175/- (Inclusive of GST) + Payment Gateway Charges"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Registration Starts",
+        "date": "18/08/2026"
+      },
+      {
+        "event": "Last Date for Submission of Application & Payment of Fees",
+        "date": "07/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Local Bank Officer (LBO)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit Bank’s official website www.bankofbaroda.bank.in under Career section &rarr; Current Opportunities.",
+      "Register online in the appropriate Online Application Format available through the link on the Careers &rarr; Current Opportunities page.",
+      "Upload scanned photograph, signature, bio-data, and other required documents as per specifications.",
+      "Carefully fill in all details in the online application form. No changes are permitted after clicking SUBMIT.",
+      "Pay the application fee online using Debit Card / Credit Card / Internet Banking / UPI etc.",
+      "On successful payment, an e-receipt and application form will be generated &mdash; print and retain for future reference.",
+      "Note down the acknowledgement number and keep a copy of the application form for future reference.",
+      "Download call letters from the Bank’s website under Career section &rarr; Current Opportunities using registration details and password."
+    ]
+  },
+  {
     "id": "wb-iit kharagpur-project-research-scientist",
     "title": "IIT Kharagpur Recruitment 2026 – Project Research Scientist Posts",
     "shortInfo": "IIT Kharagpur has announced notification for Project Research Scientist posts. Required qualification: CS, Any Post Graduate. Last date to apply: 10-09-26.",
@@ -14,24 +70,7 @@
     "applyOnlineLink": "https://erp.iitkgp.ac.in/SricWeb/temporaryJobs.htm",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-17"
-  },
-  {
-    "id": "wb-cantonment board barrackpore-radiologist",
-    "title": "Cantonment Board Barrackpore Recruitment 2026 – Radiologist Posts",
-    "shortInfo": "Cantonment Board Barrackpore has announced notification for Radiologist posts. Required qualification: DNB, MBBS, Diploma. Last date to apply: 14-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "14-08-26",
-    "officialWebsite": "https://barrackpore.cantt.gov.in/wp-content/uploads/sites/38/2026/07/DocScanner-Jul-30-2026-2-53-PM-1.pdf",
-    "notificationLink": "https://barrackpore.cantt.gov.in/wp-content/uploads/sites/38/2026/07/DocScanner-Jul-30-2026-2-53-PM-1.pdf",
-    "applyOnlineLink": "https://barrackpore.cantt.gov.in/wp-content/uploads/sites/38/2026/07/DocScanner-Jul-30-2026-2-53-PM-1.pdf",
-    "state": "West Bengal",
-    "stateCode": "wb",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "wb-iit kharagpur-project-assistant",
@@ -48,24 +87,7 @@
     "applyOnlineLink": "https://erp.iitkgp.ac.in/SricWeb/temporaryJobs.htm",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-17"
-  },
-  {
-    "id": "wb-nit durgapur-guest-coach",
-    "title": "NIT Durgapur Recruitment 2026 – Guest Coach Posts",
-    "shortInfo": "NIT Durgapur has announced notification for Guest Coach posts. Required qualification: Diploma. Last date to apply: 17-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "4",
-    "lastDate": "17-08-26",
-    "officialWebsite": "https://nitdgp.ac.in/uploads/Advt_for_guest_coaches.pdf",
-    "notificationLink": "https://nitdgp.ac.in/uploads/Advt_for_guest_coaches.pdf",
-    "applyOnlineLink": "https://nitdgp.ac.in/uploads/Advt_for_guest_coaches.pdf",
-    "state": "West Bengal",
-    "stateCode": "wb",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "wb-indbank-relationship-manager-dealer",
@@ -82,7 +104,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/indbank-relationship-manager-and-dealer-recruitment-2026/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "Fee",
@@ -138,7 +160,7 @@
     "applyOnlineLink": "https://www.wbhealth.gov.in/FileServer/UploadedFiles/Recruitments/Recruitment_8b910369-d5a7-4fc6-8715-1bbf87e73137.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "wb-nit durgapur-project-associate-i",
@@ -155,24 +177,7 @@
     "applyOnlineLink": "https://nitdgp.ac.in/uploads/PA-I_Advertisement-GREET_Project-2026-II.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-17"
-  },
-  {
-    "id": "wb-iiest shibpur-research-associate-scientific-officer-technical-as",
-    "title": "IIEST Shibpur Recruitment 2026 – Research Associate/ Scientific Officer, Technical Assistant Posts",
-    "shortInfo": "IIEST Shibpur has announced notification for Research Associate/ Scientific Officer, Technical Assistant posts. Required qualification: Any Post Graduate, M.Phil/Ph.D. Last date to apply: 14-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "2",
-    "lastDate": "14-08-26",
-    "officialWebsite": "https://data.iiests.ac.in/uploads/announcements/files/1786003607_Website%20Copy,%20Subrata%20Chakraborty,%20CCSID,%2004.08.2026.pdf",
-    "notificationLink": "https://data.iiests.ac.in/uploads/announcements/files/1786003607_Website%20Copy,%20Subrata%20Chakraborty,%20CCSID,%2004.08.2026.pdf",
-    "applyOnlineLink": "https://data.iiests.ac.in/uploads/announcements/files/1786003607_Website%20Copy,%20Subrata%20Chakraborty,%20CCSID,%2004.08.2026.pdf",
-    "state": "West Bengal",
-    "stateCode": "wb",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "wb-cnmc&amp;h-medical-officer",
@@ -189,7 +194,7 @@
     "applyOnlineLink": "https://www.wbhealth.gov.in/FileServer/UploadedFiles/Recruitments/Recruitment_4658c876-5695-46b9-8716-837ea1e22414.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "wb-grse-chief-general-manager",
@@ -206,24 +211,7 @@
     "applyOnlineLink": "https://grse.in/career/PDFs/Detailed%20Adv_2026-04(O).pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-17"
-  },
-  {
-    "id": "wb-icar nbsslup-young-professional-i",
-    "title": "ICAR NBSSLUP Recruitment 2026 – Young Professional I Posts",
-    "shortInfo": "ICAR NBSSLUP has announced notification for Young Professional I posts. Required qualification: PG Diploma, Diploma, M.Sc, M.A. Last date to apply: 12-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "12-08-26",
-    "officialWebsite": "https://icar-nbsslup.org.in/wp-content/uploads/2026/Recruitment/Recruit_Kolkata_07082026.pdf",
-    "notificationLink": "https://icar-nbsslup.org.in/wp-content/uploads/2026/Recruitment/Recruit_Kolkata_07082026.pdf",
-    "applyOnlineLink": "https://icar-nbsslup.org.in/wp-content/uploads/2026/Recruitment/Recruit_Kolkata_07082026.pdf",
-    "state": "West Bengal",
-    "stateCode": "wb",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "wb-upsc-assistant-executive-engineer-assistant-director-en",
@@ -240,7 +228,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/upsc-recruitment-2026-apply-online-for-34-aee-research-officer-other-posts/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "General/OBC/EWS (Male)",
@@ -342,7 +330,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/sbijasrdjl26/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "SC/ST/PwBD/XS/DXS",
@@ -407,259 +395,7 @@
     "applyOnlineLink": "https://data.iiests.ac.in/uploads/announcements/files/1785891494_Website%20Copy,%20Soumen%20Moulik,%20CST,%2003.08.2026.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-17"
-  },
-  {
-    "id": "wb-csir cmeri-project-scientist-project-assistant-walk-in-",
-    "title": "CSIR CMERI Recruitment 2026 – Project Scientist, Project Assistant (walk-in) Posts",
-    "shortInfo": "CSIR CMERI has announced notification for Project Scientist, Project Assistant (walk-in) posts. Required qualification: B.Tech/B.E, B.Sc, Diploma, M.E/M.Tech. Last date to apply: 13.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "34",
-    "lastDate": "13",
-    "officialWebsite": "https://www.cmeri.res.in",
-    "notificationLink": "https://www.cmeri.res.in/sites/default/files/vacancy/Walk-In-Interview_AdvertisementPRCT042026.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/csir-cmeri-recruitment-2026-walk-in-for-34-project-assistant-associate-other-posts/",
-    "state": "West Bengal",
-    "stateCode": "wb",
-    "scrapedAt": "2026-08-17",
-    "fees": [
-      {
-        "category": "Fee",
-        "fee": "Not Mentioned"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Advertisement Date",
-        "date": "03/08/2026"
-      },
-      {
-        "event": "Walk-in-Interview Day 1 (P-2691 to P-2696, P-26112 to P-26119)",
-        "date": "13/08/2026"
-      },
-      {
-        "event": "Walk-in-Interview Day 2 (P-2697 to P-26111)",
-        "date": "14/08/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Project Assistant-II (P-2691)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Assistant-II (P-2692)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Assistant-II (P-2693)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Assistant-II (P-2694)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Assistant-II (P-2695)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Assistant-II (P-2696)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Associate-I (P-2697)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Associate-I (P-2698)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Associate-I (P-2699)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Associate-I (P-26100)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Associate-I (P-26101)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Associate-I (P-26102)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Associate-I (P-26103)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Project Associate (P-26104)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Associate-I (P-26105)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project JRF or Project Associate-I (P-26106)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Associate-II (P-26107)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Junior Research Fellow (P-26108)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Project Associate (P-26109)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Scientist-I / Principal Project Associate / Senior Project Associate (P-26110)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Scientist-I / Principal Project Associate / Senior Project Associate (P-26111)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Associate-I (P-26112)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Associate-I (P-26113)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Project Associate (P-26114)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Associate-I (P-26115)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Associate-I (P-26116)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Associate-I (P-26117)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Associate-I or Project Associate-II (P-26118)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Senior Research Fellow (P-26119)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Download the Application Form from the CSIR-CMERI official website.",
-      "Fill in the Application Form completely and accurately.",
-      "Collect all original certificates and mark sheets along with self-attested photocopies of each.",
-      "Arrange a recent passport size photograph.",
-      "Appear at the Walk-in-Interview at CSIR-CMERI, M.G. Avenue, Durgapur-713209 on the scheduled date and time as per Table-II.",
-      "Candidates currently engaged in CSIR-CMERI or any other CSIR Lab/Institute must produce NOC from Competent Authority.",
-      "No TA/DA will be paid for attending the Walk-in-Interview.",
-      "Selection will be based on performance and overall assessment by the selection committee."
-    ]
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "wb-braithwaite &amp; co-safety-officer-engineer",
@@ -676,24 +412,7 @@
     "applyOnlineLink": "https://www.braithwaiteindia.com/downloads/job/Rectt2026.3.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-17"
-  },
-  {
-    "id": "wb-visva bharati-field-investigator-research-assistant",
-    "title": "Visva Bharati Recruitment 2026 – Field Investigator, Research Assistant Posts",
-    "shortInfo": "Visva Bharati has announced notification for Field Investigator, Research Assistant posts. Required qualification: M.Phil/Ph.D. Last date to apply: 14-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "5",
-    "lastDate": "14-08-26",
-    "officialWebsite": "https://www.visvabharati.ac.in/files/154300726_ICSSR.pdf",
-    "notificationLink": "https://www.visvabharati.ac.in/files/154300726_ICSSR.pdf",
-    "applyOnlineLink": "https://www.visvabharati.ac.in/files/154300726_ICSSR.pdf",
-    "state": "West Bengal",
-    "stateCode": "wb",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "wb-clw-sports-quota",
@@ -710,7 +429,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/clw-sports-quota-recruitment-2026/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "SC/ST/Ex-Servicemen/PwBDs/Women/Minorities/Economically Backward Classes",
@@ -791,24 +510,7 @@
     "applyOnlineLink": "https://www.saha.ac.in/web/portal/applications/vacancy/file/SINP_Medical_Officer_Recruitment_Final%20Ad.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-17"
-  },
-  {
-    "id": "wb-aycl-senior-expert",
-    "title": "AYCL Recruitment 2026 – Senior Expert Posts",
-    "shortInfo": "AYCL has announced notification for Senior Expert posts. Required qualification: B.A, PG Diploma, B.Sc, Any Post Graduate. Last date to apply: 16-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "16-08-26",
-    "officialWebsite": "https://www.andrewyule.com/pdf/Website%20Ad%20Matter%20-%20Sr.%20Expert%20-%20Tea%20Marketing.pdf",
-    "notificationLink": "https://www.andrewyule.com/pdf/Website%20Ad%20Matter%20-%20Sr.%20Expert%20-%20Tea%20Marketing.pdf",
-    "applyOnlineLink": "https://www.andrewyule.com/pdf/Website%20Ad%20Matter%20-%20Sr.%20Expert%20-%20Tea%20Marketing.pdf",
-    "state": "West Bengal",
-    "stateCode": "wb",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "wb-clw-contract-medical-practitioner",
@@ -825,24 +527,7 @@
     "applyOnlineLink": "https://clw.indianrailways.gov.in/uploads/CMP%20notification%20July2026.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-17"
-  },
-  {
-    "id": "wb-aycl-asst-officer-dy-officer",
-    "title": "AYCL Recruitment 2026 – Asst. Officer / Dy. Officer Posts",
-    "shortInfo": "AYCL has announced notification for Asst. Officer / Dy. Officer posts. Required qualification: Any Post Graduate, PG Diploma. Last date to apply: 17-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "17-08-26",
-    "officialWebsite": "https://www.andrewyule.com/pdf/Website_Ad_Matter_260727_173019.pdf",
-    "notificationLink": "https://www.andrewyule.com/pdf/Website_Ad_Matter_260727_173019.pdf",
-    "applyOnlineLink": "https://www.andrewyule.com/pdf/Website_Ad_Matter_260727_173019.pdf",
-    "state": "West Bengal",
-    "stateCode": "wb",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "wb-aiims kalyani-junior-resident-non-academic-",
@@ -859,7 +544,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aiims-kalyani-junior-resident-recruitment-2026/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "Unreserved/OBC Category",
@@ -919,7 +604,7 @@
     "applyOnlineLink": "https://www.saha.ac.in/web/portal/applications/recruitment/begin2.php",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "Scientist 'C' and Scientific Assistant 'B'",
@@ -1168,7 +853,7 @@
     "applyOnlineLink": "https://nats.education.gov.in",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "Fee",
@@ -1212,211 +897,6 @@
     ]
   },
   {
-    "id": "wb-sub divisional office contai-nulia-civil-defence-volunteer",
-    "title": "Sub Divisional Office Contai Recruitment 2026 – Nulia Civil Defence Volunteer Posts",
-    "shortInfo": "Sub Divisional Office Contai has announced notification for Nulia Civil Defence Volunteer posts. Required qualification: 10TH. Last date to apply: 14-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "45",
-    "lastDate": "14-08-26",
-    "officialWebsite": "https://cdn.s3waas.gov.in/s373278a4a86960eeb576a8fd4c9ec6997/uploads/2026/07/17852301033502.pdf",
-    "notificationLink": "https://cdn.s3waas.gov.in/s373278a4a86960eeb576a8fd4c9ec6997/uploads/2026/07/17852301033502.pdf",
-    "applyOnlineLink": "https://cdn.s3waas.gov.in/s373278a4a86960eeb576a8fd4c9ec6997/uploads/2026/07/17852301033502.pdf",
-    "state": "West Bengal",
-    "stateCode": "wb",
-    "scrapedAt": "2026-08-17"
-  },
-  {
-    "id": "wb-hal-design-trainee-management-trainee",
-    "title": "HAL Recruitment 2026 – Design Trainee, Management Trainee Posts",
-    "shortInfo": "HAL has announced notification for Design Trainee, Management Trainee posts. Required qualification: B.E/B.Tech. Last date to apply: 14-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "120",
-    "lastDate": "14-08-26",
-    "officialWebsite": "https://www.hal-india.co.in",
-    "notificationLink": "https://cbexams.com/halreg2026/Inc/Detailed_Advertisement_29072026.pdf",
-    "applyOnlineLink": "https://cbexams.com/halreg2026/default",
-    "state": "West Bengal",
-    "stateCode": "wb",
-    "scrapedAt": "2026-08-17",
-    "fees": [
-      {
-        "category": "UR / OBC(NCL) / EWS",
-        "fee": "Rs. 500/- (inclusive of GST)"
-      },
-      {
-        "category": "SC / ST / PwBD / Internal Candidates",
-        "fee": "Exempted"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Release of Advertisement & Online Application Format",
-        "date": "29/07/2026"
-      },
-      {
-        "event": "Last Date for Receipt of Applications",
-        "date": "14/08/2026"
-      },
-      {
-        "event": "Downloading of Admit Cards",
-        "date": "20/08/2026"
-      },
-      {
-        "event": "Online Test (05-09-2026 & 06-09-2026 )",
-        "date": ""
-      },
-      {
-        "event": "Declaration of Online Test Results",
-        "date": "10/09/2026"
-      },
-      {
-        "event": "Downloading of Interview Call Letters",
-        "date": "12/09/2026"
-      },
-      {
-        "event": "Interviews at Bengaluru (21-09-2026 to 25-09-2026)",
-        "date": ""
-      },
-      {
-        "event": "Release of List of Provisionally Selected Candidates",
-        "date": "30/09/2026"
-      },
-      {
-        "event": "Issuance/Downloading of Provisional Offer",
-        "date": "06/10/2026"
-      },
-      {
-        "event": "Pre-employment Medical Examination (09-10-2026 to 15-10-2026)",
-        "date": ""
-      },
-      {
-        "event": "Pre-induction Training Document Verification at Bengaluru (26-10-2026 to 28-10-2026)",
-        "date": ""
-      },
-      {
-        "event": "Commencement of Induction Training at Bengaluru",
-        "date": "29/10/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Design Trainee - Aeronautical",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Design Trainee - Electrical",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Design Trainee - Electronics",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Design Trainee - Instrumentation",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Design Trainee - Mechanical",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Design Trainee - Computer Science",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Design Trainee - Metallurgy",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Management Trainee - Electrical",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Management Trainee - Electronics",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Management Trainee - Mechanical",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Management Trainee - Computer Science",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Management Trainee - Metallurgy",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Management Trainee - Production",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Management Trainee - Civil",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit HAL Website www.hal-india.co.in and click the link ‘SELECTION OF DESIGN TRAINEE/MANAGEMENT TRAINEE &ndash; 2026’ under the Careers Section.",
-      "Select the name of the post for which you want to apply.",
-      "Enter and re-enter a valid email id for OTP based registration.",
-      "Fill up Eligibility Details and upload photograph. A unique Application number will be generated.",
-      "Fill up Personal &amp; Qualification details. Use the ‘Edit’ option to correct any details before final submission.",
-      "SC/ST/PwBD/Internal candidates: On submission of personal &amp; qualification details, registration is complete. Print the Application Confirmation page.",
-      "UR/OBC(NCL)/EWS candidates: After submitting Personal &amp; Qualification Details, proceed to the Payment Gateway to pay the Application Fee of Rs.500/- (inclusive of GST) via Credit Card, Internet Banking, or UPI.",
-      "After successful payment, print the Application Confirmation page for future reference.",
-      "Ensure application is submitted well before the last date (14-08-2026, 1400 hrs.)."
-    ]
-  },
-  {
     "id": "wb-aai-graduate-apprentice-diploma-apprentice-iti-apprent",
     "title": "AAI Recruitment 2026 – Graduate Apprentice, Diploma Apprentice, ITI Apprentice Posts",
     "shortInfo": "AAI has announced notification for Graduate Apprentice, Diploma Apprentice, ITI Apprentice posts. Required qualification: Graduate Degree / Diploma / ITI. Last date to apply: Update.",
@@ -1431,7 +911,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [],
     "dates": [
       {
@@ -1489,7 +969,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-nscbi-apprentice-recruitment-2026/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "All Candidates",
@@ -1613,7 +1093,7 @@
     "applyOnlineLink": "https://rrceronline.co.in/SnG26v02LvalmDM/Reg_instructions_ERSGQ.aspx",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "UR Male, OBC Male, EWS Male",
@@ -1699,84 +1179,6 @@
     ]
   },
   {
-    "id": "wb-pnb-local-bank-officer-lbo-last-date-extended-",
-    "title": "PNB Recruitment 2026 – Local Bank Officer (LBO) (Last Date Extended) Posts",
-    "shortInfo": "PNB has announced notification for Local Bank Officer (LBO) (Last Date Extended) posts. Required qualification: Graduate in any discipline. Last date to apply: 16-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "545",
-    "lastDate": "16-08-26",
-    "officialWebsite": "https://pnb.bank.in/",
-    "notificationLink": "https://govtjobguru.in/wp-content/uploads/2026/07/PNB-LBO-REcruitemnt-2026.pdf",
-    "applyOnlineLink": "https://ibpsreg.ibps.in/pnbjul26/",
-    "state": "West Bengal",
-    "stateCode": "wb",
-    "scrapedAt": "2026-08-17",
-    "fees": [
-      {
-        "category": "SC/ST/PwBD category candidates",
-        "fee": "Rs. 50/- + GST @18% = Rs. 59/- (only postage charges)"
-      },
-      {
-        "category": "All Others (General/OBC/EWS)",
-        "fee": "Rs. 1000/- + GST @18% = Rs. 1180/-"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Opening Date of Online Registration",
-        "date": "20/07/2026"
-      },
-      {
-        "event": "Closing Date of Online Registration (Extended Upto)",
-        "date": "16/08/2026"
-      },
-      {
-        "event": "Tentative Date of Online Test (August 2026/ September 2026)",
-        "date": ""
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Local Bank Officer (LBO)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the Bank’s official website https://pnb.bank.in/ under Recruitment/Career section.",
-      "Click on the link ‘CLICK HERE FOR NEW REGISTRATION’ to register your application by entering basic information.",
-      "Note down the provisional registration number and password generated by the system.",
-      "Fill in the online application form carefully with all required details.",
-      "Scan and upload photograph, signature, left hand thumb impression, handwritten declaration, proof of age, caste/disability certificate, educational qualification, and work experience documents as per specified guidelines.",
-      "Pay the application fee online using Debit Cards (RuPay/Visa/MasterCard), Credit Cards, Internet Banking, IMPS, Cash Cards/Mobile Wallets, or UPI.",
-      "Submit the application form after verifying all details.",
-      "Take a printout of the e-receipt and online application form for future reference.",
-      "Applications can be submitted from 20.07.2026 to 09.08.2026 only."
-    ]
-  },
-  {
-    "id": "wb-niper kolkata-teaching-and-non-teaching",
-    "title": "NIPER Kolkata Recruitment 2026 – Teaching and Non-Teaching Posts",
-    "shortInfo": "NIPER Kolkata has announced notification for Teaching and Non-Teaching posts. Required qualification: Any Graduate, 12TH, M.Phil/Ph.D. Last date to apply: 17-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "4",
-    "lastDate": "17-08-26",
-    "officialWebsite": "https://niperkolkata.edu.in/niperadmin/Upload/Advt.pdf",
-    "notificationLink": "https://niperkolkata.edu.in/niperadmin/Upload/Advt.pdf",
-    "applyOnlineLink": "https://niperkolkata.edu.in/niperadmin/Upload/Advt.pdf",
-    "state": "West Bengal",
-    "stateCode": "wb",
-    "scrapedAt": "2026-08-17"
-  },
-  {
     "id": "wb-barc-scientific-assistant-c-psychologist-scientific-ass",
     "title": "BARC Recruitment 2026 – Scientific Assistant/C (Psychologist), Scientific Assistant/B (Pathology), Scientific Assistant/B (Radiography), Scientific Assistant/B (Nuclear Medicine Technologist) Posts",
     "shortInfo": "BARC has announced notification for Scientific Assistant/C (Psychologist), Scientific Assistant/B (Pathology), Scientific Assistant/B (Radiography), Scientific Assistant/B (Nuclear Medicine Technologist) posts. Required qualification: B.Sc, Post Graduation. Last date to apply: 18-08-26.",
@@ -1791,7 +1193,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/barc-scientific-assistant-recruitment-2026/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "General/OBC/EWS (Male)",
@@ -1867,7 +1269,7 @@
     "applyOnlineLink": "https://app.nfr-recruitment.in/#/auth/landing",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "General/OBC/EWS (Male)",
@@ -1981,7 +1383,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/csir-cmeri-technician-recruitment-2026/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "General/OBC/EWS (other than Ex-Servicemen/SC/ST/Women/PwBD)",

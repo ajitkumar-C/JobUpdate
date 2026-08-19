@@ -1,5 +1,112 @@
 [
   {
+    "id": "punjab-bank of baroda (bob)-local-bank-officer-lbo",
+    "title": "Bank of Baroda (BOB) Recruitment 2026 – Local Bank Officer LBO Posts",
+    "shortInfo": "Bank of Baroda (BOB) has announced notification for Local Bank Officer LBO posts. Required qualification: Graduation in any discipline, 1 year experience. Last date to apply: 07-09-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "2482",
+    "lastDate": "07-09-26",
+    "officialWebsite": "https://www.bankofbaroda.bank.in",
+    "notificationLink": "https://bankofbaroda.bank.in/-/media/Project/BOB/CountryWebsites/India/Career/2026/26-08/Advertisement-18-04.pdf",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/bobjul26/",
+    "state": "Punjab",
+    "stateCode": "punjab",
+    "scrapedAt": "2026-08-19",
+    "fees": [
+      {
+        "category": "General / EWS / OBC candidates",
+        "fee": "Rs. 850/- (Inclusive of GST) + Payment Gateway Charges"
+      },
+      {
+        "category": "SC / ST / PwBD / Ex-Servicemen (ESM/DESM) / Women candidates",
+        "fee": "Rs. 175/- (Inclusive of GST) + Payment Gateway Charges"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Registration Starts",
+        "date": "18/08/2026"
+      },
+      {
+        "event": "Last Date for Submission of Application & Payment of Fees",
+        "date": "07/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Local Bank Officer (LBO)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit Bank’s official website www.bankofbaroda.bank.in under Career section &rarr; Current Opportunities.",
+      "Register online in the appropriate Online Application Format available through the link on the Careers &rarr; Current Opportunities page.",
+      "Upload scanned photograph, signature, bio-data, and other required documents as per specifications.",
+      "Carefully fill in all details in the online application form. No changes are permitted after clicking SUBMIT.",
+      "Pay the application fee online using Debit Card / Credit Card / Internet Banking / UPI etc.",
+      "On successful payment, an e-receipt and application form will be generated &mdash; print and retain for future reference.",
+      "Note down the acknowledgement number and keep a copy of the application form for future reference.",
+      "Download call letters from the Bank’s website under Career section &rarr; Current Opportunities using registration details and password."
+    ]
+  },
+  {
+    "id": "punjab-iit ropar-junior-research-fellow",
+    "title": "IIT Ropar Recruitment 2026 – Junior Research Fellow Posts",
+    "shortInfo": "IIT Ropar has announced notification for Junior Research Fellow posts. Required qualification: B.Tech/B.E. Last date to apply: 25-08-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "25-08-26",
+    "officialWebsite": "https://www.iitrpr.ac.in/api/v2/files/download/196",
+    "notificationLink": "https://www.iitrpr.ac.in/api/v2/files/download/196",
+    "applyOnlineLink": "https://www.iitrpr.ac.in/api/v2/files/download/196",
+    "state": "Punjab",
+    "stateCode": "punjab",
+    "scrapedAt": "2026-08-19"
+  },
+  {
+    "id": "punjab-pau-teaching-assistant",
+    "title": "PAU Recruitment 2026 – Teaching Assistant Posts",
+    "shortInfo": "PAU has announced notification for Teaching Assistant posts. Required qualification: M.Sc, B.Sc, B.Tech/B.E. Last date to apply: 01-09-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "01-09-26",
+    "officialWebsite": "https://pau.edu/index.php?_act=manageVacancy&#038;DO=viewVacancyDetail&#038;intID=7516",
+    "notificationLink": "https://pau.edu/index.php?_act=manageVacancy&#038;DO=viewVacancyDetail&#038;intID=7516",
+    "applyOnlineLink": "https://pau.edu/index.php?_act=manageVacancy&#038;DO=viewVacancyDetail&#038;intID=7516",
+    "state": "Punjab",
+    "stateCode": "punjab",
+    "scrapedAt": "2026-08-19"
+  },
+  {
+    "id": "punjab-iit ropar-post-doctoral-fellow",
+    "title": "IIT Ropar Recruitment 2026 – Post Doctoral Fellow Posts",
+    "shortInfo": "IIT Ropar has announced notification for Post Doctoral Fellow posts. Required qualification: M.Phil/Ph.D. Last date to apply: 15-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "15-09-26",
+    "officialWebsite": "https://www.iitrpr.ac.in/api/v2/files/download/195",
+    "notificationLink": "https://www.iitrpr.ac.in/api/v2/files/download/195",
+    "applyOnlineLink": "https://www.iitrpr.ac.in/api/v2/files/download/195",
+    "state": "Punjab",
+    "stateCode": "punjab",
+    "scrapedAt": "2026-08-19"
+  },
+  {
     "id": "punjab-aai nr-graduate-apprentice-diploma-apprentice-iti-trade-a",
     "title": "AAI NR Recruitment 2026 – Graduate Apprentice, Diploma Apprentice, ITI Trade Apprentice Posts",
     "shortInfo": "AAI NR has announced notification for Graduate Apprentice, Diploma Apprentice, ITI Trade Apprentice posts. Required qualification: Degree, Diploma, ITI. Last date to apply: 16-09-26.",
@@ -14,7 +121,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-nr-apprentice-2026/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "All Categories",
@@ -174,7 +281,7 @@
     "applyOnlineLink": "https://www.iitrpr.ac.in/api/v2/files/download/193",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "punjab-pau-coach",
@@ -191,7 +298,7 @@
     "applyOnlineLink": "https://pau.edu/index.php?_act=manageVacancy&#038;DO=viewVacancyDetail&#038;intID=7505",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "punjab-punjab vidhan sabha-group-d-safai-sewak-chowkidar-",
@@ -208,7 +315,7 @@
     "applyOnlineLink": "https://punjabassembly.gov.in/public/jobs",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "For General Candidates",
@@ -270,7 +377,7 @@
     "applyOnlineLink": "https://Candidates%20should%20ensure%20that%20they%20meet%20the%20prescribed%20age%20limit%20as%20on%20the%20specified%20cut-off%20date.%20You%20can%20use%20our%20Age%20Calculator%20to%20check%20your%20exact%20age%20and%20confirm%20your%20eligibility%20before%20applying.",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "punjab-mansa family court-general-counsellor-child-counsellor",
@@ -287,41 +394,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec03a87d27f712df362cd22c7a8ef823/uploads/2026/08/2026080554.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-08-17"
-  },
-  {
-    "id": "punjab-tmc-ot-technician",
-    "title": "TMC Recruitment 2026 – OT Technician Posts",
-    "shortInfo": "TMC has announced notification for OT Technician posts. Required qualification: 12TH, Diploma, B.Sc. Last date to apply: 14-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "14-08-26",
-    "officialWebsite": "https://tmc.gov.in/postmaster/ViewFile?FileId=cN8B7NZKL9fNXqI7sYJs6A==",
-    "notificationLink": "https://tmc.gov.in/postmaster/ViewFile?FileId=cN8B7NZKL9fNXqI7sYJs6A==",
-    "applyOnlineLink": "https://tmc.gov.in/postmaster/ViewFile?FileId=cN8B7NZKL9fNXqI7sYJs6A==",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-08-17"
-  },
-  {
-    "id": "punjab-hbchrc-ot-technician",
-    "title": "HBCHRC Recruitment 2026 – OT Technician Posts",
-    "shortInfo": "HBCHRC has announced notification for OT Technician posts. Required qualification: Any Graduate, Diploma, 12TH. Last date to apply: 14-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "14-08-26",
-    "officialWebsite": "https://tmc.gov.in/postmaster/ViewFile?FileId=cN8B7NZKL9fNXqI7sYJs6A==",
-    "notificationLink": "https://tmc.gov.in/postmaster/ViewFile?FileId=cN8B7NZKL9fNXqI7sYJs6A==",
-    "applyOnlineLink": "https://tmc.gov.in/postmaster/ViewFile?FileId=cN8B7NZKL9fNXqI7sYJs6A==",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "punjab-pgimer-assistant-professor",
@@ -338,7 +411,7 @@
     "applyOnlineLink": "https://pgimer.edu.in/PGIMER_PORTAL/PGIMERPORTAL/Vacancies/JSP/ViewAll.jsp?record=15445",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "punjab-rcf kapurthala-act-apprentices",
@@ -355,7 +428,7 @@
     "applyOnlineLink": "https://pardarsy.railnet.gov.in/apprentice-2026/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "General/OBC",
@@ -469,7 +542,7 @@
     "applyOnlineLink": "https://aiimsbathinda.edu.in/images/Reqruitment/20260807085820.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "punjab-iit ropar-postdoctoral-research",
@@ -486,7 +559,7 @@
     "applyOnlineLink": "https://www.iitrpr.ac.in/api/v2/files/download/187",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "punjab-iocl nr-trade-apprentice-technician-apprentice-graduate-ap",
@@ -503,7 +576,7 @@
     "applyOnlineLink": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=B0Xxorf6hUGfjbuyZc4E5cLJ-uU_mEhAqmZkmr5RuPNURVVPR0FLNjRVMjBJOVFZSkNCN0czODE2Ty4u&route=shorturl",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "Fee",
@@ -645,7 +718,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/sbijasrdjl26/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "SC/ST/PwBD/XS/DXS",
@@ -710,137 +783,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0352b738b303d90a884137546353e0/uploads/2026/08/2026080611.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-08-17"
-  },
-  {
-    "id": "punjab-iim amritsar-research-assistant",
-    "title": "IIM Amritsar Recruitment 2026 – Research Assistant Posts",
-    "shortInfo": "IIM Amritsar has announced notification for Research Assistant posts. Required qualification: . Last date to apply: 17-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "17-08-26",
-    "officialWebsite": "https://iimamritsar.ac.in/storage/files/1785831314-0-9472.pdf",
-    "notificationLink": "https://iimamritsar.ac.in/storage/files/1785831314-0-9472.pdf",
-    "applyOnlineLink": "https://iimamritsar.ac.in/storage/files/1785831314-0-9472.pdf",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-08-17"
-  },
-  {
-    "id": "punjab-district court sbs nagar-clerk",
-    "title": "District Court SBS Nagar Recruitment 2026 – Clerk Posts",
-    "shortInfo": "District Court SBS Nagar has announced notification for Clerk posts. Required qualification: B.A, 10TH, B.Sc. Last date to apply: 13-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "13",
-    "lastDate": "13-08-26",
-    "officialWebsite": "https://sbsnagar.dcourts.gov.in/",
-    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec024ad13f04ef4373992c9d3046200a/uploads/2026/07/2026072875.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/district-court-sbs-nagar-clerk-recruitment-2026/",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-08-17",
-    "fees": [
-      {
-        "category": "Fee",
-        "fee": "No Fee"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Last Date to Submit Application",
-        "date": "13/08/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Clerk (On Adhoc Basis) - Freedom Fighter (Female)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Clerk (On Adhoc Basis) - Sportsmen (Gen./Female)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Clerk (On Adhoc Basis) - Sportsmen (SC/Male)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Clerk (On Adhoc Basis) - SC Other (Female)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Clerk (On Adhoc Basis) - PHC of Punjab (L.V./Blindness) (Female)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Clerk (On Adhoc Basis) - ESM of Punjab (Gen./Male)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Clerk (On Adhoc Basis) - ESM of Punjab (Gen./Female)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Clerk (On Adhoc Basis) - ESM of Punjab (Other SC/Male)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Obtain the prescribed proforma (application form) as provided in the notification.",
-      "Fill in the application form with complete bio-data in block letters.",
-      "Attach self-attested copies of all testimonials/certificates (educational qualifications, category proof, date of birth proof, etc.).",
-      "Attach two recent passport size photographs duly signed by the candidate.",
-      "Mention your contact number and e-mail ID in the application.",
-      "Submit the completed application along with all enclosures to the Office of the District &amp; Sessions Judge, Shaheed Bhagat Singh Nagar by 5:00 PM on 13.08.2026 either in person or by post.",
-      "Check the official website https://districts.ecourts.gov.in/nawanshahr regularly for updates regarding test schedule and venue."
-    ]
-  },
-  {
-    "id": "punjab-pau-junior-lab-field-helper",
-    "title": "PAU Recruitment 2026 – Junior Lab/ Field Helper Posts",
-    "shortInfo": "PAU has announced notification for Junior Lab/ Field Helper posts. Required qualification: 8TH. Last date to apply: 13-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "13-08-26",
-    "officialWebsite": "https://pau.edu/index.php?_act=manageVacancy&#038;DO=viewVacancyDetail&#038;intID=7488",
-    "notificationLink": "https://pau.edu/index.php?_act=manageVacancy&#038;DO=viewVacancyDetail&#038;intID=7488",
-    "applyOnlineLink": "https://pau.edu/index.php?_act=manageVacancy&#038;DO=viewVacancyDetail&#038;intID=7488",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "punjab-pau-research-associate-i-young-professional-i",
@@ -857,7 +800,7 @@
     "applyOnlineLink": "https://pau.edu/index.php?_act=manageVacancy&#038;DO=viewVacancyDetail&#038;intID=7489",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-08-17"
+    "scrapedAt": "2026-08-19"
   },
   {
     "id": "punjab-aiims bathinda-professor-additional-professor-associate-professor",
@@ -874,7 +817,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aiims-bathinda-faculty-recruitment-2026/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "General/OBC/EWS",
@@ -960,7 +903,7 @@
     "applyOnlineLink": "https://eservices.punjab.gov.in/loginWindow.do",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "General and Other Categories",
@@ -1022,7 +965,7 @@
     "applyOnlineLink": "https://nats.education.gov.in",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "Fee",
@@ -1080,7 +1023,7 @@
     "applyOnlineLink": "https://milkfed.pbrectt.in/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "General / All categories other than SC, EWS & PwD",
@@ -1223,77 +1166,6 @@
     ]
   },
   {
-    "id": "punjab-bfuhs-ophthalmic-officer",
-    "title": "BFUHS Recruitment 2026 – Ophthalmic Officer Posts",
-    "shortInfo": "BFUHS has announced notification for Ophthalmic Officer posts. Required qualification: Senior Secondary, Diploma in Ophthalmic Assistant. Last date to apply: 13-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "17",
-    "lastDate": "13-08-26",
-    "officialWebsite": "https://bfuhs.ac.in/indexm.aspx",
-    "notificationLink": "https://govtjobguru.in/wp-content/uploads/2026/07/BFUHS-Recruitment-2026.pdf",
-    "applyOnlineLink": "https://recruitment.ggsmch.org/form_bfu_26_27_ophthalmic-officer/",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-08-17",
-    "fees": [
-      {
-        "category": "All Categories except SC Category",
-        "fee": "Rs. 2360/- (Fee Rs. 2000 + GST Rs. 360 @ 18%)"
-      },
-      {
-        "category": "SC Category",
-        "fee": "Rs. 1180/- (Fee Rs. 1000 + GST Rs. 180 @ 18%)"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Start Date for Online Applications",
-        "date": "24/07/2026"
-      },
-      {
-        "event": "Last Date for Online Applications",
-        "date": "13/08/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Ophthalmic Officer",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the official University website: www.bfuhs.ac.in",
-      "Register and fill in the online application form carefully, selecting the correct category.",
-      "Upload all required documents and certificates issued by the Competent Authority.",
-      "Pay the application fee online (non-refundable) as applicable to your category.",
-      "Submit the application form before the last date i.e. 13/08/2026.",
-      "Candidates applying for more than one post must apply separately along with the necessary fees."
-    ]
-  },
-  {
-    "id": "punjab-echs-driver-medical-officer",
-    "title": "ECHS Recruitment 2026 – Driver, Medical Officer Posts",
-    "shortInfo": "ECHS has announced notification for Driver, Medical Officer posts. Required qualification: MBBS, Diploma, Any Graduate. Last date to apply: 14-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "33",
-    "lastDate": "14-08-26",
-    "officialWebsite": "https://www.echs.gov.in/assets/advertisement/Chandi%20mandir%20RC%20sadvt.pdf",
-    "notificationLink": "https://www.echs.gov.in/assets/advertisement/Chandi%20mandir%20RC%20sadvt.pdf",
-    "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/Chandi%20mandir%20RC%20sadvt.pdf",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-08-17"
-  },
-  {
     "id": "punjab-csir cmeri-technician-last-date-extended-",
     "title": "CSIR CMERI Recruitment 2026 – Technician (Last Date Extended) Posts",
     "shortInfo": "CSIR CMERI has announced notification for Technician (Last Date Extended) posts. Required qualification: SSC, ITI. Last date to apply: 13-09-26.",
@@ -1308,7 +1180,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/csir-cmeri-technician-recruitment-2026/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "General/OBC/EWS (other than Ex-Servicemen/SC/ST/Women/PwBD)",
@@ -1396,19 +1268,19 @@
   {
     "id": "punjab-punjab education recruitment directorate-lecturer-cadre-last-date-extended-",
     "title": "Punjab Education Recruitment Directorate Recruitment 2026 – Lecturer Cadre (Last Date Extended) Posts",
-    "shortInfo": "Punjab Education Recruitment Directorate has announced notification for Lecturer Cadre (Last Date Extended) posts. Required qualification: MA, B.Ed. Last date to apply: 17-08-26.",
+    "shortInfo": "Punjab Education Recruitment Directorate has announced notification for Lecturer Cadre (Last Date Extended) posts. Required qualification: MA, B.Ed. Last date to apply: 27-08-26.",
     "category": "Others",
     "categoryIcon": "🏢",
     "categoryMarathi": "Others",
     "district": "State Level",
     "vacancies": "1013",
-    "lastDate": "17-08-26",
+    "lastDate": "27-08-26",
     "officialWebsite": "https://erd.punjab.gov.in/",
     "notificationLink": "https://erd.punjab.gov.in/backlog_posts.aspx",
     "applyOnlineLink": "https://eservices.punjab.gov.in/directApply.do?serviceId=2221",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-08-17",
+    "scrapedAt": "2026-08-19",
     "fees": [
       {
         "category": "General / EWS / Ex-Servicemen / Sports",
@@ -1430,7 +1302,7 @@
       },
       {
         "event": "Closing Date for Apply Online (Extended Upto)",
-        "date": "17/08/2026"
+        "date": "27/08/2026"
       },
       {
         "event": "Exam Date (Economics)",

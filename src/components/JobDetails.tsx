@@ -320,6 +320,37 @@ export const JobDetails: React.FC<JobDetailsProps> = ({
               <ExternalLink size={12} />
             </a>
           </div>
+
+          {/* Social Connect Links */}
+          <div className="link-row" style={{ backgroundColor: '#f0f4f8', borderLeft: '4px solid #1877F2' }}>
+            <span className="link-row-label" style={{ fontWeight: 700, color: '#1877F2', display: 'flex', alignItems: 'center', gap: '8px' }}>
+              📢 Join Our Official Channels
+            </span>
+            <div style={{ display: 'flex', gap: '10px' }}>
+              <a
+                href="https://www.facebook.com/profile.php?id=100095116677443" 
+                target="_blank"
+                rel="noopener noreferrer"
+                className="btn-link-action"
+                style={{ backgroundColor: '#1877F2', minWidth: '120px', padding: '0.4rem 1rem' }}
+                title="Join our Facebook Page"
+              >
+                <span>Facebook</span>
+                <ExternalLink size={12} />
+              </a>
+              <a
+                href="https://www.instagram.com/sarkari_job_update/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="btn-link-action"
+                style={{ background: 'linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%)', minWidth: '120px', padding: '0.4rem 1rem' }}
+                title="Follow us on Instagram"
+              >
+                <span>Instagram</span>
+                <ExternalLink size={12} />
+              </a>
+            </div>
+          </div>
         </div>
       </section>
 

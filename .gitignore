@@ -26,3 +26,11 @@ dist-ssr
 # Deploy bundles
 netlify-bundle.zip
 
+
+# Local Social Media Automation Scripts
+scripts/instagram/
+public/ig_post_output.jpg
+.env
+facebook_cover*.jpg
+sarkari_job_logo*.jpg
+profile_logo*.jpg

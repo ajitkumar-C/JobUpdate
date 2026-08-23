@@ -879,6 +879,8 @@ export const App: React.FC = () => {
             </div>
           </div>
         </div>
+      )}
+
       {/* Floating Social Widget */}
       {!isAdminMode && (
         <div 

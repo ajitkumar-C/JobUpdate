@@ -328,7 +328,7 @@ export const JobDetails: React.FC<JobDetailsProps> = ({
             </span>
             <div style={{ display: 'flex', gap: '10px' }}>
               <a
-                href="https://www.facebook.com/profile.php?id=100095116677443" 
+                href="https://www.facebook.com/profile.php?id=61593405460663" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-link-action"
@@ -339,7 +339,7 @@ export const JobDetails: React.FC<JobDetailsProps> = ({
                 <ExternalLink size={12} />
               </a>
               <a
-                href="https://www.instagram.com/sarkari_job_update/"
+                href="https://www.instagram.com/sarkari__job_update/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-link-action"

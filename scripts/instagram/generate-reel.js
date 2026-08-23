@@ -95,7 +95,9 @@ async function run() {
         .replace('{{FEE_GEN}}', feeGen)
         .replace('{{FEE_SC}}', feeSc);
 
-    const browser = await puppeteer.launch();
+    const browser = await puppeteer.launch({
+        args: ['--no-sandbox', '--disable-setuid-sandbox']
+    });
     const page = await browser.newPage();
     await page.setViewport({ width: 1080, height: 1920 });
     await page.setContent(htmlContent, { waitUntil: 'networkidle0' });

@@ -879,6 +879,87 @@ export const App: React.FC = () => {
             </div>
           </div>
         </div>
+      {/* Floating Social Widget */}
+      {!isAdminMode && (
+        <div 
+          className="floating-social-widget no-print"
+          style={{
+            position: 'fixed',
+            bottom: '25px',
+            right: '25px',
+            display: 'flex',
+            flexDirection: 'column',
+            gap: '12px',
+            zIndex: 9999,
+          }}
+        >
+          <a
+            href="https://www.facebook.com/profile.php?id=61593405460663"
+            target="_blank"
+            rel="noopener noreferrer"
+            title="Follow us on Facebook"
+            style={{
+              backgroundColor: '#1877F2',
+              color: 'white',
+              width: '52px',
+              height: '52px',
+              borderRadius: '50%',
+              display: 'flex',
+              justifyContent: 'center',
+              alignItems: 'center',
+              boxShadow: '0 4px 12px rgba(0,0,0,0.3)',
+              transition: 'transform 0.2s',
+            }}
+            onMouseOver={(e) => e.currentTarget.style.transform = 'scale(1.1)'}
+            onMouseOut={(e) => e.currentTarget.style.transform = 'scale(1)'}
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg>
+          </a>
+          <a
+            href="https://www.instagram.com/sarkari__job_update/"
+            target="_blank"
+            rel="noopener noreferrer"
+            title="Follow us on Instagram"
+            style={{
+              background: 'linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%)',
+              color: 'white',
+              width: '52px',
+              height: '52px',
+              borderRadius: '50%',
+              display: 'flex',
+              justifyContent: 'center',
+              alignItems: 'center',
+              boxShadow: '0 4px 12px rgba(0,0,0,0.3)',
+              transition: 'transform 0.2s',
+            }}
+            onMouseOver={(e) => e.currentTarget.style.transform = 'scale(1.1)'}
+            onMouseOut={(e) => e.currentTarget.style.transform = 'scale(1)'}
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg>
+          </a>
+          {/* Telegram Placeholder - Easily configurable later */}
+          <a
+            href="#"
+            onClick={(e) => { e.preventDefault(); alert('Telegram channel coming soon!'); }}
+            title="Join our Telegram Group"
+            style={{
+              backgroundColor: '#0088cc',
+              color: 'white',
+              width: '52px',
+              height: '52px',
+              borderRadius: '50%',
+              display: 'flex',
+              justifyContent: 'center',
+              alignItems: 'center',
+              boxShadow: '0 4px 12px rgba(0,0,0,0.3)',
+              transition: 'transform 0.2s',
+            }}
+            onMouseOver={(e) => e.currentTarget.style.transform = 'scale(1.1)'}
+            onMouseOut={(e) => e.currentTarget.style.transform = 'scale(1)'}
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg>
+          </a>
+        </div>
       )}
     </div>
   );

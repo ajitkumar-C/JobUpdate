@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sarkari Infographic Template</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700;900&display=swap" rel="stylesheet">
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { 
+            width: 1080px; height: 1080px; 
+            font-family: 'Montserrat', sans-serif; 
+            background: linear-gradient(180deg, #eaf2fa 0%, #d5e5f5 100%);
+            position: relative; overflow: hidden; display: flex; flex-direction: column;
+        }
+
+        /* Diagonal Watermark */
+        .watermark {
+            position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotate(-35deg);
+            font-size: 90px; font-weight: 900; color: rgba(12, 35, 64, 0.04);
+            white-space: nowrap; z-index: 0; pointer-events: none; letter-spacing: 5px;
+        }
+
+        /* Header Section */
+        .header {
+            background: #0d1e38; color: #e2bc65;
+            text-align: center; padding: 35px 20px 45px;
+            border-bottom: 12px solid #e2bc65;
+            border-radius: 0 0 50% 50% / 0 0 20px 20px;
+            position: relative; z-index: 1;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+        }
+        .header h1 { font-size: 55px; text-transform: uppercase; font-weight: 900; line-height: 1.1; margin-bottom: 5px; }
+        .header h2 { font-size: 28px; color: #fff; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; }
+
+        /* Card Component */
+        .card {
+            background: #0d1e38; border: 4px solid #e2bc65; border-radius: 20px;
+            margin: 45px 35px 0; position: relative; padding: 45px 25px 20px; color: #fff;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1); z-index: 1;
+        }
+        .card-title {
+            background: #e2bc65; color: #0d1e38; font-size: 28px; font-weight: 900;
+            padding: 8px 30px; border-radius: 12px; position: absolute; top: -25px; left: 50%; transform: translateX(-50%);
+            white-space: nowrap; text-transform: uppercase; box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+        }
+
+        /* Vacancies Box */
+        .vacancies-grid { display: flex; justify-content: space-around; text-align: center; align-items: flex-start; }
+        .vacancy-item { flex: 1; border-right: 2px solid rgba(255,255,255,0.15); padding: 0 10px; }
+        .vacancy-item:last-child { border: none; }
+        .icon-large { font-size: 65px; margin-bottom: 15px; display: block; }
+        .post-name { font-size: 24px; font-weight: 700; line-height: 1.2; margin-bottom: 8px; min-height: 58px; display: flex; align-items: center; justify-content: center; }
+        .post-count { color: #e2bc65; font-size: 26px; font-weight: 900; }
+
+        /* Details Box */
+        .dates-grid { 
+            display: flex; justify-content: space-between; text-align: center; 
+            border-bottom: 2px solid rgba(255,255,255,0.15); padding-bottom: 25px; margin-bottom: 25px; 
+        }
+        .date-item { flex: 1; position: relative; }
+        /* Connecting line for dates */
+        .date-item:not(:last-child)::after {
+            content: ''; position: absolute; top: 35px; right: -25px; width: 50px; height: 2px; background: #e2bc65; z-index: 0;
+        }
+        .date-icon { font-size: 55px; position: relative; z-index: 2; background: #0d1e38; padding: 0 10px; }
+        .date-item h3 { font-size: 20px; color: #e2bc65; margin: 12px 0 5px; font-weight: 700; }
+        .date-item p { font-size: 22px; font-weight: 900; margin: 0; }
+
+        /* Eligibility & Fee layout inside Details box */
+        .eligibility-fee { display: flex; justify-content: space-between; align-items: stretch; }
+        .elig-left { width: 62%; font-size: 24px; font-weight: 600; display: flex; flex-direction: column; justify-content: space-around; }
+        .elig-row { display: flex; align-items: flex-start; margin-bottom: 12px; line-height: 1.3; }
+        .elig-row .icon-small { font-size: 32px; margin-right: 15px; }
+        .elig-highlight { color: #e2bc65; font-weight: 900; }
+
+        .fee-box { 
+            width: 34%; border: 3px solid #e2bc65; border-radius: 12px; 
+            text-align: center; display: flex; flex-direction: column; overflow: hidden;
+        }
+        .fee-box h3 { background: #e2bc65; color: #0d1e38; padding: 10px; font-size: 22px; font-weight: 900; text-transform: uppercase; }
+        .fee-content { padding: 15px 10px; flex-grow: 1; display: flex; flex-direction: column; justify-content: center; }
+        .fee-text { font-size: 22px; font-weight: 700; margin-bottom: 8px; line-height: 1.4; }
+        .fee-icons { font-size: 30px; letter-spacing: 15px; margin-top: 5px; color: #e2bc65; }
+
+        /* How to Apply Box */
+        .how-to { display: flex; justify-content: space-around; text-align: center; font-size: 19px; font-weight: 800; margin-bottom: 15px; }
+        .how-item { flex: 1; border-right: 2px solid rgba(255,255,255,0.15); padding: 0 10px; text-transform: uppercase; }
+        .how-item:last-child { border: none; }
+        .website-btn-container { text-align: center; margin-top: 10px; }
+        .website-btn { 
+            background: transparent; border: 3px solid #fff; border-radius: 40px; 
+            padding: 10px 40px; font-size: 28px; font-weight: 700; color: #fff; display: inline-block; 
+        }
+        .apply-before-container { text-align: center; margin-top: 25px; }
+        .apply-before { 
+            background: #e2bc65; color: #0d1e38; font-size: 26px; font-weight: 900; 
+            padding: 12px 40px; border-radius: 40px; display: inline-block; box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+            border: 2px solid #fff;
+        }
+    </style>
+</head>
+<body>
+    <div class="watermark">SARKARIAVEDAN.INFO &nbsp; SARKARIAVEDAN.INFO</div>
+
+    <!-- Header -->
+    <div class="header">
+        <h1 id="dept-name">{{DEPT_NAME}}</h1>
+        <h2>OFFICIAL JOB NOTIFICATION</h2>
+    </div>
+
+    <!-- Vacancies Card -->
+    <div class="card">
+        <div class="card-title">POSITIONS & VACANCIES</div>
+        <div class="vacancies-grid">
+            <div class="vacancy-item">
+                <span class="icon-large">⚖️</span>
+                <div class="post-name">{{POST_1_NAME}}</div>
+                <div class="post-count">{{POST_1_COUNT}}</div>
+            </div>
+            <div class="vacancy-item">
+                <span class="icon-large">📄</span>
+                <div class="post-name">{{POST_2_NAME}}</div>
+                <div class="post-count">{{POST_2_COUNT}}</div>
+            </div>
+            <div class="vacancy-item">
+                <span class="icon-large">💻</span>
+                <div class="post-name">{{POST_3_NAME}}</div>
+                <div class="post-count">{{POST_3_COUNT}}</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Details Card -->
+    <div class="card">
+        <div class="card-title">IMPORTANT DATES & ELIGIBILITY</div>
+        
+        <div class="dates-grid">
+            <div class="date-item">
+                <div class="date-icon">📅</div>
+                <h3>App Starts:</h3>
+                <p>{{START_DATE}}</p>
+            </div>
+            <div class="date-item">
+                <div class="date-icon">⏰</div>
+                <h3>Closes:</h3>
+                <p style="color: #ff5252;">{{LAST_DATE}}</p>
+            </div>
+            <div class="date-item">
+                <div class="date-icon">📝</div>
+                <h3>Exam Date:</h3>
+                <p>{{EXAM_DATE}}</p>
+            </div>
+            <div class="date-item">
+                <div class="date-icon">🎟️</div>
+                <h3>Admit Card:</h3>
+                <p>{{ADMIT_CARD_DATE}}</p>
+            </div>
+        </div>
+
+        <div class="eligibility-fee">
+            <div class="elig-left">
+                <div class="elig-row">
+                    <span class="icon-small">🎓</span>
+                    <div>{{ELIGIBILITY}}</div>
+                </div>
+                <div class="elig-row">
+                    <span class="icon-small">🔞</span>
+                    <div><span class="elig-highlight">Age Limit:</span> {{AGE_LIMIT}}</div>
+                </div>
+                <div class="elig-row">
+                    <span class="icon-small">👨‍💼</span>
+                    <div><span class="elig-highlight">Age Relaxation:</span> As per rules</div>
+                </div>
+            </div>
+            <div class="fee-box">
+                <h3>APPLICATION FEE</h3>
+                <div class="fee-content">
+                    <div class="fee-text">{{FEE_DETAILS_1}}</div>
+                    <div class="fee-text">{{FEE_DETAILS_2}}</div>
+                    <div class="fee-icons">🌐💳🏛️</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Apply Card -->
+    <div class="card" style="padding-bottom: 25px;">
+        <div class="card-title">HOW TO APPLY</div>
+        <div class="how-to">
+            <div class="how-item">1. Read Official<br>Notification</div>
+            <div class="how-item">2. Fill Online<br>Form on Website</div>
+            <div class="how-item">3. Pay Fee &<br>Print Application</div>
+        </div>
+        <div class="website-btn-container">
+            <div class="website-btn">https://www.sarkariavedan.info</div>
+        </div>
+    </div>
+
+    <div class="apply-before-container">
+        <div class="apply-before">APPLY ONLINE BEFORE {{LAST_DATE}}</div>
+    </div>
+
+</body>
+</html>

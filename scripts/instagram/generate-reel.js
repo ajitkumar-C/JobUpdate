@@ -4,6 +4,9 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import axios from 'axios';
 import FormData from 'form-data';
+import dotenv from 'dotenv';
+
+dotenv.config({ path: path.resolve(process.cwd(), '.env') });
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);

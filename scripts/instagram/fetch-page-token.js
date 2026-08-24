@@ -2,7 +2,7 @@ import axios from 'axios';
 import fs from 'fs';
 import path from 'path';
 
-const userToken = 'EAAYGyV7AXLMBSdLABixTeRKSZCaPZCZBXHMngVQ7vTG3pevTiWh1nyAPYAQuh0E2m3ZAZBckHUeTYSmSngUaihCtoz5IlDib5t1cFjKcXo5UEGLpsg8xkpjJIHcE3NkuA1NnzumZCPHbWywHxQedflHZC9pZBmerRmWmRMpo0oMxrlDuqgZCQqRXHkJHDmZBPI3HvvbSzGpbvKLoQMKoiJuoGxl2qYk6Fs2g1E';
+const userToken = 'PLACEHOLDER_USER_TOKEN';
 
 async function fetchPageToken() {
     try {

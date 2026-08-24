@@ -14,12 +14,10 @@ const jobsFile = path.resolve(process.cwd(), 'scraped-jobs.json'); // Main JSON 
 
 // The 6 Jobs requested to be batch posted
 const TARGET_JOBS = [
+    "NTPC Sail Power Company Limited",
     "NTPC Green Energy Limited Recruitment 2026",
-    "MPESB MP Group 2 Sub Group 4 Patwari",
-    "IBPS Clerk CRP XVI 16th Recruitment 2026",
-    "Railway RRB Assistant Loco Pilot ALP",
     "SSC Selection Post 14th Recruitment 2026",
-    "The Cotton Corporation of India Ltd. CCI Recruitment"
+    "BMC Recruitment 2026 – 612 Apprentice Posts"
 ];
 
 // Helper to delay execution (for scheduling 2-3 mins apart)

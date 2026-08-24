@@ -5,6 +5,7 @@ import { fileURLToPath } from 'url';
 import axios from 'axios';
 import FormData from 'form-data';
 import dotenv from 'dotenv';
+import { getCategoryTheme } from './template-matcher.js';
 
 dotenv.config({ path: path.resolve(process.cwd(), '.env') });
 
@@ -72,6 +73,9 @@ async function run() {
     // Read Template
     const templatePath = path.join(__dirname, 'template-reel.html');
     let htmlContent = fs.readFileSync(templatePath, 'utf8');
+    
+    const themeCSS = getCategoryTheme(job.title);
+    htmlContent = htmlContent.replace('</head>', `${themeCSS}</head>`);
 
     // Extract Variables
     let eligibility = 'Check Full Notification';

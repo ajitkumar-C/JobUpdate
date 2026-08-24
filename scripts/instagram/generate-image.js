@@ -2,6 +2,7 @@ import puppeteer from 'puppeteer';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { getCategoryTheme } from './template-matcher.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -11,6 +12,9 @@ export async function generateInstagramImage(jobData) {
     let htmlContent = fs.readFileSync(templatePath, 'utf8');
 
     const title = jobData.title || 'Latest Update';
+    const themeCSS = getCategoryTheme(title);
+    
+    htmlContent = htmlContent.replace('</head>', `${themeCSS}</head>`);
     
     // Dates
     const startDate = jobData.applicationStart || 'Soon';

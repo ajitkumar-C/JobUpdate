@@ -51,13 +51,20 @@ async function run() {
     const jobName = process.argv[2] || "NTPC Green Energy";
     
     // Load job data
-    const jobsFile = path.resolve(process.cwd(), 'scraped-jobs.json');
-    if (!fs.existsSync(jobsFile)) {
-        console.error("No scraped-jobs.json found");
+    let jobs = [];
+    const jobsFile1 = path.resolve(process.cwd(), 'public', 'scraped-jobs.json');
+    const jobsFile2 = path.resolve(process.cwd(), 'public', 'scraped-jobs-mh.json');
+    const jobsFile3 = path.resolve(process.cwd(), 'scraped-jobs.json'); // Legacy path
+
+    if (fs.existsSync(jobsFile1)) jobs = jobs.concat(JSON.parse(fs.readFileSync(jobsFile1, 'utf8')));
+    if (fs.existsSync(jobsFile2)) jobs = jobs.concat(JSON.parse(fs.readFileSync(jobsFile2, 'utf8')));
+    if (fs.existsSync(jobsFile3)) jobs = jobs.concat(JSON.parse(fs.readFileSync(jobsFile3, 'utf8')));
+
+    if (jobs.length === 0) {
+        console.error("No scraped-jobs JSON files found");
         process.exit(1);
     }
     
-    const jobs = JSON.parse(fs.readFileSync(jobsFile, 'utf8'));
     const job = jobs.find(j => j.title.toLowerCase().includes(jobName.toLowerCase())) || jobs[0];
 
     console.log(`Generating Reel for: ${job.title}`);

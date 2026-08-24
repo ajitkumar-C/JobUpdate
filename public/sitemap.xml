@@ -72,6 +72,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sarkariavedan.info/job/result-dates-dates</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sarkariavedan.info/job/result-bihar-bpsc-auditor-under-panchayati-raj</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -93,11 +98,6 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/result-delhi-dsssb-new-latest-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/result-updeled-2-year-course-admissions-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -132,6 +132,21 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-bihar-state-eligibility-test-bseb-stet</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-state-bank-india-sbi-junior-associates</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-up-upsssc-preliminary-examination-test-pet</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sarkariavedan.info/job/latest-jobs-ntpc-sail-power-company-limited-nspcl</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -142,22 +157,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-mpesb-mp-group-2-sub-group</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sarkariavedan.info/job/latest-jobs-ibps-clerk-crp-xvi-16th-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-up-anganwadi-worker-bharti-2026-district</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-up-uttar-pradesh-anganwadi-helper-bharti</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -332,6 +332,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sarkariavedan.info/job/result-oicl-administrative-officer-score-card-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sarkariavedan.info/job/result-bpsc-auditor-pre-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -357,7 +362,17 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/result-ssc-je-engineer-marks-2026</loc>
+    <loc>https://sarkariavedan.info/job/admit-card-aiims-cre-5th-group-b-c</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-rpsc-statistical-officer-city-details-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-ongc-geologists-engineers-e1-admit-card</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -377,47 +392,32 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/admit-card-railway-rrb-alp-application-status-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/admit-card-ssc-selection-phase-14-date-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/admit-card-upsssc-stenographer-09-2023-skill-test</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-mpesb-group-2-sub-group-4</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-rcfl-management-trainee-mt-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-rrvunl-je-junior-assistant-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sarkariavedan.info/job/latest-jobs-upsssc-pet-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-upsc-epfo-apfc-2026</loc>
+    <loc>https://sarkariavedan.info/job/latest-jobs-sbi-junior-associates-clerk-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/latest-jobs-ibps-clerk-csa-16th-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-ntpc-green-energy-limited-dgm-ae</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-upsssc-forensic-science-laboratory-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-rcfl-management-trainee-mt-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -508,6 +508,61 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/admission-bihar-bseb-deled-common-application-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/result-updeled-2-year-course-admissions-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-mpesb-mp-group-2-sub-group</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-up-anganwadi-worker-bharti-2026-district</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-up-uttar-pradesh-anganwadi-helper-bharti</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/result-ssc-je-engineer-marks-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-railway-rrb-alp-application-status-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-ssc-selection-phase-14-date-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-upsssc-stenographer-09-2023-skill-test</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-mpesb-group-2-sub-group-4</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-rrvunl-je-junior-assistant-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-upsc-epfo-apfc-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -698,16 +753,6 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/latest-jobs-bihar-school-teacher-tre-4-0</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-state-bank-india-sbi-junior-associates</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-up-upsssc-preliminary-examination-test-pet</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -922,11 +967,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-bihar-state-eligibility-test-bseb-stet</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sarkariavedan.info/job/latest-jobs-rajasthan-rssb-junior-engineer-2026-874</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -993,11 +1033,6 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/latest-jobs-bihar-stet-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-upsssc-forensic-science-laboratory-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1363,11 +1398,6 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/latest-jobs-rrb-junior-engineer-je-recruitment-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-sbi-junior-associates-clerk-recruitment-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

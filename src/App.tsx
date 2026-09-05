@@ -767,7 +767,7 @@ export const App: React.FC = () => {
           <div className="drawer-container" onClick={(e) => e.stopPropagation()}>
             <div className="drawer-header">
               <div className="drawer-brand">
-                <div className="header-logo">SA</div>
+                <img src="/sarkariavedan_logo.jpg" alt="Logo" className="header-logo" style={{width: '40px', height: '40px', borderRadius: '50%', objectFit: 'cover'}} />
                 <div className="drawer-title-container" style={{ display: 'flex', flexDirection: 'column' }}>
                   <span className="header-title" style={{ fontSize: '1.2rem', fontWeight: 800 }}>सरकारी आवेदन</span>
                   <span className="header-subtitle" style={{ fontSize: '0.7rem' }}>Sarkari Aavedan</span>

@@ -30,7 +30,7 @@ export const Header: React.FC<HeaderProps> = ({
         <div className="header-menu-toggle">
           <Menu size={20} />
         </div>
-        <div className="header-logo">SA</div>
+        <img src="/sarkariavedan_logo.jpg" alt="Sarkari Avedan Logo" className="header-logo" style={{width: '40px', height: '40px', borderRadius: '50%', objectFit: 'cover'}} />
         <div className="header-title-container">
           <h1 className="header-title">सरकारी आवेदन</h1>
           <span className="header-subtitle">Sarkari Aavedan</span>

@@ -99,6 +99,9 @@ export const App: React.FC = () => {
     if (window.location.pathname !== path) {
       window.history.pushState({}, '', path);
     }
+    
+    // Always scroll to top when navigating
+    window.scrollTo({ top: 0, behavior: 'instant' });
   };
 
   const handleRouting = () => {

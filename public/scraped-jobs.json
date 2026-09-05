@@ -3,7 +3,7 @@
     "id": "result-emrs-nvs-teaching-non-teaching-2025",
     "title": "EMRS NVS Teaching & Non Teaching Recruitment 2025 Download Tier I Result with Cutoff, Tier II Exam Result",
     "category": "Result",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "EkLavya Model Residential School EMRS has released Teaching and Non Teaching Various Post Exam Notification 2025. Those candidates who are Enrolled and Appeared in EMRS Teaching and Non Teaching Post Can Check and Download the Result. Read the notification for EMRS Exam, eligibility, Vacancy Details information, Document Required, age limit, How to Apply and all other information.",
     "applicationStart": "19/09/2025",
     "applicationLastDate": "28/10/2025",
@@ -76,7 +76,7 @@
     "id": "result-rajasthan-rpsc-deputy-jailor-2024-73",
     "title": "Rajasthan RPSC Deputy Jailor Recruitment 2024 Result for 73 Post",
     "category": "Result",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Rajasthan Public Service Commission (RPSC) has released the advertisement of Deputy Jailor Recruitment 2024. Those Candidates Are Enrolled with Vacancy Can Download Result. For other information related to Deputy Jailor Exam 2024 recruitment like syllabus, age limit, qualification, pay scale and all other information read the advertisement and then apply.",
     "applicationStart": "08/07/2024",
     "applicationLastDate": "06/08/2024",
@@ -113,7 +113,7 @@
     "id": "result-uttar-pradesh-teacher-eligibility-test-upessc",
     "title": "Uttar Pradesh Teacher Eligibility Test UPESSC UP TET 2026 Result (Declared), New Notice",
     "category": "Result",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Uttar Pradesh Education Service Selection Commission (UPESSC) has released the Uttar Pradesh Teacher Eligibility Test UPTET 2026 Answer Key Notice. Those Candidates are Enrolled to the Following Exam Can Download Result .candidates should read the UPTET 2026 information brochure for all the information related to the UPTET exam like syllabus, eligibility, age limit, fees, Primary and Junior Level, information and other types of information and then apply.",
     "applicationStart": "27/03/2026",
     "applicationLastDate": "03/05/2026",
@@ -149,7 +149,7 @@
     "id": "result-uppsc-computer-assistant-2025-typing-test",
     "title": "UPPSC Computer Assistant Recruitment 2025 Typing Test Admit Card 2026",
     "category": "Result",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Uttar Pradesh Public Service Commission UPPSC has released the Computer Assistant Recruitment Advt No : A-4/E-1/2025 Notification. Those candidates who are Enrolled in this UPPSC Computer Assistant Recruitment 2025 can Download Result. Read the notification for UPPSC Various Post 2025 Exam, eligibility, Subject Details information, Document Required, age limit, How to Apply and all other information.",
     "applicationStart": "01/07/2025",
     "applicationLastDate": "01/08/2025",
@@ -197,7 +197,7 @@
     "id": "result-uppsc-assistant-grade-lt-grade-teacher",
     "title": "UPPSC Assistant Grade LT Grade Teacher Recruitment 2025 Mains Result 2026",
     "category": "Result",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Uttar Pradesh Public Service Commission UPPSC has released the Assistant Teacher LT Grade Examination 2025 Notification. Those candidates who are Enrolled and Appeared in UPPSC LT Grade Teacher Exam Can Download the Master Question Paper with Answer Key, Result. Read the notification for UPPSC LT Grade 2025 Exam, eligibility, Subject Details information, Document Required, age limit, How to Apply and all other information.",
     "applicationStart": "28/07/2025",
     "applicationLastDate": "28/08/2025",
@@ -235,7 +235,7 @@
     "id": "result-state-bank-india-sbi-probationary-officers",
     "title": "State Bank of India SBI Probationary Officers PO Recruitment 2026 : Pre Score Card, Mains Admit Card 2026",
     "category": "Result",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "State Bank of India SBI has released Probationary Officers PO Recruitment 2026 Notification. Those candidates Are Enrolled to the Following SBI PO Recruitment 2026 Can Download Result. Read the notification for recruitment eligibility, post information, selection procedure, age limit, pay scale and all other information.",
     "applicationStart": "18/06/2026",
     "applicationLastDate": "08/07/2026",
@@ -285,10 +285,142 @@
     "status": "active"
   },
   {
+    "id": "admit-card-bihar-police-csbc-constable-special-branch",
+    "title": "Bihar Police CSBC Constable Special Branch Recruitment 2026 for 83 Post Admit Card",
+    "category": "Admit Card",
+    "postDate": "2026-09-05",
+    "shortInfo": "Central Selection Board of Constable CSBC has released the advertisement Bihar Police Constables (General Duty Close Cadre) in Special Branch of Bihar Police (Advt. No. 01/2026 ) . Those Candidates Are Enrolled with Bihar Police CSBC Constable GD Special branch Vacancy Can Download Result. For other information related to Bihar Police Constable 2026 recruitment like age limit, qualification, pay scale and all other information read the advertisement and then apply.",
+    "applicationStart": "06/02/2026",
+    "applicationLastDate": "05/03/2026",
+    "feeLastDate": "05/03/2026",
+    "examDate": "12/09/2026",
+    "admitCardDate": "05/09/2026",
+    "resultDate": "18/08/2026",
+    "fees": {
+      "generalObc": "100/-",
+      "scStPh": "81-86 CMS\nSC / ST : 79-84 CMS",
+      "paymentMode": "Online payment mode"
+    },
+    "ageLimit": {
+      "min": "18 Years.",
+      "max": "25 Years.",
+      "relaxationText": "Age Relaxation Extra as per Bihar Police Constable Special Branch Advt No. 01/2026 Recruitment 2026."
+    },
+    "vacancies": [
+      {
+        "postName": "Bihar Police CSBC Constable Special Branch",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://apply-csbc.com/CSBC_CT_01_2026_V1/applicationIndex",
+      "downloadNotification": "https://csbc.bihar.gov.in/Advt/Advt-01-2026-Special%20Branch%20Constable.pdf",
+      "officialWebsite": "http://csbc.bih.nic.in/Default.htm",
+      "admitCardUrl": "https://apply-csbc.com/csbc_12026_weadmitcard/searchApplication",
+      "resultUrl": "https://sarkariresultportal.com/"
+    },
+    "status": "active"
+  },
+  {
+    "id": "admit-card-nta-ugc-net-june-2026-re",
+    "title": "NTA UGC NET June 2026, Re Exam Admit Card",
+    "category": "Admit Card",
+    "postDate": "2026-09-05",
+    "shortInfo": "National Testing Agency (NTA) has released the University Grant Commission UGC National Eligibility Test NET Assistant Professor / JRF June 2026 Examination online application Form 2026 will start from 29 April 2026 and the last date to apply will be 24 May 2026. candidates should read the NTA UGC NET June 2026 information brochure for all the information related to the NET / JRF exam like syllabus, eligibility, age limit, fees, Subject Details, information and other types of information and then apply..",
+    "applicationStart": "29/04/2026",
+    "applicationLastDate": "24/05/2026",
+    "feeLastDate": "24/05/2026",
+    "examDate": "09-10 September 2026",
+    "admitCardDate": "17/06/2026",
+    "resultDate": "29/08/2026",
+    "fees": {
+      "generalObc": "Rs. 25/-",
+      "scStPh": "325/-",
+      "paymentMode": "Online payment mode"
+    },
+    "ageLimit": {
+      "max": "Maximum Age : 31 Years",
+      "relaxationText": "Age Relaxation Extra as Per UGC NET June 2026 Exam Rules"
+    },
+    "vacancies": [
+      {
+        "postName": "NTA UGC NET June 2026, Re Exam Admit Card",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://examinationservices.nic.in/ExamSys26Part2/Root/Home.aspx?enc=Ei4cajBkK1gZSfgr53ImFV/yIzhTZHBze3wooSg9Djgija2T1vzGc16BomrI4u26",
+      "downloadNotification": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/04/202604291863555100.pdf",
+      "officialWebsite": "https://ugcnet.nta.nic.in/",
+      "admitCardUrl": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/06/202606172040939335.pdf",
+      "resultUrl": "https://t.me/SarkariResult2012"
+    },
+    "status": "active"
+  },
+  {
+    "id": "admit-card-up-co-operative-institutional-service-board",
+    "title": "UP Co-Operative Institutional Service Board UPCISB Combined CoOperative Banking and Technical Services Various Post Recruitment 2026 Exam City / Admit Card",
+    "category": "Admit Card",
+    "postDate": "2026-09-05",
+    "shortInfo": "U.P. Co-Operative Institutional Service Board (UPCISB) has released the Combined Co-Operative Banking & Technical Services Examination (Special) 2026 Notification 2026. Those Candidates are Interested to the Following Exam Can Apply Online From 25/03/2026 to 15/04/2026.candidates should read the UPCISB 2026 Notification for all the information related to the UPCISB exam like syllabus, eligibility, age limit, fees, information and other types of information and then apply.",
+    "applicationStart": "25/03/2026",
+    "applicationLastDate": "15/04/2026",
+    "feeLastDate": "15/04/2026",
+    "examDate": "07-08 September 2026",
+    "admitCardDate": "2 Days Before Exam",
+    "fees": {
+      "generalObc": "Rs. 25/-",
+      "scStPh": "Rs. 25/-",
+      "paymentMode": "Pay the Exam Fee Through Online Debit Card / Credit Card / Net Banking /UPI Only."
+    },
+    "ageLimit": {
+      "min": "21 Years",
+      "max": "40 Years",
+      "relaxationText": "Age Relaxation Extra as per U.P. Co-Operative Institutional Service Board Combined Banking & Technical Services Examination Special Recruitment Rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Manager",
+        "totalPost": "07",
+        "eligibility": "Bachelor Degree in Commerce with 55% Marks. OR Bachelor Degree with One Subject in Economics / Mathematics / Statistics with 55% Marks. O Level Exam Passed OR B.Tech / BE Computer Science / IT / BCA / MCA with 55% Marks OR BBA / MBA in Banking / Finance HR OR PGDM Course More Eligibility Read the Notification"
+      },
+      {
+        "postName": "Junior Manager",
+        "totalPost": "45",
+        "eligibility": "Bachelor Degree in Commerce with 55% Marks. OR Bachelor Degree with One Subject in Economics / Mathematics / Statistics with 55% Marks. O Level Exam Passed OR B.Tech / BE Computer Science / IT / BCA / MCA with 55% Marks OR BBA / MBA in Banking / Finance HR OR PGDM Course More Eligibility Read the Notification"
+      },
+      {
+        "postName": "Assistant / Cashier (Banking Assistant / Clerical Staff)",
+        "totalPost": "57",
+        "eligibility": "Bachelor Degree in Any Stream with 55% Marks with CCC Exam Passed."
+      },
+      {
+        "postName": "Assistant / Typist",
+        "totalPost": "02",
+        "eligibility": "Bachelor Degree in Any Stream with Typing Speed 30 WPM Hindi and 40 WPM English. CCC Exam Passed."
+      },
+      {
+        "postName": "Assistant Engineer AE Civil",
+        "totalPost": "05",
+        "eligibility": "BE / B.Tech Degree in Civil Engineering."
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://ibpsreg.ibps.in/upcisbfeb26/",
+      "downloadNotification": "https://upcisb.upsdc.gov.in/",
+      "officialWebsite": "https://upcisb.upsdc.gov.in/",
+      "admitCardUrl": "https://doc.sarkariresults.org.in/NoticeBoard-4.pdf",
+      "resultUrl": "https://t.me/SarkariResult2012"
+    },
+    "status": "active"
+  },
+  {
     "id": "admit-card-upsc-combined-defence-service-cds-ii",
     "title": "UPSC Combined Defence Service CDS II Recruitment 2026 Exam Admit Card For 451 Post",
     "category": "Admit Card",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Union Public Service Commission (UPSC) has released Combined Defence Services Exam Second Examination 2026 Notification. Those candidates who are Interested in this UPSC CDS II Vacancy 2026 can Apply Online from 20/05/2026 to 11/06/2026. Read the notification for recruitment eligibility, post information, selection procedure, pay scale and all other information.",
     "applicationStart": "20/05/2026",
     "applicationLastDate": "11/06/2026",
@@ -325,7 +457,7 @@
     "id": "admit-card-upsc-nda-nda-ii-2026-admit",
     "title": "UPSC NDA & NDA II Recruitment 2026 Exam Admit Card 394 Post",
     "category": "Admit Card",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Union Public Service Commission (UPSC) has released National Defence Academy NDA & NA Second Examination 2026 Notification. Those candidates who are Interested in this UPSC NDA and NA II Examination 2026 can Apply Online from 20/05/2026 to 11/06/2026. Read the notification for recruitment eligibility, post information, selection procedure, pay scale and all other information.",
     "applicationStart": "20/05/2026",
     "applicationLastDate": "11/06/2026 upto 06:00 PM only",
@@ -360,7 +492,7 @@
     "id": "admit-card-aiims-nursing-officer-2026-phase-11th",
     "title": "AIIMS Nursing Officer Recruitment 2026 Phase 11th Exam City Details",
     "category": "Admit Card",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "All India Institute of Medical Science AIIMS NORCET 11th Combined Recruitment Test for Nursing Officer Post Recruitment 2026. Those candidates who are interested in this AIIMS Nursing Officer recruitment 2026. Can apply online from 24/07/2026 to 13/08/2026. up to 05:00 PM. Read the notification for recruitment eligibility, post information, selection procedure, age limit, pay scale and all other information.",
     "applicationStart": "24/07/2026",
     "applicationLastDate": "13/08/2026",
@@ -393,135 +525,10 @@
     "status": "active"
   },
   {
-    "id": "admit-card-state-bank-india-sbi-probationary-officers",
-    "title": "State Bank of India SBI Probationary Officers PO Recruitment 2026 : Pre Score Card, Mains Admit Card 2026",
-    "category": "Admit Card",
-    "postDate": "2026-09-04",
-    "shortInfo": "State Bank of India SBI has released Probationary Officers PO Recruitment 2026 Notification. Those candidates Are Enrolled to the Following SBI PO Recruitment 2026 Can Download Result. Read the notification for recruitment eligibility, post information, selection procedure, age limit, pay scale and all other information.",
-    "applicationStart": "18/06/2026",
-    "applicationLastDate": "08/07/2026",
-    "feeLastDate": "08/07/2026",
-    "examDate": "September 2026",
-    "admitCardDate": "22/07/2026",
-    "resultDate": "28/08/2026",
-    "fees": {
-      "generalObc": "750/-",
-      "scStPh": "0/-",
-      "paymentMode": "Pay the Exam Fee Through Debit Card / Credit Card / Net Banking / UPI Fee Mode Only."
-    },
-    "ageLimit": {
-      "min": "21 Years.",
-      "max": "30 Years.",
-      "relaxationText": "Age Relaxation Extra as per SBI Probationary Officers PO Recruitment 2026 Rules."
-    },
-    "vacancies": [
-      {
-        "postName": "SBI Probationary Officer (PO)",
-        "totalPost": "1500",
-        "eligibility": "Passed / Appearing Bachelor Degree in Any Stream in Any Recognized University in India. More Eligibility Details Read the Notification"
-      },
-      {
-        "postName": "Post Name",
-        "totalPost": "UR",
-        "eligibility": "EWS"
-      },
-      {
-        "postName": "SBI PO Regular Vacancies",
-        "totalPost": "588",
-        "eligibility": "144"
-      },
-      {
-        "postName": "SBI PO Backlog Vacancies",
-        "totalPost": "0",
-        "eligibility": "0"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://ibpsreg.ibps.in/sbipojun26/",
-      "downloadNotification": "https://www.sarkariresult.com/wp-content/uploads/2026/06/SBI_PO_Notification_18062026_1_Detailed_Adv.2026.pdf",
-      "officialWebsite": "https://sbi.bank.in/",
-      "admitCardUrl": "https://www.youtube.com/watch?v=_fYRs0Dbk_0",
-      "resultUrl": "https://t.me/SarkariResult2012"
-    },
-    "status": "active"
-  },
-  {
-    "id": "admit-card-high-court-delhi-application-system",
-    "title": "High Court of Delhi. Online Application Registration System",
-    "category": "Admit Card",
-    "postDate": "2026-09-04",
-    "shortInfo": "High Court of Delhi. Online Application Registration System. Read notification for detailed information.",
-    "applicationStart": "Available soon",
-    "applicationLastDate": "Refer to notification",
-    "feeLastDate": "Refer to notification",
-    "examDate": "To be announced",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "Rs. 25/-",
-      "scStPh": "Rs. 25/-",
-      "paymentMode": "Online payment mode"
-    },
-    "ageLimit": {
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "High Court of Delhi. Online Application Registration System",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://www.sarkariresult.com/",
-      "downloadNotification": "https://www.sarkariresult.com/",
-      "officialWebsite": "https://www.sarkariresult.com/"
-    },
-    "status": "active"
-  },
-  {
-    "id": "admit-card-delhi-higher-judicial-services-hjs-2026",
-    "title": "Delhi Higher Judicial Services HJS Result 2026, Mains Exam Date",
-    "category": "Admit Card",
-    "postDate": "2026-09-04",
-    "shortInfo": "High Court of Delhi, New Delhi has released Delhi High Court Higher Judicial Service Exam 2026 Notification. Those candidates who are Enrolled in this Delhi High Court HJS 2026 Exam can Check Mains Exam Date. Read the notification for Delhi HC HJS Exam, eligibility, Document Required, age limit, How to Apply and all other information.",
-    "applicationStart": "01/07/2026",
-    "applicationLastDate": "15/07/2026 upto 05:30 PM Only.",
-    "feeLastDate": "15/07/2026",
-    "examDate": "10-11 October 2026",
-    "admitCardDate": "21/07/2026",
-    "resultDate": "14/08/2026",
-    "fees": {
-      "generalObc": "Rs. 25/-",
-      "scStPh": "500/-",
-      "paymentMode": "Online payment mode"
-    },
-    "ageLimit": {
-      "min": "35 Years",
-      "max": "45 Years",
-      "relaxationText": "Age Relaxation Extra as per Delhi Higher Judicial Service Exam 2026 Recruitment Rules."
-    },
-    "vacancies": [
-      {
-        "postName": "Delhi High Court Higher Judicial Service Exam HJS 2026",
-        "totalPost": "27",
-        "eligibility": "Bachelor Degree in Law (LLB) in Any Recognized University in India. 7 Year Advocate Practice More Eligibility Details Read the Notification"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://applycareer.co.in/DHC/HighCourt2026DHJSE/",
-      "downloadNotification": "https://delhihighcourt.nic.in/files/2026-07/recuritment/adv-eng_dhjs-2026.pdf",
-      "officialWebsite": "https://delhihighcourt.nic.in/web/job-openings",
-      "syllabusUrl": "https://delhihighcourt.nic.in/files/2026-07/recuritment/important_instructions_dhjs-2026_0.pdf",
-      "admitCardUrl": "https://applycareer.co.in/dhc/highcourt2026dhjse/DHC_DHJSE26AdmitCard.aspx",
-      "resultUrl": "https://t.me/SarkariResult2012"
-    },
-    "status": "active"
-  },
-  {
     "id": "latest-jobs-upsssc-computer-operator-main-examination-2026",
     "title": "UPSSSC Computer Operator Main Examination 2026 Apply Online for 12 Post",
     "category": "Latest Jobs",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Uttar Pradesh Subordinate Service Selection Commission (UPSSSC) has Released UPSSSC Computer Operator Mains Examination Main Recruitment Notification. Those candidates who are interested in this UPSSSC Computer Operator Mains Examination Vacancy 2026 can Apply Online from 07/09/2026 to 28/09/2026. Read the notification for recruitment eligibility, post information, selection procedure, pay scale and all other information.",
     "applicationStart": "07/09/2026",
     "applicationLastDate": "28/09/2026",
@@ -567,7 +574,7 @@
     "id": "latest-jobs-mpesb-middle-school-primary-school-teacher",
     "title": "MPESB Middle School and Primary School Teacher MSPSTET 2026 Apply Online",
     "category": "Latest Jobs",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Madhya Pradesh Employee Selection Board (MPESB) has released Teachers Teaching in Primary and Secondary Classes Notification 2026. Those candidates who are Interested in this MPESB Primary and Middle School MSPSTET Exam 2026 can Apply Online from 21/08/2026 to 18/09/2026. Read the notification for recruitment eligibility, post information, selection procedure, pay scale and all other information.",
     "applicationStart": "21/08/2026",
     "applicationLastDate": "18/09/2026 Date Extended",
@@ -602,7 +609,7 @@
     "id": "latest-jobs-up-uttar-pradesh-anganwadi-helper-bharti",
     "title": "UP Uttar Pradesh Anganwadi Helper Bharti Recruitment 2026 Apply Online District Wise Vacancy Details, Maharajganj, Kanpur Nagar, Chitrakoot, Kushinagar, Lalitpur, Hamirpur, Balrampur",
     "category": "Latest Jobs",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Uttar Pradesh District Program Officer has released the advertisement of UP Anganwadi Helper Bharti Recruitment Notification 2026. Those Candidates Are Interested with Uttar Pradesh Anganwadi Helper Bharti Can Apply Online District Wise. For other information related to Uttar Pradesh Anganwadi Bharti recruitment like age limit, qualification, pay scale, District Wise Vacancy, and all other information read the advertisement and then apply.",
     "applicationStart": "District Wise",
     "applicationLastDate": "District Wise",
@@ -638,7 +645,7 @@
     "id": "latest-jobs-up-anganwadi-worker-bharti-2026-district",
     "title": "UP Anganwadi Worker Bharti Recruitment 2026 Apply Online District Wise Vacancy Details Maharajganj, Chitrakoot, Jhansi, Banda, Hamirpur, Fatehpur, Balrampur and other Various District",
     "category": "Latest Jobs",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Uttar Pradesh District Program Officer has released the advertisement of UP Anganwadi Worker Bharti Recruitment Notification 2026. Those Candidates Are Interested with Uttar Pradesh Anganwadi Worker Bharti Can Apply Online District Wise. For other information related to Uttar Pradesh Anganwadi Bharti recruitment like age limit, qualification, pay scale, District Wise Vacancy, and all other information read the advertisement and then apply.",
     "applicationStart": "District Wise",
     "applicationLastDate": "District Wise",
@@ -674,7 +681,7 @@
     "id": "latest-jobs-pfrda-officer-grade-assistant-manager-2026",
     "title": "PFRDA Officer Grade A Assistant Manager Recruitment 2026 Apply Online",
     "category": "Latest Jobs",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Pension Fund Regulatory and Development Authority PFRDA has released the notification for the recruitment of Assistant Manager Exam 2026. Those Candidates Are Interested to the Following PFRDA Assistant Manager Recruitment 2026 Vacancy Can Apply Online from 03/09/2026 to 24/09/2026. See the advertisement for information related to age limit, syllabus, Department wise post, selection procedure, pay scale in PFRDA Officer Grade A Assistant Manager Recruitment 2026.",
     "applicationStart": "03/09/2026",
     "applicationLastDate": "24/09/2026",
@@ -735,7 +742,7 @@
     "id": "latest-jobs-ibps-clerk-crp-xvi-16th-2026",
     "title": "IBPS Clerk CRP XVI 16th Recruitment 2026 Correction Form",
     "category": "Latest Jobs",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "IBPS Released the Notification for Common Recruitment Process Clerks in Participating Banks XVI Exam 2026. Those candidates who are interested in this IBPS Clerk CRP CSA 16th Examination can Apply Online from 01 August 2026 to 28 August 2026. Read the Common Recruitment Process Clerks in Participating Banks notification for recruitment eligibility, post information, selection procedure, age limit, pay scale and all other information.",
     "applicationStart": "01/08/2026",
     "applicationLastDate": "28/08/2026",
@@ -872,7 +879,7 @@
     "id": "answer-key-nta-all-india-ayush-graduate-entrance",
     "title": "NTA All India Ayush Post Graduate Entrance Test AIAPGET Admissions 2026 Answer Key",
     "category": "Answer Key",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "National Testing Agency (NTA) has released the All India Ayush Post Graduate Entrance Test AIAPGET online application for AIAPGET admission 2026 will start from Date 10 July 2026 and the last date to apply will be 30 July 2026. Various Institution are participating in All India Ayush Post Graduate Entrance Test AIAPGET 2026, candidates should read the information brochure for all the information related to the entrance exam like syllabus, eligibility, age limit, placement, fees, college information and other types of information and then apply",
     "applicationStart": "10/07/2026",
     "applicationLastDate": "30/07/2026",
@@ -908,7 +915,7 @@
     "id": "answer-key-haryana-teacher-eligibility-test-htet-omr",
     "title": "Haryana Teacher Eligibility Test HTET OMR Sheet 2026",
     "category": "Answer Key",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Board of Secondary Education, BSEH Haryana has released the detailed notification of Haryana Teacher Eligibility Test December 2025 exam. All the candidates who are interested in this HTET 2025 exam and want to apply can apply online between 24 December 2025 to 05 January 2026. Read the notification for other information like qualification, age limit, syllabus, sample question paper, OMR sheet and all other information.",
     "applicationStart": "24/12/2025",
     "applicationLastDate": "05/01/2026",
@@ -945,7 +952,7 @@
     "id": "answer-key-bsnl-junior-telecom-officer-telecom-2026",
     "title": "BSNL Junior Telecom Officer Telecom Recruitment 2026 Answer Key for 100 Post",
     "category": "Answer Key",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Bharat Sanchar Nigam Limited BSNL released Junior Telecom Officer JTO Direct Recruitment 2026 Notification. Those candidates who are Enrolled in this BSNL JTO Vacancy can Download Answer Key. Read the notification for BSNL JTO eligibility, post information, selection procedure, Details, age limit, pay scale and all other information.",
     "applicationStart": "04/06/2026",
     "applicationLastDate": "03/07/2026",
@@ -992,7 +999,7 @@
     "id": "answer-key-nta-csir-ugc-net-june-2026",
     "title": "NTA CSIR UGC NET June 2026 Result, Final Answer Key Date",
     "category": "Answer Key",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "National Testing Agency (NTA) has released the Council of Scientific & Industrial Research CSIR UGC National Eligibility Test NET Assistant Professor / JRF June 2026 Examination online application Form 2026 will start from 27 May 2026 and the last date to apply will be 19 June 2026. candidates should read the NTA CSIR UGC NET June 2026 information brochure for all the information related to the NET / JRF exam like syllabus, eligibility, age limit, fees, Subject Details, information and other types of information and then apply",
     "applicationStart": "27/05/2026",
     "applicationLastDate": "19/06/2026",
@@ -1026,10 +1033,10 @@
     "status": "active"
   },
   {
-    "id": "answer-key-nta-ugc-net-june-2026-download",
-    "title": "NTA UGC NET June 2026 Download Result with Score Card, Final Answer Key, Re Exam City / Admit Card",
+    "id": "answer-key-nta-ugc-net-june-2026-re",
+    "title": "NTA UGC NET June 2026, Re Exam Admit Card",
     "category": "Answer Key",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "National Testing Agency (NTA) has released the University Grant Commission UGC National Eligibility Test NET Assistant Professor / JRF June 2026 Examination online application Form 2026 will start from 29 April 2026 and the last date to apply will be 24 May 2026. candidates should read the NTA UGC NET June 2026 information brochure for all the information related to the NET / JRF exam like syllabus, eligibility, age limit, fees, Subject Details, information and other types of information and then apply..",
     "applicationStart": "29/04/2026",
     "applicationLastDate": "24/05/2026",
@@ -1048,7 +1055,7 @@
     },
     "vacancies": [
       {
-        "postName": "NTA UGC NET June 2026 Download Result with Score Card, Final Answer Key, Re Exam City / Admit Card",
+        "postName": "NTA UGC NET June 2026, Re Exam Admit Card",
         "totalPost": "Refer to Notification",
         "eligibility": "See official guidelines"
       }
@@ -1066,7 +1073,7 @@
     "id": "answer-key-upsssc-up-combined-lower-subordinate-services",
     "title": "UPSSSC UP Combined Lower Subordinate Services (Graduate Level) Recruitment 2026 Mains Master Question Paper with Answer Key",
     "category": "Answer Key",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Uttar Pradesh Subordinate Service Selection Commission (UPSSSC) has Released UP Combined Lower Subordinate Services (Graduate Level) Advt. No. 07-Exam/2026 Recruitment Notification. Those candidates who are Enrolled in this UPSSSC Lower PCS Vacancy 2026 can Download Admit Card. Read the notification for recruitment eligibility, post information, selection procedure, pay scale and all other information.",
     "applicationStart": "29/05/2026",
     "applicationLastDate": "25/06/2026",
@@ -1164,7 +1171,7 @@
     "id": "syllabus-ssc-junior-engineer-je-2026-1748",
     "title": "SSC Junior Engineer JE Recruitment 2026 Apply Online for 1748 Post",
     "category": "Syllabus",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Staff Selection Commission SSC has released Junior Engineer JE Recruitment Notification 2026 Those candidates who are interested in this SSC JE Exam can Apply Online Form 02/09/2026 to 22/09/2026. Read the SSC Junior Engineer JE notification 2026 for recruitment eligibility, post information, selection procedure, age limit, pay scale and all other information.",
     "applicationStart": "02/09/2026",
     "applicationLastDate": "22/09/2026 upto 11 PM",
@@ -1202,7 +1209,7 @@
     "id": "syllabus-uttar-pradesh-education-service-selection-commission",
     "title": "Uttar Pradesh Education Service Selection Commission UPESSC UP Super TET (Assistant Teaching) Recruitment 2026 : Primary and Junior Level Syllabus",
     "category": "Syllabus",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Uttar Pradesh Education Service Selection Commission Released Assistant Teacher (Super TET) Exam Syllabus 2026. Those candidates who are interested in this UP Upcoming Assistant Teacher Super TET Examination 2026 Can Check and Download the Syllabus for Class I to V and Class VI to VIII Vacancy. Read the notification for Recruitment eligibility, post information, selection procedure, age limit, Post list, Vacancy details, and all other information.",
     "applicationStart": "September / October 2026",
     "applicationLastDate": "As Per Schedule",
@@ -1244,7 +1251,7 @@
     "id": "syllabus-upsssc-veterinary-pharmacist-main-examination-2026",
     "title": "UPSSSC Veterinary Pharmacist Main Examination 2026 Apply Online for 1308 Post",
     "category": "Syllabus",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Uttar Pradesh Subordinate Service Selection Commission (UPSSSC) has Released UPSSSC Veterinary Pharmacist Mains Examination Main Recruitment Notification. Those candidates who are interested in this UPSSSC Veterinary Pharmacist Mains Examination Vacancy 2026 can Apply Online from 14/09/2026 to 05/10/2026. Read the notification for recruitment eligibility, post information, selection procedure, pay scale and all other information.",
     "applicationStart": "14/09/2026",
     "applicationLastDate": "05/10/2026",
@@ -1286,7 +1293,7 @@
     "id": "syllabus-upsssc-livestock-extension-officer-leo-main",
     "title": "UPSSSC Livestock Extension Officer LEO पशुधन प्रसार अधिकारी Main Examination 2026 Apply Online for 1251 Post",
     "category": "Syllabus",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Uttar Pradesh Subordinate Service Selection Commission (UPSSSC) has Released UPSSSC Livestock Extension Officer पशुधन प्रसार अधिकारी Main Recruitment Notification. Those candidates who are interested in this UPSSSC Pashudhan Prasar Adhikari Main Examination Vacancy 2026 can Apply Online from 09/09/2026 to 29/09/2026. Read the notification for recruitment eligibility, post information, selection procedure, pay scale and all other information.",
     "applicationStart": "09/09/2026",
     "applicationLastDate": "29/09/2026",
@@ -1328,7 +1335,7 @@
     "id": "syllabus-upsssc-forensic-science-laboratory-main-examination",
     "title": "UPSSSC Forensic Science Laboratory Main Examination 2026 Eligibility Result for 208 Post",
     "category": "Syllabus",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Uttar Pradesh Subordinate Service Selection Commission (UPSSSC) has Released UPSSSC Forensic Science Laboratory Main Recruitment Notification. Those candidates who are interested in this UPSSSC Forensic Science Laboratory Main Examination Vacancy 2026 can Apply Online from 27/07/2026 to 17/08/2026. Read the notification for recruitment eligibility, post information, selection procedure, pay scale and all other information.",
     "applicationStart": "27/07/2026",
     "applicationLastDate": "24/08/2026",
@@ -1371,7 +1378,7 @@
     "id": "syllabus-uttar-pradesh-upessc-up-tgt-up",
     "title": "Uttar Pradesh UPESSC UP TGT & UP PGT 2026 Syllabus",
     "category": "Syllabus",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Uttar Pradesh Education Service Selection Commission (UPESSC) has released the Uttar Pradesh Upcoming Trained Graduate Teacher TGT and Post Graduate Teacher PGT Exam Syllabus. Those Candidates are Interested to the Following Upcoming UPTGT and UPPGT Exam .candidates Can Download the Exam Syllabus.",
     "applicationStart": "Available soon",
     "applicationLastDate": "Refer to notification",
@@ -1405,7 +1412,7 @@
     "id": "admission-bihar-library-eligibility-test-blet-2026",
     "title": "Bihar Library Eligibility Test BLET 2026 Apply Online",
     "category": "Admission",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Bihar School Examination Board (BSEB) has released the Library Eligibility Test 2026 Notification. Those Candidates Are Interested with BLET Exam 2026 Can Apply Online from 01/10/2026 to 21/10/2026. For recruitment eligibility, age limit, Post wise Eligibility, selection procedure, syllabus and all other information read the advertisement and then apply 2026.",
     "applicationStart": "01/10/2026",
     "applicationLastDate": "21/10/2026",
@@ -1442,7 +1449,7 @@
     "id": "admission-nta-rimcee-class-8th-admissions-2027",
     "title": "NTA RIMCEE Class 8th Admissions 2027 Apply Online Form",
     "category": "Admission",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "National Testing Agency NTA Rashtriya Indian Military College Entrance Examination (RIMCEE) has released the online application for admission Class 8th Admissions 2027 will start from 01/09/026 and the last date to apply will be 30/09/2026. Pan India NTA Rashtriya Indian Military College, RIMC Dehradun are participating in Class VIII Admissions January & July 2027, candidates should read the information brochure for all the information related to the entrance exam like syllabus, eligibility, age limit, fees, School List, information and other types of information and then apply.",
     "applicationStart": "01/09/2026",
     "applicationLastDate": "30/09/2026 upto 05 PM",
@@ -1477,7 +1484,7 @@
     "id": "admission-university-allahabad-au-ph-d-2026",
     "title": "University of Allahabad AU Ph.D. Admission 2026-27 Apply Online",
     "category": "Admission",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Central University of Allahabad, Prayagraj (U.P.) has released the detailed advertisement 2026-27 examination to be conducted for various subjects of PhD. Can Apply Online from 02/09/2026 to 25/09/2026. Any candidate who wants to participate in this examination and fulfills the eligibility Read the notification for AU Ph.D. 2026-27 eligibility, age limit, subject list, syllabus, seat details and all other information.",
     "applicationStart": "02/09/2026",
     "applicationLastDate": "25/09/2026",
@@ -1511,7 +1518,7 @@
     "id": "admission-iit-gate-2027-information-brochure-more",
     "title": "IIT GATE 2027 Exam Apply Online Form | Information Brochure and More",
     "category": "Admission",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Indian Institute of Technology IIT Madras has released the Information Brochure for Graduate Aptitude Test in Engineering GATE 2027. Various Institute are participating in GATE 2027. Those Candidates Are Interested in GATE 2027 Exam Can Apply Online from 27/08/2026 to 27/09/2026. candidates should read the information brochure for all the information related to the Graduate Aptitude Test in Engineering Exam like syllabus, eligibility, Question Paper, age limit, Score Card, fees, GATE 2027 information and other types of information and then apply.",
     "applicationStart": "27/08/2026",
     "applicationLastDate": "05/10/2026",
@@ -1549,7 +1556,7 @@
     "id": "admission-all-india-bar-examination-aibe-22nd",
     "title": "All India Bar Examination AIBE 22nd Examination 2026 Apply Online",
     "category": "Admission",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "All India Bar Examination AIBE 22nd has released the online application for AIBE XXII 2026 will start from 19 August 2026 and the last date to apply will be 27 October 2026.candidates should read the AIBE XXII 2026 information brochure for all the information related to the AIBE exam like syllabus, eligibility, age limit, fees, information and other types of information and then apply.",
     "applicationStart": "19/08/2026",
     "applicationLastDate": "27/10/2026",
@@ -1583,9 +1590,9 @@
     "id": "admission-iit-kharagpur-jam-2027",
     "title": "IIT Kharagpur JAM Admission 2027 Apply Online",
     "category": "Admission",
-    "postDate": "2026-09-04",
-    "shortInfo": "Indian Institute of Technology IIT Kharagpur has released the online application for Joint Admission Test for Masters JAM 2027 will start from 05 September 2026 and the last date to apply will be 12 October 2026. Various Institute are participating in JAM 2027, candidates should read the information brochure for all the information related to the Joint Admission Test for Masters 2027 Exam like syllabus, eligibility, Question Paper, age limit, Score Card, fees, JAM 2027 information and other types of information and then apply.",
-    "applicationStart": "05/09/2026",
+    "postDate": "2026-09-05",
+    "shortInfo": "Indian Institute of Technology IIT Kharagpur has released the online application for Joint Admission Test for Masters JAM 2027 will start from 12 September 2026 and the last date to apply will be 12 October 2026. Various Institute are participating in JAM 2027, candidates should read the information brochure for all the information related to the Joint Admission Test for Masters 2027 Exam like syllabus, eligibility, Question Paper, age limit, Score Card, fees, JAM 2027 information and other types of information and then apply.",
+    "applicationStart": "12/09/2026",
     "applicationLastDate": "12/10/2026",
     "feeLastDate": "12/10/2026",
     "examDate": "14/02/2027",
@@ -1619,7 +1626,7 @@
     "id": "certificate-ccsu-meerut-university-provisional-all-course",
     "title": "CCSU Meerut University Provisional Certificate All Course Online Form 2026",
     "category": "Certificate",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Chaudhary Charan Singh University, Meerut has made the provisional certificate of all its courses online. Candidates who are in need of Provisional Certificate, new and old of any session, they can get their Provisional Certificate online immediately by filling a small online form. The information that the candidate will be provided with will be useful in making an informed decision.",
     "applicationStart": "Available soon",
     "applicationLastDate": "Refer to notification",
@@ -1653,7 +1660,7 @@
     "id": "certificate-prsu-prayagraj-university-provisional-all-course",
     "title": "PRSU Prayagraj University Provisional Certificate All Course Online Form 2026",
     "category": "Certificate",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Prof. Rajendra Singh (Rajju Bhaiya) University, Prayagraj has made the provisional & migration certificate of all its courses online. Candidates who are in need of Provisional & Migration Certificate, new and old of any session, they can get their Provisional Certificate online immediately by filling a small online form. The information that the candidate will be provided with will be useful in making an informed decision.",
     "applicationStart": "Available soon",
     "applicationLastDate": "Refer to notification",
@@ -1687,7 +1694,7 @@
     "id": "certificate-bseh-haryana-teacher-eligibility-test-htet",
     "title": "BSEH Haryana Teacher Eligibility Test HTET December 2024 E Certificate Download 2026",
     "category": "Certificate",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Board of Secondary Education, BSEH Haryana has released the detailed notification of Haryana Teacher Eligibility Test December 2024 exam. All the candidates who are interested in this HTET 2024 exam and want to apply can apply online Re Open between 01-05 June 2025. Read the notification for other information like qualification, age limit, syllabus, sample question paper, OMR sheet and all other information.",
     "applicationStart": "04/11/2024",
     "applicationLastDate": "15/11/2024",
@@ -1721,7 +1728,7 @@
     "id": "certificate-ctet-february-2026-e-download-digilocker",
     "title": "CTET February 2026 Result | E Certificate Download Digilocker",
     "category": "Certificate",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Central Board of Secondary Education (CBSE) has released the Central Teacher Eligibility Test CTET February 2026 Exam Notification. Those Candidates are Enrolled with Vacancy Can Download the Result .candidates should read the CTET 2026 information brochure for all the information related to the CTET exam like syllabus, eligibility, age limit, fees, Primary and Junior Level, information and other types of information and then apply.",
     "applicationStart": "27/11/2025",
     "applicationLastDate": "18/12/2025",
@@ -1757,7 +1764,7 @@
     "id": "certificate-nta-csir-ugc-net-december-2025",
     "title": "NTA CSIR UGC NET December 2025 Examination E Certificate Download 2026",
     "category": "Certificate",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "National Testing Agency (NTA) has released the Council of Scientific & Industrial Research CSIR UGC National Eligibility Test NET Assistant Professor / JRF December 2025 Examination. Those Candidates Are Enrolled with Vacancy Can Download the E Certificate. candidates should read the NTA UGC CSIR NET December 2025 information brochure for all the information related to the NET / JRF exam like syllabus, eligibility, age limit, fees, Subject Details, information and other types of information and then apply.",
     "applicationStart": "25/09/2025",
     "applicationLastDate": "24/10/2025",
@@ -1793,7 +1800,7 @@
     "id": "certificate-nta-ugc-net-december-2025-examination",
     "title": "NTA UGC NET December 2025 Examination E Certificate Download",
     "category": "Certificate",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "National Testing Agency (NTA) has released the University Grant Commission UGC National Eligibility Test NET Assistant Professor / JRF December 2025 Examination. Those Candidates Are Enrolled and Appearing in December 2025 Examination Can Check the Result / Score Card. candidates should read the NTA UGC NET December 2025 information brochure for all the information related to the NET / JRF exam like syllabus, eligibility, age limit, fees, Subject Details, information and other types of information and then apply.",
     "applicationStart": "07/10/2025",
     "applicationLastDate": "07/11/2025",
@@ -1829,7 +1836,7 @@
     "id": "outsourcing-offline-jobs-up-basic-education-azamgarh-ecce-educator",
     "title": "UP Basic Education Azamgarh ECCE Educator Outsourcing Recruitment 2026 Apply Online For 220 Post",
     "category": "Outsourcing / Offline Jobs",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "UP Rojgar Sangam (Sewayojan) Portal has released a new Outsourcing Recruitment 2026 for UP Azamgarh ECCE Education in the उत्तर प्रदेश बेसिक शिक्षा विभाग. Candidates who are interested in this outsourcing vacancy and are registered on the UP Rojgar Sangam Portal can apply online from 03 September 2026 to 11 September 2026. Read the official notification for eligibility, vacancy details, age limit, monthly remuneration, selection process, and other important information before applying.",
     "applicationStart": "03/09/2026",
     "applicationLastDate": "11/09/2026",
@@ -1865,7 +1872,7 @@
     "id": "outsourcing-offline-jobs-up-basic-education-moradabad-ecce-educator",
     "title": "UP Basic Education Moradabad ECCE Educator Outsourcing Recruitment 2026 Apply Online For 13 Post",
     "category": "Outsourcing / Offline Jobs",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "UP Rojgar Sangam (Sewayojan) Portal has released a new Outsourcing Recruitment 2026 for UP Moradabad ECCE Education in the उत्तर प्रदेश बेसिक शिक्षा विभाग. Candidates who are interested in this outsourcing vacancy and are registered on the UP Rojgar Sangam Portal can apply online from 03 September 2026 to 11 September 2026. Read the official notification for eligibility, vacancy details, age limit, monthly remuneration, selection process, and other important information before applying.",
     "applicationStart": "03/09/2026",
     "applicationLastDate": "11/09/2026",
@@ -1901,7 +1908,7 @@
     "id": "outsourcing-offline-jobs-uttar-pradesh-atal-awasiya-vidyalaya-gonda",
     "title": "Uttar Pradesh Atal Awasiya Vidyalaya Gonda Outsourcing Recruitment 2026 Application Form",
     "category": "Outsourcing / Offline Jobs",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Uttar Pradesh Atal Avasiya Vidyalaya, Gonda has released a new Recruitment 2026 for PGT & TGT Teacher in the Atal Awasiya Vidyalaya Samiti. Candidates who are interested in this vacancy can apply offline from 02/09/2026 to 11/09/2026. Read the official notification for eligibility, vacancy details, age limit, monthly remuneration, selection process, and other important information before applying.",
     "applicationStart": "02/09/2026",
     "applicationLastDate": "11/09/2026",
@@ -1977,7 +1984,7 @@
     "id": "outsourcing-offline-jobs-up-basic-education-banda-ecce-educator",
     "title": "UP Basic Education Banda ECCE Educator Outsourcing Recruitment 2026 Apply Online For 23 Post",
     "category": "Outsourcing / Offline Jobs",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "UP Rojgar Sangam (Sewayojan) Portal has released a new Outsourcing Recruitment 2026 for UP Etawah ECCE Education in the उत्तर प्रदेश बेसिक शिक्षा विभाग. Candidates who are interested in this outsourcing vacancy and are registered on the UP Rojgar Sangam Portal can apply online from 31 August 2026 to 08 September 2026. Read the official notification for eligibility, vacancy details, age limit, monthly remuneration, selection process, and other important information before applying.",
     "applicationStart": "31/08/2026",
     "applicationLastDate": "08/09/2026",
@@ -2013,7 +2020,7 @@
     "id": "outsourcing-offline-jobs-uttar-pradesh-atal-awasiya-vidyalaya-prayagraj",
     "title": "Uttar Pradesh Atal Awasiya Vidyalaya Prayagraj Guest Teacher TGT / PGT Recruitment 2026 Application Form",
     "category": "Outsourcing / Offline Jobs",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Uttar Pradesh Atal Avasiya Vidyalaya, Prayagraj has released a new Recruitment 2026 for PGT & TGT Teacher in the Atal Awasiya Vidyalaya Samiti. Candidates who are interested in this vacancy can apply offline from 01/09/2026 to 15/09/2026. Read the official notification for eligibility, vacancy details, age limit, monthly remuneration, selection process, and other important information before applying.",
     "applicationStart": "01/09/2026",
     "applicationLastDate": "15/09/2026",
@@ -2069,7 +2076,7 @@
     "id": "outsourcing-offline-jobs-uttar-pradesh-up-atal-awasiya-vidyalaya",
     "title": "Uttar Pradesh UP Atal Awasiya Vidyalaya Kanpur Outsourcing Recruitment 2026 Apply Online",
     "category": "Outsourcing / Offline Jobs",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Uttar Pradesh Atal Avasiya Vidyalaya, Kanpur has released a new Recruitment 2026 for PGT & TGT Teacher in the Atal Awasiya Vidyalaya Samiti. Candidates who are interested in this vacancy can apply offline from 23/08/2026 to 31/08/2026. Read the official notification for eligibility, vacancy details, age limit, monthly remuneration, selection process, and other important information before applying.",
     "applicationStart": "23/08/2026",
     "applicationLastDate": "31/08/2026",
@@ -2160,7 +2167,7 @@
     "id": "important-voter-id-epic-download-2026",
     "title": "Voter ID EPIC Download 2026",
     "category": "Important",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Voter ID EPIC Download 2026. Read notification for detailed information.",
     "applicationStart": "Available soon",
     "applicationLastDate": "Refer to notification",
@@ -2193,7 +2200,7 @@
     "id": "important-u-p-nurses-midwives-council-b",
     "title": "U.P. Nurses & Midwives Council Registration Apply Online for B.Sc, M.Sc, Post Basic Nursing & Other Courses",
     "category": "Important",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "UP Nurses & Midwives Council has invited online registration / applications for candidates pursuing B.Sc Nursing, M.Sc Nursing, Post Basic B.Sc Nursing and other nursing courses. Eligible candidates can apply online as per the prescribed guidelines.",
     "applicationStart": "All Ready Start",
     "applicationLastDate": "No Last Date",
@@ -2227,7 +2234,7 @@
     "id": "important-nielit-ccc-2026-course-computer-concepts",
     "title": "NIELIT CCC Exam 2026 Apply Online Form for Course on Computer Concepts CCC",
     "category": "Important",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "National Institute of Electronics and Information Technology NIELIT is a basic IT literacy program by the National Institute of Electronics and Information Technology (Government of India) to teach essential computer skills like document preparation, internet browsing, emailing, presentations, and digital services. Duration is 80 hours (30 theory + 60 practical’s). The online exam is held every Quarter , with registration typically starting on the 1st of the preceding month and the last date being the last day of As per Schedule. Read the notification for CCC Course eligibility, post information, selection procedure, Practice Test, pay scale and all other information.",
     "applicationStart": "Already Start",
     "applicationLastDate": "Last day of every month",
@@ -2264,7 +2271,7 @@
     "id": "important-delhi-dsssb-tentative-date-2026",
     "title": "Delhi DSSSB Tentative Result Date 2026",
     "category": "Important",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Delhi Subordinate Service Selection Board has released the Latest Result, Old Results for various posts. Candidates who appeared in the examination can check their result, marks, and cutoff details through the official methods. Qualified candidates are required as per the instructions provided in the official notice. It is advised to read the complete notification carefully for all details related to result status, cutoff, and further recruitment process before proceeding.",
     "applicationStart": "Available soon",
     "applicationLastDate": "Refer to notification",
@@ -2298,7 +2305,7 @@
     "id": "important-uttar-pradesh-up-self-enumeration-up",
     "title": "Uttar Pradesh UP Self-Enumeration Online Registration | UP Swa Gadna (Janganana)",
     "category": "Important",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "Office of the Registrar General & Census Commissioner, India The schedule for Uttar Pradesh Self-Enumeration has been released. Those wishing to register for SE ID online can do so on the online portal from 07-21 May 2026. For any information regarding eligibility for self-enumeration, age limit for self-enumeration, documents required for self-enumeration, self-enumeration, please visit the official website https://se.census.gov.in along with seeing the guide, faq, question, etc.",
     "applicationStart": "07/05/2026",
     "applicationLastDate": "21/05/2026",
@@ -2334,7 +2341,7 @@
     "id": "result-emrs-teaching-non-teaching-tier-ii",
     "title": "EMRS Teaching/ Non Teaching Tier-II Result 2026",
     "category": "Result",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "EMRS Teaching/ Non Teaching Tier-II Result 2026. Read notification for detailed information.",
     "applicationStart": "19 September 2025",
     "applicationLastDate": "28 October 2025",
@@ -2407,7 +2414,7 @@
     "id": "result-rpsc-deputy-jailor-pet-2026",
     "title": "RPSC Deputy Jailor PET Result 2026",
     "category": "Result",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "RPSC Deputy Jailor PET Result 2026. Read notification for detailed information.",
     "applicationStart": "08 July 2024",
     "applicationLastDate": "Refer to notification",
@@ -2445,7 +2452,7 @@
     "id": "result-uptet-2026",
     "title": "UPTET Result 2026",
     "category": "Result",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "UPTET Result 2026. Read notification for detailed information.",
     "applicationStart": "27 March 2026",
     "applicationLastDate": "03 May 2026 Extended",
@@ -2483,7 +2490,7 @@
     "id": "result-uppsc-computer-assistant-typing-test-2026",
     "title": "UPPSC Computer Assistant Typing Test Result 2026",
     "category": "Result",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "UPPSC Computer Assistant Typing Test Result 2026. Read notification for detailed information.",
     "applicationStart": "01 July 2025",
     "applicationLastDate": "01 August 2025",
@@ -2520,7 +2527,7 @@
     "id": "result-uppsc-lt-grade-assistant-teacher-mains",
     "title": "UPPSC LT Grade Assistant Teacher Mains Result 2026",
     "category": "Result",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "UPPSC LT Grade Assistant Teacher Mains Result 2026. Read notification for detailed information.",
     "applicationStart": "02 April 2026",
     "applicationLastDate": "17 April 2026",
@@ -2557,7 +2564,7 @@
     "id": "result-upsc-cms-2026",
     "title": "UPSC CMS Result 2026",
     "category": "Result",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "UPSC CMS Result 2026. Read notification for detailed information.",
     "applicationStart": "11 March 2026",
     "applicationLastDate": "31 March 2026",
@@ -2610,7 +2617,7 @@
     "id": "admit-card-nta-ugc-net-june-re-admit",
     "title": "NTA UGC NET June Re-Exam Admit Card 2026",
     "category": "Admit Card",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "NTA UGC NET June Re-Exam Admit Card 2026. Read notification for detailed information.",
     "applicationStart": "Available soon",
     "applicationLastDate": "Refer to notification",
@@ -2648,7 +2655,7 @@
     "id": "admit-card-ssc-stenographer-city-details-2026",
     "title": "SSC Stenographer Exam City Details 2026",
     "category": "Admit Card",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "SSC Stenographer Exam City Details 2026. Read notification for detailed information.",
     "applicationStart": "24 April 2026",
     "applicationLastDate": "15 May 2026",
@@ -2685,7 +2692,7 @@
     "id": "admit-card-ssc-combined-hindi-translators-jht-city",
     "title": "SSC Combined Hindi Translators JHT Exam City Details 2026",
     "category": "Admit Card",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "SSC Combined Hindi Translators JHT Exam City Details 2026. Read notification for detailed information.",
     "applicationStart": "23 April 2026",
     "applicationLastDate": "14 May 2026",
@@ -2722,7 +2729,7 @@
     "id": "admit-card-sbi-po-mains-admit-card-2026",
     "title": "SBI PO Mains Admit Card 2026",
     "category": "Admit Card",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "SBI PO Mains Admit Card 2026. Read notification for detailed information.",
     "applicationStart": "18 June 2026",
     "applicationLastDate": "08 July 2026",
@@ -2759,7 +2766,7 @@
     "id": "admit-card-up-home-guard-pet-pst-admit",
     "title": "UP Home Guard PET / PST Admit Card 2026",
     "category": "Admit Card",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "UP Home Guard PET / PST Admit Card 2026. Read notification for detailed information.",
     "applicationStart": "18 November 2025",
     "applicationLastDate": "17 December 2025",
@@ -2798,7 +2805,7 @@
     "id": "admit-card-upsc-nda-ii-admit-card-2026",
     "title": "UPSC NDA II Admit Card 2026",
     "category": "Admit Card",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "UPSC NDA II Admit Card 2026. Read notification for detailed information.",
     "applicationStart": "20 May 2026",
     "applicationLastDate": "11 June 2026",
@@ -2845,47 +2852,10 @@
     "status": "active"
   },
   {
-    "id": "latest-jobs-upsssc-pet-2026",
-    "title": "UPSSSC PET Online Form 2026",
-    "category": "Latest Jobs",
-    "postDate": "2026-09-04",
-    "shortInfo": "UPSSSC PET Online Form 2026. Read notification for detailed information.",
-    "applicationStart": "03 August 2026",
-    "applicationLastDate": "07 September 2026 Extended",
-    "feeLastDate": "07 September 2026",
-    "examDate": "Update Soon",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "₹ 185/-",
-      "scStPh": "₹ 95/-",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
-    },
-    "ageLimit": {
-      "min": "What is the age limit for UPSSSC PET Online Form 2026?\nAnswer: The age limit for UPSSSC PET Online Form 2026 is as follows:\nThe Minimum age required is 18 Years & The Maximum Age Is 40 Years as on 01 July 2026.",
-      "max": "What is the age limit for UPSSSC PET Online Form 2026?\nAnswer: The age limit for UPSSSC PET Online Form 2026 is as follows:\nThe Minimum age required is 18 Years & The Maximum Age Is 40 Years as on 01 July 2026.",
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "UPSSSC PET Online Form 2026",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://upsssc.gov.in/AllNotifications.aspx",
-      "downloadNotification": "https://upsssc.gov.in/ViewPdf.aspx?mQakfo5LrW2Cdx4YG2/st+GVGmBBNX8aG1X69whn6lU=",
-      "officialWebsite": "https://upsssc.gov.in/",
-      "syllabusUrl": "http://sarkariresult.com.cm/wp-content/uploads/2026/08/ViewPdf-1-7-11.pdf",
-      "resultUrl": "https://sarkariresult.com.cm/"
-    },
-    "status": "active"
-  },
-  {
     "id": "latest-jobs-india-gds-2026",
     "title": "India Post GDS Recruitment 2026",
     "category": "Latest Jobs",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "India Post GDS Recruitment 2026. Read notification for detailed information.",
     "applicationStart": "Available soon",
     "applicationLastDate": "Refer to notification",
@@ -2919,10 +2889,160 @@
     "status": "active"
   },
   {
+    "id": "latest-jobs-upsssc-pet-2026",
+    "title": "UPSSSC PET Online Form 2026",
+    "category": "Latest Jobs",
+    "postDate": "2026-09-05",
+    "shortInfo": "UPSSSC PET Online Form 2026. Read notification for detailed information.",
+    "applicationStart": "03 August 2026",
+    "applicationLastDate": "07 September 2026 Extended",
+    "feeLastDate": "07 September 2026",
+    "examDate": "Update Soon",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "₹ 185/-",
+      "scStPh": "₹ 95/-",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "min": "What is the age limit for UPSSSC PET Online Form 2026?\nAnswer: The age limit for UPSSSC PET Online Form 2026 is as follows:\nThe Minimum age required is 18 Years & The Maximum Age Is 40 Years as on 01 July 2026.",
+      "max": "What is the age limit for UPSSSC PET Online Form 2026?\nAnswer: The age limit for UPSSSC PET Online Form 2026 is as follows:\nThe Minimum age required is 18 Years & The Maximum Age Is 40 Years as on 01 July 2026.",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "UPSSSC PET Online Form 2026",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://upsssc.gov.in/AllNotifications.aspx",
+      "downloadNotification": "https://upsssc.gov.in/ViewPdf.aspx?mQakfo5LrW2Cdx4YG2/st+GVGmBBNX8aG1X69whn6lU=",
+      "officialWebsite": "https://upsssc.gov.in/",
+      "syllabusUrl": "http://sarkariresult.com.cm/wp-content/uploads/2026/08/ViewPdf-1-7-11.pdf",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active"
+  },
+  {
+    "id": "latest-jobs-bihar-stet-2026",
+    "title": "Bihar STET Online Form 2026",
+    "category": "Latest Jobs",
+    "postDate": "2026-09-05",
+    "shortInfo": "Bihar STET Online Form 2026. Read notification for detailed information.",
+    "applicationStart": "17 August 2026",
+    "applicationLastDate": "15 September 2026 Extended",
+    "feeLastDate": "15 September 2026 Extended",
+    "examDate": "Notify Later",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "Rs. 25/-",
+      "scStPh": "Rs. 25/-",
+      "female": "42 Years (SC/ ST-Male & Female)",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "min": "21 Years",
+      "max": "42 Years (SC/ ST-Male & Female)",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Bihar STET Online Form 2026",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://stetregistration.cbrt.co.in/",
+      "downloadNotification": "http://sarkariresult.com.cm/wp-content/uploads/2026/08/Bihar-Stet-2026-Notification.pdf",
+      "officialWebsite": "https://bsebstet.org/",
+      "syllabusUrl": "http://sarkariresult.com.cm/wp-content/uploads/2026/08/Bihar-STET-2026-Syllabus-Exam-Pattern.pdf",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active"
+  },
+  {
+    "id": "latest-jobs-ssc-junior-engineer-je-2026",
+    "title": "SSC Junior Engineer JE Recruitment 2026",
+    "category": "Latest Jobs",
+    "postDate": "2026-09-05",
+    "shortInfo": "SSC Junior Engineer JE Recruitment 2026. Read notification for detailed information.",
+    "applicationStart": "02 September 2026",
+    "applicationLastDate": "22 September 2026",
+    "feeLastDate": "22 September 2026",
+    "examDate": "December 2026",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "Rs. 100/-",
+      "scStPh": "Rs. 00/-",
+      "female": "Rs. 00/-",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:"
+    },
+    "ageLimit": {
+      "min": "What is the age limit for SSC Junior Engineer JE Bharti 2026?\nAnswer: The age limit for SSC Junior Engineer JE Bharti 2026 is as follows:\nMinimum age required is N/A & The Maximum Age Is 30 – 32 Years Post Wise as on 01 August 2026.",
+      "max": "What is the age limit for SSC Junior Engineer JE Bharti 2026?\nAnswer: The age limit for SSC Junior Engineer JE Bharti 2026 is as follows:\nMinimum age required is N/A & The Maximum Age Is 30 – 32 Years Post Wise as on 01 August 2026.",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Junior Engineer",
+        "totalPost": "1748 Post",
+        "eligibility": "Refer to official notification details"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://ssc.gov.in/candidate-portal/one-time-registration/home-page",
+      "downloadNotification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_je_2026.pdf",
+      "officialWebsite": "https://ssc.gov.in/",
+      "syllabusUrl": "http://sarkariresult.com.cm/wp-content/uploads/2026/09/SSC-Junior-Engineer-JE-Syllabus-Exam-Pattern-2026.pdf",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active"
+  },
+  {
+    "id": "latest-jobs-up-special-tet-2026",
+    "title": "UP Special TET Online Form 2026",
+    "category": "Latest Jobs",
+    "postDate": "2026-09-05",
+    "shortInfo": "UP Special TET Online Form 2026. Read notification for detailed information.",
+    "applicationStart": "05 September 2026",
+    "applicationLastDate": "04 October 2026",
+    "feeLastDate": "04 October 2026",
+    "examDate": "03 November 2026",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "Rs. 25/-",
+      "scStPh": "Rs. 25/-",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "min": "What is the age limit for UP Special TET Online Form 2026?\nAnswer: The age limit for UP Special TET Online Form 2026 is as follows:\nThe Minimum age required is N/A & The Maximum Age Is 60 Years as on 03 November 2026.",
+      "max": "What is the age limit for UP Special TET Online Form 2026?\nAnswer: The age limit for UP Special TET Online Form 2026 is as follows:\nThe Minimum age required is N/A & The Maximum Age Is 60 Years as on 03 November 2026.",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "UP Special TET Online Form 2026",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://whatsapp.com/channel/0029VaAbQf01NCrYADMLt00L",
+      "downloadNotification": "https://www.upessc.up.gov.in/Notice/badc-2f84-4983-44c3-12bf.pdf",
+      "officialWebsite": "https://www.upessc.up.gov.in/",
+      "syllabusUrl": "https://www.upessc.up.gov.in/syllabus/ede204de-908b-435f-9028-5fe87a4d460c.pdf",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active"
+  },
+  {
     "id": "latest-jobs-ibps-rrb-15th-2026",
     "title": "IBPS RRB 15th Recruitment 2026",
     "category": "Latest Jobs",
-    "postDate": "2026-09-04",
+    "postDate": "2026-09-05",
     "shortInfo": "IBPS RRB 15th Recruitment 2026. Read notification for detailed information.",
     "applicationStart": "01 September 2026",
     "applicationLastDate": "21 September 2026",
@@ -2997,6 +3117,884 @@
       "officialWebsite": "https://ibps.in/",
       "syllabusUrl": "http://sarkariresult.com.cm/wp-content/uploads/2026/09/CRP-RRBs-XV-notification-21-26.pdf",
       "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active"
+  },
+  {
+    "id": "answer-key-nta-aiapget-answer-key-2026",
+    "title": "NTA AIAPGET Answer Key 2026",
+    "category": "Answer Key",
+    "postDate": "2026-09-05",
+    "shortInfo": "NTA AIAPGET Answer Key 2026. Read notification for detailed information.",
+    "applicationStart": "Available soon",
+    "applicationLastDate": "Refer to notification",
+    "feeLastDate": "30 July 2026",
+    "examDate": "22 August 2026",
+    "admitCardDate": "18 August 2026",
+    "resultDate": "Will Be Updated Here Soon",
+    "fees": {
+      "generalObc": "Rs. 25/-",
+      "scStPh": "₹ 1800/-",
+      "paymentMode": "Online payment mode"
+    },
+    "ageLimit": {
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "NTA AIAPGET Answer Key 2026",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://examinationservices.nic.in/ExamSys26part2/root/Home.aspx?enc=Ei4cajBkK1gZSfgr53ImFZ+h0MepSUWC4caRGr23rIGxoddmkPhP33EPDwrEMlwi",
+      "downloadNotification": "https://cdnbbsr.s3waas.gov.in/s388a839f2f6f1427879fc33ee4acf4f66/uploads/2026/07/202607101983155019.pdf",
+      "officialWebsite": "https://exams.nta.ac.in/AIAPGET/",
+      "admitCardUrl": "https://cdnbbsr.s3waas.gov.in/s388a839f2f6f1427879fc33ee4acf4f66/uploads/2026/08/20260818137536527.pdf",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active"
+  },
+  {
+    "id": "answer-key-cci-various-answer-key-2026",
+    "title": "CCI Various Post Answer Key 2026",
+    "category": "Answer Key",
+    "postDate": "2026-09-05",
+    "shortInfo": "CCI Various Post Answer Key 2026. Read notification for detailed information.",
+    "applicationStart": "09 July 2026",
+    "applicationLastDate": "24 July 2026",
+    "feeLastDate": "24 July 2026",
+    "examDate": "01 September 2026",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "Rs. 25/-",
+      "scStPh": "Rs. 25/-",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Management Trainee (Marketing)",
+        "totalPost": "08",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Management Trainee (Accounts)",
+        "totalPost": "08",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Junior Commercial Executive",
+        "totalPost": "50",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Junior Assistant (General)",
+        "totalPost": "30",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Junior Assistant (Accounts)",
+        "totalPost": "50",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Assistant Manager (Official Language)",
+        "totalPost": "01",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Assistant Manager (Information Technology)",
+        "totalPost": "01",
+        "eligibility": "Refer to official notification details"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://cdn.digialm.com/EForms/configuredHtml/1258/100936/login.html",
+      "downloadNotification": "https://cotcorp.org.in/storage/AnnouncementDocument/Announcement_1783524490_Final_Advertisement_2026_with_Enclosures_.pdf",
+      "officialWebsite": "https://cotcorp.org.in/",
+      "admitCardUrl": "https://cdn.digialm.com/EForms/configuredHtml/1258/100936/login.html",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active"
+  },
+  {
+    "id": "answer-key-bsnl-junior-telecom-officer-jto-answer",
+    "title": "BSNL Junior Telecom Officer JTO Answer Key 2026",
+    "category": "Answer Key",
+    "postDate": "2026-09-05",
+    "shortInfo": "BSNL Junior Telecom Officer JTO Answer Key 2026. Read notification for detailed information.",
+    "applicationStart": "04 June 2026",
+    "applicationLastDate": "03 July 2026",
+    "feeLastDate": "03 July 2026",
+    "examDate": "Yes, the exam date, reporting time, exam centre, and other important details will be mentioned on the admit card.",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "Rs. 25/-",
+      "scStPh": "Rs. 25/-",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "min": "20 Years",
+      "max": "30 Years",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Junior Telecom Officer JTO",
+        "totalPost": "100 Posts",
+        "eligibility": "Refer to official notification details"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://bsnlregistration.ibtexamination.com/AppO2BsNL_2026/",
+      "downloadNotification": "http://sarkariresult.com.cm/wp-content/uploads/2026/05/Examination-notification-DR-JTOT.pdf",
+      "officialWebsite": "https://bsnl.co.in/en",
+      "admitCardUrl": "https://ibtexamination.com/secuAdmitcard/bsnlAdmitcard05/"
+    },
+    "status": "active"
+  },
+  {
+    "id": "answer-key-nta-csir-ugc-net-2026",
+    "title": "NTA CSIR UGC NET Result 2026",
+    "category": "Answer Key",
+    "postDate": "2026-09-05",
+    "shortInfo": "NTA CSIR UGC NET Result 2026. Read notification for detailed information.",
+    "applicationStart": "Available soon",
+    "applicationLastDate": "Refer to notification",
+    "feeLastDate": "20 June 2026",
+    "examDate": "The admit card contains the candidate’s Name, Roll Number, Exam Date, Exam Time, Reporting Time, Exam Centre, Photograph, Signature, and Exam Instructions.",
+    "admitCardDate": "13 July 2026",
+    "resultDate": "29 August 2026 Available",
+    "fees": {
+      "generalObc": "Rs. 25/-",
+      "scStPh": "Rs. 25/-",
+      "paymentMode": "Online payment mode"
+    },
+    "ageLimit": {
+      "max": "Maximum Age : 30 Year",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "NTA CSIR UGC NET Result 2026",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://examinationservices.nic.in/ExamSys26Part2/Root/Home.aspx?enc=Ei4cajBkK1gZSfgr53ImFTqGsyg38PlGNCGSuvSzsiVbovgbG6pVEHea7DNFe38E",
+      "downloadNotification": "https://cdnbbsr.s3waas.gov.in/s3efdf562ce2fb0ad460fd8e9d33e57f57/uploads/2026/05/202605271224945892.pdf",
+      "officialWebsite": "https://csirnet.nta.ac.in/",
+      "admitCardUrl": "https://cdnbbsr.s3waas.gov.in/s3efdf562ce2fb0ad460fd8e9d33e57f57/uploads/2026/07/20260713839526776.pdf",
+      "resultUrl": "https://cdnbbsr.s3waas.gov.in/s3efdf562ce2fb0ad460fd8e9d33e57f57/uploads/2026/08/20260829458652006.pdf"
+    },
+    "status": "active"
+  },
+  {
+    "id": "answer-key-upsssc-lower-pcs-answer-key-2026",
+    "title": "UPSSSC Lower PCS Answer Key 2026",
+    "category": "Answer Key",
+    "postDate": "2026-09-05",
+    "shortInfo": "UPSSSC Lower PCS Answer Key 2026. Read notification for detailed information.",
+    "applicationStart": "29 May 2026",
+    "applicationLastDate": "25 June 2026",
+    "feeLastDate": "25 June 2026",
+    "examDate": "The slip provides important information regarding the allotted examination city and examination date.",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "₹ 25/-",
+      "scStPh": "₹ 25/-",
+      "paymentMode": "Online payment mode"
+    },
+    "ageLimit": {
+      "min": "21 Years",
+      "max": "40 Years.",
+      "relaxationText": "Age Relaxation Extra as per UPSSSC Examination 2026"
+    },
+    "vacancies": [
+      {
+        "postName": "Mandi Supervisor",
+        "totalPost": "46",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Amin / Auctioneer",
+        "totalPost": "323",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Assistant Manager (Non-Technical)",
+        "totalPost": "134",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Clerk cum Typist / Cashier cum Clerk / Accounts Clerk",
+        "totalPost": "229",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Assistant Chakbandi Officer",
+        "totalPost": "168",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Auditor",
+        "totalPost": "419",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Centre in Charge",
+        "totalPost": "92",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Executive Officer",
+        "totalPost": "238",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Assistant Treasury Accountant",
+        "totalPost": "548",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Assistant Manager (Non-Technical) (Special Selection)",
+        "totalPost": "03",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "District Assistant Immunization Officer",
+        "totalPost": "85",
+        "eligibility": "Refer to official notification details"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://upsssc.gov.in//AllNotifications.aspx",
+      "downloadNotification": "https://upsssc.gov.in/ViewPdf.aspx?HA04nYKkgpncofLRuXT6k7Np5V3U8T3Cr2bvb1DZAsc=",
+      "officialWebsite": "https://upsssc.gov.in/",
+      "admitCardUrl": "https://upsssc.gov.in/ViewPdf.aspx?2276t8n7CMo25NINJ3uar6iCD6ZGrrXCVwfI08J/tQM=",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active"
+  },
+  {
+    "id": "answer-key-upsssc-bcg-technician-final-answer-key",
+    "title": "UPSSSC BCG Technician Final Answer Key 2026",
+    "category": "Answer Key",
+    "postDate": "2026-09-05",
+    "shortInfo": "UPSSSC BCG Technician Final Answer Key 2026. Read notification for detailed information.",
+    "applicationStart": "08 July 2024",
+    "applicationLastDate": "07 August 2024",
+    "feeLastDate": "07 August 2024",
+    "examDate": "The UPSSSC BCG Technician Admit Card is released online before the exam date to help candidates know their allotted examination city and plan their travel.",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "₹ 25/-",
+      "scStPh": "₹ 25/-",
+      "paymentMode": "Online payment mode"
+    },
+    "ageLimit": {
+      "min": "21 Years",
+      "max": "40 Years.",
+      "relaxationText": "Age Relaxation Extra as per UPSSSC Examination 2024"
+    },
+    "vacancies": [
+      {
+        "postName": "UPSSSC BCG Technician Final Answer Key 2026",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://upsssc.gov.in//AllNotifications.aspx",
+      "downloadNotification": "https://upsssc.gov.in/",
+      "officialWebsite": "https://upsssc.gov.in/",
+      "admitCardUrl": "https://upsssc.gov.in/ViewPdf.aspx?xy2wkKsY9VfNjNkcJKvowkZihysg14y8Bspq5s/0rUY=",
+      "resultUrl": "https://upsssc.gov.in/ViewPdf.aspx?tHmve0LK/weUxsVcC6KEDQX/CZYfOJ70vzficqrxYI4="
+    },
+    "status": "active"
+  },
+  {
+    "id": "syllabus-rajasthan-uttar-matric-scholarship-2026",
+    "title": "Rajasthan Uttar Matric Scholarship 2026",
+    "category": "Syllabus",
+    "postDate": "2026-09-05",
+    "shortInfo": "Rajasthan Uttar Matric Scholarship 2026. Read notification for detailed information.",
+    "applicationStart": "15 August 2026",
+    "applicationLastDate": "31 October 2026",
+    "feeLastDate": "31 October 2026",
+    "examDate": "To be announced",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "Rs. 25/-",
+      "scStPh": "The annual family income should not exceed ₹2.50 lakh for SC/ST/SBC category students.",
+      "female": "Yes, both male and female students can apply if they fulfill the prescribed eligibility criteria.",
+      "paymentMode": "Online payment mode"
+    },
+    "ageLimit": {
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Rajasthan Uttar Matric Scholarship 2026",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://sso.rajasthan.gov.in/register",
+      "downloadNotification": "https://drive.google.com/file/d/1aFd506cgHkmnK1eKIbQjp8rinraN2q8r/view",
+      "officialWebsite": "https://sje.rajasthan.gov.in/"
+    },
+    "status": "active"
+  },
+  {
+    "id": "syllabus-nielit-ccc-admit-card-2026",
+    "title": "NIELIT CCC Online Form, Admit Card, Result 2026",
+    "category": "Syllabus",
+    "postDate": "2026-09-05",
+    "shortInfo": "NIELIT CCC Online Form, Admit Card, Result 2026. Read notification for detailed information.",
+    "applicationStart": "January 2026",
+    "applicationLastDate": "December 2026",
+    "feeLastDate": "December 2026",
+    "examDate": "Every Month",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "₹ 500/-",
+      "scStPh": "Rs. 25/-",
+      "paymentMode": "Pay the prescribed examination/application fee through the available online payment mode."
+    },
+    "ageLimit": {
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "NIELIT CCC Online Form, Admit Card, Result 2026",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://student.nielit.gov.in/CAND/CertificateRegistration.aspx?qs=XhKiZ9Tp1NEo8Y+yOzlb6G6IUX8CzY7S81jz99mCt8GPB/ixGvOPVaNggbU53Sxu",
+      "downloadNotification": "https://student.nielit.gov.in/",
+      "officialWebsite": "https://student.nielit.gov.in/",
+      "syllabusUrl": "https://papers.sarkariexam.com/previous-paper/?exam=199&cat=CCC",
+      "admitCardUrl": "https://student.nielit.gov.in/WEB/DownloadAdmitCard.aspx?qs=TZ5h711O2yvsUka4UwJKUrMNmkDNSRCG/cNzAt4OIa+reKN9JjAGFg==",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active"
+  },
+  {
+    "id": "syllabus-aadhar-card-download-correction-status-2026",
+    "title": "Aadhar Card Download, Correction, Status 2026",
+    "category": "Syllabus",
+    "postDate": "2026-09-05",
+    "shortInfo": "Aadhar Card Download, Correction, Status 2026. Read notification for detailed information.",
+    "applicationStart": "Available soon",
+    "applicationLastDate": "Refer to notification",
+    "feeLastDate": "Refer to notification",
+    "examDate": "To be announced",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "Rs. 25/-",
+      "scStPh": "Rs. 25/-",
+      "paymentMode": "Online payment mode"
+    },
+    "ageLimit": {
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Aadhar Card Download, Correction, Status 2026",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://uidai.gov.in/",
+      "downloadNotification": "https://uidai.gov.in/",
+      "officialWebsite": "https://uidai.gov.in/"
+    },
+    "status": "active"
+  },
+  {
+    "id": "syllabus-pan-card-correction-other-service-2026",
+    "title": "PAN Card Registration, Correction & Other Service 2026",
+    "category": "Syllabus",
+    "postDate": "2026-09-05",
+    "shortInfo": "PAN Card Registration, Correction & Other Service 2026. Read notification for detailed information.",
+    "applicationStart": "Already Start",
+    "applicationLastDate": "Not Available",
+    "feeLastDate": "Not Available",
+    "examDate": "To be announced",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "Rs. 25/-",
+      "scStPh": "Rs. 25/-",
+      "paymentMode": "Online payment mode"
+    },
+    "ageLimit": {
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "PAN Card Registration, Correction & Other Service 2026",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://www.pan.utiitsl.com/",
+      "downloadNotification": "https://www.pan.utiitsl.com/",
+      "officialWebsite": "https://www.pan.utiitsl.com/"
+    },
+    "status": "active"
+  },
+  {
+    "id": "syllabus-up-income-cast-residential-verification-2026",
+    "title": "UP Income, Cast, Residential Certificate Online Verification 2026",
+    "category": "Syllabus",
+    "postDate": "2026-09-05",
+    "shortInfo": "UP Income, Cast, Residential Certificate Online Verification 2026. Read notification for detailed information.",
+    "applicationStart": "Already Start",
+    "applicationLastDate": "Not Available",
+    "feeLastDate": "Not Available",
+    "examDate": "To be announced",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "Rs. 25/-",
+      "scStPh": "Rs. 25/-",
+      "paymentMode": "Online payment mode"
+    },
+    "ageLimit": {
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "UP Income, Cast, Residential Certificate Online Verification 2026",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://bor.up.nic.in/",
+      "downloadNotification": "https://bor.up.nic.in/",
+      "officialWebsite": "https://bor.up.nic.in/"
+    },
+    "status": "active"
+  },
+  {
+    "id": "syllabus-bihar-income-cast-residential-verification-2026",
+    "title": "Bihar Income, Cast, Residential Certificate Online Apply & Verification 2026 : Short Details",
+    "category": "Syllabus",
+    "postDate": "2026-09-05",
+    "shortInfo": "Bihar Income, Cast, Residential Certificate Online Apply & Verification 2026 : Short Details. Read notification for detailed information.",
+    "applicationStart": "Already Start",
+    "applicationLastDate": "Not Available",
+    "feeLastDate": "Not Available",
+    "examDate": "To be announced",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "Rs. 25/-",
+      "scStPh": "Rs. 25/-",
+      "paymentMode": "Online payment mode"
+    },
+    "ageLimit": {
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Bihar Income, Cast, Residential Certificate Online Apply & Verification 2026 : Short Details",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://serviceonline.bihar.gov.in/",
+      "downloadNotification": "https://serviceonline.bihar.gov.in/",
+      "officialWebsite": "https://serviceonline.bihar.gov.in/"
+    },
+    "status": "active"
+  },
+  {
+    "id": "admission-bihar-stet-2026",
+    "title": "Bihar STET Online Form 2026",
+    "category": "Admission",
+    "postDate": "2026-09-05",
+    "shortInfo": "Bihar STET Online Form 2026. Read notification for detailed information.",
+    "applicationStart": "17 August 2026",
+    "applicationLastDate": "15 September 2026 Extended",
+    "feeLastDate": "15 September 2026 Extended",
+    "examDate": "Notify Later",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "Rs. 25/-",
+      "scStPh": "Rs. 25/-",
+      "female": "42 Years (SC/ ST-Male & Female)",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "min": "21 Years",
+      "max": "42 Years (SC/ ST-Male & Female)",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Bihar STET Online Form 2026",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://stetregistration.cbrt.co.in/",
+      "downloadNotification": "http://sarkariresult.com.cm/wp-content/uploads/2026/08/Bihar-Stet-2026-Notification.pdf",
+      "officialWebsite": "https://bsebstet.org/",
+      "syllabusUrl": "http://sarkariresult.com.cm/wp-content/uploads/2026/08/Bihar-STET-2026-Syllabus-Exam-Pattern.pdf",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active"
+  },
+  {
+    "id": "admission-allahabad-university-phd-2026",
+    "title": "Allahabad University PHd Admission Form 2026",
+    "category": "Admission",
+    "postDate": "2026-09-05",
+    "shortInfo": "Allahabad University PHd Admission Form 2026. Read notification for detailed information.",
+    "applicationStart": "Available soon",
+    "applicationLastDate": "Refer to notification",
+    "feeLastDate": "25 September 2026",
+    "examDate": "Notify Later",
+    "admitCardDate": "To be announced",
+    "resultDate": "Will Be Updated Here Soon",
+    "fees": {
+      "generalObc": "₹ 600/-",
+      "scStPh": "Minimum 50% marks.",
+      "paymentMode": "Online payment mode"
+    },
+    "ageLimit": {
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Allahabad University PHd Admission Form 2026",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://aupravesh2026.cbtexam.in/Home/Applicationform.aspx",
+      "downloadNotification": "https://allduniv.ac.in/upload/file_collection/PhD%20Admission%20Brochure-2026.pdf",
+      "officialWebsite": "https://allduniv.ac.in/",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active"
+  },
+  {
+    "id": "admission-nvs-class-11th-2027-28",
+    "title": "NVS Class 11th Admission Form 2027-28",
+    "category": "Admission",
+    "postDate": "2026-09-05",
+    "shortInfo": "NVS Class 11th Admission Form 2027-28. Read notification for detailed information.",
+    "applicationStart": "02 September 2026",
+    "applicationLastDate": "30 September 2026",
+    "feeLastDate": "30 September 2026",
+    "examDate": "10 April 2027",
+    "admitCardDate": "To be announced",
+    "resultDate": "Will Be Updated Here Soon.",
+    "fees": {
+      "generalObc": "Rs. 25/-",
+      "scStPh": "Rs. 25/-",
+      "paymentMode": "Online payment mode"
+    },
+    "ageLimit": {
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "NVS Class 11th Admission Form 2027-28",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://cbseitms.nic.in/2026/nvsxi_11",
+      "downloadNotification": "https://cbseitms.nic.in/2026/nvsxi_11/assets/pdf/FINAL_CLASS_XI_PROSPECTUS_2027.pdf",
+      "officialWebsite": "https://cbseitms.rcil.gov.in/nvs/",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active"
+  },
+  {
+    "id": "admission-nvs-class-9th-2027-28",
+    "title": "NVS Class 9th Admission Form 2027-28",
+    "category": "Admission",
+    "postDate": "2026-09-05",
+    "shortInfo": "NVS Class 9th Admission Form 2027-28. Read notification for detailed information.",
+    "applicationStart": "02 September 2026",
+    "applicationLastDate": "30 September 2026",
+    "feeLastDate": "30 September 2026",
+    "examDate": "10 April 2027",
+    "admitCardDate": "To be announced",
+    "resultDate": "Will Be Updated Here Soon.",
+    "fees": {
+      "generalObc": "Rs. 25/-",
+      "scStPh": "Rs. 25/-",
+      "paymentMode": "Online payment mode"
+    },
+    "ageLimit": {
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "NVS Class 9th Admission Form 2027-28",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://cbseitms.nic.in/2026/nvsix_9",
+      "downloadNotification": "https://cbseitms.nic.in/2026/nvsix_9/assets/pdf/FINAL_CLASS_IX_PROSPECTUS_2027.pdf",
+      "officialWebsite": "https://cbseitms.rcil.gov.in/nvs/",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active"
+  },
+  {
+    "id": "admission-iit-gate-2027",
+    "title": "IIT GATE 2027 Admission Form",
+    "category": "Admission",
+    "postDate": "2026-09-05",
+    "shortInfo": "IIT GATE 2027 Admission Form. Read notification for detailed information.",
+    "applicationStart": "27 August 2026",
+    "applicationLastDate": "Refer to notification",
+    "feeLastDate": "Refer to notification",
+    "examDate": "06, 07, 13, 14, 20 & 21 February 2027",
+    "admitCardDate": "To be announced",
+    "resultDate": "19 March 2027",
+    "fees": {
+      "generalObc": "Rs. 25/-",
+      "scStPh": "Rs. 25/-",
+      "female": "₹ 1500/-",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "max": "N/A",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "IIT GATE 2027 Admission Form",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://gate2027.iitm.ac.in/",
+      "downloadNotification": "https://gate2027.iitm.ac.in/static/doc/IB/GATE2027-IB_v1.pdf",
+      "officialWebsite": "https://gate2027.iitm.ac.in/",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active"
+  },
+  {
+    "id": "admission-aibe-22th-2026",
+    "title": "AIBE 22th Online Form 2026",
+    "category": "Admission",
+    "postDate": "2026-09-05",
+    "shortInfo": "AIBE 22th Online Form 2026. Read notification for detailed information.",
+    "applicationStart": "19 August 2026",
+    "applicationLastDate": "27 October 2026",
+    "feeLastDate": "27 October 2026",
+    "examDate": "29 November 2026",
+    "admitCardDate": "14 November 2026",
+    "resultDate": "Will Be Updated Here Soon",
+    "fees": {
+      "generalObc": "Rs. 25/-",
+      "scStPh": "₹ 2500/-",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "AIBE 22th Online Form 2026",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://aibe.digivarsity.online/WebApp/Forms/Authentication.aspx",
+      "downloadNotification": "https://www.allindiabarexamination.com/img/PressReleasedated18.07.2026.pdf",
+      "officialWebsite": "https://www.allindiabarexamination.com/",
+      "syllabusUrl": "https://www.allindiabarexamination.com/img/Syllabus%20for%20All%20India%20Bar%20Exam-XXI.pdf#toolbar=0&navpanes=0&scrollbar=0",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active"
+  },
+  {
+    "id": "admit-card-state-bank-india-sbi-probationary-officers",
+    "title": "State Bank of India SBI Probationary Officers PO Recruitment 2026 : Pre Score Card, Mains Admit Card 2026",
+    "category": "Admit Card",
+    "postDate": "2026-09-04",
+    "shortInfo": "State Bank of India SBI has released Probationary Officers PO Recruitment 2026 Notification. Those candidates Are Enrolled to the Following SBI PO Recruitment 2026 Can Download Result. Read the notification for recruitment eligibility, post information, selection procedure, age limit, pay scale and all other information.",
+    "applicationStart": "18/06/2026",
+    "applicationLastDate": "08/07/2026",
+    "feeLastDate": "08/07/2026",
+    "examDate": "September 2026",
+    "admitCardDate": "22/07/2026",
+    "resultDate": "28/08/2026",
+    "fees": {
+      "generalObc": "750/-",
+      "scStPh": "0/-",
+      "paymentMode": "Pay the Exam Fee Through Debit Card / Credit Card / Net Banking / UPI Fee Mode Only."
+    },
+    "ageLimit": {
+      "min": "21 Years.",
+      "max": "30 Years.",
+      "relaxationText": "Age Relaxation Extra as per SBI Probationary Officers PO Recruitment 2026 Rules."
+    },
+    "vacancies": [
+      {
+        "postName": "SBI Probationary Officer (PO)",
+        "totalPost": "1500",
+        "eligibility": "Passed / Appearing Bachelor Degree in Any Stream in Any Recognized University in India. More Eligibility Details Read the Notification"
+      },
+      {
+        "postName": "Post Name",
+        "totalPost": "UR",
+        "eligibility": "EWS"
+      },
+      {
+        "postName": "SBI PO Regular Vacancies",
+        "totalPost": "588",
+        "eligibility": "144"
+      },
+      {
+        "postName": "SBI PO Backlog Vacancies",
+        "totalPost": "0",
+        "eligibility": "0"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://ibpsreg.ibps.in/sbipojun26/",
+      "downloadNotification": "https://www.sarkariresult.com/wp-content/uploads/2026/06/SBI_PO_Notification_18062026_1_Detailed_Adv.2026.pdf",
+      "officialWebsite": "https://sbi.bank.in/",
+      "admitCardUrl": "https://www.youtube.com/watch?v=_fYRs0Dbk_0",
+      "resultUrl": "https://t.me/SarkariResult2012"
+    },
+    "status": "active"
+  },
+  {
+    "id": "admit-card-high-court-delhi-application-system",
+    "title": "High Court of Delhi. Online Application Registration System",
+    "category": "Admit Card",
+    "postDate": "2026-09-04",
+    "shortInfo": "High Court of Delhi. Online Application Registration System. Read notification for detailed information.",
+    "applicationStart": "Available soon",
+    "applicationLastDate": "Refer to notification",
+    "feeLastDate": "Refer to notification",
+    "examDate": "To be announced",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "Rs. 25/-",
+      "scStPh": "Rs. 25/-",
+      "paymentMode": "Online payment mode"
+    },
+    "ageLimit": {
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "High Court of Delhi. Online Application Registration System",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://www.sarkariresult.com/",
+      "downloadNotification": "https://www.sarkariresult.com/",
+      "officialWebsite": "https://www.sarkariresult.com/"
+    },
+    "status": "active"
+  },
+  {
+    "id": "admit-card-delhi-higher-judicial-services-hjs-2026",
+    "title": "Delhi Higher Judicial Services HJS Result 2026, Mains Exam Date",
+    "category": "Admit Card",
+    "postDate": "2026-09-04",
+    "shortInfo": "High Court of Delhi, New Delhi has released Delhi High Court Higher Judicial Service Exam 2026 Notification. Those candidates who are Enrolled in this Delhi High Court HJS 2026 Exam can Check Mains Exam Date. Read the notification for Delhi HC HJS Exam, eligibility, Document Required, age limit, How to Apply and all other information.",
+    "applicationStart": "01/07/2026",
+    "applicationLastDate": "15/07/2026 upto 05:30 PM Only.",
+    "feeLastDate": "15/07/2026",
+    "examDate": "10-11 October 2026",
+    "admitCardDate": "21/07/2026",
+    "resultDate": "14/08/2026",
+    "fees": {
+      "generalObc": "Rs. 25/-",
+      "scStPh": "500/-",
+      "paymentMode": "Online payment mode"
+    },
+    "ageLimit": {
+      "min": "35 Years",
+      "max": "45 Years",
+      "relaxationText": "Age Relaxation Extra as per Delhi Higher Judicial Service Exam 2026 Recruitment Rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Delhi High Court Higher Judicial Service Exam HJS 2026",
+        "totalPost": "27",
+        "eligibility": "Bachelor Degree in Law (LLB) in Any Recognized University in India. 7 Year Advocate Practice More Eligibility Details Read the Notification"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://applycareer.co.in/DHC/HighCourt2026DHJSE/",
+      "downloadNotification": "https://delhihighcourt.nic.in/files/2026-07/recuritment/adv-eng_dhjs-2026.pdf",
+      "officialWebsite": "https://delhihighcourt.nic.in/web/job-openings",
+      "syllabusUrl": "https://delhihighcourt.nic.in/files/2026-07/recuritment/important_instructions_dhjs-2026_0.pdf",
+      "admitCardUrl": "https://applycareer.co.in/dhc/highcourt2026dhjse/DHC_DHJSE26AdmitCard.aspx",
+      "resultUrl": "https://t.me/SarkariResult2012"
+    },
+    "status": "active"
+  },
+  {
+    "id": "answer-key-nta-ugc-net-june-2026-download",
+    "title": "NTA UGC NET June 2026 Download Result with Score Card, Final Answer Key, Re Exam City / Admit Card",
+    "category": "Answer Key",
+    "postDate": "2026-09-04",
+    "shortInfo": "National Testing Agency (NTA) has released the University Grant Commission UGC National Eligibility Test NET Assistant Professor / JRF June 2026 Examination online application Form 2026 will start from 29 April 2026 and the last date to apply will be 24 May 2026. candidates should read the NTA UGC NET June 2026 information brochure for all the information related to the NET / JRF exam like syllabus, eligibility, age limit, fees, Subject Details, information and other types of information and then apply..",
+    "applicationStart": "29/04/2026",
+    "applicationLastDate": "24/05/2026",
+    "feeLastDate": "24/05/2026",
+    "examDate": "09-10 September 2026",
+    "admitCardDate": "17/06/2026",
+    "resultDate": "29/08/2026",
+    "fees": {
+      "generalObc": "Rs. 25/-",
+      "scStPh": "325/-",
+      "paymentMode": "Online payment mode"
+    },
+    "ageLimit": {
+      "max": "Maximum Age : 31 Years",
+      "relaxationText": "Age Relaxation Extra as Per UGC NET June 2026 Exam Rules"
+    },
+    "vacancies": [
+      {
+        "postName": "NTA UGC NET June 2026 Download Result with Score Card, Final Answer Key, Re Exam City / Admit Card",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://examinationservices.nic.in/ExamSys26Part2/Root/Home.aspx?enc=Ei4cajBkK1gZSfgr53ImFV/yIzhTZHBze3wooSg9Djgija2T1vzGc16BomrI4u26",
+      "downloadNotification": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/04/202604291863555100.pdf",
+      "officialWebsite": "https://ugcnet.nta.nic.in/",
+      "admitCardUrl": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/06/202606172040939335.pdf",
+      "resultUrl": "https://t.me/SarkariResult2012"
     },
     "status": "active"
   },
@@ -3104,722 +4102,6 @@
       "applyOnline": "https://sarkariresult.com.cm/",
       "downloadNotification": "https://sarkariresult.com.cm/",
       "officialWebsite": "https://sarkariresult.com.cm/"
-    },
-    "status": "active"
-  },
-  {
-    "id": "answer-key-nta-aiapget-answer-key-2026",
-    "title": "NTA AIAPGET Answer Key 2026",
-    "category": "Answer Key",
-    "postDate": "2026-09-04",
-    "shortInfo": "NTA AIAPGET Answer Key 2026. Read notification for detailed information.",
-    "applicationStart": "Available soon",
-    "applicationLastDate": "Refer to notification",
-    "feeLastDate": "30 July 2026",
-    "examDate": "22 August 2026",
-    "admitCardDate": "18 August 2026",
-    "resultDate": "Will Be Updated Here Soon",
-    "fees": {
-      "generalObc": "Rs. 25/-",
-      "scStPh": "₹ 1800/-",
-      "paymentMode": "Online payment mode"
-    },
-    "ageLimit": {
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "NTA AIAPGET Answer Key 2026",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://examinationservices.nic.in/ExamSys26part2/root/Home.aspx?enc=Ei4cajBkK1gZSfgr53ImFZ+h0MepSUWC4caRGr23rIGxoddmkPhP33EPDwrEMlwi",
-      "downloadNotification": "https://cdnbbsr.s3waas.gov.in/s388a839f2f6f1427879fc33ee4acf4f66/uploads/2026/07/202607101983155019.pdf",
-      "officialWebsite": "https://exams.nta.ac.in/AIAPGET/",
-      "admitCardUrl": "https://cdnbbsr.s3waas.gov.in/s388a839f2f6f1427879fc33ee4acf4f66/uploads/2026/08/20260818137536527.pdf",
-      "resultUrl": "https://sarkariresult.com.cm/"
-    },
-    "status": "active"
-  },
-  {
-    "id": "answer-key-cci-various-answer-key-2026",
-    "title": "CCI Various Post Answer Key 2026",
-    "category": "Answer Key",
-    "postDate": "2026-09-04",
-    "shortInfo": "CCI Various Post Answer Key 2026. Read notification for detailed information.",
-    "applicationStart": "09 July 2026",
-    "applicationLastDate": "24 July 2026",
-    "feeLastDate": "24 July 2026",
-    "examDate": "01 September 2026",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "Rs. 25/-",
-      "scStPh": "Rs. 25/-",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
-    },
-    "ageLimit": {
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "Management Trainee (Marketing)",
-        "totalPost": "08",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Management Trainee (Accounts)",
-        "totalPost": "08",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Junior Commercial Executive",
-        "totalPost": "50",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Junior Assistant (General)",
-        "totalPost": "30",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Junior Assistant (Accounts)",
-        "totalPost": "50",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Assistant Manager (Official Language)",
-        "totalPost": "01",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Assistant Manager (Information Technology)",
-        "totalPost": "01",
-        "eligibility": "Refer to official notification details"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://cdn.digialm.com/EForms/configuredHtml/1258/100936/login.html",
-      "downloadNotification": "https://cotcorp.org.in/storage/AnnouncementDocument/Announcement_1783524490_Final_Advertisement_2026_with_Enclosures_.pdf",
-      "officialWebsite": "https://cotcorp.org.in/",
-      "admitCardUrl": "https://cdn.digialm.com/EForms/configuredHtml/1258/100936/login.html",
-      "resultUrl": "https://sarkariresult.com.cm/"
-    },
-    "status": "active"
-  },
-  {
-    "id": "answer-key-bsnl-junior-telecom-officer-jto-answer",
-    "title": "BSNL Junior Telecom Officer JTO Answer Key 2026",
-    "category": "Answer Key",
-    "postDate": "2026-09-04",
-    "shortInfo": "BSNL Junior Telecom Officer JTO Answer Key 2026. Read notification for detailed information.",
-    "applicationStart": "04 June 2026",
-    "applicationLastDate": "03 July 2026",
-    "feeLastDate": "03 July 2026",
-    "examDate": "Yes, the exam date, reporting time, exam centre, and other important details will be mentioned on the admit card.",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "Rs. 25/-",
-      "scStPh": "Rs. 25/-",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
-    },
-    "ageLimit": {
-      "min": "20 Years",
-      "max": "30 Years",
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "Junior Telecom Officer JTO",
-        "totalPost": "100 Posts",
-        "eligibility": "Refer to official notification details"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://bsnlregistration.ibtexamination.com/AppO2BsNL_2026/",
-      "downloadNotification": "http://sarkariresult.com.cm/wp-content/uploads/2026/05/Examination-notification-DR-JTOT.pdf",
-      "officialWebsite": "https://bsnl.co.in/en",
-      "admitCardUrl": "https://ibtexamination.com/secuAdmitcard/bsnlAdmitcard05/"
-    },
-    "status": "active"
-  },
-  {
-    "id": "answer-key-nta-csir-ugc-net-2026",
-    "title": "NTA CSIR UGC NET Result 2026",
-    "category": "Answer Key",
-    "postDate": "2026-09-04",
-    "shortInfo": "NTA CSIR UGC NET Result 2026. Read notification for detailed information.",
-    "applicationStart": "Available soon",
-    "applicationLastDate": "Refer to notification",
-    "feeLastDate": "20 June 2026",
-    "examDate": "The admit card contains the candidate’s Name, Roll Number, Exam Date, Exam Time, Reporting Time, Exam Centre, Photograph, Signature, and Exam Instructions.",
-    "admitCardDate": "13 July 2026",
-    "resultDate": "29 August 2026 Available",
-    "fees": {
-      "generalObc": "Rs. 25/-",
-      "scStPh": "Rs. 25/-",
-      "paymentMode": "Online payment mode"
-    },
-    "ageLimit": {
-      "max": "Maximum Age : 30 Year",
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "NTA CSIR UGC NET Result 2026",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://examinationservices.nic.in/ExamSys26Part2/Root/Home.aspx?enc=Ei4cajBkK1gZSfgr53ImFTqGsyg38PlGNCGSuvSzsiVbovgbG6pVEHea7DNFe38E",
-      "downloadNotification": "https://cdnbbsr.s3waas.gov.in/s3efdf562ce2fb0ad460fd8e9d33e57f57/uploads/2026/05/202605271224945892.pdf",
-      "officialWebsite": "https://csirnet.nta.ac.in/",
-      "admitCardUrl": "https://cdnbbsr.s3waas.gov.in/s3efdf562ce2fb0ad460fd8e9d33e57f57/uploads/2026/07/20260713839526776.pdf",
-      "resultUrl": "https://cdnbbsr.s3waas.gov.in/s3efdf562ce2fb0ad460fd8e9d33e57f57/uploads/2026/08/20260829458652006.pdf"
-    },
-    "status": "active"
-  },
-  {
-    "id": "answer-key-upsssc-lower-pcs-answer-key-2026",
-    "title": "UPSSSC Lower PCS Answer Key 2026",
-    "category": "Answer Key",
-    "postDate": "2026-09-04",
-    "shortInfo": "UPSSSC Lower PCS Answer Key 2026. Read notification for detailed information.",
-    "applicationStart": "29 May 2026",
-    "applicationLastDate": "25 June 2026",
-    "feeLastDate": "25 June 2026",
-    "examDate": "The slip provides important information regarding the allotted examination city and examination date.",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "₹ 25/-",
-      "scStPh": "₹ 25/-",
-      "paymentMode": "Online payment mode"
-    },
-    "ageLimit": {
-      "min": "21 Years",
-      "max": "40 Years.",
-      "relaxationText": "Age Relaxation Extra as per UPSSSC Examination 2026"
-    },
-    "vacancies": [
-      {
-        "postName": "Mandi Supervisor",
-        "totalPost": "46",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Amin / Auctioneer",
-        "totalPost": "323",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Assistant Manager (Non-Technical)",
-        "totalPost": "134",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Clerk cum Typist / Cashier cum Clerk / Accounts Clerk",
-        "totalPost": "229",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Assistant Chakbandi Officer",
-        "totalPost": "168",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Auditor",
-        "totalPost": "419",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Centre in Charge",
-        "totalPost": "92",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Executive Officer",
-        "totalPost": "238",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Assistant Treasury Accountant",
-        "totalPost": "548",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Assistant Manager (Non-Technical) (Special Selection)",
-        "totalPost": "03",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "District Assistant Immunization Officer",
-        "totalPost": "85",
-        "eligibility": "Refer to official notification details"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://upsssc.gov.in//AllNotifications.aspx",
-      "downloadNotification": "https://upsssc.gov.in/ViewPdf.aspx?HA04nYKkgpncofLRuXT6k7Np5V3U8T3Cr2bvb1DZAsc=",
-      "officialWebsite": "https://upsssc.gov.in/",
-      "admitCardUrl": "https://upsssc.gov.in/ViewPdf.aspx?2276t8n7CMo25NINJ3uar6iCD6ZGrrXCVwfI08J/tQM=",
-      "resultUrl": "https://sarkariresult.com.cm/"
-    },
-    "status": "active"
-  },
-  {
-    "id": "answer-key-upsssc-bcg-technician-final-answer-key",
-    "title": "UPSSSC BCG Technician Final Answer Key 2026",
-    "category": "Answer Key",
-    "postDate": "2026-09-04",
-    "shortInfo": "UPSSSC BCG Technician Final Answer Key 2026. Read notification for detailed information.",
-    "applicationStart": "08 July 2024",
-    "applicationLastDate": "07 August 2024",
-    "feeLastDate": "07 August 2024",
-    "examDate": "The UPSSSC BCG Technician Admit Card is released online before the exam date to help candidates know their allotted examination city and plan their travel.",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "₹ 25/-",
-      "scStPh": "₹ 25/-",
-      "paymentMode": "Online payment mode"
-    },
-    "ageLimit": {
-      "min": "21 Years",
-      "max": "40 Years.",
-      "relaxationText": "Age Relaxation Extra as per UPSSSC Examination 2024"
-    },
-    "vacancies": [
-      {
-        "postName": "UPSSSC BCG Technician Final Answer Key 2026",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://upsssc.gov.in//AllNotifications.aspx",
-      "downloadNotification": "https://upsssc.gov.in/",
-      "officialWebsite": "https://upsssc.gov.in/",
-      "admitCardUrl": "https://upsssc.gov.in/ViewPdf.aspx?xy2wkKsY9VfNjNkcJKvowkZihysg14y8Bspq5s/0rUY=",
-      "resultUrl": "https://upsssc.gov.in/ViewPdf.aspx?tHmve0LK/weUxsVcC6KEDQX/CZYfOJ70vzficqrxYI4="
-    },
-    "status": "active"
-  },
-  {
-    "id": "syllabus-rajasthan-uttar-matric-scholarship-2026",
-    "title": "Rajasthan Uttar Matric Scholarship 2026",
-    "category": "Syllabus",
-    "postDate": "2026-09-04",
-    "shortInfo": "Rajasthan Uttar Matric Scholarship 2026. Read notification for detailed information.",
-    "applicationStart": "15 August 2026",
-    "applicationLastDate": "31 October 2026",
-    "feeLastDate": "31 October 2026",
-    "examDate": "To be announced",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "Rs. 25/-",
-      "scStPh": "The annual family income should not exceed ₹2.50 lakh for SC/ST/SBC category students.",
-      "female": "Yes, both male and female students can apply if they fulfill the prescribed eligibility criteria.",
-      "paymentMode": "Online payment mode"
-    },
-    "ageLimit": {
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "Rajasthan Uttar Matric Scholarship 2026",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://sso.rajasthan.gov.in/register",
-      "downloadNotification": "https://drive.google.com/file/d/1aFd506cgHkmnK1eKIbQjp8rinraN2q8r/view",
-      "officialWebsite": "https://sje.rajasthan.gov.in/"
-    },
-    "status": "active"
-  },
-  {
-    "id": "syllabus-nielit-ccc-admit-card-2026",
-    "title": "NIELIT CCC Online Form, Admit Card, Result 2026",
-    "category": "Syllabus",
-    "postDate": "2026-09-04",
-    "shortInfo": "NIELIT CCC Online Form, Admit Card, Result 2026. Read notification for detailed information.",
-    "applicationStart": "January 2026",
-    "applicationLastDate": "December 2026",
-    "feeLastDate": "December 2026",
-    "examDate": "Every Month",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "₹ 500/-",
-      "scStPh": "Rs. 25/-",
-      "paymentMode": "Pay the prescribed examination/application fee through the available online payment mode."
-    },
-    "ageLimit": {
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "NIELIT CCC Online Form, Admit Card, Result 2026",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://student.nielit.gov.in/CAND/CertificateRegistration.aspx?qs=XhKiZ9Tp1NEo8Y+yOzlb6G6IUX8CzY7S81jz99mCt8GPB/ixGvOPVaNggbU53Sxu",
-      "downloadNotification": "https://student.nielit.gov.in/",
-      "officialWebsite": "https://student.nielit.gov.in/",
-      "syllabusUrl": "https://papers.sarkariexam.com/previous-paper/?exam=199&cat=CCC",
-      "admitCardUrl": "https://student.nielit.gov.in/WEB/DownloadAdmitCard.aspx?qs=TZ5h711O2yvsUka4UwJKUrMNmkDNSRCG/cNzAt4OIa+reKN9JjAGFg==",
-      "resultUrl": "https://sarkariresult.com.cm/"
-    },
-    "status": "active"
-  },
-  {
-    "id": "syllabus-aadhar-card-download-correction-status-2026",
-    "title": "Aadhar Card Download, Correction, Status 2026",
-    "category": "Syllabus",
-    "postDate": "2026-09-04",
-    "shortInfo": "Aadhar Card Download, Correction, Status 2026. Read notification for detailed information.",
-    "applicationStart": "Available soon",
-    "applicationLastDate": "Refer to notification",
-    "feeLastDate": "Refer to notification",
-    "examDate": "To be announced",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "Rs. 25/-",
-      "scStPh": "Rs. 25/-",
-      "paymentMode": "Online payment mode"
-    },
-    "ageLimit": {
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "Aadhar Card Download, Correction, Status 2026",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://uidai.gov.in/",
-      "downloadNotification": "https://uidai.gov.in/",
-      "officialWebsite": "https://uidai.gov.in/"
-    },
-    "status": "active"
-  },
-  {
-    "id": "syllabus-pan-card-correction-other-service-2026",
-    "title": "PAN Card Registration, Correction & Other Service 2026",
-    "category": "Syllabus",
-    "postDate": "2026-09-04",
-    "shortInfo": "PAN Card Registration, Correction & Other Service 2026. Read notification for detailed information.",
-    "applicationStart": "Already Start",
-    "applicationLastDate": "Not Available",
-    "feeLastDate": "Not Available",
-    "examDate": "To be announced",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "Rs. 25/-",
-      "scStPh": "Rs. 25/-",
-      "paymentMode": "Online payment mode"
-    },
-    "ageLimit": {
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "PAN Card Registration, Correction & Other Service 2026",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://www.pan.utiitsl.com/",
-      "downloadNotification": "https://www.pan.utiitsl.com/",
-      "officialWebsite": "https://www.pan.utiitsl.com/"
-    },
-    "status": "active"
-  },
-  {
-    "id": "syllabus-up-income-cast-residential-verification-2026",
-    "title": "UP Income, Cast, Residential Certificate Online Verification 2026",
-    "category": "Syllabus",
-    "postDate": "2026-09-04",
-    "shortInfo": "UP Income, Cast, Residential Certificate Online Verification 2026. Read notification for detailed information.",
-    "applicationStart": "Already Start",
-    "applicationLastDate": "Not Available",
-    "feeLastDate": "Not Available",
-    "examDate": "To be announced",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "Rs. 25/-",
-      "scStPh": "Rs. 25/-",
-      "paymentMode": "Online payment mode"
-    },
-    "ageLimit": {
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "UP Income, Cast, Residential Certificate Online Verification 2026",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://bor.up.nic.in/",
-      "downloadNotification": "https://bor.up.nic.in/",
-      "officialWebsite": "https://bor.up.nic.in/"
-    },
-    "status": "active"
-  },
-  {
-    "id": "syllabus-bihar-income-cast-residential-verification-2026",
-    "title": "Bihar Income, Cast, Residential Certificate Online Apply & Verification 2026 : Short Details",
-    "category": "Syllabus",
-    "postDate": "2026-09-04",
-    "shortInfo": "Bihar Income, Cast, Residential Certificate Online Apply & Verification 2026 : Short Details. Read notification for detailed information.",
-    "applicationStart": "Already Start",
-    "applicationLastDate": "Not Available",
-    "feeLastDate": "Not Available",
-    "examDate": "To be announced",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "Rs. 25/-",
-      "scStPh": "Rs. 25/-",
-      "paymentMode": "Online payment mode"
-    },
-    "ageLimit": {
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "Bihar Income, Cast, Residential Certificate Online Apply & Verification 2026 : Short Details",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://serviceonline.bihar.gov.in/",
-      "downloadNotification": "https://serviceonline.bihar.gov.in/",
-      "officialWebsite": "https://serviceonline.bihar.gov.in/"
-    },
-    "status": "active"
-  },
-  {
-    "id": "admission-allahabad-university-phd-2026",
-    "title": "Allahabad University PHd Admission Form 2026",
-    "category": "Admission",
-    "postDate": "2026-09-04",
-    "shortInfo": "Allahabad University PHd Admission Form 2026. Read notification for detailed information.",
-    "applicationStart": "Available soon",
-    "applicationLastDate": "Refer to notification",
-    "feeLastDate": "25 September 2026",
-    "examDate": "Notify Later",
-    "admitCardDate": "To be announced",
-    "resultDate": "Will Be Updated Here Soon",
-    "fees": {
-      "generalObc": "₹ 600/-",
-      "scStPh": "Minimum 50% marks.",
-      "paymentMode": "Online payment mode"
-    },
-    "ageLimit": {
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "Allahabad University PHd Admission Form 2026",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://aupravesh2026.cbtexam.in/Home/Applicationform.aspx",
-      "downloadNotification": "https://allduniv.ac.in/upload/file_collection/PhD%20Admission%20Brochure-2026.pdf",
-      "officialWebsite": "https://allduniv.ac.in/",
-      "resultUrl": "https://sarkariresult.com.cm/"
-    },
-    "status": "active"
-  },
-  {
-    "id": "admission-bihar-stet-2026",
-    "title": "Bihar STET Online Form 2026",
-    "category": "Admission",
-    "postDate": "2026-09-04",
-    "shortInfo": "Bihar STET Online Form 2026. Read notification for detailed information.",
-    "applicationStart": "17 August 2026",
-    "applicationLastDate": "15 September 2026 Extended",
-    "feeLastDate": "15 September 2026 Extended",
-    "examDate": "Notify Later",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "Rs. 25/-",
-      "scStPh": "Rs. 25/-",
-      "female": "42 Years (SC/ ST-Male & Female)",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
-    },
-    "ageLimit": {
-      "min": "21 Years",
-      "max": "42 Years (SC/ ST-Male & Female)",
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "Bihar STET Online Form 2026",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://stetregistration.cbrt.co.in/",
-      "downloadNotification": "http://sarkariresult.com.cm/wp-content/uploads/2026/08/Bihar-Stet-2026-Notification.pdf",
-      "officialWebsite": "https://bsebstet.org/",
-      "syllabusUrl": "http://sarkariresult.com.cm/wp-content/uploads/2026/08/Bihar-STET-2026-Syllabus-Exam-Pattern.pdf",
-      "resultUrl": "https://sarkariresult.com.cm/"
-    },
-    "status": "active"
-  },
-  {
-    "id": "admission-nvs-class-11th-2027-28",
-    "title": "NVS Class 11th Admission Form 2027-28",
-    "category": "Admission",
-    "postDate": "2026-09-04",
-    "shortInfo": "NVS Class 11th Admission Form 2027-28. Read notification for detailed information.",
-    "applicationStart": "02 September 2026",
-    "applicationLastDate": "30 September 2026",
-    "feeLastDate": "30 September 2026",
-    "examDate": "10 April 2027",
-    "admitCardDate": "To be announced",
-    "resultDate": "Will Be Updated Here Soon.",
-    "fees": {
-      "generalObc": "Rs. 25/-",
-      "scStPh": "Rs. 25/-",
-      "paymentMode": "Online payment mode"
-    },
-    "ageLimit": {
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "NVS Class 11th Admission Form 2027-28",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://cbseitms.nic.in/2026/nvsxi_11",
-      "downloadNotification": "https://cbseitms.nic.in/2026/nvsxi_11/assets/pdf/FINAL_CLASS_XI_PROSPECTUS_2027.pdf",
-      "officialWebsite": "https://cbseitms.rcil.gov.in/nvs/",
-      "resultUrl": "https://sarkariresult.com.cm/"
-    },
-    "status": "active"
-  },
-  {
-    "id": "admission-nvs-class-9th-2027-28",
-    "title": "NVS Class 9th Admission Form 2027-28",
-    "category": "Admission",
-    "postDate": "2026-09-04",
-    "shortInfo": "NVS Class 9th Admission Form 2027-28. Read notification for detailed information.",
-    "applicationStart": "02 September 2026",
-    "applicationLastDate": "30 September 2026",
-    "feeLastDate": "30 September 2026",
-    "examDate": "10 April 2027",
-    "admitCardDate": "To be announced",
-    "resultDate": "Will Be Updated Here Soon.",
-    "fees": {
-      "generalObc": "Rs. 25/-",
-      "scStPh": "Rs. 25/-",
-      "paymentMode": "Online payment mode"
-    },
-    "ageLimit": {
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "NVS Class 9th Admission Form 2027-28",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://cbseitms.nic.in/2026/nvsix_9",
-      "downloadNotification": "https://cbseitms.nic.in/2026/nvsix_9/assets/pdf/FINAL_CLASS_IX_PROSPECTUS_2027.pdf",
-      "officialWebsite": "https://cbseitms.rcil.gov.in/nvs/",
-      "resultUrl": "https://sarkariresult.com.cm/"
-    },
-    "status": "active"
-  },
-  {
-    "id": "admission-iit-gate-2027",
-    "title": "IIT GATE 2027 Admission Form",
-    "category": "Admission",
-    "postDate": "2026-09-04",
-    "shortInfo": "IIT GATE 2027 Admission Form. Read notification for detailed information.",
-    "applicationStart": "27 August 2026",
-    "applicationLastDate": "Refer to notification",
-    "feeLastDate": "Refer to notification",
-    "examDate": "06, 07, 13, 14, 20 & 21 February 2027",
-    "admitCardDate": "To be announced",
-    "resultDate": "19 March 2027",
-    "fees": {
-      "generalObc": "Rs. 25/-",
-      "scStPh": "Rs. 25/-",
-      "female": "₹ 1500/-",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
-    },
-    "ageLimit": {
-      "max": "N/A",
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "IIT GATE 2027 Admission Form",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://gate2027.iitm.ac.in/",
-      "downloadNotification": "https://gate2027.iitm.ac.in/static/doc/IB/GATE2027-IB_v1.pdf",
-      "officialWebsite": "https://gate2027.iitm.ac.in/",
-      "resultUrl": "https://sarkariresult.com.cm/"
-    },
-    "status": "active"
-  },
-  {
-    "id": "admission-aibe-22th-2026",
-    "title": "AIBE 22th Online Form 2026",
-    "category": "Admission",
-    "postDate": "2026-09-04",
-    "shortInfo": "AIBE 22th Online Form 2026. Read notification for detailed information.",
-    "applicationStart": "19 August 2026",
-    "applicationLastDate": "27 October 2026",
-    "feeLastDate": "27 October 2026",
-    "examDate": "29 November 2026",
-    "admitCardDate": "14 November 2026",
-    "resultDate": "Will Be Updated Here Soon",
-    "fees": {
-      "generalObc": "Rs. 25/-",
-      "scStPh": "₹ 2500/-",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
-    },
-    "ageLimit": {
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "AIBE 22th Online Form 2026",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://aibe.digivarsity.online/WebApp/Forms/Authentication.aspx",
-      "downloadNotification": "https://www.allindiabarexamination.com/img/PressReleasedated18.07.2026.pdf",
-      "officialWebsite": "https://www.allindiabarexamination.com/",
-      "syllabusUrl": "https://www.allindiabarexamination.com/img/Syllabus%20for%20All%20India%20Bar%20Exam-XXI.pdf#toolbar=0&navpanes=0&scrollbar=0",
-      "resultUrl": "https://sarkariresult.com.cm/"
     },
     "status": "active"
   },
@@ -5691,43 +5973,6 @@
       "downloadNotification": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/3ABD11DA80374279A39F1BF78AAB0950.pdf",
       "officialWebsite": "https://rpsc.rajasthan.gov.in/home",
       "admitCardUrl": "https://rpsc.rajasthan.gov.in/Static/PressNotes/3D38E43A-CCB7-4415-B543-61D93575E0E1.pdf"
-    },
-    "status": "active"
-  },
-  {
-    "id": "latest-jobs-bihar-stet-2026",
-    "title": "Bihar STET Online Form 2026",
-    "category": "Latest Jobs",
-    "postDate": "2026-08-30",
-    "shortInfo": "Bihar STET Online Form 2026. Read notification for detailed information.",
-    "applicationStart": "17 August 2026",
-    "applicationLastDate": "15 September 2026 Extended",
-    "feeLastDate": "15 September 2026 Extended",
-    "examDate": "Notify Later",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "Rs. 25/-",
-      "scStPh": "Rs. 25/-",
-      "female": "42 Years (SC/ ST-Male & Female)",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
-    },
-    "ageLimit": {
-      "min": "21 Years",
-      "max": "42 Years (SC/ ST-Male & Female)",
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "Bihar STET Online Form 2026",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://stetregistration.cbrt.co.in/",
-      "downloadNotification": "http://sarkariresult.com.cm/wp-content/uploads/2026/08/Bihar-Stet-2026-Notification.pdf",
-      "officialWebsite": "https://bsebstet.org/",
-      "resultUrl": "https://sarkariresult.com.cm/"
     },
     "status": "active"
   },

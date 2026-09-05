@@ -769,8 +769,8 @@ export const App: React.FC = () => {
               <div className="drawer-brand">
                 <img src="/sarkariavedan_logo.jpg" alt="Logo" className="header-logo" style={{width: '40px', height: '40px', borderRadius: '50%', objectFit: 'cover'}} />
                 <div className="drawer-title-container" style={{ display: 'flex', flexDirection: 'column' }}>
-                  <span className="header-title" style={{ fontSize: '1.2rem', fontWeight: 800 }}>सरकारी आवेदन</span>
-                  <span className="header-subtitle" style={{ fontSize: '0.7rem' }}>Sarkari Aavedan</span>
+                  <span className="header-title" style={{ fontFamily: 'Poppins, sans-serif', fontSize: '1.2rem', fontWeight: 800, letterSpacing: '-0.5px' }}>SarkariAvedan<span style={{color: 'var(--primary-color)'}}>.info</span></span>
+                  <span className="header-subtitle" style={{ letterSpacing: '1px', textTransform: 'uppercase', fontSize: '0.65rem', fontWeight: 600 }}>India's Job Alerts</span>
                 </div>
               </div>
               <button className="btn-icon" onClick={() => setIsDrawerOpen(false)}>

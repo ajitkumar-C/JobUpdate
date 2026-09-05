@@ -32,8 +32,8 @@ export const Header: React.FC<HeaderProps> = ({
         </div>
         <img src="/sarkariavedan_logo.jpg" alt="Sarkari Avedan Logo" className="header-logo" style={{width: '40px', height: '40px', borderRadius: '50%', objectFit: 'cover'}} />
         <div className="header-title-container">
-          <h1 className="header-title">सरकारी आवेदन</h1>
-          <span className="header-subtitle">Sarkari Aavedan</span>
+          <h1 className="header-title" style={{ fontFamily: 'Poppins, sans-serif', fontWeight: 800, letterSpacing: '-0.5px' }}>SarkariAvedan<span style={{color: 'var(--primary-color)'}}>.info</span></h1>
+          <span className="header-subtitle" style={{ letterSpacing: '1px', textTransform: 'uppercase', fontSize: '0.75rem', fontWeight: 600 }}>India's Job Alerts</span>
         </div>
       </div>
 

@@ -1,20 +1,281 @@
 [
   {
-    "id": "jharkhand-iit (ism) dhanbad-project-assistant",
-    "title": "IIT (ISM) Dhanbad Recruitment 2026 – Project Assistant Posts",
-    "shortInfo": "IIT (ISM) Dhanbad has announced notification for Project Assistant posts. Required qualification: Diploma, B.Sc. Last date to apply: 28-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
+    "id": "jharkhand-aiims deoghar-data-entry-operator",
+    "title": "AIIMS Deoghar Recruitment 2026 – Data Entry Operator Posts",
+    "shortInfo": "AIIMS Deoghar has announced notification for Data Entry Operator posts. Required qualification: 12TH, B.Sc. Last date to apply: 18-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
     "district": "State Level",
     "vacancies": "1",
-    "lastDate": "28-08-26",
-    "officialWebsite": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/1572/Project%20Assistant_2026-08-17_12-48-27.pdf",
-    "notificationLink": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/1572/Project%20Assistant_2026-08-17_12-48-27.pdf",
-    "applyOnlineLink": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/1572/Project%20Assistant_2026-08-17_12-48-27.pdf",
+    "lastDate": "18-09-26",
+    "officialWebsite": "https://www.aiimsdeoghar.edu.in/Content/resources/document/Recruitment/walkin_interview_for_the_post_of_deo_dated_18_092026_05092026022143975.pdf",
+    "notificationLink": "https://www.aiimsdeoghar.edu.in/Content/resources/document/Recruitment/walkin_interview_for_the_post_of_deo_dated_18_092026_05092026022143975.pdf",
+    "applyOnlineLink": "https://www.aiimsdeoghar.edu.in/Content/resources/document/Recruitment/walkin_interview_for_the_post_of_deo_dated_18_092026_05092026022143975.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-08-19"
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "jharkhand-dvc-overman",
+    "title": "DVC Recruitment 2026 – Overman Posts",
+    "shortInfo": "DVC has announced notification for Overman posts. Required qualification: Diploma in Mining Engineering, Overman's Certificate, First Aid Certificate. Last date to apply: 21-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "09",
+    "lastDate": "21-09-26",
+    "officialWebsite": "https://www.dvc.gov.in",
+    "notificationLink": "https://www.dvc.gov.in/storage/app/hr/Advertisement_for_Recruitment_of_Overman_on_Contractual_basis_in_DVC_(1).pdf",
+    "applyOnlineLink": "https://www.dvc.gov.in/cms-web/recruitment_dvc",
+    "state": "Jharkhand",
+    "stateCode": "jharkhand",
+    "scrapedAt": "2026-09-06",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date of Online Application",
+        "date": "03/09/2026"
+      },
+      {
+        "event": "Closing Date of Online Application",
+        "date": "21/09/2026"
+      },
+      {
+        "event": "Cut-off Date for Eligibility Criteria",
+        "date": "21/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Overman (Contractual Basis)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the DVC website: www.dvc.gov.in &rarr; Careers &rarr; Recruitment &rarr; Recruitment Notices.",
+      "Click on the ‘APPLY ONLINE’ link available under the relevant recruitment notice.",
+      "Step 1: Fill in all the particulars in the Online Application Form.",
+      "Step 2: Upload scanned photograph (3.5cm x 3.5cm, PNG/JPG/JPEG, max 2MB), signature, Class Xth/XIIth/Diploma/Overman Certificate or marksheet, and essential qualification certificates.",
+      "Step 3: Preview the application form and edit/update data if required.",
+      "Step 4: Submit the application. Once submitted, the application cannot be edited.",
+      "After successful submission, a Unique Application Number will be generated. Take a printout of the submitted application for future reference.",
+      "Keep the printout of the Online Application Form safely for future reference.",
+      "Online registration is active from 03/09/2026 to 21/09/2026 (till 23:59 hrs)."
+    ]
+  },
+  {
+    "id": "jharkhand-junior plant protection office dhanbad-crop-protector",
+    "title": "Junior Plant Protection Office Dhanbad Recruitment 2026 – Crop Protector Posts",
+    "shortInfo": "Junior Plant Protection Office Dhanbad has announced notification for Crop Protector posts. Required qualification: 10TH. Last date to apply: 25-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "4",
+    "lastDate": "25-09-26",
+    "officialWebsite": "https://cdn.s3waas.gov.in/s337f0e884fbad9667e38940169d0a3c95/uploads/17881693369160.pdf",
+    "notificationLink": "https://cdn.s3waas.gov.in/s337f0e884fbad9667e38940169d0a3c95/uploads/17881693369160.pdf",
+    "applyOnlineLink": "https://cdn.s3waas.gov.in/s337f0e884fbad9667e38940169d0a3c95/uploads/17881693369160.pdf",
+    "state": "Jharkhand",
+    "stateCode": "jharkhand",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "jharkhand-sail bsl-audiologist",
+    "title": "SAIL BSL Recruitment 2026 – Audiologist Posts",
+    "shortInfo": "SAIL BSL has announced notification for Audiologist posts. Required qualification: MASLP, M.Sc. Last date to apply: 19-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "19-09-26",
+    "officialWebsite": "https://aima-web-images.s3.ap-south-1.amazonaws.com/sailcareers.com/Downloads/BSP_News%20&#038;%20Jobs_01092026_163338.pdf",
+    "notificationLink": "https://aima-web-images.s3.ap-south-1.amazonaws.com/sailcareers.com/Downloads/BSP_News%20&#038;%20Jobs_01092026_163338.pdf",
+    "applyOnlineLink": "https://aima-web-images.s3.ap-south-1.amazonaws.com/sailcareers.com/Downloads/BSP_News%20&#038;%20Jobs_01092026_163338.pdf",
+    "state": "Jharkhand",
+    "stateCode": "jharkhand",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "jharkhand-iit (ism) dhanbad-jrf-srf-postdoctoral-fellow",
+    "title": "IIT (ISM) Dhanbad Recruitment 2026 – JRF/SRF, Postdoctoral Fellow Posts",
+    "shortInfo": "IIT (ISM) Dhanbad has announced notification for JRF/SRF, Postdoctoral Fellow posts. Required qualification: M.E/M.Tech, B.Tech/B.E, M.Phil/Ph.D. Last date to apply: 15-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "3",
+    "lastDate": "15-09-26",
+    "officialWebsite": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/1733/Project%20JRF_2026-09-01_13-43-44.pdf",
+    "notificationLink": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/1733/Project%20JRF_2026-09-01_13-43-44.pdf",
+    "applyOnlineLink": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/1733/Project%20JRF_2026-09-01_13-43-44.pdf",
+    "state": "Jharkhand",
+    "stateCode": "jharkhand",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "jharkhand-civil court khunti-peon-driver",
+    "title": "Civil Court Khunti Recruitment 2026 – Peon, Driver Posts",
+    "shortInfo": "Civil Court Khunti has announced notification for Peon, Driver posts. Required qualification: 10th. Last date to apply: 10-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "7",
+    "lastDate": "10-09-26",
+    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3ec0239ae2ed11b14a4ccb41d35e9d1ba/uploads/2026/08/2026081374.pdf",
+    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec0239ae2ed11b14a4ccb41d35e9d1ba/uploads/2026/08/2026081374.pdf",
+    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0239ae2ed11b14a4ccb41d35e9d1ba/uploads/2026/08/2026081374.pdf",
+    "state": "Jharkhand",
+    "stateCode": "jharkhand",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "jharkhand-dhs koderma-medical-specialists-icu-staff",
+    "title": "DHS Koderma Recruitment 2026 – Medical Specialists, ICU Staff Posts",
+    "shortInfo": "DHS Koderma has announced notification for Medical Specialists, ICU Staff posts. Required qualification: MS/MD, DM, Diploma, DNB, MBBS. Last date to apply: 02-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "24",
+    "lastDate": "02-09-26",
+    "officialWebsite": "https://cdn.s3waas.gov.in/s3087408522c31eeb1f982bc0eaf81d35f/uploads/2026/08/17876578175362.pdf",
+    "notificationLink": "https://cdn.s3waas.gov.in/s3087408522c31eeb1f982bc0eaf81d35f/uploads/2026/08/17876578175362.pdf",
+    "applyOnlineLink": "https://cdn.s3waas.gov.in/s3087408522c31eeb1f982bc0eaf81d35f/uploads/2026/08/17876578175362.pdf",
+    "state": "Jharkhand",
+    "stateCode": "jharkhand",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "jharkhand-junior plant protection office dhanbad-crop-protector-kamdar-",
+    "title": "Junior Plant Protection Office Dhanbad Recruitment 2026 – Crop Protector (Kamdar) Posts",
+    "shortInfo": "Junior Plant Protection Office Dhanbad has announced notification for Crop Protector (Kamdar) posts. Required qualification: 10TH. Last date to apply: 25-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "4",
+    "lastDate": "25-09-26",
+    "officialWebsite": "https://cdn.s3waas.gov.in/s337f0e884fbad9667e38940169d0a3c95/uploads/17881693369160.pdf",
+    "notificationLink": "https://cdn.s3waas.gov.in/s337f0e884fbad9667e38940169d0a3c95/uploads/17881693369160.pdf",
+    "applyOnlineLink": "https://cdn.s3waas.gov.in/s337f0e884fbad9667e38940169d0a3c95/uploads/17881693369160.pdf",
+    "state": "Jharkhand",
+    "stateCode": "jharkhand",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "jharkhand-iit(ism) dhanbad-junior-research-fellow",
+    "title": "IIT(ISM) Dhanbad Recruitment 2026 – Junior Research Fellow Posts",
+    "shortInfo": "IIT(ISM) Dhanbad has announced notification for Junior Research Fellow posts. Required qualification: M.E/M.Tech, M.Sc. Last date to apply: 07-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "07-09-26",
+    "officialWebsite": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/861/Project%20JRF_2026-08-31_15-48-29.pdf",
+    "notificationLink": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/861/Project%20JRF_2026-08-31_15-48-29.pdf",
+    "applyOnlineLink": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/861/Project%20JRF_2026-08-31_15-48-29.pdf",
+    "state": "Jharkhand",
+    "stateCode": "jharkhand",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "jharkhand-dumka district court-anusevak-peon-",
+    "title": "Dumka District Court Recruitment 2026 – Anusevak (Peon) Posts",
+    "shortInfo": "Dumka District Court has announced notification for Anusevak (Peon) posts. Required qualification: 10TH. Last date to apply: 05-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "12",
+    "lastDate": "05-09-26",
+    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3ec051ea97de85eb634d580161c603422/uploads/2026/08/2026081237-1.pdf",
+    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec051ea97de85eb634d580161c603422/uploads/2026/08/2026081237-1.pdf",
+    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec051ea97de85eb634d580161c603422/uploads/2026/08/2026081237-1.pdf",
+    "state": "Jharkhand",
+    "stateCode": "jharkhand",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "jharkhand-nit jamshedpur-guest-coach",
+    "title": "NIT Jamshedpur Recruitment 2026 – Guest Coach Posts",
+    "shortInfo": "NIT Jamshedpur has announced notification for Guest Coach posts. Required qualification: Diploma. Last date to apply: 02-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "10",
+    "lastDate": "02-09-26",
+    "officialWebsite": "https://nitjsr.ac.in/backend/uploads/recruitments/88c52d32-d774-4573-a6c2-9a27d123ee28-Notice_Guest%20Coaches.pdf",
+    "notificationLink": "https://nitjsr.ac.in/backend/uploads/recruitments/88c52d32-d774-4573-a6c2-9a27d123ee28-Notice_Guest%20Coaches.pdf",
+    "applyOnlineLink": "https://nitjsr.ac.in/backend/uploads/recruitments/88c52d32-d774-4573-a6c2-9a27d123ee28-Notice_Guest%20Coaches.pdf",
+    "state": "Jharkhand",
+    "stateCode": "jharkhand",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "jharkhand-residential schools chatra-part-time-bell-based-teacher",
+    "title": "Residential Schools Chatra Recruitment 2026 – Part-time Bell-based Teacher Posts",
+    "shortInfo": "Residential Schools Chatra has announced notification for Part-time Bell-based Teacher posts. Required qualification: B.Ed. Last date to apply: 06-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "26",
+    "lastDate": "06-09-26",
+    "officialWebsite": "https://cdn.s3waas.gov.in/s3ff4d5fbbafdf976cfdc032e3bde78de5/uploads/2026/08/17873988724787.pdf",
+    "notificationLink": "https://cdn.s3waas.gov.in/s3ff4d5fbbafdf976cfdc032e3bde78de5/uploads/2026/08/17873988724787.pdf",
+    "applyOnlineLink": "https://cdn.s3waas.gov.in/s3ff4d5fbbafdf976cfdc032e3bde78de5/uploads/2026/08/17873988724787.pdf",
+    "state": "Jharkhand",
+    "stateCode": "jharkhand",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "jharkhand-aiims deoghar-health-economist-scientist-c",
+    "title": "AIIMS Deoghar Recruitment 2026 – Health Economist, Scientist-C Posts",
+    "shortInfo": "AIIMS Deoghar has announced notification for Health Economist, Scientist-C posts. Required qualification: MS/MD, MHA, MBBS, Any Post Graduate, MPH, M.Sc, Diploma, DNB, M.Pharma. Last date to apply: 15-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "15-09-26",
+    "officialWebsite": "https://www.aiimsdeoghar.edu.in/Content/resources/document/Recruitment/health_economist_scientistcrecruitment_notificationhtainaiimsdeoghar_aug_2026_1_20082026045429213.pdf",
+    "notificationLink": "https://www.aiimsdeoghar.edu.in/Content/resources/document/Recruitment/health_economist_scientistcrecruitment_notificationhtainaiimsdeoghar_aug_2026_1_20082026045429213.pdf",
+    "applyOnlineLink": "https://www.aiimsdeoghar.edu.in/Content/resources/document/Recruitment/health_economist_scientistcrecruitment_notificationhtainaiimsdeoghar_aug_2026_1_20082026045429213.pdf",
+    "state": "Jharkhand",
+    "stateCode": "jharkhand",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "jharkhand-iit (ism) dhanbad-project-associate-i",
+    "title": "IIT (ISM) Dhanbad Recruitment 2026 – Project Associate-I Posts",
+    "shortInfo": "IIT (ISM) Dhanbad has announced notification for Project Associate-I posts. Required qualification: M.Sc, M.E/M.Tech, B.Tech/B.E, MCA. Last date to apply: 03-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "03-09-26",
+    "officialWebsite": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/1703/Project%20Associate_2026-08-19_18-40-01.pdf",
+    "notificationLink": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/1703/Project%20Associate_2026-08-19_18-40-01.pdf",
+    "applyOnlineLink": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/1703/Project%20Associate_2026-08-19_18-40-01.pdf",
+    "state": "Jharkhand",
+    "stateCode": "jharkhand",
+    "scrapedAt": "2026-09-06"
   },
   {
     "id": "jharkhand-nit jamshedpur-project-assistant",
@@ -31,232 +292,7 @@
     "applyOnlineLink": "https://nitjsr.ac.in/backend/uploads/recruitments/fc1e1ee6-964d-43ee-b39e-54556e0b6068-Project%20Assistant%20Recruitment%20for%20a%20project%20funded%20by%20JCSTI.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-08-19"
-  },
-  {
-    "id": "jharkhand-cuj-assistant-professor",
-    "title": "CUJ Recruitment 2026 – Assistant Professor Posts",
-    "shortInfo": "CUJ has announced notification for Assistant Professor posts. Required qualification: M.Phil/Ph.D, Any Post Graduate, B.Ed. Last date to apply: 23-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "23-08-26",
-    "officialWebsite": "https://cuj.ac.in/file/Wakin%20Interview%20Advt.%20Economics.pdf",
-    "notificationLink": "https://cuj.ac.in/file/Wakin%20Interview%20Advt.%20Economics.pdf",
-    "applyOnlineLink": "https://cuj.ac.in/file/Wakin%20Interview%20Advt.%20Economics.pdf",
-    "state": "Jharkhand",
-    "stateCode": "jharkhand",
-    "scrapedAt": "2026-08-19"
-  },
-  {
-    "id": "jharkhand-aiims deoghar-lab-technician-scientist",
-    "title": "AIIMS Deoghar Recruitment 2026 – Lab Technician, Scientist Posts",
-    "shortInfo": "AIIMS Deoghar has announced notification for Lab Technician, Scientist posts. Required qualification: MBBS, MLT, DMLT. Last date to apply: 22-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "3",
-    "lastDate": "22-08-26",
-    "officialWebsite": "https://www.aiimsdeoghar.edu.in/Content/resources/document/Recruitment/vrdl_recruitment_202627_07082026113007281.pdf",
-    "notificationLink": "https://www.aiimsdeoghar.edu.in/Content/resources/document/Recruitment/vrdl_recruitment_202627_07082026113007281.pdf",
-    "applyOnlineLink": "https://www.aiimsdeoghar.edu.in/Content/resources/document/Recruitment/vrdl_recruitment_202627_07082026113007281.pdf",
-    "state": "Jharkhand",
-    "stateCode": "jharkhand",
-    "scrapedAt": "2026-08-19"
-  },
-  {
-    "id": "jharkhand-iit(ism) dhanbad-research-assistant",
-    "title": "IIT(ISM) Dhanbad Recruitment 2026 – Research Assistant Posts",
-    "shortInfo": "IIT(ISM) Dhanbad has announced notification for Research Assistant posts. Required qualification: B.Tech/B.E, M.E/M.Tech. Last date to apply: 31-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "31-08-26",
-    "officialWebsite": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/896/Research%20Assistant_2026-08-07_13-39-51.pdf",
-    "notificationLink": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/896/Research%20Assistant_2026-08-07_13-39-51.pdf",
-    "applyOnlineLink": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/896/Research%20Assistant_2026-08-07_13-39-51.pdf",
-    "state": "Jharkhand",
-    "stateCode": "jharkhand",
-    "scrapedAt": "2026-08-19"
-  },
-  {
-    "id": "jharkhand-sbi-clerk-junior-associate-",
-    "title": "SBI Recruitment 2026 – Clerk (Junior Associate) Posts",
-    "shortInfo": "SBI has announced notification for Clerk (Junior Associate) posts. Required qualification: Graduation in any discipline. Last date to apply: 27-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1538",
-    "lastDate": "27-08-26",
-    "officialWebsite": "https://sbi.bank.in",
-    "notificationLink": "https://sbi.bank.in/webfiles/uploads/files_2627/08/JA_2026_Backlog_Detailed_Advt_ENG.pdf",
-    "applyOnlineLink": "https://ibpsreg.ibps.in/sbijasrdjl26/",
-    "state": "Jharkhand",
-    "stateCode": "jharkhand",
-    "scrapedAt": "2026-08-19",
-    "fees": [
-      {
-        "category": "SC/ST/PwBD/XS/DXS",
-        "fee": "Nil"
-      },
-      {
-        "category": "OBC",
-        "fee": "Rs. 750/-"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Online Registration Start Date",
-        "date": "07/08/2026"
-      },
-      {
-        "event": "Online Registration End Date",
-        "date": "27/08/2026"
-      },
-      {
-        "event": "Preliminary Examination (Tentative) (September 2026)",
-        "date": ""
-      },
-      {
-        "event": "Main Examination (Tentative) (October/November 2026)",
-        "date": ""
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Junior Associate (Customer Support & Sales) - Andhra Pradesh",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the Bank’s official website: https://sbi.bank.in/web/careers/current-openings",
-      "Click on the advertisement for ‘Special Recruitment Drive for Junior Associates 2026’.",
-      "Scan and keep ready your photograph, signature, left hand thumb impression, and handwritten declaration as per specifications.",
-      "Fill in the Online Application Form carefully with all required details.",
-      "Upload the scanned photograph, signature, left thumb impression, and handwritten declaration.",
-      "Submit the application form. Note: Corrections will not be allowed after final submission.",
-      "Pay the application fee online using Debit Card / Credit Card / Internet Banking.",
-      "On successful payment, an e-receipt and application form with fee details will be generated. Print and retain for records.",
-      "Download and retain the system-generated online application form printout after submission."
-    ]
-  },
-  {
-    "id": "jharkhand-dhs godda-staff-nurse-anm-and-more",
-    "title": "DHS Godda Recruitment 2026 – Staff Nurse, ANM and More Posts",
-    "shortInfo": "DHS Godda has announced notification for Staff Nurse, ANM and More posts. Required qualification: 10TH, Any Graduate, ANM, GNM, B.Sc, DMLT, M.Phil/Ph.D. Last date to apply: 30-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "64",
-    "lastDate": "30-08-26",
-    "officialWebsite": "https://cdn.s3waas.gov.in/s31ff1de774005f8da13f42943881c655f/uploads/2026/07/17853129475669.pdf",
-    "notificationLink": "https://cdn.s3waas.gov.in/s31ff1de774005f8da13f42943881c655f/uploads/2026/07/17853129475669.pdf",
-    "applyOnlineLink": "https://cdn.s3waas.gov.in/s31ff1de774005f8da13f42943881c655f/uploads/2026/07/17853129475669.pdf",
-    "state": "Jharkhand",
-    "stateCode": "jharkhand",
-    "scrapedAt": "2026-08-19"
-  },
-  {
-    "id": "jharkhand-bccl-overseer-t-amp-s-gr-c",
-    "title": "BCCL Recruitment 2026 – Overseer T&amp;S Gr C Posts",
-    "shortInfo": "BCCL has announced notification for Overseer T&amp;S Gr C posts. Required qualification: Diploma, 10TH. Last date to apply: 18-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "18-08-26",
-    "officialWebsite": "https://www.bcclweb.in/newpdfs/Careers/27062026/Overseer%20Selection%20Notification.pdf",
-    "notificationLink": "https://www.bcclweb.in/newpdfs/Careers/27062026/Overseer%20Selection%20Notification.pdf",
-    "applyOnlineLink": "https://www.bcclweb.in/newpdfs/Careers/27062026/Overseer%20Selection%20Notification.pdf",
-    "state": "Jharkhand",
-    "stateCode": "jharkhand",
-    "scrapedAt": "2026-08-19"
-  },
-  {
-    "id": "jharkhand-iim ranchi-academic-associate-assistant-manager",
-    "title": "IIM Ranchi Recruitment 2026 – Academic Associate, Assistant Manager Posts",
-    "shortInfo": "IIM Ranchi has announced notification for Academic Associate, Assistant Manager posts. Required qualification: CS, Any Post Graduate, B.Tech/B.E, MBA/PGDM, Any Graduate. Last date to apply: 19-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "6",
-    "lastDate": "19-08-26",
-    "officialWebsite": "https://iimranchi.ac.in/media/2026/07/NTR_ADVT_JULY_2026.pdf",
-    "notificationLink": "https://iimranchi.ac.in/media/2026/07/NTR_ADVT_JULY_2026.pdf",
-    "applyOnlineLink": "https://iimranchi.ac.in/media/2026/07/NTR_ADVT_JULY_2026.pdf",
-    "state": "Jharkhand",
-    "stateCode": "jharkhand",
-    "scrapedAt": "2026-08-19"
-  },
-  {
-    "id": "jharkhand-railtel-graduate-apprentice-engineer-diploma-apprentice-en",
-    "title": "RailTel Recruitment 2026 – Graduate Apprentice Engineer, Diploma Apprentice Engineer Posts",
-    "shortInfo": "RailTel has announced notification for Graduate Apprentice Engineer, Diploma Apprentice Engineer posts. Required qualification: Degree in Engineering, Diploma in Engineering. Last date to apply: 27-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "40",
-    "lastDate": "27-08-26",
-    "officialWebsite": "https://www.railtelindia.com",
-    "notificationLink": "https://www.railtel.in/images/careers/DocScanner%2028-Jul-2026%2004-10%20PM.pdf",
-    "applyOnlineLink": "https://nats.education.gov.in",
-    "state": "Jharkhand",
-    "stateCode": "jharkhand",
-    "scrapedAt": "2026-08-19",
-    "fees": [
-      {
-        "category": "Fee",
-        "fee": "Not Mentioned"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Notification Date",
-        "date": "28/07/2026"
-      },
-      {
-        "event": "Last Date to Apply",
-        "date": "27/08/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Graduate Apprentice Engineer",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Diploma Apprentice Engineer",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the NATS 2.0 portal at https://nats.education.gov.in.",
-      "If not already registered, register yourself on the NATS 2.0 portal before applying.",
-      "Follow the guidelines given in the student manual of NATS available at the portal (web link: https://nats.education.gov.in/assets/manual/establishment_user_manual.pdf).",
-      "Fill in the online application form with accurate details.",
-      "Upload the certificate showing your CGPA or percentage in the ‘Upload Certificate’ column. If only CGPA is mentioned, also upload the CGPA to percentage conversion formula/certificate along with the undertaking (Annexure 1) as a single PDF file of size less than 1 MB.",
-      "Submit the application online before the last date of 27.08.2026.",
-      "No other mode of application will be entertained."
-    ]
+    "scrapedAt": "2026-09-06"
   },
   {
     "id": "jharkhand-aai-graduate-apprentice-diploma-apprentice-iti-apprent",
@@ -273,7 +309,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-08-19",
+    "scrapedAt": "2026-09-06",
     "fees": [],
     "dates": [
       {
@@ -331,7 +367,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/jssc-jtaacce-para-teacher-recruitment-2026/",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-08-19",
+    "scrapedAt": "2026-09-06",
     "fees": [
       {
         "category": "General/Other candidates",
@@ -443,7 +479,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/iit-ism-dhanbad-associate-professor-professor-recruitment-2026-apply-online-for-60-posts/",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-08-19",
+    "scrapedAt": "2026-09-06",
     "fees": [
       {
         "category": "Fee",
@@ -507,52 +543,6 @@
     ]
   },
   {
-    "id": "jharkhand-iit (ism) dhanbad-assistant-professor",
-    "title": "IIT (ISM) Dhanbad Recruitment 2026 – Assistant Professor Posts",
-    "shortInfo": "IIT (ISM) Dhanbad has announced notification for Assistant Professor posts. Required qualification: M.Phil/Ph.D. Last date to apply: 31-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "30",
-    "lastDate": "31-08-26",
-    "officialWebsite": "https://iitism.ac.in",
-    "notificationLink": "https://www.iitism.ac.in/storage/CareerDocument/Career_1782835923.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/iit-ism-dhanbad-assistant-professor-recruitment-2026/",
-    "state": "Jharkhand",
-    "stateCode": "jharkhand",
-    "scrapedAt": "2026-08-19",
-    "fees": [],
-    "dates": [
-      {
-        "event": "Advertisement Date",
-        "date": "30/06/2026"
-      },
-      {
-        "event": "Last Date to Submit Online Application",
-        "date": "31/08/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Assistant Professor (Grade-I/II)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the Institute’s official website at https://fr.iitism.ac.in",
-      "Fill the online application form at the recruitment portal of IIT(ISM), Dhanbad.",
-      "Upload all required certificates and relevant documents along with the application form.",
-      "Candidates applying for more than one department should apply separately.",
-      "Applicants employed in Government or Semi-Government Organizations must produce a ‘NO OBJECTION CERTIFICATE’ from their employer at the time of interview.",
-      "Submit the online application before the closing date of 31.08.2026.",
-      "For any clarification, contact: recruitment@iitism.ac.in or call 0326-223-5204/5268 during office hours."
-    ]
-  },
-  {
     "id": "jharkhand-jssc-jilcce-2026-date-change-",
     "title": "JSSC Recruitment 2026 – JILCCE 2026 (Date change) Posts",
     "shortInfo": "JSSC has announced notification for JILCCE 2026 (Date change) posts. Required qualification: Intermediate / 10+2 (Science/Biology/Mathematics). Last date to apply: 04-09-26.",
@@ -567,7 +557,7 @@
     "applyOnlineLink": "https://jcx26.cbtexam.in/Jssc/index.html",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-08-19",
+    "scrapedAt": "2026-09-06",
     "fees": [
       {
         "category": "General/Unreserved",

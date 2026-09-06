@@ -1,5 +1,98 @@
 [
   {
+    "id": "mizoram-nit mizoram-temporary-faculty",
+    "title": "NIT Mizoram Recruitment 2026 – Temporary Faculty Posts",
+    "shortInfo": "NIT Mizoram has announced notification for Temporary Faculty posts. Required qualification: B.Tech/B.E, M.A, M.Phil/Ph.D, M.E/M.Tech, B.A. Last date to apply: 10-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "10-09-26",
+    "officialWebsite": "https://nitmz.ac.in/wp-content/uploads/2026/08/Advertisement-for-Temporary-Faculty_BSHSS_English-ME_NIT-Mizoram.pdf",
+    "notificationLink": "https://nitmz.ac.in/wp-content/uploads/2026/08/Advertisement-for-Temporary-Faculty_BSHSS_English-ME_NIT-Mizoram.pdf",
+    "applyOnlineLink": "https://nitmz.ac.in/wp-content/uploads/2026/08/Advertisement-for-Temporary-Faculty_BSHSS_English-ME_NIT-Mizoram.pdf",
+    "state": "Mizoram",
+    "stateCode": "mizoram",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "mizoram-mizoram psc-junior-accounts-officer-jao-warden",
+    "title": "Mizoram PSC Recruitment 2026 – Junior Accounts Officer (JAO), Warden Posts",
+    "shortInfo": "Mizoram PSC has announced notification for Junior Accounts Officer (JAO), Warden posts. Required qualification: Any Graduate, Any Bachelors Degree. Last date to apply: 21-09-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "8",
+    "lastDate": "21-09-26",
+    "officialWebsite": "https://mpsc.mizoram.gov.in/",
+    "notificationLink": "https://mpsc.mizoram.gov.in/uploads/attachments/2026/08/28e7415cae820c2fe662456ad4c6e18d/advertisement-no24-of-2026-27-jaotransport-wardensocial-welfare.pdf",
+    "applyOnlineLink": "https://mpsconline.mizoram.gov.in",
+    "state": "Mizoram",
+    "stateCode": "mizoram",
+    "scrapedAt": "2026-09-06",
+    "fees": [
+      {
+        "category": "Persons with Disabilities",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "20/08/2026"
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "21/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Junior Accounts Officer (JAO)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Warden",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Mizoram Public Service Commission’s official online portal: https://mpsconline.mizoram.gov.in",
+      "Register in the One-Time Registration (OTR) portal if not already registered.",
+      "Fill in the application form with accurate details.",
+      "Mandatorily exercise/make option in the post preference box in the application portal.",
+      "Upload all mandatory documents: Marksheets of HSLC &amp; above, Educational Certificates of HSLC &amp; above, Proof of Computer Proficiency, Proof of Mizo Language Proficiency, SC/ST Certificate (if applicable), Proof of date of birth, Proof of educational qualifications.",
+      "Pay the application fee (Persons with disabilities are exempted). If paying via UPI, use only the mobile number used for one-time registration.",
+      "Verify that the application is actually submitted after payment is made.",
+      "Submit the application before 21st September 2026 up to 4:00 PM."
+    ]
+  },
+  {
+    "id": "mizoram-mpsc-senior-grade-of-mhs",
+    "title": "MPSC Recruitment 2026 – Senior Grade of MHS Posts",
+    "shortInfo": "MPSC has announced notification for Senior Grade of MHS posts. Required qualification: MBBS, Diploma, Any Post Graduate. Last date to apply: 16-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "5",
+    "lastDate": "16-09-26",
+    "officialWebsite": "https://mpsc.mizoram.gov.in/uploads/attachments/2026/08/19e7bf6246ac0bee06a719286493446c/advertisement-no23-of-2026-27-sr-grade-of-mhsspecialist-sub-cadre.pdf",
+    "notificationLink": "https://mpsc.mizoram.gov.in/uploads/attachments/2026/08/19e7bf6246ac0bee06a719286493446c/advertisement-no23-of-2026-27-sr-grade-of-mhsspecialist-sub-cadre.pdf",
+    "applyOnlineLink": "https://mpsc.mizoram.gov.in/uploads/attachments/2026/08/19e7bf6246ac0bee06a719286493446c/advertisement-no23-of-2026-27-sr-grade-of-mhsspecialist-sub-cadre.pdf",
+    "state": "Mizoram",
+    "stateCode": "mizoram",
+    "scrapedAt": "2026-09-06"
+  },
+  {
     "id": "mizoram-bank of baroda (bob)-local-bank-officer-lbo",
     "title": "Bank of Baroda (BOB) Recruitment 2026 – Local Bank Officer LBO Posts",
     "shortInfo": "Bank of Baroda (BOB) has announced notification for Local Bank Officer LBO posts. Required qualification: Graduation in any discipline, 1 year experience. Last date to apply: 07-09-26.",
@@ -14,7 +107,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/bobjul26/",
     "state": "Mizoram",
     "stateCode": "mizoram",
-    "scrapedAt": "2026-08-19",
+    "scrapedAt": "2026-09-06",
     "fees": [
       {
         "category": "General / EWS / OBC candidates",
@@ -56,23 +149,6 @@
     ]
   },
   {
-    "id": "mizoram-nit mizoram-junior-research-fellow",
-    "title": "NIT Mizoram Recruitment 2026 – Junior Research Fellow Posts",
-    "shortInfo": "NIT Mizoram has announced notification for Junior Research Fellow posts. Required qualification: M.E/M.Tech, B.Sc, B.Tech/B.E, M.Sc. Last date to apply: 25-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "25-08-26",
-    "officialWebsite": "https://nitmz.ac.in/wp-content/uploads/2026/08/JRF-Advertisement-3.8.2026.pdf",
-    "notificationLink": "https://nitmz.ac.in/wp-content/uploads/2026/08/JRF-Advertisement-3.8.2026.pdf",
-    "applyOnlineLink": "https://nitmz.ac.in/wp-content/uploads/2026/08/JRF-Advertisement-3.8.2026.pdf",
-    "state": "Mizoram",
-    "stateCode": "mizoram",
-    "scrapedAt": "2026-08-19"
-  },
-  {
     "id": "mizoram-mizoram psc-assistant-sub-inspector-ministerial-",
     "title": "Mizoram PSC Recruitment 2026 – Assistant Sub-Inspector (Ministerial) Posts",
     "shortInfo": "Mizoram PSC has announced notification for Assistant Sub-Inspector (Ministerial) posts. Required qualification: Bachelor's degree. Last date to apply: 07-09-26.",
@@ -87,7 +163,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/mizoram-psc-asi-recruitment-2026/",
     "state": "Mizoram",
     "stateCode": "mizoram",
-    "scrapedAt": "2026-08-19",
+    "scrapedAt": "2026-09-06",
     "fees": [
       {
         "category": "Persons with Disabilities",
@@ -122,239 +198,6 @@
       "Verify that the application is actually submitted after payment is made.",
       "Submit the application before 07.09.2026 up to 4:00 PM.",
       "Government servants must apply through proper channel."
-    ]
-  },
-  {
-    "id": "mizoram-mizoram psc-bench-clerk-grade-ii",
-    "title": "Mizoram PSC Recruitment 2026 – Bench Clerk Grade II Posts",
-    "shortInfo": "Mizoram PSC has announced notification for Bench Clerk Grade II posts. Required qualification: . Last date to apply: 21-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "2",
-    "lastDate": "21-08-26",
-    "officialWebsite": "https://mpsc.mizoram.gov.in/uploads/attachments/2026/08/675204db0f2bb1876b374a1c8a298698/20-lde-non-gazetted-post-no20-of-2026-2027-bench-clerk-ii-under-law-judicial-lunglei-judicial-district.pdf",
-    "notificationLink": "https://mpsc.mizoram.gov.in/uploads/attachments/2026/08/675204db0f2bb1876b374a1c8a298698/20-lde-non-gazetted-post-no20-of-2026-2027-bench-clerk-ii-under-law-judicial-lunglei-judicial-district.pdf",
-    "applyOnlineLink": "https://mpsc.mizoram.gov.in/uploads/attachments/2026/08/675204db0f2bb1876b374a1c8a298698/20-lde-non-gazetted-post-no20-of-2026-2027-bench-clerk-ii-under-law-judicial-lunglei-judicial-district.pdf",
-    "state": "Mizoram",
-    "stateCode": "mizoram",
-    "scrapedAt": "2026-08-19"
-  },
-  {
-    "id": "mizoram-nit mizoram-network-engineer",
-    "title": "NIT Mizoram Recruitment 2026 – Network Engineer Posts",
-    "shortInfo": "NIT Mizoram has announced notification for Network Engineer posts. Required qualification: Diploma. Last date to apply: 21-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "21-08-26",
-    "officialWebsite": "https://nitmz.ac.in/wp-content/uploads/2026/07/Employment-Notice-for-Network-Engineer-On-Contract_23rd-July-2026.pdf",
-    "notificationLink": "https://nitmz.ac.in/wp-content/uploads/2026/07/Employment-Notice-for-Network-Engineer-On-Contract_23rd-July-2026.pdf",
-    "applyOnlineLink": "https://nitmz.ac.in/wp-content/uploads/2026/07/Employment-Notice-for-Network-Engineer-On-Contract_23rd-July-2026.pdf",
-    "state": "Mizoram",
-    "stateCode": "mizoram",
-    "scrapedAt": "2026-08-19"
-  },
-  {
-    "id": "mizoram-mizoram psc-soil-conservation-ranger",
-    "title": "Mizoram PSC Recruitment 2026 – Soil Conservation Ranger Posts",
-    "shortInfo": "Mizoram PSC has announced notification for Soil Conservation Ranger posts. Required qualification: Degree in Forestry, Agriculture, Agriculture Engineering, Horticulture, Science. Last date to apply: 31-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "5",
-    "lastDate": "31-08-26",
-    "officialWebsite": "https://mpsc.mizoram.gov.in/",
-    "notificationLink": "https://mpsc.mizoram.gov.in/uploads/attachments/2026/07/d27f11760cc587ff221e745cbd40c978/advertisement-no21-of-2026-27-soil-conservation-ranger.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/mizoram-psc-soil-conservation-ranger-recruitment-2026/",
-    "state": "Mizoram",
-    "stateCode": "mizoram",
-    "scrapedAt": "2026-08-19",
-    "fees": [
-      {
-        "category": "Persons with Disabilities",
-        "fee": "Exempted"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Advertisement Date",
-        "date": "28/07/2026"
-      },
-      {
-        "event": "Last Date to Apply",
-        "date": "31/08/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Soil Conservation Ranger",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the Mizoram Public Service Commission’s online portal at https://mpsconline.mizoram.gov.in.",
-      "If not already registered, complete the one-time registration (OTR) on the portal well before the last date.",
-      "Log in and fill in the application form for the post of Soil Conservation Ranger.",
-      "Upload all mandatory documents: Marksheets of HSLC &amp; above, Educational Certificates of HSLC &amp; above, Proof of Computer Proficiency, Proof of Mizo Language Proficiency, SC/ST Certificate (if applicable), Proof of date of birth, and Proof of educational qualifications.",
-      "Pay the application fee through the available payment modes (UPI must use the mobile number used for one-time registration). Persons with disabilities are exempted from payment.",
-      "Verify that the application is actually submitted after payment is made.",
-      "Ensure all documents are uploaded before the closing date of 31/08/2026 up to 4:00 PM."
-    ]
-  },
-  {
-    "id": "mizoram-mizoram psc-sub-inspector-of-excise-amp-narcotics",
-    "title": "Mizoram PSC Recruitment 2026 – Sub-Inspector of Excise &amp; Narcotics Posts",
-    "shortInfo": "Mizoram PSC has announced notification for Sub-Inspector of Excise &amp; Narcotics posts. Required qualification: Graduate in Arts, Commerce &amp; Science. Last date to apply: 28-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "2",
-    "lastDate": "28-08-26",
-    "officialWebsite": "https://mpsc.mizoram.gov.in/",
-    "notificationLink": "https://mpsc.mizoram.gov.in/uploads/attachments/2026/07/8859e5318ef2b059e7b4ca7650956143/advertisement-no19-of-2026-27-sub-inspector-of-excise.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/mizoram-psc-si-recruitment-2026/",
-    "state": "Mizoram",
-    "stateCode": "mizoram",
-    "scrapedAt": "2026-08-19",
-    "fees": [
-      {
-        "category": "Persons with Disabilities",
-        "fee": "Exempted"
-      },
-      {
-        "category": "General/Others",
-        "fee": "Not Mentioned"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Advertisement Date",
-        "date": "24/07/2026"
-      },
-      {
-        "event": "Last Date to Apply",
-        "date": "28/08/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Sub-Inspector of Excise & Narcotics",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the Mizoram Public Service Commission’s official online portal at https://mpsconline.mizoram.gov.in.",
-      "If not already registered, complete the One-Time Registration (OTR) on the portal before applying.",
-      "Fill in the application form with accurate and complete details.",
-      "Upload all mandatory documents including: Marksheets of HSLC and above, Educational Certificates of HSLC and above, Proof of Computer Proficiency, Proof of Mizo Language Proficiency, SC/ST Certificate (if applicable), Proof of date of birth, Graduation certificate and complete marksheets.",
-      "Pay the application fee (UPI payment must be done using the mobile number used for OTR registration). Persons with disabilities are exempted from payment.",
-      "Verify that the application is actually submitted after payment is made.",
-      "Submit the application before 28/08/2026 upto 4:00 PM."
-    ]
-  },
-  {
-    "id": "mizoram-mizoram psc-junior-scientific-officer-jso-",
-    "title": "Mizoram PSC Recruitment 2026 – Junior Scientific Officer (JSO) Posts",
-    "shortInfo": "Mizoram PSC has announced notification for Junior Scientific Officer (JSO) posts. Required qualification: M.Sc, B.E, B.Tech, MCA. Last date to apply: 27-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "12",
-    "lastDate": "27-08-26",
-    "officialWebsite": "https://mpsc.mizoram.gov.in/",
-    "notificationLink": "https://mpsc.mizoram.gov.in/uploads/attachments/2026/07/cdb25b2e38d1083f1ef5ba519c06df28/advertisement-no18-of-2026-27-junior-scientific-officer-jso.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/mizoram-psc-jso-recruitment-2026/",
-    "state": "Mizoram",
-    "stateCode": "mizoram",
-    "scrapedAt": "2026-08-19",
-    "fees": [
-      {
-        "category": "Persons with Disabilities",
-        "fee": "Exempted"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Advertisement Date",
-        "date": "24/07/2026"
-      },
-      {
-        "event": "Last Date to Apply",
-        "date": "27/08/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "JSO (DNA)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "JSO (Fingerprint)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "JSO (Chemistry)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "JSO (Ballistics & Toolmarks)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "JSO (Questioned Documents)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "JSO (Photography)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "JSO (Cyber Forensic)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the Mizoram Public Service Commission’s official online portal at https://mpsconline.mizoram.gov.in.",
-      "If not already registered, complete the One-Time Registration (OTR) on the portal before applying.",
-      "Log in and fill out the application form for the post of Junior Scientific Officer (JSO).",
-      "Upload all mandatory documents including marksheets, educational certificates, proof of computer proficiency, Mizo language proficiency, SC/ST certificate (if applicable), proof of date of birth, and relevant educational qualification proofs.",
-      "Pay the application fee through the available payment mode (UPI must be done using the mobile number used for OTR). Persons with disabilities are exempted from payment.",
-      "Verify that the application is actually submitted after payment is made.",
-      "Submit the application before 27/08/2026 up to 4:00 PM."
     ]
   }
 ]

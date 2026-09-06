@@ -1,5 +1,135 @@
 [
   {
+    "id": "an-csl-iti-trade-apprentices",
+    "title": "CSL Recruitment 2026 – ITI Trade Apprentices Posts",
+    "shortInfo": "CSL has announced notification for ITI Trade Apprentices posts. Required qualification: ITI. Last date to apply: 21-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "9",
+    "lastDate": "21-09-26",
+    "officialWebsite": "https://cochinshipyard.in",
+    "notificationLink": "https://cochinshipyard.in/uploads/career/2f5b44d5cebeb8b116eb6126621e9d97.pdf",
+    "applyOnlineLink": "https://csl.cochinshipyard.in:8000/sap/bc/webdynpro/sap/hrrcf_a_unreg_job_search?sap-language=EN#",
+    "state": "Andaman & Nicobar",
+    "stateCode": "an",
+    "scrapedAt": "2026-09-06",
+    "fees": [
+      {
+        "category": "All Candidates",
+        "fee": "Nil"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Commencement of Online Application",
+        "date": "02/09/2026"
+      },
+      {
+        "event": "Last Date of Online Application",
+        "date": "21/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Electrician (ITI Trade Apprentice)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Fitter (ITI Trade Apprentice)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Welder (ITI Trade Apprentice)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Stenography & Secretarial Assistant (ITI Trade Apprentice)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official CSL website: www.cochinshipyard.in and go to Career &gt; CANSRU &gt; E-Recruitment &ndash; Trainees/Apprentices.",
+      "Read the User Manual published on the website before filling the online application.",
+      "Complete One-time Registration in the SAP E-recruitment portal of CSL.",
+      "Submit the application against the applicable Trade.",
+      "Upload all required certificates: proof of age, educational qualification, caste, disability (if any), and a recent passport size colour photograph.",
+      "Ensure all entries are correctly filled before final submission. Changes after submission will not be considered.",
+      "Retain a soft copy/printout of the online application with the unique registration number for future reference.",
+      "Do not submit more than one application. Application once submitted shall be final.",
+      "Application window: 02 September 2026 to 21 September 2026."
+    ]
+  },
+  {
+    "id": "an-southern railway-act-apprentices",
+    "title": "Southern Railway Recruitment 2026 – Act Apprentices Posts",
+    "shortInfo": "Southern Railway has announced notification for Act Apprentices posts. Required qualification: 10th, 12th, ITI. Last date to apply: 27-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "4471",
+    "lastDate": "27-09-26",
+    "officialWebsite": "https://www.sr.indianrailways.gov.in",
+    "notificationLink": "https://sronline.etrpindia.com/rrcchennaiapprentice26/notifications/Act%20Apprentices%20Notification%202026-27%20with%20enclosures.pdf",
+    "applyOnlineLink": "https://sronline.etrpindia.com/rrcchennaiapprentice26/recruitmentIndex",
+    "state": "Andaman & Nicobar",
+    "stateCode": "an",
+    "scrapedAt": "2026-09-06",
+    "fees": [
+      {
+        "category": "General/OBC/EWS",
+        "fee": "Rs. 100/- (Non-Refundable)"
+      },
+      {
+        "category": "SC/ST/PwBD/Women",
+        "fee": "Nil"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date of Online Application",
+        "date": "28/08/2026"
+      },
+      {
+        "event": "Closing Date of Online Application",
+        "date": "27/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Act Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website: www.sr.indianrailways.gov.in",
+      "Navigate to News &amp; Updates &rarr; Personnel Branch Information",
+      "Click on the relevant notification link for Act Apprentices Notification No. 01/2026",
+      "Fill in the online application form with all required personal, educational and technical details",
+      "Upload required documents as specified",
+      "Pay the processing fee of Rs. 100/- through online mode (SC/ST/PwBD/Women candidates are exempted)",
+      "Submit the application before 27-09-2026 till 17:00 Hrs",
+      "Take a printout of the acknowledgement generated by the system for submission at the time of Document Verification"
+    ]
+  },
+  {
     "id": "an-aai-graduate-apprentice-diploma-apprentice-iti-apprent",
     "title": "AAI Recruitment 2026 – Graduate Apprentice, Diploma Apprentice, ITI Apprentice Posts",
     "shortInfo": "AAI has announced notification for Graduate Apprentice, Diploma Apprentice, ITI Apprentice posts. Required qualification: Graduate Degree / Diploma / ITI. Last date to apply: Update.",
@@ -14,7 +144,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
     "state": "Andaman & Nicobar",
     "stateCode": "an",
-    "scrapedAt": "2026-08-19",
+    "scrapedAt": "2026-09-06",
     "fees": [],
     "dates": [
       {

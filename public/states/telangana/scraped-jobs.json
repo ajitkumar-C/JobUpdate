@@ -1,5 +1,1802 @@
 [
   {
+    "id": "telangana-csir ngri-technician-1",
+    "title": "CSIR NGRI Recruitment 2026 – Technician-1 Posts",
+    "shortInfo": "CSIR NGRI has announced notification for Technician-1 posts. Required qualification: SSC/10th, ITI, 2 years apprentice, 3 years experience. Last date to apply: 04-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "21",
+    "lastDate": "04-10-26",
+    "officialWebsite": "https://www.ngri.res.in/",
+    "notificationLink": "https://www.ngri.res.in/upload/uploadfiles/files/NGRI-Technician1-012026-05092026-hin.pdf",
+    "applyOnlineLink": "https://tiru.ngri.res.in/ngri_tech/",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-09-06",
+    "fees": [
+      {
+        "category": "General/OBC/EWS",
+        "fee": "Rs. 500/-"
+      },
+      {
+        "category": "SC/ST/PwBD/Women/Ex-Servicemen",
+        "fee": "No Fee (Exempt)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Date of Commencement of Online Application",
+        "date": "05/09/2026"
+      },
+      {
+        "event": "Last Date for Submission of Online Application",
+        "date": "04/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Technician (Fitter)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (Plumber)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (Electrician)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (Computer / IT Assistant)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (Digital Photographer)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (Laboratory Assistant-Chemical Plant)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (Medical Lab Technician)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (Physiotherapy Technician)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (Catering & Hospitality Assistant)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website: https://www.ngri.res.in/ and click on ‘New Registration’.",
+      "Register with a valid Email Address, name, and mobile number.",
+      "Login using credentials and fill in the Online Application Form carefully.",
+      "Pay the application fee of Rs. 500/- through SBI Collect online payment system (not applicable for SC/ST/PwBD/Women/Ex-Servicemen).",
+      "Upload all required documents including photograph, signature, educational certificates, ITI/trade certificates, caste/category certificates, experience certificates, NOC (if applicable), and fee payment receipt.",
+      "Candidates applying for more than one post code must submit separate online applications with separate fee payment receipts.",
+      "Click ‘Final Submit’ to successfully submit the application form.",
+      "Keep a printout of the completed application form for future reference.",
+      "Do NOT send hard copies of the application after submission.",
+      "Last date for submission: 04.10.2026 (Sunday) at 06:00 PM."
+    ]
+  },
+  {
+    "id": "telangana-csir ngri-technician",
+    "title": "CSIR NGRI Recruitment 2026 – Technician Posts",
+    "shortInfo": "CSIR NGRI has announced notification for Technician posts. Required qualification: ITI. Last date to apply: 04-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "21",
+    "lastDate": "04-10-26",
+    "officialWebsite": "https://www.ngri.res.in/upload/uploadfiles/files/NGRI-Technician1-012026-05092026-eng.pdf",
+    "notificationLink": "https://www.ngri.res.in/upload/uploadfiles/files/NGRI-Technician1-012026-05092026-eng.pdf",
+    "applyOnlineLink": "https://www.ngri.res.in/upload/uploadfiles/files/NGRI-Technician1-012026-05092026-eng.pdf",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "telangana-gmc kb asifabad-professor-associate-professor-assistant-professor-",
+    "title": "GMC KB Asifabad Recruitment 2026 – Professor, Associate Professor, Assistant Professor, Senior Resident (Walk-in) Posts",
+    "shortInfo": "GMC KB Asifabad has announced notification for Professor, Associate Professor, Assistant Professor, Senior Resident (Walk-in) posts. Required qualification: MBBS, MD/MS/DNB. Last date to apply: 11-09-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "99",
+    "lastDate": "11-09-26",
+    "officialWebsite": "https://asifabad.telangana.gov.in/",
+    "notificationLink": "https://cdn.s3waas.gov.in/s382cec96096d4281b7c95cd7e74623496/uploads/2026/09/17882612955235.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/gmc-kb-asifabad-recruitment-2026-walk-in-for-99-faculty-sr-resident-posts/",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-09-06",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "01/09/2026"
+      },
+      {
+        "event": "Walk-in-Interview Date",
+        "date": "11/09/2026"
+      },
+      {
+        "event": "Contract Period End Date",
+        "date": "31/03/2027"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Professor (Anatomy)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Physiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Biochemistry)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Pharmacology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Pathology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Microbiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Forensic Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Community Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (General Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Paediatrics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Dermatology & Venerology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Psychiatry)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (General Surgery)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Ophthalmology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Orthopedics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Obstetrics & Gynecology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Radiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Anaesthesia)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (OTO-RHINOLARYNGOLOGY)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Anatomy)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Physiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Biochemistry)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Pharmacology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Pathology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Microbiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Forensic Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Community Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (General Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Paediatrics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Dermatology & Venerology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Psychiatry)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (General Surgery)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Ophthalmology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Orthopedics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Obstetrics & Gynecology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Radiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Anaesthesia)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (OTO-RHINOLARYNGOLOGY)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Anatomy)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Physiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Biochemistry)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Pharmacology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Pathology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Microbiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Forensic Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Community Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (General Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Paediatrics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Dermatology & Venerology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Psychiatry)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (General Surgery)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Ophthalmology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Orthopedics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Obstetrics & Gynecology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Radiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Anaesthesia)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (OTO-RHINOLARYNGOLOGY)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident (Anatomy)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident (Physiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident (Biochemistry)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident (Pharmacology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident (Pathology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident (Microbiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident (Forensic Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident (Community Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident (General Surgery)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident (Dermatology & Venerology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident (Orthopedics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident (Obstetrics & Gynecology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident (Radiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident (Anaesthesia)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident (OTO-RHINOLARYNGOLOGY)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the application form from the college website: www.gmckumurambheemasifabad.org",
+      "Fill in the application form completely in block letters.",
+      "Attach attested Xerox copies of all required documents.",
+      "Appear for the Walk-in-Interview on 11.09.2026 between 11 AM to 3 PM at O/o Principal, Govt. Medical College, Kumuram Bheem Asifabad.",
+      "Submit the filled-in application form along with Xerox copies and carry all original certificates on the day of interview.",
+      "Documents required: Aadhar Card, PAN Card, Proof of Date of Birth (SSC/Birth Certificate), Study/Bonafide certificates (1st&ndash;7th class), MBBS and MD/MS/DNB Degree, MBBS Registration and PG Qualification Registration from Telangana State Medical Council, Experience Certificates, Senior Resident Experience Certificate (for Assistant Professor), Copies of Publications with proof of Indexation, Community Certificate, Physically Handicapped Certificate (if applicable)."
+    ]
+  },
+  {
+    "id": "telangana-gmc mahabubnagar-professor-associate-professor-assistant-professor-",
+    "title": "GMC Mahabubnagar Recruitment 2026 – Professor, Associate Professor, Assistant Professor, Tutor, Junior Resident (Walk-in) Posts",
+    "shortInfo": "GMC Mahabubnagar has announced notification for Professor, Associate Professor, Assistant Professor, Tutor, Junior Resident (Walk-in) posts. Required qualification: MBBS, MD, MS, DNB. Last date to apply: 15-09-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "149",
+    "lastDate": "15-09-26",
+    "officialWebsite": "https://gmcmbnr-ts.org",
+    "notificationLink": "https://cdn.s3waas.gov.in/s3e00da03b685a0dd18fb6a08af0923de0/uploads/2026/09/17884294198503.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/gmc-mahabubnagar-recruitment-2026/",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-09-06",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Issue of Paper Notification",
+        "date": "03/09/2026"
+      },
+      {
+        "event": "Walk-in-Interview",
+        "date": "15/09/2026"
+      },
+      {
+        "event": "Results",
+        "date": "17/09/2026"
+      },
+      {
+        "event": "Last Date for Joining Duty",
+        "date": "30/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Professor (Physiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Forensic Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (General Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Respiratory Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Anesthesiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Radio-Diagnosis)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Emergency Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Transfusion Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Biochemistry)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Pharmacology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Pathology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Microbiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Community Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (General Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (DVL)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Psychiatry)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (General Surgery)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Orthopedics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (ENT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Ophthalmology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Anesthesiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Emergency Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Transfusion Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Anatomy)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Physiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Pharmacology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Pathology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Microbiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Forensic Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Community Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (General Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Pediatrics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (DVL)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Psychiatry)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (General Surgery)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Orthopedics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (ENT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Ophthalmology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (OBG)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Anesthesiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Radio-Diagnosis)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Emergency Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Transfusion Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Tutor",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Resident",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the application form from the college website: www.gmcmbnr-ts.org",
+      "Fill in the application form completely.",
+      "Attend the Walk-in-Interview on 15.09.2026 between 09:00 AM to 03:00 PM at the Office of the Director, Govt. Medical College, Mahabubnagar, Edira Campus, Thirulmalla Hills, Mahabubnagar District.",
+      "Bring the filled application form along with original certificates and two sets of self-attested Xerox copies.",
+      "Documents required: Aadhar Card, PAN Card, Proof of Date of Birth (SSC/Birth Certificate), Study/Bonafide Certificates (4th-10th), MBBS and MD/MS/DNB Degree, Marks Memos of MBBS &amp; MD/MS/DNB/M.Sc., MBBS Registration from Telangana/AP Medical Council, PG qualification registration from Telangana State Medical Council, Experience Certificates, Senior Residency Completion Certificate, BCBR Certificate, MET Certificate.",
+      "Outside state candidates must get their qualification registered from Telangana State Medical Council within one week of selection for appointment confirmation."
+    ]
+  },
+  {
+    "id": "telangana-esic sanathnagar-assistant-professor-associate-professor-professor-",
+    "title": "ESIC Sanathnagar Recruitment 2026 – Assistant Professor, Associate Professor, Professor, Senior Resident Posts",
+    "shortInfo": "ESIC Sanathnagar has announced notification for Assistant Professor, Associate Professor, Professor, Senior Resident posts. Required qualification: MS/MD, M.Ch, DNB. Last date to apply: 18-09-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "26",
+    "lastDate": "18-09-26",
+    "officialWebsite": "https://esic.gov.in/attachments/recruitmentfile/Advertisement_for_Walk_in_Interview_for_Recruitment_of_Professor_Associate_Professor_Assistant_Professor_and_Senior_Resident_on_Contractual_Basis_English_1788452691.pdf",
+    "notificationLink": "https://esic.gov.in/attachments/recruitmentfile/Advertisement_for_Walk_in_Interview_for_Recruitment_of_Professor_Associate_Professor_Assistant_Professor_and_Senior_Resident_on_Contractual_Basis_English_1788452691.pdf",
+    "applyOnlineLink": "https://esic.gov.in/attachments/recruitmentfile/Advertisement_for_Walk_in_Interview_for_Recruitment_of_Professor_Associate_Professor_Assistant_Professor_and_Senior_Resident_on_Contractual_Basis_English_1788452691.pdf",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "telangana-iit hyderabad-accountant",
+    "title": "IIT Hyderabad Recruitment 2026 – Accountant Posts",
+    "shortInfo": "IIT Hyderabad has announced notification for Accountant posts. Required qualification: B.Com. Last date to apply: 22-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "22-09-26",
+    "officialWebsite": "https://www.iith.ac.in/assets/files/careers/staff/Adv_CS_59_Accountant_Dt_02-09-2026.pdf",
+    "notificationLink": "https://www.iith.ac.in/assets/files/careers/staff/Adv_CS_59_Accountant_Dt_02-09-2026.pdf",
+    "applyOnlineLink": "https://www.iith.ac.in/assets/files/careers/staff/Adv_CS_59_Accountant_Dt_02-09-2026.pdf",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "telangana-iit hyderabad-senior-consultant",
+    "title": "IIT Hyderabad Recruitment 2026 – Senior Consultant Posts",
+    "shortInfo": "IIT Hyderabad has announced notification for Senior Consultant posts. Required qualification: Any Masters Degree, Any Bachelors Degree. Last date to apply: 22-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "22-09-26",
+    "officialWebsite": "https://www.iith.ac.in/assets/files/careers/staff/Adv_CS_58_SeniorConsultant.pdf",
+    "notificationLink": "https://www.iith.ac.in/assets/files/careers/staff/Adv_CS_58_SeniorConsultant.pdf",
+    "applyOnlineLink": "https://www.iith.ac.in/assets/files/careers/staff/Adv_CS_58_SeniorConsultant.pdf",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "telangana-gmc nalgonda-associate-professor-assistant-professor",
+    "title": "GMC Nalgonda Recruitment 2026 – Associate Professor, Assistant Professor Posts",
+    "shortInfo": "GMC Nalgonda has announced notification for Associate Professor, Assistant Professor posts. Required qualification: MS, MD, DNB. Last date to apply: 10-09-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "57",
+    "lastDate": "10-09-26",
+    "officialWebsite": "https://cdn.s3waas.gov.in/s374071a673307ca7459bcf75fbd024e09/uploads/2026/09/17882612431338.pdf",
+    "notificationLink": "https://cdn.s3waas.gov.in/s374071a673307ca7459bcf75fbd024e09/uploads/2026/09/17882612431338.pdf",
+    "applyOnlineLink": "https://cdn.s3waas.gov.in/s374071a673307ca7459bcf75fbd024e09/uploads/2026/09/17882612431338.pdf",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "telangana-bric niab-project-technical-support-iii",
+    "title": "BRIC NIAB Recruitment 2026 – Project Technical Support III Posts",
+    "shortInfo": "BRIC NIAB has announced notification for Project Technical Support III posts. Required qualification: B.Tech/B.E, M.Sc, B.Sc. Last date to apply: 04-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "04-09-26",
+    "officialWebsite": "https://www.niab.org.in/Notifications/Advt_20_2026/Notification_20_2026.pdf",
+    "notificationLink": "https://www.niab.org.in/Notifications/Advt_20_2026/Notification_20_2026.pdf",
+    "applyOnlineLink": "https://www.niab.org.in/Notifications/Advt_20_2026/Notification_20_2026.pdf",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "telangana-khammam district court-special-judicial-magistrate-of-second-class",
+    "title": "Khammam District Court Recruitment 2026 – Special Judicial Magistrate of Second Class Posts",
+    "shortInfo": "Khammam District Court has announced notification for Special Judicial Magistrate of Second Class posts. Required qualification: Other. Last date to apply: 21-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "21-09-26",
+    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3ec02e8bf0f27d70d480d3ab793bb7619/uploads/2026/08/2026082117.pdf",
+    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec02e8bf0f27d70d480d3ab793bb7619/uploads/2026/08/2026082117.pdf",
+    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec02e8bf0f27d70d480d3ab793bb7619/uploads/2026/08/2026082117.pdf",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "telangana-district court warangal-senior-superintendent-head-clerk-",
+    "title": "District Court Warangal Recruitment 2026 – Senior Superintendent (Head Clerk) Posts",
+    "shortInfo": "District Court Warangal has announced notification for Senior Superintendent (Head Clerk) posts. Required qualification: Retired Staff. Last date to apply: 21-09-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "21-09-26",
+    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3ec0451e6d6e679953c6311757004d8cb/uploads/2026/08/2026082950.pdf",
+    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec0451e6d6e679953c6311757004d8cb/uploads/2026/08/2026082950.pdf",
+    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0451e6d6e679953c6311757004d8cb/uploads/2026/08/2026082950.pdf",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "telangana-wcdw rangareddy-anganwadi-teacher",
+    "title": "WCDW Rangareddy Recruitment 2026 – Anganwadi Teacher Posts",
+    "shortInfo": "WCDW Rangareddy has announced notification for Anganwadi Teacher posts. Required qualification: 10TH, 12TH. Last date to apply: 10-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "125",
+    "lastDate": "10-09-26",
+    "officialWebsite": "https://mis.tgwdcw.in/AWTNotification2026/RR_NOTIFICATION_31.08.2026.pdf",
+    "notificationLink": "https://mis.tgwdcw.in/AWTNotification2026/RR_NOTIFICATION_31.08.2026.pdf",
+    "applyOnlineLink": "https://mis.tgwdcw.in/AWTNotification2026/RR_NOTIFICATION_31.08.2026.pdf",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "telangana-government area hospital madhira-gynecology-specialist",
+    "title": "Government Area Hospital Madhira Recruitment 2026 – Gynecology Specialist Posts",
+    "shortInfo": "Government Area Hospital Madhira has announced notification for Gynecology Specialist posts. Required qualification: MBBS. Last date to apply: 03-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "03-09-26",
+    "officialWebsite": "https://cdn.s3waas.gov.in/s31c383cd30b7c298ab50293adfecb7b18/uploads/2026/08/17879989802183.pdf",
+    "notificationLink": "https://cdn.s3waas.gov.in/s31c383cd30b7c298ab50293adfecb7b18/uploads/2026/08/17879989802183.pdf",
+    "applyOnlineLink": "https://cdn.s3waas.gov.in/s31c383cd30b7c298ab50293adfecb7b18/uploads/2026/08/17879989802183.pdf",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "telangana-iit hyderabad-duty-medical-officer-staff-nurse",
+    "title": "IIT Hyderabad Recruitment 2026 – Duty Medical Officer, Staff Nurse Posts",
+    "shortInfo": "IIT Hyderabad has announced notification for Duty Medical Officer, Staff Nurse posts. Required qualification: GNM, 12TH, Intermediate, MBBS, B.Sc. Last date to apply: 17-09-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "5",
+    "lastDate": "17-09-26",
+    "officialWebsite": "https://www.iith.ac.in/assets/files/careers/staff/Adv_CS_56_Dt_27-08-2026-1.pdf",
+    "notificationLink": "https://www.iith.ac.in/assets/files/careers/staff/Adv_CS_56_Dt_27-08-2026-1.pdf",
+    "applyOnlineLink": "https://www.iith.ac.in/assets/files/careers/staff/Adv_CS_56_Dt_27-08-2026-1.pdf",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "telangana-gmc narayanpet-more-professor-associate-professor",
+    "title": "GMC Narayanpet Recruitment 2026 – More, Professor, Associate Professor Posts",
+    "shortInfo": "GMC Narayanpet has announced notification for More, Professor, Associate Professor posts. Required qualification: MBBS, M.Phil/Ph.D, M.Sc, MS/MD, DNB. Last date to apply: 02-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "66",
+    "lastDate": "02-09-26",
+    "officialWebsite": "https://cdn.s3waas.gov.in/s343feaeeecd7b2fe2ae2e26d917b6477d/uploads/2026/08/17876351768779.pdf",
+    "notificationLink": "https://cdn.s3waas.gov.in/s343feaeeecd7b2fe2ae2e26d917b6477d/uploads/2026/08/17876351768779.pdf",
+    "applyOnlineLink": "https://cdn.s3waas.gov.in/s343feaeeecd7b2fe2ae2e26d917b6477d/uploads/2026/08/17876351768779.pdf",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "telangana-jangaon district-electricians-heavy-vehicle-drivers-and-more",
+    "title": "Jangaon District Recruitment 2026 – Electricians, Heavy Vehicle Drivers and More Posts",
+    "shortInfo": "Jangaon District has announced notification for Electricians, Heavy Vehicle Drivers and More posts. Required qualification: 10TH, ITI. Last date to apply: 03-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "54",
+    "lastDate": "03-09-26",
+    "officialWebsite": "https://cdn.s3waas.gov.in/s3e2c420d928d4bf8ce0ff2ec19b371514/uploads/2026/08/17878249969067.pdf",
+    "notificationLink": "https://cdn.s3waas.gov.in/s3e2c420d928d4bf8ce0ff2ec19b371514/uploads/2026/08/17878249969067.pdf",
+    "applyOnlineLink": "https://cdn.s3waas.gov.in/s3e2c420d928d4bf8ce0ff2ec19b371514/uploads/2026/08/17878249969067.pdf",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "telangana-iit hyderabad-post-doctoral-research-fellow",
+    "title": "IIT Hyderabad Recruitment 2026 – Post-Doctoral Research Fellow Posts",
+    "shortInfo": "IIT Hyderabad has announced notification for Post-Doctoral Research Fellow posts. Required qualification: B.Tech/B.E, M.Phil/Ph.D. Last date to apply: 10-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "10-09-26",
+    "officialWebsite": "https://www.iith.ac.in/assets/files/careers/staff/Postdocadvt_CoalSlurry-G795E.pdf",
+    "notificationLink": "https://www.iith.ac.in/assets/files/careers/staff/Postdocadvt_CoalSlurry-G795E.pdf",
+    "applyOnlineLink": "https://www.iith.ac.in/assets/files/careers/staff/Postdocadvt_CoalSlurry-G795E.pdf",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "telangana-csc-aadhaar-supervisor-operator",
+    "title": "CSC Recruitment 2026 – Aadhaar Supervisor/ Operator Posts",
+    "shortInfo": "CSC has announced notification for Aadhaar Supervisor/ Operator posts. Required qualification: 12TH, ITI. Last date to apply: 11-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "5",
+    "lastDate": "11-09-26",
+    "officialWebsite": "https://career.csccloud.in/job-post/MTM4Mg==",
+    "notificationLink": "https://career.csccloud.in/job-post/MTM4Mg==",
+    "applyOnlineLink": "https://career.csccloud.in/job-post/MTM4Mg==",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "telangana-rfcl-engineer-chemical-assistant-manager-officer-amp-ot",
+    "title": "RFCL Recruitment 2026 – Engineer (Chemical), Assistant Manager, Officer &amp; Other Posts",
+    "shortInfo": "RFCL has announced notification for Engineer (Chemical), Assistant Manager, Officer &amp; Other posts. Required qualification: B.E./B.Tech./B.Sc.(Engg.), MBA, CA, CMA, MBBS, MCA, Post Graduate Degree. Last date to apply: 24-09-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "40",
+    "lastDate": "24-09-26",
+    "officialWebsite": "https://www.rfcl.co.in",
+    "notificationLink": "https://www.rfcl.co.in/upload/Detailed%20Advt%2001_2026.pdf",
+    "applyOnlineLink": "https://career.rfcl.co.in/",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-09-06",
+    "fees": [
+      {
+        "category": "UR/OBC/EWS (E-1 to E-4)",
+        "fee": "₹700/-"
+      },
+      {
+        "category": "UR/OBC/EWS (E-5 & above)",
+        "fee": "₹1000/-"
+      },
+      {
+        "category": "SC/ST/PwBD/ExSM/Departmental",
+        "fee": "Nil"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Cut-off Date for Eligibility (Age, Qualification & Experience)",
+        "date": "31/07/2026"
+      },
+      {
+        "event": "Commencement of Online Application",
+        "date": "26/08/2026"
+      },
+      {
+        "event": "Last Date for Online Application Submission",
+        "date": "24/09/2026"
+      },
+      {
+        "event": "Last Date for Receiving Hard Copy of Application",
+        "date": "01/10/2026"
+      },
+      {
+        "event": "Last Date for Receiving Hard Copy (Far-Flung Areas)",
+        "date": "08/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Engineer (Chemical) E-1",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager (Chemical) E-2",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager (Chemical) E-3",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Engineer (Mechanical) E-1",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Engineer (Electrical) E-1",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Officer (Materials) E-1",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager (Transportation) E-2",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Officer (HR) E-1",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Officer-Secretarial E-1",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Additional CMO E-4",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "CMO E-5",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Accounts Officer (F&A) E-1",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager (F&A) E-2",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Chief Manager (F&A) E-6",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Engineer (IT) E-1",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit RFCL official website: https://www.rfcl.co.in &rarr; Careers section.",
+      "Register and fill the online application form from 26.08.2026 (0800 HRS) to 24.09.2026 (1700 HRS).",
+      "Pay the non-refundable application fee online (UR/OBC/EWS candidates only): ₹700/- for E-1 to E-4 posts; ₹1000/- for E-5 and above posts. SC/ST/PwBD/ExSM/Departmental candidates are exempted.",
+      "After successful submission, take a printout of the online application form.",
+      "Send the printout along with self-attested copies of all requisite supporting documents (educational qualifications, experience, caste certificate, PwBD certificate, etc.) in a sealed envelope super-scribed “APPLICATION FOR THE POST OF &hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip;&hellip; IN RFCL – 01/2026” to: Dy. General Manager (HR), Ramagundam Fertilizers and Chemicals Limited, Corporate Office, 4th Floor, Wing &ndash; A, Kribhco Bhawan, Sector-1, Noida, Uttar Pradesh &ndash; 201301.",
+      "Hard copy must be received by 01.10.2026 (08.10.2026 for candidates from far-flung areas).",
+      "Only one application per candidate per post is allowed.",
+      "Ensure all details are correct before final submission as changes cannot be made after submission."
+    ]
+  },
+  {
+    "id": "telangana-nfc-iti-trade-apprentices",
+    "title": "NFC Recruitment 2026 – ITI Trade Apprentices Posts",
+    "shortInfo": "NFC has announced notification for ITI Trade Apprentices posts. Required qualification: 10th Pass, ITI Pass. Last date to apply: 16-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "432",
+    "lastDate": "16-09-26",
+    "officialWebsite": "https://www.nfc.gov.in/",
+    "notificationLink": "https://www.nfc.gov.in/pdf/recruitment-advt/2026/nfc-r-III-1082026.pdf",
+    "applyOnlineLink": "https://www.apprenticeshipindia.gov.in",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-09-06",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "No Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "27/08/2026"
+      },
+      {
+        "event": "Last Date for Application",
+        "date": "16/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Fitter",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Turner",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electrician",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Machinist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Attendant Operator (Chemical Plant) / Chemical Plant Operator",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Instrument Mechanic",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electronics Mechanic",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Laboratory Assistant (Chemical Plant)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Motor Mechanics (Vehicle)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Draughtsman (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Computer Operator and Programming Assistant (COPA)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diesel Mechanic",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Carpenter",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Plumber",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Welder",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Stenographer (English)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Register on the NAPS Portal at www.apprenticeshipindia.gov.in.",
+      "After successful registration, login with your username (email ID) and password.",
+      "Click on ‘Apprenticeship Opportunities’ and search by Establishment Name: Nuclear Fuel Complex-E11153600013.",
+      "Select the desired trade and click the ‘APPLY’ button.",
+      "Upload all required documents/certificates on the portal.",
+      "Last date for submission of applications is 16/09/2026.",
+      "After applying, candidates will be selected through Walk-in-Interview and intimated via e-mail."
+    ]
+  },
+  {
+    "id": "telangana-nfc hyderabad-apprentice",
+    "title": "NFC Hyderabad Recruitment 2026 – Apprentice Posts",
+    "shortInfo": "NFC Hyderabad has announced notification for Apprentice posts. Required qualification: B.Tech/B.E, Diploma. Last date to apply: 16-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "106",
+    "lastDate": "16-09-26",
+    "officialWebsite": "https://nfc.gov.in",
+    "notificationLink": "https://www.nfc.gov.in/pdf/recruitment-advt/2026/nfc-r3-1-08-2026-365.pdf",
+    "applyOnlineLink": "https://nats.education.gov.in",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-09-06",
+    "fees": [
+      {
+        "category": "fee",
+        "fee": "No Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "24/08/2026"
+      },
+      {
+        "event": "Last Date for Application",
+        "date": "16/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Diploma Apprentice - Mechanical Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice - Chemical Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice - Mechanical Draftsman Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice - Metallurgical Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice - Electrical and Electronics Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice - Electronics and Communication Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice - Computer Science and Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma Apprentice - Civil Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Mechanical Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Electrical and Electronics Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Electronics and Communication Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Computer Science and Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Chemical Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must register on the NATS portal at https://nats.education.gov.in under NATS Establishment Code: STLHDC000003.",
+      "Apply for Nuclear Fuel Complex, Hyderabad through the NATS portal only.",
+      "Upload all required documents/certificates on the portal.",
+      "After applying, candidates are selected purely on merit basis and selected candidates will be informed through e-mail.",
+      "Last date for receipt of applications is 16/09/2026.",
+      "Applications received after due date or incomplete applications will be rejected."
+    ]
+  },
+  {
+    "id": "telangana-iit hyderabad-post-doctoral-fellow",
+    "title": "IIT Hyderabad Recruitment 2026 – Post-Doctoral Fellow Posts",
+    "shortInfo": "IIT Hyderabad has announced notification for Post-Doctoral Fellow posts. Required qualification: . Last date to apply: 09-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "09-09-26",
+    "officialWebsite": "https://www.iith.ac.in/assets/files/careers/staff/PostdoctoralFellow-Advertisement_CARBONLab.pdf",
+    "notificationLink": "https://www.iith.ac.in/assets/files/careers/staff/PostdoctoralFellow-Advertisement_CARBONLab.pdf",
+    "applyOnlineLink": "https://www.iith.ac.in/assets/files/careers/staff/PostdoctoralFellow-Advertisement_CARBONLab.pdf",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "telangana-telangana anganwadi-anganwadi-teacher",
+    "title": "Telangana Anganwadi Recruitment 2026 – Anganwadi Teacher Posts",
+    "shortInfo": "Telangana Anganwadi has announced notification for Anganwadi Teacher posts. Required qualification: 12TH. Last date to apply: 02-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "52",
+    "lastDate": "02-09-26",
+    "officialWebsite": "https://mis.tgwdcw.in/AWTNotification2026/JAYASHANKAR_BHUPALAPALLI_NOTIFICATION_21.08.2026.jpeg",
+    "notificationLink": "https://mis.tgwdcw.in/AWTNotification2026/JAYASHANKAR_BHUPALAPALLI_NOTIFICATION_21.08.2026.jpeg",
+    "applyOnlineLink": "https://mis.tgwdcw.in/AWTNotification2026/JAYASHANKAR_BHUPALAPALLI_NOTIFICATION_21.08.2026.jpeg",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "telangana-nit warangal-junior-research-fellow",
+    "title": "NIT Warangal Recruitment 2026 – Junior Research Fellow Posts",
+    "shortInfo": "NIT Warangal has announced notification for Junior Research Fellow posts. Required qualification: M.E/M.Tech, B.Tech/B.E. Last date to apply: 17-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "17-09-26",
+    "officialWebsite": "https://nitw.ac.in/api/static/files/JRF_JewDas_One_2026-8-18-15-44-38.pdf",
+    "notificationLink": "https://nitw.ac.in/api/static/files/JRF_JewDas_One_2026-8-18-15-44-38.pdf",
+    "applyOnlineLink": "https://nitw.ac.in/api/static/files/JRF_JewDas_One_2026-8-18-15-44-38.pdf",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-09-06"
+  },
+  {
     "id": "telangana-bank of baroda (bob)-local-bank-officer-lbo",
     "title": "Bank of Baroda (BOB) Recruitment 2026 – Local Bank Officer LBO Posts",
     "shortInfo": "Bank of Baroda (BOB) has announced notification for Local Bank Officer LBO posts. Required qualification: Graduation in any discipline, 1 year experience. Last date to apply: 07-09-26.",
@@ -14,7 +1811,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/bobjul26/",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-08-19",
+    "scrapedAt": "2026-09-06",
     "fees": [
       {
         "category": "General / EWS / OBC candidates",
@@ -58,19 +1855,105 @@
   {
     "id": "telangana-drdo rci-research-associate-junior-research-fellow",
     "title": "DRDO RCI Recruitment 2026 – Research Associate/ Junior Research Fellow Posts",
-    "shortInfo": "DRDO RCI has announced notification for Research Associate/ Junior Research Fellow posts. Required qualification: M.Phil/Ph.D, B.Tech/B.E, M.Sc, M.E/M.Tech. Last date to apply: 13-09-26.",
+    "shortInfo": "DRDO RCI has announced notification for Research Associate/ Junior Research Fellow posts. Required qualification: M.Phil/Ph.D, B.Tech/B.E, M.Sc, M.E/M.Tech. Last date to apply: Within.",
     "category": "Others",
     "categoryIcon": "🏢",
     "categoryMarathi": "Others",
     "district": "State Level",
     "vacancies": "21",
-    "lastDate": "13-09-26",
-    "officialWebsite": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtRCI17082026.pdf",
+    "lastDate": "Within",
+    "officialWebsite": "https://drdo.gov.in",
     "notificationLink": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtRCI17082026.pdf",
-    "applyOnlineLink": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtRCI17082026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/rci-hyderabad-ra-jrf-recruitment-2026/",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-08-19"
+    "scrapedAt": "2026-09-06",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date for Submission of Applications (within 30 days from the Date of publication of advertisement)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Research Associate (RA-01) - CSE/Mech./EEE/ECE",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Research Associate (RA-02) - Physics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Research Fellow (JRF) - Electronics & Communication Engg.",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Research Fellow (JRF) - Electrical & Electronics Engg.",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Research Fellow (JRF) - Computer Science & Engg. / Information Technology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Research Fellow (JRF) - Mechanical Engg.",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Research Fellow (JRF) - Aeronautical / Aerospace Engg.",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Research Fellow (JRF) - Chemistry",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Research Fellow (JRF) - Metallurgy",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the prescribed application format from the official website drdo.gov.in.",
+      "Fill the application form in CAPITAL LETTERS only.",
+      "Attach self-attested photocopies of all required documents: educational/professional certificates, 10th certificate/birth certificate, caste certificate (if applicable), work experience certificates, and Aadhaar card.",
+      "Superscript the envelope with ‘APPLICATION FOR THE VACANCY OF RESEARCH ASSOCIATE’ or ‘APPLICATION FOR THE VACANCY OF JUNIOR RESEARCH FELLOW’ as applicable.",
+      "Send the application only through SPEED POST/COURIER to: HEAD HRD, DR. APJ ABDUL KALAM MISSILE COMPLEX, RESEARCH CENTRE IMARAT (RCI), PO VIGYANA KANCHA, HYDERABAD, TELANGANA &ndash; 500 069.",
+      "Applications must be submitted within 30 days from the date of publication of advertisement (i.e., by 13.09.2026).",
+      "No applications will be accepted by Email or by hand."
+    ]
   },
   {
     "id": "telangana-aiims bibinagar-superintending-engineer-more-udc",
@@ -87,7 +1970,7 @@
     "applyOnlineLink": "https://aiimsbibinagar.edu.in/pdf/Detailed%20advertisement%20of%20Non%20Faculty%20posts%20(On%20Deputation%20Basis)%20-%20Phase%20II%20at%20AIIMS%20Bibinagar.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-08-19"
+    "scrapedAt": "2026-09-06"
   },
   {
     "id": "telangana-iit hyderabad-research-associate-i",
@@ -104,58 +1987,7 @@
     "applyOnlineLink": "https://www.iith.ac.in/assets/files/careers/staff/Research_Associate_Hydrogen_Embrittlement.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-08-19"
-  },
-  {
-    "id": "telangana-tiss-programme-manager",
-    "title": "TISS Recruitment 2026 – Programme Manager Posts",
-    "shortInfo": "TISS has announced notification for Programme Manager posts. Required qualification: M.Com, MBA/PGDM. Last date to apply: 23-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "23-08-26",
-    "officialWebsite": "https://tiss.ac.in/uploads/files/Aug_2026_ADVT_Programme_Manager_TISS_Hyd.pdf",
-    "notificationLink": "https://tiss.ac.in/uploads/files/Aug_2026_ADVT_Programme_Manager_TISS_Hyd.pdf",
-    "applyOnlineLink": "https://tiss.ac.in/uploads/files/Aug_2026_ADVT_Programme_Manager_TISS_Hyd.pdf",
-    "state": "Telangana",
-    "stateCode": "telangana",
-    "scrapedAt": "2026-08-19"
-  },
-  {
-    "id": "telangana-niab-project-associate-i",
-    "title": "NIAB Recruitment 2026 – Project Associate I Posts",
-    "shortInfo": "NIAB has announced notification for Project Associate I posts. Required qualification: MVSC, M.E/M.Tech, M.Sc. Last date to apply: 20-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "20-08-26",
-    "officialWebsite": "https://www.niab.org.in/Notifications/Advt_17_2026/Notification_17_2026.pdf",
-    "notificationLink": "https://www.niab.org.in/Notifications/Advt_17_2026/Notification_17_2026.pdf",
-    "applyOnlineLink": "https://www.niab.org.in/Notifications/Advt_17_2026/Notification_17_2026.pdf",
-    "state": "Telangana",
-    "stateCode": "telangana",
-    "scrapedAt": "2026-08-19"
-  },
-  {
-    "id": "telangana-bits pilani-research-assistant",
-    "title": "BITS Pilani Recruitment 2026 – Research Assistant Posts",
-    "shortInfo": "BITS Pilani has announced notification for Research Assistant posts. Required qualification: M.Sc. Last date to apply: 20-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "20-08-26",
-    "officialWebsite": "https://www.bits-pilani.ac.in/wp-content/uploads/Advt-for-Research-Assistant-NFSG_Kunaljeet-Roy_HSS-1.pdf",
-    "notificationLink": "https://www.bits-pilani.ac.in/wp-content/uploads/Advt-for-Research-Assistant-NFSG_Kunaljeet-Roy_HSS-1.pdf",
-    "applyOnlineLink": "https://www.bits-pilani.ac.in/wp-content/uploads/Advt-for-Research-Assistant-NFSG_Kunaljeet-Roy_HSS-1.pdf",
-    "state": "Telangana",
-    "stateCode": "telangana",
-    "scrapedAt": "2026-08-19"
+    "scrapedAt": "2026-09-06"
   },
   {
     "id": "telangana-niab-farm-manager-scientist-b",
@@ -172,495 +2004,24 @@
     "applyOnlineLink": "https://www.niab.org.in/Notifications/Advt_18_2026/Notification_18_2026.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-08-19"
-  },
-  {
-    "id": "telangana-indbank-relationship-manager-dealer",
-    "title": "IndBank Recruitment 2026 – Relationship Manager, Dealer Posts",
-    "shortInfo": "IndBank has announced notification for Relationship Manager, Dealer posts. Required qualification: MBA, Graduation, NISM. Last date to apply: 31-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "14",
-    "lastDate": "31-08-26",
-    "officialWebsite": "https://www.indbankonline.com",
-    "notificationLink": "https://www.indbankonline.com/v/?v=2026/08/Advertisement-for-the-post-of-Relationshipmanager-Dealer-dated-10.08.2026.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/indbank-relationship-manager-and-dealer-recruitment-2026/",
-    "state": "Telangana",
-    "stateCode": "telangana",
-    "scrapedAt": "2026-08-19",
-    "fees": [
-      {
-        "category": "Fee",
-        "fee": "Not Mentioned"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Advertisement Date",
-        "date": "10/08/2026"
-      },
-      {
-        "event": "Last Date to Apply",
-        "date": "31/08/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Relationship Manager",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Dealer - For Stock Broking Terminals",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Download the application form from the official website www.indbankonline.com.",
-      "Fill in the application form duly and attach copies of all required enclosures.",
-      "Send the duly filled application via courier or Registered Post to: Head Administration, No 480, 1st Floor Khivraj Complex I, Anna Salai, Nandanam, Chennai-35.",
-      "Alternatively, send the scanned copy of the duly filled application with enclosures to recruitment@indbankonline.com.",
-      "Ensure the application is received on or before 31.08.2026."
-    ]
-  },
-  {
-    "id": "telangana-tgcab-cooperative-intern",
-    "title": "TGCAB Recruitment 2026 – Cooperative Intern Posts",
-    "shortInfo": "TGCAB has announced notification for Cooperative Intern posts. Required qualification: MBA/PGDM, Any Graduate. Last date to apply: 21-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "21-08-26",
-    "officialWebsite": "https://tgcab.bank.in/crm/public/uploads/careers/images/yEleTh5JYEs0Yx2UgUDqvndJAhOrmy.pdf",
-    "notificationLink": "https://tgcab.bank.in/crm/public/uploads/careers/images/yEleTh5JYEs0Yx2UgUDqvndJAhOrmy.pdf",
-    "applyOnlineLink": "https://tgcab.bank.in/crm/public/uploads/careers/images/yEleTh5JYEs0Yx2UgUDqvndJAhOrmy.pdf",
-    "state": "Telangana",
-    "stateCode": "telangana",
-    "scrapedAt": "2026-08-19"
-  },
-  {
-    "id": "telangana-iit hyderabad-project-assistant",
-    "title": "IIT Hyderabad Recruitment 2026 – Project Assistant Posts",
-    "shortInfo": "IIT Hyderabad has announced notification for Project Assistant posts. Required qualification: B.Tech/B.E. Last date to apply: 22-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "22-08-26",
-    "officialWebsite": "https://www.iith.ac.in/assets/files/careers/staff/CFD_Analysi_Project_Assistant.pdf",
-    "notificationLink": "https://www.iith.ac.in/assets/files/careers/staff/CFD_Analysi_Project_Assistant.pdf",
-    "applyOnlineLink": "https://www.iith.ac.in/assets/files/careers/staff/CFD_Analysi_Project_Assistant.pdf",
-    "state": "Telangana",
-    "stateCode": "telangana",
-    "scrapedAt": "2026-08-19"
-  },
-  {
-    "id": "telangana-sbi-clerk-junior-associate-",
-    "title": "SBI Recruitment 2026 – Clerk (Junior Associate) Posts",
-    "shortInfo": "SBI has announced notification for Clerk (Junior Associate) posts. Required qualification: Graduation in any discipline. Last date to apply: 27-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1538",
-    "lastDate": "27-08-26",
-    "officialWebsite": "https://sbi.bank.in",
-    "notificationLink": "https://sbi.bank.in/webfiles/uploads/files_2627/08/JA_2026_Backlog_Detailed_Advt_ENG.pdf",
-    "applyOnlineLink": "https://ibpsreg.ibps.in/sbijasrdjl26/",
-    "state": "Telangana",
-    "stateCode": "telangana",
-    "scrapedAt": "2026-08-19",
-    "fees": [
-      {
-        "category": "SC/ST/PwBD/XS/DXS",
-        "fee": "Nil"
-      },
-      {
-        "category": "OBC",
-        "fee": "Rs. 750/-"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Online Registration Start Date",
-        "date": "07/08/2026"
-      },
-      {
-        "event": "Online Registration End Date",
-        "date": "27/08/2026"
-      },
-      {
-        "event": "Preliminary Examination (Tentative) (September 2026)",
-        "date": ""
-      },
-      {
-        "event": "Main Examination (Tentative) (October/November 2026)",
-        "date": ""
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Junior Associate (Customer Support & Sales) - Andhra Pradesh",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the Bank’s official website: https://sbi.bank.in/web/careers/current-openings",
-      "Click on the advertisement for ‘Special Recruitment Drive for Junior Associates 2026’.",
-      "Scan and keep ready your photograph, signature, left hand thumb impression, and handwritten declaration as per specifications.",
-      "Fill in the Online Application Form carefully with all required details.",
-      "Upload the scanned photograph, signature, left thumb impression, and handwritten declaration.",
-      "Submit the application form. Note: Corrections will not be allowed after final submission.",
-      "Pay the application fee online using Debit Card / Credit Card / Internet Banking.",
-      "On successful payment, an e-receipt and application form with fee details will be generated. Print and retain for records.",
-      "Download and retain the system-generated online application form printout after submission."
-    ]
-  },
-  {
-    "id": "telangana-nit warangal-technical-assistant",
-    "title": "NIT Warangal Recruitment 2026 – Technical Assistant Posts",
-    "shortInfo": "NIT Warangal has announced notification for Technical Assistant posts. Required qualification: ITI, Diploma. Last date to apply: 24-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "24-08-26",
-    "officialWebsite": "https://nitw.ac.in/api/static/files/Notification_for_TA_under_GTRE_2026-8-5-13-2-55.pdf",
-    "notificationLink": "https://nitw.ac.in/api/static/files/Notification_for_TA_under_GTRE_2026-8-5-13-2-55.pdf",
-    "applyOnlineLink": "https://nitw.ac.in/api/static/files/Notification_for_TA_under_GTRE_2026-8-5-13-2-55.pdf",
-    "state": "Telangana",
-    "stateCode": "telangana",
-    "scrapedAt": "2026-08-19"
-  },
-  {
-    "id": "telangana-bdl-engineer",
-    "title": "BDL Recruitment 2026 – Engineer Posts",
-    "shortInfo": "BDL has announced notification for Engineer posts. Required qualification: Diploma. Last date to apply: 21-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "3",
-    "lastDate": "21-08-26",
-    "officialWebsite": "https://bdl-india.in/sites/default/files/Nofification-Recruitment-contract_Engineer.pdf",
-    "notificationLink": "https://bdl-india.in/sites/default/files/Nofification-Recruitment-contract_Engineer.pdf",
-    "applyOnlineLink": "https://bdl-india.in/sites/default/files/Nofification-Recruitment-contract_Engineer.pdf",
-    "state": "Telangana",
-    "stateCode": "telangana",
-    "scrapedAt": "2026-08-19"
-  },
-  {
-    "id": "telangana-isro nrsc-project-associate-and-more-research-scientist",
-    "title": "ISRO NRSC Recruitment 2026 – Project Associate and More, Research Scientist Posts",
-    "shortInfo": "ISRO NRSC has announced notification for Project Associate and More, Research Scientist posts. Required qualification: B.Tech/B.E, M.Sc, M.E/M.Tech. Last date to apply: 21-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "48",
-    "lastDate": "21-08-26",
-    "officialWebsite": "https://www.nrsc.gov.in/Career_Apply",
-    "notificationLink": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/July/NRSC_RMT_1_2026_dated_31072026.pdf",
-    "applyOnlineLink": "https://apps.nrsc.gov.in/eRecruitment_NRSC/",
-    "state": "Telangana",
-    "stateCode": "telangana",
-    "scrapedAt": "2026-08-19",
-    "fees": [
-      {
-        "category": "General/EWS/OBC (Male)",
-        "fee": "₹250/-"
-      },
-      {
-        "category": "Women/SC/ST/PwBD/Ex-Servicemen",
-        "fee": "₹250/- (Refundable subject to eligibility and participation in selection process)"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Opening Date for Online Registration",
-        "date": "01/08/2026"
-      },
-      {
-        "event": "Closing Date for Online Registration",
-        "date": "21/08/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Research Scientist (RS20)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Research Scientist (RS21)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Research Scientist (RS22)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Research Scientist (RS23)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Research Scientist (RS24)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Research Scientist (RS25)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Associate-I (PAI-06)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Associate-II (PAII-02)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Associate-II (PAII-03)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Scientist-B (PSB03)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Scientist-B (PSB04)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Scientist-B (PSB05)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Scientist-B (PSB06)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Scientist-I (PSI-06)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Research Fellow (JRF30)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Research Fellow (JRF31)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Research Fellow (JRF32)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Research Fellow (JRF33)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Research Fellow (JRF34)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Research Fellow (JRF35)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the NRSC official website: https://www.nrsc.gov.in/Career_Apply",
-      "Register online from 01.08.2026 (1000 hrs) to 21.08.2026 (1700 hrs).",
-      "Fill in all required details carefully in the online application form.",
-      "Upload scanned copies of required documents: recent passport-size photograph (jpg/jpeg, max 40KB, 110x140px), signature (jpg/jpeg, max 20KB, 200x50px), SSC/10th certificate, Intermediate/Diploma, Graduation certificate and mark sheets, Post Graduation certificate and mark sheets, GATE/NET score card (for JRF posts), caste/category certificate if applicable.",
-      "After filling the form, you will be redirected to BHARATKOSH payment gateway to pay the application fee of ₹250/-.",
-      "On successful payment, download the e-acknowledgement for future reference.",
-      "After successful payment, login again to the e-recruitment portal for final submission of the application.",
-      "Download the personalised registration confirmation form containing Name, Registration No., Advertisement No., and Post Code.",
-      "Candidates intending to apply for more than one post must submit separate applications for each post."
-    ]
-  },
-  {
-    "id": "telangana-iit hyderabad-junior-research-fellow",
-    "title": "IIT Hyderabad Recruitment 2026 – Junior Research Fellow Posts",
-    "shortInfo": "IIT Hyderabad has announced notification for Junior Research Fellow posts. Required qualification: M.Sc. Last date to apply: 25-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "25-08-26",
-    "officialWebsite": "https://www.iith.ac.in/assets/files/careers/staff/Ad_JRF_IITH_CRG_ANRF.pdf",
-    "notificationLink": "https://www.iith.ac.in/assets/files/careers/staff/Ad_JRF_IITH_CRG_ANRF.pdf",
-    "applyOnlineLink": "https://www.iith.ac.in/assets/files/careers/staff/Ad_JRF_IITH_CRG_ANRF.pdf",
-    "state": "Telangana",
-    "stateCode": "telangana",
-    "scrapedAt": "2026-08-19"
-  },
-  {
-    "id": "telangana-nit warangal-food-safety-officer-visiting-consultant",
-    "title": "NIT Warangal Recruitment 2026 – Food Safety Officer, Visiting Consultant Posts",
-    "shortInfo": "NIT Warangal has announced notification for Food Safety Officer, Visiting Consultant posts. Required qualification: MBBS, B.A, Diploma, M.A, M.Sc, B.Sc, Any Post Graduate, Other. Last date to apply: 28-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "3",
-    "lastDate": "28-08-26",
-    "officialWebsite": "https://nitw.ac.in/api/static/files/L_S_F_2026_2026-7-29-19-47-22.pdf",
-    "notificationLink": "https://nitw.ac.in/api/static/files/L_S_F_2026_2026-7-29-19-47-22.pdf",
-    "applyOnlineLink": "https://nitw.ac.in/api/static/files/L_S_F_2026_2026-7-29-19-47-22.pdf",
-    "state": "Telangana",
-    "stateCode": "telangana",
-    "scrapedAt": "2026-08-19"
-  },
-  {
-    "id": "telangana-railtel-graduate-apprentice-engineer-diploma-apprentice-en",
-    "title": "RailTel Recruitment 2026 – Graduate Apprentice Engineer, Diploma Apprentice Engineer Posts",
-    "shortInfo": "RailTel has announced notification for Graduate Apprentice Engineer, Diploma Apprentice Engineer posts. Required qualification: Degree in Engineering, Diploma in Engineering. Last date to apply: 27-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "40",
-    "lastDate": "27-08-26",
-    "officialWebsite": "https://www.railtelindia.com",
-    "notificationLink": "https://www.railtel.in/images/careers/DocScanner%2028-Jul-2026%2004-10%20PM.pdf",
-    "applyOnlineLink": "https://nats.education.gov.in",
-    "state": "Telangana",
-    "stateCode": "telangana",
-    "scrapedAt": "2026-08-19",
-    "fees": [
-      {
-        "category": "Fee",
-        "fee": "Not Mentioned"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Notification Date",
-        "date": "28/07/2026"
-      },
-      {
-        "event": "Last Date to Apply",
-        "date": "27/08/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Graduate Apprentice Engineer",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Diploma Apprentice Engineer",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the NATS 2.0 portal at https://nats.education.gov.in.",
-      "If not already registered, register yourself on the NATS 2.0 portal before applying.",
-      "Follow the guidelines given in the student manual of NATS available at the portal (web link: https://nats.education.gov.in/assets/manual/establishment_user_manual.pdf).",
-      "Fill in the online application form with accurate details.",
-      "Upload the certificate showing your CGPA or percentage in the ‘Upload Certificate’ column. If only CGPA is mentioned, also upload the CGPA to percentage conversion formula/certificate along with the undertaking (Annexure 1) as a single PDF file of size less than 1 MB.",
-      "Submit the application online before the last date of 27.08.2026.",
-      "No other mode of application will be entertained."
-    ]
+    "scrapedAt": "2026-09-06"
   },
   {
     "id": "telangana-tslprb-sct-sub-inspector-of-police-station-fire-officer-d",
     "title": "TSLPRB Recruitment 2026 – SCT Sub Inspector of Police, Station Fire Officer, Deputy Jailor, Police Constable, Assistant Sub Inspector Posts",
-    "shortInfo": "TSLPRB has announced notification for SCT Sub Inspector of Police, Station Fire Officer, Deputy Jailor, Police Constable, Assistant Sub Inspector posts. Required qualification: Degree, SSC, ITI, B.E., B.Tech, B.Sc.. Last date to apply: Update.",
+    "shortInfo": "TSLPRB has announced notification for SCT Sub Inspector of Police, Station Fire Officer, Deputy Jailor, Police Constable, Assistant Sub Inspector posts. Required qualification: Degree, SSC, ITI, B.E., B.Tech, B.Sc.. Last date to apply: 09-09-26.",
     "category": "Latest Jobs",
     "categoryIcon": "📚",
     "categoryMarathi": "Latest Jobs",
     "district": "State Level",
     "vacancies": "325",
-    "lastDate": "Update",
+    "lastDate": "09-09-26",
     "officialWebsite": "https://www.tgprb.in",
     "notificationLink": "https://www.tgprb.in/SI_PC_2026/PC%20Driver%20&%20Mechanic%20Notification%202026%20dated%2029-07-2026.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/tslprb-ai-asi-pc-recruitment-2026/",
+    "applyOnlineLink": "https://www.tgprb.in/applive/landing?release=v2",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-08-19",
+    "scrapedAt": "2026-09-06",
     "fees": [
       {
         "category": "OC & BC (Local Telangana)",
@@ -683,6 +2044,14 @@
       {
         "event": "Notification Release Date",
         "date": "29/07/2026"
+      },
+      {
+        "event": "Starting Date for Apply online",
+        "date": "19/08/2026"
+      },
+      {
+        "event": "Closing Date for Apply online",
+        "date": "09/09/2026"
       }
     ],
     "vacancyList": [
@@ -778,137 +2147,21 @@
     ]
   },
   {
-    "id": "telangana-telangana anganwadi-anganwadi-teacher",
-    "title": "Telangana Anganwadi Recruitment 2026 – Anganwadi Teacher Posts",
-    "shortInfo": "Telangana Anganwadi has announced notification for Anganwadi Teacher posts. Required qualification: 10TH, 12TH. Last date to apply: 22-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "181",
-    "lastDate": "22-08-26",
-    "officialWebsite": "https://mis.tgwdcw.in/AWTNotification2026/AWT_Notification_Hyderabad1_29.07.2026.pdf",
-    "notificationLink": "https://mis.tgwdcw.in/AWTNotification2026/AWT_Notification_Hyderabad1_29.07.2026.pdf",
-    "applyOnlineLink": "https://mis.tgwdcw.in/AWTNotification2026/AWT_Notification_Hyderabad1_29.07.2026.pdf",
-    "state": "Telangana",
-    "stateCode": "telangana",
-    "scrapedAt": "2026-08-19"
-  },
-  {
-    "id": "telangana-nit warangal-assistant-registrar-technical-officer-more",
-    "title": "NIT Warangal Recruitment 2026 – Assistant Registrar, Technical Officer, More Posts",
-    "shortInfo": "NIT Warangal has announced notification for Assistant Registrar, Technical Officer, More posts. Required qualification: M.P.Ed, MCA, Any Masters Degree, B.Tech/B.E, M.Sc. Last date to apply: 19-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "5",
-    "lastDate": "19-08-26",
-    "officialWebsite": "https://nitw.ac.in/api/static/files/03_2026_2026-7-20-17-46-42.pdf",
-    "notificationLink": "https://nitw.ac.in/api/static/files/03_2026_2026-7-20-17-46-42.pdf",
-    "applyOnlineLink": "https://nitw.ac.in/api/static/files/03_2026_2026-7-20-17-46-42.pdf",
-    "state": "Telangana",
-    "stateCode": "telangana",
-    "scrapedAt": "2026-08-19"
-  },
-  {
-    "id": "telangana-tgpsc-town-planning-assistant",
-    "title": "TGPSC Recruitment 2026 – Town Planning Assistant Posts",
-    "shortInfo": "TGPSC has announced notification for Town Planning Assistant posts. Required qualification: B.Tech/B.E, B.Plan. Last date to apply: 22-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "7",
-    "lastDate": "22-08-26",
-    "officialWebsite": "https://www.tgpsc.gov.in",
-    "notificationLink": "https://websitenew.tgpsc.gov.in/preview/UFJFU1NOT1RFL05PVElGSUNBVElPTi1UT1dOLVBMQU5OSU5HLUFTU1QyMDI2MDcxMDE3MTYwNi5wZGZhY2Nlc3N0aW1lPTIwMjYtMTAtMTA=r95v17a0y2d8i13v",
-    "applyOnlineLink": "https://application.tgpsc.gov.in/CandidateEntryGYUDF0622302786",
-    "state": "Telangana",
-    "stateCode": "telangana",
-    "scrapedAt": "2026-08-19",
-    "fees": [
-      {
-        "category": "OC & BC Applicants (Application Processing Fee)",
-        "fee": "Rs. 1000/-"
-      },
-      {
-        "category": "SC, ST & PwD Applicants (Application Processing Fee)",
-        "fee": "Rs. 500/-"
-      },
-      {
-        "category": "All Applicants (Examination Fee)",
-        "fee": "Rs. 120/-"
-      },
-      {
-        "category": "Unemployed Applicants (Examination Fee)",
-        "fee": "Exempted"
-      },
-      {
-        "category": "Government Employees (Examination Fee)",
-        "fee": "Rs. 120/-"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Submission of Online Application Starts",
-        "date": "15/07/2026"
-      },
-      {
-        "event": "Last Date & Time of Submission of Online Application",
-        "date": "22/08/2026"
-      },
-      {
-        "event": "Downloading of Hall Tickets (7 days prior to the date of examination upto 5:00 PM on the previous day of Examination.)",
-        "date": ""
-      },
-      {
-        "event": "Tentative Schedule of Examination (October 2026)",
-        "date": ""
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Town Planning Assistant (State Level - Post Code 01)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Town Planning Assistant (Multi Zonal - Post Code 02)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the TGPSC website at https://www.tgpsc.gov.in and register via One Time Registration (OTR) if not already registered, to obtain a TGPSC ID.",
-      "Login to the website using your TGPSC ID and Date of Birth, and authenticate via OTP received on your registered mobile number.",
-      "Verify personal details fetched from OTR database (Name, Date of Birth, Educational Qualifications, Community, Gender, Disability, Ex-Servicemen &amp; Sports, etc.).",
-      "Select the preferred examination centre.",
-      "Preview the application for correctness and click on SAVE &amp; PAYMENT button.",
-      "Pay the prescribed application processing fee and examination fee online through Net Banking, Debit Card, Credit Card, or UPI.",
-      "After payment, download the generated PDF application form and note the Reference ID Number for future correspondence."
-    ]
-  },
-  {
     "id": "telangana-tslprb-sct-police-constable-fire-fighter-waeder",
     "title": "TSLPRB Recruitment 2026 – SCT Police Constable, Fire Fighter, Waeder Posts",
-    "shortInfo": "TSLPRB has announced notification for SCT Police Constable, Fire Fighter, Waeder posts. Required qualification: Intermediate, LMV license. Last date to apply: Update.",
+    "shortInfo": "TSLPRB has announced notification for SCT Police Constable, Fire Fighter, Waeder posts. Required qualification: Intermediate, LMV license. Last date to apply: 09-09-26.",
     "category": "Others",
     "categoryIcon": "🏢",
     "categoryMarathi": "Others",
     "district": "State Level",
     "vacancies": "7112",
-    "lastDate": "Update",
+    "lastDate": "09-09-26",
     "officialWebsite": "https://tslprb.in",
     "notificationLink": "https://www.tgprb.in/SI_PC_2026/PC%20(Civil%20et%20al)%202026%20Notification%20dated%2029-07-2026.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/telangana-police-tslprb-constable-si-recruitment-2026/",
+    "applyOnlineLink": "https://www.tgprb.in/applive/landing?release=v2",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-08-19",
+    "scrapedAt": "2026-09-06",
     "fees": [],
     "dates": [
       {
@@ -916,12 +2169,12 @@
         "date": "05/07/2026"
       },
       {
-        "event": "Starting Date for Apply online (Update Soon)",
-        "date": ""
+        "event": "Starting Date for Apply online",
+        "date": "19/08/2026"
       },
       {
-        "event": "Closing Date for Apply Online (Update Soon)",
-        "date": ""
+        "event": "Closing Date for Apply Online",
+        "date": "09/09/2026"
       }
     ],
     "vacancyList": [

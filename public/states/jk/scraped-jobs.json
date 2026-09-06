@@ -1,5 +1,274 @@
 [
   {
+    "id": "jk-iit jammu-junior-research-fellow",
+    "title": "IIT Jammu Recruitment 2026 – Junior Research Fellow Posts",
+    "shortInfo": "IIT Jammu has announced notification for Junior Research Fellow posts. Required qualification: M.E/M.Tech, M.Sc. Last date to apply: 20-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "20-09-26",
+    "officialWebsite": "https://www.iitjammu.ac.in/Advertisements/Contract/2026/IITJMURCRP-100354A-43.pdf",
+    "notificationLink": "https://www.iitjammu.ac.in/Advertisements/Contract/2026/IITJMURCRP-100354A-43.pdf",
+    "applyOnlineLink": "https://www.iitjammu.ac.in/Advertisements/Contract/2026/IITJMURCRP-100354A-43.pdf",
+    "state": "Jammu & Kashmir",
+    "stateCode": "jk",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "jk-iit jammu-project-assistant",
+    "title": "IIT Jammu Recruitment 2026 – Project Assistant Posts",
+    "shortInfo": "IIT Jammu has announced notification for Project Assistant posts. Required qualification: M.Sc. Last date to apply: 15-09-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "15-09-26",
+    "officialWebsite": "https://www.iitjammu.ac.in/Advertisements/Contract/2026/IITJMURCSF-100081A-41.pdf",
+    "notificationLink": "https://www.iitjammu.ac.in/Advertisements/Contract/2026/IITJMURCSF-100081A-41.pdf",
+    "applyOnlineLink": "https://www.iitjammu.ac.in/Advertisements/Contract/2026/IITJMURCSF-100081A-41.pdf",
+    "state": "Jammu & Kashmir",
+    "stateCode": "jk",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "jk-iit jammu-junior-research-fellow",
+    "title": "IIT Jammu Recruitment 2026 – Junior Research Fellow Posts",
+    "shortInfo": "IIT Jammu has announced notification for Junior Research Fellow posts. Required qualification: M.Sc. Last date to apply: 17-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "17-09-26",
+    "officialWebsite": "https://www.iitjammu.ac.in/Advertisements/Contract/2026/IITJMURCRP-100323A-42.pdf",
+    "notificationLink": "https://www.iitjammu.ac.in/Advertisements/Contract/2026/IITJMURCRP-100323A-42.pdf",
+    "applyOnlineLink": "https://www.iitjammu.ac.in/Advertisements/Contract/2026/IITJMURCRP-100323A-42.pdf",
+    "state": "Jammu & Kashmir",
+    "stateCode": "jk",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "jk-jkssb-class-iv-mts-sanitation-worker",
+    "title": "JKSSB Recruitment 2026 – Class-IV (MTS), Sanitation Worker Posts",
+    "shortInfo": "JKSSB has announced notification for Class-IV (MTS), Sanitation Worker posts. Required qualification: Matric, 10+2, 8th Pass. Last date to apply: 03-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2863",
+    "lastDate": "03-11-26",
+    "officialWebsite": "https://www.jkssb.nic.in",
+    "notificationLink": "https://www.jkssb.nic.in/Pdf/ADVT_09OF2026_01092026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/jkssb-class-iv-mts-recruitment-2026/",
+    "state": "Jammu & Kashmir",
+    "stateCode": "jk",
+    "scrapedAt": "2026-09-06",
+    "fees": [
+      {
+        "category": "General/OM/OBC/RBA/ALC-IB/ESM",
+        "fee": "Rs. 600/-"
+      },
+      {
+        "category": "SC/ST-1/ST-2/EWS/PwBD",
+        "fee": "Rs. 500/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Commencement of Online Application Submission",
+        "date": "05/10/2026"
+      },
+      {
+        "event": "Last Date for Submission of Online Application Forms",
+        "date": "03/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Class-IV (MTS) - UT Cadre",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Sanitation Worker - UT Cadre",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Class-IV (MTS) - Divisional Cadre Jammu",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Class-IV (MTS) - Divisional Cadre Kashmir",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Sanitation Worker - Divisional Cadre Jammu",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Sanitation Worker - Divisional Cadre Kashmir",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Class-IV (MTS) - District Cadre (All Districts)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Sanitation Worker - District Cadre",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website of JKSSB at www.jkssb.nic.in.",
+      "Read the Advertisement Notification No. 09 of 2026 carefully before applying.",
+      "Fill the Online Application Form with all required details including Name, Date of Birth, Father’s Name, Mother’s Name (as per Matriculation Certificate), Email ID, and Mobile Number.",
+      "Upload a live photograph and signature (Size: 10 KB to 20 KB).",
+      "Indicate the Item Number(s) and preferences for Cadre and Department as applicable.",
+      "Pay the application fee online via Net Banking, Credit Card, or Debit Card (Rs. 600/- for General; Rs. 500/- for SC/ST-1/ST-2/EWS/PwBD).",
+      "Submit the Online Application Form before the closing date of 03.11.2026.",
+      "Take a printout of the submitted application form for future reference and for submission at the time of Document Verification.",
+      "In-service candidates must also submit the printout through proper channel (Head of Department) before the last date of Document Verification."
+    ]
+  },
+  {
+    "id": "jk-srinagar district court-chowkidar-process-server-orderly",
+    "title": "Srinagar District Court Recruitment 2026 – Chowkidar, Process Server, Orderly Posts",
+    "shortInfo": "Srinagar District Court has announced notification for Chowkidar, Process Server, Orderly posts. Required qualification: 10TH, 12TH. Last date to apply: 22-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "17",
+    "lastDate": "22-09-26",
+    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3ec04d494020ff8ec181ef98ed97ac3f2/uploads/2026/08/2026082382.pdf",
+    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec04d494020ff8ec181ef98ed97ac3f2/uploads/2026/08/2026082382.pdf",
+    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec04d494020ff8ec181ef98ed97ac3f2/uploads/2026/08/2026082382.pdf",
+    "state": "Jammu & Kashmir",
+    "stateCode": "jk",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "jk-iit jammu-technical-support-staff",
+    "title": "IIT Jammu Recruitment 2026 – Technical Support Staff Posts",
+    "shortInfo": "IIT Jammu has announced notification for Technical Support Staff posts. Required qualification: Diploma, ITI, Any Bachelors Degree. Last date to apply: 04-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "04-09-26",
+    "officialWebsite": "https://www.iitjammu.ac.in/Advertisements/Contract/2026/Outsource%20HR-74.pdf",
+    "notificationLink": "https://www.iitjammu.ac.in/Advertisements/Contract/2026/Outsource%20HR-74.pdf",
+    "applyOnlineLink": "https://www.iitjammu.ac.in/Advertisements/Contract/2026/Outsource%20HR-74.pdf",
+    "state": "Jammu & Kashmir",
+    "stateCode": "jk",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "jk-kashmir university-assistant-professor",
+    "title": "Kashmir University Recruitment 2026 – Assistant Professor Posts",
+    "shortInfo": "Kashmir University has announced notification for Assistant Professor posts. Required qualification: Any Post Graduate, PG Diploma, Diploma, M.Phil/Ph.D. Last date to apply: 09-09-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "29",
+    "lastDate": "09-09-26",
+    "officialWebsite": "https://www.kashmiruniversity.net/jobs/3095.pdf",
+    "notificationLink": "https://www.kashmiruniversity.net/jobs/3095.pdf",
+    "applyOnlineLink": "https://www.kashmiruniversity.net/jobs/3095.pdf",
+    "state": "Jammu & Kashmir",
+    "stateCode": "jk",
+    "scrapedAt": "2026-09-06"
+  },
+  {
+    "id": "jk-irctc-tourism-monitor-walk-in-",
+    "title": "IRCTC Recruitment 2026 – Tourism Monitor (Walk-in) Posts",
+    "shortInfo": "IRCTC has announced notification for Tourism Monitor (Walk-in) posts. Required qualification: Any Bachelors Degree, Diploma, Any Masters Degree. Last date to apply: 09-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "9",
+    "lastDate": "09-09-26",
+    "officialWebsite": "https://www.irctc.com/",
+    "notificationLink": "https://www.irctc.com/assets/images2/NotificationTourismMonitorCONZ772026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/irctc-tourism-monitor-recruitment-2026/",
+    "state": "Jammu & Kashmir",
+    "stateCode": "jk",
+    "scrapedAt": "2026-09-06",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "07/08/2026"
+      },
+      {
+        "event": "Walk-in Interview Date",
+        "date": "08/09/2026"
+      },
+      {
+        "event": "Cut-off Date for Age/Qualification/Experience",
+        "date": "01/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Tourism Monitor (Graduate Level &ndash; Bachelor + Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Tourism Monitor (Post Graduate Level &ndash; Bachelor + PG Degree/Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download and fill the application form attached with the notification completely in all respects.",
+      "Carry the completed application form to the walk-in interview venue.",
+      "Submit the application form along with original documents, one set of attested copies of requisite documents, and two recent passport size photographs at the venue.",
+      "Appear for the personal interview at IRCTC North Zone, B-148, 11th Floor, Statesman House, Barakhamba Road, Connaught Place, New Delhi &ndash; 110001 on 08 or 09 September 2026 between 11:00 AM to 05:00 PM.",
+      "Ensure all required original documents are carried: 10th &amp; 12th Marksheets/Certificates, Graduation Marksheets/Degree, Post-Graduation Marksheets/Certificate, Experience Certificates, Caste Certificate (if applicable), EWS/PwBD Certificate (if applicable), Proof of Identity, Proof of Address, and any other relevant documents.",
+      "Candidates working in Govt./PSUs must apply through proper channel or submit NOC/relieving letter at the time of interview."
+    ]
+  },
+  {
     "id": "jk-bank of baroda (bob)-local-bank-officer-lbo",
     "title": "Bank of Baroda (BOB) Recruitment 2026 – Local Bank Officer LBO Posts",
     "shortInfo": "Bank of Baroda (BOB) has announced notification for Local Bank Officer LBO posts. Required qualification: Graduation in any discipline, 1 year experience. Last date to apply: 07-09-26.",
@@ -14,7 +283,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/bobjul26/",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-08-19",
+    "scrapedAt": "2026-09-06",
     "fees": [
       {
         "category": "General / EWS / OBC candidates",
@@ -56,57 +325,6 @@
     ]
   },
   {
-    "id": "jk-iit jammu-project-manager",
-    "title": "IIT Jammu Recruitment 2026 – Project Manager Posts",
-    "shortInfo": "IIT Jammu has announced notification for Project Manager posts. Required qualification: M.Phil/Ph.D. Last date to apply: 30-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "30-08-26",
-    "officialWebsite": "https://www.iitjammu.ac.in/Advertisements/Contract/2026/IITJMURCRP-100382A-35.pdf",
-    "notificationLink": "https://www.iitjammu.ac.in/Advertisements/Contract/2026/IITJMURCRP-100382A-35.pdf",
-    "applyOnlineLink": "https://www.iitjammu.ac.in/Advertisements/Contract/2026/IITJMURCRP-100382A-35.pdf",
-    "state": "Jammu & Kashmir",
-    "stateCode": "jk",
-    "scrapedAt": "2026-08-19"
-  },
-  {
-    "id": "jk-aiims jammu-senior-resident-senior-demonstrator",
-    "title": "AIIMS Jammu Recruitment 2026 – Senior Resident/ Senior Demonstrator Posts",
-    "shortInfo": "AIIMS Jammu has announced notification for Senior Resident/ Senior Demonstrator posts. Required qualification: MS/MD, DM, M.Sc, M.Phil/Ph.D, DNB, MBBS. Last date to apply: 27-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "40",
-    "lastDate": "27-08-26",
-    "officialWebsite": "https://www.aiimsjammu.edu.in/wp-content/uploads/2026/08/SR-Advertisement-AIIMS-Awantipora.pdf",
-    "notificationLink": "https://www.aiimsjammu.edu.in/wp-content/uploads/2026/08/SR-Advertisement-AIIMS-Awantipora.pdf",
-    "applyOnlineLink": "https://www.aiimsjammu.edu.in/wp-content/uploads/2026/08/SR-Advertisement-AIIMS-Awantipora.pdf",
-    "state": "Jammu & Kashmir",
-    "stateCode": "jk",
-    "scrapedAt": "2026-08-19"
-  },
-  {
-    "id": "jk-iit jammu-archive-manager",
-    "title": "IIT Jammu Recruitment 2026 – Archive Manager Posts",
-    "shortInfo": "IIT Jammu has announced notification for Archive Manager posts. Required qualification: MCA, M.Sc. Last date to apply: 30-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "30-08-26",
-    "officialWebsite": "https://www.iitjammu.ac.in/Advertisements/Contract/2026/IITJMURCRP-100382A-34.pdf",
-    "notificationLink": "https://www.iitjammu.ac.in/Advertisements/Contract/2026/IITJMURCRP-100382A-34.pdf",
-    "applyOnlineLink": "https://www.iitjammu.ac.in/Advertisements/Contract/2026/IITJMURCRP-100382A-34.pdf",
-    "state": "Jammu & Kashmir",
-    "stateCode": "jk",
-    "scrapedAt": "2026-08-19"
-  },
-  {
     "id": "jk-aai nr-graduate-apprentice-diploma-apprentice-iti-trade-a",
     "title": "AAI NR Recruitment 2026 – Graduate Apprentice, Diploma Apprentice, ITI Trade Apprentice Posts",
     "shortInfo": "AAI NR has announced notification for Graduate Apprentice, Diploma Apprentice, ITI Trade Apprentice posts. Required qualification: Degree, Diploma, ITI. Last date to apply: 16-09-26.",
@@ -121,7 +339,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-nr-apprentice-2026/",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-08-19",
+    "scrapedAt": "2026-09-06",
     "fees": [
       {
         "category": "All Categories",
@@ -267,23 +485,6 @@
     ]
   },
   {
-    "id": "jk-jk bank-advisor",
-    "title": "JK Bank Recruitment 2026 – Advisor Posts",
-    "shortInfo": "JK Bank has announced notification for Advisor posts. Required qualification: Other, CA, MBA, PGDM. Last date to apply: 28-08-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "28-08-26",
-    "officialWebsite": "https://jkb.bank.in/sites/default/files/2026-08/Advisor%20Notification%20-%20Treasury.pdf",
-    "notificationLink": "https://jkb.bank.in/sites/default/files/2026-08/Advisor%20Notification%20-%20Treasury.pdf",
-    "applyOnlineLink": "https://jkb.bank.in/sites/default/files/2026-08/Advisor%20Notification%20-%20Treasury.pdf",
-    "state": "Jammu & Kashmir",
-    "stateCode": "jk",
-    "scrapedAt": "2026-08-19"
-  },
-  {
     "id": "jk-iocl nr-trade-apprentice-technician-apprentice-graduate-ap",
     "title": "IOCL NR Recruitment 2026 – Trade Apprentice, Technician Apprentice, Graduate Apprentice Posts",
     "shortInfo": "IOCL NR has announced notification for Trade Apprentice, Technician Apprentice, Graduate Apprentice posts. Required qualification: Matric with ITI, Diploma in Engineering, Graduate degree, Class 12th. Last date to apply: 06-09-26.",
@@ -298,7 +499,7 @@
     "applyOnlineLink": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=B0Xxorf6hUGfjbuyZc4E5cLJ-uU_mEhAqmZkmr5RuPNURVVPR0FLNjRVMjBJOVFZSkNCN0czODE2Ty4u&route=shorturl",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-08-19",
+    "scrapedAt": "2026-09-06",
     "fees": [
       {
         "category": "Fee",
@@ -426,71 +627,6 @@
     ]
   },
   {
-    "id": "jk-sbi-clerk-junior-associate-",
-    "title": "SBI Recruitment 2026 – Clerk (Junior Associate) Posts",
-    "shortInfo": "SBI has announced notification for Clerk (Junior Associate) posts. Required qualification: Graduation in any discipline. Last date to apply: 27-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1538",
-    "lastDate": "27-08-26",
-    "officialWebsite": "https://sbi.bank.in",
-    "notificationLink": "https://sbi.bank.in/webfiles/uploads/files_2627/08/JA_2026_Backlog_Detailed_Advt_ENG.pdf",
-    "applyOnlineLink": "https://ibpsreg.ibps.in/sbijasrdjl26/",
-    "state": "Jammu & Kashmir",
-    "stateCode": "jk",
-    "scrapedAt": "2026-08-19",
-    "fees": [
-      {
-        "category": "SC/ST/PwBD/XS/DXS",
-        "fee": "Nil"
-      },
-      {
-        "category": "OBC",
-        "fee": "Rs. 750/-"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Online Registration Start Date",
-        "date": "07/08/2026"
-      },
-      {
-        "event": "Online Registration End Date",
-        "date": "27/08/2026"
-      },
-      {
-        "event": "Preliminary Examination (Tentative) (September 2026)",
-        "date": ""
-      },
-      {
-        "event": "Main Examination (Tentative) (October/November 2026)",
-        "date": ""
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Junior Associate (Customer Support & Sales) - Andhra Pradesh",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the Bank’s official website: https://sbi.bank.in/web/careers/current-openings",
-      "Click on the advertisement for ‘Special Recruitment Drive for Junior Associates 2026’.",
-      "Scan and keep ready your photograph, signature, left hand thumb impression, and handwritten declaration as per specifications.",
-      "Fill in the Online Application Form carefully with all required details.",
-      "Upload the scanned photograph, signature, left thumb impression, and handwritten declaration.",
-      "Submit the application form. Note: Corrections will not be allowed after final submission.",
-      "Pay the application fee online using Debit Card / Credit Card / Internet Banking.",
-      "On successful payment, an e-receipt and application form with fee details will be generated. Print and retain for records.",
-      "Download and retain the system-generated online application form printout after submission."
-    ]
-  },
-  {
     "id": "jk-jkssb-junior-lab-technician-junior-staff-nurse-junior-ph",
     "title": "JKSSB Recruitment 2026 – Junior lab Technician, Junior Staff Nurse, Junior Pharmacist, MMPHW, Jr Laboratory Asst &amp; Other Posts",
     "shortInfo": "JKSSB has announced notification for Junior lab Technician, Junior Staff Nurse, Junior Pharmacist, MMPHW, Jr Laboratory Asst &amp; Other posts. Required qualification: Matriculation to Graduate degree with Science. Last date to apply: 09-10-26.",
@@ -505,7 +641,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/jkssb-recruitment-2026-apply-online-for-518-junior-pharmacist-staff-nurse-other-posts/",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-08-19",
+    "scrapedAt": "2026-09-06",
     "fees": [
       {
         "category": "General Category",
@@ -1090,305 +1226,6 @@
     ]
   },
   {
-    "id": "jk-jkpsc-assistant-professor-college-director-of-physical-e",
-    "title": "JKPSC Recruitment 2026 – Assistant Professor, College Director of Physical Education &amp; Sports, Librarian Posts",
-    "shortInfo": "JKPSC has announced notification for Assistant Professor, College Director of Physical Education &amp; Sports, Librarian posts. Required qualification: Master's Degree, NET/SLET/SET, Ph.D. Last date to apply: 31-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "205",
-    "lastDate": "31-08-26",
-    "officialWebsite": "http://jkpsc.nic.in",
-    "notificationLink": "https://jkpsc.nic.in/PDF/AP_DIRECTOR_FRESH_2026.PDF",
-    "applyOnlineLink": "https://jkpsc.nic.in/home.html",
-    "state": "Jammu & Kashmir",
-    "stateCode": "jk",
-    "scrapedAt": "2026-08-19",
-    "fees": [
-      {
-        "category": "General Category",
-        "fee": "Rs. 1200"
-      },
-      {
-        "category": "Reserved Categories",
-        "fee": "Rs. 700"
-      },
-      {
-        "category": "PHC Candidates",
-        "fee": "Nil"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Notification Date",
-        "date": "31/07/2026"
-      },
-      {
-        "event": "Application Form Available on Website",
-        "date": "01/08/2026"
-      },
-      {
-        "event": "Last Date for Online Application Submission",
-        "date": "31/08/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Assistant Professor (Arabic)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (Bio Chemistry)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (Botany)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (Chemistry)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (Clinical Bio Chemistry)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (Commerce)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (Computer Application)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (Dogri)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (Economics)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (Education)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (Electronics)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (English)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (Functional English)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (Geography)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (Hindi)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (History)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (Home Science)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (Islamic Studies)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (Math)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (Music)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (Physics)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (Philosophy)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (Political Science)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (Psychology)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (Statistics)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (Urdu)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (Zoology)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "College Director of Physical Education & Sports",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Librarian",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the JKPSC official website: http://www.jkpsc.nic.in",
-      "Click on ‘One Time Registration’ or login if already registered.",
-      "Fill all requisite fields of One Time Registration (OTR) including personal information, contact information, educational qualification, and service details.",
-      "Upload a recent passport size color photograph (not taken earlier than 01.01.2025) and signature (10kB to 20kB in *.jpeg or *.jpg format).",
-      "Check eligibility conditions as mentioned in the advertisement notification.",
-      "Click on ‘Show Examination’ against the respective post/examination.",
-      "Select the month of the advertisement notification and click the ‘APPLY’ button against the eligible post.",
-      "Read instructions carefully and click ‘APPLY’ at the bottom of the webpage.",
-      "Fill up remaining required fields in the application form and accept the declaration.",
-      "Click ‘SUBMIT’ to finally submit the data.",
-      "Pay the requisite fee through online mode in the ‘SUBMITTED APPLICATIONS’ menu.",
-      "Upload all mandatory prescribed/requisite documents along with the online application form.",
-      "Take a printout of the submitted application form after successful payment and document upload."
-    ]
-  },
-  {
-    "id": "jk-jkpsc-assistant-professor",
-    "title": "JKPSC Recruitment 2026 – Assistant Professor Posts",
-    "shortInfo": "JKPSC has announced notification for Assistant Professor posts. Required qualification: Any Masters Degree, M.Phil/Ph.D. Last date to apply: 31-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "70",
-    "lastDate": "31-08-26",
-    "officialWebsite": "https://jkpsc.nic.in/Pdf/Downloader1.ashx?nid=18023&#038;type=n",
-    "notificationLink": "https://jkpsc.nic.in/Pdf/Downloader1.ashx?nid=18023&#038;type=n",
-    "applyOnlineLink": "https://jkpsc.nic.in/Pdf/Downloader1.ashx?nid=18023&#038;type=n",
-    "state": "Jammu & Kashmir",
-    "stateCode": "jk",
-    "scrapedAt": "2026-08-19"
-  },
-  {
-    "id": "jk-jkpsc-librarian-assistant-professor",
-    "title": "JKPSC Recruitment 2026 – Librarian, Assistant Professor Posts",
-    "shortInfo": "JKPSC has announced notification for Librarian, Assistant Professor posts. Required qualification: B.Tech/B.E, M.Lib, M.Phil/Ph.D, M.E/M.Tech. Last date to apply: 31-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "6",
-    "lastDate": "31-08-26",
-    "officialWebsite": "https://jkpsc.nic.in/PDF/AP_LIB_BACKLOG_2026.PDF",
-    "notificationLink": "https://jkpsc.nic.in/PDF/AP_LIB_BACKLOG_2026.PDF",
-    "applyOnlineLink": "https://jkpsc.nic.in/PDF/AP_LIB_BACKLOG_2026.PDF",
-    "state": "Jammu & Kashmir",
-    "stateCode": "jk",
-    "scrapedAt": "2026-08-19"
-  },
-  {
     "id": "jk-jkssb-divisional-cadre",
     "title": "JKSSB Recruitment 2026 – Divisional Cadre Posts",
     "shortInfo": "JKSSB has announced notification for Divisional Cadre posts. Required qualification: B.Lib, Any Bachelors Degree, Any Graduate, ITI, 10TH. Last date to apply: 08-09-26.",
@@ -1403,7 +1240,7 @@
     "applyOnlineLink": "https://jkssb.nic.in/dynamic-jkssb-test/pages/login.aspx",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-08-19",
+    "scrapedAt": "2026-09-06",
     "fees": [
       {
         "category": "General/OM/OBC/RBA/ALC-IB/ESM",
@@ -1487,125 +1324,21 @@
     ]
   },
   {
-    "id": "jk-iim jammu-research-assistant",
-    "title": "IIM Jammu Recruitment 2026 – Research Assistant Posts",
-    "shortInfo": "IIM Jammu has announced notification for Research Assistant posts. Required qualification: M.A, M.Phil/Ph.D, M.Com, M.E/M.Tech, M.Sc. Last date to apply: 20-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "20-08-26",
-    "officialWebsite": "https://drive.google.com/file/d/1CNzL7CE-Fp8z5fLS4IDL6kdK8gizT3EP/view",
-    "notificationLink": "https://drive.google.com/file/d/1CNzL7CE-Fp8z5fLS4IDL6kdK8gizT3EP/view",
-    "applyOnlineLink": "https://drive.google.com/file/d/1CNzL7CE-Fp8z5fLS4IDL6kdK8gizT3EP/view",
-    "state": "Jammu & Kashmir",
-    "stateCode": "jk",
-    "scrapedAt": "2026-08-19"
-  },
-  {
-    "id": "jk-university of kashmir-jkset-exam-2026-assistant-professor",
-    "title": "University of Kashmir Recruitment 2026 – JKSET Exam 2026 Assistant Professor Posts",
-    "shortInfo": "University of Kashmir has announced notification for JKSET Exam 2026 Assistant Professor posts. Required qualification: Master's Degree. Last date to apply: 20-08-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "",
-    "lastDate": "20-08-26",
-    "officialWebsite": "https://www.kashmiruniversity.net/default.aspx",
-    "notificationLink": "https://set.uok.edu.in/Files/df43783e-5402-4524-9201-c5df0541d1f1/Alert/Notification_JKSET-LASET_2026_24ab4f0a-7ab5-45da-9d94-e978c56aedea.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/jkset-2026/",
-    "state": "Jammu & Kashmir",
-    "stateCode": "jk",
-    "scrapedAt": "2026-08-19",
-    "fees": [
-      {
-        "category": "General/Unreserved Category (without late fee)",
-        "fee": "Rs. 1200"
-      },
-      {
-        "category": "General/Unreserved Category (with late fee)",
-        "fee": "Rs. 1800"
-      },
-      {
-        "category": "RBA/ALC-IB/OBC/EWS (without late fee)",
-        "fee": "Rs. 900"
-      },
-      {
-        "category": "RBA/ALC-IB/OBC/EWS (with late fee)",
-        "fee": "Rs. 1500"
-      },
-      {
-        "category": "SC/ST (I & II)/Transgender/PwD with 40% disability (without late fee)",
-        "fee": "Rs. 700"
-      },
-      {
-        "category": "SC/ST (I & II)/Transgender/PwD with 40% disability (with late fee)",
-        "fee": "Rs. 1300"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Date of Issue of Notification",
-        "date": "17/07/2026"
-      },
-      {
-        "event": "Start of Submission of Online Application Forms",
-        "date": "24/07/2026"
-      },
-      {
-        "event": "Last Date for Submission of Online Application Forms",
-        "date": "20/08/2026"
-      },
-      {
-        "event": "Last Date for Submission of Online Application Forms with Late Fee",
-        "date": "25/08/2026"
-      },
-      {
-        "event": "Downloading of Admit Card",
-        "date": "08/10/2026"
-      },
-      {
-        "event": "Date of Examination",
-        "date": "25/10/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Assistant Professor",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the official website: https://set.uok.edu.in or https://www.kashmiruniversity.net",
-      "Register by providing Username, Mobile Number (preferably WhatsApp Number), Email Address and Password.",
-      "Login and fill in all required particulars in the online application form including Personal Details, Academic Qualifications, Examination Centre Preference(s), and Subject for JKSET/LASET.",
-      "Upload required documents: recent passport-size photograph (JPG/JPEG), scanned signature (JPG/JPEG), valid Reserved Category Certificate (if applicable), Domicile Certificate, and Bonafide Certificate (if pursuing Masters).",
-      "Pay the prescribed non-refundable examination fee exclusively through the online payment gateway integrated with the Online Application Portal.",
-      "Download and retain the fee receipt, application form, and transaction reference number for future reference.",
-      "Ensure Application Status shows ‘Fee Received’ after 3 days of payment."
-    ]
-  },
-  {
-    "id": "jk-jkssb-draftsman-civil-works-supervisor",
-    "title": "JKSSB Recruitment 2026 – Draftsman (Civil), Works Supervisor Posts",
-    "shortInfo": "JKSSB has announced notification for Draftsman (Civil), Works Supervisor posts. Required qualification: Two years Draftsman Training Course Certificate/Diploma, Matriculation Pass with ITI Certificate. Last date to apply: 30-08-26.",
+    "id": "jk-jkssb-draftsman-civil-works-supervisor-last-date-extende",
+    "title": "JKSSB Recruitment 2026 – Draftsman (Civil), Works Supervisor (Last Date Extended) Posts",
+    "shortInfo": "JKSSB has announced notification for Draftsman (Civil), Works Supervisor (Last Date Extended) posts. Required qualification: Two years Draftsman Training Course Certificate/Diploma, Matriculation Pass with ITI Certificate. Last date to apply: 24-09-26.",
     "category": "Others",
     "categoryIcon": "🏢",
     "categoryMarathi": "Others",
     "district": "State Level",
     "vacancies": "357",
-    "lastDate": "30-08-26",
+    "lastDate": "24-09-26",
     "officialWebsite": "https://www.jkssb.nic.in",
     "notificationLink": "https://jkssb.nic.in/Pdf/Advt_06OF2026_06072026.pdf",
     "applyOnlineLink": "https://jkssb.nic.in/dynamic-jkssb-test/pages/login.aspx",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-08-19",
+    "scrapedAt": "2026-09-06",
     "fees": [
       {
         "category": "General/OM/OBC/RBA/ALC-IB/ESM",
@@ -1626,8 +1359,8 @@
         "date": "01/08/2026"
       },
       {
-        "event": "Last Date for Submission of Online Application Forms",
-        "date": "30/08/2026"
+        "event": "Last Date for Submission of Online Application Forms (Extended Upto)",
+        "date": "24/09/2026"
       }
     ],
     "vacancyList": [
@@ -1686,7 +1419,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/jkssb-warder-recruitment-2026/",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-08-19",
+    "scrapedAt": "2026-09-06",
     "fees": [
       {
         "category": "General/OM/OBC/RBA/ALC-IB/ESM",

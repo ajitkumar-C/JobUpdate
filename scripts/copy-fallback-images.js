@@ -31,7 +31,9 @@ const fallbacks = {
 Object.entries(fallbacks).forEach(([target, source]) => {
   const srcPath = path.join(imgDir, source);
   const destPath = path.join(imgDir, target);
-  if (fs.existsSync(srcPath)) {
+  if (fs.existsSync(destPath)) {
+    console.log(`Skipping ${target} - dedicated image already exists.`);
+  } else if (fs.existsSync(srcPath)) {
     fs.copyFileSync(srcPath, destPath);
     console.log(`Copied ${source} to ${target}`);
   } else {

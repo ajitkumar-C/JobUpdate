@@ -13,12 +13,11 @@ const __dirname = path.dirname(__filename);
 const jobsFile = path.resolve(process.cwd(), 'public', 'scraped-jobs.json'); // Updated to read from public/
 
 const TARGET_JOBS = [
-    "Bihar STET",
-    "SBI ",
-    "UPSSSC PET",
-    "NTPC ",
-    "SAIL ",
-    "IBPS "
+    "HPPSC H.P. Administrative Service",
+    "India Post Gramin Dak Sevaks",
+    "MPESB Group 3",
+    "IIT BHU",
+    "UP Anganwadi"
 ];
 
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
@@ -92,6 +91,10 @@ async function postCarouselToMeta(publicImageUrls, caption) {
         caption: caption,
         access_token: IG_ACCESS_TOKEN
     });
+    
+    // Wait for Instagram backend to process the images before publishing
+    console.log('  -> Waiting 15 seconds for IG media processing...');
+    await sleep(15000);
     
     const igPublishRes = await axios.post(`https://graph.facebook.com/v20.0/${IG_ACCOUNT_ID}/media_publish`, {
         creation_id: igContainerRes.data.id,

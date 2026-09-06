@@ -30,6 +30,10 @@ netlify-bundle.zip
 # Local Social Media Automation Scripts
 scripts/instagram/
 public/ig_post_output.jpg
+public/carousel_slide_*.jpg
+public/info_slide_*.jpg
+public/reel_slide_*.jpg
+upgrade-token.js
 .env
 facebook_cover*.jpg
 sarkari_job_logo*.jpg

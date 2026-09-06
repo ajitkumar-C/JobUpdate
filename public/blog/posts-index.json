@@ -1,5 +1,204 @@
 [
   {
+    "id": "upsc-cse-preparation-guide",
+    "title": "UPSC Civil Services Exam (CSE) Guide: Complete IAS/IPS Roadmap",
+    "summary": "Comprehensive preparation strategy for UPSC Civil Services Examination covering Prelims, Mains, Optional subjects, and Interview guidance.",
+    "image": "/blog/images/upsc-cse-preparation-guide.png",
+    "category": "Career Guide",
+    "author": "Sarkari Aavedan Editorial Team",
+    "publishedDate": "2026-09-06",
+    "readTime": "10 min read",
+    "keywords": [
+      "UPSC CSE",
+      "IAS Exam",
+      "IPS",
+      "Civil Services",
+      "UPSC Prelims",
+      "UPSC Mains",
+      "UPSC Syllabus"
+    ]
+  },
+  {
+    "id": "ibps-po-exam-strategy",
+    "title": "IBPS PO Exam Strategy: Complete Banking Career & Preparation Guide",
+    "summary": "Master the IBPS Probationary Officer (PO) examination with our complete guide covering Prelims, Mains, Descriptive Writing, and Banking Interviews.",
+    "image": "/blog/images/ibps-po-exam-strategy.png",
+    "category": "Career Guide",
+    "author": "Sarkari Aavedan Editorial Team",
+    "publishedDate": "2026-09-06",
+    "readTime": "8 min read",
+    "keywords": [
+      "IBPS PO",
+      "Bank PO",
+      "Banking Exams",
+      "IBPS Prelims",
+      "IBPS Mains",
+      "Bank Exam Syllabus",
+      "Quantitative Aptitude"
+    ]
+  },
+  {
+    "id": "ssc-chsl-preparation-strategy",
+    "title": "SSC CHSL Exam Guide: 10+2 Central Govt Jobs, Syllabus & Typing Strategy",
+    "summary": "Everything you need to crack the SSC Combined Higher Secondary Level (CHSL) exam for Lower Division Clerk (LDC), Data Entry Operator (DEO), and JSA posts.",
+    "image": "/blog/images/ssc-chsl-preparation-strategy.png",
+    "category": "Exams",
+    "author": "Sarkari Aavedan Editorial Team",
+    "publishedDate": "2026-09-06",
+    "readTime": "8 min read",
+    "keywords": [
+      "SSC CHSL",
+      "10+2 Govt Jobs",
+      "LDC",
+      "DEO",
+      "SSC CHSL Syllabus",
+      "Typing Test",
+      "Tier 1",
+      "Tier 2"
+    ]
+  },
+  {
+    "id": "rrb-alp-technician-guide",
+    "title": "Railway RRB ALP & Technician Guide: CBT Stages, Trade Syllabus & CBAT Strategy",
+    "summary": "Step-by-step roadmap for Assistant Loco Pilot (ALP) and Railway Technician recruitment by Railway Recruitment Boards across India.",
+    "image": "/blog/images/rrb-alp-technician-guide.png",
+    "category": "Career Guide",
+    "author": "Sarkari Aavedan Editorial Team",
+    "publishedDate": "2026-09-06",
+    "readTime": "9 min read",
+    "keywords": [
+      "RRB ALP",
+      "Railway Technician",
+      "Loco Pilot",
+      "CBT 1",
+      "CBT 2",
+      "CBAT Psycho Test",
+      "ITI Trades",
+      "Diploma Railway Jobs"
+    ]
+  },
+  {
+    "id": "state-pcs-preparation-strategy",
+    "title": "State PCS Exam Guide: Complete Strategy for State Civil Services",
+    "summary": "Master state-level civil service examinations (UPPSC, BPSC, MPPSC, MPSC, RPSC) for SDM, DSP, and Naib Tehsildar posts with dedicated state GK guidance.",
+    "image": "/blog/images/state-pcs-preparation-strategy.png",
+    "category": "Career Guide",
+    "author": "Sarkari Aavedan Editorial Team",
+    "publishedDate": "2026-09-06",
+    "readTime": "9 min read",
+    "keywords": [
+      "State PCS",
+      "UPPSC",
+      "BPSC",
+      "MPPSC",
+      "MPSC",
+      "RPSC",
+      "SDM",
+      "DSP",
+      "Civil Services",
+      "State GK"
+    ]
+  },
+  {
+    "id": "ctet-exam-preparation-guide",
+    "title": "CTET Exam Guide: Central Teacher Eligibility Test Paper 1 & 2 Roadmap",
+    "summary": "Complete preparation guide for CBSE CTET Paper 1 (Primary) and Paper 2 (Upper Primary) to qualify for KVS, NVS, DSSSB, and central school teaching jobs.",
+    "image": "/blog/images/ctet-exam-preparation-guide.png",
+    "category": "Exams",
+    "author": "Sarkari Aavedan Editorial Team",
+    "publishedDate": "2026-09-06",
+    "readTime": "8 min read",
+    "keywords": [
+      "CTET",
+      "Teacher Eligibility",
+      "CTET Paper 1",
+      "CTET Paper 2",
+      "KVS Recruitment",
+      "NVS",
+      "Pedagogy",
+      "CBSE CTET"
+    ]
+  },
+  {
+    "id": "cds-exam-defense-roadmap",
+    "title": "CDS Exam Guide: Complete Roadmap for IMA, OTA, INA & AFA",
+    "summary": "Everything you need to know about the UPSC Combined Defence Services (CDS) exam: eligibility for men and women, written paper structure, SSB interview, and academy training.",
+    "image": "/blog/images/cds-exam-defense-roadmap.png",
+    "category": "Defense",
+    "author": "Sarkari Aavedan Editorial Team",
+    "publishedDate": "2026-09-06",
+    "readTime": "9 min read",
+    "keywords": [
+      "CDS Exam",
+      "UPSC CDS",
+      "IMA",
+      "OTA",
+      "INA",
+      "Air Force Academy",
+      "SSB Interview",
+      "Defense Careers",
+      "Officer Entry"
+    ]
+  },
+  {
+    "id": "rpf-constable-si-recruitment",
+    "title": "RPF Constable & Sub-Inspector (SI) Guide: Physical Standards & Exam Blueprint",
+    "summary": "Complete preparation guide for Railway Protection Force (RPF) Constable and Sub-Inspector posts: CBT syllabus, physical efficiency tests (PET), and medical criteria.",
+    "image": "/blog/images/rpf-constable-si-recruitment.png",
+    "category": "Defense",
+    "author": "Sarkari Aavedan Editorial Team",
+    "publishedDate": "2026-09-06",
+    "readTime": "8 min read",
+    "keywords": [
+      "RPF Recruitment",
+      "RPF SI",
+      "RPF Constable",
+      "Railway Police",
+      "RPF Physical Test",
+      "RPF CBT Syllabus",
+      "Indian Railways"
+    ]
+  },
+  {
+    "id": "indian-coast-guard-navik-yantrik",
+    "title": "Indian Coast Guard Navik & Yantrik Guide: Selection Stages, PFT & Syllabus",
+    "summary": "Step-by-step roadmap to join the Indian Coast Guard as Navik General Duty (GD), Navik Domestic Branch (DB), or Yantrik (Mechanical, Electrical, Electronics).",
+    "image": "/blog/images/indian-coast-guard-navik-yantrik.png",
+    "category": "Defense",
+    "author": "Sarkari Aavedan Editorial Team",
+    "publishedDate": "2026-09-06",
+    "readTime": "8 min read",
+    "keywords": [
+      "Indian Coast Guard",
+      "ICG Navik GD",
+      "Navik DB",
+      "Yantrik",
+      "ICG Selection Stages",
+      "Coast Guard Physical Test",
+      "Defense Jobs"
+    ]
+  },
+  {
+    "id": "afcat-air-force-entry-guide",
+    "title": "AFCAT Exam Guide: Flying, Technical & Ground Duty Officer Careers",
+    "summary": "Everything you need to know about the Air Force Common Admission Test (AFCAT) for men and women: syllabus, cutoff trends, AFSB interview, and pilot training.",
+    "image": "/blog/images/afcat-air-force-entry-guide.png",
+    "category": "Defense",
+    "author": "Sarkari Aavedan Editorial Team",
+    "publishedDate": "2026-09-06",
+    "readTime": "9 min read",
+    "keywords": [
+      "AFCAT",
+      "Indian Air Force",
+      "Flying Branch",
+      "Ground Duty",
+      "AFSB Interview",
+      "Air Force Officer",
+      "IAF Pilot",
+      "CPSS Test"
+    ]
+  },
+  {
     "id": "careers-indian-army",
     "title": "Indian Army Entry Guide: Career Blueprint",
     "summary": "Complete guide to joining the Indian Army, covering eligibility, exams, and physical standards.",

@@ -13,7 +13,8 @@ const staticPages = [
   'about',
   'contact',
   'disclaimer',
-  'privacy'
+  'privacy',
+  'blog'
 ];
 
 // Define category slugs matching mockData.ts and syncCategories
@@ -87,7 +88,28 @@ function generateSitemap() {
     console.warn('⚠️ No scraped-jobs.json found in public directory. Sitemap will only contain static and category URLs.');
   }
 
-  // 4. Generate XML content
+  // 4. Load blog posts
+  const blogIndexPath = path.join(__dirname, '..', 'public', 'blog', 'posts-index.json');
+  if (fs.existsSync(blogIndexPath)) {
+    try {
+      const data = fs.readFileSync(blogIndexPath, 'utf-8');
+      const posts = JSON.parse(data);
+      if (Array.isArray(posts)) {
+        posts.forEach(post => {
+          urls.push({
+            loc: `${BASE_URL}/blog/${post.id}`,
+            changefreq: 'weekly',
+            priority: '0.7'
+          });
+        });
+        console.log(`✅ Loaded ${posts.length} blog posts into sitemap.`);
+      }
+    } catch (err) {
+      console.error('❌ Error reading blog index for sitemap:', err.message);
+    }
+  }
+
+  // 5. Generate XML content
   const xmlUrls = urls.map(url => `
   <url>
     <loc>${url.loc}</loc>

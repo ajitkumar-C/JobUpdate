@@ -15,7 +15,17 @@ const fallbacks = {
   'police-constable-bharti.png': 'careers-indian-army.png',
   'ssc-mts-havaldar.png': 'careers-indian-army.png',
   'neet-preparation-roadmap.png': 'careers-indian-air-force.png',
-  'gate-preparation-roadmap.png': 'careers-indian-air-force.png'
+  'gate-preparation-roadmap.png': 'careers-indian-air-force.png',
+  'upsc-cse-preparation-guide.png': 'ssc-cgl-exam-guide.png',
+  'ibps-po-exam-strategy.png': 'railway-station-master-ntpc.png',
+  'ssc-chsl-preparation-strategy.png': 'ssc-cgl-exam-guide.png',
+  'rrb-alp-technician-guide.png': 'railway-group-d-recruitment.png',
+  'state-pcs-preparation-strategy.png': 'police-constable-bharti.png',
+  'ctet-exam-preparation-guide.png': 'gate-preparation-roadmap.png',
+  'cds-exam-defense-roadmap.png': 'careers-indian-army.png',
+  'rpf-constable-si-recruitment.png': 'police-constable-bharti.png',
+  'indian-coast-guard-navik-yantrik.png': 'careers-indian-navy.png',
+  'afcat-air-force-entry-guide.png': 'careers-indian-air-force.png'
 };
 
 Object.entries(fallbacks).forEach(([target, source]) => {

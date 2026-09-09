@@ -14,7 +14,9 @@ const staticPages = [
   'contact',
   'disclaimer',
   'privacy',
-  'blog'
+  'blog',
+  'tools/image-resizer',
+  'tools/age-calculator'
 ];
 
 // Define category slugs matching mockData.ts and syncCategories

@@ -2897,6 +2897,617 @@ textarea.form-control {
   color: #0d47a1;
 }
 
+/* ==========================================================================
+   COMMUNITY BANNER (WhatsApp & Telegram Growth Bar)
+   ========================================================================== */
+.community-banner {
+  background: linear-gradient(90deg, #0f172a 0%, #1e293b 100%);
+  color: #f8fafc;
+  padding: 0.6rem 1rem;
+  border-bottom: 2px solid #3b82f6;
+  position: relative;
+  z-index: 90;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
 
+.community-banner-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
 
+.community-banner-text {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-size: 0.88rem;
+  flex: 1;
+  min-width: 280px;
+}
 
+.community-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  background: rgba(239, 68, 68, 0.2);
+  color: #fca5a5;
+  border: 1px solid rgba(239, 68, 68, 0.4);
+  padding: 0.2rem 0.55rem;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  white-space: nowrap;
+}
+
+.community-bell-icon {
+  animation: bell-shake 2s infinite ease-in-out;
+}
+
+@keyframes bell-shake {
+  0%, 100% { transform: rotate(0); }
+  10%, 30% { transform: rotate(14deg); }
+  20%, 40% { transform: rotate(-14deg); }
+  50% { transform: rotate(0); }
+}
+
+.community-message {
+  line-height: 1.4;
+  color: #e2e8f0;
+}
+
+.community-banner-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-shrink: 0;
+}
+
+.community-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.4rem 0.85rem;
+  border-radius: 6px;
+  font-size: 0.82rem;
+  font-weight: 700;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.community-btn-whatsapp {
+  background-color: #25D366;
+  color: #ffffff;
+  box-shadow: 0 2px 6px rgba(37, 211, 102, 0.3);
+}
+
+.community-btn-whatsapp:hover {
+  background-color: #20bd5a;
+  transform: translateY(-1px);
+}
+
+.community-btn-telegram {
+  background-color: #0088cc;
+  color: #ffffff;
+  box-shadow: 0 2px 6px rgba(0, 136, 204, 0.3);
+}
+
+.community-btn-telegram:hover {
+  background-color: #0077b5;
+  transform: translateY(-1px);
+}
+
+.community-btn-close {
+  background: transparent;
+  border: none;
+  color: #94a3b8;
+  cursor: pointer;
+  padding: 0.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  transition: background 0.2s;
+}
+
+.community-btn-close:hover {
+  color: #ffffff;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+/* ==========================================================================
+   WHATSAPP SHARE BUTTON ON JOB DETAIL PAGES
+   ========================================================================== */
+.btn-whatsapp-share {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  background-color: #25D366 !important;
+  color: #ffffff !important;
+  border: none !important;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  cursor: pointer;
+  text-decoration: none;
+  box-shadow: 0 2px 6px rgba(37, 211, 102, 0.25);
+  transition: all 0.2s ease;
+}
+
+.btn-whatsapp-share:hover {
+  background-color: #1eb857 !important;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 10px rgba(37, 211, 102, 0.35);
+}
+
+/* ==========================================================================
+   UTILITY TOOLS STYLES (Image Resizer & Age Calculator)
+   ========================================================================== */
+.tool-container {
+  max-width: 1100px;
+  margin: 1.5rem auto 3rem auto;
+  padding: 0 1rem;
+}
+
+.tool-back-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1.25rem;
+}
+
+.tool-tag {
+  background: #eff6ff;
+  color: #2563eb;
+  border: 1px solid #bfdbfe;
+  padding: 0.25rem 0.65rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.tool-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.tool-main-title {
+  font-size: 1.85rem;
+  font-weight: 800;
+  color: var(--text-color, #1e293b);
+  margin-bottom: 0.5rem;
+  line-height: 1.25;
+}
+
+.tool-sub-title {
+  font-size: 0.95rem;
+  color: var(--text-muted, #64748b);
+  max-width: 780px;
+  margin: 0 auto;
+  line-height: 1.5;
+}
+
+.tool-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin-bottom: 2.5rem;
+}
+
+@media (max-width: 820px) {
+  .tool-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.tool-controls-card,
+.tool-preview-card {
+  background: var(--card-bg, #ffffff);
+  border: 1px solid var(--border-color, #e2e8f0);
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.04);
+}
+
+.tool-card-title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--text-color, #1e293b);
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.65rem;
+  border-bottom: 1px solid var(--border-color, #e2e8f0);
+}
+
+.tool-presets-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.tool-preset-option {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  padding: 0.65rem 0.85rem;
+  border: 1.5px solid var(--border-color, #e2e8f0);
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  background: var(--bg-secondary, #f8fafc);
+}
+
+.tool-preset-option:hover {
+  border-color: var(--primary-color, #2563eb);
+}
+
+.tool-preset-option.active {
+  border-color: var(--primary-color, #2563eb);
+  background: rgba(37, 99, 235, 0.05);
+}
+
+.tool-preset-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.tool-preset-desc {
+  font-size: 0.78rem;
+  color: var(--text-muted, #64748b);
+}
+
+.tool-input-row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.65rem;
+}
+
+.tool-input-group label {
+  display: block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--text-muted, #64748b);
+  margin-bottom: 0.25rem;
+}
+
+.tool-input-group input,
+.tool-date-input,
+.tool-select-input {
+  width: 100%;
+  padding: 0.5rem 0.65rem;
+  border: 1.5px solid var(--border-color, #cbd5e1);
+  border-radius: 6px;
+  font-size: 0.88rem;
+  background: var(--card-bg, #ffffff);
+  color: var(--text-color, #1e293b);
+  outline: none;
+  transition: border-color 0.15s ease;
+}
+
+.tool-input-group input:focus,
+.tool-date-input:focus,
+.tool-select-input:focus {
+  border-color: var(--primary-color, #2563eb);
+}
+
+/* Upload Dropzone */
+.tool-upload-dropzone {
+  border: 2px dashed #94a3b8;
+  border-radius: 12px;
+  padding: 3rem 1.5rem;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  background: var(--bg-secondary, #f8fafc);
+}
+
+.tool-upload-dropzone:hover {
+  border-color: var(--primary-color, #2563eb);
+  background: rgba(37, 99, 235, 0.02);
+}
+
+.tool-upload-icon {
+  color: var(--primary-color, #2563eb);
+  margin-bottom: 0.75rem;
+}
+
+.tool-comparison-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-bottom: 1.25rem;
+}
+
+.tool-image-box {
+  border: 1px solid var(--border-color, #e2e8f0);
+  border-radius: 8px;
+  padding: 0.75rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: var(--bg-secondary, #f8fafc);
+}
+
+.tool-image-box.highlight {
+  border-color: #10b981;
+  background: rgba(16, 185, 129, 0.03);
+}
+
+.tool-box-label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--text-muted, #64748b);
+  margin-bottom: 0.5rem;
+}
+
+.tool-img-display {
+  width: 100%;
+  height: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f1f5f9;
+  border-radius: 6px;
+  overflow: hidden;
+  margin-bottom: 0.5rem;
+}
+
+.tool-img-display img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+.tool-spinner-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  color: #64748b;
+  font-size: 0.85rem;
+}
+
+.tool-stat-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.75rem;
+  color: var(--text-muted, #64748b);
+}
+
+.tool-stat-badge.success {
+  color: #047857;
+}
+
+.tool-action-bar {
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+}
+
+.tool-download-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.25rem;
+  font-size: 0.95rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.tool-error-msg {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #ef4444;
+  background: #fee2e2;
+  border-radius: 6px;
+  padding: 0.65rem 0.85rem;
+  font-size: 0.85rem;
+}
+
+/* Age Calculator specifics */
+.tool-age-hero {
+  text-align: center;
+  padding: 1.5rem 1rem;
+  background: linear-gradient(135deg, rgba(37, 99, 235, 0.06) 0%, rgba(16, 185, 129, 0.06) 100%);
+  border-radius: 12px;
+  border: 1px solid rgba(37, 99, 235, 0.15);
+  margin-bottom: 1.25rem;
+}
+
+.tool-age-caption {
+  display: block;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-muted, #64748b);
+  margin-bottom: 0.75rem;
+}
+
+.tool-age-digits {
+  display: flex;
+  justify-content: center;
+  gap: 0.85rem;
+  margin-bottom: 0.75rem;
+}
+
+.digit-box {
+  background: var(--card-bg, #ffffff);
+  border: 1.5px solid var(--border-color, #cbd5e1);
+  border-radius: 8px;
+  padding: 0.65rem 1rem;
+  min-width: 75px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.04);
+}
+
+.digit-num {
+  display: block;
+  font-size: 1.75rem;
+  font-weight: 800;
+  color: var(--primary-color, #2563eb);
+  line-height: 1;
+}
+
+.digit-label {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: var(--text-muted, #64748b);
+}
+
+.tool-age-total-days {
+  font-size: 0.82rem;
+  color: var(--text-muted, #64748b);
+}
+
+.tool-relaxation-alert {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: #f0fdf4;
+  border: 1px solid #bbf7d0;
+  color: #166534;
+  padding: 0.65rem 0.85rem;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  margin-bottom: 1.25rem;
+}
+
+.tool-matrix-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.matrix-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.65rem 0.85rem;
+  border-radius: 8px;
+  border: 1px solid var(--border-color, #e2e8f0);
+}
+
+.matrix-row.eligible {
+  background: #f0fdf4;
+  border-color: #bbf7d0;
+}
+
+.matrix-row.ineligible {
+  background: var(--bg-secondary, #f8fafc);
+  opacity: 0.8;
+}
+
+.matrix-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.matrix-name {
+  font-size: 0.88rem;
+}
+
+.matrix-exams {
+  font-size: 0.75rem;
+  color: var(--text-muted, #64748b);
+}
+
+.matrix-rel-note {
+  font-size: 0.72rem;
+  color: #047857;
+  font-weight: 600;
+}
+
+.badge-eligible {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  background: #22c55e;
+  color: white;
+  padding: 0.25rem 0.65rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 700;
+}
+
+.badge-ineligible {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  background: #94a3b8;
+  color: white;
+  padding: 0.25rem 0.65rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.tool-age-placeholder {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 250px;
+  color: var(--text-muted, #64748b);
+  text-align: center;
+}
+
+/* SEO Guide section */
+.tool-seo-guide {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border-color, #e2e8f0);
+}
+
+.tool-seo-guide h2 {
+  font-size: 1.3rem;
+  font-weight: 800;
+  color: var(--text-color, #1e293b);
+  margin-bottom: 1rem;
+}
+
+.tool-guide-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+}
+
+.tool-guide-card {
+  background: var(--card-bg, #ffffff);
+  border: 1px solid var(--border-color, #e2e8f0);
+  border-radius: 8px;
+  padding: 1.25rem;
+}
+
+.tool-guide-card h3 {
+  font-size: 0.98rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  color: var(--primary-color, #2563eb);
+}
+
+.tool-guide-card ul {
+  padding-left: 1.2rem;
+  font-size: 0.85rem;
+  color: var(--text-muted, #475569);
+  line-height: 1.5;
+}
+
+.tool-guide-card p {
+  font-size: 0.85rem;
+  color: var(--text-muted, #475569);
+  line-height: 1.5;
+}

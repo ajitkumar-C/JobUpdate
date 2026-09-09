@@ -34,8 +34,18 @@ try {
   process.exit(1);
 }
 
-// 4. Copy dist/index.html to dist/200.html
-console.log('\n--- Step 4: Copying index.html to 200.html for SPA ---');
+// 4. Static Pre-Rendering (SSG) for SEO and WhatsApp Cards
+console.log('\n--- Step 4: Static Pre-Rendering (SSG) ---');
+try {
+  execSync('node scripts/prerender.js', { stdio: 'inherit', cwd: rootDir });
+  console.log('✅ Static pre-rendering succeeded');
+} catch (err) {
+  console.error('❌ Static pre-rendering failed:', err.message);
+  process.exit(1);
+}
+
+// 5. Copy dist/index.html to dist/200.html
+console.log('\n--- Step 5: Copying index.html to 200.html for SPA Fallback ---');
 const indexHtmlPath = path.join(distDir, 'index.html');
 const fallbackHtmlPath = path.join(distDir, '200.html');
 if (fs.existsSync(indexHtmlPath)) {
@@ -46,8 +56,8 @@ if (fs.existsSync(indexHtmlPath)) {
   process.exit(1);
 }
 
-// 5. Delete dist/_redirects if it exists
-console.log('\n--- Step 5: Cleaning up dist/_redirects ---');
+// 6. Delete dist/_redirects if it exists
+console.log('\n--- Step 6: Cleaning up dist/_redirects ---');
 const redirectsPath = path.join(distDir, '_redirects');
 if (fs.existsSync(redirectsPath)) {
   fs.unlinkSync(redirectsPath);

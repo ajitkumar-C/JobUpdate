@@ -32,6 +32,16 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://sarkariavedan.info/tools/image-resizer</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/tools/age-calculator</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://sarkariavedan.info/latest-jobs</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>

@@ -52,10 +52,7 @@ export const ORDERED_CATEGORIES = [
   'result',
   'answer-key',
   'syllabus',
-  'admission',
-  'certificate',
-  'outsourcing-offline',
-  'important'
+  'admission'
 ];
 
 export const CATEGORY_ICONS: Record<string, string> = {

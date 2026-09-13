@@ -87,6 +87,8 @@ const DEFAULT_DARK_ACCENT = '#0d47a1';
 export const STATES_CONFIG: Record<string, StateConfig> = {};
 
 Object.entries(STATE_DETAILS).forEach(([code, details]) => {
+  const isUP = code === 'up';
+  
   STATES_CONFIG[code] = {
     code,
     name: details.name,
@@ -95,8 +97,12 @@ Object.entries(STATE_DETAILS).forEach(([code, details]) => {
     heroGradient: details.gradient || DEFAULT_GRADIENT,
     accentColor: details.accent || DEFAULT_ACCENT,
     accentColorDark: details.darkAccent || DEFAULT_DARK_ACCENT,
-    seoDescription: `${details.name} government job alerts — State Public Service Commission (PSC), Police Bharti, Health Department, and local municipal corporation recruitments in ${details.name} 2026.`,
-    seoKeywords: `${details.name} sarkari naukri, ${details.name} recruitment 2026, ${details.name} govt jobs, state job alerts`,
+    seoDescription: isUP
+      ? `UP Govt Jobs 2026: Apply online for UP Police Constable/SI, UPSSSC Lekhpal/PET, UPPSC PCS, UP Basic Education Shikshak Bharti, Admit Cards, and Results in Uttar Pradesh.`
+      : `${details.name} government job alerts — State Public Service Commission (PSC), Police Bharti, Health Department, and local municipal corporation recruitments in ${details.name} 2026.`,
+    seoKeywords: isUP
+      ? `UP govt jobs, UP related jobs, UP sarkari naukri, UP police bharti 2026, UPSSSC pet vacancy, UPPSC pre result 2026, Uttar Pradesh government jobs, sarkari result UP`
+      : `${details.name} sarkari naukri, ${details.name} recruitment 2026, ${details.name} govt jobs, state job alerts`,
     // State categories in English
     categories: code === 'mh' ? [
       { id: 'all',                      label: 'All Sections',            icon: '🌏' },
@@ -113,7 +119,20 @@ Object.entries(STATE_DETAILS).forEach(([code, details]) => {
       { id: 'Central Government Jobs',  label: 'Central Govt Jobs',       icon: '🏢' },
       { id: 'MH Govt Jobs',             label: 'State Govt Jobs',         icon: '🌏' }
     ] : DEFAULT_STATE_CATEGORIES,
-    infoBlocks: [
+    infoBlocks: isUP ? [
+      {
+        title: `🏛️ UPSSSC & UPPSC Examinations 2026`,
+        body: `Uttar Pradesh Subordinate Services Selection Commission (UPSSSC) and Uttar Pradesh Public Service Commission (UPPSC) conduct state-level recruitments including Lekhpal, Junior Assistant, VDO, PET, and Combined Upper Subordinate (PCS). Track eligibility, syllabus, and online application deadlines.`
+      },
+      {
+        title: `🛡️ UP Police Bharti & Promotion Board (PRPB)`,
+        body: `Get real-time updates for UP Police Constable, Sub Inspector (SI), Computer Operator, and Fireman recruitments. Find PET/PST physical standards, exam dates, answer keys, and admit cards.`
+      },
+      {
+        title: `📚 UP Teaching & Basic Education Openings`,
+        body: `Stay updated on UP Super TET, Basic Education Board (ECCE Educator, Peon, Anganwadi), and Secondary Education Department notifications across all 75 districts of Uttar Pradesh.`
+      }
+    ] : [
       {
         title: `🏛️ State Recruitments in ${details.name}`,
         body: `Find the latest updates on state department recruitments, exams, and results for ${details.name} government job openings 2026. Verified from official state bulletins.`

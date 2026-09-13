@@ -340,6 +340,174 @@ export function prerender() {
     );
   });
 
+  // ==========================================
+  // E. PRE-RENDER STATE DIRECTORY & STATE HUBS
+  // ==========================================
+  console.log('🌏 Pre-rendering State Jobs Directory & State Hub Pages...');
+
+  // 1. State Directory
+  writePrerenderedPage(
+    'state-jobs',
+    {
+      title: 'State Govt Jobs 2026: State-Wise Sarkari Naukri & Bharti Alerts | Sarkari Aavedan',
+      description: 'Explore active state government jobs across 33 Indian States and Union Territories. Find UP, Bihar, Rajasthan, Delhi, Maharashtra government recruitment notifications.',
+      canonical: `${BASE_URL}/state-jobs`,
+      image: `${BASE_URL}/logos/og_banner.png`
+    },
+    {
+      '@context': 'https://schema.org',
+      '@type': 'CollectionPage',
+      'name': 'State Govt Jobs 2026: State-Wise Sarkari Naukri & Bharti Alerts',
+      'description': 'Explore active state government jobs across 33 Indian States and Union Territories.',
+      'url': `${BASE_URL}/state-jobs`
+    },
+    `<main style="max-width: 900px; margin: 2rem auto; padding: 1rem; font-family: sans-serif; line-height: 1.6;">
+      <nav style="font-size: 0.85rem; margin-bottom: 1rem; color: #64748b;">
+        <a href="${BASE_URL}" style="color: #2563eb; text-decoration: none;">Home</a> &raquo;
+        <span>State Jobs Directory</span>
+      </nav>
+      <h1>State Government Jobs 2026 (राज्य सरकार भर्ती)</h1>
+      <p>Access state-wise government job recruitments, admit cards, and exam results across all 33 Indian States & Union Territories. Select your state to view active public service commission, police bharti, and local departmental vacancies.</p>
+      <ul>
+        <li><a href="${BASE_URL}/state/up" style="color: #2563eb; font-weight: 600;">Uttar Pradesh (UP) Govt Jobs 2026</a> — UP Police, UPSSSC, UPPSC Vacancies</li>
+        <li><a href="${BASE_URL}/state/bihar" style="color: #2563eb; font-weight: 600;">Bihar Govt Jobs 2026</a> — BPSC, BSSC, Bihar Police</li>
+        <li><a href="${BASE_URL}/state/delhi" style="color: #2563eb; font-weight: 600;">Delhi Govt Jobs 2026</a> — DSSSB, Delhi Police</li>
+        <li><a href="${BASE_URL}/state/rajasthan" style="color: #2563eb; font-weight: 600;">Rajasthan Govt Jobs 2026</a> — RPSC, RSMSSB</li>
+        <li><a href="${BASE_URL}/state/mp" style="color: #2563eb; font-weight: 600;">Madhya Pradesh (MP) Govt Jobs 2026</a> — MPPSC, MPESB</li>
+        <li><a href="${BASE_URL}/state/mh" style="color: #2563eb; font-weight: 600;">Maharashtra Govt Jobs 2026</a> — MPSC, Police Bharti</li>
+      </ul>
+    </main>`
+  );
+
+  // 2. Individual State Hubs
+  const stateMeta = {
+    up: {
+      name: 'Uttar Pradesh',
+      title: 'UP Govt Jobs 2026: Uttar Pradesh Sarkari Naukri, UPSSSC, UP Police Vacancy | Sarkari Aavedan',
+      desc: 'UP Govt Jobs 2026: Apply online for UP Police Constable/SI, UPSSSC Lekhpal/PET, UPPSC PCS, UP Basic Education Shikshak Bharti, Admit Cards, and Results in Uttar Pradesh.'
+    },
+    bihar: {
+      name: 'Bihar',
+      title: 'Bihar Govt Jobs 2026: BPSC, BSSC, Bihar Police Sarkari Naukri | Sarkari Aavedan',
+      desc: 'Latest Bihar Govt Jobs 2026: Apply online for BPSC Civil Services, BSSC CGL/Inter Level, Bihar Police Constable/SI, STET Teacher recruitment, and admit cards.'
+    },
+    delhi: {
+      name: 'Delhi',
+      title: 'Delhi Govt Jobs 2026: DSSSB, Delhi Police Recruitment Alerts | Sarkari Aavedan',
+      desc: 'Latest Delhi Government Jobs 2026: Apply for DSSSB Teacher, Junior Assistant, Delhi Police Constable/SI, and municipal corporation recruitments.'
+    },
+    rajasthan: {
+      name: 'Rajasthan',
+      title: 'Rajasthan Govt Jobs 2026: RPSC, RSMSSB Sarkari Naukri | Sarkari Aavedan',
+      desc: 'Rajasthan Govt Jobs 2026: Apply for RPSC RAS, RSMSSB CET, Rajasthan Police Constable, REET, Patwari, and state department vacancies.'
+    },
+    mp: {
+      name: 'Madhya Pradesh',
+      title: 'MP Govt Jobs 2026: MPPSC, MPESB Sarkari Naukri & Vyapam Bharti | Sarkari Aavedan',
+      desc: 'Latest MP Government Jobs 2026: Apply for MPPSC State Service, MP Police Constable, MP Vyapam/ESB Teacher, and departmental vacancies.'
+    },
+    mh: {
+      name: 'Maharashtra',
+      title: 'Maharashtra Govt Jobs 2026: MPSC, Maha Police Bharti (सरकारी नोकऱ्या) | Sarkari Aavedan',
+      desc: 'Latest Maharashtra Government Jobs 2026: Apply for MPSC Rajyaseva, Maharashtra Police Bharti, Talathi, Zilla Parishad, and Arogya Vibhag recruitments.'
+    }
+  };
+
+  const stateDir = path.join(rootDir, 'public', 'states');
+  if (fs.existsSync(stateDir)) {
+    const states = fs.readdirSync(stateDir).filter(f => fs.statSync(path.join(stateDir, f)).isDirectory());
+    console.log(`🗺️ Pre-rendering ${states.length} State Hub pages...`);
+
+    states.forEach(code => {
+      const stateInfo = stateMeta[code] || {
+        name: code.charAt(0).toUpperCase() + code.slice(1),
+        title: `${code.charAt(0).toUpperCase() + code.slice(1)} Govt Jobs 2026: State Recruitment & Sarkari Naukri | Sarkari Aavedan`,
+        desc: `Latest government job alerts in ${code.toUpperCase()} 2026. Apply online for State Public Service Commission, Police, and local departmental recruitments.`
+      };
+
+      const stateJsonPath = path.join(stateDir, code, 'scraped-jobs.json');
+      let jobListHtml = '';
+      let jobCount = 0;
+
+      if (fs.existsSync(stateJsonPath)) {
+        try {
+          const sJobs = JSON.parse(fs.readFileSync(stateJsonPath, 'utf8'));
+          if (Array.isArray(sJobs) && sJobs.length > 0) {
+            jobCount = sJobs.length;
+            const topJobs = sJobs.slice(0, 15);
+            jobListHtml = `
+              <div style="margin-top: 1.5rem;">
+                <h2 style="font-size: 1.3rem; margin-bottom: 0.75rem;">Active ${escapeHtml(stateInfo.name)} Recruitments (${jobCount} Found)</h2>
+                <ul style="padding-left: 1.25rem;">
+                  ${topJobs.map(j => `
+                    <li style="margin-bottom: 0.6rem;">
+                      <strong>${escapeHtml(j.title)}</strong>
+                      ${j.district ? ` — <em>${escapeHtml(j.district)}</em>` : ''}
+                      ${j.lastDate ? ` | <span style="color: #dc2626;">Last Date: ${escapeHtml(j.lastDate)}</span>` : ''}
+                    </li>
+                  `).join('')}
+                </ul>
+              </div>
+            `;
+          }
+        } catch (err) {
+          // ignore parsing error
+        }
+      }
+
+      const stateCanonical = `${BASE_URL}/state/${code}`;
+
+      const stateSchema = {
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        'name': stateInfo.title,
+        'description': stateInfo.desc,
+        'url': stateCanonical
+      };
+
+      const breadcrumbSchema = {
+        '@context': 'https://schema.org',
+        '@type': 'BreadcrumbList',
+        'itemListElement': [
+          { '@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': BASE_URL },
+          { '@type': 'ListItem', 'position': 2, 'name': 'State Jobs', 'item': `${BASE_URL}/state-jobs` },
+          { '@type': 'ListItem', 'position': 3, 'name': stateInfo.name, 'item': stateCanonical }
+        ]
+      };
+
+      const stateBody = `
+        <main style="max-width: 900px; margin: 2rem auto; padding: 1rem; font-family: sans-serif; line-height: 1.6; color: #1e293b;">
+          <nav style="font-size: 0.85rem; margin-bottom: 1rem; color: #64748b;">
+            <a href="${BASE_URL}" style="color: #2563eb; text-decoration: none;">Home</a> &raquo;
+            <a href="${BASE_URL}/state-jobs" style="color: #2563eb; text-decoration: none;">State Jobs</a> &raquo;
+            <span>${escapeHtml(stateInfo.name)}</span>
+          </nav>
+          <h1 style="font-size: 1.8rem; font-weight: 800; margin-bottom: 0.5rem;">${escapeHtml(stateInfo.name)} Govt Jobs 2026 — Latest Sarkari Bharti</h1>
+          <p style="font-size: 1.05rem; color: #334155;">${escapeHtml(stateInfo.desc)}</p>
+          ${jobListHtml}
+          <div style="margin-top: 2rem; padding: 1rem; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px;">
+            <h3 style="font-size: 1.1rem; margin-top: 0;">Verified ${escapeHtml(stateInfo.name)} Government Job Notifications</h3>
+            <p style="font-size: 0.95rem; margin-bottom: 0; color: #475569;">
+              Sarkari Aavedan tracks official state recruitment portals, Public Service Commissions, Police recruitment boards, and departmental vacancy circulars to deliver verified job alerts, admit card download links, and exam result scorecards for ${escapeHtml(stateInfo.name)}.
+            </p>
+          </div>
+        </main>
+      `;
+
+      writePrerenderedPage(
+        `state/${code}`,
+        {
+          title: stateInfo.title,
+          description: stateInfo.desc,
+          canonical: stateCanonical,
+          image: `${BASE_URL}/logos/og_banner.png`
+        },
+        { '@graph': [stateSchema, breadcrumbSchema] },
+        stateBody
+      );
+    });
+  }
+
   console.log(`✅ Static Pre-rendering complete! Total pages generated: ${totalRendered}`);
 }
 

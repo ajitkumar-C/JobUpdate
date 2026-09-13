@@ -315,7 +315,7 @@ export function updateSEO(
 
     if (stateEntry) {
       // C1. State Page View
-      finalTitle = `${stateEntry.nameLocal} (Maharashtra Govt Jobs) 2026 | Free Job Alert`;
+      finalTitle = `${stateEntry.name} Govt Jobs 2026: ${stateEntry.nameLocal} Sarkari Naukri & Recruitment Alerts`;
       finalDesc = stateEntry.seoDescription;
       finalKeywords = stateEntry.seoKeywords;
       canonicalUrl = `https://sarkariavedan.info/state/${stateEntry.code}`;
@@ -351,6 +351,39 @@ export function updateSEO(
             'name': stateEntry.name,
             'item': canonicalUrl
           }
+        ]
+      };
+      const breadcrumbScript = document.createElement('script');
+      breadcrumbScript.id = 'seo-breadcrumb-schema';
+      breadcrumbScript.type = 'application/ld+json';
+      breadcrumbScript.text = JSON.stringify(breadcrumbData, null, 2);
+      document.head.appendChild(breadcrumbScript);
+
+    } else if (pageName === 'state-directory') {
+      finalTitle = 'State Govt Jobs 2026: State-Wise Sarkari Naukri & Bharti Alerts | Sarkari Aavedan';
+      finalDesc = 'Explore active state government jobs across 33 Indian States and Union Territories. Find UP, Bihar, Rajasthan, Delhi, Maharashtra government recruitment notifications.';
+      finalKeywords = 'state govt jobs, state wise sarkari naukri, up govt jobs, bihar sarkari result, mp online jobs, rajasthan recruitment 2026';
+      canonicalUrl = 'https://sarkariavedan.info/state-jobs';
+
+      const dirSchema = {
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        'name': finalTitle,
+        'description': finalDesc,
+        'url': canonicalUrl
+      };
+      const mainScript = document.createElement('script');
+      mainScript.id = 'seo-main-schema';
+      mainScript.type = 'application/ld+json';
+      mainScript.text = JSON.stringify(dirSchema, null, 2);
+      document.head.appendChild(mainScript);
+
+      const breadcrumbData = {
+        '@context': 'https://schema.org',
+        '@type': 'BreadcrumbList',
+        'itemListElement': [
+          { '@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://sarkariavedan.info/' },
+          { '@type': 'ListItem', 'position': 2, 'name': 'State Jobs', 'item': canonicalUrl }
         ]
       };
       const breadcrumbScript = document.createElement('script');

@@ -225,11 +225,12 @@ export const App: React.FC = () => {
     }
     const activeCategory = categories.find(c => c.id === selectedCategoryCode);
     const categoryName = activeCategory ? activeCategory.name : null;
-    const selectedJob = jobs.find(j => j.id === selectedJobId) || null;
-    const seoView = currentView === 'home' ? null : currentView;
+    const seoView = currentView === 'state-view' 
+      ? selectedStateCode 
+      : (currentView === 'home' ? null : currentView);
 
     updateSEO(selectedJob, categoryName, seoView);
-  }, [selectedJobId, selectedCategoryCode, currentView, jobs, categories]);
+  }, [selectedJobId, selectedCategoryCode, currentView, selectedStateCode, jobs, categories]);
 
   // --- Legacy Slug Redirect Support Hook ---
   useEffect(() => {
@@ -727,7 +728,12 @@ export const App: React.FC = () => {
                       <span className="sector-name">Indian Air Force</span>
                       <span className="sector-desc">IAF Airmen Careers</span>
                     </div>
-                    <div className="sector-card">
+                    <div 
+                      className="sector-card" 
+                      style={{ cursor: 'pointer' }}
+                      onClick={() => navigateTo('state-view', null, null, false, 'up')}
+                      title="View Uttar Pradesh Government Jobs 2026"
+                    >
                       <img src="/logos/up_logo.png" alt="UP Govt Logo" className="sector-logo" />
                       <span className="sector-name">UP Government</span>
                       <span className="sector-desc">Uttar Pradesh Recruitments</span>

@@ -15,6 +15,7 @@ const staticPages = [
   'disclaimer',
   'privacy',
   'blog',
+  'state-jobs',
   'tools/image-resizer',
   'tools/age-calculator'
 ];
@@ -30,6 +31,15 @@ const defaultCategories = [
   'certificate',
   'outsourcing-offline',
   'important'
+];
+
+// Define state slugs for targeted state recruitment hubs
+const stateCodes = [
+  'an', 'arunachal', 'andhra', 'assam', 'bihar', 'chandigarh', 'chhattisgarh',
+  'damandiu', 'dadar', 'delhi', 'goa', 'gujarat', 'haryana', 'hp', 'jk',
+  'jharkhand', 'karnataka', 'kerala', 'mizoram', 'mp', 'mh', 'manipur',
+  'megha', 'nagaland', 'odisha', 'punjab', 'puducherry', 'rajasthan',
+  'sikkim', 'tamilnadu', 'telangana', 'tripura', 'up', 'uttarakhand', 'wb'
 ];
 
 function generateSitemap() {
@@ -53,6 +63,15 @@ function generateSitemap() {
       loc: `${BASE_URL}/${catId}`,
       changefreq: 'daily',
       priority: '0.8'
+    });
+  });
+
+  // 3. Add state hub pages
+  stateCodes.forEach(code => {
+    urls.push({
+      loc: `${BASE_URL}/state/${code}`,
+      changefreq: 'daily',
+      priority: code === 'up' || code === 'bihar' || code === 'delhi' ? '0.9' : '0.8'
     });
   });
 

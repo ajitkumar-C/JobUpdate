@@ -150,28 +150,73 @@ export function prerender() {
     </main>`
   );
 
+  function getCategoryActionLabel(category) {
+    const cat = (category || '').toLowerCase();
+    if (cat.includes('answer key') || cat.includes('key')) return 'Answer Key';
+    if (cat.includes('result')) return 'Result & Scorecard';
+    if (cat.includes('admit') || cat.includes('card')) return 'Admit Card';
+    if (cat.includes('syllabus')) return 'Syllabus & Exam Pattern';
+    if (cat.includes('admission')) return 'Admission Notice';
+    if (cat.includes('certificate')) return 'Certificate Verification';
+    if (cat.includes('outsourcing') || cat.includes('offline')) return 'Offline Form';
+    if (cat.includes('important')) return 'Important Notice';
+    return 'Apply Online';
+  }
+
+  function getCategorySlug(category) {
+    const cat = (category || '').toLowerCase();
+    if (cat.includes('latest')) return 'latest-jobs';
+    if (cat.includes('admit')) return 'admit-card';
+    if (cat.includes('result')) return 'result';
+    if (cat.includes('key')) return 'answer-key';
+    if (cat.includes('syllabus')) return 'syllabus';
+    if (cat.includes('admission')) return 'admission';
+    if (cat.includes('certificate')) return 'certificate';
+    if (cat.includes('outsource') || cat.includes('offline')) return 'outsourcing-offline';
+    if (cat.includes('important')) return 'important';
+    return 'latest-jobs';
+  }
+
+  function matchJobCategory(jobCat, catId) {
+    const c = (jobCat || '').toLowerCase();
+    if (catId === 'latest-jobs') return c.includes('latest');
+    if (catId === 'admit-card') return c.includes('admit');
+    if (catId === 'result') return c.includes('result');
+    if (catId === 'answer-key') return c.includes('key');
+    if (catId === 'syllabus') return c.includes('syllabus');
+    if (catId === 'admission') return c.includes('admission');
+    if (catId === 'certificate') return c.includes('certificate');
+    if (catId === 'outsourcing-offline') return c.includes('outsource') || c.includes('offline');
+    if (catId === 'important') return c.includes('important');
+    return false;
+  }
+
   // ==========================================
   // B. PRE-RENDER INDIVIDUAL JOBS
   // ==========================================
+  let allScrapedJobs = [];
   const jobsPath = path.join(rootDir, 'public', 'scraped-jobs.json');
   if (fs.existsSync(jobsPath)) {
     try {
-      const jobs = JSON.parse(fs.readFileSync(jobsPath, 'utf8'));
-      console.log(`📑 Pre-rendering ${jobs.length} job pages for search engines and WhatsApp cards...`);
+      allScrapedJobs = JSON.parse(fs.readFileSync(jobsPath, 'utf8'));
+      console.log(`📑 Pre-rendering ${allScrapedJobs.length} job pages for search engines and WhatsApp cards...`);
 
-      jobs.forEach((job) => {
+      allScrapedJobs.forEach((job) => {
         if (!job.id || !job.title) return;
+
+        const actionLabel = getCategoryActionLabel(job.category);
+        const catSlug = getCategorySlug(job.category);
 
         const cleanDesc = job.shortDescription 
           ? job.shortDescription.substring(0, 158)
-          : `${job.title}. Check total vacancies (${job.totalVacancy || 'Various'}), eligibility criteria, important dates, and official apply link on Sarkari Aavedan.`;
+          : `${job.title} [${job.category}]. Check total vacancies (${job.totalVacancy || 'Various'}), eligibility criteria, important dates, and official links on Sarkari Aavedan.`;
 
         const jobCanonical = `${BASE_URL}/job/${job.id}`;
 
         const jobSchema = {
           '@context': 'https://schema.org',
           '@type': 'JobPosting',
-          'title': job.title,
+          'title': `${job.title} (${actionLabel})`,
           'description': cleanDesc,
           'datePosted': job.postDate || '2026-01-01',
           'validThrough': job.lastDate ? '2026-12-31' : undefined,
@@ -195,7 +240,7 @@ export function prerender() {
           '@type': 'BreadcrumbList',
           'itemListElement': [
             { '@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': BASE_URL },
-            { '@type': 'ListItem', 'position': 2, 'name': job.category || 'Jobs', 'item': `${BASE_URL}/latest-jobs` },
+            { '@type': 'ListItem', 'position': 2, 'name': job.category || 'Section', 'item': `${BASE_URL}/${catSlug}` },
             { '@type': 'ListItem', 'position': 3, 'name': job.title, 'item': jobCanonical }
           ]
         };
@@ -204,12 +249,15 @@ export function prerender() {
           <main style="max-width: 900px; margin: 2rem auto; padding: 1rem; font-family: sans-serif; line-height: 1.6; color: #1e293b;">
             <nav style="font-size: 0.85rem; margin-bottom: 1rem; color: #64748b;">
               <a href="${BASE_URL}" style="color: #2563eb; text-decoration: none;">Home</a> &raquo;
-              <span>${escapeHtml(job.category || 'Recruitment')}</span> &raquo;
+              <a href="${BASE_URL}/${catSlug}" style="color: #2563eb; text-decoration: none; font-weight: 600;">${escapeHtml(job.category || 'Section')}</a> &raquo;
               <span>${escapeHtml(job.title)}</span>
             </nav>
+            <div style="display: inline-block; margin-bottom: 0.75rem; padding: 0.35rem 0.85rem; border-radius: 999px; background: #e0f2fe; color: #0369a1; font-weight: 800; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.5px;">
+              Section: ${escapeHtml(job.category || 'Recruitment')}
+            </div>
             <h1 style="font-size: 1.8rem; font-weight: 800; margin-bottom: 0.75rem;">${escapeHtml(job.title)}</h1>
             <div style="background: #f1f5f9; padding: 0.75rem 1rem; border-radius: 6px; margin-bottom: 1.5rem; font-size: 0.9rem;">
-              <span><strong>Category:</strong> ${escapeHtml(job.category || 'Latest Job')}</span> |
+              <span><strong>Section:</strong> ${escapeHtml(job.category || 'Latest Job')}</span> |
               <span><strong>Posted Date:</strong> ${escapeHtml(job.postDate || '2026')}</span>
               ${job.totalVacancy ? ` | <span><strong>Total Vacancy:</strong> ${escapeHtml(job.totalVacancy)}</span>` : ''}
               ${job.lastDate ? ` | <span><strong>Last Date:</strong> ${escapeHtml(job.lastDate)}</span>` : ''}
@@ -217,7 +265,7 @@ export function prerender() {
             ${job.shortDescription ? `<p style="font-size: 1rem; margin-bottom: 1.5rem;">${escapeHtml(job.shortDescription)}</p>` : ''}
             <div style="margin-top: 1.5rem; padding: 1rem; background: #e0f2fe; border-radius: 8px;">
               <p style="margin: 0; font-weight: 600; color: #0369a1;">
-                Loading full interactive specification card, application fee tables, and direct authority apply links...
+                Loading full interactive specification card, official links, and guidelines for ${escapeHtml(job.category)}...
               </p>
             </div>
           </main>
@@ -226,7 +274,7 @@ export function prerender() {
         writePrerenderedPage(
           `job/${job.id}`,
           {
-            title: `${job.title} - Sarkari Aavedan (सरकारी आवेदन)`,
+            title: `${job.title} (${actionLabel}) 2026 | Sarkari Aavedan`,
             description: cleanDesc,
             canonical: jobCanonical,
             image: `${BASE_URL}/logos/og_banner.png`
@@ -309,34 +357,84 @@ export function prerender() {
   }
 
   // ==========================================
-  // D. PRE-RENDER DEFAULT CATEGORIES
+  // D. PRE-RENDER DEFAULT CATEGORIES WITH REAL JOBS
   // ==========================================
   const categories = [
-    { id: 'latest-jobs', name: 'Latest Jobs (नवीनतम नौकरियां)' },
-    { id: 'admit-card', name: 'Admit Card (प्रवेश पत्र)' },
-    { id: 'result', name: 'Result (परीक्षा परिणाम)' },
-    { id: 'answer-key', name: 'Answer Key (उत्तर कुंजी)' },
-    { id: 'syllabus', name: 'Syllabus (पाठ्यक्रम)' },
-    { id: 'admission', name: 'Admission (प्रवेश)' },
-    { id: 'certificate', name: 'Certificate Verification' },
-    { id: 'outsourcing-offline', name: 'Outsourcing & Offline Jobs' },
-    { id: 'important', name: 'Important Updates' }
+    { id: 'latest-jobs', name: 'Latest Jobs', hindi: 'नवीनतम नौकरियां', desc: 'Browse all active government recruitment applications, exams, and vacancies for 2026.' },
+    { id: 'admit-card', name: 'Admit Card', hindi: 'प्रवेश पत्र', desc: 'Download official competitive exam admit cards, call letters, and hall tickets online.' },
+    { id: 'result', name: 'Result', hindi: 'परीक्षा परिणाम', desc: 'Check latest Sarkari results, selection merit lists, and scorecards directly.' },
+    { id: 'answer-key', name: 'Answer Key', hindi: 'उत्तर कुंजी', desc: 'Download official solved answer keys, question paper PDFs, and response sheets.' },
+    { id: 'syllabus', name: 'Syllabus', hindi: 'पाठ्यक्रम', desc: 'Download section-wise exam patterns, syllabus PDFs, and marking schemes.' },
+    { id: 'admission', name: 'Admission', hindi: 'प्रवेश', desc: 'Apply online for school, college, polytechnic, and university entrance examinations.' },
+    { id: 'certificate', name: 'Certificate Verification', hindi: 'प्रमाण पत्र सत्यापन', desc: 'Direct verification portals for caste, income, domicile certificates, and scholarship status.' },
+    { id: 'outsourcing-offline', name: 'Outsourcing & Offline Jobs', hindi: 'आउटसोर्सिंग एवं संविदा नौकरी', desc: 'Apply for contractual vacancies, Sewa Yojan jobs, and offline application forms.' },
+    { id: 'important', name: 'Important Updates', hindi: 'महत्वपूर्ण सूचनाएं', desc: 'Essential citizen services, OTR registrations, Aadhaar, Voter ID, and public utility portals.' }
   ];
 
   categories.forEach((cat) => {
+    const matchingJobs = allScrapedJobs.filter(j => matchJobCategory(j.category, cat.id));
+    const topCatJobs = matchingJobs.slice(0, 30);
+
+    const catCanonical = `${BASE_URL}/${cat.id}`;
+
+    const catSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'CollectionPage',
+      'name': `${cat.name} (${cat.hindi}) 2026 | Sarkari Aavedan`,
+      'description': cat.desc,
+      'url': catCanonical
+    };
+
+    const breadcrumbSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'BreadcrumbList',
+      'itemListElement': [
+        { '@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': BASE_URL },
+        { '@type': 'ListItem', 'position': 2, 'name': cat.name, 'item': catCanonical }
+      ]
+    };
+
+    const jobListHtml = topCatJobs.length > 0 ? `
+      <div style="margin-top: 1.5rem;">
+        <h2 style="font-size: 1.3rem; margin-bottom: 0.75rem;">Active ${escapeHtml(cat.name)} Notifications (${matchingJobs.length} Total)</h2>
+        <ul style="padding-left: 1.25rem;">
+          ${topCatJobs.map(j => `
+            <li style="margin-bottom: 0.75rem;">
+              <a href="${BASE_URL}/job/${j.id}" style="color: #2563eb; font-weight: 700; text-decoration: none;">
+                ${escapeHtml(j.title)}
+              </a>
+              ${j.postDate ? ` <span style="font-size: 0.85rem; color: #64748b;">(Posted: ${escapeHtml(j.postDate)})</span>` : ''}
+              ${j.lastDate ? ` — <span style="color: #dc2626; font-size: 0.85rem; font-weight: 600;">Last Date: ${escapeHtml(j.lastDate)}</span>` : ''}
+            </li>
+          `).join('')}
+        </ul>
+      </div>
+    ` : '<p>No active notifications in this section currently.</p>';
+
+    const catBody = `
+      <main style="max-width: 900px; margin: 2rem auto; padding: 1rem; font-family: sans-serif; line-height: 1.6; color: #1e293b;">
+        <nav style="font-size: 0.85rem; margin-bottom: 1rem; color: #64748b;">
+          <a href="${BASE_URL}" style="color: #2563eb; text-decoration: none;">Home</a> &raquo;
+          <span>${escapeHtml(cat.name)}</span>
+        </nav>
+        <h1 style="font-size: 1.9rem; font-weight: 800; margin-bottom: 0.5rem;">
+          ${escapeHtml(cat.name)} (${escapeHtml(cat.hindi)}) 2026
+        </h1>
+        <p style="font-size: 1.05rem; color: #334155; margin-bottom: 1.5rem;">${escapeHtml(cat.desc)}</p>
+        ${jobListHtml}
+      </main>
+    `;
+
     writePrerenderedPage(
       cat.id,
       {
-        title: `${cat.name} 2026 | Sarkari Aavedan (सरकारी आवेदन)`,
-        description: `Browse all active ${cat.name} notifications, official exam schedules, application links, and cutoffs on Sarkari Aavedan.`,
-        canonical: `${BASE_URL}/${cat.id}`,
+        title: `${cat.name} (${cat.hindi}) 2026 | Sarkari Aavedan`,
+        description: `${cat.desc} Verified official links, dates, and guidelines.`,
+        canonical: catCanonical,
         image: `${BASE_URL}/logos/og_banner.png`
       },
-      null,
-      `<main style="max-width: 900px; margin: 2rem auto; padding: 1rem; font-family: sans-serif;">
-        <h1>${escapeHtml(cat.name)} - Sarkari Aavedan 2026</h1>
-        <p>Real-time notifications, official dates, and application portals for ${escapeHtml(cat.name)}.</p>
-      </main>`
+      { '@graph': [catSchema, breadcrumbSchema] },
+      catBody
     );
   });
 

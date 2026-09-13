@@ -17,6 +17,19 @@ function getCategorySlug(categoryName: string): string {
   return categoryName.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
 }
 
+export function getCategoryActionLabel(category: string): string {
+  const cat = (category || '').toLowerCase();
+  if (cat.includes('answer key') || cat.includes('key')) return 'Answer Key';
+  if (cat.includes('result')) return 'Result & Scorecard';
+  if (cat.includes('admit') || cat.includes('card')) return 'Admit Card';
+  if (cat.includes('syllabus')) return 'Syllabus & Exam Pattern';
+  if (cat.includes('admission')) return 'Admission Notice';
+  if (cat.includes('certificate')) return 'Certificate Verification';
+  if (cat.includes('outsourcing') || cat.includes('offline')) return 'Offline Form';
+  if (cat.includes('important')) return 'Important Notice';
+  return 'Apply Online';
+}
+
 /**
  * Utility to dynamically update meta tags, canonical link, and JSON-LD schemas
  * for excellent search engine indexing (E-E-A-T & Google-friendly structure).
@@ -168,8 +181,9 @@ export function updateSEO(
 
   } else if (job) {
     // A. Job Detail View
-    finalTitle = `${job.title} - Apply Online | सरकारी आवेदन`;
-    finalDesc = `${(job.shortInfo || '').substring(0, 155)}...`;
+    const actionLabel = getCategoryActionLabel(job.category);
+    finalTitle = `${job.title} (${actionLabel}) 2026 | Sarkari Aavedan`;
+    finalDesc = `${job.title} [Section: ${job.category}]. ${job.shortInfo ? job.shortInfo.substring(0, 140) : 'Check official updates, dates, and direct links on Sarkari Aavedan.'}`;
     
     // Extract keywords from job title
     const titleKeywords = (job.title || '')
@@ -177,7 +191,7 @@ export function updateSEO(
       .split(/\s+/)
       .filter((w: string) => w.length > 3)
       .join(', ');
-    finalKeywords = `${job.category.toLowerCase()}, ${titleKeywords}, apply online, exam date, result 2026, free job alert, sarkari aavedan`;
+    finalKeywords = `${job.category.toLowerCase()}, ${actionLabel.toLowerCase()}, ${titleKeywords}, sarkari aavedan 2026`;
     canonicalUrl = `https://sarkariavedan.info/job/${job.id}`;
 
     // Inject JobPosting Schema

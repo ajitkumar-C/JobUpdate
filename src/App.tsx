@@ -46,6 +46,30 @@ export const generateJobSlug = (title: string, category: string): string => {
   return `${cleanCategory}-${finalTitle}`;
 };
 
+export const ORDERED_CATEGORIES = [
+  'latest-jobs',
+  'admit-card',
+  'result',
+  'answer-key',
+  'syllabus',
+  'admission',
+  'certificate',
+  'outsourcing-offline',
+  'important'
+];
+
+export const CATEGORY_ICONS: Record<string, string> = {
+  'latest-jobs': '📝',
+  'admit-card': '🛡️',
+  'result': '🏆',
+  'answer-key': '🗝️',
+  'syllabus': '📚',
+  'admission': '🎓',
+  'certificate': '📜',
+  'outsourcing-offline': '💼',
+  'important': '⚠️'
+};
+
 export const App: React.FC = () => {
   // --- States ---
   const [jobs, setJobs] = useState<JobPost[]>([]);
@@ -550,35 +574,29 @@ export const App: React.FC = () => {
             All Sections
           </button>
           
-          {/* Latest Jobs Category */}
-          {categories.filter(c => c.id === 'latest-jobs').map((cat) => (
-            <button
-              key={cat.id}
-              className={`sub-nav-item ${currentView === 'home' && selectedCategoryCode === cat.id ? 'active' : ''}`}
-              onClick={() => { navigateTo('home', cat.id, null, false); window.scrollTo(0, 0); }}
-            >
-              {cat.name}
-            </button>
-          ))}
+          {/* All 9 Recruitment Categories */}
+          {ORDERED_CATEGORIES.map((catId) => {
+            const cat = categories.find(c => c.id === catId);
+            if (!cat) return null;
+            const icon = CATEGORY_ICONS[catId] || '📄';
+            return (
+              <button
+                key={cat.id}
+                className={`sub-nav-item ${currentView === 'home' && selectedCategoryCode === cat.id ? 'active' : ''}`}
+                onClick={() => { navigateTo('home', cat.id, null, false); window.scrollTo(0, 0); }}
+              >
+                <span>{icon} {cat.name}</span>
+              </button>
+            );
+          })}
 
-          {/* State-Wise Jobs — Placed right after Latest Jobs */}
+          {/* State-Wise Jobs */}
           <button
             className={`sub-nav-item sub-nav-state ${currentView === 'state-directory' || currentView === 'state-view' ? 'active' : ''}`}
             onClick={() => { navigateTo('state-directory', null, null, false); window.scrollTo(0, 0); }}
           >
             🌏 State Jobs
           </button>
-
-          {/* Admit Card & Result Categories */}
-          {categories.filter(c => ['admit-card', 'result'].includes(c.id)).map((cat) => (
-            <button
-              key={cat.id}
-              className={`sub-nav-item ${currentView === 'home' && selectedCategoryCode === cat.id ? 'active' : ''}`}
-              onClick={() => { navigateTo('home', cat.id, null, false); window.scrollTo(0, 0); }}
-            >
-              {cat.name}
-            </button>
-          ))}
 
           {/* Blog Section */}
           <button
@@ -628,6 +646,7 @@ export const App: React.FC = () => {
             allJobs={jobs}
             onNavigateToJob={(id) => navigateTo('home', null, id, false)}
             onBack={handleHomeClick}
+            onNavigateToCategory={(catSlug) => navigateTo('home', catSlug, null, false)}
           />
         ) : currentView === 'about' ? (
           <AboutUs />

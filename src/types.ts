@@ -41,6 +41,11 @@ export interface JobPost {
   vacancies: VacancyRow[];
   importantLinks: ImportantLinks;
   status: 'active' | 'expired';
+  salary?: string;
+  selectionProcess?: string[];
+  howToApply?: string[];
+  jobLocation?: string;
+  totalVacanciesCount?: string;
 }
 
 export interface Category {

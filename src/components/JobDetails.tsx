@@ -1,5 +1,9 @@
 import React, { useEffect } from 'react';
-import { ArrowLeft, Printer, Calendar, IndianRupee, User, Info, Link2, ExternalLink } from 'lucide-react';
+import { 
+  ArrowLeft, Printer, Calendar, IndianRupee, User, Info, Link2, 
+  ExternalLink, Briefcase, MapPin, Award, CheckCircle2, 
+  FileText, ShieldCheck, Download, Sparkles
+} from 'lucide-react';
 import type { JobPost } from '../types';
 import { updateSEO } from '../utils/seo';
 import { SOCIAL_LINKS } from '../config/social';
@@ -122,12 +126,16 @@ export const JobDetails: React.FC<JobDetailsProps> = ({
 }) => {
   const catDetails = getCategoryDetails(job.category);
 
+  const isAdmitCard = catDetails.slug === 'admit-card';
+  const isResult = catDetails.slug === 'result';
+  const isAnswerKey = catDetails.slug === 'answer-key';
+  const isRecruitment = catDetails.slug === 'latest-jobs' || catDetails.slug === 'outsourcing-offline';
+
   // Update SEO and Schema when job details component mounts or when job changes
   useEffect(() => {
     updateSEO(job);
     window.scrollTo({ top: 0, behavior: 'smooth' });
     
-    // Clean up SEO when unmounted (resets back to homepage SEO)
     return () => {
       updateSEO(undefined);
     };
@@ -151,18 +159,31 @@ export const JobDetails: React.FC<JobDetailsProps> = ({
 
   const shareOnWhatsApp = () => {
     const jobUrl = window.location.href;
-    const totalPosts = job.vacancies && job.vacancies.length > 0 
-      ? job.vacancies.map(v => v.totalPost).filter(Boolean).join(', ')
-      : '';
-    const vacancyText = totalPosts ? `\n📌 *Total Vacancies:* ${totalPosts}` : '';
-    const lastDateText = job.applicationLastDate ? `\n📅 *Last Date:* ${job.applicationLastDate}` : '';
-    const feeText = job.fees?.generalObc ? `\n💰 *Fee (Gen/OBC):* ${job.fees.generalObc}` : '';
+    const vacancyText = job.totalVacanciesCount ? `\n📌 *Total Vacancies:* ${job.totalVacanciesCount}` : '';
+    const salaryText = job.salary ? `\n💼 *Salary/Pay:* ${job.salary}` : '';
+    const dateText = job.applicationLastDate ? `\n📅 *Last Date:* ${job.applicationLastDate}` : (job.examDate ? `\n📅 *Exam Date:* ${job.examDate}` : '');
+    const feeText = job.fees?.generalObc && !job.fees.generalObc.includes('Exempted') ? `\n💰 *Fee:* ${job.fees.generalObc}` : '';
     
-    const message = `🔥 *Govt Update [${job.category}]: ${job.title}*${vacancyText}${lastDateText}${feeText}\n\n👉 *Full Details:* ${jobUrl}\n\n📲 *Join WhatsApp Channel:* ${SOCIAL_LINKS.whatsapp}`;
+    const message = `🔥 *Govt Update [${job.category}]: ${job.title}*${vacancyText}${salaryText}${dateText}${feeText}\n\n👉 *Full Details & Direct Links:* ${jobUrl}\n\n📲 *Join WhatsApp Channel:* ${SOCIAL_LINKS.whatsapp}`;
     
     const whatsappUrl = `https://api.whatsapp.com/send?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank', 'noopener,noreferrer');
   };
+
+  // Determine total vacancy display
+  const displayVacancies = job.totalVacanciesCount || 
+    (job.vacancies && job.vacancies.length > 0 && job.vacancies[0].totalPost !== 'Refer to Notification'
+      ? `${job.vacancies.reduce((sum, v) => sum + (parseInt(v.totalPost.replace(/[^0-9]/g, '')) || 0), 0) || 'Refer Notification'} Posts`
+      : 'Refer Notification');
+
+  // Primary action link URL
+  const primaryActionUrl = isAdmitCard 
+    ? (job.importantLinks.admitCardUrl || job.importantLinks.applyOnline || job.importantLinks.officialWebsite)
+    : isResult 
+    ? (job.importantLinks.resultUrl || job.importantLinks.officialWebsite)
+    : isAnswerKey
+    ? (job.importantLinks.applyOnline || job.importantLinks.officialWebsite)
+    : (job.importantLinks.applyOnline || job.importantLinks.officialWebsite);
 
   return (
     <article className="detail-card print-card">
@@ -211,7 +232,7 @@ export const JobDetails: React.FC<JobDetailsProps> = ({
         </span>
       </nav>
 
-      {/* Navigation Header */}
+      {/* Back and Share Bar */}
       <div className="detail-back-bar no-print">
         <button className="btn-outline" onClick={onBack}>
           <ArrowLeft size={16} />
@@ -233,7 +254,6 @@ export const JobDetails: React.FC<JobDetailsProps> = ({
 
       {/* Main Title Banner */}
       <header>
-        {/* Prominent Section Badge */}
         <div style={{ marginBottom: '0.75rem' }}>
           <span
             style={{
@@ -258,6 +278,7 @@ export const JobDetails: React.FC<JobDetailsProps> = ({
         </div>
 
         <h1 className="detail-title">{job.title}</h1>
+        
         <div className="detail-meta-grid">
           <div className="detail-meta-item">
             <strong>Section / Category:</strong> 
@@ -272,152 +293,313 @@ export const JobDetails: React.FC<JobDetailsProps> = ({
             </div>
           )}
         </div>
+
         <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem', fontSize: '0.8rem', color: 'var(--text-muted)', marginTop: '0.5rem', borderBottom: '1px solid var(--border)', paddingBottom: '0.75rem' }} className="no-print">
-          <span style={{ fontWeight: 500, color: 'var(--primary)' }}>✍️ Compiled by Sarkari Aavedan Editorial Team</span>
-          <span style={{ fontWeight: 500, color: '#10b981' }}>✓ Verified against Official Government Bulletins</span>
+          <span style={{ fontWeight: 500, color: 'var(--primary)', display: 'inline-flex', alignItems: 'center', gap: '4px' }}>
+            <Sparkles size={14} /> Compiled by Sarkari Aavedan Editorial Team
+          </span>
+          <span style={{ fontWeight: 500, color: '#10b981', display: 'inline-flex', alignItems: 'center', gap: '4px' }}>
+            <ShieldCheck size={14} /> Verified against Official Government Notification
+          </span>
         </div>
       </header>
 
+      {/* ⚡ QUICK OVERVIEW BAR */}
+      <section className="detail-overview-banner">
+        <div className="overview-item">
+          <div className="overview-icon" style={{ background: 'rgba(59, 130, 246, 0.1)', color: '#2563eb' }}>
+            <Briefcase size={20} />
+          </div>
+          <div className="overview-text">
+            <span className="overview-label">Total Openings</span>
+            <strong className="overview-val">{displayVacancies}</strong>
+          </div>
+        </div>
+
+        <div className="overview-item">
+          <div className="overview-icon" style={{ background: 'rgba(16, 185, 129, 0.1)', color: '#059669' }}>
+            <IndianRupee size={20} />
+          </div>
+          <div className="overview-text">
+            <span className="overview-label">Pay Scale / Salary</span>
+            <strong className="overview-val">{job.salary || 'As per Govt Matrix'}</strong>
+          </div>
+        </div>
+
+        <div className="overview-item">
+          <div className="overview-icon" style={{ background: 'rgba(239, 68, 68, 0.1)', color: '#dc2626' }}>
+            <Calendar size={20} />
+          </div>
+          <div className="overview-text">
+            <span className="overview-label">{isAdmitCard || isResult ? 'Exam Date' : 'Last Date to Apply'}</span>
+            <strong className="overview-val" style={{ color: 'var(--danger)' }}>
+              {isAdmitCard || isResult ? (job.examDate || 'To be announced') : (job.applicationLastDate || 'Refer Notice')}
+            </strong>
+          </div>
+        </div>
+
+        <div className="overview-item">
+          <div className="overview-icon" style={{ background: 'rgba(168, 85, 247, 0.1)', color: '#7c3aed' }}>
+            <MapPin size={20} />
+          </div>
+          <div className="overview-text">
+            <span className="overview-label">Job Location</span>
+            <strong className="overview-val">{job.jobLocation || 'All India / State'}</strong>
+          </div>
+        </div>
+      </section>
+
       {/* Short Information Section */}
       <section className="detail-short-info">
-        <h2 style={{ fontSize: '1rem', marginBottom: '0.4rem', color: 'var(--text-primary)' }}>Short Information:</h2>
+        <h2 style={{ fontSize: '1rem', marginBottom: '0.4rem', color: 'var(--text-primary)', display: 'flex', alignItems: 'center', gap: '6px' }}>
+          <Info size={16} /> Short Information:
+        </h2>
         <p>{job.shortInfo}</p>
       </section>
 
-      {/* Key Details Grid */}
-      <div className="details-grid">
-        {/* Important Dates Box */}
-        <section className="detail-subcard">
-          <div className="detail-subcard-header">
-            <Calendar size={18} />
-            <h2>Important Dates</h2>
+      {/* CATEGORY-ADAPTIVE HERO CALLOUT (For Admit Card / Result / Answer Key) */}
+      {(isAdmitCard || isResult || isAnswerKey) && (
+        <section className="admit-result-hero-box" style={{ borderColor: catDetails.color }}>
+          <div className="hero-box-header" style={{ background: catDetails.bg, borderBottom: `1px solid ${catDetails.border}` }}>
+            <span style={{ fontSize: '1.4rem' }}>{catDetails.icon}</span>
+            <div>
+              <h3 style={{ margin: 0, fontSize: '1.15rem', color: catDetails.color }}>
+                {isAdmitCard && 'Exam Admit Card & Hall Ticket Download Portal'}
+                {isResult && 'Official Result & Merit List Scorecard Portal'}
+                {isAnswerKey && 'Official Answer Key & Response Sheet Portal'}
+              </h3>
+              <p style={{ margin: 0, fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
+                Direct server links verified from official conducting authority.
+              </p>
+            </div>
           </div>
-          <div className="detail-subcard-content">
-            <div className="detail-list-row">
-              <span className="detail-list-label">Application Start Date</span>
-              <span className="detail-list-value">{job.applicationStart || 'N/A'}</span>
+
+          <div className="hero-box-body">
+            <div className="hero-dates-strip">
+              <div className="strip-item">
+                <span>Notification / Release:</span>
+                <strong>{job.postDate}</strong>
+              </div>
+              <div className="strip-item">
+                <span>Examination Date:</span>
+                <strong style={{ color: 'var(--primary)' }}>{job.examDate || 'Refer Schedule'}</strong>
+              </div>
+              {job.admitCardDate && isAdmitCard && (
+                <div className="strip-item">
+                  <span>Admit Card Live:</span>
+                  <strong style={{ color: 'var(--success)' }}>{job.admitCardDate}</strong>
+                </div>
+              )}
+              {job.resultDate && isResult && (
+                <div className="strip-item">
+                  <span>Result Live:</span>
+                  <strong style={{ color: 'var(--success)' }}>{job.resultDate}</strong>
+                </div>
+              )}
             </div>
-            <div className="detail-list-row">
-              <span className="detail-list-label">Last Date to Apply</span>
-              <span className="detail-list-value" style={{ color: 'var(--danger)' }}>
-                {job.applicationLastDate || 'N/A'}
-              </span>
+
+            {primaryActionUrl && (
+              <div style={{ textAlign: 'center', margin: '1.25rem 0' }}>
+                <a
+                  href={primaryActionUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="btn-hero-download"
+                  style={{ background: catDetails.color }}
+                >
+                  <Download size={18} />
+                  <span>{catDetails.primaryLabel}</span>
+                  <ExternalLink size={14} />
+                </a>
+                <div style={{ fontSize: '0.8rem', color: 'var(--text-muted)', marginTop: '0.4rem' }}>
+                  Keep your Registration Number and Date of Birth ready to log in.
+                </div>
+              </div>
+            )}
+          </div>
+        </section>
+      )}
+
+      {/* STANDARD DATES & FEES GRID (Rendered for Recruitment / Offline / General jobs) */}
+      {(isRecruitment || (!isAdmitCard && !isResult)) && (
+        <div className="details-grid">
+          {/* Important Dates Box */}
+          <section className="detail-subcard">
+            <div className="detail-subcard-header">
+              <Calendar size={18} />
+              <h2>Important Dates</h2>
             </div>
-            <div className="detail-list-row">
-              <span className="detail-list-label">Last Date to Pay Exam Fee</span>
-              <span className="detail-list-value">{job.feeLastDate || 'N/A'}</span>
-            </div>
-            <div className="detail-list-row">
-              <span className="detail-list-label">Exam Date</span>
-              <span className="detail-list-value">{job.examDate || 'To be notified'}</span>
-            </div>
-            <div className="detail-list-row">
-              <span className="detail-list-label">Admit Card Available</span>
-              <span className="detail-list-value">{job.admitCardDate || 'To be notified'}</span>
-            </div>
-            {job.resultDate && (
+            <div className="detail-subcard-content">
               <div className="detail-list-row">
-                <span className="detail-list-label">Result Declaration</span>
-                <span className="detail-list-value" style={{ color: 'var(--success)' }}>
-                  {job.resultDate}
+                <span className="detail-list-label">Application Start Date</span>
+                <span className="detail-list-value">{job.applicationStart || 'Available soon'}</span>
+              </div>
+              <div className="detail-list-row">
+                <span className="detail-list-label">Last Date to Apply Online</span>
+                <span className="detail-list-value" style={{ color: 'var(--danger)', fontWeight: 700 }}>
+                  {job.applicationLastDate || 'Refer to notification'}
                 </span>
               </div>
-            )}
-          </div>
-        </section>
-
-        {/* Application Fees Box */}
-        <section className="detail-subcard">
-          <div className="detail-subcard-header">
-            <IndianRupee size={18} />
-            <h2>Application Fee</h2>
-          </div>
-          <div className="detail-subcard-content">
-            <div className="detail-list-row">
-              <span className="detail-list-label">General / OBC / EWS</span>
-              <span className="detail-list-value">{job.fees.generalObc || 'Rs. 0/-'}</span>
-            </div>
-            <div className="detail-list-row">
-              <span className="detail-list-label">SC / ST / PH</span>
-              <span className="detail-list-value">{job.fees.scStPh || 'Rs. 0/-'}</span>
-            </div>
-            {job.fees.female && (
               <div className="detail-list-row">
-                <span className="detail-list-label">Female Candidates (All Categories)</span>
-                <span className="detail-list-value">{job.fees.female}</span>
+                <span className="detail-list-label">Last Date to Pay Exam Fee</span>
+                <span className="detail-list-value">{job.feeLastDate || 'Refer to notification'}</span>
               </div>
-            )}
-            {job.fees.paymentMode && (
-              <div style={{ marginTop: '0.5rem', fontSize: '0.8rem', color: 'var(--text-secondary)' }}>
-                <strong>Payment Mode:</strong> {job.fees.paymentMode}
+              <div className="detail-list-row">
+                <span className="detail-list-label">Exam Date</span>
+                <span className="detail-list-value">{job.examDate || 'To be announced'}</span>
               </div>
-            )}
-          </div>
-        </section>
+              <div className="detail-list-row">
+                <span className="detail-list-label">Admit Card Available</span>
+                <span className="detail-list-value">{job.admitCardDate || 'To be announced'}</span>
+              </div>
+              {job.resultDate && (
+                <div className="detail-list-row">
+                  <span className="detail-list-label">Result Declaration</span>
+                  <span className="detail-list-value" style={{ color: 'var(--success)' }}>
+                    {job.resultDate}
+                  </span>
+                </div>
+              )}
+            </div>
+          </section>
 
-        {/* Age Limit Box */}
-        <section className="detail-subcard" style={{ gridColumn: 'span 2' }}>
-          <div className="detail-subcard-header">
-            <User size={18} />
-            <h2>Age Limit (As on specified date)</h2>
-          </div>
-          <div className="detail-subcard-content">
-            <div style={{ display: 'flex', gap: '2rem', flexWrap: 'wrap' }}>
-              {job.ageLimit.min && (
+          {/* Application Fees Box */}
+          <section className="detail-subcard">
+            <div className="detail-subcard-header">
+              <IndianRupee size={18} />
+              <h2>Application Fee</h2>
+            </div>
+            <div className="detail-subcard-content">
+              <div className="detail-list-row">
+                <span className="detail-list-label">General / OBC / EWS</span>
+                <span className="detail-list-value">{job.fees.generalObc || 'Refer to notification'}</span>
+              </div>
+              <div className="detail-list-row">
+                <span className="detail-list-label">SC / ST / PwD / PH</span>
+                <span className="detail-list-value">{job.fees.scStPh || 'Refer to notification'}</span>
+              </div>
+              {job.fees.female && (
+                <div className="detail-list-row">
+                  <span className="detail-list-label">Female Candidates (All Categories)</span>
+                  <span className="detail-list-value">{job.fees.female}</span>
+                </div>
+              )}
+              {job.fees.paymentMode && (
+                <div style={{ marginTop: '0.5rem', fontSize: '0.8rem', color: 'var(--text-secondary)' }}>
+                  <strong>Payment Mode:</strong> {job.fees.paymentMode}
+                </div>
+              )}
+            </div>
+          </section>
+
+          {/* Age Limit Box */}
+          <section className="detail-subcard" style={{ gridColumn: 'span 2' }}>
+            <div className="detail-subcard-header">
+              <User size={18} />
+              <h2>Age Limit & Relaxation Criteria</h2>
+            </div>
+            <div className="detail-subcard-content">
+              <div style={{ display: 'flex', gap: '2.5rem', flexWrap: 'wrap' }}>
                 <div>
                   <span className="detail-list-label">Minimum Age:</span>{' '}
-                  <strong className="detail-list-value">{job.ageLimit.min}</strong>
+                  <strong className="detail-list-value" style={{ color: 'var(--primary)' }}>
+                    {job.ageLimit.min || '18 Years (Standard)'}
+                  </strong>
                 </div>
-              )}
-              {job.ageLimit.max && (
                 <div>
                   <span className="detail-list-label">Maximum Age:</span>{' '}
-                  <strong className="detail-list-value">{job.ageLimit.max}</strong>
+                  <strong className="detail-list-value" style={{ color: 'var(--primary)' }}>
+                    {job.ageLimit.max || 'As per notification rules'}
+                  </strong>
+                </div>
+              </div>
+              {job.ageLimit.relaxationText && (
+                <div className="detail-age-relaxation">
+                  <strong>Age Relaxation:</strong> {job.ageLimit.relaxationText}
                 </div>
               )}
             </div>
-            {job.ageLimit.relaxationText && (
-              <div className="detail-age-relaxation">
-                <strong>Age Relaxation:</strong> {job.ageLimit.relaxationText}
-              </div>
-            )}
-          </div>
-        </section>
-      </div>
+          </section>
+        </div>
+      )}
 
       {/* Vacancy Details Table */}
-      <section className="vacancy-table-container">
-        <div className="section-title">
-          <Info size={20} />
-          <h2>Vacancy Details & Eligibility Criteria</h2>
-        </div>
-        <div className="table-responsive">
-          <table className="portal-table">
-            <thead>
-              <tr>
-                <th>Post Name / Department</th>
-                <th>Total Vacancies</th>
-                <th>Eligibility Details</th>
-              </tr>
-            </thead>
-            <tbody>
-              {job.vacancies.map((vacancy, idx) => (
-                <tr key={idx}>
-                  <td style={{ fontWeight: 600 }}>{vacancy.postName}</td>
-                  <td style={{ fontWeight: 700, color: 'var(--primary)' }}>{vacancy.totalPost}</td>
-                  <td>{vacancy.eligibility}</td>
+      {job.vacancies && job.vacancies.length > 0 && (
+        <section className="vacancy-table-container">
+          <div className="section-title">
+            <Info size={20} />
+            <h2>Vacancy Details & Eligibility Criteria</h2>
+          </div>
+          <div className="table-responsive">
+            <table className="portal-table">
+              <thead>
+                <tr>
+                  <th style={{ minWidth: '180px' }}>Post Name / Department</th>
+                  <th style={{ minWidth: '100px' }}>Total Posts</th>
+                  <th style={{ minWidth: '220px' }}>Eligibility & Educational Qualification</th>
                 </tr>
+              </thead>
+              <tbody>
+                {job.vacancies.map((vacancy, idx) => (
+                  <tr key={idx}>
+                    <td style={{ fontWeight: 600 }}>{vacancy.postName}</td>
+                    <td style={{ fontWeight: 700, color: 'var(--primary)' }}>{vacancy.totalPost}</td>
+                    <td>{vacancy.eligibility}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </section>
+      )}
+
+      {/* 🎯 SELECTION PROCESS */}
+      {job.selectionProcess && job.selectionProcess.length > 0 && (
+        <section className="selection-process-container">
+          <div className="section-title">
+            <Award size={20} />
+            <h2>Selection Process & Examination Scheme</h2>
+          </div>
+          <div className="selection-steps-wrapper">
+            {job.selectionProcess.map((step, idx) => (
+              <div key={idx} className="selection-step-card">
+                <div className="step-number-badge">Step {idx + 1}</div>
+                <div className="step-name">{step}</div>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* 📝 HOW TO APPLY / HOW TO DOWNLOAD CHECKLIST */}
+      {job.howToApply && job.howToApply.length > 0 && (
+        <section className="how-to-apply-container">
+          <div className="section-title">
+            <FileText size={20} />
+            <h2>
+              {isAdmitCard && 'How to Download Admit Card (Step-by-Step)'}
+              {isResult && 'How to Check Result & Scorecard (Step-by-Step)'}
+              {!isAdmitCard && !isResult && 'How to Fill Online Application Form (Candidate Checklist)'}
+            </h2>
+          </div>
+          <div className="checklist-card">
+            <ul className="checklist-items">
+              {job.howToApply.map((item, idx) => (
+                <li key={idx} className="checklist-item">
+                  <CheckCircle2 size={18} className="check-icon" />
+                  <span>{item}</span>
+                </li>
               ))}
-            </tbody>
-          </table>
-        </div>
-      </section>
+            </ul>
+          </div>
+        </section>
+      )}
 
       {/* Actionable Links Table */}
       <section className="links-subcard no-print">
         <div className="links-subcard-header">
           <Link2 size={18} />
-          <h2>Important Links for Candidates</h2>
+          <h2>Important Links & Direct Portals</h2>
         </div>
         <div className="links-subcard-body">
           {/* Primary Section Action link */}
@@ -447,7 +629,7 @@ export const JobDetails: React.FC<JobDetailsProps> = ({
                 className="btn-link-action"
                 style={{ backgroundColor: 'var(--accent-orange)' }}
               >
-                <span>Download</span>
+                <span>Download PDF</span>
                 <ExternalLink size={12} />
               </a>
             </div>
@@ -479,7 +661,7 @@ export const JobDetails: React.FC<JobDetailsProps> = ({
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-link-action"
-                style={{ backgroundColor: 'var(--warning)', color: '#000 !important' }}
+                style={{ backgroundColor: '#2563eb', color: '#fff !important' }}
               >
                 <span>Download Admit Card</span>
                 <ExternalLink size={12} />
@@ -514,13 +696,13 @@ export const JobDetails: React.FC<JobDetailsProps> = ({
               className="btn-link-action"
               style={{ backgroundColor: 'var(--text-secondary)' }}
             >
-              <span>Visit Website</span>
+              <span>Visit Official Portal</span>
               <ExternalLink size={12} />
             </a>
           </div>
 
           {/* Social Connect Links */}
-          <div className="link-row" style={{ backgroundColor: '#f0f4f8', borderLeft: '4px solid #10b981' }}>
+          <div className="link-row" style={{ backgroundColor: 'var(--bg-secondary)', borderLeft: '4px solid #10b981' }}>
             <span className="link-row-label" style={{ fontWeight: 700, color: '#0f766e', display: 'flex', alignItems: 'center', gap: '8px' }}>
               📢 Join Official Sarkari Channels
             </span>

@@ -46,6 +46,6 @@ jobs:
             echo "No new jobs or sitemap changes found. Skipping commit."
           else
             echo "New updates detected. Committing and pushing to main..."
-            git commit -m "chore: auto-update scraped jobs and sitemap [skip ci]"
+            git commit -m "chore: auto-update scraped jobs and sitemap "
             git push origin main
           fi

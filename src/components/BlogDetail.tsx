@@ -33,6 +33,24 @@ const renderMarkdown = (text: string) => {
   let keyCounter = 0;
 
   const parseInlineMarkdown = (line: string, isTableCell = false): React.ReactNode => {
+    // 0. Visual Weightage Bar Match: [BAR:75%:Label] or [BAR:50%]
+    const barMatch = /^\[BAR:(\d{1,3}%)(?::(.*?))?\]$/.exec(line.trim());
+    if (barMatch) {
+      const pct = barMatch[1];
+      const label = barMatch[2] || '';
+      return (
+        <div className="blog-visual-bar-container">
+          <div className="blog-visual-bar-header">
+            {label && <span className="blog-visual-bar-label">{label}</span>}
+            <span className="blog-visual-bar-pct">{pct}</span>
+          </div>
+          <div className="blog-visual-bar-track">
+            <div className="blog-visual-bar-fill" style={{ width: pct }} />
+          </div>
+        </div>
+      );
+    }
+
     // If it's a table cell and is purely a link: [Text](URL)
     const pureLinkMatch = /^\[(.*?)\]\((.*?)\)$/.exec(line.trim());
     if (pureLinkMatch && isTableCell) {
@@ -40,7 +58,11 @@ const renderMarkdown = (text: string) => {
       const url = pureLinkMatch[2];
       let btnClass = 'blog-table-btn';
       const cleanText = text.toLowerCase();
-      if (cleanText.includes('official website') || cleanText.includes('official site')) {
+      if (cleanText.includes('free') || cleanText.includes('download') || cleanText.includes('pdf') || cleanText.includes('paper')) {
+        btnClass += ' btn-green';
+      } else if (cleanText.includes('mock') || cleanText.includes('test') || cleanText.includes('practice')) {
+        btnClass += ' btn-purple';
+      } else if (cleanText.includes('official website') || cleanText.includes('official site')) {
         btnClass += ' btn-blue';
       } else if (cleanText.includes('notification')) {
         btnClass += ' btn-orange';
@@ -81,15 +103,17 @@ const renderMarkdown = (text: string) => {
           if (part.startsWith('[') && part.includes('](')) {
             const linkMatch = /^\[(.*?)\]\((.*?)\)$/.exec(part);
             if (linkMatch) {
+              const text = linkMatch[1];
+              const isDownloadOrFree = /free|pdf|download|mock/i.test(text);
               return (
                 <a 
                   key={index} 
                   href={linkMatch[2]} 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className={isTableCell ? 'blog-table-btn btn-default' : 'blog-inline-link'}
+                  className={isTableCell ? 'blog-table-btn btn-default' : (isDownloadOrFree ? 'blog-free-resource-btn' : 'blog-inline-link')}
                 >
-                  {linkMatch[1]}
+                  {text}
                 </a>
               );
             }
@@ -161,7 +185,61 @@ const renderMarkdown = (text: string) => {
       continue;
     }
 
-    // 3. Headers
+    // 3. Callout Alert Boxes (> [!TIP], > [!IMPORTANT], > [!RESOURCE], > [!WARNING], > [!NOTE])
+    if (line.startsWith('> ')) {
+      flushList();
+      const quoteText = line.substring(2).trim();
+      let alertType = 'note';
+      let content = quoteText;
+
+      if (quoteText.startsWith('[!TIP]')) {
+        alertType = 'tip';
+        content = quoteText.replace('[!TIP]', '').trim();
+      } else if (quoteText.startsWith('[!IMPORTANT]')) {
+        alertType = 'important';
+        content = quoteText.replace('[!IMPORTANT]', '').trim();
+      } else if (quoteText.startsWith('[!WARNING]')) {
+        alertType = 'warning';
+        content = quoteText.replace('[!WARNING]', '').trim();
+      } else if (quoteText.startsWith('[!RESOURCE]')) {
+        alertType = 'resource';
+        content = quoteText.replace('[!RESOURCE]', '').trim();
+      } else if (quoteText.startsWith('[!NOTE]')) {
+        alertType = 'note';
+        content = quoteText.replace('[!NOTE]', '').trim();
+      }
+
+      elements.push(
+        <div key={`alert-${keyCounter++}`} className={`blog-alert-box blog-alert-${alertType}`}>
+          <div className="blog-alert-header">
+            {alertType === 'tip' && '💡 PRO STRATEGY TIP'}
+            {alertType === 'important' && '⚡ CRITICAL SELECTION INSIGHT'}
+            {alertType === 'warning' && '⚠️ IMPORTANT CAUTION'}
+            {alertType === 'resource' && '🎁 FREE PREPARATION PORTAL & MATERIALS'}
+            {alertType === 'note' && '📌 EXAM NOTE'}
+          </div>
+          <div className="blog-alert-body">{parseInlineMarkdown(content)}</div>
+        </div>
+      );
+      continue;
+    }
+
+    // 4. Numbered Steps (e.g. 1. Step Description)
+    const stepMatch = /^(\d+)\.\s+(.*)/.exec(line);
+    if (stepMatch) {
+      flushList();
+      const stepNum = stepMatch[1];
+      const stepContent = stepMatch[2];
+      elements.push(
+        <div key={`step-${keyCounter++}`} className="blog-step-row">
+          <div className="blog-step-badge">Stage {stepNum}</div>
+          <div className="blog-step-content">{parseInlineMarkdown(stepContent)}</div>
+        </div>
+      );
+      continue;
+    }
+
+    // 5. Headers
     if (line.startsWith('## ')) {
       flushList();
       elements.push(<h2 key={`h2-${keyCounter++}`} className="blog-content-h2">{parseInlineMarkdown(line.substring(3))}</h2>);
@@ -178,7 +256,7 @@ const renderMarkdown = (text: string) => {
       continue;
     }
 
-    // 4. Bullet lists
+    // 6. Bullet lists
     if (line.startsWith('- ') || line.startsWith('* ')) {
       inList = true;
       listItems.push(<li key={`li-${keyCounter++}`}>{parseInlineMarkdown(line.substring(2))}</li>);
@@ -191,7 +269,7 @@ const renderMarkdown = (text: string) => {
       continue;
     }
 
-    // 5. Paragraphs fallback
+    // 7. Paragraphs fallback
     if (!inList && !inTable) {
       elements.push(<p key={`p-${keyCounter++}`} className="blog-content-p">{parseInlineMarkdown(line)}</p>);
     }

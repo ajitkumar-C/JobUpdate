@@ -1,5 +1,468 @@
 [
   {
+    "id": "punjab-mrsptu-assistant-professor",
+    "title": "MRSPTU Recruitment 2026 – Assistant Professor Posts",
+    "shortInfo": "MRSPTU has announced notification for Assistant Professor posts. Required qualification: M.Phil/Ph.D, M.E/M.Tech. Last date to apply: 15-09-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "15-09-26",
+    "officialWebsite": "https://mrsptu.ac.in/uploads2026/jobs/Walk_in_Interview_SASE_08092026.pdf",
+    "notificationLink": "https://mrsptu.ac.in/uploads2026/jobs/Walk_in_Interview_SASE_08092026.pdf",
+    "applyOnlineLink": "https://mrsptu.ac.in/uploads2026/jobs/Walk_in_Interview_SASE_08092026.pdf",
+    "state": "Punjab",
+    "stateCode": "punjab",
+    "scrapedAt": "2026-09-14"
+  },
+  {
+    "id": "punjab-pau-junior-research-fellow",
+    "title": "PAU Recruitment 2026 – Junior Research Fellow Posts",
+    "shortInfo": "PAU has announced notification for Junior Research Fellow posts. Required qualification: B.Tech/B.E, B.Sc, M.Phil/Ph.D, M.Sc, M.E/M.Tech. Last date to apply: 22-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "22-09-26",
+    "officialWebsite": "https://pau.edu/index.php?_act=manageVacancy&#038;DO=viewVacancyDetail&#038;intID=7566",
+    "notificationLink": "https://pau.edu/index.php?_act=manageVacancy&#038;DO=viewVacancyDetail&#038;intID=7566",
+    "applyOnlineLink": "https://pau.edu/index.php?_act=manageVacancy&#038;DO=viewVacancyDetail&#038;intID=7566",
+    "state": "Punjab",
+    "stateCode": "punjab",
+    "scrapedAt": "2026-09-14"
+  },
+  {
+    "id": "punjab-psssb-junior-engineer-je-civil-mechanical-electrical-re-",
+    "title": "PSSSB Recruitment 2026 – Junior Engineer (JE) (Civil/Mechanical/Electrical) (Re Open) Posts",
+    "shortInfo": "PSSSB has announced notification for Junior Engineer (JE) (Civil/Mechanical/Electrical) (Re Open) posts. Required qualification: Diploma (Engg). Last date to apply: 15-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "Various",
+    "lastDate": "15-09-26",
+    "officialWebsite": "https://sssb.punjab.gov.in/",
+    "notificationLink": "https://sssb.punjab.gov.in/wp-content/uploads/2026/03/Detailed-Advertisement-No-7-of-2026-JE.pdf",
+    "applyOnlineLink": "https://eservices.punjab.gov.in/loginWindow.do",
+    "state": "Punjab",
+    "stateCode": "punjab",
+    "scrapedAt": "2026-09-14",
+    "fees": [
+      {
+        "category": "Ex-Servicemen, EWS, PwD and LDESM of Punjab State Only",
+        "fee": "₹500/-"
+      },
+      {
+        "category": "For SC/ST of Punjab State Only",
+        "fee": "₹750/-"
+      },
+      {
+        "category": "For All Other Categories",
+        "fee": "₹1500/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Starting Date for Apply Online",
+        "date": "13/03/2026"
+      },
+      {
+        "event": "Closing Date for Apply Online",
+        "date": "06/04/2026"
+      },
+      {
+        "event": "Re open online dates",
+        "date": ""
+      },
+      {
+        "event": "Starting Date for Apply Online",
+        "date": "01/09/2026"
+      },
+      {
+        "event": "Closing Date for Apply Online",
+        "date": "09/09/2026"
+      },
+      {
+        "event": "Re open online dates",
+        "date": ""
+      },
+      {
+        "event": "Starting Date for Apply Online",
+        "date": "11/09/2026"
+      },
+      {
+        "event": "Starting Date for Apply Online",
+        "date": "15/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Junior Engineer (JE) (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (JE) (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (JE) (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": []
+  },
+  {
+    "id": "punjab-punjabi university-lecturer",
+    "title": "Punjabi University Recruitment 2026 – Lecturer Posts",
+    "shortInfo": "Punjabi University has announced notification for Lecturer posts. Required qualification: Any Masters Degree. Last date to apply: 17-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "17-09-26",
+    "officialWebsite": "https://www.punjabiuniversity.ac.in/Pages/SF/TQR/P9C3AD95B.pdf",
+    "notificationLink": "https://www.punjabiuniversity.ac.in/Pages/SF/TQR/P9C3AD95B.pdf",
+    "applyOnlineLink": "https://www.punjabiuniversity.ac.in/Pages/SF/TQR/P9C3AD95B.pdf",
+    "state": "Punjab",
+    "stateCode": "punjab",
+    "scrapedAt": "2026-09-14"
+  },
+  {
+    "id": "punjab-iim amritsar-research-assistant",
+    "title": "IIM Amritsar Recruitment 2026 – Research Assistant Posts",
+    "shortInfo": "IIM Amritsar has announced notification for Research Assistant posts. Required qualification: Any Graduate. Last date to apply: 23-09-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "23-09-26",
+    "officialWebsite": "https://iimamritsar.ac.in/storage/files/1788960262-0-7771.pdf",
+    "notificationLink": "https://iimamritsar.ac.in/storage/files/1788960262-0-7771.pdf",
+    "applyOnlineLink": "https://iimamritsar.ac.in/storage/files/1788960262-0-7771.pdf",
+    "state": "Punjab",
+    "stateCode": "punjab",
+    "scrapedAt": "2026-09-14"
+  },
+  {
+    "id": "punjab-cupb-part-time-faculty-music-vocal-law-physics-mathemat",
+    "title": "CUPB Recruitment 2026 – Part-Time Faculty (Music Vocal, Law, Physics, Mathematics, Chemistry, Zoology, Botany, Economics), Contractual Faculty (Computer Science &amp; Technology) (Walk-in) Posts",
+    "shortInfo": "CUPB has announced notification for Part-Time Faculty (Music Vocal, Law, Physics, Mathematics, Chemistry, Zoology, Botany, Economics), Contractual Faculty (Computer Science &amp; Technology) (Walk-in) posts. Required qualification: Post-Graduate degree in relevant subject, B.Ed., NET/SLET or Ph.D.. Last date to apply: 11.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "9",
+    "lastDate": "11",
+    "officialWebsite": "https://www.cup.edu.in",
+    "notificationLink": "https://cup.edu.in/sites/default/files/Contractual%20Faculty_09_2026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/cupb-teaching-recruitment-2026/",
+    "state": "Punjab",
+    "stateCode": "punjab",
+    "scrapedAt": "2026-09-14",
+    "fees": [
+      {
+        "category": "General/OBC/EWS (Other than SC/ST/PWD/Women)",
+        "fee": "Rs. 100/-"
+      },
+      {
+        "category": "SC/ST/PWD/Women",
+        "fee": "Nil"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "02/09/2026"
+      },
+      {
+        "event": "Last Date to Apply (Posts 1,2,3,4,8 & Contractual)",
+        "date": "09/09/2026"
+      },
+      {
+        "event": "Last Date to Apply (Posts 5,6,7)",
+        "date": "10/09/2026"
+      },
+      {
+        "event": "Walk-in Interview Date (Posts 1,2,3,4,8)",
+        "date": "09/09/2026"
+      },
+      {
+        "event": "Walk-in Interview Date (Posts 5,6,7)",
+        "date": "10/09/2026"
+      },
+      {
+        "event": "Walk-in Interview Date (Contractual Faculty)",
+        "date": "11/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Part-Time Faculty - Music (Vocal)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Part-Time Faculty - Law",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Part-Time Faculty (Physics) - For teaching B.Sc.-B.Ed.",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Part-Time Faculty (Mathematics) - For teaching B.Sc.-B.Ed.",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Part-Time Faculty (Chemistry) - For teaching B.Sc.-B.Ed.",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Part-Time Faculty (Zoology) - For teaching B.Sc.-B.Ed.",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Part-Time Faculty (Botany) - For teaching B.Sc.-B.Ed.",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Part-Time Faculty (Economics) - For teaching B.A.-B.Ed.",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Contractual Faculty - For teaching B.Tech. (Computer Science & Technology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official recruitment portal: https://cuprec.samarth.edu.in/",
+      "Click on the appropriate link and select the relevant post and department.",
+      "Fill in the online application form with accurate details.",
+      "Pay the application fee of Rs. 100/- (for candidates other than SC/ST/PWD/Women) online while filling the form.",
+      "Submit the application before the last date mentioned for the respective post.",
+      "Download and print the filled application form for use at the time of interview.",
+      "Bring all required original documents and self-attested photocopies to the interview venue.",
+      "Prepare a 10-minute PPT presentation in English/Hindi on your selected knowledge domain."
+    ]
+  },
+  {
+    "id": "punjab-cupb-senior-analyst-laboratory-assistant-laboratory-att",
+    "title": "CUPB Recruitment 2026 – Senior Analyst, Laboratory Assistant, Laboratory Attendant (Walk-in) Posts",
+    "shortInfo": "CUPB has announced notification for Senior Analyst, Laboratory Assistant, Laboratory Attendant (Walk-in) posts. Required qualification: 10th/12th/Bachelor's/PG degree. Last date to apply: 11.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "6",
+    "lastDate": "11",
+    "officialWebsite": "https://www.cup.edu.in",
+    "notificationLink": "https://cup.edu.in/sites/default/files/Contract%20NT_09_2026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/cupb-non-teaching-recruitment-2026-walk-in-for-laboratory-assistant-other-posts/",
+    "state": "Punjab",
+    "stateCode": "punjab",
+    "scrapedAt": "2026-09-14",
+    "fees": [
+      {
+        "category": "General/OBC/EWS",
+        "fee": "Rs. 100/-"
+      },
+      {
+        "category": "SC/ST/PWD/Women",
+        "fee": "Nil (Exempted)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "02/09/2026"
+      },
+      {
+        "event": "Last Date to Apply (Post 1 - Senior Analyst)",
+        "date": "11/09/2026"
+      },
+      {
+        "event": "Interview Date (Post 1 - Senior Analyst)",
+        "date": "11/09/2026"
+      },
+      {
+        "event": "Last Date to Apply (Posts 2, 3, 4 - Lab Assistant/Attendant)",
+        "date": "14/09/2026"
+      },
+      {
+        "event": "Interview Date (Posts 2, 3, 4)",
+        "date": "14/09/2026"
+      },
+      {
+        "event": "Last Date to Apply (Posts 5, 6 - CS&T)",
+        "date": "15/09/2026"
+      },
+      {
+        "event": "Interview Date (Posts 5, 6 - CS&T)",
+        "date": "15/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Senior Analyst (Food Testing Laboratory under Central Instrumental Laboratory)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Laboratory Assistant (Department of Biotechnology and Bioinformatics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Laboratory Assistant (Department of Community Medicine & Health)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Laboratory Attendant (Department of Pharmaceutical Sciences and Natural Products - Self-financed)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Laboratory Assistant (Department of Computer Science & Technology - Self-financed)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Laboratory Attendant (Department of Computer Science & Technology - Self-financed)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official recruitment portal: https://cupnt.samarth.edu.in/",
+      "Fill in the online application form for the desired post.",
+      "Pay the application fee of Rs. 100/- (for candidates other than SC/ST/PWD/Women) while filling the online form on or before the last date.",
+      "Submit a separate application (with separate fee) for each post applied for.",
+      "Download and print the online application form after submission.",
+      "Attend the Walk-in-Interview on the scheduled date and time at Central University of Punjab, Badal-Bathinda road, V.P.O.-Ghudda, District-Bathinda.",
+      "Bring the printed application form along with all required original documents and one set of self-attested photocopies."
+    ]
+  },
+  {
+    "id": "punjab-dasmesh girls college-principal",
+    "title": "Dasmesh Girls College Recruitment 2026 – Principal Posts",
+    "shortInfo": "Dasmesh Girls College has announced notification for Principal posts. Required qualification: Other. Last date to apply: 06-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "-",
+    "lastDate": "06-10-26",
+    "officialWebsite": "https://facultyjobs.puchd.ac.in/advertisement",
+    "notificationLink": "https://facultyjobs.puchd.ac.in/advertisement",
+    "applyOnlineLink": "https://facultyjobs.puchd.ac.in/advertisement",
+    "state": "Punjab",
+    "stateCode": "punjab",
+    "scrapedAt": "2026-09-14"
+  },
+  {
+    "id": "punjab-gndu-junior-technician",
+    "title": "GNDU Recruitment 2026 – Junior Technician Posts",
+    "shortInfo": "GNDU has announced notification for Junior Technician posts. Required qualification: B.Sc, Diploma, 10TH. Last date to apply: 31-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "31-12-26",
+    "officialWebsite": "https://digital.gndu.ac.in/pdf/news/Advt._No._12_(2026)_20260820151330443.pdf",
+    "notificationLink": "https://digital.gndu.ac.in/pdf/news/Advt._No._12_(2026)_20260820151330443.pdf",
+    "applyOnlineLink": "https://digital.gndu.ac.in/pdf/news/Advt._No._12_(2026)_20260820151330443.pdf",
+    "state": "Punjab",
+    "stateCode": "punjab",
+    "scrapedAt": "2026-09-14"
+  },
+  {
+    "id": "punjab-nisst-technical-manager-technical-assistant-assistant",
+    "title": "NISST Recruitment 2026 – Technical Manager, Technical Assistant, Assistant Posts",
+    "shortInfo": "NISST has announced notification for Technical Manager, Technical Assistant, Assistant posts. Required qualification: B.Sc, Any Graduate, Diploma, B.Tech/B.E. Last date to apply: 28-09-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "4",
+    "lastDate": "28-09-26",
+    "officialWebsite": "https://nisst.org/wp-content/uploads/2026/09/Advertisement-modified-2026-for-4-posts.pdf",
+    "notificationLink": "https://nisst.org/wp-content/uploads/2026/09/Advertisement-modified-2026-for-4-posts.pdf",
+    "applyOnlineLink": "https://nisst.org/wp-content/uploads/2026/09/Advertisement-modified-2026-for-4-posts.pdf",
+    "state": "Punjab",
+    "stateCode": "punjab",
+    "scrapedAt": "2026-09-14"
+  },
+  {
+    "id": "punjab-iit ropar-senior-research-fellow-junior-research-fellow",
+    "title": "IIT Ropar Recruitment 2026 – Senior Research Fellow, Junior Research Fellow Posts",
+    "shortInfo": "IIT Ropar has announced notification for Senior Research Fellow, Junior Research Fellow posts. Required qualification: M.E/M.Tech. Last date to apply: 18-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "7",
+    "lastDate": "18-09-26",
+    "officialWebsite": "https://www.iitrpr.ac.in/api/v2/files/download/202",
+    "notificationLink": "https://www.iitrpr.ac.in/api/v2/files/download/202",
+    "applyOnlineLink": "https://www.iitrpr.ac.in/api/v2/files/download/202",
+    "state": "Punjab",
+    "stateCode": "punjab",
+    "scrapedAt": "2026-09-14"
+  },
+  {
     "id": "punjab-pau-junior-field-lab-helper",
     "title": "PAU Recruitment 2026 – Junior Field/Lab Helper Posts",
     "shortInfo": "PAU has announced notification for Junior Field/Lab Helper posts. Required qualification: 8TH. Last date to apply: 11-09-26.",
@@ -14,7 +477,7 @@
     "applyOnlineLink": "https://pau.edu/index.php?_act=manageVacancy&#038;DO=viewVacancyDetail&#038;intID=7556",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "punjab-punjab remote sensing centre-jrf-junior-software-engineer-mobile-application-de",
@@ -31,7 +494,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/punjab-remote-sensing-centre-recruitment-2026/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-06",
+    "scrapedAt": "2026-09-14",
     "fees": [
       {
         "category": "Junior Research Fellow",
@@ -141,83 +604,6 @@
     ]
   },
   {
-    "id": "punjab-psssb-junior-engineer-je-civil-mechanical-electrical-re-",
-    "title": "PSSSB Recruitment 2026 – Junior Engineer (JE) (Civil/Mechanical/Electrical) (Re open) Posts",
-    "shortInfo": "PSSSB has announced notification for Junior Engineer (JE) (Civil/Mechanical/Electrical) (Re open) posts. Required qualification: Diploma (Engg). Last date to apply: 09-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "Various",
-    "lastDate": "09-09-26",
-    "officialWebsite": "https://sssb.punjab.gov.in/",
-    "notificationLink": "https://sssb.punjab.gov.in/wp-content/uploads/2026/03/Detailed-Advertisement-No-7-of-2026-JE.pdf",
-    "applyOnlineLink": "https://eservices.punjab.gov.in/loginWindow.do",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-09-06",
-    "fees": [
-      {
-        "category": "Ex-Servicemen, EWS, PwD and LDESM of Punjab State Only",
-        "fee": "₹500/-"
-      },
-      {
-        "category": "For SC/ST of Punjab State Only",
-        "fee": "₹750/-"
-      },
-      {
-        "category": "For All Other Categories",
-        "fee": "₹1500/-"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Starting Date for Apply Online",
-        "date": "13/03/2026"
-      },
-      {
-        "event": "Closing Date for Apply Online",
-        "date": "06/04/2026"
-      },
-      {
-        "event": "Re open online dates",
-        "date": ""
-      },
-      {
-        "event": "Starting Date for Apply Online",
-        "date": "01/09/2026"
-      },
-      {
-        "event": "Closing Date for Apply Online",
-        "date": "09/09/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Junior Engineer (JE) (Civil)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Engineer (JE) (Mechanical)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Engineer (JE) (Electrical)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": []
-  },
-  {
     "id": "punjab-punjab remote sensing centre-lab-attendant-clerk",
     "title": "Punjab Remote Sensing Centre Recruitment 2026 – Lab Attendant, Clerk Posts",
     "shortInfo": "Punjab Remote Sensing Centre has announced notification for Lab Attendant, Clerk posts. Required qualification: BCA, 10TH, Diploma, B.Sc, Any Graduate. Last date to apply: 05-10-26.",
@@ -232,7 +618,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/prsc-recruitment-2026/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-06",
+    "scrapedAt": "2026-09-14",
     "fees": [
       {
         "category": "General",
@@ -316,7 +702,7 @@
     "applyOnlineLink": "https://punjabandsind.bank.in/system/uploads/recruitment/7932_2026083121042842330.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "punjab-family court kapurthala-counsellor",
@@ -333,7 +719,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec01512fc3c5227f637e41437c999a2d/uploads/2026/08/2026083116.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "punjab-iim amritsar-research-associate",
@@ -350,24 +736,7 @@
     "applyOnlineLink": "https://iimamritsar.ac.in/storage/files/1787920909-0-6759.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-06"
-  },
-  {
-    "id": "punjab-dlsa ferozepur-para-legal-volunteer",
-    "title": "DLSA Ferozepur Recruitment 2026 – Para Legal Volunteer Posts",
-    "shortInfo": "DLSA Ferozepur has announced notification for Para Legal Volunteer posts. Required qualification: 10TH. Last date to apply: 05-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "-",
-    "lastDate": "05-09-26",
-    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3ec03b58ac8403eb9cf17fae1dcd16df7/uploads/2026/08/2026082892.pdf",
-    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec03b58ac8403eb9cf17fae1dcd16df7/uploads/2026/08/2026082892.pdf",
-    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec03b58ac8403eb9cf17fae1dcd16df7/uploads/2026/08/2026082892.pdf",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "punjab-family court patiala-child-counsellor-family-counsellor",
@@ -384,7 +753,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec032131f8ecf18db66a758f718dc729/uploads/2026/08/2026082655.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "punjab-dlsa sangrur-para-legal-volunteer",
@@ -401,7 +770,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/dlsa-sangrur-plv-recruitment-2026/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-06",
+    "scrapedAt": "2026-09-14",
     "fees": [
       {
         "category": "Fee",
@@ -451,7 +820,7 @@
     "applyOnlineLink": "https://phconapp.formflix.org/driver/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-06",
+    "scrapedAt": "2026-09-14",
     "fees": [
       {
         "category": "General and SC/ST/BC of areas/States other than Punjab, Haryana and U.T. Chandigarh",
@@ -526,7 +895,7 @@
     "applyOnlineLink": "https://phconapp.formflix.org/faraash/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-06",
+    "scrapedAt": "2026-09-14",
     "fees": [
       {
         "category": "General and SC/ST/BC of areas/States other than Punjab, Haryana and U.T. Chandigarh",
@@ -590,58 +959,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec03f8037f94e53f17a2cc301033ca86/uploads/2026/08/2026082418.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-06"
-  },
-  {
-    "id": "punjab-dlsa barnala-para-legal-volunteer",
-    "title": "DLSA Barnala Recruitment 2026 – Para-Legal Volunteer Posts",
-    "shortInfo": "DLSA Barnala has announced notification for Para-Legal Volunteer posts. Required qualification: Other. Last date to apply: 10-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "10-09-26",
-    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3ec037371364b3d72ac9a3ed8638e6f0b/uploads/2026/08/2026082773.pdf",
-    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec037371364b3d72ac9a3ed8638e6f0b/uploads/2026/08/2026082773.pdf",
-    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec037371364b3d72ac9a3ed8638e6f0b/uploads/2026/08/2026082773.pdf",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-09-06"
-  },
-  {
-    "id": "punjab-hbchrc-foreman-electrical",
-    "title": "HBCHRC Recruitment 2026 – Foreman Electrical Posts",
-    "shortInfo": "HBCHRC has announced notification for Foreman Electrical posts. Required qualification: ITI. Last date to apply: 08-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "08-09-26",
-    "officialWebsite": "https://tmc.gov.in/postmaster/ViewFile?FileId=aQQjYkBymkWtZQdIjJcNxQ==",
-    "notificationLink": "https://tmc.gov.in/postmaster/ViewFile?FileId=aQQjYkBymkWtZQdIjJcNxQ==",
-    "applyOnlineLink": "https://tmc.gov.in/postmaster/ViewFile?FileId=aQQjYkBymkWtZQdIjJcNxQ==",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-09-06"
-  },
-  {
-    "id": "punjab-hbch sangrur-technician",
-    "title": "HBCH Sangrur Recruitment 2026 – Technician Posts",
-    "shortInfo": "HBCH Sangrur has announced notification for Technician posts. Required qualification: Diploma, B.Sc. Last date to apply: 08-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "08-09-26",
-    "officialWebsite": "https://tmc.gov.in/postmaster/ViewFile?FileId=svvSVqd+a7tVidGp9MOM9A==",
-    "notificationLink": "https://tmc.gov.in/postmaster/ViewFile?FileId=svvSVqd+a7tVidGp9MOM9A==",
-    "applyOnlineLink": "https://tmc.gov.in/postmaster/ViewFile?FileId=svvSVqd+a7tVidGp9MOM9A==",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "punjab-pau-female-gym-trainer",
@@ -658,7 +976,7 @@
     "applyOnlineLink": "https://Candidates%20are%20advised%20to%20check%20whether%20they%20satisfy%20the%20prescribed%20age%20limit%20before%20applying.%20Use%20our%20online%20Age%20Calculator%20to%20calculate%20your%20exact%20age%20instantly.",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "punjab-psssb-group-d-last-date-extended-",
@@ -675,7 +993,7 @@
     "applyOnlineLink": "https://eservices.punjab.gov.in/loginWindow.do",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-06",
+    "scrapedAt": "2026-09-14",
     "fees": [
       {
         "category": "For General/Freedom Fighter/Player",
@@ -728,257 +1046,21 @@
     "howToApply": []
   },
   {
-    "id": "punjab-cmeri coefm-senior-project-associate-project-associate-ii-proj",
-    "title": "CMERI CoEFM Recruitment 2026 – Senior Project Associate, Project Associate-II, Project Associate-I, Project Assistant-II (Walk-in) Posts",
-    "shortInfo": "CMERI CoEFM has announced notification for Senior Project Associate, Project Associate-II, Project Associate-I, Project Assistant-II (Walk-in) posts. Required qualification: Bachelor's/Master's degree in Engineering or Technology. Last date to apply: 02-09-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "7",
-    "lastDate": "02-09-26",
-    "officialWebsite": "https://www.cmeri.res.in",
-    "notificationLink": "https://www.cmeri.res.in/sites/default/files/vacancy/Advertisment_CoEFM_2026_03.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/cmeri-coefm-recruitment-2026/",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-09-06",
-    "fees": [
-      {
-        "category": "Fee",
-        "fee": "Not Mentioned"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Advertisement Date",
-        "date": "21/08/2026"
-      },
-      {
-        "event": "Walk-In-Interview Date",
-        "date": "02/09/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Senior Project Associate (P601)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Associate-II (P602)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Associate-II (P603)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Associate-I (P604)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Assistant-II (P605)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Project Associate-I (P606)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Download the application form from the Institute website.",
-      "Fill in the application form carefully and completely.",
-      "Gather all original certificates and mark sheets along with self-attested photocopies.",
-      "Carry a recent passport size photograph.",
-      "Candidates currently engaged in CSIR-CMERI or any other CSIR Lab/Institute must produce a NOC from the Competent Authority.",
-      "Appear before the Selection Committee on 02nd September 2026 between 09:00 AM to 10:30 AM at CSIR-CMERI Centre of Excellence for Farm Machinery, Opp. GNE College, Gill Road, Ludhiana-141006, Punjab.",
-      "No TA/DA will be paid for attending the Walk-In-Interview.",
-      "Hindi/English language can be used as a medium of communication during the interview."
-    ]
-  },
-  {
-    "id": "punjab-aiims bathinda-counsellor",
-    "title": "AIIMS Bathinda Recruitment 2026 – Counsellor Posts",
-    "shortInfo": "AIIMS Bathinda has announced notification for Counsellor posts. Required qualification: M.Sc, M.A, M.Phil/Ph.D. Last date to apply: 10-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "2",
-    "lastDate": "10-09-26",
-    "officialWebsite": "https://aiimsbathinda.edu.in/images/Reqruitment/20260821045209.pdf",
-    "notificationLink": "https://aiimsbathinda.edu.in/images/Reqruitment/20260821045209.pdf",
-    "applyOnlineLink": "https://aiimsbathinda.edu.in/images/Reqruitment/20260821045209.pdf",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-09-06"
-  },
-  {
-    "id": "punjab-psssb-clerk-re-open-",
-    "title": "PSSSB Recruitment 2026 – Clerk (Re Open) Posts",
-    "shortInfo": "PSSSB has announced notification for Clerk (Re Open) posts. Required qualification: Bachelor Degree. Last date to apply: 07-09-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "-",
-    "lastDate": "07-09-26",
-    "officialWebsite": "https://sssb.punjab.gov.in/",
-    "notificationLink": "https://sssb.punjab.gov.in/wp-content/uploads/2026/02/Advertisement-No.-02-of-2026.pdf",
-    "applyOnlineLink": "https://eservices.punjab.gov.in/loginWindow.do",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-09-06",
-    "fees": [
-      {
-        "category": "For General/Freedom Fighter/Players",
-        "fee": "₹1000/-"
-      },
-      {
-        "category": "For SC/BC/EWS",
-        "fee": "₹250/-"
-      },
-      {
-        "category": "For Ex-Servicemen & Dependent",
-        "fee": "₹200/-"
-      },
-      {
-        "category": "For Physical Handicapped",
-        "fee": "₹500/-"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Starting Date for Apply Online",
-        "date": "13/02/2026"
-      },
-      {
-        "event": "Closing Date for Apply Online/Payment of Fee",
-        "date": "06/03/2026"
-      },
-      {
-        "event": "Exam Date (Postponed)",
-        "date": "19/04/2026"
-      },
-      {
-        "event": "Re Open online Dates",
-        "date": ""
-      },
-      {
-        "event": "Starting Date for Apply Online",
-        "date": "25/08/2026"
-      },
-      {
-        "event": "Closing Date for Apply Online/Payment of Fee",
-        "date": "07/09/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Clerk",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": []
-  },
-  {
-    "id": "punjab-irctc-tourism-monitor-walk-in-",
-    "title": "IRCTC Recruitment 2026 – Tourism Monitor (Walk-in) Posts",
-    "shortInfo": "IRCTC has announced notification for Tourism Monitor (Walk-in) posts. Required qualification: Any Bachelors Degree, Diploma, Any Masters Degree. Last date to apply: 09-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "9",
-    "lastDate": "09-09-26",
-    "officialWebsite": "https://www.irctc.com/",
-    "notificationLink": "https://www.irctc.com/assets/images2/NotificationTourismMonitorCONZ772026.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/irctc-tourism-monitor-recruitment-2026/",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-09-06",
-    "fees": [
-      {
-        "category": "Fee",
-        "fee": "Not Mentioned"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Notification Date",
-        "date": "07/08/2026"
-      },
-      {
-        "event": "Walk-in Interview Date",
-        "date": "08/09/2026"
-      },
-      {
-        "event": "Cut-off Date for Age/Qualification/Experience",
-        "date": "01/09/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Tourism Monitor (Graduate Level &ndash; Bachelor + Diploma)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Tourism Monitor (Post Graduate Level &ndash; Bachelor + PG Degree/Diploma)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Download and fill the application form attached with the notification completely in all respects.",
-      "Carry the completed application form to the walk-in interview venue.",
-      "Submit the application form along with original documents, one set of attested copies of requisite documents, and two recent passport size photographs at the venue.",
-      "Appear for the personal interview at IRCTC North Zone, B-148, 11th Floor, Statesman House, Barakhamba Road, Connaught Place, New Delhi &ndash; 110001 on 08 or 09 September 2026 between 11:00 AM to 05:00 PM.",
-      "Ensure all required original documents are carried: 10th &amp; 12th Marksheets/Certificates, Graduation Marksheets/Degree, Post-Graduation Marksheets/Certificate, Experience Certificates, Caste Certificate (if applicable), EWS/PwBD Certificate (if applicable), Proof of Identity, Proof of Address, and any other relevant documents.",
-      "Candidates working in Govt./PSUs must apply through proper channel or submit NOC/relieving letter at the time of interview."
-    ]
-  },
-  {
-    "id": "punjab-bank of baroda (bob)-local-bank-officer-lbo",
-    "title": "Bank of Baroda (BOB) Recruitment 2026 – Local Bank Officer LBO Posts",
-    "shortInfo": "Bank of Baroda (BOB) has announced notification for Local Bank Officer LBO posts. Required qualification: Graduation in any discipline, 1 year experience. Last date to apply: 07-09-26.",
+    "id": "punjab-bank of baroda (bob)-local-bank-officer-lbo-last-date-extended-",
+    "title": "Bank of Baroda (BOB) Recruitment 2026 – Local Bank Officer LBO (Last Date Extended) Posts",
+    "shortInfo": "Bank of Baroda (BOB) has announced notification for Local Bank Officer LBO (Last Date Extended) posts. Required qualification: Graduation in any discipline, 1 year experience. Last date to apply: 17-09-26.",
     "category": "Latest Jobs",
     "categoryIcon": "📚",
     "categoryMarathi": "Latest Jobs",
     "district": "State Level",
     "vacancies": "2482",
-    "lastDate": "07-09-26",
+    "lastDate": "17-09-26",
     "officialWebsite": "https://www.bankofbaroda.bank.in",
     "notificationLink": "https://bankofbaroda.bank.in/-/media/Project/BOB/CountryWebsites/India/Career/2026/26-08/Advertisement-18-04.pdf",
     "applyOnlineLink": "https://ibpsreg.ibps.in/bobjul26/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-06",
+    "scrapedAt": "2026-09-14",
     "fees": [
       {
         "category": "General / EWS / OBC candidates",
@@ -995,8 +1077,8 @@
         "date": "18/08/2026"
       },
       {
-        "event": "Last Date for Submission of Application & Payment of Fees",
-        "date": "07/09/2026"
+        "event": "Last Date for Submission of Application & Payment of Fees (Extended Upto)",
+        "date": "17/09/2026"
       }
     ],
     "vacancyList": [
@@ -1020,23 +1102,6 @@
     ]
   },
   {
-    "id": "punjab-pau-teaching-assistant",
-    "title": "PAU Recruitment 2026 – Teaching Assistant Posts",
-    "shortInfo": "PAU has announced notification for Teaching Assistant posts. Required qualification: M.Sc, B.Sc, B.Tech/B.E. Last date to apply: 01-09-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "01-09-26",
-    "officialWebsite": "https://pau.edu/index.php?_act=manageVacancy&#038;DO=viewVacancyDetail&#038;intID=7516",
-    "notificationLink": "https://pau.edu/index.php?_act=manageVacancy&#038;DO=viewVacancyDetail&#038;intID=7516",
-    "applyOnlineLink": "https://pau.edu/index.php?_act=manageVacancy&#038;DO=viewVacancyDetail&#038;intID=7516",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-09-06"
-  },
-  {
     "id": "punjab-iit ropar-post-doctoral-fellow",
     "title": "IIT Ropar Recruitment 2026 – Post Doctoral Fellow Posts",
     "shortInfo": "IIT Ropar has announced notification for Post Doctoral Fellow posts. Required qualification: M.Phil/Ph.D. Last date to apply: 15-09-26.",
@@ -1051,7 +1116,7 @@
     "applyOnlineLink": "https://www.iitrpr.ac.in/api/v2/files/download/195",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "punjab-aai nr-graduate-apprentice-diploma-apprentice-iti-trade-a",
@@ -1068,7 +1133,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-nr-apprentice-2026/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-06",
+    "scrapedAt": "2026-09-14",
     "fees": [
       {
         "category": "All Categories",
@@ -1228,263 +1293,7 @@
     "applyOnlineLink": "https://pgimer.edu.in/PGIMER_PORTAL/PGIMERPORTAL/Vacancies/JSP/ViewAll.jsp?record=15445",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-06"
-  },
-  {
-    "id": "punjab-rcf kapurthala-act-apprentices",
-    "title": "RCF Kapurthala Recruitment 2026 – Act Apprentices Posts",
-    "shortInfo": "RCF Kapurthala has announced notification for Act Apprentices posts. Required qualification: 10th, NTC. Last date to apply: 05-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "734",
-    "lastDate": "05-09-26",
-    "officialWebsite": "https://rcf.indianrailways.gov.in",
-    "notificationLink": "https://rcf.indianrailways.gov.in/uploads/files/act-app/not-act-app-2026.pdf",
-    "applyOnlineLink": "https://pardarsy.railnet.gov.in/apprentice-2026/",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-09-06",
-    "fees": [
-      {
-        "category": "General/OBC",
-        "fee": "Rs. 100/-"
-      },
-      {
-        "category": "SC/ST/PWD/Women",
-        "fee": "Nil"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Notification Date",
-        "date": "07/08/2026"
-      },
-      {
-        "event": "Last Date to Apply Online",
-        "date": "05/09/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Fitter",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Welder (G&E)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Machinist",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Painter (G)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Carpenter",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Electrician",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "AC & Refrigeration Mechanic",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Mechanic (Motor Vehicle)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Electronic Mechanic",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the official website www.rcf.indianrailways.gov.in to apply online.",
-      "Fill in personal details/BIO-DATA carefully. Ensure name, father’s name, and date of birth match exactly as in Matriculation certificate.",
-      "Upload passport size coloured photograph (3.5cm x 3.5cm, JPG/JPEG, 100 DPI, 20kb-70kb, not older than 3 months).",
-      "Upload signature (3.5cm x 3.5cm, JPG/JPEG, 100 DPI, 20kb-30kb).",
-      "Submit the online application before 05.09.2026 till 24.00 hours.",
-      "After successful submission, a Registration Number will be issued. Note and preserve it.",
-      "Pay the application fee of Rs. 100/- online after 02 working days through the link provided in the form (SC/ST/PWD/Women candidates are exempted from fee).",
-      "Payment can be made via Debit Card/Credit Card/Internet Banking/SBI Challan.",
-      "On successful payment, print and retain the e-receipt.",
-      "Keep a printout of the application for Document Verification."
-    ]
-  },
-  {
-    "id": "punjab-iocl nr-trade-apprentice-technician-apprentice-graduate-ap",
-    "title": "IOCL NR Recruitment 2026 – Trade Apprentice, Technician Apprentice, Graduate Apprentice Posts",
-    "shortInfo": "IOCL NR has announced notification for Trade Apprentice, Technician Apprentice, Graduate Apprentice posts. Required qualification: Matric with ITI, Diploma in Engineering, Graduate degree, Class 12th. Last date to apply: 06-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "433",
-    "lastDate": "06-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/iocl-nr-apprentice-recruitment-2026/",
-    "notificationLink": "https://iocl.com/admin/img/Apprenticeships/Files/e2fe7d9255544d7e8a9e9c812dbfca7d.pdf",
-    "applyOnlineLink": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=B0Xxorf6hUGfjbuyZc4E5cLJ-uU_mEhAqmZkmr5RuPNURVVPR0FLNjRVMjBJOVFZSkNCN0czODE2Ty4u&route=shorturl",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-09-06",
-    "fees": [
-      {
-        "category": "Fee",
-        "fee": "Not Mentioned"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Opening Date of Application",
-        "date": "07/08/2026"
-      },
-      {
-        "event": "Last Date of Submission of Application",
-        "date": "06/09/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Technician Apprentice - Mechanical",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Technician Apprentice - Electrical",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Technician Apprentice - Instrumentation",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Technician Apprentice - Civil",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Technician Apprentice - Electrical & Electronics",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Technician Apprentice - Electronics",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Trade Apprentice - Fitter",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Trade Apprentice - Electrician",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Trade Apprentice - Electronics Mechanic",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Trade Apprentice - Instrument Mechanic",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Trade Apprentice - Machinist",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Graduate Apprentice",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Trade Apprentice - Data Entry Operator (Fresher)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Trade Apprentice - Data Entry Operator (Skill Certificate Holders)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Register on the appropriate portal: NAPS (http://www.apprenticeshipindia.gov.in/) for Trade Apprentices (ITI &amp; Data Entry Operator) or NATS (https://nats.education.gov.in/student_register.php) for Technician and Graduate Apprentices.",
-      "Ensure 100% completion/updation of your profile (Personal Details, Educational Details, Category, Aggregate Percentage) on the respective portal.",
-      "Login to the respective NATS/NAPS portal using your User ID/Email ID and apply for the apprenticeship openings using the Establishment ID: NATS – NDLSDC000005 / NAPS – E05200700003.",
-      "After applying on the NATS/NAPS portal, also submit your details along with preferred State and three preferred locations in the Microsoft Office Form at: https://forms.cloud.microsoft/r/pw7D2cUK7c by 06.09.2026, 05:00 PM.",
-      "Candidates can apply for ONLY ONE DISCIPLINE CODE. Multiple discipline code applications will be summarily rejected.",
-      "Ensure you have a valid PAN Card, Aadhaar Card, active Aadhaar-seeded bank account enabled for DBT, and APAAR ID updated on NATS portal.",
-      "Applications must be submitted on or before 06th September 2026 at 05:00 PM. Applications received after the last date will not be considered."
-    ]
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "punjab-csir cmeri-technician-last-date-extended-",
@@ -1501,7 +1310,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/csir-cmeri-technician-recruitment-2026/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-06",
+    "scrapedAt": "2026-09-14",
     "fees": [
       {
         "category": "General/OBC/EWS (other than Ex-Servicemen/SC/ST/Women/PwBD)",

@@ -1,24 +1,111 @@
 [
   {
+    "id": "goa-bits pilani-field-investigator",
+    "title": "BITS Pilani Recruitment 2026 – Field Investigator Posts",
+    "shortInfo": "BITS Pilani has announced notification for Field Investigator posts. Required qualification: M.A. Last date to apply: 23-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "23-09-26",
+    "officialWebsite": "https://www.bits-pilani.ac.in/wp-content/uploads/1-FI-Recruitment.pdf",
+    "notificationLink": "https://www.bits-pilani.ac.in/wp-content/uploads/1-FI-Recruitment.pdf",
+    "applyOnlineLink": "https://www.bits-pilani.ac.in/wp-content/uploads/1-FI-Recruitment.pdf",
+    "state": "Goa",
+    "stateCode": "goa",
+    "scrapedAt": "2026-09-14"
+  },
+  {
+    "id": "goa-goa university-junior-research-fellow",
+    "title": "Goa University Recruitment 2026 – Junior Research Fellow Posts",
+    "shortInfo": "Goa University has announced notification for Junior Research Fellow posts. Required qualification: Any Post Graduate. Last date to apply: 11-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "11-09-26",
+    "officialWebsite": "https://webassets.unigoa.ac.in/uploads/confg_docs/20260902.114718~Vacancy_JRF_SPAS_Sep26.pdf",
+    "notificationLink": "https://webassets.unigoa.ac.in/uploads/confg_docs/20260902.114718~Vacancy_JRF_SPAS_Sep26.pdf",
+    "applyOnlineLink": "https://webassets.unigoa.ac.in/uploads/confg_docs/20260902.114718~Vacancy_JRF_SPAS_Sep26.pdf",
+    "state": "Goa",
+    "stateCode": "goa",
+    "scrapedAt": "2026-09-14"
+  },
+  {
+    "id": "goa-iit goa-superintending-engineer-registrar-more-posts",
+    "title": "IIT Goa Recruitment 2026 – Superintending Engineer, Registrar, More Posts Posts",
+    "shortInfo": "IIT Goa has announced notification for Superintending Engineer, Registrar, More Posts posts. Required qualification: Any Post Graduate, B.Tech/B.E, M.Phil/Ph.D, M.E/M.Tech. Last date to apply: 02-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "3",
+    "lastDate": "02-10-26",
+    "officialWebsite": "https://iitgoa.ac.in/wp-content/uploads/IITGOA_staff-recruitment_-Advt.-2026-05.pdf",
+    "notificationLink": "https://iitgoa.ac.in/wp-content/uploads/IITGOA_staff-recruitment_-Advt.-2026-05.pdf",
+    "applyOnlineLink": "https://iitgoa.ac.in/wp-content/uploads/IITGOA_staff-recruitment_-Advt.-2026-05.pdf",
+    "state": "Goa",
+    "stateCode": "goa",
+    "scrapedAt": "2026-09-14"
+  },
+  {
     "id": "goa-gssc-desktop-publishing-operator-lower-division-clerk-r",
     "title": "GSSC Recruitment 2026 – Desktop Publishing Operator, Lower Division Clerk/Recovery Clerk, Data Entry Operator, Junior Assistant Posts",
-    "shortInfo": "GSSC has announced notification for Desktop Publishing Operator, Lower Division Clerk/Recovery Clerk, Data Entry Operator, Junior Assistant posts. Required qualification: -. Last date to apply: 02-10-26.",
+    "shortInfo": "GSSC has announced notification for Desktop Publishing Operator, Lower Division Clerk/Recovery Clerk, Data Entry Operator, Junior Assistant posts. Required qualification: Higher Secondary School Certificate. Last date to apply: 02-10-26.",
     "category": "Latest Jobs",
     "categoryIcon": "📚",
     "categoryMarathi": "Latest Jobs",
     "district": "State Level",
-    "vacancies": "215",
+    "vacancies": "222",
     "lastDate": "02-10-26",
     "officialWebsite": "https://gssc.goa.gov.in",
     "notificationLink": "https://gssc.goa.gov.in/wp-content/uploads/2026/09/advertisement-no.-3-of-year-2026-brief-advertisement-dated-04.09.2026_compressed.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/gssc-group-c-recruitment-2026/",
+    "applyOnlineLink": "https://cbes.goa.gov.in/advertisement",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-06",
+    "scrapedAt": "2026-09-14",
     "fees": [
       {
-        "category": "Fee",
-        "fee": "Not Mentioned"
+        "category": "UR (Level 1-3)",
+        "fee": "₹200"
+      },
+      {
+        "category": "SC/ST (Level 1-3)",
+        "fee": "₹50"
+      },
+      {
+        "category": "OBC (Level 1-3)",
+        "fee": "₹100"
+      },
+      {
+        "category": "PwD (Level 1-3)",
+        "fee": "Nil"
+      },
+      {
+        "category": "EWS (Level 1-3)",
+        "fee": "₹100"
+      },
+      {
+        "category": "UR (Level 4 and above)",
+        "fee": "₹400"
+      },
+      {
+        "category": "SC/ST (Level 4 and above)",
+        "fee": "₹100"
+      },
+      {
+        "category": "OBC (Level 4 and above)",
+        "fee": "₹200"
+      },
+      {
+        "category": "PwD (Level 4 and above)",
+        "fee": "Nil"
+      },
+      {
+        "category": "EWS (Level 4 and above)",
+        "fee": "₹200"
       }
     ],
     "dates": [
@@ -66,12 +153,15 @@
       }
     ],
     "howToApply": [
-      "Visit the official website: https://gssc.goa.gov.in",
-      "The portal to submit online applications will be available by 11/09/2026.",
-      "Carefully read the Instructions available on the Commission’s website before filling the application online.",
-      "Fill in the online application form with accurate details.",
-      "Submit the application before the last date i.e., 02/10/2026.",
-      "No other mode of application will be accepted. No correspondence will be entertained in this regard."
+      "Candidates shall fill the Application form through online mode only as available on Commission’s website https://gssc.goa.gov.in.",
+      "The candidate shall apply for the post within the time limit prescribed.",
+      "General instructions for filling of the Application form are available on the Commission’s website. All candidates are required to read instructions carefully before filling up the online application.",
+      "Candidates are instructed to go through the syllabus and scheme of examination for the posts published on the website of the Commission.",
+      "The Commission shall shortlist/select candidates on merit, based on marks obtained in Computer Based Test (CBT) examination.",
+      "Candidates shall upload a recent passport-size photograph while submitting the online application.",
+      "The candidate should ensure they possess the requisite educational qualification, valid 15 years residence certificate issued by the Competent authority in Goa, registration with the Employment Exchange Goa/valid Employment registration Card, Birth certificate, Caste/Social Status certificate, Disabilities certificate, EWS Certificate, Experience Certificate, Ex-Servicemen Certificate, Diploma/Course Certificate in Computer and all other documents/certificates as mentioned in the Advertisement.",
+      "Application fee is to be paid through online payment using Internet Banking/Debit Card/Credit Card/UPI. No physical payments will be allowed.",
+      ""
     ]
   },
   {
@@ -89,7 +179,7 @@
     "applyOnlineLink": "https://www.nio.res.in/vacancies/temporary/1737780",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "goa-csir nio-project-associate-i",
@@ -106,7 +196,7 @@
     "applyOnlineLink": "https://www.nio.res.in/vacancies/temporary/1747279",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "goa-gsl-trainee-project-executive",
@@ -123,7 +213,7 @@
     "applyOnlineLink": "https://goashipyard.ibtexamination.com/App03gSL2026VEr3/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-06",
+    "scrapedAt": "2026-09-14",
     "fees": [
       {
         "category": "General/EWS",
@@ -213,123 +303,7 @@
     "applyOnlineLink": "https://www.goa.gov.in/wp-content/uploads/2026/08/FC-Advertisement-Web-Govan.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-06"
-  },
-  {
-    "id": "goa-goa samagra shiksha-teacher-walk-in-",
-    "title": "Goa Samagra Shiksha Recruitment 2026 – Teacher (Walk-in) Posts",
-    "shortInfo": "Goa Samagra Shiksha has announced notification for Teacher (Walk-in) posts. Required qualification: D.El.Ed, B.Ed. Last date to apply: 04-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "78",
-    "lastDate": "04-09-26",
-    "officialWebsite": "https://www.goa.gov.in",
-    "notificationLink": "https://www.goa.gov.in/wp-content/uploads/2026/08/GSS-Advertisement-2026-27.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/goa-samagra-shiksha-teacher-recruitment-2026/",
-    "state": "Goa",
-    "stateCode": "goa",
-    "scrapedAt": "2026-09-06",
-    "fees": [
-      {
-        "category": "Fee",
-        "fee": "Not Mentioned"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Walk-in-Interview Date",
-        "date": "04/09/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Teacher (Foundational Stage) - Pernem",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Teacher (Foundational Stage) - Bardez",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Teacher (Foundational Stage) - Tiswadi",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Teacher (Foundational Stage) - Mormugao",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Teacher (Foundational Stage) - Quepem",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Teacher (Foundational Stage) - Dharbandora",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Teacher (Foundational Stage) - Canacona",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Teacher (Foundational Stage) - Ponda",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Teacher (Foundational Stage) - Bicholim",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Teacher (Foundational Stage) - Sattari",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Teacher (Foundational Stage) - Salcete",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Eligible candidates should appear for the Walk-in-Interview on 04.09.2026 at Directorate of Education, Alto Porvorim, Goa.",
-      "Candidates must report at least half an hour before the commencement of the interview (i.e., before 9:30 AM).",
-      "Bring a filled application form and full bio-data.",
-      "Carry original as well as self-attested xerox copies of all relevant documents including Birth Certificate, Educational Qualification Certificates, Valid Residential Certificate, Valid Employment Exchange Registration, and other certificates.",
-      "Copies must be inscribed with the statement “This certificate is true copy of the original” and self-attested below the statement.",
-      "Candidates reporting after 11:00 AM on the scheduled date shall not be entertained."
-    ]
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "goa-nit goa-professor-assistant-professor",
@@ -346,41 +320,7 @@
     "applyOnlineLink": "https://nitgoa.ac.in/uploads/faculty_recruitment2026/Advt_Faculty%20_%20Recruitment%2031august2026.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-06"
-  },
-  {
-    "id": "goa-bits pilani-research-associate",
-    "title": "BITS Pilani Recruitment 2026 – Research Associate Posts",
-    "shortInfo": "BITS Pilani has announced notification for Research Associate posts. Required qualification: M.Phil/Ph.D, M.A. Last date to apply: 10-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "10-09-26",
-    "officialWebsite": "https://www.bits-pilani.ac.in/wp-content/uploads/RA-Advertisement-for-ICSSR-Project.pdf",
-    "notificationLink": "https://www.bits-pilani.ac.in/wp-content/uploads/RA-Advertisement-for-ICSSR-Project.pdf",
-    "applyOnlineLink": "https://www.bits-pilani.ac.in/wp-content/uploads/RA-Advertisement-for-ICSSR-Project.pdf",
-    "state": "Goa",
-    "stateCode": "goa",
-    "scrapedAt": "2026-09-06"
-  },
-  {
-    "id": "goa-goalpara district-copyist",
-    "title": "Goalpara District Recruitment 2026 – Copyist Posts",
-    "shortInfo": "Goalpara District has announced notification for Copyist posts. Required qualification: 12TH, Diploma. Last date to apply: 10-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "10-09-26",
-    "officialWebsite": "https://goalpara.assam.gov.in/sites/default/files/public_utility/Advertisement_0.pdf",
-    "notificationLink": "https://goalpara.assam.gov.in/sites/default/files/public_utility/Advertisement_0.pdf",
-    "applyOnlineLink": "https://goalpara.assam.gov.in/sites/default/files/public_utility/Advertisement_0.pdf",
-    "state": "Goa",
-    "stateCode": "goa",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "goa-rbi-banks-medical-consultant",
@@ -397,58 +337,7 @@
     "applyOnlineLink": "https://rbidocs.rbi.org.in/rdocs/Content/PDFs/BMCGOA260620266F24CBFC1D5A4796AE5C835CFDABD23A.PDF",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-06"
-  },
-  {
-    "id": "goa-foreigners tribunal goalpara-data-entry-operator",
-    "title": "Foreigners Tribunal Goalpara Recruitment 2026 – Data Entry Operator Posts",
-    "shortInfo": "Foreigners Tribunal Goalpara has announced notification for Data Entry Operator posts. Required qualification: Diploma, 12TH. Last date to apply: 08-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "08-09-26",
-    "officialWebsite": "https://goalpara.assam.gov.in/sites/default/files/public_utility/ft.pdf",
-    "notificationLink": "https://goalpara.assam.gov.in/sites/default/files/public_utility/ft.pdf",
-    "applyOnlineLink": "https://goalpara.assam.gov.in/sites/default/files/public_utility/ft.pdf",
-    "state": "Goa",
-    "stateCode": "goa",
-    "scrapedAt": "2026-09-06"
-  },
-  {
-    "id": "goa-iit goa-sports-coach",
-    "title": "IIT Goa Recruitment 2026 – Sports Coach Posts",
-    "shortInfo": "IIT Goa has announced notification for Sports Coach posts. Required qualification: Diploma. Last date to apply: 07-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "3",
-    "lastDate": "07-09-26",
-    "officialWebsite": "https://iitgoa.ac.in/wp-content/uploads/IITGoaRECTNT-CON2026-08.pdf",
-    "notificationLink": "https://iitgoa.ac.in/wp-content/uploads/IITGoaRECTNT-CON2026-08.pdf",
-    "applyOnlineLink": "https://iitgoa.ac.in/wp-content/uploads/IITGoaRECTNT-CON2026-08.pdf",
-    "state": "Goa",
-    "stateCode": "goa",
-    "scrapedAt": "2026-09-06"
-  },
-  {
-    "id": "goa-mormugao port authority-officer",
-    "title": "Mormugao Port Authority Recruitment 2026 – Officer Posts",
-    "shortInfo": "Mormugao Port Authority has announced notification for Officer posts. Required qualification: M.Sc. Last date to apply: 03-09-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "2",
-    "lastDate": "03-09-26",
-    "officialWebsite": "https://mormugaoport.gov.in/careers_doc/view/1787832172808462.pdf",
-    "notificationLink": "https://mormugaoport.gov.in/careers_doc/view/1787832172808462.pdf",
-    "applyOnlineLink": "https://mormugaoport.gov.in/careers_doc/view/1787832172808462.pdf",
-    "state": "Goa",
-    "stateCode": "goa",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "goa-echs-peon-clerk-and-more",
@@ -465,7 +354,7 @@
     "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/INS%20Gomantak%2023%20Sep.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "goa-nhm goa-support-staff-and-more-staff-nurse",
@@ -482,7 +371,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/nhm-goa-staff-recruitment-2026/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-06",
+    "scrapedAt": "2026-09-14",
     "fees": [
       {
         "category": "Fee",
@@ -713,55 +602,21 @@
     ]
   },
   {
-    "id": "goa-ncpor-junior-research-fellow",
-    "title": "NCPOR Recruitment 2026 – Junior Research Fellow Posts",
-    "shortInfo": "NCPOR has announced notification for Junior Research Fellow posts. Required qualification: M.Sc, M.Phil/Ph.D. Last date to apply: 07-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "4",
-    "lastDate": "07-09-26",
-    "officialWebsite": "https://ncpor.res.in/upload/recruitments/ncpor_2026_07_jrf.PDF",
-    "notificationLink": "https://ncpor.res.in/upload/recruitments/ncpor_2026_07_jrf.PDF",
-    "applyOnlineLink": "https://ncpor.res.in/upload/recruitments/ncpor_2026_07_jrf.PDF",
-    "state": "Goa",
-    "stateCode": "goa",
-    "scrapedAt": "2026-09-06"
-  },
-  {
-    "id": "goa-district commissioner goalpara-district-technical-support-staff",
-    "title": "District Commissioner Goalpara Recruitment 2026 – District Technical Support Staff Posts",
-    "shortInfo": "District Commissioner Goalpara has announced notification for District Technical Support Staff posts. Required qualification: Diploma, 12TH. Last date to apply: 05-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "05-09-26",
-    "officialWebsite": "https://goalpara.assam.gov.in/sites/default/files/public_utility/Advertisement.pdf",
-    "notificationLink": "https://goalpara.assam.gov.in/sites/default/files/public_utility/Advertisement.pdf",
-    "applyOnlineLink": "https://goalpara.assam.gov.in/sites/default/files/public_utility/Advertisement.pdf",
-    "state": "Goa",
-    "stateCode": "goa",
-    "scrapedAt": "2026-09-06"
-  },
-  {
-    "id": "goa-bank of baroda (bob)-local-bank-officer-lbo",
-    "title": "Bank of Baroda (BOB) Recruitment 2026 – Local Bank Officer LBO Posts",
-    "shortInfo": "Bank of Baroda (BOB) has announced notification for Local Bank Officer LBO posts. Required qualification: Graduation in any discipline, 1 year experience. Last date to apply: 07-09-26.",
+    "id": "goa-bank of baroda (bob)-local-bank-officer-lbo-last-date-extended-",
+    "title": "Bank of Baroda (BOB) Recruitment 2026 – Local Bank Officer LBO (Last Date Extended) Posts",
+    "shortInfo": "Bank of Baroda (BOB) has announced notification for Local Bank Officer LBO (Last Date Extended) posts. Required qualification: Graduation in any discipline, 1 year experience. Last date to apply: 17-09-26.",
     "category": "Latest Jobs",
     "categoryIcon": "📚",
     "categoryMarathi": "Latest Jobs",
     "district": "State Level",
     "vacancies": "2482",
-    "lastDate": "07-09-26",
+    "lastDate": "17-09-26",
     "officialWebsite": "https://www.bankofbaroda.bank.in",
     "notificationLink": "https://bankofbaroda.bank.in/-/media/Project/BOB/CountryWebsites/India/Career/2026/26-08/Advertisement-18-04.pdf",
     "applyOnlineLink": "https://ibpsreg.ibps.in/bobjul26/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-06",
+    "scrapedAt": "2026-09-14",
     "fees": [
       {
         "category": "General / EWS / OBC candidates",
@@ -778,8 +633,8 @@
         "date": "18/08/2026"
       },
       {
-        "event": "Last Date for Submission of Application & Payment of Fees",
-        "date": "07/09/2026"
+        "event": "Last Date for Submission of Application & Payment of Fees (Extended Upto)",
+        "date": "17/09/2026"
       }
     ],
     "vacancyList": [
@@ -803,23 +658,6 @@
     ]
   },
   {
-    "id": "goa-mormugao port authority-materials-manager",
-    "title": "Mormugao Port Authority Recruitment 2026 – Materials Manager Posts",
-    "shortInfo": "Mormugao Port Authority has announced notification for Materials Manager posts. Required qualification: B.Tech/B.E. Last date to apply: 06-09-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "06-09-26",
-    "officialWebsite": "https://mormugaoport.gov.in/careers_doc/view/1786014690816172.pdf",
-    "notificationLink": "https://mormugaoport.gov.in/careers_doc/view/1786014690816172.pdf",
-    "applyOnlineLink": "https://mormugaoport.gov.in/careers_doc/view/1786014690816172.pdf",
-    "state": "Goa",
-    "stateCode": "goa",
-    "scrapedAt": "2026-09-06"
-  },
-  {
     "id": "goa-krcl-junior-engineer-civil-alp-station-master-technicia",
     "title": "KRCL Recruitment 2026 – Junior Engineer (Civil), ALP, Station Master, Technician &amp; Other Posts Posts",
     "shortInfo": "KRCL has announced notification for Junior Engineer (Civil), ALP, Station Master, Technician &amp; Other Posts posts. Required qualification: 10th Pass, ITI, Diploma, Graduation, B.E., B.Tech. Last date to apply: Update.",
@@ -834,7 +672,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/konkan-railway-recruitment-2026-apply-online-for-201-je-alp-technician-other-posts/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-06",
+    "scrapedAt": "2026-09-14",
     "fees": [
       {
         "category": "General/UR/OBC-NCL/EWS (Male)",

@@ -1,5 +1,39 @@
 [
   {
+    "id": "sikkim-rari-consultant",
+    "title": "RARI Recruitment 2026 – Consultant Posts",
+    "shortInfo": "RARI has announced notification for Consultant posts. Required qualification: BAMS. Last date to apply: 25-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "25-09-26",
+    "officialWebsite": "https://ccras.nic.in/wp-content/uploads/2026/09/08092026-Advt.-RARI-Gangtok.pdf",
+    "notificationLink": "https://ccras.nic.in/wp-content/uploads/2026/09/08092026-Advt.-RARI-Gangtok.pdf",
+    "applyOnlineLink": "https://ccras.nic.in/wp-content/uploads/2026/09/08092026-Advt.-RARI-Gangtok.pdf",
+    "state": "Sikkim",
+    "stateCode": "sikkim",
+    "scrapedAt": "2026-09-14"
+  },
+  {
+    "id": "sikkim-sikkim university-research-assistant-field-investigator",
+    "title": "Sikkim University Recruitment 2026 – Research Assistant, Field Investigator Posts",
+    "shortInfo": "Sikkim University has announced notification for Research Assistant, Field Investigator posts. Required qualification: M.Phil/Ph.D, M.Sc. Last date to apply: 15-09-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "5",
+    "lastDate": "15-09-26",
+    "officialWebsite": "https://cus.ac.in/images/content/dynamic/noti/2026/Sept/Website%2C%20Project%20Recruitment%20Advertisement%20Final.pdf",
+    "notificationLink": "https://cus.ac.in/images/content/dynamic/noti/2026/Sept/Website%2C%20Project%20Recruitment%20Advertisement%20Final.pdf",
+    "applyOnlineLink": "https://cus.ac.in/images/content/dynamic/noti/2026/Sept/Website%2C%20Project%20Recruitment%20Advertisement%20Final.pdf",
+    "state": "Sikkim",
+    "stateCode": "sikkim",
+    "scrapedAt": "2026-09-14"
+  },
+  {
     "id": "sikkim-income tax department kolkata-tax-assistant-ta-multi-tasking-staff-mts-",
     "title": "Income Tax Department Kolkata Recruitment 2026 – Tax Assistant (TA), Multi-Tasking Staff (MTS) Posts",
     "shortInfo": "Income Tax Department Kolkata has announced notification for Tax Assistant (TA), Multi-Tasking Staff (MTS) posts. Required qualification: Degree, Matriculation. Last date to apply: 30-09-26.",
@@ -14,7 +48,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/income-tax-kolkata-ta-mts-recruitment-2026/",
     "state": "Sikkim",
     "stateCode": "sikkim",
-    "scrapedAt": "2026-09-06",
+    "scrapedAt": "2026-09-14",
     "fees": [
       {
         "category": "Fee",
@@ -55,21 +89,21 @@
     ]
   },
   {
-    "id": "sikkim-bank of baroda (bob)-local-bank-officer-lbo",
-    "title": "Bank of Baroda (BOB) Recruitment 2026 – Local Bank Officer LBO Posts",
-    "shortInfo": "Bank of Baroda (BOB) has announced notification for Local Bank Officer LBO posts. Required qualification: Graduation in any discipline, 1 year experience. Last date to apply: 07-09-26.",
+    "id": "sikkim-bank of baroda (bob)-local-bank-officer-lbo-last-date-extended-",
+    "title": "Bank of Baroda (BOB) Recruitment 2026 – Local Bank Officer LBO (Last Date Extended) Posts",
+    "shortInfo": "Bank of Baroda (BOB) has announced notification for Local Bank Officer LBO (Last Date Extended) posts. Required qualification: Graduation in any discipline, 1 year experience. Last date to apply: 17-09-26.",
     "category": "Latest Jobs",
     "categoryIcon": "📚",
     "categoryMarathi": "Latest Jobs",
     "district": "State Level",
     "vacancies": "2482",
-    "lastDate": "07-09-26",
+    "lastDate": "17-09-26",
     "officialWebsite": "https://www.bankofbaroda.bank.in",
     "notificationLink": "https://bankofbaroda.bank.in/-/media/Project/BOB/CountryWebsites/India/Career/2026/26-08/Advertisement-18-04.pdf",
     "applyOnlineLink": "https://ibpsreg.ibps.in/bobjul26/",
     "state": "Sikkim",
     "stateCode": "sikkim",
-    "scrapedAt": "2026-09-06",
+    "scrapedAt": "2026-09-14",
     "fees": [
       {
         "category": "General / EWS / OBC candidates",
@@ -86,8 +120,8 @@
         "date": "18/08/2026"
       },
       {
-        "event": "Last Date for Submission of Application & Payment of Fees",
-        "date": "07/09/2026"
+        "event": "Last Date for Submission of Application & Payment of Fees (Extended Upto)",
+        "date": "17/09/2026"
       }
     ],
     "vacancyList": [
@@ -125,7 +159,7 @@
     "applyOnlineLink": "https://tet.sikkim.gov.in/Uploads/Notice/STET%20SYLLABUS.pdf",
     "state": "Sikkim",
     "stateCode": "sikkim",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "sikkim-aai-graduate-apprentice-diploma-apprentice-iti-apprent",
@@ -142,7 +176,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
     "state": "Sikkim",
     "stateCode": "sikkim",
-    "scrapedAt": "2026-09-06",
+    "scrapedAt": "2026-09-14",
     "fees": [],
     "dates": [
       {

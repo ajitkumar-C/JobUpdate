@@ -1,5 +1,126 @@
 [
   {
+    "id": "bihar-mgcu-jrf-project-fellow",
+    "title": "MGCU Recruitment 2026 – JRF/Project Fellow Posts",
+    "shortInfo": "MGCU has announced notification for JRF/Project Fellow posts. Required qualification: M.Sc. Last date to apply: 23-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "23-09-26",
+    "officialWebsite": "https://mgcub.ac.in/storage/content_files/1788783319_Re-advertisement%20Project%20Fellow.pdf",
+    "notificationLink": "https://mgcub.ac.in/storage/content_files/1788783319_Re-advertisement%20Project%20Fellow.pdf",
+    "applyOnlineLink": "https://mgcub.ac.in/storage/content_files/1788783319_Re-advertisement%20Project%20Fellow.pdf",
+    "state": "Bihar",
+    "stateCode": "bihar",
+    "scrapedAt": "2026-09-14"
+  },
+  {
+    "id": "bihar-iim bodh gaya-management-trainee-cum-counsellor",
+    "title": "IIM Bodh Gaya Recruitment 2026 – Management Trainee cum Counsellor Posts",
+    "shortInfo": "IIM Bodh Gaya has announced notification for Management Trainee cum Counsellor posts. Required qualification: M.Sc. Last date to apply: 13-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "13-09-26",
+    "officialWebsite": "https://iimbg.ac.in/wp-content/uploads/2026/09/RoR-MT-Clinical-Counselling-Psychology-05-09-2026.pdf",
+    "notificationLink": "https://iimbg.ac.in/wp-content/uploads/2026/09/RoR-MT-Clinical-Counselling-Psychology-05-09-2026.pdf",
+    "applyOnlineLink": "https://iimbg.ac.in/wp-content/uploads/2026/09/RoR-MT-Clinical-Counselling-Psychology-05-09-2026.pdf",
+    "state": "Bihar",
+    "stateCode": "bihar",
+    "scrapedAt": "2026-09-14"
+  },
+  {
+    "id": "bihar-igims-senior-resident",
+    "title": "IGIMS Recruitment 2026 – Senior Resident Posts",
+    "shortInfo": "IGIMS has announced notification for Senior Resident posts. Required qualification: MS/MD, MBBS. Last date to apply: 12-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "10",
+    "lastDate": "12-09-26",
+    "officialWebsite": "https://www.igims.org/resources/uploads/TenderManagement/178876470221.pdf",
+    "notificationLink": "https://www.igims.org/resources/uploads/TenderManagement/178876470221.pdf",
+    "applyOnlineLink": "https://www.igims.org/resources/uploads/TenderManagement/178876470221.pdf",
+    "state": "Bihar",
+    "stateCode": "bihar",
+    "scrapedAt": "2026-09-14"
+  },
+  {
+    "id": "bihar-bpssc-company-commander",
+    "title": "BPSSC Recruitment 2026 – Company Commander Posts",
+    "shortInfo": "BPSSC has announced notification for Company Commander posts. Required qualification: Graduation, Home Guard trained. Last date to apply: 10-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "65",
+    "lastDate": "10-10-26",
+    "officialWebsite": "https://bpssc.bihar.gov.in",
+    "notificationLink": "https://bpssc.bihar.gov.in/Notices/Advt%20No.-11-2026.pdf",
+    "applyOnlineLink": "https://apply-bpssc.com/bpssc_hg_commander_11_26/applicationIndex",
+    "state": "Bihar",
+    "stateCode": "bihar",
+    "scrapedAt": "2026-09-14",
+    "fees": [
+      {
+        "category": "All Categories (Male/Female/Third Gender)",
+        "fee": "Rs. 100/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Application Start Date",
+        "date": "10/09/2026"
+      },
+      {
+        "event": "Online Application Last Date",
+        "date": "10/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Gulm Samadeshak (Company Commander) [Promoted from Home Guard (Daily Duty Allowance beneficiary players included)]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website: https://bpssc.bihar.gov.in and click on the ‘Home Guard’ tab.",
+      "Click on the link related to Advertisement No. 11/2026.",
+      "Register using a valid and active mobile number and email ID registered in your name.",
+      "After successful registration, a Registration ID and Password will be sent via SMS/E-mail.",
+      "Login using the Registration ID and Password to fill Part-2 of the online application form.",
+      "Upload a recent colour photograph (white background, within 2 months, 15-25 KB, .jpg/.jpeg/.gif) and signature in English and Hindi (black or blue ink, white background, 15-25 KB, .jpg/.jpeg/.gif).",
+      "Pay the application fee online via Net Banking, Credit/Debit Card, or UPI.",
+      "Submit the application and take a printout of the acknowledgement for future reference.",
+      "Only one online application per candidate is allowed. Multiple applications will be rejected."
+    ]
+  },
+  {
+    "id": "bihar-csc e-governance services indian-aadhaar-supervisor-operator",
+    "title": "CSC e-Governance Services Indian Recruitment 2026 – Aadhaar Supervisor/ Operator Posts",
+    "shortInfo": "CSC e-Governance Services Indian has announced notification for Aadhaar Supervisor/ Operator posts. Required qualification: Diploma, 12TH, ITI. Last date to apply: 27-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "19",
+    "lastDate": "27-09-26",
+    "officialWebsite": "https://cscspv.in/ask-job.html",
+    "notificationLink": "https://cscspv.in/ask-job.html",
+    "applyOnlineLink": "https://cscspv.in/ask-job.html",
+    "state": "Bihar",
+    "stateCode": "bihar",
+    "scrapedAt": "2026-09-14"
+  },
+  {
     "id": "bihar-osc khagaria-centre-administrator",
     "title": "OSC Khagaria Recruitment 2026 – Centre Administrator Posts",
     "shortInfo": "OSC Khagaria has announced notification for Centre Administrator posts. Required qualification: Any Post Graduate. Last date to apply: 12-09-26.",
@@ -14,7 +135,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3d61e4bbd6393c9111e6526ea173a7c8b/uploads/2026/08/17871382741249.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "bihar-dcpu sheikhpura-chowkidar-ayah",
@@ -31,7 +152,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s30bb4aec1710521c12ee76289d9440817/uploads/2026/09/17882512057204.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "bihar-bseb-secondary-teacher-eligibility-test-stet-2026-paper",
@@ -48,7 +169,7 @@
     "applyOnlineLink": "https://stetregistration.cbrt.co.in/",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-09-06",
+    "scrapedAt": "2026-09-14",
     "fees": [
       {
         "category": "General / Economically Weaker General / OBC / EBC (for one paper)",
@@ -120,41 +241,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3daca41214b39c5dc66674d09081940f0/uploads/2026/08/17878051758264.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-09-06"
-  },
-  {
-    "id": "bihar-munger district-attenders",
-    "title": "Munger District Recruitment 2026 – Attenders Posts",
-    "shortInfo": "Munger District has announced notification for Attenders posts. Required qualification: 10TH. Last date to apply: 09-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "31",
-    "lastDate": "09-09-26",
-    "officialWebsite": "https://cdn.s3waas.gov.in/s3e0c641195b27425bb056ac56f8953d24/uploads/2026/08/17880019882288.pdf",
-    "notificationLink": "https://cdn.s3waas.gov.in/s3e0c641195b27425bb056ac56f8953d24/uploads/2026/08/17880019882288.pdf",
-    "applyOnlineLink": "https://cdn.s3waas.gov.in/s3e0c641195b27425bb056ac56f8953d24/uploads/2026/08/17880019882288.pdf",
-    "state": "Bihar",
-    "stateCode": "bihar",
-    "scrapedAt": "2026-09-06"
-  },
-  {
-    "id": "bihar-bsphcl-manager",
-    "title": "BSPHCL Recruitment 2026 – Manager Posts",
-    "shortInfo": "BSPHCL has announced notification for Manager posts. Required qualification: Retired Staff. Last date to apply: 10-09-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "10-09-26",
-    "officialWebsite": "https://www.bsphcl.co.in/Docs/Recruitment/RN-03-01-09-2026.pdf",
-    "notificationLink": "https://www.bsphcl.co.in/Docs/Recruitment/RN-03-01-09-2026.pdf",
-    "applyOnlineLink": "https://www.bsphcl.co.in/Docs/Recruitment/RN-03-01-09-2026.pdf",
-    "state": "Bihar",
-    "stateCode": "bihar",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "bihar-aiims patna-senior-resident",
@@ -171,7 +258,7 @@
     "applyOnlineLink": "https://api.aiimspatna.edu.in/advertisement/SR-rec-walkin-interview-29082026.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "bihar-iit patna-junior-research-fellow",
@@ -188,24 +275,7 @@
     "applyOnlineLink": "https://iitp.ac.in/media/iitp-media/notices/1787806363327-Advertisement%20no%20622%20dated%2020.08.2026.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&#038;X-Amz-Credential=minioadmin%2F20260828%2Fus-east-1%2Fs3%2Faws4_request&#038;X-Amz-Date=20260828T093612Z&#038;X-Amz-Expires=3600&#038;X-Amz-SignedHeaders=host&#038;X-Amz-Signature=afbdfae0c48fbc8073c3b12492e7c7eb6aa8f47dfe18d8b435acf825cdf5d89f",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-09-06"
-  },
-  {
-    "id": "bihar-tmc-genetic-counsellor",
-    "title": "TMC Recruitment 2026 – Genetic Counsellor Posts",
-    "shortInfo": "TMC has announced notification for Genetic Counsellor posts. Required qualification: Any Post Graduate. Last date to apply: 08-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "08-09-26",
-    "officialWebsite": "https://tmc.gov.in/postmaster/ViewFile?FileId=jh7q8RYzhrmOfKs8emjWJg==",
-    "notificationLink": "https://tmc.gov.in/postmaster/ViewFile?FileId=jh7q8RYzhrmOfKs8emjWJg==",
-    "applyOnlineLink": "https://tmc.gov.in/postmaster/ViewFile?FileId=jh7q8RYzhrmOfKs8emjWJg==",
-    "state": "Bihar",
-    "stateCode": "bihar",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "bihar-cece board-assistant-manager-aao-accountant-quality-controlle",
@@ -222,7 +292,7 @@
     "applyOnlineLink": "https://bcecebpatna.in/bcefoodsep25/",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-09-06",
+    "scrapedAt": "2026-09-14",
     "fees": [
       {
         "category": "General/Unreserved/EWS/BC/EBC",
@@ -301,185 +371,6 @@
     ]
   },
   {
-    "id": "bihar-bceceb-senior-resident-tutor",
-    "title": "BCECEB Recruitment 2026 – Senior Resident, Tutor Posts",
-    "shortInfo": "BCECEB has announced notification for Senior Resident, Tutor posts. Required qualification: MBBS, BDS, Post Graduate. Last date to apply: 08-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "118",
-    "lastDate": "08-09-26",
-    "officialWebsite": "https://bceceboard.bihar.gov.in",
-    "notificationLink": "https://bceceboard.bihar.gov.in/pdf_Pros/PROS_2SR26.pdf",
-    "applyOnlineLink": "https://admissions.nic.in/Bihar/Applicant/Root/OTHome.aspx?enc=k5U5Gp8NR6abhZ8Lld4oWvvSsCkKcG+Kcizck0pVdCvJE10jNAB9fCwdCq9SngLzv5wfQK8DbPTS5JsnelmH5g==",
-    "state": "Bihar",
-    "stateCode": "bihar",
-    "scrapedAt": "2026-09-06",
-    "fees": [
-      {
-        "category": "Unreserved (UR) / EWS / EBC / BC / SC / ST / DQ (PwD)",
-        "fee": "Rs. 2250/- (Two Thousand Two Hundred Fifty)"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Online Registration Starting Date",
-        "date": "25/08/2026"
-      },
-      {
-        "event": "Online Registration Closing Date",
-        "date": "08/09/2026"
-      },
-      {
-        "event": "Last date of payment and submission of Online Application",
-        "date": "08/09/2026"
-      },
-      {
-        "event": "Online Editing of Application",
-        "date": "09/09/2026"
-      },
-      {
-        "event": "Date of Publishing of Document Verification Programme",
-        "date": "11/09/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Senior Resident / Tutor",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the official website: bceceboard.bihar.gov.in and click on the ‘Online Portal of Senior Resident / Tutor under Health Dept.’ link.",
-      "Click on ‘Apply for Senior Resident / Tutor’ link and then click the ‘New Registration’ button.",
-      "Step-One (Registration): Fill all information correctly in the Online Application Form. Use your own or your father/mother’s email address and mobile number. Verify the mobile number and email address using the verification code sent to them. Keep your password confidential.",
-      "Step-Two (Multi-Step Application Form): Login using Registration No. and Password, then complete: (a) Department Selection, (b) Personal Information, (c) Contact Details, (d) Educational Information, (e) Upload Photo &amp; Signature (including live photograph).",
-      "Step-Three (Application Preview &amp; Final Submit): Review all entries. If any anomalies found, click ‘Back to Edit’ and rectify. After verification, click ‘Final Submit &amp; Proceed to Payment’ and pay the Counselling Fee.",
-      "Step-Four (Payment of Counselling Fee): Pay Rs. 2250/- through Online mode only (Debit Card / Credit Card / Net Banking / UPI). Processing charges are additional. Paid fee is non-refundable.",
-      "Step-Five (Download Confirmation Page &amp; Fee Receipt): After successful payment, download the Confirmation Page &amp; Fee Receipt and re-verify entries. Corrections can be made during the editing period as per schedule.",
-      "Hard copy of Application Form need not be sent to the Board’s office but must be produced at the time of counselling."
-    ]
-  },
-  {
-    "id": "bihar-iiit bhagalpur-apprentice",
-    "title": "IIIT Bhagalpur Recruitment 2026 – Apprentice Posts",
-    "shortInfo": "IIIT Bhagalpur has announced notification for Apprentice posts. Required qualification: B.B.A, B.Lib, B.Tech/B.E, B.A, BCA, Diploma. Last date to apply: 09-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "21",
-    "lastDate": "09-09-26",
-    "officialWebsite": "https://iiitbh.ac.in",
-    "notificationLink": "https://www.iiitbh.ac.in/sites/default/files/Recruitment/ENGAGEMENT%20OF%20APPRENTICES%20UNDER%20THE%20APPRENTICES%20ACT_.pdf",
-    "applyOnlineLink": "https://nats.education.gov.in/student_type.php",
-    "state": "Bihar",
-    "stateCode": "bihar",
-    "scrapedAt": "2026-09-06",
-    "fees": [
-      {
-        "category": "Fee",
-        "fee": "Not Mentioned"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Advertisement Date",
-        "date": "21/08/2026"
-      },
-      {
-        "event": "Online Application Start Date",
-        "date": "21/08/2026"
-      },
-      {
-        "event": "Online Application Last Date",
-        "date": "09/09/2026"
-      },
-      {
-        "event": "Cut-off Date for Age & Qualification",
-        "date": "09/09/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Computer Science and Engineering (Apprentice)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Electronics & Communication Engineering (Apprentice)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Mechatronics & Automation Engineering (Apprentice)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Mathematics & Computing (Apprentice)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Library (Apprentice)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Finance & Accounts (Apprentice)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Computer Centre/Website Management (Apprentice)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Administration (Apprentice)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Store & Purchase (Apprentice)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the NATS 2.0 portal at https://nats.education.gov.in/student_type.php",
-      "Register on the NATS 2.0 portal if not already registered.",
-      "Fill in the online application form with accurate details including percentage of marks in qualifying degree/diploma.",
-      "Upload necessary certificates (SC/ST/OBC-NCL/EWS/PwBD as applicable).",
-      "Provide active Aadhaar-seeded, DBT-enabled bank account details.",
-      "Submit the application online between 21/08/2026 and 09/09/2026 (both dates inclusive).",
-      "Keep a printout of the submitted application for future reference."
-    ]
-  },
-  {
     "id": "bihar-cusb-crs-project-fellow",
     "title": "CUSB Recruitment 2026 – CRS Project Fellow Posts",
     "shortInfo": "CUSB has announced notification for CRS Project Fellow posts. Required qualification: M.Sc. Last date to apply: 11-09-26.",
@@ -494,252 +385,7 @@
     "applyOnlineLink": "https://cusb.ac.in/index.php?option=com_content&#038;view=article&#038;id=1084:re-advertisement-for-the-post-of-crs-project-fellow-junior-i-crs-project-fellow-junior-ii-01-post-under-under-ugc-dae-csr-funded-project-cusb-rp-124&#038;catid=48&#038;Itemid=587",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-09-06"
-  },
-  {
-    "id": "bihar-esic bihar-senior-resident-super-specialist-senior-resident-w",
-    "title": "ESIC Bihar Recruitment 2026 – Senior Resident, Super Specialist Senior Resident (Walk-in) Posts",
-    "shortInfo": "ESIC Bihar has announced notification for Senior Resident, Super Specialist Senior Resident (Walk-in) posts. Required qualification: MD/MS/DNB in concerned Speciality. Last date to apply: 08.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "41",
-    "lastDate": "08",
-    "officialWebsite": "https://www.esic.gov.in",
-    "notificationLink": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_Interview_for_Recruitment_of_Senior_Residents_and_Super_Specialist_Senior_Residents_at_ESIC_Medical_College_amp_Hospital_Bihta_Patna_Advertisement_No_11_of_2026_1787385268.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/esic-bihar-senior-resident-recruitment-2026/",
-    "state": "Bihar",
-    "stateCode": "bihar",
-    "scrapedAt": "2026-09-06",
-    "fees": [
-      {
-        "category": "SC/ST/ESIC Regular Employee/Female/Defence Ex-Servicemen/PH Candidate",
-        "fee": "Nil"
-      },
-      {
-        "category": "All Other Categories",
-        "fee": "Rs. 500/-"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Walk-in-Interview for Senior Residents in Super Specialties Department",
-        "date": "08/09/2026"
-      },
-      {
-        "event": "Walk-in-Interview for Senior Residents (Pre and Para Clinical)",
-        "date": "09/09/2026"
-      },
-      {
-        "event": "Walk-in-Interview for Senior Residents Clinical Departments",
-        "date": "10/09/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Senior Resident - Anaesthesiology",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Resident - Pathology",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Resident - Chest",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Resident - ENT",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Resident - Eye",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Resident - General Medicine",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Resident - OBGY",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Resident - Orthopaedics",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Resident - Paediatrics",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Resident - Radiology",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Resident - General Surgery",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Resident - Anatomy",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Resident - Physiology",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Resident - FMT",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Resident - Anaesthesiology with Surgical Super Specialty",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Resident - Burns & Plastic Surgery",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Resident - Cardiology",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Resident - Endocrinology & Metabolism",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Resident - Haematology",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Resident - Gastroenterology",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Resident - Medical Oncology",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Resident - Nephrology",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Resident - Neurology",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Resident - Paediatric Surgery",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Resident - Urology",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Download and fill the Application Form available with the advertisement.",
-      "Prepare all required documents along with self-attested copies (refer to List of Documents at Sl. No. 7).",
-      "Prepare Demand Draft for Interview Fee (if applicable): Rs. 500/- for General/OBC/EWS candidates; Nil for SC/ST/Female/PH/Ex-Servicemen/ESIC Regular Employees. DD to be made in favour of ‘ESIC HOSPITAL BIHTA SB ACC-2’, payable at Bihta, Patna, SBI Branch Code-01217.",
-      "Report at the Venue: College Council Room, College Building, ESIC Medical College &amp; Hospital, Bihta, Patna – 801103 on the scheduled date between 09:00 AM and 11:00 AM.",
-      "Date of Walk-in-Interview: 08.09.2026 for Senior Residents in Super Specialties Department; 09.09.2026 for Senior Residents (Pre and Para Clinical); 10.09.2026 for Senior Residents Clinical Departments.",
-      "Candidates working in Govt./Autonomous/Statutory Institutions must submit NOC from current employer at the time of interview.",
-      "Security Deposit of Rs. 20,000/- (via Demand Draft in favour of ESI Fund Account No. 2, payable at SBI, Bihta, Patna) to be submitted at the time of joining.",
-      "No TA/DA will be paid for appearing in the walk-in-interview."
-    ]
-  },
-  {
-    "id": "bihar-cusb-research-associate-i-project-associate-1-and-more",
-    "title": "CUSB Recruitment 2026 – Research Associate I, Project Associate 1 and More Posts",
-    "shortInfo": "CUSB has announced notification for Research Associate I, Project Associate 1 and More posts. Required qualification: M.E/M.Tech, M.Phil/Ph.D, M.Sc, B.Sc. Last date to apply: 10-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "3",
-    "lastDate": "10-09-26",
-    "officialWebsite": "https://www.cusb.ac.in/index.php?option=com_content&#038;view=article&#038;id=1083:advertisement-for-the-post-of-research-associate-i-01-project-associate-1-01-and-scientific-administrative-assistant-01-under-dbt-funded-project-cusb-rp-134-sanctioned-to-prof-asheesh-shanker-professor-department-of-bioinformatics-cusb&#038;catid=48&#038;Itemid=587",
-    "notificationLink": "https://www.cusb.ac.in/index.php?option=com_content&#038;view=article&#038;id=1083:advertisement-for-the-post-of-research-associate-i-01-project-associate-1-01-and-scientific-administrative-assistant-01-under-dbt-funded-project-cusb-rp-134-sanctioned-to-prof-asheesh-shanker-professor-department-of-bioinformatics-cusb&#038;catid=48&#038;Itemid=587",
-    "applyOnlineLink": "https://www.cusb.ac.in/index.php?option=com_content&#038;view=article&#038;id=1083:advertisement-for-the-post-of-research-associate-i-01-project-associate-1-01-and-scientific-administrative-assistant-01-under-dbt-funded-project-cusb-rp-134-sanctioned-to-prof-asheesh-shanker-professor-department-of-bioinformatics-cusb&#038;catid=48&#038;Itemid=587",
-    "state": "Bihar",
-    "stateCode": "bihar",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "bihar-nalanda university-faculty",
@@ -756,7 +402,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/nalanda-university-teaching-recruitment-2026-apply-online-for-19-posts/",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-09-06",
+    "scrapedAt": "2026-09-14",
     "fees": [
       {
         "category": "All Candidates (per position)",
@@ -888,23 +534,6 @@
     ]
   },
   {
-    "id": "bihar-iit patna-counsellor",
-    "title": "IIT Patna Recruitment 2026 – Counsellor Posts",
-    "shortInfo": "IIT Patna has announced notification for Counsellor posts. Required qualification: Any Post Graduate, Diploma, PG Diploma. Last date to apply: 10-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "10-09-26",
-    "officialWebsite": "https://iitp.ac.in/media/iitp-media/notices/1787291938356-Advt_no_iitp_sa_2026_27_02.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&#038;X-Amz-Credential=minioadmin%2F20260824%2Fus-east-1%2Fs3%2Faws4_request&#038;X-Amz-Date=20260824T063645Z&#038;X-Amz-Expires=3600&#038;X-Amz-SignedHeaders=host&#038;X-Amz-Signature=16863dc52b25fb82b0f023f79911d5f3167e26dd45588396ae32dd1ad3bd1fd6",
-    "notificationLink": "https://iitp.ac.in/media/iitp-media/notices/1787291938356-Advt_no_iitp_sa_2026_27_02.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&#038;X-Amz-Credential=minioadmin%2F20260824%2Fus-east-1%2Fs3%2Faws4_request&#038;X-Amz-Date=20260824T063645Z&#038;X-Amz-Expires=3600&#038;X-Amz-SignedHeaders=host&#038;X-Amz-Signature=16863dc52b25fb82b0f023f79911d5f3167e26dd45588396ae32dd1ad3bd1fd6",
-    "applyOnlineLink": "https://iitp.ac.in/media/iitp-media/notices/1787291938356-Advt_no_iitp_sa_2026_27_02.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&#038;X-Amz-Credential=minioadmin%2F20260824%2Fus-east-1%2Fs3%2Faws4_request&#038;X-Amz-Date=20260824T063645Z&#038;X-Amz-Expires=3600&#038;X-Amz-SignedHeaders=host&#038;X-Amz-Signature=16863dc52b25fb82b0f023f79911d5f3167e26dd45588396ae32dd1ad3bd1fd6",
-    "state": "Bihar",
-    "stateCode": "bihar",
-    "scrapedAt": "2026-09-06"
-  },
-  {
     "id": "bihar-aiims patna-manager-librarian-more",
     "title": "AIIMS Patna Recruitment 2026 – Manager, Librarian, More Posts",
     "shortInfo": "AIIMS Patna has announced notification for Manager, Librarian, More posts. Required qualification: Diploma, B.Tech/B.E, 12TH, B.Lib, B.Sc, ITI. Last date to apply: 19-09-26.",
@@ -919,41 +548,7 @@
     "applyOnlineLink": "https://api.aiimspatna.edu.in/advertisement/DeputationAdvertisementGroupB_C_Dated20082026.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-09-06"
-  },
-  {
-    "id": "bihar-niper hajipur-project-research-scientist-project-technical-suppo",
-    "title": "NIPER Hajipur Recruitment 2026 – Project Research Scientist, Project Technical Support Posts",
-    "shortInfo": "NIPER Hajipur has announced notification for Project Research Scientist, Project Technical Support posts. Required qualification: Any Graduate, Diploma, M.Phil/Ph.D. Last date to apply: 08-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "08-09-26",
-    "officialWebsite": "https://niperhajipur.ac.in/recruitment-of-project-research-scientist-project-technical-support-contract-basis/",
-    "notificationLink": "https://niperhajipur.ac.in/recruitment-of-project-research-scientist-project-technical-support-contract-basis/",
-    "applyOnlineLink": "https://niperhajipur.ac.in/recruitment-of-project-research-scientist-project-technical-support-contract-basis/",
-    "state": "Bihar",
-    "stateCode": "bihar",
-    "scrapedAt": "2026-09-06"
-  },
-  {
-    "id": "bihar-central bank of india-office-assistant",
-    "title": "Central Bank of India Recruitment 2026 – Office Assistant Posts",
-    "shortInfo": "Central Bank of India has announced notification for Office Assistant posts. Required qualification: BSW/BA/B.Com. Last date to apply: 05-09-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "-",
-    "lastDate": "05-09-26",
-    "officialWebsite": "https://centralbank.bank.in/sites/default/files/ANNEX-1%20OFFICE%20ASSISTANT.pdf",
-    "notificationLink": "https://centralbank.bank.in/sites/default/files/ANNEX-1%20OFFICE%20ASSISTANT.pdf",
-    "applyOnlineLink": "https://centralbank.bank.in/sites/default/files/ANNEX-1%20OFFICE%20ASSISTANT.pdf",
-    "state": "Bihar",
-    "stateCode": "bihar",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "bihar-bpsc-teacher-primary-secondary-higher-secondary-tre-4-0",
@@ -970,7 +565,7 @@
     "applyOnlineLink": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Important-Notice-Probable-Date-of-Online-Application-TRE-4.0Date_BPSC-20260901-lavk2s.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-09-06",
+    "scrapedAt": "2026-09-14",
     "fees": [
       {
         "category": "General/Unreserved/OBC/Other State",
@@ -1043,23 +638,6 @@
     ]
   },
   {
-    "id": "bihar-igims-data-entry-operator-senior-resident",
-    "title": "IGIMS Recruitment 2026 – Data Entry Operator, Senior Resident Posts",
-    "shortInfo": "IGIMS has announced notification for Data Entry Operator, Senior Resident posts. Required qualification: MSW, M.Sc, Diploma, MS/MD, B.Tech/B.E, M.A, M.Phil/Ph.D, MCA. Last date to apply: 04-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "5",
-    "lastDate": "04-09-26",
-    "officialWebsite": "https://www.igims.org/resources/uploads/TenderManagement/178636620796.pdf",
-    "notificationLink": "https://www.igims.org/resources/uploads/TenderManagement/178636620796.pdf",
-    "applyOnlineLink": "https://www.igims.org/resources/uploads/TenderManagement/178636620796.pdf",
-    "state": "Bihar",
-    "stateCode": "bihar",
-    "scrapedAt": "2026-09-06"
-  },
-  {
     "id": "bihar-dlsa sheikhpura-para-legal-volunteer",
     "title": "DLSA Sheikhpura Recruitment 2026 – Para Legal Volunteer Posts",
     "shortInfo": "DLSA Sheikhpura has announced notification for Para Legal Volunteer posts. Required qualification: 10TH. Last date to apply: 11-09-26.",
@@ -1074,7 +652,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/dlsa-sheikhpura-para-legal-volunteer-recruitment-2026/",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-09-06",
+    "scrapedAt": "2026-09-14",
     "fees": [
       {
         "category": "Fee",
@@ -1109,152 +687,6 @@
     ]
   },
   {
-    "id": "bihar-aiims patna-executive-engineer-security-officer",
-    "title": "AIIMS Patna Recruitment 2026 – Executive Engineer, Security Officer Posts",
-    "shortInfo": "AIIMS Patna has announced notification for Executive Engineer, Security Officer posts. Required qualification: B.Com, M.A, Any Bachelors Degree, M.Phil/Ph.D, B.Tech/B.E, B.Arch, MSW, M.E/M.Tech, Diploma, M.Sc. Last date to apply: 10-09-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "18",
-    "lastDate": "10-09-26",
-    "officialWebsite": "https://nalandauniv.edu.in/",
-    "notificationLink": "https://nalandauniv.edu.in/wp-content/uploads/2026/08/Teaching-Advertisement-22.08.2026.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/nalanda-university-teaching-recruitment-2026-apply-online-for-19-posts/",
-    "state": "Bihar",
-    "stateCode": "bihar",
-    "scrapedAt": "2026-09-06",
-    "fees": [
-      {
-        "category": "All Candidates (per position)",
-        "fee": "Rs. 500/-"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Advertisement Date",
-        "date": "22/08/2026"
-      },
-      {
-        "event": "Last Date for Receiving Applications",
-        "date": "15/09/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Associate Professor (Buddhist Studies)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (Buddhist Studies)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Associate Professor (Hindu Studies)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (Hindu Studies)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Professor (Philosophy)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Associate Professor (Philosophy)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (Philosophy)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Professor (Sanskrit)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Associate Professor (Sanskrit)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (Sanskrit)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Professor (Data Science and AI)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Associate Professor (Data Science and AI)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor (Data Science and AI)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Professor (Science Tech & Policy Studies)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Associate Professor (Science Tech & Policy Studies)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Candidates are required to apply online only through the Online Link (Google Form) provided at the end of the advertisement. Log in to your Gmail account before clicking on the link.",
-      "Pay an application fee of Rs. 500/- for each position online directly to the University’s Bank Account (HDFC Bank, Account No. 50100079546912, IFSC: HDFC0002059). Note the UTR Number/Transaction Reference Number for the application form.",
-      "Submit a separate Application Form for each post applied for.",
-      "Forward the Form Response Receipt (Filled in Google Form) with CV and scanned copies of all relevant documents to recruitment@nalandauniv.edu.in (no hard copy accepted). Documents include: recent passport-sized photograph and signature; certificates and mark sheets of all examinations including research degrees; proof of teaching, research and professional experience; copies of published research papers and other academic contributions."
-    ]
-  },
-  {
     "id": "bihar-aai-graduate-apprentice-diploma-apprentice-iti-apprent",
     "title": "AAI Recruitment 2026 – Graduate Apprentice, Diploma Apprentice, ITI Apprentice Posts",
     "shortInfo": "AAI has announced notification for Graduate Apprentice, Diploma Apprentice, ITI Apprentice posts. Required qualification: Graduate Degree / Diploma / ITI. Last date to apply: Update.",
@@ -1269,7 +701,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-09-06",
+    "scrapedAt": "2026-09-14",
     "fees": [],
     "dates": [
       {

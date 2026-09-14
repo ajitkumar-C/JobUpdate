@@ -1,20 +1,388 @@
 [
   {
-    "id": "hp-nrtc-junior-engineer-operator",
-    "title": "NRTC Recruitment 2026 – Junior Engineer, Operator Posts",
-    "shortInfo": "NRTC has announced notification for Junior Engineer, Operator posts. Required qualification: B.Com, MBA/PGDM, Diploma, M.Com, B.Tech/B.E, ITI. Last date to apply: 10-09-26.",
+    "id": "hp-hpbose - hp tet-hp-tet-november-exam-2026",
+    "title": "HPBOSE - HP TET Recruitment 2026 – HP TET November Exam 2026 Posts",
+    "shortInfo": "HPBOSE - HP TET has announced notification for HP TET November Exam 2026 posts. Required qualification: Senior Secondary/Graduation/Post-Graduation with B.Ed./D.El.Ed./JBT. Last date to apply: 03-10-26.",
     "category": "Others",
     "categoryIcon": "🏢",
     "categoryMarathi": "Others",
     "district": "State Level",
-    "vacancies": "11",
-    "lastDate": "10-09-26",
-    "officialWebsite": "https://nrtc.hp.gov.in/Pdf/Expression%20of%20Interest%20(3).pdf",
-    "notificationLink": "https://nrtc.hp.gov.in/Pdf/Expression%20of%20Interest%20(3).pdf",
-    "applyOnlineLink": "https://nrtc.hp.gov.in/Pdf/Expression%20of%20Interest%20(3).pdf",
+    "vacancies": "-",
+    "lastDate": "03-10-26",
+    "officialWebsite": "https://www.hpbose.org",
+    "notificationLink": "https://www.hpbose.org/Admin/Upload/PROSPEECTUSTETNOVEMBER2026FINAL.pdf",
+    "applyOnlineLink": "https://www.hpbose.org/OnlineServices/CET/TET/Instructions.aspx",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14",
+    "fees": [
+      {
+        "category": "General & its Sub-Categories (except PHH)",
+        "fee": "Rs. 1200/-"
+      },
+      {
+        "category": "OBC / ST / SC / Physically Handicapped (PHH)",
+        "fee": "Rs. 700/-"
+      },
+      {
+        "category": "Late Fee (in addition to prescribed fee, applicable during late-fee period)",
+        "fee": "Rs. 600/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Submission of Online Application Starts",
+        "date": "11/09/2026"
+      },
+      {
+        "event": "Last Date for Submission of Online Application & Payment (Without Late Fee)",
+        "date": "03/10/2026"
+      },
+      {
+        "event": "Submission of Online Application with Late Fee of Rs. 600/- (04 to 08-10-2026)",
+        "date": ""
+      },
+      {
+        "event": "Period for Online Corrections (except Category/Sub-category) (09 to 12-10-2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "TGT (Arts) TET",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT (Non-Medical) TET",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT (Medical) TET",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT (Hindi) TET",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT (Sanskrit) TET",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "JBT TET",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Punjabi Language Teacher TET",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Urdu Language Teacher TET",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Special Educator TET (For Pre-Primary to Class-V)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Special Educator TET (For Class VI to Class-XII)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website of HPBoSE at www.hpbose.org.",
+      "Click on ‘CET/Vacancy’ option and select the link ‘HP TET November-2026’.",
+      "Enter your 12-digit Aadhar Number and select the subject for HP TET November-2026.",
+      "Fill in personal details including Name, Father’s/Mother’s Name (as per Matriculation certificate in CAPITAL LETTERS), Date of Birth, Category, Sub-category, Gender, Contact/Mobile Number, Email ID, Nationality, and Address.",
+      "Upload scanned images of photograph (JPG, less than 20 KB, 3.5 cm x 4.5 cm) and signature (JPG, less than 15 KB, 3.5 cm x 1.5 cm).",
+      "Pay the examination fee through Payment Gateway via Net Banking or Debit/Credit Card.",
+      "Submit the declaration and take a printout of the Confirmation Page for future reference.",
+      "Note the Application Number generated after successful submission for future use (Application Number as User ID and Date of Birth as Password).",
+      "In case of more than one teaching subject/category, submit a separate online application and fee for each category."
+    ]
+  },
+  {
+    "id": "hp-csir ihbt-project-assistant-ii-and-more-young-professional-i",
+    "title": "CSIR IHBT Recruitment 2026 – Project Assistant II and More, Young Professional I (Walk-in) Posts",
+    "shortInfo": "CSIR IHBT has announced notification for Project Assistant II and More, Young Professional I (Walk-in) posts. Required qualification: MCA, M.Sc, M.Pharma, B.Tech/B.E, B.Sc, M.E/M.Tech, M.Phil/Ph.D. Last date to apply: 21.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "16",
+    "lastDate": "21",
+    "officialWebsite": "https://www.ihbt.res.in",
+    "notificationLink": "https://www.ihbt.res.in/components/com_chronoforms5/chronoforms/uploads/Recruitment/20260908154239_1_Final_Advt_no._16_by__2026_with_Application_Form.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/csir-ihbt-vacancy-2026/",
+    "state": "Himachal Pradesh",
+    "stateCode": "hp",
+    "scrapedAt": "2026-09-14",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Walk-in-Interview (Position Codes 16001-16005)",
+        "date": "21/09/2026"
+      },
+      {
+        "event": "Walk-in-Interview (Position Codes 16006-16009)",
+        "date": "22/09/2026"
+      },
+      {
+        "event": "Walk-in-Interview (Position Codes 16010-16012)",
+        "date": "23/09/2026"
+      },
+      {
+        "event": "Walk-in-Interview (Position Codes 16013-16016)",
+        "date": "24/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Senior-PAT (16001)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate PAT-I (16002)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate PAT-I (16003)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior PAT (16004)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate PAT-I (16005)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Young Professional-I (16006)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate PAT-I (16007)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate PAT-II (16008)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate PAT-I (16009)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Assistant-II PA-II (16010)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate PAT-I (16011)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate PAT-I (16012)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Assistant-II PA-II (16013)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate PAT-I (16014)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate PAT-I (16015)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Research Scientist PRS-I (16016)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Eligible candidates may appear for Walk-in-Interview on the date, time and place mentioned against each position.",
+      "Candidates must bring an application on the prescribed format (available on CSIR-IHBT website www.ihbt.res.in) with latest colored passport size photo affixed on it.",
+      "Self-attested photocopies of testimonials of age, educational qualifications, experience etc. must be brought at the time of interview.",
+      "Candidates must also bring original certificates at the time of appearing for the interview; failing which they will not be allowed to appear.",
+      "If any candidate wants to apply for more than one position code, they will have to submit separate application form for each position code.",
+      "No Travelling Allowance will be paid for attending the interview.",
+      "Candidates reporting after 10.00 AM will not be allowed to appear for interview.",
+      "Result awaited candidates are not eligible for interview.",
+      "For any query, contact exclusively at recruitment.ihbt@csir.res.in"
+    ]
+  },
+  {
+    "id": "hp-himachal pradesh jal shakti vibhag-para-cook-para-helper",
+    "title": "Himachal Pradesh Jal Shakti Vibhag Recruitment 2026 – Para Cook, Para Helper Posts",
+    "shortInfo": "Himachal Pradesh Jal Shakti Vibhag has announced notification for Para Cook, Para Helper posts. Required qualification: Any Graduate, Diploma, 10TH. Last date to apply: 25-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "6",
+    "lastDate": "25-09-26",
+    "officialWebsite": "https://jsv.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1yTV49xNU6QBk0f%2BD9rWV0VhZ%2BdahwEOncXXlmc34oR%2FPcisPcfSvHhoDoX%2FCxwsAsmTL9C%2FVnROl1rur0KNRYFtLy3SYeuxXpWRXexP0rHJAI8iuLYE59gIDk9BbFawFc%3D",
+    "notificationLink": "https://jsv.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1yTV49xNU6QBk0f%2BD9rWV0VhZ%2BdahwEOncXXlmc34oR%2FPcisPcfSvHhoDoX%2FCxwsAsmTL9C%2FVnROl1rur0KNRYFtLy3SYeuxXpWRXexP0rHJAI8iuLYE59gIDk9BbFawFc%3D",
+    "applyOnlineLink": "https://jsv.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1yTV49xNU6QBk0f%2BD9rWV0VhZ%2BdahwEOncXXlmc34oR%2FPcisPcfSvHhoDoX%2FCxwsAsmTL9C%2FVnROl1rur0KNRYFtLy3SYeuxXpWRXexP0rHJAI8iuLYE59gIDk9BbFawFc%3D",
+    "state": "Himachal Pradesh",
+    "stateCode": "hp",
+    "scrapedAt": "2026-09-14"
+  },
+  {
+    "id": "hp-hpscb-cooperative-intern",
+    "title": "HPSCB Recruitment 2026 – Cooperative Intern Posts",
+    "shortInfo": "HPSCB has announced notification for Cooperative Intern posts. Required qualification: MBA/PGDM. Last date to apply: 30-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "30-09-26",
+    "officialWebsite": "https://hpscb.bank.in",
+    "notificationLink": "https://hpscb.bank.in/upload/notification/doc/V4rVvuShovrM2F5CWU3sUHhQOX1IEwORYeIvOMVL.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/hpscb-cooperative-intern-recruitment-2026/",
+    "state": "Himachal Pradesh",
+    "stateCode": "hp",
+    "scrapedAt": "2026-09-14",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date to Apply",
+        "date": "30/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Cooperative Intern (Kangra Central Cooperative Bank Ltd.)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Cooperative Intern (Jogindra Central Cooperative Bank Ltd.)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Bank’s website www.hpscb.bank.in and go through the eligibility criteria, remuneration, age limit, tenure of internship and other terms and conditions as spelt out in NABARD’s circular dated 15.03.2024.",
+      "Prepare an application on plain paper with complete Bio-data.",
+      "Enclose self-attested copies of certificates in support of age, eligibility, educational qualification, and experience.",
+      "Attach latest passport size coloured photograph.",
+      "Address the application to: The Managing Director, The H.P. State Cooperative Bank Ltd., Head Office- The Mall Shimla-171001.",
+      "Ensure the application reaches the Head Office on or before 30.09.2026 by 05:00 PM."
+    ]
+  },
+  {
+    "id": "hp-himachal pradesh jal shakti vibhag-multipurpose-worker-para-pump-operator",
+    "title": "Himachal Pradesh Jal Shakti Vibhag Recruitment 2026 – Multipurpose Worker, Para Pump Operator Posts",
+    "shortInfo": "Himachal Pradesh Jal Shakti Vibhag has announced notification for Multipurpose Worker, Para Pump Operator posts. Required qualification: ITI, 8TH, 10TH. Last date to apply: 26-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "30",
+    "lastDate": "26-09-26",
+    "officialWebsite": "https://jsv.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1yTV49xNU6QBk0f%2BD9rWV0VhZ%2BdahwEOncXXlmc34oR%2FPcisPcfSvHhoDoX%2FCxwsAsmTL9C%2FVnROuWIcb%2Bng2PjjFT8DE%2Bzjg3k11%2BrSfsPIytfrwsQAU8ctpahTPhLqNA%3D",
+    "notificationLink": "https://jsv.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1yTV49xNU6QBk0f%2BD9rWV0VhZ%2BdahwEOncXXlmc34oR%2FPcisPcfSvHhoDoX%2FCxwsAsmTL9C%2FVnROuWIcb%2Bng2PjjFT8DE%2Bzjg3k11%2BrSfsPIytfrwsQAU8ctpahTPhLqNA%3D",
+    "applyOnlineLink": "https://jsv.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1yTV49xNU6QBk0f%2BD9rWV0VhZ%2BdahwEOncXXlmc34oR%2FPcisPcfSvHhoDoX%2FCxwsAsmTL9C%2FVnROuWIcb%2Bng2PjjFT8DE%2Bzjg3k11%2BrSfsPIytfrwsQAU8ctpahTPhLqNA%3D",
+    "state": "Himachal Pradesh",
+    "stateCode": "hp",
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "hp-iit mandi-non-teaching",
@@ -31,7 +399,7 @@
     "applyOnlineLink": "https://iitmandi.ac.in/recruitment/Advt_2026_04.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "hp-dlsa chamba-para-legal-volunteer",
@@ -48,7 +416,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec03946e3ece1fc8b24bd656449d88ec/uploads/2026/09/2026090389.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "hp-hppsc-deputy-director",
@@ -60,12 +428,53 @@
     "district": "State Level",
     "vacancies": "4",
     "lastDate": "29-09-26",
-    "officialWebsite": "https://hppsc.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1wSGo29lXLTBfw1DHezN8KfEg%2BrikZhi%2FLLqiZME0%2BQRfdkGlH8WWhtZ6yT8GJ18LCaAcw%2F5Y%2BoDQd5Z0v908e3ZJyFRBKQAkw%3D",
+    "officialWebsite": "https://hppsc.hp.gov.in",
     "notificationLink": "https://hppsc.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1wSGo29lXLTBfw1DHezN8KfEg%2BrikZhi%2FLLqiZME0%2BQRfdkGlH8WWhtZ6yT8GJ18LCaAcw%2F5Y%2BoDQd5Z0v908e3ZJyFRBKQAkw%3D",
-    "applyOnlineLink": "https://hppsc.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1wSGo29lXLTBfw1DHezN8KfEg%2BrikZhi%2FLLqiZME0%2BQRfdkGlH8WWhtZ6yT8GJ18LCaAcw%2F5Y%2BoDQd5Z0v908e3ZJyFRBKQAkw%3D",
+    "applyOnlineLink": "https://hppsconline.hp.gov.in/HPPSC/ApplicantRegistration/Home/Login",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14",
+    "fees": [
+      {
+        "category": "All Candidates (Uniform fee irrespective of category or gender)",
+        "fee": "Rs. 600.00"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "02/09/2026"
+      },
+      {
+        "event": "Last Date for Application Submission",
+        "date": "29/09/2026"
+      },
+      {
+        "event": "Last Date for Fee Payment",
+        "date": "29/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Deputy Director Sainik Welfare (Class-1, Gazetted, Group-A, Job Trainee)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website of the Commission at http://www.hppsc.hp.gov.in/hppsc.",
+      "Click on the link ‘Apply Online’ on the Home Page.",
+      "Click on ‘One Time Registration (OTR) for Examinations’ and register/create your profile by clicking ‘New Registration’ if not already registered.",
+      "Log into your OTR account; the list of live advertisements will be displayed on the dashboard.",
+      "Apply for the concerned post through the portal only.",
+      "Upload all requisite documents as per the advertisement on the OTRS portal.",
+      "Give an undertaking/declaration that uploaded documents are legible, readable and true before submission.",
+      "Pay the examination fee online via Debit Card/Credit Card/UPI or any other online digital mode on or before the closing date.",
+      "Once submitted, no corrections/modifications can be made to the application, so check all fields carefully before submission.",
+      "Download e-admit card from the official website using your User ID and password."
+    ]
   },
   {
     "id": "hp-dlsa mandi-para-legal-volunteer",
@@ -82,7 +491,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec03645e6bfdd05d1a69c5e47b20f0a9/uploads/2026/08/2026082234.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "hp-iit mandi-junior-research-fellow",
@@ -99,7 +508,7 @@
     "applyOnlineLink": "https://iitmandi.ac.in/recruitment/IITM_DST_NQM_JSN_615.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "hp-hp high court-personnel-assistant-judgement-writer-stenographer",
@@ -116,7 +525,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/hp-high-court-personnel-assistant-stenographer-recruitment-2026-apply-for-12-posts/",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-09-06",
+    "scrapedAt": "2026-09-14",
     "fees": [
       {
         "category": "Fee",
@@ -175,7 +584,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec03d5d7f5bba709f5cbbe1f74977096/uploads/2026/08/2026082691.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "hp-dlsa mandi-para-legal-volunteer",
@@ -192,7 +601,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec03645e6bfdd05d1a69c5e47b20f0a9/uploads/2026/08/2026082688.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "hp-hpscdrc-senior-scale-stenographer",
@@ -209,7 +618,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec03d5d7f5bba709f5cbbe1f74977096/uploads/2026/08/2026082663.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "hp-himachal pradesh jal shakti vibhag-multipurpose-worker-para-pump-operator",
@@ -226,7 +635,7 @@
     "applyOnlineLink": "https://jsv.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1yTV49xNU6QBk0f%2BD9rWV0VhZ%2BdahwEOncXXlmc34oR%2FPcisPcfSvHhoDoX%2FCxwsAsmTL9C%2FVnROiC%2F9hgE2WSXfYrGtOXvpuiodcsJJSsv5DPG%2FPQOCyoBt5Y3pjCKvz8%3D",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-09-06"
+    "scrapedAt": "2026-09-14"
   },
   {
     "id": "hp-hppsc-h-p-administrative-services-block-development-offi",
@@ -243,7 +652,7 @@
     "applyOnlineLink": "https://hppsconline.hp.gov.in/HPPSC/ApplicantRegistration/Home/Login",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-09-06",
+    "scrapedAt": "2026-09-14",
     "fees": [
       {
         "category": "All Candidates (Uniform Fee irrespective of category)",
@@ -315,184 +724,6 @@
     ]
   },
   {
-    "id": "hp-esic mh baddi-specialist-senior-resident-walk-in-",
-    "title": "ESIC MH Baddi Recruitment 2026 – Specialist, Senior Resident (Walk-in) Posts",
-    "shortInfo": "ESIC MH Baddi has announced notification for Specialist, Senior Resident (Walk-in) posts. Required qualification: Diploma, Any Post Graduate, MBBS, DM, M.Ch. Last date to apply: 09-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "47",
-    "lastDate": "09-09-26",
-    "officialWebsite": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_interview_for_the_post_of_SR_Specialist_Superspecialist_Cardiology_on_contract_basis_1787200026.pdf",
-    "notificationLink": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_interview_for_the_post_of_SR_Specialist_Superspecialist_Cardiology_on_contract_basis_1787200026.pdf",
-    "applyOnlineLink": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_interview_for_the_post_of_SR_Specialist_Superspecialist_Cardiology_on_contract_basis_1787200026.pdf",
-    "state": "Himachal Pradesh",
-    "stateCode": "hp",
-    "scrapedAt": "2026-09-06"
-  },
-  {
-    "id": "hp-hpu-assistant-professor",
-    "title": "HPU Recruitment 2026 – Assistant Professor Posts",
-    "shortInfo": "HPU has announced notification for Assistant Professor posts. Required qualification: Any Masters Degree. Last date to apply: 07-09-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "26",
-    "lastDate": "07-09-26",
-    "officialWebsite": "https://hpuniv.ac.in/",
-    "notificationLink": "https://hpuniv.ac.in/upload/press_release/6a75a7a7b20d3Advertisementcompressed.pdf",
-    "applyOnlineLink": "https://recruitment.hpushimla.in/",
-    "state": "Himachal Pradesh",
-    "stateCode": "hp",
-    "scrapedAt": "2026-09-06",
-    "fees": [
-      {
-        "category": "General Category (including General Physically Disabled, Orthopedically disabled, Deaf & Dumb, Hearing Impaired / WFF of HP / Ex-Servicemen of HP relieved on own request before completion of normal tenure / dependent son, daughters/married daughters and wives of Ex-Servicemen of HP)",
-        "fee": "Rs. 2000/-"
-      },
-      {
-        "category": "HP/BPL of HP including SC/ST/OBC Ex-Servicemen of HP relieved on own request before completion of normal tenure / dependent son, daughters/married daughters and wives of Ex-Servicemen of SC/ST/OBC category of HP",
-        "fee": "Rs. 1000/-"
-      },
-      {
-        "category": "Ex-Servicemen of HP (relieved after completion of normal tenure) / Visually Impaired of HP",
-        "fee": "No Fee"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Advertisement Date",
-        "date": "07/08/2026"
-      },
-      {
-        "event": "Opening Date for Online Application",
-        "date": "11/08/2026"
-      },
-      {
-        "event": "Closing Date for Online Application",
-        "date": "07/09/2026"
-      },
-      {
-        "event": "Last Date for Receipt of Hard Copy (General)",
-        "date": "22/09/2026"
-      },
-      {
-        "event": "Last Date for Receipt of Hard Copy (Remote Areas)",
-        "date": "03/10/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Assistant Professor - Psychology (PG Centre, Shimla)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor - History (PG Centre, Shimla)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor - Law (PG Centre, Shimla)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor - Commerce (PG Centre, Shimla)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor - Physics (PG Centre, Shimla)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor - Chemistry (PG Centre, Shimla)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor - Life Long Learning (PG Centre, Shimla)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor - Geography (PG Centre, Shimla)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor - Sanskrit (PG Centre, Shimla)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor - Law (Regional Centre, Dharamshala)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Professor - Computer Science/IT (UIT, Shimla)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the University Recruitment Portal at http://www.recruitment.hpushimla.in",
-      "Register/Login using your credentials (existing users from Rectt.-26/2022 may use existing ID and Password for fee exemption).",
-      "Fill in the Online Application Form with all required details including bio-data, qualifications, experience, and testimonials.",
-      "Upload all requisite credentials/documents on the portal.",
-      "Pay the application processing fee online via debit/credit card, UPI, or internet banking on or before the closing date.",
-      "Submit the online application before 07.09.2026 (11:59 PM).",
-      "Download the submitted Online Application Form and take a printout.",
-      "Attach all requisite relevant documents including proof of UGC listed (care-list) publications/journals.",
-      "Send the hard copy along with all documents to: The Deputy Registrar, Recruitment Branch, Gyan Path, H.P. University, Summerhill, Shimla (H.P.)-171005 on or before 22.09.2026 upto 05:00 PM (03.10.2026 for remote area candidates).",
-      "In-service candidates must submit hard copy through proper channel and produce NOC at the time of interview."
-    ]
-  },
-  {
-    "id": "hp-icar iari-technical-assistant",
-    "title": "ICAR IARI Recruitment 2026 – Technical Assistant Posts",
-    "shortInfo": "ICAR IARI has announced notification for Technical Assistant posts. Required qualification: B.Sc. Last date to apply: 02-09-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "02-09-26",
-    "officialWebsite": "https://iari.res.in/files/jobs/Technical-Assistant_13082026.pdf",
-    "notificationLink": "https://iari.res.in/files/jobs/Technical-Assistant_13082026.pdf",
-    "applyOnlineLink": "https://iari.res.in/files/jobs/Technical-Assistant_13082026.pdf",
-    "state": "Himachal Pradesh",
-    "stateCode": "hp",
-    "scrapedAt": "2026-09-06"
-  },
-  {
     "id": "hp-aai nr-graduate-apprentice-diploma-apprentice-iti-trade-a",
     "title": "AAI NR Recruitment 2026 – Graduate Apprentice, Diploma Apprentice, ITI Trade Apprentice Posts",
     "shortInfo": "AAI NR has announced notification for Graduate Apprentice, Diploma Apprentice, ITI Trade Apprentice posts. Required qualification: Degree, Diploma, ITI. Last date to apply: 16-09-26.",
@@ -507,7 +738,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-nr-apprentice-2026/",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-09-06",
+    "scrapedAt": "2026-09-14",
     "fees": [
       {
         "category": "All Categories",
@@ -653,97 +884,6 @@
     ]
   },
   {
-    "id": "hp-hp high court-court-manager-clerk-stenographer-grade-iii-driver-",
-    "title": "HP High Court Recruitment 2026 – Court Manager, Clerk, Stenographer Grade-III, Driver, Process Server, Peon/Orderly/Chowkidar/Safai Karamchari/Chowkidar-cum-Safai Karamchari Posts",
-    "shortInfo": "HP High Court has announced notification for Court Manager, Clerk, Stenographer Grade-III, Driver, Process Server, Peon/Orderly/Chowkidar/Safai Karamchari/Chowkidar-cum-Safai Karamchari posts. Required qualification: Graduation/10+2/Matriculation. Last date to apply: 10-09-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "388",
-    "lastDate": "10-09-26",
-    "officialWebsite": "https://highcourt.hp.gov.in/",
-    "notificationLink": "https://highcourt.hp.gov.in/uploads/recruitment/items/item_1786094343_5963.pdf",
-    "applyOnlineLink": "https://www.hphcrecruitment.in/login",
-    "state": "Himachal Pradesh",
-    "stateCode": "hp",
-    "scrapedAt": "2026-09-06",
-    "fees": [
-      {
-        "category": "Unreserved (UR)",
-        "fee": "Rs. 450/- (including GST)"
-      },
-      {
-        "category": "Reserved Categories of HP (SC, ST, OBC, EWS, PH)",
-        "fee": "Rs. 300/- (including GST)"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Opening Date of Online Application",
-        "date": "10/08/2026"
-      },
-      {
-        "event": "Closing Date of Online Application & Fee",
-        "date": "10/09/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Court Manager (Group-B)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Clerk (Group-C)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Stenographer Grade-III (Group-C)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Driver (Group-C)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Process Server (Group-D)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Peon/Orderly/Chowkidar/Safai Karamchari/Chowkidar-cum-Safai Karamchari etc. (Group-D)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the official recruitment portal: https://www.hphcrecruitment.in/login or High Court website: https://highcourt.hp.gov.in/",
-      "Read the R&amp;P Rules, 2022 and advertisement notice carefully before applying.",
-      "Register and fill the Online Recruitment Application (ORA) form with accurate details.",
-      "Upload scanned copies of required documents: coloured photograph (20-50 KB, JPG/JPEG/PNG), signature (10-20 KB, JPG/JPEG/PNG), Matric Certificate (100-500 KB, JPG/JPEG/PNG), ID Proof (100-500 KB, JPG/JPEG/PNG), and other certificates/documents (100 KB to 2 MB, PDF).",
-      "Pay the examination fee online (UR: Rs. 450/-, Reserved categories of HP: Rs. 300/- including GST). Fee once paid is non-refundable.",
-      "Submit the application before the closing date: 10.09.2026 at 11:59 PM.",
-      "Take a printout/screenshot of the submitted application for future reference.",
-      "Candidates already in government/semi-government service must submit their application through proper channel along with NOC within 15 days from the last date of application."
-    ]
-  },
-  {
     "id": "hp-hprca-clerk-job-trainee-",
     "title": "HPRCA Recruitment 2026 – Clerk (Job Trainee) Posts",
     "shortInfo": "HPRCA has announced notification for Clerk (Job Trainee) posts. Required qualification: Bachelor's Degree, typing speed 30 wpm English or 25 wpm Hindi. Last date to apply: 11-09-26.",
@@ -758,7 +898,7 @@
     "applyOnlineLink": "https://hprca.hp.gov.in/login",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-09-06",
+    "scrapedAt": "2026-09-14",
     "fees": [
       {
         "category": "All Categories (Examination Fee)",
@@ -813,210 +953,6 @@
       "Review the auto-filled application details from your profile.",
       "Pay the application fee through the available online payment gateway (Credit Card/Debit Card/Net Banking).",
       "After successful payment, your application will be considered complete. Download and keep a copy of the submitted application form."
-    ]
-  },
-  {
-    "id": "hp-iocl nr-trade-apprentice-technician-apprentice-graduate-ap",
-    "title": "IOCL NR Recruitment 2026 – Trade Apprentice, Technician Apprentice, Graduate Apprentice Posts",
-    "shortInfo": "IOCL NR has announced notification for Trade Apprentice, Technician Apprentice, Graduate Apprentice posts. Required qualification: Matric with ITI, Diploma in Engineering, Graduate degree, Class 12th. Last date to apply: 06-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "433",
-    "lastDate": "06-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/iocl-nr-apprentice-recruitment-2026/",
-    "notificationLink": "https://iocl.com/admin/img/Apprenticeships/Files/e2fe7d9255544d7e8a9e9c812dbfca7d.pdf",
-    "applyOnlineLink": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=B0Xxorf6hUGfjbuyZc4E5cLJ-uU_mEhAqmZkmr5RuPNURVVPR0FLNjRVMjBJOVFZSkNCN0czODE2Ty4u&route=shorturl",
-    "state": "Himachal Pradesh",
-    "stateCode": "hp",
-    "scrapedAt": "2026-09-06",
-    "fees": [
-      {
-        "category": "Fee",
-        "fee": "Not Mentioned"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Opening Date of Application",
-        "date": "07/08/2026"
-      },
-      {
-        "event": "Last Date of Submission of Application",
-        "date": "06/09/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Technician Apprentice - Mechanical",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Technician Apprentice - Electrical",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Technician Apprentice - Instrumentation",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Technician Apprentice - Civil",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Technician Apprentice - Electrical & Electronics",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Technician Apprentice - Electronics",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Trade Apprentice - Fitter",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Trade Apprentice - Electrician",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Trade Apprentice - Electronics Mechanic",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Trade Apprentice - Instrument Mechanic",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Trade Apprentice - Machinist",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Graduate Apprentice",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Trade Apprentice - Data Entry Operator (Fresher)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Trade Apprentice - Data Entry Operator (Skill Certificate Holders)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Register on the appropriate portal: NAPS (http://www.apprenticeshipindia.gov.in/) for Trade Apprentices (ITI &amp; Data Entry Operator) or NATS (https://nats.education.gov.in/student_register.php) for Technician and Graduate Apprentices.",
-      "Ensure 100% completion/updation of your profile (Personal Details, Educational Details, Category, Aggregate Percentage) on the respective portal.",
-      "Login to the respective NATS/NAPS portal using your User ID/Email ID and apply for the apprenticeship openings using the Establishment ID: NATS – NDLSDC000005 / NAPS – E05200700003.",
-      "After applying on the NATS/NAPS portal, also submit your details along with preferred State and three preferred locations in the Microsoft Office Form at: https://forms.cloud.microsoft/r/pw7D2cUK7c by 06.09.2026, 05:00 PM.",
-      "Candidates can apply for ONLY ONE DISCIPLINE CODE. Multiple discipline code applications will be summarily rejected.",
-      "Ensure you have a valid PAN Card, Aadhaar Card, active Aadhaar-seeded bank account enabled for DBT, and APAAR ID updated on NATS portal.",
-      "Applications must be submitted on or before 06th September 2026 at 05:00 PM. Applications received after the last date will not be considered."
-    ]
-  },
-  {
-    "id": "hp-hp police-police-constable-male-police-constable-female-last",
-    "title": "HP Police Recruitment 2026 – Police Constable (Male), Police Constable (Female) (last Date Extended) Posts",
-    "shortInfo": "HP Police has announced notification for Police Constable (Male), Police Constable (Female) (last Date Extended) posts. Required qualification: 12th/Intermediate. Last date to apply: 05-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "734",
-    "lastDate": "05-09-26",
-    "officialWebsite": "https://www.hppsc.hp.gov.in/hppsc",
-    "notificationLink": "https://hppsc.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1wSGo29lXLTBfw1DHezN8KfEg%2BrikZhi%2FLLqiZME0%2BQReThfPJPy%2BjgrmLJ%2B48MSfenisMCQ3fHXMZ0%2BajrVuV3AylOo9mGWYM%3D",
-    "applyOnlineLink": "https://hppsconline.hp.gov.in/HPPSC/ApplicantRegistration/Home/Login",
-    "state": "Himachal Pradesh",
-    "stateCode": "hp",
-    "scrapedAt": "2026-09-06",
-    "fees": [
-      {
-        "category": "A uniform fee shall be charged from all the candidates, irrespective of their category.",
-        "fee": "₹600/-"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Advertisement Date",
-        "date": "09/07/2026"
-      },
-      {
-        "event": "Online Application Start Date",
-        "date": "10/07/2026"
-      },
-      {
-        "event": "Last Date to Apply Online (Extended Upto)",
-        "date": "05/09/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Police Constable (Male)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Police Constable (Female)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the Commission’s official website: www.hppsc.hp.gov.in/hppsc",
-      "Click on the Online Recruitment Application (ORA) link available from 10.07.2026 (12:01 AM onwards).",
-      "Fill in the online application form carefully with all required details.",
-      "Upload necessary documents as required.",
-      "Pay the examination fee as applicable.",
-      "Submit the application before 06.08.2026 till 11:59 PM.",
-      "Note: No correction will be allowed once the form is submitted. Candidates using cyber cafes or Lok Mitra Kendras are advised to review the form carefully before final submission."
     ]
   }
 ]

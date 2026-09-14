@@ -29,11 +29,7 @@ jobs:
         run: npm ci
 
       - name: Run Scrapers & Sitemap Generator
-        run: |
-          node scripts/scrape.js
-          node scripts/scrape-maharashtra.js
-          node scripts/scrape-all-states.js
-          node scripts/generate-sitemap.js
+        run: node scripts/run-all-scrapers.js
 
       - name: Check for Changes & Commit
         run: |

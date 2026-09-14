@@ -327,17 +327,22 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-rrb-junior-engineer-je-2026</loc>
+    <loc>https://sarkariavedan.info/job/latest-jobs-bihar-stet-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-rrc-ecor-apprentice-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-mp-high-court-assistant-grade-iii</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/latest-jobs-upsc-epfo-apfc-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-bihar-stet-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -348,11 +353,6 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/latest-jobs-ssc-chsl-10-2-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-ibps-rrb-15th-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -443,6 +443,16 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/admission-aibe-22th-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-rrb-junior-engineer-je-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-ibps-rrb-15th-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

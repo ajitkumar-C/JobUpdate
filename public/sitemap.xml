@@ -267,6 +267,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sarkariavedan.info/job/result-bihar-vidhan-parishad-ldc-deo-final</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sarkariavedan.info/job/result-bihar-bseb-deled-3rd-merit-list</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -292,7 +297,12 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/result-up-tgt-2022-college-allotment</loc>
+    <loc>https://sarkariavedan.info/job/admit-card-ctet-september-date-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-ssc-selection-phase-14-admit-card</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -317,12 +327,12 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/admit-card-upsc-nda-ii-admit-card-2026</loc>
+    <loc>https://sarkariavedan.info/job/latest-jobs-upsssc-veterinary-pharmacist-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/admit-card-upsc-cds-ii-admit-card-2026</loc>
+    <loc>https://sarkariavedan.info/job/latest-jobs-rrb-paramedical-staff-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -343,16 +353,6 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/latest-jobs-bank-baroda-lbo-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-up-anganwadi-bharti-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-upsc-epfo-apfc-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -443,6 +443,31 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/admission-aibe-22th-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/result-up-tgt-2022-college-allotment</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-upsc-nda-ii-admit-card-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-upsc-cds-ii-admit-card-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-up-anganwadi-bharti-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-upsc-epfo-apfc-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2708,11 +2733,6 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/latest-jobs-upsssc-junior-engineer-je-agriculture-recruitment-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-upsssc-veterinary-pharmacist-recruitment-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

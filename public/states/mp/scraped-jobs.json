@@ -488,13 +488,18 @@
     "district": "State Level",
     "vacancies": "35",
     "lastDate": "29-09-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/jpl-recruitment-2026/",
-    "notificationLink": "https://jhabuapower.co.in/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/jpl-recruitment-2026/",
+    "officialWebsite": "https://jhabuapower.co.in/",
+    "notificationLink": "https://apps.cbexams.com/EDPSU/JPL/Reg/docs/JPL_Recruitment_Advertisement.pdf",
+    "applyOnlineLink": "https://apps.cbexams.com/EDPSU/JPL/Reg/",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
     "scrapedAt": "2026-09-14",
-    "fees": [],
+    "fees": [
+      {
+        "category": "All Candidates",
+        "fee": "Rs. 500/-"
+      }
+    ],
     "dates": [
       {
         "event": "Online Application Start Date",
@@ -507,14 +512,77 @@
     ],
     "vacancyList": [
       {
-        "postName": "Engineers/Executives (Experience min 01 Yr)",
+        "postName": "Engineer - Electrical (L1 Grade)",
         "count": "",
         "qualification": "",
         "ageLimit": "",
         "payScale": ""
       },
       {
-        "postName": "Assistant Manager/Deputy Manager (Experience min 08/12 Yrs)",
+        "postName": "Engineer - Mechanical (L1 Grade)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Engineer - Electronics/C&I (L1 Grade)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Engineer - Chemistry (L1 Grade)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Executive - HR/R&R-CSR (L1 Grade)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager/Deputy Manager - IT/Computer Science (L3/L4 Grade)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager/Deputy Manager - Mechanical (L3/L4 Grade)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager/Deputy Manager - Electrical (L3/L4 Grade)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager/Deputy Manager - Electronics/C&I (L3/L4 Grade)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager/Deputy Manager - HR/R&R-CSR (L3/L4 Grade)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager/Deputy Manager - Chemistry (L3/L4 Grade)",
         "count": "",
         "qualification": "",
         "ageLimit": "",
@@ -522,12 +590,13 @@
       }
     ],
     "howToApply": [
-      "Visit the official website at www.jhabuapower.co.in.",
-      "Navigate to the Career section.",
-      "Find the relevant job notification and click on Apply Online.",
-      "Fill in the online application form with accurate details.",
-      "Upload required documents as specified.",
-      "Submit the application before 29/09/2026."
+      "Visit the official website www.jhabuapower.co.in and navigate to the careers section to apply online.",
+      "Candidates are required to possess a valid email ID before applying.",
+      "Pay the non-refundable application fee of Rs. 500/- either online (Net Banking/Debit Card/Credit Card/UPI) or offline via SBI E-Challan.",
+      "Upload all required documents including Class X certificate, degree certificate, marksheets, experience certificates, and other relevant documents.",
+      "After applying online, download the application slip with unique application number for future reference.",
+      "No documents are required to be sent by post.",
+      ""
     ]
   },
   {

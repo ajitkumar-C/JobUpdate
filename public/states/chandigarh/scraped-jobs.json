@@ -14,7 +14,7 @@
     "applyOnlineLink": "https://jobs.puchd.ac.in/includes/jobs/2026/20260911090430-20260910173112-kidarnathgaind.pdf",
     "state": "Chandigarh",
     "stateCode": "chandigarh",
-    "scrapedAt": "2026-09-14"
+    "scrapedAt": "2026-09-15"
   },
   {
     "id": "chandigarh-engineering department ut chandigarh-junior-engineer",
@@ -31,7 +31,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/ut-chandigarh-engineering-department-je-recruitment-2026/",
     "state": "Chandigarh",
     "stateCode": "chandigarh",
-    "scrapedAt": "2026-09-14",
+    "scrapedAt": "2026-09-15",
     "fees": [
       {
         "category": "Fee",
@@ -86,7 +86,7 @@
     "applyOnlineLink": "https://cdn.digialm.com//EForms/configuredHtml/2650/102253/Index.html",
     "state": "Chandigarh",
     "stateCode": "chandigarh",
-    "scrapedAt": "2026-09-14",
+    "scrapedAt": "2026-09-15",
     "fees": [
       {
         "category": "Persons with Benchmark Disabilities (PwBD)",
@@ -148,7 +148,7 @@
     "applyOnlineLink": "https://gmch.gov.in/sites/default/files/jobs/Advt%20PBC.pdf",
     "state": "Chandigarh",
     "stateCode": "chandigarh",
-    "scrapedAt": "2026-09-14"
+    "scrapedAt": "2026-09-15"
   },
   {
     "id": "chandigarh-pgimer-senior-resident",
@@ -165,7 +165,7 @@
     "applyOnlineLink": "https://pgimer.edu.in/PGIMER_PORTAL/AbstractFilePath?FileType=E&#038;FileName=SR%20ADHOC%20ADVT%20AN05Sep2026125911.pdf&#038;PathKey=VACANCY_PATH",
     "state": "Chandigarh",
     "stateCode": "chandigarh",
-    "scrapedAt": "2026-09-14"
+    "scrapedAt": "2026-09-15"
   },
   {
     "id": "chandigarh-prasar bharati-correspondent",
@@ -182,7 +182,7 @@
     "applyOnlineLink": "https://prasarbharati.gov.in/wp-content/uploads/2026/09/NIA-Correspondent-DD-News.pdf",
     "state": "Chandigarh",
     "stateCode": "chandigarh",
-    "scrapedAt": "2026-09-14"
+    "scrapedAt": "2026-09-15"
   },
   {
     "id": "chandigarh-pgimer-mts-pharmacist-and-more",
@@ -199,7 +199,7 @@
     "applyOnlineLink": "https://cdn.digialm.com/EForms/configuredHtml/2650/101935/Index.html",
     "state": "Chandigarh",
     "stateCode": "chandigarh",
-    "scrapedAt": "2026-09-14",
+    "scrapedAt": "2026-09-15",
     "fees": [
       {
         "category": "Persons with Benchmark Disabilities (PwBD)",
@@ -303,7 +303,7 @@
     "applyOnlineLink": "https://phconapp.formflix.org/driver/",
     "state": "Chandigarh",
     "stateCode": "chandigarh",
-    "scrapedAt": "2026-09-14",
+    "scrapedAt": "2026-09-15",
     "fees": [
       {
         "category": "General and SC/ST/BC of areas/States other than Punjab, Haryana and U.T. Chandigarh",
@@ -378,7 +378,7 @@
     "applyOnlineLink": "https://phconapp.formflix.org/faraash/",
     "state": "Chandigarh",
     "stateCode": "chandigarh",
-    "scrapedAt": "2026-09-14",
+    "scrapedAt": "2026-09-15",
     "fees": [
       {
         "category": "General and SC/ST/BC of areas/States other than Punjab, Haryana and U.T. Chandigarh",
@@ -437,12 +437,58 @@
     "district": "State Level",
     "vacancies": "9",
     "lastDate": "21-09-26",
-    "officialWebsite": "https://bbmb.gov.in/writereaddata/Portal/JobOpening/120_1_Hindi_Translator_Advt-E.pdf",
-    "notificationLink": "https://bbmb.gov.in/writereaddata/Portal/JobOpening/120_1_Hindi_Translator_Advt-E.pdf",
-    "applyOnlineLink": "https://bbmb.gov.in/writereaddata/Portal/JobOpening/120_1_Hindi_Translator_Advt-E.pdf",
+    "officialWebsite": "https://bbmb.gov.in",
+    "notificationLink": "https://bbmb.gov.in/writereaddata/Portal/JobOpening/124_1_Hindi_Trans_Advt._2_of_2026__English.pdf",
+    "applyOnlineLink": "https://bbmb.chdadmnrectt.in/",
     "state": "Chandigarh",
     "stateCode": "chandigarh",
-    "scrapedAt": "2026-09-14"
+    "scrapedAt": "2026-09-15",
+    "fees": [
+      {
+        "category": "UR/OBC/EWS Category",
+        "fee": "Rs. 1000/-"
+      },
+      {
+        "category": "Scheduled Tribes (ST)",
+        "fee": "Rs. 500/-"
+      },
+      {
+        "category": "SC Category",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date for Online Registration",
+        "date": "31/08/2026"
+      },
+      {
+        "event": "Last Date for Submission of Application Form",
+        "date": "21/09/2026"
+      },
+      {
+        "event": "Last Date for Depositing Application Fee",
+        "date": "23/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Hindi Translator",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official BBMB recruitment weblink: https://bbmb.chdadmnrectt.in/",
+      "Register and fill in the online application form with all required details.",
+      "Upload requisite educational qualification and experience certificates along with the application form.",
+      "Pay the non-refundable application fee online before the last date (23.09.2026 upto 11:59 PM).",
+      "Note your Login ID and Password for future reference.",
+      "Departmental candidates must also send a copy of the online application form along with relevant documents through proper channel to the office of Member Secretary/Centralized Staff Selection Committee, BBMB, Plot No.6B, Madhya Marg, Sector-19B, Chandigarh-160019, on or before 21.09.2026 upto 1600 hours.",
+      "Clearly specify the post applied for and mailing address on the envelope."
+    ]
   },
   {
     "id": "chandigarh-aai nr-graduate-apprentice-diploma-apprentice-iti-trade-a",
@@ -459,7 +505,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-nr-apprentice-2026/",
     "state": "Chandigarh",
     "stateCode": "chandigarh",
-    "scrapedAt": "2026-09-14",
+    "scrapedAt": "2026-09-15",
     "fees": [
       {
         "category": "All Categories",
@@ -619,7 +665,7 @@
     "applyOnlineLink": "https://www.csio.res.in/upload/Recruitment-RegularPositions/Advt.No.01-2026(English)withAppendices.pdf",
     "state": "Chandigarh",
     "stateCode": "chandigarh",
-    "scrapedAt": "2026-09-14"
+    "scrapedAt": "2026-09-15"
   },
   {
     "id": "chandigarh-nhm dhamtari-laboratory-technician-staff-nurse-medical-officer-",
@@ -636,7 +682,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/nhm-dhamtari-recruitment-2026-walk-in-for-38-anm-mo-staff-nurse-other-posts/",
     "state": "Chandigarh",
     "stateCode": "chandigarh",
-    "scrapedAt": "2026-09-14",
+    "scrapedAt": "2026-09-15",
     "fees": [],
     "dates": [
       {

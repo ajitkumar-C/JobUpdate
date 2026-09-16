@@ -1,5 +1,799 @@
 [
   {
+    "id": "andhra-appsc-group-i-services-aso-aee-executive-officer-supervi",
+    "title": "APPSC Recruitment 2026 – Group I Services, ASO, AEE, Executive Officer, Supervisor, Hostel Welfare officer &amp; Other Posts",
+    "shortInfo": "APPSC has announced notification for Group I Services, ASO, AEE, Executive Officer, Supervisor, Hostel Welfare officer &amp; Other posts. Required qualification: 12th, Degree, BE/B.Tech, M.Sc, PG Degree. Last date to apply: 27,.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "892",
+    "lastDate": "27,",
+    "officialWebsite": "https://psc.ap.gov.in",
+    "notificationLink": "https://psc.ap.gov.in/Documents/NotificationDocuments/Webnote_15092026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-recruitment-2026/",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-09-16",
+    "fees": [],
+    "dates": [
+      {
+        "event": "Online Application Start Date (Notification 07, 08, 19, 11/2026)",
+        "date": "06/10/2026"
+      },
+      {
+        "event": "Online Application End Date (Notification 07, 08, 19, 11/2026)",
+        "date": "27/10/2026"
+      },
+      {
+        "event": "Online Application Start Date (Notification 25, 26/2026)",
+        "date": "09/10/2026"
+      },
+      {
+        "event": "Online Application End Date (Notification 25, 26/2026)",
+        "date": "29/10/2026"
+      },
+      {
+        "event": "Online Application Start Date (Notification 20, 09, 10, 14, 21, 22/2026)",
+        "date": "13/10/2026"
+      },
+      {
+        "event": "Online Application End Date (Notification 20, 09, 10, 14, 21, 22/2026)",
+        "date": "02/11/2026"
+      },
+      {
+        "event": "Online Application Start Date (Notification 23, 12, 24, 13, 17, 15, 18, 16/2026)",
+        "date": "16/10/2026"
+      },
+      {
+        "event": "Online Application End Date (Notification 23, 12, 24, 13, 17, 15, 18, 16/2026)",
+        "date": "05/11/2026"
+      },
+      {
+        "event": "Web Note / Notification Release Date",
+        "date": "15/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Group-I Services",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Environmental Engineer in A.P. Pollution Control Board",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Horticulture Officer in A.P. Horticulture Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Director (Forensic Engineering / Physics / Chemistry / Biology) in A.P. State Forensic Science Laboratory Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Hostel Welfare Officer Grade&ndash;II",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Tribal Welfare Officer in A.P. Tribal Welfare Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Social Welfare Officer in A.P. Social Welfare Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Statistical Officer in A.P. Economics & Statistical Subordinate Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Director in A.P. Economics and Statistical Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Director in A.P. Tribal Welfare Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Inspector of Factories in A.P. Factories Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Analyst Grade-II in A.P. Pollution Control Board",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "English Reporters in A.P. Legislature Services",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Telugu Reporters in A.P. Legislature Services",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Executive Officer Grade-III in A.P. Endowments Subordinate Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "District Probation Officer Grade-II / Intake Probation Officer in A.P. Juvenile Welfare Correctional Sub Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Industrial Promotion Officers in A.P. Industries Subordinate Services",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Supervisor Grade-I in A.P. Women Development and Child Welfare Sub-Ordinate Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Forest Section Officer in A.P. Forest Subordinate Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Draughtsman Grade-II (Technical Assistant) in A.P. Forest Subordinate Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Forest Beat Officer in A.P. Forest Subordinate Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Forest Range Officers in A.P. Forest Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official APPSC website at https://psc.ap.gov.in.",
+      "Check the Brief Notifications for the respective post.",
+      "Register and fill in the online application form during the tentative application dates.",
+      "Upload required documents and photograph as specified in the detailed notification.",
+      "Pay the application fee (if applicable) as per the detailed notification.",
+      "Submit the application form before the last date.",
+      "Keep a printout of the submitted application for future reference.",
+      "Regularly visit the official website for detailed notifications and further updates."
+    ]
+  },
+  {
+    "id": "andhra-appsc-forest-beat-officer",
+    "title": "APPSC Recruitment 2026 – Forest Beat Officer Posts",
+    "shortInfo": "APPSC has announced notification for Forest Beat Officer posts. Required qualification: Intermediate. Last date to apply: 05-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "23",
+    "lastDate": "05-11-26",
+    "officialWebsite": "https://psc.ap.gov.in",
+    "notificationLink": "https://psc.ap.gov.in/Documents/NotificationDocuments/Forest_Beat_Officer_182026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-forest-beat-officer-recruitment-2026/",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-09-16",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "15/09/2026"
+      },
+      {
+        "event": "Application Start Date",
+        "date": "16/10/2026"
+      },
+      {
+        "event": "Application Last Date",
+        "date": "05/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Forest Beat Officer in A.P. Forest Subordinate Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Commission’s official website at https://psc.ap.gov.in.",
+      "Read the Detailed Notification carefully before applying.",
+      "Register and fill in the Online Application Form with correct particulars.",
+      "Submit the application only through online mode; no other mode will be entertained.",
+      "Apply well in advance of the last date (05/11/2026, 11:59 P.M.) to avoid last-minute rush."
+    ]
+  },
+  {
+    "id": "andhra-appsc-forest-section-officer",
+    "title": "APPSC Recruitment 2026 – Forest Section Officer Posts",
+    "shortInfo": "APPSC has announced notification for Forest Section Officer posts. Required qualification: B.Sc, B.E. Last date to apply: 05-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "26",
+    "lastDate": "05-11-26",
+    "officialWebsite": "https://psc.ap.gov.in",
+    "notificationLink": "https://psc.ap.gov.in/Documents/NotificationDocuments/Forest_Section_Officer_172026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-forest-section-officer-recruitment-2026/",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-09-16",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "15/09/2026"
+      },
+      {
+        "event": "Application Start Date",
+        "date": "16/10/2026"
+      },
+      {
+        "event": "Application End Date",
+        "date": "05/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Forest Section Officer in A.P. Forest Subordinate Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Commission’s official website at https://psc.ap.gov.in.",
+      "Read the Detailed Notification carefully before applying.",
+      "Ensure you meet all eligibility criteria including educational qualifications and physical requirements.",
+      "Fill in the Online Application Form with correct particulars.",
+      "Submit the application only through online mode; applications through any other mode will not be entertained.",
+      "Submit the application well in advance of the last date (05/11/2026 up to 11:59 P.M.) to avoid last-minute rush."
+    ]
+  },
+  {
+    "id": "andhra-appsc-assistant-statistical-officer-aso",
+    "title": "APPSC Recruitment 2026 – Assistant Statistical Officer ASO Posts",
+    "shortInfo": "APPSC has announced notification for Assistant Statistical Officer ASO posts. Required qualification: Bachelor's Degree with Statistics/Maths/Econ/Commerce/CS. Last date to apply: 02-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "196",
+    "lastDate": "02-11-26",
+    "officialWebsite": "https://psc.ap.gov.in",
+    "notificationLink": "https://psc.ap.gov.in/Documents/NotificationDocuments/Assistant_Statistical_Officer_202026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-aso-recruitment-2026/",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-09-16",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "15/09/2026"
+      },
+      {
+        "event": "Application Start Date",
+        "date": "13/10/2026"
+      },
+      {
+        "event": "Application End Date",
+        "date": "02/11/2026"
+      },
+      {
+        "event": "Detailed Notification Available On",
+        "date": "13/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Assistant Statistical Officer in A.P. Economics & Statistical Subordinate Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website https://psc.ap.gov.in.",
+      "Read the Detailed Notification carefully before applying.",
+      "Ensure you meet the eligibility criteria as on the date of the Detailed Notification.",
+      "Fill in the Online Application Form with correct particulars.",
+      "Submit the application only through online mode; no other mode will be entertained.",
+      "Submit well in advance of the last date (02/11/2026, 11:59 P.M.) to avoid last-minute rush."
+    ]
+  },
+  {
+    "id": "andhra-appsc-horticulture-officer",
+    "title": "APPSC Recruitment 2026 – Horticulture Officer Posts",
+    "shortInfo": "APPSC has announced notification for Horticulture Officer posts. Required qualification: B.Sc. in Horticulture. Last date to apply: 27-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "37",
+    "lastDate": "27-10-26",
+    "officialWebsite": "https://psc.ap.gov.in",
+    "notificationLink": "https://psc.ap.gov.in/Documents/NotificationDocuments/Horticulture_192026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-horticulture-officer-recruitment-2026/",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-09-16",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "15/09/2026"
+      },
+      {
+        "event": "Application Start Date",
+        "date": "06/10/2026"
+      },
+      {
+        "event": "Application End Date",
+        "date": "27/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Horticulture Officer in A.P. Horticulture Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Commission’s official website: https://psc.ap.gov.in",
+      "Read the Detailed Notification carefully before applying.",
+      "Ensure you meet all eligibility criteria including educational qualifications.",
+      "Fill in the Online Application Form with correct particulars.",
+      "Submit the application online only. Applications through any other mode will not be entertained.",
+      "Submit well in advance of the last date (27/10/2026, 11:59 P.M.) to avoid last-minute rush."
+    ]
+  },
+  {
+    "id": "andhra-appsc-assistant-environmental-engineer",
+    "title": "APPSC Recruitment 2026 – Assistant Environmental Engineer Posts",
+    "shortInfo": "APPSC has announced notification for Assistant Environmental Engineer posts. Required qualification: Degree in Engineering/Environmental. Last date to apply: 27-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "40",
+    "lastDate": "27-10-26",
+    "officialWebsite": "https://psc.ap.gov.in",
+    "notificationLink": "https://psc.ap.gov.in/Documents/NotificationDocuments/AEE_082026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-aee-recruitment-2026/",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-09-16",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "15/09/2026"
+      },
+      {
+        "event": "Application Start Date",
+        "date": "06/10/2026"
+      },
+      {
+        "event": "Application End Date",
+        "date": "27/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Assistant Environmental Engineer in A.P. Pollution Control Board",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Commission’s official website at https://psc.ap.gov.in.",
+      "Read the Detailed Notification carefully before applying.",
+      "Register and fill in the Online Application Form with correct particulars.",
+      "Submit the application only through online mode; no other mode will be entertained.",
+      "Submit the application well in advance of the last date (27/10/2026 up to 11:59 P.M.) to avoid last-minute rush."
+    ]
+  },
+  {
+    "id": "andhra-appsc-deputy-collectors-asst-commissioner-of-state-tax-d",
+    "title": "APPSC Recruitment 2026 – Deputy Collectors, Asst. Commissioner of State Tax, Deputy Superintendent of Police, DSP (Communications), &amp; Other Posts",
+    "shortInfo": "APPSC has announced notification for Deputy Collectors, Asst. Commissioner of State Tax, Deputy Superintendent of Police, DSP (Communications), &amp; Other posts. Required qualification: Bachelor's Degree, B.E/B.Tech. Last date to apply: 27-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "163",
+    "lastDate": "27-10-26",
+    "officialWebsite": "https://psc.ap.gov.in",
+    "notificationLink": "https://psc.ap.gov.in/Documents/NotificationDocuments/Group_I_072026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-group-i-recruitment-2026/",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-09-16",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Date of Notification",
+        "date": "15/09/2026"
+      },
+      {
+        "event": "Online Application Start Date",
+        "date": "06/10/2026"
+      },
+      {
+        "event": "Online Application End Date",
+        "date": "27/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Deputy Collectors in A.P. Civil Service (Executive Branch)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Asst. Commissioner of State Tax in A.P. State Tax Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Superintendent of Police (Civil) Category-II in A.P. Police Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "DSP (Communications) in A.P. Police Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "District Educational Officer in A.P. Educational Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Regional Transport Officers in A.P. Transport Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "District Tribal Welfare Officer in A.P. Tribal Welfare Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Registrar in A.P. Cooperative Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Municipal Commissioner Grade-II in A.P. Municipal Administration Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Asst. Treasury Officer/Asst. Accounts Officer in A.P. Treasury & Accounts Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "District Employment Officer in A.P. Employment Exchange Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Audit Officer in A.P. State Audit Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Divisional Development Officer in A.P. Panchayat Raj Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Commission’s official website: https://psc.ap.gov.in",
+      "Read the Detailed Notification carefully before applying.",
+      "Ensure you meet the eligibility criteria including educational qualifications, age, and other requirements.",
+      "Fill in the Online Application Form with correct particulars.",
+      "Submit the application only through online mode. Applications sent through any other mode will not be entertained.",
+      "Submit your application well in advance of the last date (27/10/2026 up to 11:59 P.M.) to avoid last-minute rush."
+    ]
+  },
+  {
+    "id": "andhra-appsc-supervisor-grade-i",
+    "title": "APPSC Recruitment 2026 – Supervisor Grade - I Posts",
+    "shortInfo": "APPSC has announced notification for Supervisor Grade - I posts. Required qualification: Bachelor's Degree in Home Science, Sociology, Food Science, Nutrition. Last date to apply: 05-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "29",
+    "lastDate": "05-11-26",
+    "officialWebsite": "https://psc.ap.gov.in",
+    "notificationLink": "https://psc.ap.gov.in/Documents/NotificationDocuments/Supervisor_Grade_I_132026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-supervisor-recruitment-2026/",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-09-16",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "15/09/2026"
+      },
+      {
+        "event": "Application Start Date",
+        "date": "16/10/2026"
+      },
+      {
+        "event": "Application End Date",
+        "date": "05/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Supervisor Grade - I in A.P. Women Development and Child Welfare Sub-Ordinate Service (Only for Women)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Commission’s official website: https://psc.ap.gov.in",
+      "Read the Detailed Notification carefully before applying.",
+      "Ensure you meet all eligibility criteria including educational qualifications.",
+      "Fill in the Online Application Form with correct particulars.",
+      "Submit the application online (CBRT mode) before 05/11/2026 up to 11:59 P.M.",
+      "Applications sent through any mode other than the prescribed online mode will not be entertained.",
+      "Candidates are advised to submit applications well in advance to avoid last-minute rush."
+    ]
+  },
+  {
+    "id": "andhra-appsc-industrial-promotion-officers",
+    "title": "APPSC Recruitment 2026 – Industrial Promotion Officers Posts",
+    "shortInfo": "APPSC has announced notification for Industrial Promotion Officers posts. Required qualification: Degree, Diploma. Last date to apply: 05-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "78",
+    "lastDate": "05-11-26",
+    "officialWebsite": "https://psc.ap.gov.in",
+    "notificationLink": "https://psc.ap.gov.in/Documents/NotificationDocuments/Industrial_Promotion_Officer_242026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-industrial-promotion-officer-recruitment-2026/",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-09-16",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "15/09/2026"
+      },
+      {
+        "event": "Application Start Date",
+        "date": "16/10/2026"
+      },
+      {
+        "event": "Application End Date",
+        "date": "05/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Industrial Promotion Officers in A.P. Industries Subordinate Services",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Commission’s official website at https://psc.ap.gov.in.",
+      "Read the Detailed Notification carefully before applying.",
+      "Register and fill in the Online Application Form with correct particulars.",
+      "Submit the application only through online mode; no other mode will be entertained.",
+      "Submit the application well in advance of the last date (05/11/2026 up to 11:59 P.M.) to avoid last-minute rush."
+    ]
+  },
+  {
+    "id": "andhra-appsc-executive-officer-grade-iii",
+    "title": "APPSC Recruitment 2026 – Executive Officer Grade-III Posts",
+    "shortInfo": "APPSC has announced notification for Executive Officer Grade-III posts. Required qualification: Bachelor's Degree. Last date to apply: 05-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "104",
+    "lastDate": "05-11-26",
+    "officialWebsite": "https://psc.ap.gov.in",
+    "notificationLink": "https://psc.ap.gov.in/Documents/NotificationDocuments/Executive_Officer_Grade_III_232026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-executive-officer-recruitment-2026/",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-09-16",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "15/09/2026"
+      },
+      {
+        "event": "Application Start Date",
+        "date": "16/10/2026"
+      },
+      {
+        "event": "Application End Date",
+        "date": "05/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Executive Officer Grade-III in A.P. Endowments Subordinate Service",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Commission’s official website: https://psc.ap.gov.in",
+      "Read the Detailed Notification carefully before applying.",
+      "Register and fill in the Online Application Form with correct particulars.",
+      "Submit the application only through online mode within the stipulated dates (16/10/2026 to 05/11/2026 up to 11:59 P.M.).",
+      "Applications sent through any other mode will not be entertained.",
+      "Submit well in advance of the last date to avoid last-minute rush."
+    ]
+  },
+  {
     "id": "andhra-visakhapatnam port authority-deputy-chief-law-officer",
     "title": "Visakhapatnam Port Authority Recruitment 2026 – Deputy Chief Law Officer Posts",
     "shortInfo": "Visakhapatnam Port Authority has announced notification for Deputy Chief Law Officer posts. Required qualification: Degree in Law. Last date to apply: 09-10-26.",
@@ -14,7 +808,7 @@
     "applyOnlineLink": "https://vpt.shipping.gov.in/admin_assets/uploads/1788918633_VPA_Vacancy_Notification_Dt_08092026__Dy_Chief_Law_Officer___DR.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-09-15"
+    "scrapedAt": "2026-09-16"
   },
   {
     "id": "andhra-dw&amp;cw&amp;eo chittoor-various-posts",
@@ -31,7 +825,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s333e75ff09dd601bbe69f351039152189/uploads/2026/09/17886047128190.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-09-15"
+    "scrapedAt": "2026-09-16"
   },
   {
     "id": "andhra-iiser tirupati-project-assistant-walk-in-",
@@ -48,7 +842,7 @@
     "applyOnlineLink": "https://www.iisertirupati.ac.in/wp-content/uploads/2026/08/Advt_662026.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-09-15"
+    "scrapedAt": "2026-09-16"
   },
   {
     "id": "andhra-iiser tirupati-project-associate-i-junior-research-fellow",
@@ -65,7 +859,7 @@
     "applyOnlineLink": "https://www.iisertirupati.ac.in/wp-content/uploads/2026/09/Advt_732026.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-09-15"
+    "scrapedAt": "2026-09-16"
   },
   {
     "id": "andhra-balmer lawrie-unit-head-deputy-manager-assistant-manager-officer",
@@ -82,7 +876,7 @@
     "applyOnlineLink": "https://www.balmerlawrie.com/careers/current-openings",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-09-15",
+    "scrapedAt": "2026-09-16",
     "fees": [
       {
         "category": "Fee",
@@ -324,7 +1118,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s333e75ff09dd601bbe69f351039152189/uploads/2026/09/17886047128190.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-09-15"
+    "scrapedAt": "2026-09-16"
   },
   {
     "id": "andhra-nandyal anganwadi-anganwadi-worker-amp-helper",
@@ -341,7 +1135,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s319b650660b253761af189682e03501dd/uploads/2026/09/17884355642604.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-09-15"
+    "scrapedAt": "2026-09-16"
   },
   {
     "id": "andhra-chittoor district office-record-assistant-more-office-subordinate",
@@ -358,7 +1152,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s333e75ff09dd601bbe69f351039152189/uploads/2026/09/17886028883993.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-09-15"
+    "scrapedAt": "2026-09-16"
   },
   {
     "id": "andhra-kvs madanapalle-primary-teacher",
@@ -375,7 +1169,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s31be3bc32e6564055d5ca3e5a354acbef/uploads/2026/09/17884098671964.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-09-15"
+    "scrapedAt": "2026-09-16"
   },
   {
     "id": "andhra-aiims mangalagiri-project-nurse-iii-project-technical-support-ii",
@@ -392,7 +1186,7 @@
     "applyOnlineLink": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/09/Recruitment-Advertisement-INHIBIT-Study-and-Application-Form-1st-September-2026.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-09-15"
+    "scrapedAt": "2026-09-16"
   },
   {
     "id": "andhra-ap police prakasam district-record-assistant-sweeper-and-more",
@@ -409,7 +1203,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3f3f27a324736617f20abbf2ffd806f6d/uploads/2026/08/17881893171148.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-09-15"
+    "scrapedAt": "2026-09-16"
   },
   {
     "id": "andhra-iit tirupati-research-associate",
@@ -426,7 +1220,7 @@
     "applyOnlineLink": "https://files.iittp.ac.in/2026/recruitment/project/AdvtIITTCSRC26-2711.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-09-15"
+    "scrapedAt": "2026-09-16"
   },
   {
     "id": "andhra-southern railway-act-apprentices",
@@ -443,7 +1237,7 @@
     "applyOnlineLink": "https://sronline.etrpindia.com/rrcchennaiapprentice26/recruitmentIndex",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-09-15",
+    "scrapedAt": "2026-09-16",
     "fees": [
       {
         "category": "General/OBC/EWS",
@@ -499,7 +1293,7 @@
     "applyOnlineLink": "https://files.iittp.ac.in/2026/recruitment/staff/Detailed_advertisement-Staff_01-2026_IITT_31.08.2026.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-09-15"
+    "scrapedAt": "2026-09-16"
   },
   {
     "id": "andhra-hpcl-ta-consultant",
@@ -516,7 +1310,7 @@
     "applyOnlineLink": "https://www.hindustanpetroleum.com/documents/pdf/English%20Advertisement%20-%20VR%20TA%20Consultant%202026%20v1.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-09-15"
+    "scrapedAt": "2026-09-16"
   },
   {
     "id": "andhra-visakhapatnam port authority-trade-apprentices-welder-electrician-fitter-motor-",
@@ -533,7 +1327,7 @@
     "applyOnlineLink": "https://www.apprenticeshipindia.gov.in",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-09-15",
+    "scrapedAt": "2026-09-16",
     "fees": [
       {
         "category": "Fee",
@@ -610,7 +1404,7 @@
     "applyOnlineLink": "https://cdn.digialm.com/EForms/configuredHtml/1258/102046/Index.html",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-09-15",
+    "scrapedAt": "2026-09-16",
     "fees": [
       {
         "category": "General/OBC/EWS (Male)",
@@ -695,7 +1489,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/bobjul26/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-09-15",
+    "scrapedAt": "2026-09-16",
     "fees": [
       {
         "category": "General / EWS / OBC candidates",
@@ -751,6 +1545,6 @@
     "applyOnlineLink": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/08/ADVERTISEMENT-FOR-RECRUITMENT-TO-THE-POSTS-OF-FACULTY-GROUP-A-ON-DIRECT-RECRUITMENT-DEPUTATION-BASIS-IN-VARIOUS-DEPARTMENTS-OF-AIIMS-MANGALAGIRI-1.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-09-15"
+    "scrapedAt": "2026-09-16"
   }
 ]

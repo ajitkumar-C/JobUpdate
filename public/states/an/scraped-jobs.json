@@ -1,5 +1,91 @@
 [
   {
+    "id": "an-aai-consultant-ssco-",
+    "title": "AAI Recruitment 2026 – Consultant (SSCO) Posts",
+    "shortInfo": "AAI has announced notification for Consultant (SSCO) posts. Required qualification: Graduate in any discipline, Basic ATC Course, ATM and AL (Basic), GCA/ATSS Course. Last date to apply: 01-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "39",
+    "lastDate": "01-10-26",
+    "officialWebsite": "https://www.aai.aero",
+    "notificationLink": "https://www.aai.aero/sites/default/files/examdashboard_advertisement/Advt%20No%2014-2026-CHQ-SSCOs%20for%20engagement%20of%20Short%20Service%20Commission%20Officers%20in%20AAI.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/aai-ssco-consultant-recruitment-2026/",
+    "state": "Andaman & Nicobar",
+    "stateCode": "an",
+    "scrapedAt": "2026-09-17",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date for Submission of Applications by Email",
+        "date": "17/09/2026"
+      },
+      {
+        "event": "Last Date for Submission of Application",
+        "date": "01/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Consultant (SSCOs) - Pune Airport (SMC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Consultant (SSCOs) - Kanpur Airport",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Consultant (SSCOs) - Purnea Airport",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Consultant (SSCOs) - Goa (Dabolim) Airport (SMC + ATC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Consultant (SSCOs) - Port Blair Airport (SMC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Consultant (SSCOs) - Darbhanga Airport",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the prescribed application form (Annexure-1) from the advertisement.",
+      "Fill in the application form completely with all required details.",
+      "Attach self-attested copies of all necessary supporting documents, Educational Qualifications and Work Experience.",
+      "Combine the duly filled application and all self-attested supporting documents into a single PDF file (size not exceeding 5 MB).",
+      "Send the PDF file to the email ID: chqrectt@aai.aero on or before the closing date, i.e., 01.10.2026.",
+      "Application through any other mode will NOT be accepted.",
+      "Ensure that the email ID provided in the application is maintained active for further communication."
+    ]
+  },
+  {
     "id": "an-csl-iti-trade-apprentices",
     "title": "CSL Recruitment 2026 – ITI Trade Apprentices Posts",
     "shortInfo": "CSL has announced notification for ITI Trade Apprentices posts. Required qualification: ITI. Last date to apply: 21-09-26.",
@@ -14,7 +100,7 @@
     "applyOnlineLink": "https://csl.cochinshipyard.in:8000/sap/bc/webdynpro/sap/hrrcf_a_unreg_job_search?sap-language=EN#",
     "state": "Andaman & Nicobar",
     "stateCode": "an",
-    "scrapedAt": "2026-09-16",
+    "scrapedAt": "2026-09-17",
     "fees": [
       {
         "category": "All Candidates",
@@ -88,7 +174,7 @@
     "applyOnlineLink": "https://sronline.etrpindia.com/rrcchennaiapprentice26/recruitmentIndex",
     "state": "Andaman & Nicobar",
     "stateCode": "an",
-    "scrapedAt": "2026-09-16",
+    "scrapedAt": "2026-09-17",
     "fees": [
       {
         "category": "General/OBC/EWS",
@@ -144,7 +230,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
     "state": "Andaman & Nicobar",
     "stateCode": "an",
-    "scrapedAt": "2026-09-16",
+    "scrapedAt": "2026-09-17",
     "fees": [],
     "dates": [
       {

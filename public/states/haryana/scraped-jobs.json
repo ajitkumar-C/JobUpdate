@@ -1,20 +1,189 @@
 [
   {
-    "id": "haryana-hspcb-assistant-and-more-accounts-clerk",
-    "title": "HSPCB Recruitment 2026 – Assistant and More, Accounts Clerk Posts",
-    "shortInfo": "HSPCB has announced notification for Assistant and More, Accounts Clerk posts. Required qualification: Any Post Graduate, Diploma, M.Phil/Ph.D, MCA, B.Tech/B.E, M.Com, M.Sc, B.Com. Last date to apply: 01-10-26.",
+    "id": "haryana-stpi-apprentice-trainee",
+    "title": "STPI Recruitment 2026 – Apprentice Trainee Posts",
+    "shortInfo": "STPI has announced notification for Apprentice Trainee posts. Required qualification: B.Tech/B.E, BA, B.Com, BBA. Last date to apply: 30-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "15",
+    "lastDate": "30-09-26",
+    "officialWebsite": "https://www.stpi.in",
+    "notificationLink": "https://stpi.in/sites/default/files/career-documents/notfn140926.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/stpi-apprentice-trainee-recruitment-2026/",
+    "state": "Haryana",
+    "stateCode": "haryana",
+    "scrapedAt": "2026-09-17",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "No Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "14/09/2026"
+      },
+      {
+        "event": "Last Date to Apply Online",
+        "date": "30/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Apprentice Trainee (B.Tech/B.E)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Apprentice Trainee (Bachelor in Arts/Commerce/Administration)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Register on the NATS Portal at https://nats.education.gov.in and obtain your NATS Enrolment ID.",
+      "Visit STPI’s official website at www.stpi.in and navigate to the Career Section.",
+      "Fill in the online application form and mention your NATS Enrolment ID.",
+      "Submit the application on or before 30/09/2026.",
+      "Applications received after the last date will not be considered.",
+      ""
+    ]
+  },
+  {
+    "id": "haryana-hspcb-assistant-and-more-accounts-clerk-stenographer-eng",
+    "title": "HSPCB Recruitment 2026 – Assistant and More, Accounts Clerk, Stenographer, Engineer &amp; Other Posts",
+    "shortInfo": "HSPCB has announced notification for Assistant and More, Accounts Clerk, Stenographer, Engineer &amp; Other posts. Required qualification: Any Post Graduate, Diploma, M.Phil/Ph.D, MCA, B.Tech/B.E, M.Com, M.Sc, B.Com. Last date to apply: 01-10-26.",
     "category": "Latest Jobs",
     "categoryIcon": "📚",
     "categoryMarathi": "Latest Jobs",
     "district": "State Level",
     "vacancies": "76",
     "lastDate": "01-10-26",
-    "officialWebsite": "https://hpgcl.org.in/uploads/fileupload/5563-64_Deputation_Circular_0001.pdf",
+    "officialWebsite": "https://hspcb.gov.in",
     "notificationLink": "https://hpgcl.org.in/uploads/fileupload/5563-64_Deputation_Circular_0001.pdf",
-    "applyOnlineLink": "https://hpgcl.org.in/uploads/fileupload/5563-64_Deputation_Circular_0001.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/hspcb-recruitment-2026/",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-09-17"
+    "scrapedAt": "2026-09-17",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date to Apply",
+        "date": "01/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Officer (Level-19)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist (Level-14)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Environmental Engineer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Environmental Engineer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist (Level-9)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Private Secretary",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Personal Assistant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Stenographer (Sr. Scale / Level-6)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Stenographer (Level-4)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Steno Typist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Accountant (Level-6)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Accounts Clerk",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Eligible and suitable candidates must apply through their parent department.",
+      "Applications must be submitted in the prescribed proforma.",
+      "Applications must be accompanied by: a vigilance clearance certificate, integrity certificate, details of major/minor penalties imposed, and attested photocopies of ACRs/APARs for the last 5 years.",
+      "Applications must reach the office of HSPCB, C-11, Sector-6, Panchkula by 01.10.2026.",
+      "Applications sent directly (not through parent department) will not be entertained."
+    ]
   },
   {
     "id": "haryana-rites-manager-dgm-assistant-manager",

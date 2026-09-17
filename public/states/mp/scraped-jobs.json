@@ -1,5 +1,132 @@
 [
   {
+    "id": "mp-mpesb mp police-subedar-secretarial-stenographer-assistant-sub-ins",
+    "title": "MPESB MP Police Recruitment 2026 – Subedar (Secretarial), Stenographer, Assistant Sub Inspector (Secretarial) Posts",
+    "shortInfo": "MPESB MP Police has announced notification for Subedar (Secretarial), Stenographer, Assistant Sub Inspector (Secretarial) posts. Required qualification: Higher Secondary (10+2), CPCT with Hindi Typing, Additional computer diploma/certificate. Last date to apply: 08-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "630",
+    "lastDate": "08-10-26",
+    "officialWebsite": "https://www.esb.mp.gov.in",
+    "notificationLink": "https://esb.mp.gov.in/Rulebooks/RB_2026/Steno_ASI_2026_Rulebook_17092026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/mpesb-subedar-steno-asi-ministerial-recruitment-2026/",
+    "state": "Madhya Pradesh",
+    "stateCode": "mp",
+    "scrapedAt": "2026-09-17",
+    "fees": [
+      {
+        "category": "Unreserved (General) candidates (Direct Recruitment)",
+        "fee": "Rs. 500/-"
+      },
+      {
+        "category": "SC/ST/OBC/EWS candidates (MP domicile only) (Direct Recruitment)",
+        "fee": "Rs. 250/-"
+      },
+      {
+        "category": "Unreserved candidates (Departmental Exam)",
+        "fee": "Rs. 200/-"
+      },
+      {
+        "category": "SC/ST/OBC/EWS candidates (MP domicile only) (Departmental Exam)",
+        "fee": "Rs. 100/-"
+      },
+      {
+        "category": "MP Online Portal charge (via Kiosk)",
+        "fee": "Rs. 60/-"
+      },
+      {
+        "category": "MP Online Portal charge (via Registered Citizen User login)",
+        "fee": "Rs. 20/-"
+      },
+      {
+        "category": "Amendment fee per correction",
+        "fee": "Rs. 20/-"
+      },
+      {
+        "category": "Amendment portal charge per correction",
+        "fee": "Rs. 40/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Application Start Date",
+        "date": "24/09/2026"
+      },
+      {
+        "event": "Online Application Last Date",
+        "date": "08/10/2026"
+      },
+      {
+        "event": "Online Application Amendment Start Date",
+        "date": "24/09/2026"
+      },
+      {
+        "event": "Online Application Amendment Last Date",
+        "date": "13/10/2026"
+      },
+      {
+        "event": "First Stage Written Exam Start Date",
+        "date": "03/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Subedar (Secretarial) Stenographer &ndash; General Branch (Post Code 01)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Subedar (Secretarial) Stenographer &ndash; Special Branch (Post Code 02)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Sub Inspector (Secretarial) &ndash; General Branch (Post Code 03)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Sub Inspector (Secretarial) &ndash; Field Unit (Post Code 04)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Sub Inspector (Secretarial) &ndash; Special Branch (Post Code 05)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Sub Inspector (Secretarial) &ndash; Crime Investigation Department (Post Code 06)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website: www.esb.mp.gov.in",
+      "Fill the Online Application Form from 24.09.2026 to 08.10.2026.",
+      "Upload scanned color photograph, signature, and self-handwritten declaration.",
+      "Upload required documents: date of birth proof (8th/10th/12th marksheet), caste certificate (if applicable), EWS certificate (if applicable), and other relevant documents.",
+      "Pay the examination fee online via Credit/Debit Card, Internet Banking, or through MP Online authorized Kiosk.",
+      "Submit the application form and save the application number for future reference.",
+      "Corrections/modifications can be made from 24.09.2026 to 13.10.2026 by paying the amendment fee.",
+      "Download the Admit Card from www.esb.mp.gov.in using the online application form number."
+    ]
+  },
+  {
     "id": "mp-nliu bhopal-multitasking-staff-and-more-posts-office-assistant",
     "title": "NLIU Bhopal Recruitment 2026 – Multitasking Staff and More Posts, Office Assistants Posts",
     "shortInfo": "NLIU Bhopal has announced notification for Multitasking Staff and More Posts, Office Assistants posts. Required qualification: ITI, Diploma, 12TH. Last date to apply: 24-09-26.",
@@ -91,7 +218,7 @@
     "lastDate": "01-10-26",
     "officialWebsite": "https://esb.mp.gov.in",
     "notificationLink": "https://esb.mp.gov.in/Rulebooks/RB_2026/Nayab_Tehsildar_2026_Rule_Book_11092026.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/mp-nayab-tehsildar-recruitment-2026/",
+    "applyOnlineLink": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
     "scrapedAt": "2026-09-17",

@@ -1,5 +1,62 @@
 [
   {
+    "id": "telangana-stpi-apprentice-trainee",
+    "title": "STPI Recruitment 2026 – Apprentice Trainee Posts",
+    "shortInfo": "STPI has announced notification for Apprentice Trainee posts. Required qualification: B.Tech/B.E, BA, B.Com, BBA. Last date to apply: 30-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "15",
+    "lastDate": "30-09-26",
+    "officialWebsite": "https://www.stpi.in",
+    "notificationLink": "https://stpi.in/sites/default/files/career-documents/notfn140926.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/stpi-apprentice-trainee-recruitment-2026/",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-09-17",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "No Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "14/09/2026"
+      },
+      {
+        "event": "Last Date to Apply Online",
+        "date": "30/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Apprentice Trainee (B.Tech/B.E)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Apprentice Trainee (Bachelor in Arts/Commerce/Administration)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Register on the NATS Portal at https://nats.education.gov.in and obtain your NATS Enrolment ID.",
+      "Visit STPI’s official website at www.stpi.in and navigate to the Career Section.",
+      "Fill in the online application form and mention your NATS Enrolment ID.",
+      "Submit the application on or before 30/09/2026.",
+      "Applications received after the last date will not be considered.",
+      ""
+    ]
+  },
+  {
     "id": "telangana-exim bank-business-development-officer",
     "title": "Exim Bank Recruitment 2026 – Business Development Officer Posts",
     "shortInfo": "Exim Bank has announced notification for Business Development Officer posts. Required qualification: Postgraduate in Marketing/Finance, MBA preferred. Last date to apply: 15-10-26.",

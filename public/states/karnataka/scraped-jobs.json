@@ -1,5 +1,62 @@
 [
   {
+    "id": "karnataka-stpi-apprentice-trainee",
+    "title": "STPI Recruitment 2026 – Apprentice Trainee Posts",
+    "shortInfo": "STPI has announced notification for Apprentice Trainee posts. Required qualification: B.Tech/B.E, BA, B.Com, BBA. Last date to apply: 30-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "15",
+    "lastDate": "30-09-26",
+    "officialWebsite": "https://www.stpi.in",
+    "notificationLink": "https://stpi.in/sites/default/files/career-documents/notfn140926.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/stpi-apprentice-trainee-recruitment-2026/",
+    "state": "Karnataka",
+    "stateCode": "karnataka",
+    "scrapedAt": "2026-09-17",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "No Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "14/09/2026"
+      },
+      {
+        "event": "Last Date to Apply Online",
+        "date": "30/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Apprentice Trainee (B.Tech/B.E)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Apprentice Trainee (Bachelor in Arts/Commerce/Administration)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Register on the NATS Portal at https://nats.education.gov.in and obtain your NATS Enrolment ID.",
+      "Visit STPI’s official website at www.stpi.in and navigate to the Career Section.",
+      "Fill in the online application form and mention your NATS Enrolment ID.",
+      "Submit the application on or before 30/09/2026.",
+      "Applications received after the last date will not be considered.",
+      ""
+    ]
+  },
+  {
     "id": "karnataka-ucsl-apprentice",
     "title": "UCSL Recruitment 2026 – Apprentice Posts",
     "shortInfo": "UCSL has announced notification for Apprentice posts. Required qualification: ITI, Diploma. Last date to apply: 14-10-26.",
@@ -123,12 +180,66 @@
     "district": "State Level",
     "vacancies": "30",
     "lastDate": "11-10-26",
-    "officialWebsite": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtCASDIC14092026.pdf",
+    "officialWebsite": "https://drdo.gov.in",
     "notificationLink": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtCASDIC14092026.pdf",
-    "applyOnlineLink": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtCASDIC14092026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/casdic-drdo-paid-intern-recruitment-2026/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-09-17"
+    "scrapedAt": "2026-09-17",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date for Receipt of Application",
+        "date": "11/10/2026"
+      },
+      {
+        "event": "Intimation to Selected Students (DRDO Website/Email)",
+        "date": "13/11/2026"
+      },
+      {
+        "event": "Date of Start of Internship",
+        "date": "01/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Paid Intern &ndash; Electrical/Electronics & Communication/Electronics & Telecommunication (EC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Paid Intern &ndash; Computer Science/Information Technology (CS)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Paid Intern &ndash; Mechanical Engineering (ME)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Fill the application form completely as per the prescribed format.",
+      "Obtain a Reference/Request Letter from your college (on College Letter Head) for Paid Internship as per the attached format.",
+      "Scan the duly filled application form along with the Reference/Request letter.",
+      "Send the scanned copy via email only to: hrd.casdic@gov.in",
+      "Email subject must be: ‘Application for paid internship for the year 2026 with Branch code’ (mention the branch code you are applying for).",
+      "Attach self-attested copies of mark sheets of all previous semesters, Aadhaar card copy, and a brief biodata (less than 300 words highlighting achievements).",
+      "Provide the CGPA conversion formula if applicable.",
+      "Last date for receipt of application: 11/10/2026. Emails received after this date will not be considered.",
+      "Those who have already applied against the August 2025 advertisement need not apply again."
+    ]
   },
   {
     "id": "karnataka-esic kalaburagi-assistant-professor-professor-walk-in-",
@@ -215,7 +326,7 @@
     "lastDate": "30-09-26",
     "officialWebsite": "https://cetonline.karnataka.gov.in/kea/",
     "notificationLink": "https://cetonline.karnataka.gov.in/keawebentry456/muadkk2026/Notificationkannada.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/kea-water-supply-operator-recruitment-2026/",
+    "applyOnlineLink": "https://cetonline.karnataka.gov.in/kea/",
     "state": "Karnataka",
     "stateCode": "karnataka",
     "scrapedAt": "2026-09-17",

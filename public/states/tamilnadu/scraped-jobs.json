@@ -1,5 +1,188 @@
 [
   {
+    "id": "tamilnadu-cmwssb-graduate-apprentice-technician-diploma-apprentice",
+    "title": "CMWSSB Recruitment 2026 – Graduate Apprentice, Technician (Diploma) Apprentice Posts",
+    "shortInfo": "CMWSSB has announced notification for Graduate Apprentice, Technician (Diploma) Apprentice posts. Required qualification: Degree or Diploma in Engineering/Technology. Last date to apply: 17-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "108",
+    "lastDate": "17-10-26",
+    "officialWebsite": "https://cmwssb.tn.gov.in/",
+    "notificationLink": "https://nats.education.gov.in/uploads/events/sr/CMWSSB%20%20Notification%202026%20-%2027.pdf",
+    "applyOnlineLink": "https://nats.education.gov.in",
+    "state": "Tamil Nadu",
+    "stateCode": "tamilnadu",
+    "scrapedAt": "2026-09-17",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Application Starting Date",
+        "date": "17/09/2026"
+      },
+      {
+        "event": "Last Date for Enrolling in NATS Portal",
+        "date": "17/10/2026"
+      },
+      {
+        "event": "Declaration of Shortlisted List (Fourth week Oct &lsquo;2026)",
+        "date": ""
+      },
+      {
+        "event": "Verification of Certificates for Shortlisted Candidates (First week of November &lsquo;2026 (Tentatively))",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Graduate Apprentice - Civil/Mechanical Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Electrical and Electronics Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (Diploma) Apprentice - Civil Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (Diploma) Apprentice - Electrical and Electronics Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the NATS portal at https://nats.education.gov.in",
+      "If you are a first-time user (Category C), click ‘Student Register’ and complete the application form to generate a unique 12-digit Enrollment Number.",
+      "If already enrolled in the old portal (Category A), click ‘Forgot Password’, enter your registered email to get an activation link, reset your password, and complete migration to the new portal.",
+      "If already enrolled in the new portal (Category B), login with your email ID and password.",
+      "After login, under ‘Apply against advertised vacancies’, search for ‘CHENNAI METROPOLITAN WATER SUPPLY AND SEWERAGE BOARD’.",
+      "Click ‘Apply’ and confirm the status shows ‘Applied’.",
+      "Upload B.E / B.Tech / Diploma Provisional Certificate or Consolidated Mark Sheet.",
+      "Ensure percentage of marks is compulsorily entered in the column ‘% of marks / CGPAx10’ in the NATS portal."
+    ]
+  },
+  {
+    "id": "tamilnadu-stpi-apprentice-trainee",
+    "title": "STPI Recruitment 2026 – Apprentice Trainee Posts",
+    "shortInfo": "STPI has announced notification for Apprentice Trainee posts. Required qualification: B.Tech/B.E, BA, B.Com, BBA. Last date to apply: 30-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "15",
+    "lastDate": "30-09-26",
+    "officialWebsite": "https://www.stpi.in",
+    "notificationLink": "https://stpi.in/sites/default/files/career-documents/notfn140926.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/stpi-apprentice-trainee-recruitment-2026/",
+    "state": "Tamil Nadu",
+    "stateCode": "tamilnadu",
+    "scrapedAt": "2026-09-17",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "No Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "14/09/2026"
+      },
+      {
+        "event": "Last Date to Apply Online",
+        "date": "30/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Apprentice Trainee (B.Tech/B.E)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Apprentice Trainee (Bachelor in Arts/Commerce/Administration)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Register on the NATS Portal at https://nats.education.gov.in and obtain your NATS Enrolment ID.",
+      "Visit STPI’s official website at www.stpi.in and navigate to the Career Section.",
+      "Fill in the online application form and mention your NATS Enrolment ID.",
+      "Submit the application on or before 30/09/2026.",
+      "Applications received after the last date will not be considered.",
+      ""
+    ]
+  },
+  {
+    "id": "tamilnadu-greater chennai corporation gcc-staff-nurse",
+    "title": "Greater Chennai Corporation GCC Recruitment 2026 – Staff Nurse Posts",
+    "shortInfo": "Greater Chennai Corporation GCC has announced notification for Staff Nurse posts. Required qualification: GNM, B.Sc. Nursing. Last date to apply: 25-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "512",
+    "lastDate": "25-09-26",
+    "officialWebsite": "https://chennaicorporation.gov.in",
+    "notificationLink": "https://chennaicorporation.gov.in/gcc/pdf/StaffNurseNotification.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/gcc-staff-nurse-recruitment-2026/",
+    "state": "Tamil Nadu",
+    "stateCode": "tamilnadu",
+    "scrapedAt": "2026-09-17",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date to Submit Application",
+        "date": "25/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Contractual / Temporary Staff Nurse",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the application form from the NHM-TN website (https://nhm.tn.gov.in) or Greater Chennai Corporation website (www.chennaicorporation.gov.in).",
+      "Fill in the application form completely with all required details.",
+      "Attach self-attested photocopies of all mandatory documents along with two recent passport-size colour photographs.",
+      "Send the filled application along with relevant document photocopies to: The City Health Officer / Member Secretary, Chennai City Urban Health Mission, Public Health Department, 3rd Floor, Amma Maaligai, Ripon Buildings, EVR Periyar Salai, Chennai &ndash; 600 003.",
+      "The application must reach the above address on or before 25.09.2026 by 5:00 PM."
+    ]
+  },
+  {
     "id": "tamilnadu-dcpu kallakurichi-office-assistant-junior-assistant-cum-record-clerk",
     "title": "DCPU Kallakurichi Recruitment 2026 – Office Assistant, Junior Assistant Cum Record Clerk Posts",
     "shortInfo": "DCPU Kallakurichi has announced notification for Office Assistant, Junior Assistant Cum Record Clerk posts. Required qualification: 10TH, 8TH. Last date to apply: 28-09-26.",

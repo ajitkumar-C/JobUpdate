@@ -664,46 +664,47 @@
     "totalVacanciesCount": "Refer to Notification"
   },
   {
-    "id": "latest-jobs-upsc-engineering-services-pre-2027",
-    "title": "UPSC Engineering Services Pre Recruitment 2027",
+    "id": "latest-jobs-india-gds-2026",
+    "title": "India Post GDS Recruitment 2026",
     "category": "Latest Jobs",
     "postDate": "2026-09-17",
-    "shortInfo": "UPSC Engineering Services Pre Recruitment 2027. Read notification for detailed information.",
-    "applicationStart": "16 September 2026",
-    "applicationLastDate": "06 October 2026",
-    "feeLastDate": "06 October 2026",
-    "examDate": "18 June 2027",
+    "shortInfo": "India Post GDS Recruitment 2026. Read notification for detailed information.",
+    "applicationStart": "Available soon",
+    "applicationLastDate": "Refer to notification",
+    "feeLastDate": "Refer to notification",
+    "examDate": "To be announced",
     "admitCardDate": "To be announced",
     "fees": {
-      "generalObc": "Rs. 200/-",
-      "scStPh": "Rs. 00/-",
-      "female": "Rs. 00/-",
+      "generalObc": "₹ 100/-",
+      "scStPh": "₹ 0/-",
+      "female": "₹ 0/-",
       "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:"
     },
     "ageLimit": {
-      "min": "21 Years",
-      "max": "30 Years",
+      "min": "18 Years",
+      "max": "40 years",
       "relaxationText": "Age relaxation applies as per rules."
     },
     "vacancies": [
       {
-        "postName": "UPSC Engineering Services Pre",
+        "postName": "India Post GDS",
         "totalPost": "Refer to Notification",
         "eligibility": "See official guidelines"
       }
     ],
     "importantLinks": {
-      "applyOnline": "https://upsconline.nic.in/candidate/realms/candidate-portal/protocol/openid-connect/auth?client_id=account&redirect_uri=https%3A%2F%2Fupsconline.nic.in%2Fcandidate%2Frealms%2Fcandidate-portal%2Faccount%2Flogin-redirect&state=0%2F1fd6d280-2405-bd99-3bdd-a6e91021f282&response_type=code&scope=openid",
-      "downloadNotification": "https://www.upsc.gov.in/sites/default/files/Notif-ESEP-2027-Engl-160926.pdf",
-      "officialWebsite": "http://www.upsc.gov.in/",
+      "applyOnline": "https://app.indiapost.gov.in/gdscandidate/registration",
+      "downloadNotification": "https://www.indiapost.gov.in/gdsonlineengagement/pdf/descriptive-notification.pdf",
+      "officialWebsite": "https://indiapostgdsonline.gov.in/",
       "resultUrl": "https://sarkariresult.com.cm/"
     },
     "status": "active",
     "salary": "As per Government Rules / Pay Matrix",
     "selectionProcess": [
-      "Stage-1 CBT Examination",
-      "Stage-2 Technical Paper CBT",
-      "Document Verification & Medical Fitness"
+      "Written Examination (CBT / OMR)",
+      "Skill / Trade Test (if applicable)",
+      "Document Verification (DV)",
+      "Medical Examination (As per Rules)"
     ],
     "howToApply": [
       "Check your eligibility, educational qualifications, and age criteria from the official notification.",
@@ -713,8 +714,63 @@
       "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
       "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
     ],
-    "jobLocation": "All India (Central Govt)",
+    "jobLocation": "All India / State-Wise",
     "totalVacanciesCount": "Refer to Notification"
+  },
+  {
+    "id": "latest-jobs-bank-baroda-lbo-2026",
+    "title": "Bank Of Baroda LBO Recruitment 2026",
+    "category": "Latest Jobs",
+    "postDate": "2026-09-17",
+    "shortInfo": "Bank Of Baroda LBO Recruitment 2026. Read notification for detailed information.",
+    "applicationStart": "18 August 2026",
+    "applicationLastDate": "17 September 2026 Extended",
+    "feeLastDate": "17 September 2026 Extended",
+    "examDate": "Notify Later",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "₹ 850/-",
+      "scStPh": "₹ 175/-",
+      "female": "₹ 175/-",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "min": "21 Years",
+      "max": "30 Years",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Local Bank Officer LBO",
+        "totalPost": "2482 Posts",
+        "eligibility": "Refer to official notification details"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://ibpsreg.ibps.in/bobjul26/",
+      "downloadNotification": "https://bankofbaroda.bank.in/-/media/Project/BOB/CountryWebsites/India/Career/2026/26-08/Advertisement-18-04.pdf",
+      "officialWebsite": "https://www.bankofbaroda.in/",
+      "syllabusUrl": "http://sarkariresult.com.cm/wp-content/uploads/2026/08/Bank-Of-Baroda-LBO-Syllabus-Exam-Pattern-2026.pdf",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Written Examination (CBT / OMR)",
+      "Skill / Trade Test (if applicable)",
+      "Document Verification (DV)",
+      "Medical Examination (As per Rules)"
+    ],
+    "howToApply": [
+      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
+      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
+      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
+      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
+      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
+      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
+    ],
+    "jobLocation": "All India / State-Wise",
+    "totalVacanciesCount": "2,482 Posts"
   },
   {
     "id": "latest-jobs-upessc-prt-assistant-teacher-2026",
@@ -826,91 +882,83 @@
     "totalVacanciesCount": "2,536 Posts"
   },
   {
-    "id": "latest-jobs-up-pgt-teacher-2026",
-    "title": "UP PGT Teacher Recruitment 2026",
+    "id": "latest-jobs-ibps-rrb-15th-2026",
+    "title": "IBPS RRB 15th Recruitment 2026",
     "category": "Latest Jobs",
     "postDate": "2026-09-17",
-    "shortInfo": "UP PGT Teacher Recruitment 2026. Read notification for detailed information.",
-    "applicationStart": "18 September 2026",
-    "applicationLastDate": "17 October 2026",
-    "feeLastDate": "17 October 2026",
-    "examDate": "15 – 16 December 2026",
+    "shortInfo": "IBPS RRB 15th Recruitment 2026. Read notification for detailed information.",
+    "applicationStart": "01 September 2026",
+    "applicationLastDate": "21 September 2026",
+    "feeLastDate": "21 September 2026",
+    "examDate": "Notify Later",
     "admitCardDate": "To be announced",
     "fees": {
-      "generalObc": "Refer to Notification",
-      "scStPh": "₹ 750/-",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:"
-    },
-    "ageLimit": {
-      "min": "21 Years",
-      "max": "62 years",
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "UP PGT Teacher",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://whatsapp.com/channel/0029VaAbQf01NCrYADMLt00L",
-      "downloadNotification": "https://www.upessc.up.gov.in/Notice/b9ce-e9ff-48c3-10f9-4b52.pdf",
-      "officialWebsite": "https://upessc.up.gov.in/",
-      "syllabusUrl": "https://www.upessc.up.gov.in/Home/Syllabus_all",
-      "resultUrl": "https://sarkariresult.com.cm/"
-    },
-    "status": "active",
-    "salary": "As per Government Rules / Pay Matrix",
-    "selectionProcess": [
-      "Written Competitive Examination",
-      "Interview / Demo Class (if applicable)",
-      "Document Verification (DV)"
-    ],
-    "howToApply": [
-      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
-      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
-      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
-      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
-      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
-      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
-    ],
-    "jobLocation": "Uttar Pradesh",
-    "totalVacanciesCount": "Refer to Notification"
-  },
-  {
-    "id": "latest-jobs-india-gds-2026",
-    "title": "India Post GDS Recruitment 2026",
-    "category": "Latest Jobs",
-    "postDate": "2026-09-17",
-    "shortInfo": "India Post GDS Recruitment 2026. Read notification for detailed information.",
-    "applicationStart": "Available soon",
-    "applicationLastDate": "Refer to notification",
-    "feeLastDate": "Refer to notification",
-    "examDate": "To be announced",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "₹ 100/-",
-      "scStPh": "₹ 0/-",
-      "female": "₹ 0/-",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:"
+      "generalObc": "₹ 850/-",
+      "scStPh": "₹ 175/-",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
     },
     "ageLimit": {
       "min": "18 Years",
-      "max": "40 years",
-      "relaxationText": "Age relaxation applies as per rules."
+      "max": "28 – 30 Years",
+      "relaxationText": "Age Relaxation Extra As Per Rules Of IBPS RRB Recruitment 2026"
     },
     "vacancies": [
       {
-        "postName": "India Post GDS",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
+        "postName": "Office Assistant (Multipurpose)",
+        "totalPost": "8183",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Officer Scale-I (Assistant Manager)",
+        "totalPost": "4256",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Officer Scale-II (General Banking Officer)",
+        "totalPost": "666",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Officer Scale II (Information Technology Officer)",
+        "totalPost": "182",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Officer Scale II (Chartered Accountant)",
+        "totalPost": "81",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Officer Scale II (Law Officer)",
+        "totalPost": "46",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Officer Scale II (Treasury Manager)",
+        "totalPost": "18",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Officer Scale II (Marketing Officer)",
+        "totalPost": "16",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Officer Scale II (Agriculture Officer)",
+        "totalPost": "38",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Officer Scale III (Senior Manager)",
+        "totalPost": "220",
+        "eligibility": "Refer to official notification details"
       }
     ],
     "importantLinks": {
-      "applyOnline": "https://app.indiapost.gov.in/gdscandidate/registration",
-      "downloadNotification": "https://www.indiapost.gov.in/gdsonlineengagement/pdf/descriptive-notification.pdf",
-      "officialWebsite": "https://indiapostgdsonline.gov.in/",
+      "applyOnline": "https://ibpsreg.ibps.in/rrbxvaug26/",
+      "downloadNotification": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf",
+      "officialWebsite": "https://ibps.in/",
+      "syllabusUrl": "http://sarkariresult.com.cm/wp-content/uploads/2026/09/CRP-RRBs-XV-notification-21-26.pdf",
       "resultUrl": "https://sarkariresult.com.cm/"
     },
     "status": "active",
@@ -929,25 +977,25 @@
       "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
       "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
     ],
-    "jobLocation": "All India / State-Wise",
-    "totalVacanciesCount": "Refer to Notification"
+    "jobLocation": "All India (Central Govt)",
+    "totalVacanciesCount": "13,706 Posts"
   },
   {
-    "id": "latest-jobs-bank-baroda-lbo-2026",
-    "title": "Bank Of Baroda LBO Recruitment 2026",
+    "id": "latest-jobs-upsc-engineering-services-pre-2027",
+    "title": "UPSC Engineering Services Pre Recruitment 2027",
     "category": "Latest Jobs",
     "postDate": "2026-09-17",
-    "shortInfo": "Bank Of Baroda LBO Recruitment 2026. Read notification for detailed information.",
-    "applicationStart": "18 August 2026",
-    "applicationLastDate": "17 September 2026 Extended",
-    "feeLastDate": "17 September 2026 Extended",
-    "examDate": "Notify Later",
+    "shortInfo": "UPSC Engineering Services Pre Recruitment 2027. Read notification for detailed information.",
+    "applicationStart": "16 September 2026",
+    "applicationLastDate": "06 October 2026",
+    "feeLastDate": "06 October 2026",
+    "examDate": "18 June 2027",
     "admitCardDate": "To be announced",
     "fees": {
-      "generalObc": "₹ 850/-",
-      "scStPh": "₹ 175/-",
-      "female": "₹ 175/-",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+      "generalObc": "Rs. 200/-",
+      "scStPh": "Rs. 00/-",
+      "female": "Rs. 00/-",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:"
     },
     "ageLimit": {
       "min": "21 Years",
@@ -956,25 +1004,23 @@
     },
     "vacancies": [
       {
-        "postName": "Local Bank Officer LBO",
-        "totalPost": "2482 Posts",
-        "eligibility": "Refer to official notification details"
+        "postName": "UPSC Engineering Services Pre",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
       }
     ],
     "importantLinks": {
-      "applyOnline": "https://ibpsreg.ibps.in/bobjul26/",
-      "downloadNotification": "https://bankofbaroda.bank.in/-/media/Project/BOB/CountryWebsites/India/Career/2026/26-08/Advertisement-18-04.pdf",
-      "officialWebsite": "https://www.bankofbaroda.in/",
-      "syllabusUrl": "http://sarkariresult.com.cm/wp-content/uploads/2026/08/Bank-Of-Baroda-LBO-Syllabus-Exam-Pattern-2026.pdf",
+      "applyOnline": "https://upsconline.nic.in/candidate/realms/candidate-portal/protocol/openid-connect/auth?client_id=account&redirect_uri=https%3A%2F%2Fupsconline.nic.in%2Fcandidate%2Frealms%2Fcandidate-portal%2Faccount%2Flogin-redirect&state=0%2F1fd6d280-2405-bd99-3bdd-a6e91021f282&response_type=code&scope=openid",
+      "downloadNotification": "https://www.upsc.gov.in/sites/default/files/Notif-ESEP-2027-Engl-160926.pdf",
+      "officialWebsite": "http://www.upsc.gov.in/",
       "resultUrl": "https://sarkariresult.com.cm/"
     },
     "status": "active",
     "salary": "As per Government Rules / Pay Matrix",
     "selectionProcess": [
-      "Written Examination (CBT / OMR)",
-      "Skill / Trade Test (if applicable)",
-      "Document Verification (DV)",
-      "Medical Examination (As per Rules)"
+      "Stage-1 CBT Examination",
+      "Stage-2 Technical Paper CBT",
+      "Document Verification & Medical Fitness"
     ],
     "howToApply": [
       "Check your eligibility, educational qualifications, and age criteria from the official notification.",
@@ -984,8 +1030,8 @@
       "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
       "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
     ],
-    "jobLocation": "All India / State-Wise",
-    "totalVacanciesCount": "2,482 Posts"
+    "jobLocation": "All India (Central Govt)",
+    "totalVacanciesCount": "Refer to Notification"
   },
   {
     "id": "answer-key-upsc-nda-ii-answer-key-2026",
@@ -2000,6 +2046,59 @@
       "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
     ],
     "jobLocation": "All India / State-Wise",
+    "totalVacanciesCount": "Refer to Notification"
+  },
+  {
+    "id": "latest-jobs-up-pgt-teacher-2026",
+    "title": "UP PGT Teacher Recruitment 2026",
+    "category": "Latest Jobs",
+    "postDate": "2026-09-17",
+    "shortInfo": "UP PGT Teacher Recruitment 2026. Read notification for detailed information.",
+    "applicationStart": "18 September 2026",
+    "applicationLastDate": "17 October 2026",
+    "feeLastDate": "17 October 2026",
+    "examDate": "15 – 16 December 2026",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "Refer to Notification",
+      "scStPh": "₹ 750/-",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:"
+    },
+    "ageLimit": {
+      "min": "21 Years",
+      "max": "62 years",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "UP PGT Teacher",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://whatsapp.com/channel/0029VaAbQf01NCrYADMLt00L",
+      "downloadNotification": "https://www.upessc.up.gov.in/Notice/b9ce-e9ff-48c3-10f9-4b52.pdf",
+      "officialWebsite": "https://upessc.up.gov.in/",
+      "syllabusUrl": "https://www.upessc.up.gov.in/Home/Syllabus_all",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Written Competitive Examination",
+      "Interview / Demo Class (if applicable)",
+      "Document Verification (DV)"
+    ],
+    "howToApply": [
+      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
+      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
+      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
+      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
+      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
+      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
+    ],
+    "jobLocation": "Uttar Pradesh",
     "totalVacanciesCount": "Refer to Notification"
   },
   {
@@ -3444,105 +3543,6 @@
     ],
     "jobLocation": "All India / State-Wise",
     "totalVacanciesCount": "Refer to Notification"
-  },
-  {
-    "id": "latest-jobs-ibps-rrb-15th-2026",
-    "title": "IBPS RRB 15th Recruitment 2026",
-    "category": "Latest Jobs",
-    "postDate": "2026-09-14",
-    "shortInfo": "IBPS RRB 15th Recruitment 2026. Read notification for detailed information.",
-    "applicationStart": "01 September 2026",
-    "applicationLastDate": "21 September 2026",
-    "feeLastDate": "21 September 2026",
-    "examDate": "Notify Later",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "₹ 850/-",
-      "scStPh": "₹ 175/-",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
-    },
-    "ageLimit": {
-      "min": "18 Years",
-      "max": "28 – 30 Years",
-      "relaxationText": "Age Relaxation Extra As Per Rules Of IBPS RRB Recruitment 2026"
-    },
-    "vacancies": [
-      {
-        "postName": "Office Assistant (Multipurpose)",
-        "totalPost": "8183",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Officer Scale-I (Assistant Manager)",
-        "totalPost": "4256",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Officer Scale-II (General Banking Officer)",
-        "totalPost": "666",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Officer Scale II (Information Technology Officer)",
-        "totalPost": "182",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Officer Scale II (Chartered Accountant)",
-        "totalPost": "81",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Officer Scale II (Law Officer)",
-        "totalPost": "46",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Officer Scale II (Treasury Manager)",
-        "totalPost": "18",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Officer Scale II (Marketing Officer)",
-        "totalPost": "16",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Officer Scale II (Agriculture Officer)",
-        "totalPost": "38",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Officer Scale III (Senior Manager)",
-        "totalPost": "220",
-        "eligibility": "Refer to official notification details"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://ibpsreg.ibps.in/rrbxvaug26/",
-      "downloadNotification": "https://www.ibps.in/wp-content/uploads/CRP-RRBs-XV-notification.pdf",
-      "officialWebsite": "https://ibps.in/",
-      "syllabusUrl": "http://sarkariresult.com.cm/wp-content/uploads/2026/09/CRP-RRBs-XV-notification-21-26.pdf",
-      "resultUrl": "https://sarkariresult.com.cm/"
-    },
-    "status": "active",
-    "salary": "As per Government Rules / Pay Matrix",
-    "selectionProcess": [
-      "Written Examination (CBT / OMR)",
-      "Skill / Trade Test (if applicable)",
-      "Document Verification (DV)",
-      "Medical Examination (As per Rules)"
-    ],
-    "howToApply": [
-      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
-      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
-      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
-      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
-      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
-      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
-    ],
-    "jobLocation": "All India (Central Govt)",
-    "totalVacanciesCount": "13,706 Posts"
   },
   {
     "id": "result-up-tgt-2022-college-allotment",

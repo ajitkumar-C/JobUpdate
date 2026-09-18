@@ -1,5 +1,106 @@
 [
   {
+    "id": "punjab-psssb-clerk-driver-translator-stenographer-field-artist",
+    "title": "PSSSB Recruitment 2026 – Clerk, Driver, Translator, Stenographer, Field Artist Posts",
+    "shortInfo": "PSSSB has announced notification for Clerk, Driver, Translator, Stenographer, Field Artist posts. Required qualification: As per post requirements. Last date to apply: -.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "-",
+    "lastDate": "-",
+    "officialWebsite": "https://govtjobguru.in/jobs/psssb-group-c-recruitment-2026/",
+    "notificationLink": "https://sssb.punjab.gov.in/",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/psssb-group-c-recruitment-2026/",
+    "state": "Punjab",
+    "stateCode": "punjab",
+    "scrapedAt": "2026-09-18",
+    "fees": [],
+    "dates": [
+      {
+        "event": "Starting Date for Apply Online",
+        "date": "25/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Group C (Clerk, Driver, Translator, Stenographer, Field Artist)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": []
+  },
+  {
+    "id": "punjab-psssb-group-d-last-date-extended-",
+    "title": "PSSSB Recruitment 2026 – Group D (Last Date Extended) Posts",
+    "shortInfo": "PSSSB has announced notification for Group D (Last Date Extended) posts. Required qualification: 10th. Last date to apply: 21-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2098",
+    "lastDate": "21-09-26",
+    "officialWebsite": "https://sssb.punjab.gov.in/",
+    "notificationLink": "https://sssb.punjab.gov.in/wp-content/uploads/2026/02/Advertisement-Group-D-1.pdf",
+    "applyOnlineLink": "https://eservices.punjab.gov.in/loginWindow.do",
+    "state": "Punjab",
+    "stateCode": "punjab",
+    "scrapedAt": "2026-09-18",
+    "fees": [
+      {
+        "category": "For General/Freedom Fighter/Player",
+        "fee": "₹1000/-"
+      },
+      {
+        "category": "For SC/BC/EWS",
+        "fee": "₹250/-"
+      },
+      {
+        "category": "For Ex-Servicemen & Dependent",
+        "fee": "₹200/-"
+      },
+      {
+        "category": "For Physical Handicapped",
+        "fee": "₹500/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Starting Date for Apply Online",
+        "date": "27/02/2026"
+      },
+      {
+        "event": "Closing Date for Apply Online",
+        "date": "20/03/2026"
+      },
+      {
+        "event": "Re open Dates",
+        "date": ""
+      },
+      {
+        "event": "Starting Date for Apply Online",
+        "date": "25/08/2026"
+      },
+      {
+        "event": "Closing Date for Apply Online (Extended Upto)",
+        "date": "14/09/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Group D",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": []
+  },
+  {
     "id": "punjab-stpi-apprentice-trainee",
     "title": "STPI Recruitment 2026 – Apprentice Trainee Posts",
     "shortInfo": "STPI has announced notification for Apprentice Trainee posts. Required qualification: B.Tech/B.E, BA, B.Com, BBA. Last date to apply: 30-09-26.",
@@ -55,6 +156,23 @@
       "Applications received after the last date will not be considered.",
       ""
     ]
+  },
+  {
+    "id": "punjab-gadvasu-storekeeper-steno-typist-clerk",
+    "title": "GADVASU Recruitment 2026 – Storekeeper, Steno-Typist, Clerk Posts",
+    "shortInfo": "GADVASU has announced notification for Storekeeper, Steno-Typist, Clerk posts. Required qualification: Any Bachelors Degree. Last date to apply: 08-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "45",
+    "lastDate": "08-10-26",
+    "officialWebsite": "https://www.gadvasu.in/assests/uploads/images/01%20Group%20C%20post%20-%20Steno-Typist.pdf",
+    "notificationLink": "https://www.gadvasu.in/assests/uploads/images/01%20Group%20C%20post%20-%20Steno-Typist.pdf",
+    "applyOnlineLink": "https://www.gadvasu.in/assests/uploads/images/01%20Group%20C%20post%20-%20Steno-Typist.pdf",
+    "state": "Punjab",
+    "stateCode": "punjab",
+    "scrapedAt": "2026-09-18"
   },
   {
     "id": "punjab-exim bank-business-development-officer",

@@ -187,5 +187,80 @@ GATE evaluates the comprehensive understanding of undergraduate subjects in engi
 - **Morning (3 Hours):** High-focus analytical topics (Physics numericals or Engineering Mathematics).
 - **Afternoon (3 Hours):** Revision, solving mock papers, and analyzing mistakes.
 - **Evening (2 Hours):** Theory reading, reading NCERT textbooks, or revising formula notebooks.`
+  },
+  {
+    id: 'rrb-ntpc-group-d-preparation-strategy-books',
+    title: 'RRB NTPC & Group D: Complete 60-Day Self-Study Blueprint & Best Books List (CBT-1 & CBT-2)',
+    summary: 'Master Railway Recruitment Board (RRB) NTPC and Group D exams with this exhaustive 60-day self-study timetable. Includes section-wise booklists for Mathematics, Reasoning & General Science, high-yield topic weightage, daily 6-hour timetable, and free mock test strategy.',
+    category: 'Exams',
+    author: 'Sarkari Aavedan Editorial Team',
+    publishedDate: '2026-09-18',
+    readTime: '16 min read',
+    keywords: ['RRB NTPC preparation strategy', 'RRB Group D study plan 60 days', 'best books for railway exams', 'RRB NTPC booklist', 'Railway CBT 1 CBT 2 timetable'],
+    content: `## Direct Answer: Can You Crack RRB NTPC & Group D in 60 Days Through Self-Study?
+
+> [!IMPORTANT]  
+> **Core Fact**: Yes, cracking RRB NTPC (CBT-1 & CBT-2) and Group D through self-study in 60 days is completely achievable because over 85% of questions are direct arithmetic, standard reasoning patterns, and 10th-standard NCERT science. Candidates who commit 6 disciplined hours daily with dedicated chapter-wise Previous Year Question (PYQ) practice routinely score 80+ normalized marks.
+
+### 60-Day Day-by-Day Preparation Blueprint
+- **Phase 1: Days 1 to 20 (Foundation & High-Yield Chapters)**: Master VBODMAS, LCM/HCF, Percentages, Class 9 NCERT Physics/Chemistry, and Coding-Decoding.
+- **Phase 2: Days 21 to 40 (Advanced Topics & Speed Building)**: Practice Profit & Loss, SI/CI, Time & Work, Class 10 NCERT Biology, and Seating Arrangements.
+- **Phase 3: Days 41 to 60 (Full-Length Mocks & Error Elimination)**: Solve 1 full CBT-1 mock test every morning, analyze every error in a mistake notebook, and revise formula sheets daily.`
+  },
+  {
+    id: 'ssc-cgl-chsl-90-day-strategy-booklist',
+    title: 'SSC CGL & CHSL 2026: 90-Day Comprehensive Preparation Strategy & Section-Wise Booklist',
+    summary: 'Complete roadmap to score 160+ in SSC CGL & CHSL Tier-1 and crack Tier-2. Discover the ultimate daily time-table, essential booklist for English, Quantitative Aptitude, Reasoning, and General Awareness, 5-year PYQ analysis, and mock test revision hacks.',
+    category: 'Exams',
+    author: 'Sarkari Aavedan Editorial Team',
+    publishedDate: '2026-09-18',
+    readTime: '18 min read',
+    keywords: ['SSC CGL 90 day study plan', 'SSC CHSL preparation strategy 2026', 'best books for SSC CGL Tier 1 Tier 2', 'Neetu Singh English Vol 1', 'Pinnacle SSC Maths'],
+    content: `## Direct Answer: How to Score 160+ Marks in SSC CGL & CHSL in 90 Days
+
+> [!IMPORTANT]  
+> **Core Fact**: Scoring 160+ marks in SSC CGL / CHSL Tier-1 requires balancing 45+ marks each in English Comprehension and General Intelligence (Reasoning), while scoring 40+ in Quantitative Aptitude and 25+ in General Awareness. The key differentiator is completing 5 years of TCS Previous Year Questions (PYQs) and taking 30 full-length timed computer mock tests.
+
+### 90-Day Action Blueprint
+- **Month 1 (Days 1 to 30)**: Complete foundational English grammar (Neetu Singh Vol 1), 50 vocabulary words daily (Blackbook), and pure arithmetic (Pinnacle 6800+).
+- **Month 2 (Days 31 to 60)**: Advanced Maths (Geometry, Mensuration, Algebra), Cloze tests, Reasoning speed puzzles, and Lucent General Knowledge.
+- **Month 3 (Days 61 to 90)**: Daily 60-minute computer mock tests, 90-minute mistake analysis, and revision of formula journals.`
+  },
+  {
+    id: 'maharashtra-police-bharti-prep-guide-books',
+    title: 'Maharashtra Police Bharti 2026: 75-Day Ground Physical (PET) + Written Exam Preparation Guide & Best Books',
+    summary: 'A step-by-step master guide for Maharashtra Police Constable, Driver, and SRPF recruitment. Proven 75-day dual-phase training: morning 1600m/800m running & shot-put fitness routine, complete Marathi grammar booklist, Maths/Buddhimaatta hacks, and target 90+ cutoff scores.',
+    category: 'Career Guide',
+    author: 'Sarkari Aavedan Editorial Team',
+    publishedDate: '2026-09-18',
+    readTime: '15 min read',
+    keywords: ['Maharashtra Police Bharti 2026 preparation', 'Police Bharti Ground marks tips', 'Balasaheb Shinde Marathi grammar book', 'Eknath Patil Thokla Police Bharti'],
+    content: `## Direct Answer: What Is the Winning Strategy for Maharashtra Police Bharti 2026?
+
+> [!IMPORTANT]  
+> **Core Fact**: To secure final selection in the Maharashtra Police Bharti (Constable / Driver / SRPF), candidates must score at least 42+ out of 50 marks in the Physical Efficiency Test (Ground) to qualify for the written exam, followed by 88+ out of 100 marks in the Written Examination.
+
+### 75-Day Dual-Action Training Blueprint
+- **Ground Routine (Morning 05:00 AM - 07:30 AM)**: 1600m running endurance, interval sprints, and 7.26kg shot put glide technique.
+- **Written Study Routine (10:00 AM - 05:00 PM)**: Marathi Grammar (Balasaheb Shinde), Ankganit (Pandharinath Rane), Buddhimaatta (Sachin Dhavale), and Maharashtra GK (Eknath Patil Thokla).`
+  },
+  {
+    id: 'rpf-si-constable-revision-strategy-gk',
+    title: 'RPF SI & Constable 2026: 45-Day Fast-Track Revision Plan, High-Yield GK Topics & Exam Strategy',
+    summary: 'Ace the Railway Protection Force (RPF) Sub-Inspector and Constable Computer Based Test. In-depth 45-day revision sprint focusing on 50/50 marks in General Awareness, Arithmetic speed drills, Reasoning accuracy, negative marking safeguards, and PET preparation.',
+    category: 'Defense',
+    author: 'Sarkari Aavedan Editorial Team',
+    publishedDate: '2026-09-18',
+    readTime: '14 min read',
+    keywords: ['RPF SI revision strategy', 'RPF Constable 45 day study plan', 'RPF General Awareness 50 marks topics', 'RPF exam negative marking tips'],
+    content: `## Direct Answer: How to Crack RPF SI & Constable in 45 Days
+
+> [!IMPORTANT]  
+> **Core Fact**: The decisive battleground in RPF recruitment is the 50-mark General Awareness (GA) section, which carries over 41.6% of total marks in the 120-question Computer Based Test. Scoring 40+ in GA, combined with 30+ in Arithmetic and 32+ in Reasoning, guarantees a safe merit position to qualify for the Physical Efficiency Test (PET).
+
+### 45-Day Fast-Track Revision Plan
+- **Sprint 1 (Days 1 to 15)**: Polity articles, Class 9/10 NCERT Science, and Arithmetic formulas.
+- **Sprint 2 (Days 16 to 30)**: Modern History, Railway GK, River basins, and sectional speed drills.
+- **Sprint 3 (Days 31 to 45)**: Full 90-minute computer simulations, mistake analysis, and negative marking control.`
   }
 ];

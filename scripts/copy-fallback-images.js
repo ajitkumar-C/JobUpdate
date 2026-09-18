@@ -25,7 +25,11 @@ const fallbacks = {
   'cds-exam-defense-roadmap.png': 'careers-indian-army.png',
   'rpf-constable-si-recruitment.png': 'police-constable-bharti.png',
   'indian-coast-guard-navik-yantrik.png': 'careers-indian-navy.png',
-  'afcat-air-force-entry-guide.png': 'careers-indian-air-force.png'
+  'afcat-air-force-entry-guide.png': 'careers-indian-air-force.png',
+  'rrb-ntpc-group-d-preparation-strategy-books.png': 'rrb-ntpc-syllabus-exam-pattern.png',
+  'ssc-cgl-chsl-90-day-strategy-booklist.png': 'ssc-cgl-exam-guide.png',
+  'maharashtra-police-bharti-prep-guide-books.png': 'police-constable-bharti.png',
+  'rpf-si-constable-revision-strategy-gk.png': 'rpf-constable-si-recruitment.png'
 };
 
 Object.entries(fallbacks).forEach(([target, source]) => {

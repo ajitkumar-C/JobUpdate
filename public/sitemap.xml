@@ -267,6 +267,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sarkariavedan.info/job/result-bihar-vidhan-parishad-office-attendant-score</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/result-bihar-vidhan-parishad-pa-score-card</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/result-emrs-teaching-non-teaching-tier-ii</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sarkariavedan.info/job/result-nta-aiapget-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -282,17 +297,27 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/result-nta-ugc-net-june-re-score</loc>
+    <loc>https://sarkariavedan.info/job/admit-card-indian-airforce-group-y-medical-assistant</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/result-hpsc-hcs-mains-2026</loc>
+    <loc>https://sarkariavedan.info/job/admit-card-indian-airforce-agniveer-vayu-intake-02</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/result-uppsc-2025-pcs-mains-2026</loc>
+    <loc>https://sarkariavedan.info/job/admit-card-mpesb-group-2-sub-group-4</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-uppsc-pcs-interview-schedule-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-isro-icrb-scientist-engineer-date-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -302,27 +327,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/admit-card-upsssc-forensic-science-laboratory-city-details</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/admit-card-dsssb-various-admit-card-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/admit-card-iob-local-bank-officer-lbo-admit</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/admit-card-indian-navy-agniveer-ssr-mr-stage</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/admit-card-upsc-civil-services-ifs-mains-date</loc>
+    <loc>https://sarkariavedan.info/job/latest-jobs-sbi-trade-finance-officer-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -342,17 +347,12 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-sbi-trade-finance-officer-2026</loc>
+    <loc>https://sarkariavedan.info/job/latest-jobs-ssc-chsl-10-2-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-rcfl-apprentices-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-mpesb-primary-secondary-teachers-mspstet-2026</loc>
+    <loc>https://sarkariavedan.info/job/latest-jobs-ibps-rrb-15th-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -443,6 +443,56 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/admission-iit-gate-2027</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/result-nta-ugc-net-june-re-score</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/result-hpsc-hcs-mains-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/result-uppsc-2025-pcs-mains-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-upsssc-forensic-science-laboratory-city-details</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-dsssb-various-admit-card-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-iob-local-bank-officer-lbo-admit</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-indian-navy-agniveer-ssr-mr-stage</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-upsc-civil-services-ifs-mains-date</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-rcfl-apprentices-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-mpesb-primary-secondary-teachers-mspstet-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -732,11 +782,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/result-emrs-teaching-non-teaching-tier-ii</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sarkariavedan.info/job/result-uptet-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -818,16 +863,6 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/admit-card-upsc-cds-ii-admit-card-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-ssc-chsl-10-2-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-ibps-rrb-15th-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

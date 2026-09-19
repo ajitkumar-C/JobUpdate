@@ -1,5 +1,216 @@
 [
   {
+    "id": "telangana-cpri-engineering-officer-engineering-assistant-technici",
+    "title": "CPRI Recruitment 2026 – Engineering Officer, Engineering Assistant, Technician, Technical Attendant, Assistant, MTS &amp; Other Posts",
+    "shortInfo": "CPRI has announced notification for Engineering Officer, Engineering Assistant, Technician, Technical Attendant, Assistant, MTS &amp; Other posts. Required qualification: B.E./B.Tech, Diploma, B.Sc, ITI, Matriculation, BA/B.Sc/B.Com/BBA/BBM/BCA. Last date to apply: 12-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "110",
+    "lastDate": "12-10-26",
+    "officialWebsite": "https://cpri.res.in/",
+    "notificationLink": "https://cpri.res.in/sites/default/files/Advt.No_.CPRI_.06.2026_0.pdf",
+    "applyOnlineLink": "https://cpri-app.onlineapplication.org.in/#/",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-09-19",
+    "fees": [
+      {
+        "category": "Engineering Officer Gr.1, Scientific Assistant, Engineering Assistant (per post)",
+        "fee": "Rs. 1000/-"
+      },
+      {
+        "category": "Technician Gr.1, Assistant Gr. II, Technical Attendant Grade 1 (per post)",
+        "fee": "Rs. 700/-"
+      },
+      {
+        "category": "SC/ST/PwBD/Ex-servicemen/Women",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "19/09/2026"
+      },
+      {
+        "event": "Online Registration Opening",
+        "date": "19/09/2026"
+      },
+      {
+        "event": "Online Registration Closing",
+        "date": "12/10/2026"
+      },
+      {
+        "event": "Cut-Off Date (Academic Qualification, Upper Age Limit etc.)",
+        "date": "12/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Engineering Officer Gr.1 (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Engineering Officer Gr.1 (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Engineering Assistant (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Engineering Assistant (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientific Assistant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Gr.1 (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Gr.1 (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technical Attendant Gr.1",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Gr. II",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Multi-Tasking Staff (MTS) Gr.1 (Watch & Ward Duties)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official CPRI website at https://cpri.res.in/ and navigate to the recruitment/career section.",
+      "Before registering, ensure you have a valid self e-mail ID and mobile number, scanned passport size color photograph, scanned signature, and scanned copies of all required certificates in PDF format.",
+      "Register and fill in the online application form with accurate and complete information.",
+      "Upload scanned photograph, signature, and all required documents (SSLC/SSC/Matriculation Certificate, Degree/Diploma/ITI Trade Certificate &amp; Marks card, experience certificate, BCC certificate from NIELIT, Caste/Category Certificate, NOC, Ex-servicemen ID card &amp; Discharge Certificate, as applicable).",
+      "Pay the prescribed application fee online (inclusive of GST). SC/ST/PwBD/Ex-servicemen/Women are exempted from payment of fees.",
+      "Candidates applying for more than one post must submit separate online application forms for each post with separate fees.",
+      "Take a printout of the submitted application form and retain it for future reference.",
+      "Online Registration Opening: 19.09.2026 (10:00 AM); Closing: 12.10.2026 (05:00 PM)."
+    ]
+  },
+  {
+    "id": "telangana-tgpsc-manager-engineering-",
+    "title": "TGPSC Recruitment 2026 – Manager (Engineering) Posts",
+    "shortInfo": "TGPSC has announced notification for Manager (Engineering) posts. Required qualification: Graduate in Engineering (Civil / Electrical / Mechanical / CSE / IT / ECE). Last date to apply: 17-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "130",
+    "lastDate": "17-10-26",
+    "officialWebsite": "https://www.tgpsc.gov.in",
+    "notificationLink": "https://govtjobguru.in/wp-content/uploads/2026/09/TGPSC-Manager-recruitment-2026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/tgpsc-manager-recruitment-2026/",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-09-19",
+    "fees": [
+      {
+        "category": "OC & BC Applicants (Application Processing Fee)",
+        "fee": "Rs. 1000/-"
+      },
+      {
+        "category": "SC, ST & PwD Applicants (Application Processing Fee)",
+        "fee": "Rs. 500/-"
+      },
+      {
+        "category": "All Applicants (Examination Fee)",
+        "fee": "Rs. 120/-"
+      },
+      {
+        "category": "Unemployed Applicants (Examination Fee)",
+        "fee": "Exempted"
+      },
+      {
+        "category": "Government Employees (Examination Fee)",
+        "fee": "Rs. 120/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "18/09/2026"
+      },
+      {
+        "event": "Online Application Start Date",
+        "date": "23/09/2026"
+      },
+      {
+        "event": "Last Date & Time for Online Application Submission",
+        "date": "17/10/2026"
+      },
+      {
+        "event": "Downloading of Hall Tickets (7 days prior to the date of examination upto 5:00 PM on previous day of Examination)",
+        "date": ""
+      },
+      {
+        "event": "Tentative Schedule of Examination (December - 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Manager (Engineering) - Civil Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the TGPSC official website at https://www.tgpsc.gov.in.",
+      "If not already registered, complete the One Time Registration (OTR) to obtain a TGPSC ID.",
+      "Login using your TGPSC ID and Date of Birth, then authenticate via OTP received on your registered mobile number.",
+      "Verify the details fetched from the OTR database (Name, Date of Birth, Educational Qualifications, Community, Gender, Disability, Ex-Servicemen &amp; Sports, etc.).",
+      "Select the preferred examination centre.",
+      "Preview the application for correctness and click on SAVE &amp; PAYMENT button.",
+      "Pay the prescribed application processing fee and examination fee online through Net Banking, Debit Card, Credit Card, or UPI.",
+      "After payment, download the generated PDF application form and note the Reference ID Number for future reference."
+    ]
+  },
+  {
     "id": "telangana-stpi-apprentice-trainee",
     "title": "STPI Recruitment 2026 – Apprentice Trainee Posts",
     "shortInfo": "STPI has announced notification for Apprentice Trainee posts. Required qualification: B.Tech/B.E, BA, B.Com, BBA. Last date to apply: 30-09-26.",
@@ -14,7 +225,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/stpi-apprentice-trainee-recruitment-2026/",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-09-18",
+    "scrapedAt": "2026-09-19",
     "fees": [
       {
         "category": "Fee",
@@ -71,7 +282,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/irctc-hospitality-monitor-recruitment-2026-43-vacancies-walk-in/",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-09-18",
+    "scrapedAt": "2026-09-19",
     "fees": [
       {
         "category": "Fee",
@@ -126,7 +337,7 @@
     "applyOnlineLink": "https://www.irctc.com/assets/images2/Notification_Qualified_CA-CMA_contractbasisSCZ(16Sep26).pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "telangana-exim bank-business-development-officer",
@@ -143,7 +354,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/exim-bank-business-development-officer-recruitment-2026/",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-09-18",
+    "scrapedAt": "2026-09-19",
     "fees": [
       {
         "category": "Fee",
@@ -189,7 +400,7 @@
     "applyOnlineLink": "https://gayatri.bank.in/wp-content/uploads/2026/09/Law-Officer.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "telangana-narayanpet icds anganwadi-helper-anganwadi-teacher",
@@ -206,7 +417,7 @@
     "applyOnlineLink": "https://mis.tgwdcw.in/AWTNotification2026/NARAYANPET_NOTIFICATION_15.09.2026.jpeg",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "telangana-telangana anganwadi-anganwadi-teacher",
@@ -223,7 +434,7 @@
     "applyOnlineLink": "https://mis.tgwdcw.in/AWTNotification2026/NIRMAL_NOTIFICATION1_15.09.2026.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "telangana-iiit hyderabad-library-assistant",
@@ -240,7 +451,7 @@
     "applyOnlineLink": "https://cdn.iiit.ac.in/cdn/www.iiit.ac.in/wp-content/uploads/2026/09/JD-Library-Assistant-10-Sep-2026.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "telangana-drdo dysl sm-junior-research-fellow-jrf-walk-in-",
@@ -257,7 +468,7 @@
     "applyOnlineLink": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtDYSLSM08092026.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "telangana-balmer lawrie-unit-head-deputy-manager-assistant-manager-officer",
@@ -274,7 +485,7 @@
     "applyOnlineLink": "https://www.balmerlawrie.com/careers/current-openings",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-09-18",
+    "scrapedAt": "2026-09-19",
     "fees": [
       {
         "category": "Fee",
@@ -516,7 +727,7 @@
     "applyOnlineLink": "https://www.efluniversity.ac.in/uploads/notices/TeluguNotification.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "telangana-telangana anganwadi-anganwadi-teacher-anganwadi-helper",
@@ -533,7 +744,7 @@
     "applyOnlineLink": "https://mis.tgwdcw.in/AWTVacancies2026/NAGARKURNOOL_VACANCIES_07.09.2026.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "telangana-niab-senior-research-fellow-senior-project-assistant",
@@ -550,7 +761,7 @@
     "applyOnlineLink": "https://www.niab.org.in/Notifications/Advt_21_2026/Notification_21_2026.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "telangana-dlsa mahabubnagar-junior-assistant-typist-cum-assistant",
@@ -567,7 +778,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec028c9a14ffebb7677d033ffce84799/uploads/2026/09/2026090755.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "telangana-csir ngri-technician-1",
@@ -584,7 +795,7 @@
     "applyOnlineLink": "https://tiru.ngri.res.in/ngri_tech/",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-09-18",
+    "scrapedAt": "2026-09-19",
     "fees": [
       {
         "category": "General/OBC/EWS",
@@ -698,7 +909,7 @@
     "applyOnlineLink": "https://esic.gov.in/attachments/recruitmentfile/Advertisement_for_Walk_in_Interview_for_Recruitment_of_Professor_Associate_Professor_Assistant_Professor_and_Senior_Resident_on_Contractual_Basis_English_1788452691.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "telangana-iit hyderabad-accountant",
@@ -715,7 +926,7 @@
     "applyOnlineLink": "https://www.iith.ac.in/assets/files/careers/staff/Adv_CS_59_Accountant_Dt_02-09-2026.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "telangana-iit hyderabad-senior-consultant",
@@ -732,7 +943,7 @@
     "applyOnlineLink": "https://www.iith.ac.in/assets/files/careers/staff/Adv_CS_58_SeniorConsultant.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "telangana-khammam district court-special-judicial-magistrate-of-second-class",
@@ -749,7 +960,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec02e8bf0f27d70d480d3ab793bb7619/uploads/2026/08/2026082117.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "telangana-district court warangal-senior-superintendent-head-clerk-",
@@ -766,7 +977,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0451e6d6e679953c6311757004d8cb/uploads/2026/08/2026082950.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "telangana-iit hyderabad-duty-medical-officer-staff-nurse",
@@ -783,7 +994,7 @@
     "applyOnlineLink": "https://www.iith.ac.in/assets/files/careers/staff/Adv_CS_56_Dt_27-08-2026-1.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "telangana-rfcl-engineer-chemical-assistant-manager-officer-amp-ot",
@@ -800,7 +1011,7 @@
     "applyOnlineLink": "https://career.rfcl.co.in/",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-09-18",
+    "scrapedAt": "2026-09-19",
     "fees": [
       {
         "category": "UR/OBC/EWS (E-1 to E-4)",
@@ -970,7 +1181,7 @@
     "applyOnlineLink": "https://www.apprenticeshipindia.gov.in",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-09-18",
+    "scrapedAt": "2026-09-19",
     "fees": [
       {
         "category": "Fee",
@@ -1126,7 +1337,7 @@
     "applyOnlineLink": "https://nats.education.gov.in",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-09-18",
+    "scrapedAt": "2026-09-19",
     "fees": [
       {
         "category": "fee",
@@ -1260,7 +1471,7 @@
     "applyOnlineLink": "https://nitw.ac.in/api/static/files/JRF_JewDas_One_2026-8-18-15-44-38.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "telangana-bank of baroda (bob)-local-bank-officer-lbo-last-date-extended-",
@@ -1277,7 +1488,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/bobjul26/",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-09-18",
+    "scrapedAt": "2026-09-19",
     "fees": [
       {
         "category": "General / EWS / OBC candidates",
@@ -1333,7 +1544,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/rci-hyderabad-ra-jrf-recruitment-2026/",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-09-18",
+    "scrapedAt": "2026-09-19",
     "fees": [
       {
         "category": "Fee",
@@ -1436,7 +1647,7 @@
     "applyOnlineLink": "https://aiimsbibinagar.edu.in/pdf/Detailed%20advertisement%20of%20Non%20Faculty%20posts%20(On%20Deputation%20Basis)%20-%20Phase%20II%20at%20AIIMS%20Bibinagar.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "telangana-tslprb-sct-sub-inspector-of-police-station-fire-officer-d",
@@ -1453,7 +1664,7 @@
     "applyOnlineLink": "https://www.tgprb.in/applive/landing?release=v2",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-09-18",
+    "scrapedAt": "2026-09-19",
     "fees": [
       {
         "category": "OC & BC (Local Telangana)",
@@ -1593,7 +1804,7 @@
     "applyOnlineLink": "https://www.tgprb.in/applive/landing?release=v2",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-09-18",
+    "scrapedAt": "2026-09-19",
     "fees": [],
     "dates": [
       {

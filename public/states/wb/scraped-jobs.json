@@ -1,5 +1,136 @@
 [
   {
+    "id": "wb-cpri-engineering-officer-engineering-assistant-technici",
+    "title": "CPRI Recruitment 2026 – Engineering Officer, Engineering Assistant, Technician, Technical Attendant, Assistant, MTS &amp; Other Posts",
+    "shortInfo": "CPRI has announced notification for Engineering Officer, Engineering Assistant, Technician, Technical Attendant, Assistant, MTS &amp; Other posts. Required qualification: B.E./B.Tech, Diploma, B.Sc, ITI, Matriculation, BA/B.Sc/B.Com/BBA/BBM/BCA. Last date to apply: 12-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "110",
+    "lastDate": "12-10-26",
+    "officialWebsite": "https://cpri.res.in/",
+    "notificationLink": "https://cpri.res.in/sites/default/files/Advt.No_.CPRI_.06.2026_0.pdf",
+    "applyOnlineLink": "https://cpri-app.onlineapplication.org.in/#/",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-09-19",
+    "fees": [
+      {
+        "category": "Engineering Officer Gr.1, Scientific Assistant, Engineering Assistant (per post)",
+        "fee": "Rs. 1000/-"
+      },
+      {
+        "category": "Technician Gr.1, Assistant Gr. II, Technical Attendant Grade 1 (per post)",
+        "fee": "Rs. 700/-"
+      },
+      {
+        "category": "SC/ST/PwBD/Ex-servicemen/Women",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "19/09/2026"
+      },
+      {
+        "event": "Online Registration Opening",
+        "date": "19/09/2026"
+      },
+      {
+        "event": "Online Registration Closing",
+        "date": "12/10/2026"
+      },
+      {
+        "event": "Cut-Off Date (Academic Qualification, Upper Age Limit etc.)",
+        "date": "12/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Engineering Officer Gr.1 (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Engineering Officer Gr.1 (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Engineering Assistant (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Engineering Assistant (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientific Assistant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Gr.1 (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Gr.1 (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technical Attendant Gr.1",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Gr. II",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Multi-Tasking Staff (MTS) Gr.1 (Watch & Ward Duties)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official CPRI website at https://cpri.res.in/ and navigate to the recruitment/career section.",
+      "Before registering, ensure you have a valid self e-mail ID and mobile number, scanned passport size color photograph, scanned signature, and scanned copies of all required certificates in PDF format.",
+      "Register and fill in the online application form with accurate and complete information.",
+      "Upload scanned photograph, signature, and all required documents (SSLC/SSC/Matriculation Certificate, Degree/Diploma/ITI Trade Certificate &amp; Marks card, experience certificate, BCC certificate from NIELIT, Caste/Category Certificate, NOC, Ex-servicemen ID card &amp; Discharge Certificate, as applicable).",
+      "Pay the prescribed application fee online (inclusive of GST). SC/ST/PwBD/Ex-servicemen/Women are exempted from payment of fees.",
+      "Candidates applying for more than one post must submit separate online application forms for each post with separate fees.",
+      "Take a printout of the submitted application form and retain it for future reference.",
+      "Online Registration Opening: 19.09.2026 (10:00 AM); Closing: 12.10.2026 (05:00 PM)."
+    ]
+  },
+  {
     "id": "wb-sbi-dean-sbil-kolkata-faculty-sbil-kolkata-marketing-e",
     "title": "SBI Recruitment 2026 – Dean (SBIL Kolkata), Faculty (SBIL Kolkata), Marketing Executive (SBIL Kolkata) Posts",
     "shortInfo": "SBI has announced notification for Dean (SBIL Kolkata), Faculty (SBIL Kolkata), Marketing Executive (SBIL Kolkata) posts. Required qualification: MBA, Ph.D., Postgraduate. Last date to apply: 06-10-26.",
@@ -14,7 +145,7 @@
     "applyOnlineLink": "https://recruitment.sbi.bank.in/crpd-sco-2026-27-20/apply",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18",
+    "scrapedAt": "2026-09-19",
     "fees": [
       {
         "category": "General/EWS/OBC",
@@ -88,7 +219,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3kv02bdab35b082c4d0d8c4b7813dc999/uploads/2026/09/2026091115.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "wb-sail iisco steel plant-advisor-consultant",
@@ -105,7 +236,7 @@
     "applyOnlineLink": "https://aima-web-images.s3.ap-south-1.amazonaws.com/sailcareers.com/Downloads/IISCO_News%20&#038;%20Jobs_16092026_095643.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "wb-exim bank-business-development-officer",
@@ -122,7 +253,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/exim-bank-business-development-officer-recruitment-2026/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18",
+    "scrapedAt": "2026-09-19",
     "fees": [
       {
         "category": "Fee",
@@ -168,7 +299,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/nth-young-professional-recruitment-2026/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18",
+    "scrapedAt": "2026-09-19",
     "fees": [
       {
         "category": "Fee",
@@ -305,7 +436,7 @@
     "applyOnlineLink": "https://data.iiests.ac.in/cloud/2026/09/20260908_69463_librarian.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "wb-kalyani university-project-assistant",
@@ -322,7 +453,7 @@
     "applyOnlineLink": "https://klyuniv.ac.in/app/uploads/2026/09/09-11.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "wb-aycl-officer-asst-manager-dy-manager",
@@ -339,7 +470,7 @@
     "applyOnlineLink": "https://www.andrewyule.com/pdf/Matter%20for%20Website%20regular_PnA_2026_13.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "wb-aliah university-visiting-faculty",
@@ -356,7 +487,7 @@
     "applyOnlineLink": "https://aliah.ac.in//upload/media/10-09-26_1789032674.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "wb-bckv-young-professional-i",
@@ -373,7 +504,7 @@
     "applyOnlineLink": "https://www.bckv.edu.in//images/contentfiles/1789036834_dr_671.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "wb-iiest shibpur-project-assistant",
@@ -390,7 +521,7 @@
     "applyOnlineLink": "https://data.iiests.ac.in/uploads/announcements/files/1788873356_Website%20Copy,%20Dipankar%20Mondal,%20Chemistry,%2008.09.2026.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "wb-indian museum kolkata-driver-hindi-translator",
@@ -407,7 +538,7 @@
     "applyOnlineLink": "https://indianmuseumkolkata.org/im_cont/uploads/2026/09/Detail-advertisement-for-website-for-5-posts.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "wb-hcl-deputy-general-manager-general-manager",
@@ -424,7 +555,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/hcl-dgm-gm-recruitment-2026hcl-recruitment-2026-apply-for-10-deputy-general-manager-posts/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18",
+    "scrapedAt": "2026-09-19",
     "fees": [
       {
         "category": "Fee",
@@ -510,7 +641,7 @@
     "applyOnlineLink": "https://www.balmerlawrie.com/careers/current-openings",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18",
+    "scrapedAt": "2026-09-19",
     "fees": [
       {
         "category": "Fee",
@@ -752,7 +883,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aweil-gsf-kashipur-recruitment-2026/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18",
+    "scrapedAt": "2026-09-19",
     "fees": [
       {
         "category": "General/OBC/EWS",
@@ -839,7 +970,7 @@
     "applyOnlineLink": "https://iiitkalyani.ac.in/api/serve/2026/08/29/Advertisement_-_T_P_1787978635_0daca02d.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "wb-aiims kalyani-scientist-laboratory-technician",
@@ -856,7 +987,7 @@
     "applyOnlineLink": "https://aiimskalyani.edu.in/aiimsapi/uploads/documents/general/vrdl_advertisement_proforma_scientistb_labtechnician_september_2026_20260907_181159_7c9d06f4.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "wb-bengal chemicals-quality-assurance-officer",
@@ -873,7 +1004,7 @@
     "applyOnlineLink": "https://apps.bengalchemicals.co.in/uploads/job-file/A9CN1Q2PRZ-20260828-072538.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "wb-eastern coalfields-advisor",
@@ -890,7 +1021,7 @@
     "applyOnlineLink": "https://www.easterncoalfields.in/storage/media/notice/1788763781_notice_fl_en.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "wb-sail-advisor",
@@ -907,7 +1038,7 @@
     "applyOnlineLink": "https://aima-web-images.s3.ap-south-1.amazonaws.com/sailcareers.com/Downloads/DSP_News%20&#038;%20Jobs_03092026_092741.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "wb-dvc-overman",
@@ -924,7 +1055,7 @@
     "applyOnlineLink": "https://www.dvc.gov.in/cms-web/recruitment_dvc",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18",
+    "scrapedAt": "2026-09-19",
     "fees": [
       {
         "category": "Fee",
@@ -981,7 +1112,7 @@
     "applyOnlineLink": "https://data.iiests.ac.in/uploads/announcements/files/1788508523_Website%20Copy,%20Deep%20Roy,%20Civil,%2003.09.2026%20(1).pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "wb-iit kharagpur-senior-research-fellow",
@@ -998,7 +1129,7 @@
     "applyOnlineLink": "https://erp.iitkgp.ac.in/SricWeb/temporaryJobs.htm",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "wb-south eastern railway-scouts-amp-guides-quota",
@@ -1015,7 +1146,7 @@
     "applyOnlineLink": "https://iroams.com/rrc_ser_scout2026/index.php",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18",
+    "scrapedAt": "2026-09-19",
     "fees": [
       {
         "category": "UR Male / OBC Male / EWS Male",
@@ -1084,7 +1215,7 @@
     "applyOnlineLink": "https://ccras.nic.in/wp-content/uploads/2026/08/27082026-Cari-Delhi.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "wb-income tax department kolkata-tax-assistant-ta-multi-tasking-staff-mts-",
@@ -1101,7 +1232,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/income-tax-kolkata-ta-mts-recruitment-2026/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18",
+    "scrapedAt": "2026-09-19",
     "fees": [
       {
         "category": "Fee",
@@ -1156,7 +1287,7 @@
     "applyOnlineLink": "https://www.wbhealth.gov.in/FileServer/UploadedFiles/Recruitments/Recruitment_a5b9ea19-5a47-4ede-887b-f55fb490957e.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "wb-cari-consultant-junior-research-fellow",
@@ -1173,7 +1304,7 @@
     "applyOnlineLink": "https://ccras.nic.in/wp-content/uploads/2026/08/27082026-Cari-Delhi.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "wb-aiims kalyani-tutor",
@@ -1190,7 +1321,7 @@
     "applyOnlineLink": "https://aiimskalyani.edu.in/aiimsapi/uploads/documents/general/tutor_walkin_interview_advertisement_2_20260825_211321_2e24f507.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "wb-sahitya akademi-deputy-secretary-mts-clerk-van-driver-stenographer",
@@ -1207,7 +1338,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/sahitya-akademi-recruitment-2026/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18",
+    "scrapedAt": "2026-09-19",
     "fees": [
       {
         "category": "Level-10/11 (UR/OBC)",
@@ -1364,7 +1495,7 @@
     "applyOnlineLink": "https://www.iitkgp.ac.in/assets/uploads/ntp/1787037781_LIBRARIAN-ADVT.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "wb-iit kharagpur-software-system-network-engineer",
@@ -1381,7 +1512,7 @@
     "applyOnlineLink": "https://www.iitkgp.ac.in/assets/uploads/ntp/1787037484_SOFTWARE%20ENGINEERS%20-%20ADVT.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "wb-bank of baroda (bob)-local-bank-officer-lbo-last-date-extended-",
@@ -1398,7 +1529,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/bobjul26/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18",
+    "scrapedAt": "2026-09-19",
     "fees": [
       {
         "category": "General / EWS / OBC candidates",
@@ -1454,7 +1585,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-09-18",
+    "scrapedAt": "2026-09-19",
     "fees": [],
     "dates": [
       {

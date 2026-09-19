@@ -1,5 +1,136 @@
 [
   {
+    "id": "chhattisgarh-cpri-engineering-officer-engineering-assistant-technici",
+    "title": "CPRI Recruitment 2026 – Engineering Officer, Engineering Assistant, Technician, Technical Attendant, Assistant, MTS &amp; Other Posts",
+    "shortInfo": "CPRI has announced notification for Engineering Officer, Engineering Assistant, Technician, Technical Attendant, Assistant, MTS &amp; Other posts. Required qualification: B.E./B.Tech, Diploma, B.Sc, ITI, Matriculation, BA/B.Sc/B.Com/BBA/BBM/BCA. Last date to apply: 12-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "110",
+    "lastDate": "12-10-26",
+    "officialWebsite": "https://cpri.res.in/",
+    "notificationLink": "https://cpri.res.in/sites/default/files/Advt.No_.CPRI_.06.2026_0.pdf",
+    "applyOnlineLink": "https://cpri-app.onlineapplication.org.in/#/",
+    "state": "Chhattisgarh",
+    "stateCode": "chhattisgarh",
+    "scrapedAt": "2026-09-19",
+    "fees": [
+      {
+        "category": "Engineering Officer Gr.1, Scientific Assistant, Engineering Assistant (per post)",
+        "fee": "Rs. 1000/-"
+      },
+      {
+        "category": "Technician Gr.1, Assistant Gr. II, Technical Attendant Grade 1 (per post)",
+        "fee": "Rs. 700/-"
+      },
+      {
+        "category": "SC/ST/PwBD/Ex-servicemen/Women",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "19/09/2026"
+      },
+      {
+        "event": "Online Registration Opening",
+        "date": "19/09/2026"
+      },
+      {
+        "event": "Online Registration Closing",
+        "date": "12/10/2026"
+      },
+      {
+        "event": "Cut-Off Date (Academic Qualification, Upper Age Limit etc.)",
+        "date": "12/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Engineering Officer Gr.1 (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Engineering Officer Gr.1 (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Engineering Assistant (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Engineering Assistant (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientific Assistant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Gr.1 (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Gr.1 (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technical Attendant Gr.1",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Gr. II",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Multi-Tasking Staff (MTS) Gr.1 (Watch & Ward Duties)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official CPRI website at https://cpri.res.in/ and navigate to the recruitment/career section.",
+      "Before registering, ensure you have a valid self e-mail ID and mobile number, scanned passport size color photograph, scanned signature, and scanned copies of all required certificates in PDF format.",
+      "Register and fill in the online application form with accurate and complete information.",
+      "Upload scanned photograph, signature, and all required documents (SSLC/SSC/Matriculation Certificate, Degree/Diploma/ITI Trade Certificate &amp; Marks card, experience certificate, BCC certificate from NIELIT, Caste/Category Certificate, NOC, Ex-servicemen ID card &amp; Discharge Certificate, as applicable).",
+      "Pay the prescribed application fee online (inclusive of GST). SC/ST/PwBD/Ex-servicemen/Women are exempted from payment of fees.",
+      "Candidates applying for more than one post must submit separate online application forms for each post with separate fees.",
+      "Take a printout of the submitted application form and retain it for future reference.",
+      "Online Registration Opening: 19.09.2026 (10:00 AM); Closing: 12.10.2026 (05:00 PM)."
+    ]
+  },
+  {
     "id": "chhattisgarh-irctc-hospitality-monitors-walk-in-",
     "title": "IRCTC Recruitment 2026 – Hospitality Monitors (Walk-in) Posts",
     "shortInfo": "IRCTC has announced notification for Hospitality Monitors (Walk-in) posts. Required qualification: Any Bachelors Degree, MBA/PGDM, PG Diploma. Last date to apply: 5.",
@@ -14,7 +145,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/irctc-hospitality-monitor-recruitment-2026-43-vacancies-walk-in/",
     "state": "Chhattisgarh",
     "stateCode": "chhattisgarh",
-    "scrapedAt": "2026-09-18",
+    "scrapedAt": "2026-09-19",
     "fees": [
       {
         "category": "Fee",
@@ -69,7 +200,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s345645a27c4f1adc8a7a835976064a86d/uploads/2026/09/17894704571714.pdf",
     "state": "Chhattisgarh",
     "stateCode": "chhattisgarh",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "chhattisgarh-esic hospital bhilai-specialist-senior-resident",
@@ -86,7 +217,7 @@
     "applyOnlineLink": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_interview_for_contractual_specialist_and_SR_on_23_September_2026_1789374935.pdf",
     "state": "Chhattisgarh",
     "stateCode": "chhattisgarh",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "chhattisgarh-esic bhilai-specialist-senior-resident-walk-in-",
@@ -103,7 +234,7 @@
     "applyOnlineLink": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_interview_for_contractual_specialist_and_SR_on_23_September_2026_1789374935.pdf",
     "state": "Chhattisgarh",
     "stateCode": "chhattisgarh",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "chhattisgarh-cgpsc-microbiologist",
@@ -120,7 +251,7 @@
     "applyOnlineLink": "https://psc.cg.gov.in/PDFs/advertisement/MICRO_BIOLOGIST_ADVERTISEMENT%20(08-09-2026).pdf",
     "state": "Chhattisgarh",
     "stateCode": "chhattisgarh",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "chhattisgarh-iit bhilai-project-junior-research-fellow",
@@ -137,7 +268,7 @@
     "applyOnlineLink": "https://www.iitbhilai.ac.in/index.php?pid=adv_sep26_09",
     "state": "Chhattisgarh",
     "stateCode": "chhattisgarh",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "chhattisgarh-guru ghasidas vishwavidyalaya-finance-officer-and-more-professor",
@@ -154,7 +285,7 @@
     "applyOnlineLink": "https://www.ggu.ac.in/media/recruitment/1._advertizemnt-English_TLPGcuE.pdf",
     "state": "Chhattisgarh",
     "stateCode": "chhattisgarh",
-    "scrapedAt": "2026-09-18"
+    "scrapedAt": "2026-09-19"
   },
   {
     "id": "chhattisgarh-aai-graduate-apprentice-diploma-apprentice-iti-apprent",
@@ -171,7 +302,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
     "state": "Chhattisgarh",
     "stateCode": "chhattisgarh",
-    "scrapedAt": "2026-09-18",
+    "scrapedAt": "2026-09-19",
     "fees": [],
     "dates": [
       {

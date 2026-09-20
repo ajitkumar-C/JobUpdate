@@ -14,7 +14,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/hpsc-fso-recruitment-2026/",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-09-19",
+    "scrapedAt": "2026-09-20",
     "fees": [
       {
         "category": "Persons with Benchmark Disabilities (PwBD) with at least 40% disability",
@@ -75,6 +75,143 @@
     ]
   },
   {
+    "id": "haryana-thsti-highly-skilled",
+    "title": "THSTI Recruitment 2026 – Highly Skilled Posts",
+    "shortInfo": "THSTI has announced notification for Highly Skilled posts. Required qualification: Any Post Graduate. Last date to apply: 30-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "30-09-26",
+    "officialWebsite": "https://recruitment.thsti.in/public/upload/job_pdf/Advertisement%20Academics%20Aug%202026%20(1).pdf",
+    "notificationLink": "https://recruitment.thsti.in/public/upload/job_pdf/Advertisement%20Academics%20Aug%202026%20(1).pdf",
+    "applyOnlineLink": "https://recruitment.thsti.in/public/upload/job_pdf/Advertisement%20Academics%20Aug%202026%20(1).pdf",
+    "state": "Haryana",
+    "stateCode": "haryana",
+    "scrapedAt": "2026-09-20"
+  },
+  {
+    "id": "haryana-skau-non-teaching",
+    "title": "SKAU Recruitment 2026 – Non Teaching Posts",
+    "shortInfo": "SKAU has announced notification for Non Teaching posts. Required qualification: B.Tech/B.E, Diploma, B.Lib, B.Sc, Any Masters Degree. Last date to apply: 26-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "10",
+    "lastDate": "26-10-26",
+    "officialWebsite": "https://skau.ac.in/downloads/files/n6aaccdfd3d3a6.pdf",
+    "notificationLink": "https://skau.ac.in/downloads/files/n6aaccdfd3d3a6.pdf",
+    "applyOnlineLink": "https://skau.ac.in/downloads/files/n6aaccdfd3d3a6.pdf",
+    "state": "Haryana",
+    "stateCode": "haryana",
+    "scrapedAt": "2026-09-20"
+  },
+  {
+    "id": "haryana-ccs hau-young-professional-ii",
+    "title": "CCS HAU Recruitment 2026 – Young Professional II Posts",
+    "shortInfo": "CCS HAU has announced notification for Young Professional II posts. Required qualification: M.Sc. Last date to apply: 25-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "25-09-26",
+    "officialWebsite": "https://hau.ac.in/public/notification-documents/5691/1789639576.pdf",
+    "notificationLink": "https://hau.ac.in/public/notification-documents/5691/1789639576.pdf",
+    "applyOnlineLink": "https://hau.ac.in/public/notification-documents/5691/1789639576.pdf",
+    "state": "Haryana",
+    "stateCode": "haryana",
+    "scrapedAt": "2026-09-20"
+  },
+  {
+    "id": "haryana-thsti-semi-skilled",
+    "title": "THSTI Recruitment 2026 – Semi-Skilled Posts",
+    "shortInfo": "THSTI has announced notification for Semi-Skilled posts. Required qualification: B.Sc. Last date to apply: 12-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "12-10-26",
+    "officialWebsite": "https://recruitment.thsti.in/public/upload/job_pdf/Advertisement%20Dr.%20Dinesh%20Sep%202026.pdf",
+    "notificationLink": "https://recruitment.thsti.in/public/upload/job_pdf/Advertisement%20Dr.%20Dinesh%20Sep%202026.pdf",
+    "applyOnlineLink": "https://recruitment.thsti.in/public/upload/job_pdf/Advertisement%20Dr.%20Dinesh%20Sep%202026.pdf",
+    "state": "Haryana",
+    "stateCode": "haryana",
+    "scrapedAt": "2026-09-20"
+  },
+  {
+    "id": "haryana-wapcos-young-professional",
+    "title": "WAPCOS Recruitment 2026 – Young Professional Posts",
+    "shortInfo": "WAPCOS has announced notification for Young Professional posts. Required qualification: CA, M.Com, MBA/PGDM, B.Tech/B.E. Last date to apply: 08-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "37",
+    "lastDate": "08-10-26",
+    "officialWebsite": "https://www.wapcos.co.in/",
+    "notificationLink": "https://www.wapcos.co.in/english/doc/b606c05c-3da8-4481-ae81-d056021dbebf/",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/wapcos-young-professional-recruitment-2026/",
+    "state": "Haryana",
+    "stateCode": "haryana",
+    "scrapedAt": "2026-09-20",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date to Submit Application",
+        "date": "08/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Young Professional (Legal)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Young Professional (Finance)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Young Professional (Contract Management)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Young Professional (Mass Communication)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the application form (Annexure-D) from the notification.",
+      "Fill in the application form completely with all required details.",
+      "Attach self-attested copies of Educational Certificates (Matriculation onwards) and Work Experience Certificates issued by employer(s).",
+      "Super-scribe the envelope as: ‘APPLICATION FOR THE POST OF: ______________________________’.",
+      "Address the envelope to: Chief Manager (HR), WAPCOS Limited, 76-C, Institutional Area, Sector-18, Gurugram-122015.",
+      "Submit the duly filled application form along with relevant documents to reach the office on or before 08.10.2026.",
+      "Incomplete applications or applications received after the due date will not be accepted.",
+      "Candidates will be required to furnish original documents for verification before the selection process/interview."
+    ]
+  },
+  {
     "id": "haryana-stpi-apprentice-trainee",
     "title": "STPI Recruitment 2026 – Apprentice Trainee Posts",
     "shortInfo": "STPI has announced notification for Apprentice Trainee posts. Required qualification: B.Tech/B.E, BA, B.Com, BBA. Last date to apply: 30-09-26.",
@@ -89,7 +226,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/stpi-apprentice-trainee-recruitment-2026/",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-09-19",
+    "scrapedAt": "2026-09-20",
     "fees": [
       {
         "category": "Fee",
@@ -146,7 +283,7 @@
     "applyOnlineLink": "https://iocl.com/admin/img/UploadedFiles/LatestJobOpening/Files/23d0be749dcf4f249c80cbf76769fca1.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "haryana-hspcb-assistant-and-more-accounts-clerk-stenographer-eng",
@@ -163,7 +300,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/hspcb-recruitment-2026/",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-09-19",
+    "scrapedAt": "2026-09-20",
     "fees": [
       {
         "category": "Fee",
@@ -292,7 +429,7 @@
     "applyOnlineLink": "https://recruit.rites.com/frmRegistration.aspx",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-09-19",
+    "scrapedAt": "2026-09-20",
     "fees": [
       {
         "category": "General/OBC Candidates",
@@ -424,7 +561,7 @@
     "applyOnlineLink": "https://www.rites.com/Upload/Career/ADVT_YP_40-R1-58-R1_26_pdf-2026-Sep-15-15-52-6.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "haryana-pgims rohtak-ayushman-mitra",
@@ -441,7 +578,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/pgims-ayushman-mitra-bharti-2026/",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-09-19",
+    "scrapedAt": "2026-09-20",
     "fees": [
       {
         "category": "All Categories",
@@ -490,7 +627,7 @@
     "applyOnlineLink": "https://jcboseust.ac.in/assets/files/Research_Assistant_cum_project_fellow_under_HSRF_project_1.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "haryana-skau-technical-advisor-consultant",
@@ -507,7 +644,7 @@
     "applyOnlineLink": "https://skau.ac.in/downloads/files/n6aa7d4ec942a0.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "haryana-aiims jhajjar-project-technical-support-iii",
@@ -524,7 +661,7 @@
     "applyOnlineLink": "https://www.aiims.edu/images/pdf/recruitment/advertisement/nci-14-9-26.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "haryana-nit kurukshetra-junior-engineer",
@@ -541,7 +678,7 @@
     "applyOnlineLink": "https://nitkkr.ac.in/wp-content/uploads/2026/09/Instruction-Sheet-for-JE-Advt.-No.28.2026-1.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "haryana-ncrtc-supervisor-junior-manintainer",
@@ -558,7 +695,7 @@
     "applyOnlineLink": "https://cdn.digialm.com/EForms/configuredHtml/1258/102029/Index.html",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-09-19",
+    "scrapedAt": "2026-09-20",
     "fees": [
       {
         "category": "UR / OBC (NCL) / EWS / Ex-Servicemen",
@@ -745,7 +882,7 @@
     "applyOnlineLink": "https://file.cuh.ac.in/recruitment/advt_no_6aa22c8c3acd2.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "haryana-rites-engineering-professionals",
@@ -762,7 +899,7 @@
     "applyOnlineLink": "https://www.rites.com/Upload/Career/RG_25-29_26_Highway_adv_pdf-2026-Sep-10-12-45-28.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "haryana-ulb haryana-taxation-experts-taxation-associates-sanitation-ex",
@@ -779,7 +916,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/ulb-haryana-recruitment-2026/",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-09-19",
+    "scrapedAt": "2026-09-20",
     "fees": [
       {
         "category": "Fee",
@@ -847,7 +984,7 @@
     "applyOnlineLink": "https://arci.res.in/sites/default/files/2026-08/Final%20Full%20MCC%20Advt%20for%20display%20on%20website%20.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "haryana-thsti-sib-fellow",
@@ -864,7 +1001,7 @@
     "applyOnlineLink": "https://recruitment.thsti.in/public/upload/job_pdf/178834600847web-advt-RN-15-26.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "haryana-cuh-internal-audit-officer-finance-officer",
@@ -881,7 +1018,7 @@
     "applyOnlineLink": "https://file.cuh.ac.in/recruitment/advt_no_6a9e8e696c3b1.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "haryana-cfqcti-young-professional",
@@ -898,7 +1035,7 @@
     "applyOnlineLink": "https://www.agriwelfare.gov.in/Documents/Recruitment/advertisment_circular_YPs_01092026.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "haryana-rites-general-manager-joint-general-manager-and-more",
@@ -915,7 +1052,7 @@
     "applyOnlineLink": "https://www.rites.com/Upload/Career/Final_ad_(1)_pdf-2026-Sep-01-11-36-31.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "haryana-cuh-assistant-professor-associate-professor",
@@ -932,7 +1069,7 @@
     "applyOnlineLink": "https://file.cuh.ac.in/recruitment/advt_no_6a967f6987473.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "haryana-nbrc-research-associate-i",
@@ -949,7 +1086,7 @@
     "applyOnlineLink": "https://www.nbrc.ac.in/newweb/wp-content/uploads/2026/08/Dr-sourav-lab-RA1.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "haryana-rcb-project-associate-ii",
@@ -966,7 +1103,7 @@
     "applyOnlineLink": "https://rcb.res.in/files/advertisement-files/advt._no._28_project_2026_hr.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "haryana-punjab and haryana high court-driver",
@@ -983,7 +1120,7 @@
     "applyOnlineLink": "https://phconapp.formflix.org/driver/",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-09-19",
+    "scrapedAt": "2026-09-20",
     "fees": [
       {
         "category": "General and SC/ST/BC of areas/States other than Punjab, Haryana and U.T. Chandigarh",
@@ -1058,7 +1195,7 @@
     "applyOnlineLink": "https://phconapp.formflix.org/faraash/",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-09-19",
+    "scrapedAt": "2026-09-20",
     "fees": [
       {
         "category": "General and SC/ST/BC of areas/States other than Punjab, Haryana and U.T. Chandigarh",
@@ -1122,7 +1259,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/rewari-district-court-stenographer-recruitment-2026/",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-09-19",
+    "scrapedAt": "2026-09-20",
     "fees": [
       {
         "category": "Fee",
@@ -1182,7 +1319,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-nr-apprentice-2026/",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-09-19",
+    "scrapedAt": "2026-09-20",
     "fees": [
       {
         "category": "All Categories",
@@ -1342,7 +1479,7 @@
     "applyOnlineLink": "https://www.rites.com/Upload/Career/CP_12_26CL_07_26_advertisement_pdf-2026-Jul-22-17-9-56.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "haryana-old civil hospital ambala-radiation-therapy-technologist-medical-physicist-c",
@@ -1359,6 +1496,6 @@
     "applyOnlineLink": "https://nhmharyana.gov.in/Writereaddata/userfiles/file/pdfs/AMB_%20ADVERTISEMNENT09072026.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   }
 ]

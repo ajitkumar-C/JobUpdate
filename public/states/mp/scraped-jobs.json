@@ -14,7 +14,7 @@
     "applyOnlineLink": "https://bmhrc.onlineapplication.org.in/#/",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-09-19",
+    "scrapedAt": "2026-09-20",
     "fees": [
       {
         "category": "SC/ST/PwBD/Women/ESM",
@@ -256,7 +256,7 @@
     "applyOnlineLink": "https://cpri-app.onlineapplication.org.in/#/",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-09-19",
+    "scrapedAt": "2026-09-20",
     "fees": [
       {
         "category": "Engineering Officer Gr.1, Scientific Assistant, Engineering Assistant (per post)",
@@ -373,6 +373,257 @@
     ]
   },
   {
+    "id": "mp-iit indore-research-associate-ra-",
+    "title": "IIT Indore Recruitment 2026 – Research Associate (RA) Posts",
+    "shortInfo": "IIT Indore has announced notification for Research Associate (RA) posts. Required qualification: M.Pharma, M.Phil/Ph.D, MS/MD, MVSC, M.E/M.Tech. Last date to apply: 22-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "22-09-26",
+    "officialWebsite": "https://www.iiti.ac.in/uploads/career/2026/Sep/2ef1b82da87b4ae8cf2ff6483a31fe7e.pdf",
+    "notificationLink": "https://www.iiti.ac.in/uploads/career/2026/Sep/2ef1b82da87b4ae8cf2ff6483a31fe7e.pdf",
+    "applyOnlineLink": "https://www.iiti.ac.in/uploads/career/2026/Sep/2ef1b82da87b4ae8cf2ff6483a31fe7e.pdf",
+    "state": "Madhya Pradesh",
+    "stateCode": "mp",
+    "scrapedAt": "2026-09-20"
+  },
+  {
+    "id": "mp-mpbou-professor-assistant-professor",
+    "title": "MPBOU Recruitment 2026 – Professor, Assistant Professor Posts",
+    "shortInfo": "MPBOU has announced notification for Professor, Assistant Professor posts. Required qualification: Any Masters Degree, M.Phil/Ph.D. Last date to apply: 12-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "40",
+    "lastDate": "12-10-26",
+    "officialWebsite": "https://mpbou.edu.in",
+    "notificationLink": "https://mpbou.edu.in/uploads/documents/Employment_Notice_15de865484ad41ababda775885495671.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/mpbou-faculty-recruitment-2026/",
+    "state": "Madhya Pradesh",
+    "stateCode": "mp",
+    "scrapedAt": "2026-09-20",
+    "fees": [
+      {
+        "category": "UR/OBC/EWS",
+        "fee": "Rs. 1000/-"
+      },
+      {
+        "category": "SC/ST candidates of MP domicile",
+        "fee": "Rs. 500/-"
+      },
+      {
+        "category": "PwBD (Divyaang) candidates",
+        "fee": "Exempted (No Fee)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "10/09/2026"
+      },
+      {
+        "event": "Last Date of Receipt of Application",
+        "date": "12/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Professor (Education)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Political Science)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Education)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Special Education)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Botany)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Chemistry)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Commerce)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Computer Science)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Economics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Education)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (English)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Geography)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Hindi)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (History)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Information Technology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Journalism & Mass Communication)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Management)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Mathematics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Physics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Political Science)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Sociology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Special Education)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Zoology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the prescribed application form from the University website https://mpbou.edu.in in A-4 size paper.",
+      "Pay the application fee online through Net Banking/RTGS to the designated bank account (State Bank of India, Account No: 63045272930, IFSC: SBIN0030513).",
+      "Fill in the application form completely and attach all required documents (self-attested photocopies).",
+      "Attach proof of application fee payment (transaction receipt) with Annexure-I.",
+      "Attach relevant Annexures: Annexure-III for Assistant Professor; Annexure-IV for Associate Professor and Professor; Annexure-V (Ph.D. Certificate) for Assistant Professor.",
+      "Attach caste certificate, domicile certificate, income certificate (for OBC-NCL), PwBD certificate (if applicable) issued by competent authority of Govt. of MP.",
+      "Candidates already in service should submit application through Proper Channel with NOC.",
+      "Submit separate application (with separate fee) for each post applied for.",
+      "Super-scribe the post applied for on the envelope.",
+      "Send the duly filled application form along with all enclosures by Registered Post/Speed Post/Courier only to: The Registrar, Madhya Pradesh Bhoj (Open) University, Raja Bhoj Marg, Kolar Road, Bhopal-462016. Applications shall not be received by hand.",
+      "Ensure the application reaches the University by 12th October 2026 by 6:00 PM."
+    ]
+  },
+  {
+    "id": "mp-nepa-senior-shift-incharge",
+    "title": "NEPA Recruitment 2026 – Senior Shift Incharge Posts",
+    "shortInfo": "NEPA has announced notification for Senior Shift Incharge posts. Required qualification: B.Sc. Last date to apply: 21-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "21-09-26",
+    "officialWebsite": "https://www.nepamills.co.in/allpdf/advertisement062026.pdf",
+    "notificationLink": "https://www.nepamills.co.in/allpdf/advertisement062026.pdf",
+    "applyOnlineLink": "https://www.nepamills.co.in/allpdf/advertisement062026.pdf",
+    "state": "Madhya Pradesh",
+    "stateCode": "mp",
+    "scrapedAt": "2026-09-20"
+  },
+  {
     "id": "mp-mpesb mp police-subedar-secretarial-stenographer-assistant-sub-ins",
     "title": "MPESB MP Police Recruitment 2026 – Subedar (Secretarial), Stenographer, Assistant Sub Inspector (Secretarial) Posts",
     "shortInfo": "MPESB MP Police has announced notification for Subedar (Secretarial), Stenographer, Assistant Sub Inspector (Secretarial) posts. Required qualification: Higher Secondary (10+2), CPCT with Hindi Typing, Additional computer diploma/certificate. Last date to apply: 08-10-26.",
@@ -387,7 +638,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/mpesb-subedar-steno-asi-ministerial-recruitment-2026/",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-09-19",
+    "scrapedAt": "2026-09-20",
     "fees": [
       {
         "category": "Unreserved (General) candidates (Direct Recruitment)",
@@ -514,7 +765,7 @@
     "applyOnlineLink": "https://nliu.ac.in/wp-content/uploads/2026/09/Recruitment-Notification-2-1.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "mp-exim bank-business-development-officer",
@@ -531,7 +782,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/exim-bank-business-development-officer-recruitment-2026/",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-09-19",
+    "scrapedAt": "2026-09-20",
     "fees": [
       {
         "category": "Fee",
@@ -577,7 +828,7 @@
     "applyOnlineLink": "https://www.aiimsbhopal.edu.in/AIIMSFiles/career/jonUnderProject/Download/SB_Advertisement_BIRAC.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "mp-mpesb-naib-tehsildar-deputy-tehsildar",
@@ -594,7 +845,7 @@
     "applyOnlineLink": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-09-19",
+    "scrapedAt": "2026-09-20",
     "fees": [
       {
         "category": "All Categories (Direct Recruitment - Departmental Limited)",
@@ -702,7 +953,7 @@
     "applyOnlineLink": "https://nidmp.ac.in/wp-content/uploads/2026/09/Recruitment-to-the-various-Posts-of-Faculty-dated-03.09.2026.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "mp-iiser bhopal-project-junior-research-fellow",
@@ -719,7 +970,7 @@
     "applyOnlineLink": "https://www.iiserb.ac.in/assets_external/vacancy/r&#038;d/bd04da1433fe77491edef191fe83595c.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "mp-iiser bhopal-project-research-scientist-iii-non-medical-",
@@ -736,7 +987,7 @@
     "applyOnlineLink": "https://www.iiserb.ac.in/assets_external/vacancy/r&#038;d/abaab80263d759bb3e67ae5ecbc6c4d8.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "mp-aiims bhopal-project-research-scientist",
@@ -753,7 +1004,7 @@
     "applyOnlineLink": "https://www.aiimsbhopal.edu.in/AIIMSFiles/career/jonUnderProject/Download/Advertisement_staff_ICMR_cognitive_control_5.8.24-2.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "mp-iit indore-junior-research-fellow-research-associate-i",
@@ -770,7 +1021,7 @@
     "applyOnlineLink": "https://www.iiti.ac.in/uploads/career/2026/Sep/8dd1cc94d5cdcb3a0a12c6bf33db87c4.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "mp-iiser bhopal-junior-research-fellow-lab-assistant",
@@ -787,7 +1038,7 @@
     "applyOnlineLink": "https://www.iiserb.ac.in/assets_external/vacancy/r&#038;d/0007935ebda5642d2110f92f2d66f2ca.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "mp-mpmrcl-general-manager-deputy-general-manager",
@@ -804,7 +1055,7 @@
     "applyOnlineLink": "https://www.mpmetrorail.com/uploads/files/4662_Recruitment_Notification_of_Various_Post_0001.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "mp-nabfins-customer-service-executive",
@@ -821,7 +1072,7 @@
     "applyOnlineLink": "https://nabfins.org/Careers/",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "mp-mpesb-constable-general-duty-aarakshak-gd-",
@@ -838,7 +1089,7 @@
     "applyOnlineLink": "https://esb.mp.gov.in/Rulebooks/RB_2026/PCRT_2026_Rulebook_Revised_Page_01_15092026.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-09-19",
+    "scrapedAt": "2026-09-20",
     "fees": [
       {
         "category": "Unreserved (UR) candidates (Board Exam Fee)",
@@ -939,7 +1190,7 @@
     "applyOnlineLink": "https://cbi.gov.in/vacancy-list/MQ==",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-09-19",
+    "scrapedAt": "2026-09-20",
     "fees": [
       {
         "category": "Fee",
@@ -1022,7 +1273,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec02b299ad862b6f12cb57679f0538ec/uploads/2026/08/2026083126.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "mp-esic indore-professor-senior-resident-and-more-walk-in-",
@@ -1039,7 +1290,7 @@
     "applyOnlineLink": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_interview_for_Recruitment_of_Teaching_Faculty_and_Senior_Residents_on_contract_basis_at_ESIC_Medical_College_amp_Hospital_Indore_M_P_1788782441.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "mp-jpl-engineers-executives-assistant-manager-deputy-mana",
@@ -1056,7 +1307,7 @@
     "applyOnlineLink": "https://apps.cbexams.com/EDPSU/JPL/Reg/",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-09-19",
+    "scrapedAt": "2026-09-20",
     "fees": [
       {
         "category": "All Candidates",
@@ -1177,7 +1428,7 @@
     "applyOnlineLink": "https://aiimsbhopal.edu.in/AIIMSFiles/career/jonUnderProject/Download/Advertisement_for_Scientist_B%20(1).pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "mp-mpesb-subedar-sub-inspector",
@@ -1194,7 +1445,7 @@
     "applyOnlineLink": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-09-19",
+    "scrapedAt": "2026-09-20",
     "fees": [
       {
         "category": "Unreserved (UR) candidates (Direct Recruitment)",
@@ -1316,7 +1567,7 @@
     "applyOnlineLink": "https://dhsgsu.edu.in/images/2026/September-26/01/Advertisment_ANRF_Environmental-Sciences.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "mp-gail-part-time-visiting-medical-consultant",
@@ -1333,7 +1584,7 @@
     "applyOnlineLink": "https://www.gailonline.com/careers/currentOpnning/Detailed-Adv-01-09-26.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "mp-mppgcl-iti-apprentice",
@@ -1350,7 +1601,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/mppgcl-iti-apprentice-recruitment-2026/",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-09-19",
+    "scrapedAt": "2026-09-20",
     "fees": [
       {
         "category": "Fee",
@@ -1451,7 +1702,7 @@
     "applyOnlineLink": "https://www.iiti.ac.in/uploads/career/2026/Aug/c307ec109b00e02563386d83e7fc7fd2.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-09-19"
+    "scrapedAt": "2026-09-20"
   },
   {
     "id": "mp-mpesb-primary-teacher-eligibility-test-secondary-teacher",
@@ -1468,7 +1719,7 @@
     "applyOnlineLink": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-09-19",
+    "scrapedAt": "2026-09-20",
     "fees": [
       {
         "category": "All Category/Cadre Applicants (per question paper)",
@@ -1559,7 +1810,7 @@
     "applyOnlineLink": "https://cdn.digialm.com//EForms/configuredHtml/772/101789/Registration.html",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-09-19",
+    "scrapedAt": "2026-09-20",
     "fees": [
       {
         "category": "Unreserved / All categories (MP & Other States)",
@@ -1598,14 +1849,14 @@
       }
     ],
     "howToApply": [
-      "Visit the official website www.mphc.gov.in and click on the &#8216;RecruitmentResult&#8217; button.",
-      "Click on &#8216;Click on Online Application Forms/Admit Cards&#8217; and select the relevant recruitment link.",
-      "Click on &#8216;Advertisement&#8217; link and read all instructions carefully.",
-      "Click on &#8216;Registration&#8217; link and fill in the required details. A User-ID and Password will be sent to your registered mobile number and email ID.",
-      "Login using User-ID and Password, click on &#8216;Application&#8217; link, fill the complete application form, and upload photo and signature.",
-      "Preview the form and click &#8216;Submit&#8217;, then pay the prescribed fee via Debit Card or Internet Banking.",
+      "Visit the official website www.mphc.gov.in and click on the ‘RecruitmentResult’ button.",
+      "Click on ‘Click on Online Application Forms/Admit Cards’ and select the relevant recruitment link.",
+      "Click on ‘Advertisement’ link and read all instructions carefully.",
+      "Click on ‘Registration’ link and fill in the required details. A User-ID and Password will be sent to your registered mobile number and email ID.",
+      "Login using User-ID and Password, click on ‘Application’ link, fill the complete application form, and upload photo and signature.",
+      "Preview the form and click ‘Submit’, then pay the prescribed fee via Debit Card or Internet Banking.",
       "Take a printout of the submitted application form for future reference.",
-      "Error correction in the application form is allowed from 19.09.2026 to 21.09.2026 (05:00 PM) via the &#8216;Edit Application&#8217; link."
+      "Error correction in the application form is allowed from 19.09.2026 to 21.09.2026 (05:00 PM) via the ‘Edit Application’ link."
     ]
   },
   {
@@ -1623,7 +1874,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-nr-apprentice-2026/",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-09-19",
+    "scrapedAt": "2026-09-20",
     "fees": [
       {
         "category": "All Categories",
@@ -1783,7 +2034,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-wr-apprentice-recruitment-2026/",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-09-19",
+    "scrapedAt": "2026-09-20",
     "fees": [
       {
         "category": "All Candidates",

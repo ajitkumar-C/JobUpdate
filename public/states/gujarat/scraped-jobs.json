@@ -14,7 +14,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/indian-coast-guard-foreman-recruitment-2026/",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20",
+    "scrapedAt": "2026-09-21",
     "fees": [
       {
         "category": "Fee",
@@ -66,7 +66,7 @@
     "applyOnlineLink": "https://chris.iob.bank.in:4441/recruitApp/RecApplicationAction.do?Method=MainPageIBU",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20",
+    "scrapedAt": "2026-09-21",
     "fees": [
       {
         "category": "SC / ST / PwBD (Intimation Charges Only)",
@@ -114,6 +114,148 @@
     ]
   },
   {
+    "id": "gujarat-gmrc-manager-engineer-and-more",
+    "title": "GMRC Recruitment 2026 – Manager, Engineer and More Posts",
+    "shortInfo": "GMRC has announced notification for Manager, Engineer and More posts. Required qualification: Diploma, B.Tech/B.E. Last date to apply: 03-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "48",
+    "lastDate": "03-10-26",
+    "officialWebsite": "http://www.gujaratmetrorail.com",
+    "notificationLink": "https://www.gujaratmetrorail.com/wp-content/uploads/2026/09/Recruitment-notification-of-Civil-Posts-19.9.2026.pdf",
+    "applyOnlineLink": "https://careers.gujaratmetrorail.com/User/UserApply?AdvertisementID=MzI1",
+    "state": "Gujarat",
+    "stateCode": "gujarat",
+    "scrapedAt": "2026-09-21",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Date of Advertisement",
+        "date": "19/09/2026"
+      },
+      {
+        "event": "Last Date for Submission of Application",
+        "date": "03/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Chief General Manager (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "General Manager (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Additional General Manager (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Joint General Manager (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Sr. Deputy General Manager (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy General Manager (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Manager (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Manager (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Engineer Sr. Grade / Engineer Jr. Grade (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Draftsman",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Surveyor (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website: http://www.gujaratmetrorail.com and go to the ‘Careers’ section.",
+      "Step I: Register on the portal using basic details such as Name, DOB, Category, Mobile Number, and Email ID.",
+      "Step II: Your passcode will be sent to the email ID provided during registration. Login using credentials.",
+      "Step III: Select the position for which you are applying.",
+      "Step IV: Fill in the online application with relevant details (latest to earliest).",
+      "Step V: Complete the Application form.",
+      "Step VI: Check the entered details using the ‘Preview’ option available.",
+      "Step VII: Submit the form after verifying all the information.",
+      "Attach required documents: Detailed CV, Proof of Age (Matriculation/Birth Certificate), Educational Qualification certificates, Experience/Service certificates with pay details/CTC, Appointment letter, latest payslip, Form-16 of last three years.",
+      "Candidates from private organizations must submit a copy of their latest CTC breakup. Without CTC breakup, application will not be considered.",
+      "The last date for submission of application is 3rd October 2026."
+    ]
+  },
+  {
+    "id": "gujarat-gmrc-engineer-and-more-assistant-manager",
+    "title": "GMRC Recruitment 2026 – Engineer and More, Assistant Manager Posts",
+    "shortInfo": "GMRC has announced notification for Engineer and More, Assistant Manager posts. Required qualification: B.Tech/B.E. Last date to apply: 03-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "29",
+    "lastDate": "03-10-26",
+    "officialWebsite": "https://www.gujaratmetrorail.com/wp-content/uploads/2026/09/Recruitment-notification-of-System-post-19.9.2026.pdf",
+    "notificationLink": "https://www.gujaratmetrorail.com/wp-content/uploads/2026/09/Recruitment-notification-of-System-post-19.9.2026.pdf",
+    "applyOnlineLink": "https://www.gujaratmetrorail.com/wp-content/uploads/2026/09/Recruitment-notification-of-System-post-19.9.2026.pdf",
+    "state": "Gujarat",
+    "stateCode": "gujarat",
+    "scrapedAt": "2026-09-21"
+  },
+  {
     "id": "gujarat-deendayal port authority-pilot",
     "title": "Deendayal Port Authority Recruitment 2026 – Pilot Posts",
     "shortInfo": "Deendayal Port Authority has announced notification for Pilot posts. Required qualification: . Last date to apply: 17-10-26.",
@@ -128,7 +270,7 @@
     "applyOnlineLink": "https://www.deendayalport.gov.in/uploads/Detailed_Advt_Pilot_247b9f15ec.pdf",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20"
+    "scrapedAt": "2026-09-21"
   },
   {
     "id": "gujarat-aiims rajkot-senior-resident",
@@ -145,7 +287,7 @@
     "applyOnlineLink": "https://www.aiimsrajkot.edu.in/api/files/V4%20Updated%20AIIMS%20RJT%20SR%20Rect%20Advt.pdf",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20"
+    "scrapedAt": "2026-09-21"
   },
   {
     "id": "gujarat-gacl-officer-executive-trainee",
@@ -162,7 +304,7 @@
     "applyOnlineLink": "https://gaclportal.gacl.co.in/hrportal/#b",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20"
+    "scrapedAt": "2026-09-21"
   },
   {
     "id": "gujarat-csir csmcri-project-scientist-project-associate",
@@ -179,7 +321,7 @@
     "applyOnlineLink": "https://www.csmcri.res.in/node/11062",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20"
+    "scrapedAt": "2026-09-21"
   },
   {
     "id": "gujarat-gacl-officer-executive-trainee",
@@ -196,7 +338,7 @@
     "applyOnlineLink": "https://gaclportal.gacl.co.in/hrportal/#b",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20"
+    "scrapedAt": "2026-09-21"
   },
   {
     "id": "gujarat-exim bank-business-development-officer",
@@ -213,7 +355,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/exim-bank-business-development-officer-recruitment-2026/",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20",
+    "scrapedAt": "2026-09-21",
     "fees": [
       {
         "category": "Fee",
@@ -259,7 +401,7 @@
     "applyOnlineLink": "https://vmc.gov.in/VMCDocs/Recruitment/Recruitment_Advertise/2026//Online%20RR.pdf",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20"
+    "scrapedAt": "2026-09-21"
   },
   {
     "id": "gujarat-iima-research-assistant",
@@ -276,7 +418,7 @@
     "applyOnlineLink": "https://www.iima.ac.in/sites/default/files/2026-09/JD_NSE_RA_CBS1.pdf",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20"
+    "scrapedAt": "2026-09-21"
   },
   {
     "id": "gujarat-iim ahmedabad-centre-research-fellow",
@@ -293,7 +435,7 @@
     "applyOnlineLink": "https://www.iima.ac.in/sites/default/files/2026-09/JD_NSE_PostDocV1.pdf",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20"
+    "scrapedAt": "2026-09-21"
   },
   {
     "id": "gujarat-jau-project-assistant",
@@ -310,7 +452,7 @@
     "applyOnlineLink": "https://www.jau.in/storage/document/dynamic_document//cotton_pa_spa_jpa_26_20260911_1965.pdf",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20"
+    "scrapedAt": "2026-09-21"
   },
   {
     "id": "gujarat-gujarat biotechnology university-junior-research-fellow",
@@ -327,7 +469,7 @@
     "applyOnlineLink": "https://gbu.edu.in/wp-content/uploads/2026/09/GSBTM-Advertisement-11092026.pdf",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20"
+    "scrapedAt": "2026-09-21"
   },
   {
     "id": "gujarat-iiit surat-junior-engineer",
@@ -344,7 +486,7 @@
     "applyOnlineLink": "https://iiitsurat.ac.in/Recruitment_Advertisement_Junior_Engineer_(CivilArchitectural).pdf",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20"
+    "scrapedAt": "2026-09-21"
   },
   {
     "id": "gujarat-gujarat university-teaching-assistant",
@@ -361,7 +503,7 @@
     "applyOnlineLink": "https://beta.gujaratuniversity.ac.in/data/pdfs/Recruitment/TA%20final%20123.pdf",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20"
+    "scrapedAt": "2026-09-21"
   },
   {
     "id": "gujarat-isro sac-junior-research-fellow-jrf-research-associate-ra-p",
@@ -378,7 +520,7 @@
     "applyOnlineLink": "https://careers.sac.gov.in/",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20",
+    "scrapedAt": "2026-09-21",
     "fees": [
       {
         "category": "All Categories",
@@ -537,7 +679,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/gsssb-recruitment-2026-apply-online-for-41-statistical-assistant-research-assistant-posts/",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20",
+    "scrapedAt": "2026-09-21",
     "fees": [
       {
         "category": "Unreserved (General) Category",
@@ -606,7 +748,7 @@
     "applyOnlineLink": "https://dgll.nic.in/sites/default/files/2026-08/doc%20new.pdf",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20"
+    "scrapedAt": "2026-09-21"
   },
   {
     "id": "gujarat-kamdhenu university-field-assistant",
@@ -623,7 +765,7 @@
     "applyOnlineLink": "https://www.kamdhenuuni.edu.in/Content/images/2026/1729.pdf",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20"
+    "scrapedAt": "2026-09-21"
   },
   {
     "id": "gujarat-msu baroda-temporary-assistant-professor",
@@ -640,7 +782,7 @@
     "applyOnlineLink": "https://msubaroda.ac.in/NotificationDetails?id=10164",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20"
+    "scrapedAt": "2026-09-21"
   },
   {
     "id": "gujarat-msu baroda-expert-amp-assistant-conservator",
@@ -657,7 +799,7 @@
     "applyOnlineLink": "https://msubaroda.ac.in/NotificationDetails?id=10166",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20"
+    "scrapedAt": "2026-09-21"
   },
   {
     "id": "gujarat-dlsa ahmedabad-legal-aid-panel-lawyer",
@@ -674,7 +816,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec011aa057313c28fa4a40c5bc084b11/uploads/2026/09/2026090516.pdf",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20"
+    "scrapedAt": "2026-09-21"
   },
   {
     "id": "gujarat-gsrtc-helper",
@@ -691,7 +833,7 @@
     "applyOnlineLink": "https://ojas.gujarat.gov.in/AdvtDetails.aspx?sid=zlkvQxSZgjY=&yr=iNSQ32x8ipg=&ano=lbbXJHoy3aQ=",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20",
+    "scrapedAt": "2026-09-21",
     "fees": [
       {
         "category": "Unreserved (General)",
@@ -757,7 +899,7 @@
     "applyOnlineLink": "https://tsu.ac.in/careers/careers.php",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20"
+    "scrapedAt": "2026-09-21"
   },
   {
     "id": "gujarat-gmdc-dgm-manager",
@@ -774,7 +916,7 @@
     "applyOnlineLink": "https://www.gmdcltd.com/wp-content/uploads/2026/08/filenamez8FIxa472nIcGMDC_JD_DGM_Gasification.pdf",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20"
+    "scrapedAt": "2026-09-21"
   },
   {
     "id": "gujarat-vnsgu-temporary-teaching-assistant-temporary-assistant-p",
@@ -791,7 +933,7 @@
     "applyOnlineLink": "https://www.vnsgu.ac.in/uploads/assetlinks/f4ba5a8c-91fe-47b7-991a-c268269240a1.pdf",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20"
+    "scrapedAt": "2026-09-21"
   },
   {
     "id": "gujarat-amc medical education trust-dean-cardiologist",
@@ -808,7 +950,7 @@
     "applyOnlineLink": "https://www.amcmet.org/recruitment/",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20"
+    "scrapedAt": "2026-09-21"
   },
   {
     "id": "gujarat-csir csmcri-field-assistant-more-project-associate-i",
@@ -825,7 +967,7 @@
     "applyOnlineLink": "https://www.csmcri.res.in/node/11047",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20"
+    "scrapedAt": "2026-09-21"
   },
   {
     "id": "gujarat-iit gandhinagar-project-scientist",
@@ -842,7 +984,7 @@
     "applyOnlineLink": "https://drive.google.com/file/d/1i6YkHj1angmg3ToaPXSQ85AOeLAR81cU/view",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20"
+    "scrapedAt": "2026-09-21"
   },
   {
     "id": "gujarat-gprb-lokrakshak-cadre",
@@ -859,7 +1001,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/gujarat-police-lokrakshak-recruitment-2026/",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20",
+    "scrapedAt": "2026-09-21",
     "fees": [],
     "dates": [
       {
@@ -923,7 +1065,7 @@
     "applyOnlineLink": "https://www.nif.org.in/upload/career/advertisement/1787926262_eng_adv.pdf",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20"
+    "scrapedAt": "2026-09-21"
   },
   {
     "id": "gujarat-sggu-assistant-professor",
@@ -940,7 +1082,7 @@
     "applyOnlineLink": "https://www.sggu.ac.in/uploads/recruitement/1787805724_06_2026.pdf",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20"
+    "scrapedAt": "2026-09-21"
   },
   {
     "id": "gujarat-svnit-administrative-assistant",
@@ -957,7 +1099,7 @@
     "applyOnlineLink": "https://www.svnit.ac.in/Data/jobs/2026/August/Annexure%20-%20I.pdf",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20"
+    "scrapedAt": "2026-09-21"
   },
   {
     "id": "gujarat-svnit-assistant-registrar",
@@ -974,7 +1116,7 @@
     "applyOnlineLink": "https://www.svnit.ac.in/Data/jobs/2026/August/Group%20A%20Direct%20Advertisement-%20Asst.%20Registrar-%20AUGUST%202026%201.pdf",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20"
+    "scrapedAt": "2026-09-21"
   },
   {
     "id": "gujarat-iima-research-associate",
@@ -991,7 +1133,7 @@
     "applyOnlineLink": "https://www.iima.ac.in/sites/default/files/2026-08/CIA_RA_Aug_2026_IIMA.pdf",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20"
+    "scrapedAt": "2026-09-21"
   },
   {
     "id": "gujarat-bank of baroda (bob)-local-bank-officer-lbo-last-date-extended-",
@@ -1008,7 +1150,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/bobjul26/",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20",
+    "scrapedAt": "2026-09-21",
     "fees": [
       {
         "category": "General / EWS / OBC candidates",
@@ -1064,7 +1206,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-wr-apprentice-recruitment-2026/",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20",
+    "scrapedAt": "2026-09-21",
     "fees": [
       {
         "category": "All Candidates",
@@ -1142,7 +1284,7 @@
     "howToApply": [
       "Candidates must register on the BOAT web portal at https://nats.education.gov.in/ or https://moenats.aicte-india.org/student_register.php as a student/apprentice.",
       "After completing enrollment/registration, apply to AAI advertisement shown on the dashboard in listing way.",
-      "After registering on BOAT web portal, candidates��� documents shall be verified by BOAT, after which necessary steps have to be followed to apply to Airports Authority of India, RHQ, Western Region (Establishment No. WMHMCC000058) under the desired trade for apprenticeship.",
+      "After registering on BOAT web portal, candidates’ documents shall be verified by BOAT, after which necessary steps have to be followed to apply to Airports Authority of India, RHQ, Western Region (Establishment No. WMHMCC000058) under the desired trade for apprenticeship.",
       "Applications received online through NATS portal will only be considered.",
       "For any issues/queries related to NATS portal, contact BOAT, Western Region, Mumbai: Phone: +91-22-24055635 / 24053682, Email: director.boatwr@gmail.com, natssupport_student@aicte-india.org, Tollfree: 1800-222-060.",
       "For clarification/queries, email: recttcellwr@aai.aero"
@@ -1163,7 +1305,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/gujarat-high-court-civil-judge-recruitment-2026/",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-09-20",
+    "scrapedAt": "2026-09-21",
     "fees": [],
     "dates": [
       {

@@ -1,5 +1,39 @@
 [
   {
+    "id": "punjab-pau-ground-helper",
+    "title": "PAU Recruitment 2026 – Ground Helper Posts",
+    "shortInfo": "PAU has announced notification for Ground Helper posts. Required qualification: 8TH. Last date to apply: 15-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "15-10-26",
+    "officialWebsite": "https://pau.edu/index.php?_act=manageVacancy&#038;DO=viewVacancyDetail&#038;intID=7577",
+    "notificationLink": "https://pau.edu/index.php?_act=manageVacancy&#038;DO=viewVacancyDetail&#038;intID=7577",
+    "applyOnlineLink": "https://pau.edu/index.php?_act=manageVacancy&#038;DO=viewVacancyDetail&#038;intID=7577",
+    "state": "Punjab",
+    "stateCode": "punjab",
+    "scrapedAt": "2026-09-22"
+  },
+  {
+    "id": "punjab-iim amritsar-research-associate",
+    "title": "IIM Amritsar Recruitment 2026 – Research Associate Posts",
+    "shortInfo": "IIM Amritsar has announced notification for Research Associate posts. Required qualification: M.Phil/Ph.D, Any Post Graduate. Last date to apply: 02-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "02-10-26",
+    "officialWebsite": "https://iimamritsar.ac.in/storage/files/1789731452-0-1388.pdf",
+    "notificationLink": "https://iimamritsar.ac.in/storage/files/1789731452-0-1388.pdf",
+    "applyOnlineLink": "https://iimamritsar.ac.in/storage/files/1789731452-0-1388.pdf",
+    "state": "Punjab",
+    "stateCode": "punjab",
+    "scrapedAt": "2026-09-22"
+  },
+  {
     "id": "punjab-psssb-clerk-driver-translator-stenographer-field-artist",
     "title": "PSSSB Recruitment 2026 – Clerk, Driver, Translator, Stenographer, Field Artist Posts",
     "shortInfo": "PSSSB has announced notification for Clerk, Driver, Translator, Stenographer, Field Artist posts. Required qualification: As per post requirements. Last date to apply: -.",
@@ -25,77 +59,6 @@
     "vacancyList": [
       {
         "postName": "Group C (Clerk, Driver, Translator, Stenographer, Field Artist)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": []
-  },
-  {
-    "id": "punjab-psssb-group-d-last-date-extended-",
-    "title": "PSSSB Recruitment 2026 – Group D (Last Date Extended) Posts",
-    "shortInfo": "PSSSB has announced notification for Group D (Last Date Extended) posts. Required qualification: 10th. Last date to apply: 21-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "2098",
-    "lastDate": "21-09-26",
-    "officialWebsite": "https://sssb.punjab.gov.in/",
-    "notificationLink": "https://sssb.punjab.gov.in/wp-content/uploads/2026/02/Advertisement-Group-D-1.pdf",
-    "applyOnlineLink": "https://eservices.punjab.gov.in/loginWindow.do",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-09-22",
-    "fees": [
-      {
-        "category": "For General/Freedom Fighter/Player",
-        "fee": "₹1000/-"
-      },
-      {
-        "category": "For SC/BC/EWS",
-        "fee": "₹250/-"
-      },
-      {
-        "category": "For Ex-Servicemen & Dependent",
-        "fee": "₹200/-"
-      },
-      {
-        "category": "For Physical Handicapped",
-        "fee": "₹500/-"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Starting Date for Apply Online",
-        "date": "27/02/2026"
-      },
-      {
-        "event": "Closing Date for Apply Online",
-        "date": "20/03/2026"
-      },
-      {
-        "event": "Re open Dates",
-        "date": ""
-      },
-      {
-        "event": "Starting Date for Apply Online",
-        "date": "17/09/2026"
-      },
-      {
-        "event": "Closing Date for Apply Online (Extended Upto)",
-        "date": "21/09/2026"
-      },
-      {
-        "event": "Exam Date",
-        "date": "25/10/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Group D",
         "count": "",
         "qualification": "",
         "ageLimit": "",
@@ -361,40 +324,6 @@
     "scrapedAt": "2026-09-22"
   },
   {
-    "id": "punjab-pstcl-director-finance-amp-commercial",
-    "title": "PSTCL Recruitment 2026 – Director/Finance &amp; Commercial Posts",
-    "shortInfo": "PSTCL has announced notification for Director/Finance &amp; Commercial posts. Required qualification: Chartered Accountant or Cost Accountant (ICWA).. Last date to apply: 17-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "",
-    "lastDate": "17-09-26",
-    "officialWebsite": "https://pserc.punjab.gov.in/pages/Dir_FIN_PSTCL.pdf",
-    "notificationLink": "https://pserc.punjab.gov.in/pages/Dir_FIN_PSTCL.pdf",
-    "applyOnlineLink": "https://pserc.punjab.gov.in/pages/Dir_FIN_PSTCL.pdf",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-09-22"
-  },
-  {
-    "id": "punjab-pserc-director-gen-amp-re-director-finance-director-regu",
-    "title": "PSERC Recruitment 2026 – Director/Gen &amp; RE, Director/Finance, Director/ Regulations Posts",
-    "shortInfo": "PSERC has announced notification for Director/Gen &amp; RE, Director/Finance, Director/ Regulations posts. Required qualification: Degree in Engineering, CA/MBA (Finance), Cost Accountant. Last date to apply: 21-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "03",
-    "lastDate": "21-09-26",
-    "officialWebsite": "https://pserc.punjab.gov.in/pages/VC-77-2026-08.pdf",
-    "notificationLink": "https://pserc.punjab.gov.in/pages/VC-77-2026-08.pdf",
-    "applyOnlineLink": "https://pserc.punjab.gov.in/pages/VC-77-2026-08.pdf",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-09-22"
-  },
-  {
     "id": "punjab-pserc-secretary-sr-private-secretary-private-secretary",
     "title": "PSERC Recruitment 2026 – Secretary, Sr. Private Secretary, Private Secretary Posts",
     "shortInfo": "PSERC has announced notification for Secretary, Sr. Private Secretary, Private Secretary posts. Required qualification: Graduate. Last date to apply: 24-10-26.",
@@ -424,23 +353,6 @@
     "officialWebsite": "https://pau.edu/index.php?_act=manageVacancy&#038;DO=viewVacancyDetail&#038;intID=7566",
     "notificationLink": "https://pau.edu/index.php?_act=manageVacancy&#038;DO=viewVacancyDetail&#038;intID=7566",
     "applyOnlineLink": "https://pau.edu/index.php?_act=manageVacancy&#038;DO=viewVacancyDetail&#038;intID=7566",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-09-22"
-  },
-  {
-    "id": "punjab-punjabi university-lecturer",
-    "title": "Punjabi University Recruitment 2026 – Lecturer Posts",
-    "shortInfo": "Punjabi University has announced notification for Lecturer posts. Required qualification: Any Masters Degree. Last date to apply: 17-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "17-09-26",
-    "officialWebsite": "https://www.punjabiuniversity.ac.in/Pages/SF/TQR/P9C3AD95B.pdf",
-    "notificationLink": "https://www.punjabiuniversity.ac.in/Pages/SF/TQR/P9C3AD95B.pdf",
-    "applyOnlineLink": "https://www.punjabiuniversity.ac.in/Pages/SF/TQR/P9C3AD95B.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
     "scrapedAt": "2026-09-22"
@@ -509,23 +421,6 @@
     "officialWebsite": "https://nisst.org/wp-content/uploads/2026/09/Advertisement-modified-2026-for-4-posts.pdf",
     "notificationLink": "https://nisst.org/wp-content/uploads/2026/09/Advertisement-modified-2026-for-4-posts.pdf",
     "applyOnlineLink": "https://nisst.org/wp-content/uploads/2026/09/Advertisement-modified-2026-for-4-posts.pdf",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-09-22"
-  },
-  {
-    "id": "punjab-iit ropar-senior-research-fellow-junior-research-fellow",
-    "title": "IIT Ropar Recruitment 2026 – Senior Research Fellow, Junior Research Fellow Posts",
-    "shortInfo": "IIT Ropar has announced notification for Senior Research Fellow, Junior Research Fellow posts. Required qualification: M.E/M.Tech. Last date to apply: 18-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "7",
-    "lastDate": "18-09-26",
-    "officialWebsite": "https://www.iitrpr.ac.in/api/v2/files/download/202",
-    "notificationLink": "https://www.iitrpr.ac.in/api/v2/files/download/202",
-    "applyOnlineLink": "https://www.iitrpr.ac.in/api/v2/files/download/202",
     "state": "Punjab",
     "stateCode": "punjab",
     "scrapedAt": "2026-09-22"
@@ -662,378 +557,6 @@
       "Affix a self-attested photograph at the designated place on the form.",
       "Sign the declaration stating no civil or criminal case is pending and that you are not an active political enthusiast of any political party.",
       "Submit the completed application form along with all attachments to the office of District Legal Services Authority, Samjhauta Sadan, Sangrur before 4:00 PM on 05/10/2026."
-    ]
-  },
-  {
-    "id": "punjab-punjab and haryana high court-driver",
-    "title": "Punjab and Haryana High Court Recruitment 2026 – Driver Posts",
-    "shortInfo": "Punjab and Haryana High Court has announced notification for Driver posts. Required qualification: 10+2, LMV licence, 2 yrs exp. Last date to apply: 18-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "25",
-    "lastDate": "18-09-26",
-    "officialWebsite": "https://www.highcourtchd.gov.in",
-    "notificationLink": "https://highcourtchd.gov.in/sub_pages/left_menu/recruitments/staff/openings_pdf/drivr_advt_28082026_b8a83.pdf",
-    "applyOnlineLink": "https://phconapp.formflix.org/driver/",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-09-22",
-    "fees": [
-      {
-        "category": "General and SC/ST/BC of areas/States other than Punjab, Haryana and U.T. Chandigarh",
-        "fee": "₹1000/-"
-      },
-      {
-        "category": "SC/ST/BC of areas/States of Punjab, Haryana and U.T. Chandigarh",
-        "fee": "₹800/-"
-      },
-      {
-        "category": "Ex-servicemen",
-        "fee": "₹800/-"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Start Date for Online Application",
-        "date": "28/08/2026"
-      },
-      {
-        "event": "Last Date for Online Registration",
-        "date": "18/09/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Driver (General Category)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Driver (SC/ST/BC)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Driver (Ex-Servicemen)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the official website of the High Court at www.highcourtchd.gov.in.",
-      "Read the detailed employment notice/advertisement carefully before filling up the application form.",
-      "Keep personal details, valid active E-mail ID, valid mobile number, online payment facility, scanned recent passport size photograph (not more than 30 days old, white background), and scanned signature ready.",
-      "Fill all details including category correctly in the online application form.",
-      "Upload proper photograph and signature.",
-      "Pay the application fee online (non-refundable). Online transaction charges will be levied extra.",
-      "Submit the application form after ensuring all particulars/details are correctly reflected.",
-      "Retain printed/hard copy of the online application form for future reference.",
-      "For technical queries, call helpline number 8100091298 on all working days between 11:00 A.M. to 05:30 P.M. For other queries, call 0172-2717605 on all working days between 09:30 A.M. to 05:00 P.M."
-    ]
-  },
-  {
-    "id": "punjab-punjab and haryana high court-frash",
-    "title": "Punjab and Haryana High Court Recruitment 2026 – Frash Posts",
-    "shortInfo": "Punjab and Haryana High Court has announced notification for Frash posts. Required qualification: Knowledge of Hindi and regional language.. Last date to apply: 18-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "31",
-    "lastDate": "18-09-26",
-    "officialWebsite": "https://www.highcourtchd.gov.in",
-    "notificationLink": "https://highcourtchd.gov.in/sub_pages/left_menu/recruitments/staff/openings_pdf/frash_advt_28082026_96766.pdf",
-    "applyOnlineLink": "https://phconapp.formflix.org/faraash/",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-09-22",
-    "fees": [
-      {
-        "category": "General and SC/ST/BC of areas/States other than Punjab, Haryana and U.T. Chandigarh",
-        "fee": "₹700/-"
-      },
-      {
-        "category": "SC/ST/BC of Punjab, Haryana, and U.T. Chandigarh",
-        "fee": "₹600/-"
-      },
-      {
-        "category": "Ex-servicemen",
-        "fee": "₹600/-"
-      },
-      {
-        "category": "Dependents of Ex-Servicemen disabled/deceased during active operation (with requisite document)",
-        "fee": "No Fee"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Start of Online Application",
-        "date": "28/08/2026"
-      },
-      {
-        "event": "Last Date for Online Registration",
-        "date": "18/09/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Frash",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Online application form is available only on the official website of the Punjab and Haryana High Court i.e. www.highcourtchd.gov.in.",
-      "Candidates are advised to read the detailed employment notice/advertisement before filling up the application form.",
-      "Before starting to fill-up the online application form, candidates must keep the following information ready: Personal details, Valid and active E-mail ID, Valid and active mobile number, Online payment facility (internet banking, debit/credit card etc.), Scanned recent passport size photograph (not more than 30 days old) against white background, Scanned signatures.",
-      "Fill all details including the category correctly in the online application form and submit only after ensuring all particulars are correctly reflected.",
-      "Pay the application fee online (non-refundable). Online transaction charges shall be levied extra.",
-      "Retain printed/hard copies of the online Application Form and produce the same as and when asked.",
-      "Candidates are advised to apply online much before the closing date and not to wait till the last date.",
-      "For technical queries, call Helpline number 9674785953 on all working days between 11:00 A.M. to 05:30 P.M. For other queries, call 0172-2717605 on all working days between 09:30 A.M. to 05:00 P.M."
-    ]
-  },
-  {
-    "id": "punjab-pau-female-gym-trainer",
-    "title": "PAU Recruitment 2026 – Female Gym Trainer Posts",
-    "shortInfo": "PAU has announced notification for Female Gym Trainer posts. Required qualification: Any Graduate, 10TH, Other, Diploma. Last date to apply: 18-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "18-09-26",
-    "officialWebsite": "https://Candidates%20are%20advised%20to%20check%20whether%20they%20satisfy%20the%20prescribed%20age%20limit%20before%20applying.%20Use%20our%20online%20Age%20Calculator%20to%20calculate%20your%20exact%20age%20instantly.",
-    "notificationLink": "https://Candidates%20are%20advised%20to%20check%20whether%20they%20satisfy%20the%20prescribed%20age%20limit%20before%20applying.%20Use%20our%20online%20Age%20Calculator%20to%20calculate%20your%20exact%20age%20instantly.",
-    "applyOnlineLink": "https://Candidates%20are%20advised%20to%20check%20whether%20they%20satisfy%20the%20prescribed%20age%20limit%20before%20applying.%20Use%20our%20online%20Age%20Calculator%20to%20calculate%20your%20exact%20age%20instantly.",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-09-22"
-  },
-  {
-    "id": "punjab-bank of baroda (bob)-local-bank-officer-lbo-last-date-extended-",
-    "title": "Bank of Baroda (BOB) Recruitment 2026 – Local Bank Officer LBO (Last Date Extended) Posts",
-    "shortInfo": "Bank of Baroda (BOB) has announced notification for Local Bank Officer LBO (Last Date Extended) posts. Required qualification: Graduation in any discipline, 1 year experience. Last date to apply: 17-09-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "2482",
-    "lastDate": "17-09-26",
-    "officialWebsite": "https://www.bankofbaroda.bank.in",
-    "notificationLink": "https://bankofbaroda.bank.in/-/media/Project/BOB/CountryWebsites/India/Career/2026/26-08/Advertisement-18-04.pdf",
-    "applyOnlineLink": "https://ibpsreg.ibps.in/bobjul26/",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-09-22",
-    "fees": [
-      {
-        "category": "General / EWS / OBC candidates",
-        "fee": "Rs. 850/- (Inclusive of GST) + Payment Gateway Charges"
-      },
-      {
-        "category": "SC / ST / PwBD / Ex-Servicemen (ESM/DESM) / Women candidates",
-        "fee": "Rs. 175/- (Inclusive of GST) + Payment Gateway Charges"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Online Registration Starts",
-        "date": "18/08/2026"
-      },
-      {
-        "event": "Last Date for Submission of Application & Payment of Fees (Extended Upto)",
-        "date": "17/09/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Local Bank Officer (LBO)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit Bank’s official website www.bankofbaroda.bank.in under Career section &rarr; Current Opportunities.",
-      "Register online in the appropriate Online Application Format available through the link on the Careers &rarr; Current Opportunities page.",
-      "Upload scanned photograph, signature, bio-data, and other required documents as per specifications.",
-      "Carefully fill in all details in the online application form. No changes are permitted after clicking SUBMIT.",
-      "Pay the application fee online using Debit Card / Credit Card / Internet Banking / UPI etc.",
-      "On successful payment, an e-receipt and application form will be generated &mdash; print and retain for future reference.",
-      "Note down the acknowledgement number and keep a copy of the application form for future reference.",
-      "Download call letters from the Bank’s website under Career section &rarr; Current Opportunities using registration details and password."
-    ]
-  },
-  {
-    "id": "punjab-aai nr-graduate-apprentice-diploma-apprentice-iti-trade-a",
-    "title": "AAI NR Recruitment 2026 – Graduate Apprentice, Diploma Apprentice, ITI Trade Apprentice Posts",
-    "shortInfo": "AAI NR has announced notification for Graduate Apprentice, Diploma Apprentice, ITI Trade Apprentice posts. Required qualification: Degree, Diploma, ITI. Last date to apply: 16-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "205",
-    "lastDate": "16-09-26",
-    "officialWebsite": "https://www.aai.aero",
-    "notificationLink": "https://www.aai.aero/sites/default/files/examdashboard_advertisement/Final%20Advt.%20App.%202026-27-RHQ-NR.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/aai-nr-apprentice-2026/",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-09-22",
-    "fees": [
-      {
-        "category": "All Categories",
-        "fee": "No Fee"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Last Date of Application",
-        "date": "16/09/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Civil Engg. (Graduate)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Civil Engg. (Diploma)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Electrical Engg. (Graduate)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Electrical Engg. (Diploma)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Electronics (Graduate)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Electronics (Diploma)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Computer Science/IT (Graduate)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Computer Science/IT (Diploma)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Aeronautical/Aerospace/Aircraft Maintenance (Graduate)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Aeronautical/Aerospace/Aircraft Maintenance (Diploma)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Architecture (Graduate)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Architecture (Diploma)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Mechanical/Automobile (Graduate)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Mechanical/Automobile (Diploma)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "BCA/B.Com (Graduate)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "COPA/Steno (ITI)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Computer Hardware & Networking (ITI)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit BOAT’s/RDAT’s web portal: www.nats.education.gov.in (for Graduate/Diploma Apprentices) or www.apprenticeshipindia.org (for ITI Trade Apprentices).",
-      "Register yourself on the concerned portal (NATS/NAPS) prior to applying for apprenticeship training in AAI.",
-      "Find establishment: Airports Authority of India &ndash; RHQ NR, New Delhi (NDLSWC000002(BOAT) / E05200700101(NAPS)) and click on the Apply button.",
-      "Complete your profile with all required details including educational qualifications, communication details, and training preferences.",
-      "Upload required documents including qualifying degree/provisional certificate in PDF format.",
-      "After successful application, the portal will display the message: ‘Successfully applied for the training position. Based on availability, you will be contacted by the establishment.’",
-      "Candidates applying for more than one discipline will not be considered and their application will be rejected.",
-      "No Application Fee is being charged."
     ]
   },
   {

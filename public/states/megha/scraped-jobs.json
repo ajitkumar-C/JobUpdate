@@ -1,5 +1,73 @@
 [
   {
+    "id": "megha-cwssu-professor-associate-professor-assistant-professor",
+    "title": "CWSSU Recruitment 2026 – Professor, Associate Professor, Assistant Professor Posts",
+    "shortInfo": "CWSSU has announced notification for Professor, Associate Professor, Assistant Professor posts. Required qualification: Master's, Ph.D., NET. Last date to apply: 11-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "149",
+    "lastDate": "11-10-26",
+    "officialWebsite": "https://cwssu.ac.in",
+    "notificationLink": "https://cwssu.ac.in/home/files/acts/Advertisement_FINAL.pdf",
+    "applyOnlineLink": "https://rpa.meghalaya.gov.in/cwssu/",
+    "state": "Meghalaya",
+    "stateCode": "megha",
+    "scrapedAt": "2026-09-22",
+    "fees": [
+      {
+        "category": "General Candidates",
+        "fee": "₹1000/-"
+      },
+      {
+        "category": "ST/SC/OBC Candidates",
+        "fee": "₹500/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Portal Opens",
+        "date": "22/09/2026"
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "11/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Professor",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official recruitment portal at https://rpa.meghalaya.gov.in/cwssu.",
+      "Create and complete your profile on the recruitment portal by furnishing details of educational qualification, work experience, publications, and other relevant information.",
+      "Apply for the desired post online between 22nd September 2026 and 11th October 2026 (midnight).",
+      "Pay the application fee exclusively through the recruitment portal.",
+      "No application submitted through email, post, courier, or any other mode shall be accepted.",
+      "Candidates already in service must apply through the online portal and produce a No Objection Certificate from their employer at the time of interview."
+    ]
+  },
+  {
     "id": "megha-dhs south garo hills-ophthalmic-assistant-gnm",
     "title": "DHS South Garo Hills Recruitment 2026 – Ophthalmic Assistant, GNM Posts",
     "shortInfo": "DHS South Garo Hills has announced notification for Ophthalmic Assistant, GNM posts. Required qualification: B.Sc, ANM, Diploma, BAMS, M.Sc, GNM, BHMS. Last date to apply: 29-09-26.",
@@ -12,40 +80,6 @@
     "officialWebsite": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/09/17897195233633.pdf",
     "notificationLink": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/09/17897195233633.pdf",
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/09/17897195233633.pdf",
-    "state": "Meghalaya",
-    "stateCode": "megha",
-    "scrapedAt": "2026-09-22"
-  },
-  {
-    "id": "megha-dmho ri bhoi-staff-nurse",
-    "title": "DMHO Ri Bhoi Recruitment 2026 – Staff Nurse Posts",
-    "shortInfo": "DMHO Ri Bhoi has announced notification for Staff Nurse posts. Required qualification: GNM, B.Sc. Last date to apply: 21-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "20",
-    "lastDate": "21-09-26",
-    "officialWebsite": "https://cdn.s3waas.gov.in/s3fe8c15fed5f808006ce95eddb7366e35/uploads/2026/09/17891065768641.pdf",
-    "notificationLink": "https://cdn.s3waas.gov.in/s3fe8c15fed5f808006ce95eddb7366e35/uploads/2026/09/17891065768641.pdf",
-    "applyOnlineLink": "https://cdn.s3waas.gov.in/s3fe8c15fed5f808006ce95eddb7366e35/uploads/2026/09/17891065768641.pdf",
-    "state": "Meghalaya",
-    "stateCode": "megha",
-    "scrapedAt": "2026-09-22"
-  },
-  {
-    "id": "megha-nehu-project-assistant-intern",
-    "title": "NEHU Recruitment 2026 – Project Assistant/Intern Posts",
-    "shortInfo": "NEHU has announced notification for Project Assistant/Intern posts. Required qualification: Any Masters Degree. Last date to apply: 17-09-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "17-09-26",
-    "officialWebsite": "https://nehu.ac.in/public/assets/files/advertisements/20260914122336_IKS-CENTRE-ABMFT-advt-project-assistant.pdf",
-    "notificationLink": "https://nehu.ac.in/public/assets/files/advertisements/20260914122336_IKS-CENTRE-ABMFT-advt-project-assistant.pdf",
-    "applyOnlineLink": "https://nehu.ac.in/public/assets/files/advertisements/20260914122336_IKS-CENTRE-ABMFT-advt-project-assistant.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
     "scrapedAt": "2026-09-22"
@@ -66,92 +100,6 @@
     "state": "Meghalaya",
     "stateCode": "megha",
     "scrapedAt": "2026-09-22"
-  },
-  {
-    "id": "megha-meghalaya civil secretariat-peon-chowkidar-and-more",
-    "title": "Meghalaya Civil Secretariat Recruitment 2026 – Peon, Chowkidar and More Posts",
-    "shortInfo": "Meghalaya Civil Secretariat has announced notification for Peon, Chowkidar and More posts. Required qualification: 6th. Last date to apply: 18-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "153",
-    "lastDate": "18-09-26",
-    "officialWebsite": "https://meghalaya.gov.in/",
-    "notificationLink": "https://cdn.s3waas.gov.in/s3fe8c15fed5f808006ce95eddb7366e35/uploads/2026/08/17873105015989.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/meghalaya-civil-secretariat-recruitment-2026/",
-    "state": "Meghalaya",
-    "stateCode": "megha",
-    "scrapedAt": "2026-09-22",
-    "fees": [
-      {
-        "category": "General Category",
-        "fee": "₹100/- per post"
-      },
-      {
-        "category": "ST/SC",
-        "fee": "₹50/- per post"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Advertisement Date",
-        "date": "17/08/2026"
-      },
-      {
-        "event": "Last Date for Online Registration",
-        "date": "18/09/2026"
-      },
-      {
-        "event": "Last Date for Receipt of Applications",
-        "date": "18/09/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Peon",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Cleaner",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Sweeper",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Chowkidar",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Mali",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Candidates are to apply and submit their applications online through the website at https://rpa.imeghalaya.gov.in",
-      "Applications received through any other mode will be summarily rejected.",
-      "For candidates applying for the first time through online mode, a one-time registration process is required.",
-      "Kindly read the instructions on the web page carefully before applying.",
-      "Last date for online registration is 18th September, 2026.",
-      "Pay the Examination Fee online via Debit/Credit Card, Net Banking, UPI, or E-Challan at any SBI branch."
-    ]
   },
   {
     "id": "megha-meghalaya home guards-home-guards",
@@ -196,62 +144,6 @@
       "Attach attested/self-attested copies of: Educational Qualification Certificate, Birth/Age Certificate, EPIC card of Meghalaya, Home Guards Basic Training Certificate, and Medical Fitness Certificate from an Authorized Government Medical Practitioner/Institution.",
       "Submit the completed application to the respective District Home Guards Offices / Officers Commanding District Training Centre / Civil Defence Offices from where the volunteer is being deployed.",
       "Applications must be received on or before 28th September 2026. Applications received after the last date will not be considered."
-    ]
-  },
-  {
-    "id": "megha-bank of baroda (bob)-local-bank-officer-lbo-last-date-extended-",
-    "title": "Bank of Baroda (BOB) Recruitment 2026 – Local Bank Officer LBO (Last Date Extended) Posts",
-    "shortInfo": "Bank of Baroda (BOB) has announced notification for Local Bank Officer LBO (Last Date Extended) posts. Required qualification: Graduation in any discipline, 1 year experience. Last date to apply: 17-09-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "2482",
-    "lastDate": "17-09-26",
-    "officialWebsite": "https://www.bankofbaroda.bank.in",
-    "notificationLink": "https://bankofbaroda.bank.in/-/media/Project/BOB/CountryWebsites/India/Career/2026/26-08/Advertisement-18-04.pdf",
-    "applyOnlineLink": "https://ibpsreg.ibps.in/bobjul26/",
-    "state": "Meghalaya",
-    "stateCode": "megha",
-    "scrapedAt": "2026-09-22",
-    "fees": [
-      {
-        "category": "General / EWS / OBC candidates",
-        "fee": "Rs. 850/- (Inclusive of GST) + Payment Gateway Charges"
-      },
-      {
-        "category": "SC / ST / PwBD / Ex-Servicemen (ESM/DESM) / Women candidates",
-        "fee": "Rs. 175/- (Inclusive of GST) + Payment Gateway Charges"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Online Registration Starts",
-        "date": "18/08/2026"
-      },
-      {
-        "event": "Last Date for Submission of Application & Payment of Fees (Extended Upto)",
-        "date": "17/09/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Local Bank Officer (LBO)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit Bank’s official website www.bankofbaroda.bank.in under Career section &rarr; Current Opportunities.",
-      "Register online in the appropriate Online Application Format available through the link on the Careers &rarr; Current Opportunities page.",
-      "Upload scanned photograph, signature, bio-data, and other required documents as per specifications.",
-      "Carefully fill in all details in the online application form. No changes are permitted after clicking SUBMIT.",
-      "Pay the application fee online using Debit Card / Credit Card / Internet Banking / UPI etc.",
-      "On successful payment, an e-receipt and application form will be generated &mdash; print and retain for future reference.",
-      "Note down the acknowledgement number and keep a copy of the application form for future reference.",
-      "Download call letters from the Bank’s website under Career section &rarr; Current Opportunities using registration details and password."
     ]
   }
 ]

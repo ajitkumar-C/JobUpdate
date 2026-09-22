@@ -1,5 +1,242 @@
 [
   {
+    "id": "andhra-angrau-young-professional-ii",
+    "title": "ANGRAU Recruitment 2026 – Young Professional II Posts",
+    "shortInfo": "ANGRAU has announced notification for Young Professional II posts. Required qualification: Any Masters Degree, Any Bachelors Degree. Last date to apply: 28-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "28-09-26",
+    "officialWebsite": "https://angrau.ac.in/UPLOADS/CareersPDFs/RARS_21_09.pdf",
+    "notificationLink": "https://angrau.ac.in/UPLOADS/CareersPDFs/RARS_21_09.pdf",
+    "applyOnlineLink": "https://angrau.ac.in/UPLOADS/CareersPDFs/RARS_21_09.pdf",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-09-22"
+  },
+  {
+    "id": "andhra-dlsa prakasam-para-legal-volunteer",
+    "title": "DLSA Prakasam Recruitment 2026 – Para Legal Volunteer Posts",
+    "shortInfo": "DLSA Prakasam has announced notification for Para Legal Volunteer posts. Required qualification: 12TH. Last date to apply: 30-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "-",
+    "lastDate": "30-09-26",
+    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3ec0151be2fed6c55f5aa0c16ff14c140/uploads/2026/09/2026092136.pdf",
+    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec0151be2fed6c55f5aa0c16ff14c140/uploads/2026/09/2026092136.pdf",
+    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0151be2fed6c55f5aa0c16ff14c140/uploads/2026/09/2026092136.pdf",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-09-22"
+  },
+  {
+    "id": "andhra-angrau-junior-research-fellow",
+    "title": "ANGRAU Recruitment 2026 – Junior Research Fellow Posts",
+    "shortInfo": "ANGRAU has announced notification for Junior Research Fellow posts. Required qualification: M.Sc. Last date to apply: 01-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "01-10-26",
+    "officialWebsite": "https://angrau.ac.in/UPLOADS/CareersPDFs/WII_RARS_TPT_21_09.pdf",
+    "notificationLink": "https://angrau.ac.in/UPLOADS/CareersPDFs/WII_RARS_TPT_21_09.pdf",
+    "applyOnlineLink": "https://angrau.ac.in/UPLOADS/CareersPDFs/WII_RARS_TPT_21_09.pdf",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-09-22"
+  },
+  {
+    "id": "andhra-echs telangana and andhra pradesh-peon-clerk-and-more",
+    "title": "ECHS Telangana and Andhra Pradesh Recruitment 2026 – Peon, Clerk and More Posts",
+    "shortInfo": "ECHS Telangana and Andhra Pradesh has announced notification for Peon, Clerk and More posts. Required qualification: B.Sc, Any Graduate, Diploma, B.Pharma, MS/MD, DMLT, BMLT, GNM, 8TH, MBBS, BDS. Last date to apply: 04-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "96",
+    "lastDate": "04-10-26",
+    "officialWebsite": "https://www.echs.gov.in",
+    "notificationLink": "https://www.echs.gov.in/assets/advertisement/7896523.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/echs-telangana-and-ap-recruitment-2026/",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-09-22",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date of Receipt of Application",
+        "date": "04/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Medical Specialist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medical Officer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Dental Officer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Officer-in-Charge",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Dental Hygienist/DORA",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Pharmacist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Lab Technician",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Lab Assistant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Nursing Assistant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Physiotherapist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Data Entry Operator/Clerk",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Clerk",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Female Attendant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Chowkidar",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Safaiwala",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Peon",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the Application Form from the official website www.echs.gov.in under EMPLOYMENT OPPORTUNITIES.",
+      "Fill in the application form as per the prescribed format.",
+      "Attach self-attested photocopies of educational qualification certificates (with Mark Sheets), work experience certificates, Registration Certificates, Discharge Book, and PPO.",
+      "Submit the completed application to: Officer-in-Charge, Station HQ ECHS Cell, HQ TASA, Near Rastrapati Nilayam, Secunderabad-500010, Telangana.",
+      "Last date for receipt of application is 04 Oct 2026 by 1800 hours.",
+      "Online applications will NOT be accepted.",
+      "For additional details, contact Tele No: 07382361574 or email: echsstnhgsecbad@gmail.com during working hours."
+    ]
+  },
+  {
+    "id": "andhra-ananthapuramu district court-computer-assistant",
+    "title": "Ananthapuramu District Court Recruitment 2026 – Computer Assistant Posts",
+    "shortInfo": "Ananthapuramu District Court has announced notification for Computer Assistant posts. Required qualification: Any Graduate. Last date to apply: 27-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "27-10-26",
+    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3ec030655f117444fc1911ab9c6f6b013/uploads/2026/09/2026091981.pdf",
+    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec030655f117444fc1911ab9c6f6b013/uploads/2026/09/2026091981.pdf",
+    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec030655f117444fc1911ab9c6f6b013/uploads/2026/09/2026091981.pdf",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-09-22"
+  },
+  {
+    "id": "andhra-iiit sri city-it-support-engineer",
+    "title": "IIIT Sri City Recruitment 2026 – IT Support Engineer Posts",
+    "shortInfo": "IIIT Sri City has announced notification for IT Support Engineer posts. Required qualification: Any Bachelors Degree, Diploma. Last date to apply: 02-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "-",
+    "lastDate": "02-10-26",
+    "officialWebsite": "https://iiits.ac.in/iiits-content/uploads/2026/09/IT-SUPPORT-ADVERTISEMENT.pdf",
+    "notificationLink": "https://iiits.ac.in/iiits-content/uploads/2026/09/IT-SUPPORT-ADVERTISEMENT.pdf",
+    "applyOnlineLink": "https://iiits.ac.in/iiits-content/uploads/2026/09/IT-SUPPORT-ADVERTISEMENT.pdf",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-09-22"
+  },
+  {
     "id": "andhra-east godavari district-asha",
     "title": "East Godavari District Recruitment 2026 – ASHA Posts",
     "shortInfo": "East Godavari District has announced notification for ASHA posts. Required qualification: 10TH. Last date to apply: 25-09-26.",
@@ -250,13 +487,13 @@
   {
     "id": "andhra-slprb ap police-sct-police-constable-fireman-state-disaster-respon",
     "title": "SLPRB AP Police Recruitment 2026 – SCT Police Constable, Fireman, State Disaster Response and Fire Service, Warder, SI &amp; Other Posts",
-    "shortInfo": "SLPRB AP Police has announced notification for SCT Police Constable, Fireman, State Disaster Response and Fire Service, Warder, SI &amp; Other posts. Required qualification: SSC/Intermediate to Degree/Diploma/M.Sc.. Last date to apply: DD-MM-YY.",
+    "shortInfo": "SLPRB AP Police has announced notification for SCT Police Constable, Fireman, State Disaster Response and Fire Service, Warder, SI &amp; Other posts. Required qualification: SSC/Intermediate to Degree/Diploma/M.Sc.. Last date to apply: -.",
     "category": "Others",
     "categoryIcon": "🏢",
     "categoryMarathi": "Others",
     "district": "State Level",
     "vacancies": "2050",
-    "lastDate": "DD-MM-YY",
+    "lastDate": "-",
     "officialWebsite": "https://slprb.ap.gov.in",
     "notificationLink": "https://slprb.ap.gov.in/2026_PDFS/FSL-%20Scientific%20Assistant%20Notification-2026.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/slprb-ap-police-recruitment-2026/",
@@ -1363,40 +1600,6 @@
     "scrapedAt": "2026-09-22"
   },
   {
-    "id": "andhra-dw&amp;cw&amp;eo chittoor-various-posts",
-    "title": "DW&amp;CW&amp;EO Chittoor Recruitment 2026 – Various Posts Posts",
-    "shortInfo": "DW&amp;CW&amp;EO Chittoor has announced notification for Various Posts posts. Required qualification: Degree in Law, Psychology, Social Work, Social Sciences, Health Sciences, High School pass. Last date to apply: 17-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "12",
-    "lastDate": "17-09-26",
-    "officialWebsite": "https://cdn.s3waas.gov.in/s333e75ff09dd601bbe69f351039152189/uploads/2026/09/17886047128190.pdf",
-    "notificationLink": "https://cdn.s3waas.gov.in/s333e75ff09dd601bbe69f351039152189/uploads/2026/09/17886047128190.pdf",
-    "applyOnlineLink": "https://cdn.s3waas.gov.in/s333e75ff09dd601bbe69f351039152189/uploads/2026/09/17886047128190.pdf",
-    "state": "Andhra Pradesh",
-    "stateCode": "andhra",
-    "scrapedAt": "2026-09-22"
-  },
-  {
-    "id": "andhra-iiser tirupati-project-associate-i-junior-research-fellow",
-    "title": "IISER Tirupati Recruitment 2026 – Project Associate-I, Junior Research Fellow Posts",
-    "shortInfo": "IISER Tirupati has announced notification for Project Associate-I, Junior Research Fellow posts. Required qualification: M.Sc. in Chemistry. Last date to apply: 18-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "18-09-26",
-    "officialWebsite": "https://www.iisertirupati.ac.in/wp-content/uploads/2026/09/Advt_732026.pdf",
-    "notificationLink": "https://www.iisertirupati.ac.in/wp-content/uploads/2026/09/Advt_732026.pdf",
-    "applyOnlineLink": "https://www.iisertirupati.ac.in/wp-content/uploads/2026/09/Advt_732026.pdf",
-    "state": "Andhra Pradesh",
-    "stateCode": "andhra",
-    "scrapedAt": "2026-09-22"
-  },
-  {
     "id": "andhra-balmer lawrie-unit-head-deputy-manager-assistant-manager-officer",
     "title": "Balmer Lawrie Recruitment 2026 – Unit Head, Deputy Manager, Assistant Manager, Officer, Junior Officer/Officer Posts",
     "shortInfo": "Balmer Lawrie has announced notification for Unit Head, Deputy Manager, Assistant Manager, Officer, Junior Officer/Officer posts. Required qualification: Engineering Graduate, MBA, Post Graduate Degree, Graduate, Company Secretary, B.Com. Last date to apply: 29-09-26.",
@@ -1639,40 +1842,6 @@
     ]
   },
   {
-    "id": "andhra-dwcweo chittoor-security-guard-case-workers",
-    "title": "DWCWEO Chittoor Recruitment 2026 – Security Guard, Case Workers Posts",
-    "shortInfo": "DWCWEO Chittoor has announced notification for Security Guard, Case Workers posts. Required qualification: Professional Degree, Diploma. Last date to apply: 17-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "12",
-    "lastDate": "17-09-26",
-    "officialWebsite": "https://cdn.s3waas.gov.in/s333e75ff09dd601bbe69f351039152189/uploads/2026/09/17886047128190.pdf",
-    "notificationLink": "https://cdn.s3waas.gov.in/s333e75ff09dd601bbe69f351039152189/uploads/2026/09/17886047128190.pdf",
-    "applyOnlineLink": "https://cdn.s3waas.gov.in/s333e75ff09dd601bbe69f351039152189/uploads/2026/09/17886047128190.pdf",
-    "state": "Andhra Pradesh",
-    "stateCode": "andhra",
-    "scrapedAt": "2026-09-22"
-  },
-  {
-    "id": "andhra-nandyal anganwadi-anganwadi-worker-amp-helper",
-    "title": "Nandyal Anganwadi Recruitment 2026 – Anganwadi Worker &amp; Helper Posts",
-    "shortInfo": "Nandyal Anganwadi has announced notification for Anganwadi Worker &amp; Helper posts. Required qualification: 10TH. Last date to apply: 18-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "70",
-    "lastDate": "18-09-26",
-    "officialWebsite": "https://cdn.s3waas.gov.in/s319b650660b253761af189682e03501dd/uploads/2026/09/17884355642604.pdf",
-    "notificationLink": "https://cdn.s3waas.gov.in/s319b650660b253761af189682e03501dd/uploads/2026/09/17884355642604.pdf",
-    "applyOnlineLink": "https://cdn.s3waas.gov.in/s319b650660b253761af189682e03501dd/uploads/2026/09/17884355642604.pdf",
-    "state": "Andhra Pradesh",
-    "stateCode": "andhra",
-    "scrapedAt": "2026-09-22"
-  },
-  {
     "id": "andhra-southern railway-act-apprentices",
     "title": "Southern Railway Recruitment 2026 – Act Apprentices Posts",
     "shortInfo": "Southern Railway has announced notification for Act Apprentices posts. Required qualification: 10th, 12th, ITI. Last date to apply: 27-09-26.",
@@ -1820,62 +1989,6 @@
       "Select the desired opportunity (trade) and set course type as ‘Designated’.",
       "Select location as ‘Andhra Pradesh’ and search Establishment as ‘Visakhapatnam Port Authority’.",
       "Click ‘Apply’ to submit the application."
-    ]
-  },
-  {
-    "id": "andhra-bank of baroda (bob)-local-bank-officer-lbo-last-date-extended-",
-    "title": "Bank of Baroda (BOB) Recruitment 2026 – Local Bank Officer LBO (Last Date Extended) Posts",
-    "shortInfo": "Bank of Baroda (BOB) has announced notification for Local Bank Officer LBO (Last Date Extended) posts. Required qualification: Graduation in any discipline, 1 year experience. Last date to apply: 17-09-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "2482",
-    "lastDate": "17-09-26",
-    "officialWebsite": "https://www.bankofbaroda.bank.in",
-    "notificationLink": "https://bankofbaroda.bank.in/-/media/Project/BOB/CountryWebsites/India/Career/2026/26-08/Advertisement-18-04.pdf",
-    "applyOnlineLink": "https://ibpsreg.ibps.in/bobjul26/",
-    "state": "Andhra Pradesh",
-    "stateCode": "andhra",
-    "scrapedAt": "2026-09-22",
-    "fees": [
-      {
-        "category": "General / EWS / OBC candidates",
-        "fee": "Rs. 850/- (Inclusive of GST) + Payment Gateway Charges"
-      },
-      {
-        "category": "SC / ST / PwBD / Ex-Servicemen (ESM/DESM) / Women candidates",
-        "fee": "Rs. 175/- (Inclusive of GST) + Payment Gateway Charges"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Online Registration Starts",
-        "date": "18/08/2026"
-      },
-      {
-        "event": "Last Date for Submission of Application & Payment of Fees (Extended Upto)",
-        "date": "17/09/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Local Bank Officer (LBO)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit Bank’s official website www.bankofbaroda.bank.in under Career section &rarr; Current Opportunities.",
-      "Register online in the appropriate Online Application Format available through the link on the Careers &rarr; Current Opportunities page.",
-      "Upload scanned photograph, signature, bio-data, and other required documents as per specifications.",
-      "Carefully fill in all details in the online application form. No changes are permitted after clicking SUBMIT.",
-      "Pay the application fee online using Debit Card / Credit Card / Internet Banking / UPI etc.",
-      "On successful payment, an e-receipt and application form will be generated &mdash; print and retain for future reference.",
-      "Note down the acknowledgement number and keep a copy of the application form for future reference.",
-      "Download call letters from the Bank’s website under Career section &rarr; Current Opportunities using registration details and password."
     ]
   },
   {

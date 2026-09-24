@@ -29,7 +29,11 @@ const fallbacks = {
   'rrb-ntpc-group-d-preparation-strategy-books.png': 'rrb-ntpc-syllabus-exam-pattern.png',
   'ssc-cgl-chsl-90-day-strategy-booklist.png': 'ssc-cgl-exam-guide.png',
   'maharashtra-police-bharti-prep-guide-books.png': 'police-constable-bharti.png',
-  'rpf-si-constable-revision-strategy-gk.png': 'rpf-constable-si-recruitment.png'
+  'rpf-si-constable-revision-strategy-gk.png': 'rpf-constable-si-recruitment.png',
+  'rrb-ntpc-technician-admit-card-exam-date.png': 'rrb-ntpc-syllabus-exam-pattern.png',
+  'ssc-gd-cgl-admit-card-exam-shifts-tracker.png': 'ssc-gd-constable-syllabus-guide.png',
+  'maharashtra-police-bharti-admit-card-exam-date.png': 'maharashtra-police-bharti-prep-guide-books.png',
+  'up-police-constable-clerk-exam-date-admit-card.png': 'police-constable-bharti.png'
 };
 
 Object.entries(fallbacks).forEach(([target, source]) => {

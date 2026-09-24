@@ -41,6 +41,12 @@ export function prerender() {
     const fullPath = path.join(distDir, relPath, 'index.html');
     ensureDirectoryExistence(fullPath);
 
+    // Also write direct clean HTML file (e.g. dist/blog/foo.html) to ensure Cloudflare Pages serves 200 OK directly without 307 redirects
+    const directHtmlPath = relPath ? path.join(distDir, `${relPath}.html`) : null;
+    if (directHtmlPath) {
+      ensureDirectoryExistence(directHtmlPath);
+    }
+
     let html = template;
 
     // 1. Replace Title
@@ -94,6 +100,9 @@ export function prerender() {
     }
 
     fs.writeFileSync(fullPath, html, 'utf8');
+    if (directHtmlPath) {
+      fs.writeFileSync(directHtmlPath, html, 'utf8');
+    }
     totalRendered++;
   }
 

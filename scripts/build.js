@@ -44,13 +44,15 @@ try {
   process.exit(1);
 }
 
-// 5. Copy dist/index.html to dist/200.html
-console.log('\n--- Step 5: Copying index.html to 200.html for SPA Fallback ---');
+// 5. Copy dist/index.html to dist/200.html and dist/404.html for SPA Fallback
+console.log('\n--- Step 5: Copying index.html to 200.html & 404.html for SPA Fallback ---');
 const indexHtmlPath = path.join(distDir, 'index.html');
 const fallbackHtmlPath = path.join(distDir, '200.html');
+const fallback404Path = path.join(distDir, '404.html');
 if (fs.existsSync(indexHtmlPath)) {
   fs.copyFileSync(indexHtmlPath, fallbackHtmlPath);
-  console.log('✅ Successfully copied index.html to 200.html');
+  fs.copyFileSync(indexHtmlPath, fallback404Path);
+  console.log('✅ Successfully copied index.html to 200.html and 404.html');
 } else {
   console.error('❌ dist/index.html not found!');
   process.exit(1);

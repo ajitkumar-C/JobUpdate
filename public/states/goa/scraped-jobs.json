@@ -1,5 +1,69 @@
 [
   {
+    "id": "goa-krcl-assistant-loco-pilot-senior-assistant-loco-pilot",
+    "title": "KRCL Recruitment 2026 – Assistant Loco Pilot, Senior Assistant Loco Pilot Posts",
+    "shortInfo": "KRCL has announced notification for Assistant Loco Pilot, Senior Assistant Loco Pilot posts. Required qualification: ITI. Last date to apply: 19-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "66",
+    "lastDate": "19-10-26",
+    "officialWebsite": "https://konkanrailway.com",
+    "notificationLink": "https://konkanrailway.com/sites/default/files/2026-09/VACANCY_NOTICE_DE_ALP_012026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/konkan-railway-alp-recruitment-2026/",
+    "state": "Goa",
+    "stateCode": "goa",
+    "scrapedAt": "2026-09-24",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Date of Notification",
+        "date": "22/09/2026"
+      },
+      {
+        "event": "Advance Copy Submission Last Date",
+        "date": "19/10/2026"
+      },
+      {
+        "event": "Application Submission Last Date (Through Proper Channel)",
+        "date": "22/10/2026"
+      },
+      {
+        "event": "KRCL Exemption from Immediate Absorption Rule Upto",
+        "date": "31/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Assistant Loco Pilot (ALP)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Assistant Loco Pilot (Sr. ALP)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Applicants must submit the complete filled-in application in the prescribed format (Annexure A) to their Administrative Officer (HQ/Board etc.) for forwarding to the Chief Personnel Officer, Konkan Railway Corporation Ltd.",
+      "The forwarding authority must indicate No Objection, Vigilance, and DAR Clearance, and mention APAR gradings of the candidate for the last five years.",
+      "Applications through proper channel should reach: Chief Personnel Officer, Konkan Railway Corporation Ltd., 4th floor, Belapur Bhavan Plot no. 6, Sector-11, C.B.D Belapur, Navi Mumbai, Pin-400614 on or before 22.10.2026 at 17:00 hrs.",
+      "An advance copy with all enclosures may also be forwarded via email to spo.gnandeep@krcl.co.in on or before 19.10.2026 at 17:00 hrs.",
+      "Eligible applicants will be short-listed on the basis of eligibility and experience as per the Vacancy Notice."
+    ]
+  },
+  {
     "id": "goa-aai-consultant-ssco-",
     "title": "AAI Recruitment 2026 – Consultant (SSCO) Posts",
     "shortInfo": "AAI has announced notification for Consultant (SSCO) posts. Required qualification: Graduate in any discipline, Basic ATC Course, ATM and AL (Basic), GCA/ATSS Course. Last date to apply: 01-10-26.",
@@ -14,7 +78,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-ssco-consultant-recruitment-2026/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-23",
+    "scrapedAt": "2026-09-24",
     "fees": [
       {
         "category": "Fee",
@@ -100,7 +164,7 @@
     "applyOnlineLink": "https://esic.gov.in/attachments/recruitmentfile/Faculty_Recruitment_Advertisement_for_Proposed_ESIC_Medical_College_Hospital_Margao_Goa_02_2026_1789537791.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-23"
+    "scrapedAt": "2026-09-24"
   },
   {
     "id": "goa-bits pilani-field-investigator",
@@ -117,7 +181,7 @@
     "applyOnlineLink": "https://www.bits-pilani.ac.in/wp-content/uploads/1-FI-Recruitment.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-23"
+    "scrapedAt": "2026-09-24"
   },
   {
     "id": "goa-iit goa-superintending-engineer-registrar-more-posts",
@@ -134,7 +198,7 @@
     "applyOnlineLink": "https://iitgoa.ac.in/wp-content/uploads/IITGOA_staff-recruitment_-Advt.-2026-05.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-23"
+    "scrapedAt": "2026-09-24"
   },
   {
     "id": "goa-gssc-desktop-publishing-operator-lower-division-clerk-r",
@@ -151,7 +215,7 @@
     "applyOnlineLink": "https://cbes.goa.gov.in/advertisement",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-23",
+    "scrapedAt": "2026-09-24",
     "fees": [
       {
         "category": "UR (Level 1-3)",
@@ -265,7 +329,7 @@
     "applyOnlineLink": "https://goashipyard.ibtexamination.com/App03gSL2026VEr3/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-23",
+    "scrapedAt": "2026-09-24",
     "fees": [
       {
         "category": "General/EWS",
@@ -355,7 +419,7 @@
     "applyOnlineLink": "https://www.goa.gov.in/wp-content/uploads/2026/08/FC-Advertisement-Web-Govan.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-23"
+    "scrapedAt": "2026-09-24"
   },
   {
     "id": "goa-nit goa-professor-assistant-professor",
@@ -372,7 +436,7 @@
     "applyOnlineLink": "https://nitgoa.ac.in/uploads/faculty_recruitment2026/Advt_Faculty%20_%20Recruitment%2031august2026.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-23"
+    "scrapedAt": "2026-09-24"
   },
   {
     "id": "goa-echs-peon-clerk-and-more",
@@ -389,7 +453,7 @@
     "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/INS%20Gomantak%2023%20Sep.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-23"
+    "scrapedAt": "2026-09-24"
   },
   {
     "id": "goa-krcl-junior-engineer-civil-alp-station-master-technicia",
@@ -406,7 +470,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/konkan-railway-recruitment-2026-apply-online-for-201-je-alp-technician-other-posts/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-23",
+    "scrapedAt": "2026-09-24",
     "fees": [
       {
         "category": "General/UR/OBC-NCL/EWS (Male)",

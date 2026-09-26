@@ -14,7 +14,7 @@
     "applyOnlineLink": "https://corporate.stockholding.com/careers/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-25",
+    "scrapedAt": "2026-09-26",
     "fees": [],
     "dates": [
       {
@@ -89,7 +89,7 @@
     "applyOnlineLink": "https://pau.edu/index.php?_act=manageVacancy&#038;DO=viewVacancyDetail&#038;intID=7577",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-25"
+    "scrapedAt": "2026-09-26"
   },
   {
     "id": "punjab-iim amritsar-research-associate",
@@ -106,7 +106,7 @@
     "applyOnlineLink": "https://iimamritsar.ac.in/storage/files/1789731452-0-1388.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-25"
+    "scrapedAt": "2026-09-26"
   },
   {
     "id": "punjab-psssb-clerk-driver-translator-stenographer-field-artist",
@@ -118,29 +118,154 @@
     "district": "State Level",
     "vacancies": "-",
     "lastDate": "-",
-    "officialWebsite": "https://govtjobguru.in/jobs/psssb-group-c-recruitment-2026/",
-    "notificationLink": "https://sssb.punjab.gov.in/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/psssb-group-c-recruitment-2026/",
+    "officialWebsite": "https://sssb.punjab.gov.in/",
+    "notificationLink": "https://sssb.punjab.gov.in/wp-content/uploads/2026/09/Advt.-12-of-2026.pdf",
+    "applyOnlineLink": "https://eservices.punjab.gov.in/loginWindow.do",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-25",
-    "fees": [],
+    "scrapedAt": "2026-09-26",
+    "fees": [
+      {
+        "category": "General Category / Sports",
+        "fee": "Rs. 1000/-"
+      },
+      {
+        "category": "SC / BC / EWS",
+        "fee": "Rs. 250/-"
+      },
+      {
+        "category": "Ex-Servicemen & Dependent",
+        "fee": "Rs. 200/-"
+      },
+      {
+        "category": "Physically Handicapped",
+        "fee": "Rs. 500/-"
+      }
+    ],
     "dates": [
       {
         "event": "Starting Date for Apply Online",
         "date": "25/09/2026"
+      },
+      {
+        "event": "Last Date to Submit Online Application and Pay Fee",
+        "date": "19/10/2026"
       }
     ],
     "vacancyList": [
       {
-        "postName": "Group C (Clerk, Driver, Translator, Stenographer, Field Artist)",
+        "postName": "Driver",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Clerk (Legal)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Clerk (Accounts)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Clerk (Legal)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Clerk (Accounts)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Clerk (Legal)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Clerk (IT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Clerk (IT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Clerk (Legal)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Translator",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Clerk (IT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Field Artist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Clerk (Legal)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Clerk (Legal)",
         "count": "",
         "qualification": "",
         "ageLimit": "",
         "payScale": ""
       }
     ],
-    "howToApply": []
+    "howToApply": [
+      "Visit the Board’s official website https://sssb.punjab.gov.in and click on the ‘Apply Online’ link.",
+      "New candidates must register by clicking ‘Registration’ and filling in their details to generate a User ID (Email ID) and Password.",
+      "Login using the registered Email ID and Password.",
+      "Fill in the online application form with personal, educational, and other required details accurately.",
+      "Upload a passport-size photograph (or capture a live photo via camera) and a scanned copy of your signature.",
+      "Click ‘Save Draft’ or ‘Next’ to proceed.",
+      "Click ‘Attach Annexure’ and upload scanned copies of 10th class certificate, educational qualification certificates, and other mandatory documents in PDF format.",
+      "Click ‘Save Documents’ after uploading all documents.",
+      "Click ‘Make Payment’ and pay the application fee online.",
+      "After successful payment, click ‘Submit’ to complete the application process.",
+      "Take a printout of the submitted Application Form and keep it for future reference.",
+      "Note: Once submitted, no changes/corrections will be allowed in the application form under any circumstances."
+    ]
   },
   {
     "id": "punjab-echs amritsar-clerk-dental-assistant",
@@ -157,7 +282,7 @@
     "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/EMPLOYMENT%20NOTICE_removed.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-25"
+    "scrapedAt": "2026-09-26"
   },
   {
     "id": "punjab-pau-project-assistant",
@@ -174,7 +299,7 @@
     "applyOnlineLink": "https://pau.edu/index.php?_act=manageVacancy&#038;DO=viewVacancyDetail&#038;intID=7574",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-25"
+    "scrapedAt": "2026-09-26"
   },
   {
     "id": "punjab-akashvani jalandhar-part-time-correspondent",
@@ -191,7 +316,7 @@
     "applyOnlineLink": "https://newsonair.gov.in/wp-content/uploads/2026/09/Jalandhar-8.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-25"
+    "scrapedAt": "2026-09-26"
   },
   {
     "id": "punjab-sainik school kapurthala-lab-assistant-ge",
@@ -208,7 +333,7 @@
     "applyOnlineLink": "https://sskapurthala.com/assets/Docu/news-event/GCP.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-25"
+    "scrapedAt": "2026-09-26"
   },
   {
     "id": "punjab-stpi-apprentice-trainee",
@@ -225,7 +350,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/stpi-apprentice-trainee-recruitment-2026/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-25",
+    "scrapedAt": "2026-09-26",
     "fees": [
       {
         "category": "Fee",
@@ -282,7 +407,7 @@
     "applyOnlineLink": "https://www.gadvasu.in/assests/uploads/images/01%20Group%20C%20post%20-%20Steno-Typist.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-25"
+    "scrapedAt": "2026-09-26"
   },
   {
     "id": "punjab-exim bank-business-development-officer",
@@ -299,7 +424,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/exim-bank-business-development-officer-recruitment-2026/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-25",
+    "scrapedAt": "2026-09-26",
     "fees": [
       {
         "category": "Fee",
@@ -345,7 +470,7 @@
     "applyOnlineLink": "https://www.gadvasu.in/assests/uploads/images/ADVT.%2004-2026.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-25"
+    "scrapedAt": "2026-09-26"
   },
   {
     "id": "punjab-central university of punjab-faculty",
@@ -362,7 +487,7 @@
     "applyOnlineLink": "https://cup.edu.in/sites/default/files/Contractual%20Faculty%2014_09_2026.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-25"
+    "scrapedAt": "2026-09-26"
   },
   {
     "id": "punjab-punjabi university patiala-law-officer",
@@ -379,7 +504,7 @@
     "applyOnlineLink": "https://www.punjabiuniversity.ac.in/Pages/SF/TQR/P188103F9.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-25"
+    "scrapedAt": "2026-09-26"
   },
   {
     "id": "punjab-gadvasu-steno-typist-clerk-storekeeper",
@@ -396,7 +521,7 @@
     "applyOnlineLink": "https://www.gadvasu.in/assests/uploads/images/01%20Group%20C%20post%20-%20Steno-Typist.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-25"
+    "scrapedAt": "2026-09-26"
   },
   {
     "id": "punjab-pserc-secretary-sr-private-secretary-private-secretary",
@@ -413,7 +538,7 @@
     "applyOnlineLink": "https://pserc.punjab.gov.in/pages/VC-78-2026-09.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-25"
+    "scrapedAt": "2026-09-26"
   },
   {
     "id": "punjab-pau-junior-research-fellow",
@@ -430,7 +555,7 @@
     "applyOnlineLink": "https://pau.edu/index.php?_act=manageVacancy&#038;DO=viewVacancyDetail&#038;intID=7566",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-25"
+    "scrapedAt": "2026-09-26"
   },
   {
     "id": "punjab-iim amritsar-research-assistant",
@@ -447,7 +572,7 @@
     "applyOnlineLink": "https://iimamritsar.ac.in/storage/files/1788960262-0-7771.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-25"
+    "scrapedAt": "2026-09-26"
   },
   {
     "id": "punjab-dasmesh girls college-principal",
@@ -464,7 +589,7 @@
     "applyOnlineLink": "https://facultyjobs.puchd.ac.in/advertisement",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-25"
+    "scrapedAt": "2026-09-26"
   },
   {
     "id": "punjab-gndu-junior-technician",
@@ -481,7 +606,7 @@
     "applyOnlineLink": "https://digital.gndu.ac.in/pdf/news/Advt._No._12_(2026)_20260820151330443.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-25"
+    "scrapedAt": "2026-09-26"
   },
   {
     "id": "punjab-nisst-technical-manager-technical-assistant-assistant",
@@ -498,7 +623,7 @@
     "applyOnlineLink": "https://nisst.org/wp-content/uploads/2026/09/Advertisement-modified-2026-for-4-posts.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-25"
+    "scrapedAt": "2026-09-26"
   },
   {
     "id": "punjab-punjab remote sensing centre-lab-attendant-clerk",
@@ -515,7 +640,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/prsc-recruitment-2026/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-25",
+    "scrapedAt": "2026-09-26",
     "fees": [
       {
         "category": "General",
@@ -599,7 +724,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/dlsa-sangrur-plv-recruitment-2026/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-25",
+    "scrapedAt": "2026-09-26",
     "fees": [
       {
         "category": "Fee",
@@ -649,6 +774,6 @@
     "applyOnlineLink": "https://pgimer.edu.in/PGIMER_PORTAL/PGIMERPORTAL/Vacancies/JSP/ViewAll.jsp?record=15445",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-09-25"
+    "scrapedAt": "2026-09-26"
   }
 ]

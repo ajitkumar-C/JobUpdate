@@ -1,5 +1,39 @@
 [
   {
+    "id": "puducherry-ptu-registrar",
+    "title": "PTU Recruitment 2026 – Registrar Posts",
+    "shortInfo": "PTU has announced notification for Registrar posts. Required qualification: Any Masters Degree. Last date to apply: 31-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "31-10-26",
+    "officialWebsite": "https://cms.ptuniv.edu.in/file_contents/news_attachments/notices/registrarRecruitment-Sep2026.pdf",
+    "notificationLink": "https://cms.ptuniv.edu.in/file_contents/news_attachments/notices/registrarRecruitment-Sep2026.pdf",
+    "applyOnlineLink": "https://cms.ptuniv.edu.in/file_contents/news_attachments/notices/registrarRecruitment-Sep2026.pdf",
+    "state": "Puducherry",
+    "stateCode": "puducherry",
+    "scrapedAt": "2026-09-27"
+  },
+  {
+    "id": "puducherry-income tax department tn and puducherry-stenographer-gr-i",
+    "title": "Income Tax Department TN and Puducherry Recruitment 2026 – Stenographer Gr.I Posts",
+    "shortInfo": "Income Tax Department TN and Puducherry has announced notification for Stenographer Gr.I posts. Required qualification: Any Graduate. Last date to apply: 30-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "146",
+    "lastDate": "30-10-26",
+    "officialWebsite": "https://tnincometax.gov.in/flash_news/MTMxMzMxMzE=",
+    "notificationLink": "https://tnincometax.gov.in/flash_news/MTMxMzMxMzE=",
+    "applyOnlineLink": "https://tnincometax.gov.in/flash_news/MTMxMzMxMzE=",
+    "state": "Puducherry",
+    "stateCode": "puducherry",
+    "scrapedAt": "2026-09-27"
+  },
+  {
     "id": "puducherry-jipmer-research-associate-iii",
     "title": "JIPMER Recruitment 2026 – Research Associate III Posts",
     "shortInfo": "JIPMER has announced notification for Research Associate III posts. Required qualification: PG Degree in Public Health (MPH)/M.Pharm, M.Sc or MS/MD/MDS/Ph.D. Last date to apply: 25-09-26.",
@@ -14,7 +48,7 @@
     "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/Advertisement%20for%20website_revised.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-09-26"
+    "scrapedAt": "2026-09-27"
   },
   {
     "id": "puducherry-jipmer-project-research-scientist-i",
@@ -31,7 +65,7 @@
     "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/Post_research%20scientist.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-09-26"
+    "scrapedAt": "2026-09-27"
   },
   {
     "id": "puducherry-jipmer-project-technical-support-iii",
@@ -48,7 +82,7 @@
     "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/Post_technical%20support.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-09-26"
+    "scrapedAt": "2026-09-27"
   },
   {
     "id": "puducherry-jipmer-project-nurse-iii",
@@ -65,7 +99,7 @@
     "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/Post_project%20nurse.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-09-26"
+    "scrapedAt": "2026-09-27"
   },
   {
     "id": "puducherry-jipmer-project-nurse",
@@ -82,7 +116,7 @@
     "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/Vacancy%20notification%20of%20PROJECT%20NURSE.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-09-26"
+    "scrapedAt": "2026-09-27"
   },
   {
     "id": "puducherry-pihmct-assistant-lecturer",
@@ -99,7 +133,7 @@
     "applyOnlineLink": "https://py.gov.in/sites/default/files/pihmct18082026rec.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-09-26"
+    "scrapedAt": "2026-09-27"
   },
   {
     "id": "puducherry-pihmct-assistant-lecturer",
@@ -116,7 +150,7 @@
     "applyOnlineLink": "https://py.gov.in/sites/default/files/pihmct18082026rec.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-09-26"
+    "scrapedAt": "2026-09-27"
   },
   {
     "id": "puducherry-southern railway-act-apprentices",
@@ -133,7 +167,7 @@
     "applyOnlineLink": "https://sronline.etrpindia.com/rrcchennaiapprentice26/recruitmentIndex",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-09-26",
+    "scrapedAt": "2026-09-27",
     "fees": [
       {
         "category": "General/OBC/EWS",

@@ -7,7 +7,7 @@ import { AdminPanel } from './components/AdminPanel';
 import { MOCK_JOBS, DEFAULT_CATEGORIES } from './mockData';
 import type { JobPost, Category } from './types';
 import { Shield, Sparkles, X } from 'lucide-react';
-import { AboutUs, ContactUs, Disclaimer, PrivacyPolicy } from './components/StaticPages';
+import { AboutUs, ContactUs, Disclaimer, PrivacyPolicy, TermsOfService } from './components/StaticPages';
 import { StateDirectory } from './components/StateDirectory';
 import { StateJobs } from './components/StateJobs';
 import { BlogDirectory } from './components/BlogDirectory';
@@ -79,7 +79,7 @@ export const App: React.FC = () => {
   const [searchTerm, setSearchTerm] = useState('');
   const [theme, setTheme] = useState<'light' | 'dark'>('light');
   const [showAdminButton, setShowAdminButton] = useState(false);
-  const [currentView, setCurrentView] = useState<'home' | 'about' | 'contact' | 'disclaimer' | 'privacy' | 'state-directory' | 'state-view' | 'blog-directory' | 'blog-view' | 'tool-resizer' | 'tool-age'>('home');
+  const [currentView, setCurrentView] = useState<'home' | 'about' | 'contact' | 'disclaimer' | 'privacy' | 'terms' | 'state-directory' | 'state-view' | 'blog-directory' | 'blog-view' | 'tool-resizer' | 'tool-age'>('home');
   const [selectedStateCode, setSelectedStateCode] = useState<string | null>(null);
   const [selectedCategoryCode, setSelectedCategoryCode] = useState<string | null>(null);
   const [selectedBlogId, setSelectedBlogId] = useState<string | null>(null);
@@ -87,7 +87,7 @@ export const App: React.FC = () => {
 
   // --- Zero-Dependency Router Helper ---
   const navigateTo = (
-    view: 'home' | 'about' | 'contact' | 'disclaimer' | 'privacy' | 'state-directory' | 'state-view' | 'blog-directory' | 'blog-view' | 'tool-resizer' | 'tool-age',
+    view: 'home' | 'about' | 'contact' | 'disclaimer' | 'privacy' | 'terms' | 'state-directory' | 'state-view' | 'blog-directory' | 'blog-view' | 'tool-resizer' | 'tool-age',
     categoryCode: string | null,
     jobId: string | null,
     admin: boolean,
@@ -186,7 +186,7 @@ export const App: React.FC = () => {
       } else {
         setCurrentView('tool-resizer');
       }
-    } else if (['about', 'contact', 'disclaimer', 'privacy'].includes(segments[0])) {
+    } else if (['about', 'contact', 'disclaimer', 'privacy', 'terms'].includes(segments[0])) {
       setCurrentView(segments[0] as any);
       setSelectedStateCode(null);
       setSelectedJobId(null);
@@ -653,6 +653,8 @@ export const App: React.FC = () => {
           <Disclaimer />
         ) : currentView === 'privacy' ? (
           <PrivacyPolicy />
+        ) : currentView === 'terms' ? (
+          <TermsOfService />
         ) : currentView === 'blog-directory' ? (
           <BlogDirectory onSelectPost={(id) => navigateTo('blog-view', null, null, false, null, id)} />
         ) : currentView === 'blog-view' && selectedBlogId ? (
@@ -774,6 +776,7 @@ export const App: React.FC = () => {
           <a href="/contact" onClick={(e) => { e.preventDefault(); navigateTo('contact', null, null, false); window.scrollTo(0, 0); }}>Contact</a>
           <a href="/disclaimer" onClick={(e) => { e.preventDefault(); navigateTo('disclaimer', null, null, false); window.scrollTo(0, 0); }}>Disclaimer</a>
           <a href="/privacy" onClick={(e) => { e.preventDefault(); navigateTo('privacy', null, null, false); window.scrollTo(0, 0); }}>Privacy Policy</a>
+          <a href="/terms" onClick={(e) => { e.preventDefault(); navigateTo('terms', null, null, false); window.scrollTo(0, 0); }}>Terms of Service</a>
           <a href="/state-jobs" onClick={(e) => { e.preventDefault(); navigateTo('state-directory', null, null, false); window.scrollTo(0, 0); }}>🌏 State Jobs</a>
         </div>
         <p>© 2026 Sarkari Aavedan (सरकारी आवेदन). All Rights Reserved.</p>
@@ -961,6 +964,9 @@ export const App: React.FC = () => {
                   </li>
                   <li>
                     <button className="drawer-item" onClick={() => { navigateTo('privacy', null, null, false); window.scrollTo(0, 0); }}>Privacy Policy</button>
+                  </li>
+                  <li>
+                    <button className="drawer-item" onClick={() => { navigateTo('terms', null, null, false); window.scrollTo(0, 0); }}>Terms of Service</button>
                   </li>
                 </ul>
               </div>

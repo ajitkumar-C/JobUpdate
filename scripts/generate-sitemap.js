@@ -14,6 +14,7 @@ const staticPages = [
   'contact',
   'disclaimer',
   'privacy',
+  'terms',
   'blog',
   'state-jobs',
   'tools/image-resizer',

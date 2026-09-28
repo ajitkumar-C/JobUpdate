@@ -159,6 +159,69 @@ export function prerender() {
     </main>`
   );
 
+  // 3. Static Legal & Informational Pages
+  console.log('📜 Pre-rendering static legal & informational pages (terms, privacy, disclaimer, about, contact)...');
+  const staticLegalPages = [
+    {
+      slug: 'terms',
+      title: 'Terms of Service - Sarkari Aavedan (सरकारी आवेदन)',
+      description: 'Review the Terms of Service for Sarkari Aavedan. Understand user guidelines, informational disclaimer, intellectual property, and acceptable usage.',
+      h1: 'Terms of Service / सेवा की शर्तें',
+      content: '<p>Rules, user agreements, and service guidelines for Sarkari Aavedan. We are an independent private educational and informational portal providing verified government job alerts.</p>'
+    },
+    {
+      slug: 'privacy',
+      title: 'Privacy Policy - Sarkari Aavedan (सरकारी आवेदन)',
+      description: 'Read the Privacy Policy of Sarkari Aavedan. Learn how we handle cookies, log files, third-party redirects, and ensure visitor privacy.',
+      h1: 'Privacy Policy / गोपनीयता नीति',
+      content: '<p>At Sarkari Aavedan, accessible from sarkariavedan.info, one of our main priorities is the privacy of our visitors. Learn how we handle cookies and candidate data.</p>'
+    },
+    {
+      slug: 'disclaimer',
+      title: 'Disclaimer - Sarkari Aavedan (सरकारी आवेदन)',
+      description: 'Read the official disclaimer for Sarkari Aavedan. We are an independent educational aggregator not affiliated with any government department.',
+      h1: 'Disclaimer / अस्वीकरण',
+      content: '<p>Sarkari Aavedan is an independent private educational and informational resource. We are not associated, affiliated, or sponsored by any government department or recruiting agency.</p>'
+    },
+    {
+      slug: 'about',
+      title: 'About Us - Sarkari Aavedan (सरकारी आवेदन)',
+      description: 'Learn about Sarkari Aavedan, India\'s trusted government job update and exam notification portal.',
+      h1: 'About Us / हमारे बारे में',
+      content: '<p>Sarkari Aavedan is India\'s premier bilingual portal providing real-time alerts for the latest government jobs, exam results, admit cards, and admissions.</p>'
+    },
+    {
+      slug: 'contact',
+      title: 'Contact Us - Sarkari Aavedan (सरकारी आवेदन)',
+      description: 'Contact the Sarkari Aavedan editorial and support team for queries, corrections, or recruitment announcements.',
+      h1: 'Contact Us / संपर्क करें',
+      content: '<p>Have queries regarding a job update, advertisement listings, or suggestions? Feel free to contact our support team at ac962017@gmail.com.</p>'
+    }
+  ];
+
+  staticLegalPages.forEach(p => {
+    writePrerenderedPage(
+      p.slug,
+      {
+        title: p.title,
+        description: p.description,
+        canonical: `${BASE_URL}/${p.slug}`,
+        image: `${BASE_URL}/logos/og_banner.png`
+      },
+      {
+        '@context': 'https://schema.org',
+        '@type': 'WebPage',
+        'name': p.title,
+        'description': p.description,
+        'url': `${BASE_URL}/${p.slug}`
+      },
+      `<main style="max-width: 900px; margin: 2rem auto; padding: 1.5rem; font-family: sans-serif; line-height: 1.6; color: #1e293b;">
+        <h1 style="font-size: 1.8rem; font-weight: 800; margin-bottom: 1rem;">${p.h1}</h1>
+        ${p.content}
+      </main>`
+    );
+  });
+
   function getCategoryActionLabel(category) {
     const cat = (category || '').toLowerCase();
     if (cat.includes('answer key') || cat.includes('key')) return 'Answer Key';

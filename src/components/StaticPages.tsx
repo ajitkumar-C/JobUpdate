@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Mail, ShieldCheck, HelpCircle, FileText, Send, CheckCircle2 } from 'lucide-react';
+import { Mail, ShieldCheck, HelpCircle, FileText, Send, CheckCircle2, Scale } from 'lucide-react';
 
 // --- ABOUT US COMPONENT ---
 export const AboutUs: React.FC = () => {
@@ -250,6 +250,85 @@ export const PrivacyPolicy: React.FC = () => {
         <h3 style={{ color: 'var(--text-primary)', marginTop: '2rem', marginBottom: '0.75rem', fontWeight: 700 }}>Consent</h3>
         <p>
           By using our website, you hereby consent to our Privacy Policy and agree to its terms. If you have questions regarding this policy, please reach out to us at <a href="mailto:ac962017@gmail.com" style={{ color: 'var(--primary)', textDecoration: 'none' }}>ac962017@gmail.com</a>.
+        </p>
+      </div>
+    </div>
+  );
+};
+
+// --- TERMS OF SERVICE COMPONENT ---
+export const TermsOfService: React.FC = () => {
+  return (
+    <div className="card" style={{ maxWidth: '800px', margin: '2rem auto', padding: '2.5rem' }}>
+      <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', marginBottom: '1.5rem', borderBottom: '1px solid var(--border)', paddingBottom: '1rem' }}>
+        <Scale size={32} style={{ color: 'var(--primary)' }} />
+        <div>
+          <h1 style={{ fontSize: '1.8rem', fontWeight: 800, margin: 0 }}>Terms of Service / सेवा की शर्तें</h1>
+          <p style={{ margin: 0, color: 'var(--text-muted)', fontSize: '0.9rem' }}>Rules, user agreements, and service guidelines</p>
+        </div>
+      </div>
+
+      <div style={{ lineHeight: 1.7, color: 'var(--text-muted)' }}>
+        <p style={{ color: 'var(--text-primary)', fontSize: '1.05rem', fontWeight: 500 }}>
+          Welcome to <strong>Sarkari Aavedan (सरकारी आवेदन)</strong> (accessible at <a href="https://sarkariavedan.info" style={{ color: 'var(--primary)', textDecoration: 'none' }}>sarkariavedan.info</a>). By accessing or using our website, services, and online utility tools, you agree to comply with and be bound by the following Terms of Service. Please read them carefully.
+        </p>
+
+        <h3 style={{ color: 'var(--text-primary)', marginTop: '2rem', marginBottom: '0.75rem', fontWeight: 700 }}>1. Acceptance of Terms</h3>
+        <p>
+          By browsing, visiting, or utilizing any resources on Sarkari Aavedan, you signify your agreement to these Terms of Service, our Privacy Policy, and our Disclaimer. If you do not agree with any part of these terms, please discontinue use of this website immediately.
+        </p>
+
+        <h3 style={{ color: 'var(--text-primary)', marginTop: '2rem', marginBottom: '0.75rem', fontWeight: 700 }}>2. Nature of Service & Non-Affiliation</h3>
+        <p>
+          Sarkari Aavedan is an independent educational, career guidance, and informational news aggregator. <strong>We are NOT an official government website, nor are we associated, endorsed, affiliated, or sponsored by any central or state government body, ministry, or recruiting commission.</strong>
+        </p>
+        <p>
+          All examination notices, syllabus summaries, admit card schedules, and answer keys are aggregated from publicly available official gazettes, press releases, official recruiting portals (e.g. upsc.gov.in, ssc.gov.in, indianrailways.gov.in), and Employment News.
+        </p>
+
+        <h3 style={{ color: 'var(--text-primary)', marginTop: '2rem', marginBottom: '0.75rem', fontWeight: 700 }}>3. Informational Purpose & Candidate Responsibility</h3>
+        <p>
+          While we make every effort to publish accurate, verified, and timely notifications, recruitment rules, eligibility conditions, fees, and dates may change without prior notice as per recruiting authorities' discretion. 
+        </p>
+        <p>
+          <strong>Candidates are strictly advised to review the official notification PDF and verify all guidelines directly on the respective authority's official domain before applying or submitting any application fee.</strong> Sarkari Aavedan shall not be held liable for any inaccuracies, inadvertent typographical errors, or missed deadlines.
+        </p>
+
+        <h3 style={{ color: 'var(--text-primary)', marginTop: '2rem', marginBottom: '0.75rem', fontWeight: 700 }}>4. No Fees Charged</h3>
+        <p>
+          Sarkari Aavedan provides its recruitment information, study roadmaps, syllabus breakdowns, and career resources completely <strong>free of charge</strong>. We never demand application fees, processing charges, or recruitment payments directly from job seekers. All application fees must be paid solely via official government payment gateways.
+        </p>
+
+        <h3 style={{ color: 'var(--text-primary)', marginTop: '2rem', marginBottom: '0.75rem', fontWeight: 700 }}>5. Intellectual Property & Acceptable Use</h3>
+        <p>
+          The layout, design, custom text, software code, and graphics on Sarkari Aavedan are the intellectual property of Sarkari Aavedan unless otherwise stated. Official logos, trademarks, and emblems belonging to government bodies remain the property of their respective departments and are used solely under fair-use for identification and informational purposes.
+        </p>
+        <p>
+          You agree not to copy, duplicate, scrape, reverse-engineer, or commercially exploit any content from this website without prior written permission.
+        </p>
+
+        <h3 style={{ color: 'var(--text-primary)', marginTop: '2rem', marginBottom: '0.75rem', fontWeight: 700 }}>6. Online Tools & Privacy</h3>
+        <p>
+          Our utility tools (such as the Photo & Signature Resizer and Age Calculator) operate entirely on client-side browser technology. We do not store, upload, or transmit your photographs, signatures, or personal data to our servers.
+        </p>
+
+        <h3 style={{ color: 'var(--text-primary)', marginTop: '2rem', marginBottom: '0.75rem', fontWeight: 700 }}>7. External Links</h3>
+        <p>
+          Our pages contain hyperlinks directing you to external third-party websites for online applications, admit card downloads, and official notifications. We do not control or endorse the content, policies, or practices of external portals.
+        </p>
+
+        <h3 style={{ color: 'var(--text-primary)', marginTop: '2rem', marginBottom: '0.75rem', fontWeight: 700 }}>8. Changes to Terms</h3>
+        <p>
+          We reserve the right to revise or update these Terms of Service at any time. Any changes will become effective immediately upon posting on this page. Your continued use of the website following any modifications constitutes acceptance of the new terms.
+        </p>
+
+        <h3 style={{ color: 'var(--text-primary)', marginTop: '2rem', marginBottom: '0.75rem', fontWeight: 700 }}>9. Contact & Grievances</h3>
+        <p>
+          If you have any questions, feedback, or grievance regarding these Terms of Service, please contact our support team at:
+        </p>
+        <p style={{ marginTop: '0.5rem' }}>
+          <strong>Email:</strong> <a href="mailto:ac962017@gmail.com" style={{ color: 'var(--primary)', textDecoration: 'none' }}>ac962017@gmail.com</a><br />
+          <strong>Website:</strong> <a href="https://sarkariavedan.info" style={{ color: 'var(--primary)', textDecoration: 'none' }}>https://sarkariavedan.info</a>
         </p>
       </div>
     </div>

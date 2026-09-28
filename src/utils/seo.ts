@@ -407,8 +407,11 @@ export function updateSEO(
       document.head.appendChild(breadcrumbScript);
 
     } else {
-      // C2. Static Content Pages (About, Contact, Disclaimer, Privacy)
-      const formattedPageName = pageName.charAt(0).toUpperCase() + pageName.slice(1);
+      // C2. Static Content Pages (About, Contact, Disclaimer, Privacy, Terms)
+      let formattedPageName = pageName.charAt(0).toUpperCase() + pageName.slice(1);
+      if (pageName === 'terms') {
+        formattedPageName = 'Terms of Service';
+      }
       finalTitle = `${formattedPageName} - Sarkari Aavedan (सरकारी आवेदन)`;
       finalDesc = `${formattedPageName} details, trust credentials, information sources, and candidate assistance tools on Sarkari Aavedan.`;
       canonicalUrl = `https://sarkariavedan.info/${pageName}`;
@@ -421,6 +424,9 @@ export function updateSEO(
       } else if (pageName === 'contact') {
         pageSchemaType = 'ContactPage';
         finalKeywords = 'contact details, customer support email, technical assistance, support hours sarkari aavedan';
+      } else if (pageName === 'terms') {
+        finalKeywords = 'terms of service, user agreement, terms and conditions, legal disclaimer, usage policy, sarkari aavedan terms';
+        finalDesc = 'Review the Terms of Service for Sarkari Aavedan. Understand user guidelines, informational disclaimer, intellectual property, and acceptable usage.';
       } else {
         finalKeywords = 'privacy guidelines, disclaimer notice, third party redirect warning, data policy';
       }

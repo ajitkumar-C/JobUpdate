@@ -14,7 +14,7 @@
     "applyOnlineLink": "https://cms.ptuniv.edu.in/file_contents/news_attachments/notices/registrarRecruitment-Sep2026.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-09-27"
+    "scrapedAt": "2026-09-28"
   },
   {
     "id": "puducherry-income tax department tn and puducherry-stenographer-gr-i",
@@ -27,11 +27,47 @@
     "vacancies": "146",
     "lastDate": "30-10-26",
     "officialWebsite": "https://tnincometax.gov.in/flash_news/MTMxMzMxMzE=",
-    "notificationLink": "https://tnincometax.gov.in/flash_news/MTMxMzMxMzE=",
-    "applyOnlineLink": "https://tnincometax.gov.in/flash_news/MTMxMzMxMzE=",
+    "notificationLink": "https://govtjobguru.in/wp-content/uploads/2026/09/Income-Tax-TN-and-Puducherry-Stenographer-Recruitment-2026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/income-tax-tn-and-puducherry-stenographer-recruitment-2026/",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-09-27"
+    "scrapedAt": "2026-09-28",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Vacancy Circular Date",
+        "date": "03/09/2026"
+      },
+      {
+        "event": "Last Date for Receipt of Application",
+        "date": "30/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Stenographer Grade I",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Eligible candidates should fill the prescribed proforma application.",
+      "Attach Photo copies of APARs for the last five years duly attested (with stamp) on each page by an officer not below the rank of Under Secretary to the Govt. of India or equivalent, including NRC.",
+      "Attach Integrity Certificate.",
+      "Attach Vigilance Clearance Certificate.",
+      "Attach Major/Minor penalty statement for the last 10 years.",
+      "Attach Cadre Clearance incorporating that in the event of selection, the candidate will be relieved to join the post of Stenographer Gr.I in Income Tax Department on deputation basis.",
+      "Send the application through proper channel (Head of Office/Department must verify and certify eligibility criteria).",
+      "Applications to be addressed to: Commissioner of Income Tax (Admin &amp; TPS), O/o Pr. CCIT, Tamil Nadu &amp; Puducherry, Ponni Block, 121, Mahatma Gandhi Road, Nungambakkam, Chennai-600034.",
+      "Applications must reach on or before 30-10-2026."
+    ]
   },
   {
     "id": "puducherry-jipmer-research-associate-iii",
@@ -48,7 +84,7 @@
     "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/Advertisement%20for%20website_revised.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-09-27"
+    "scrapedAt": "2026-09-28"
   },
   {
     "id": "puducherry-jipmer-project-research-scientist-i",
@@ -65,7 +101,7 @@
     "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/Post_research%20scientist.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-09-27"
+    "scrapedAt": "2026-09-28"
   },
   {
     "id": "puducherry-jipmer-project-technical-support-iii",
@@ -82,7 +118,7 @@
     "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/Post_technical%20support.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-09-27"
+    "scrapedAt": "2026-09-28"
   },
   {
     "id": "puducherry-jipmer-project-nurse-iii",
@@ -99,7 +135,7 @@
     "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/Post_project%20nurse.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-09-27"
+    "scrapedAt": "2026-09-28"
   },
   {
     "id": "puducherry-jipmer-project-nurse",
@@ -116,7 +152,7 @@
     "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/Vacancy%20notification%20of%20PROJECT%20NURSE.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-09-27"
+    "scrapedAt": "2026-09-28"
   },
   {
     "id": "puducherry-pihmct-assistant-lecturer",
@@ -133,7 +169,7 @@
     "applyOnlineLink": "https://py.gov.in/sites/default/files/pihmct18082026rec.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-09-27"
+    "scrapedAt": "2026-09-28"
   },
   {
     "id": "puducherry-pihmct-assistant-lecturer",
@@ -150,7 +186,7 @@
     "applyOnlineLink": "https://py.gov.in/sites/default/files/pihmct18082026rec.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-09-27"
+    "scrapedAt": "2026-09-28"
   },
   {
     "id": "puducherry-southern railway-act-apprentices",
@@ -167,7 +203,7 @@
     "applyOnlineLink": "https://sronline.etrpindia.com/rrcchennaiapprentice26/recruitmentIndex",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-09-27",
+    "scrapedAt": "2026-09-28",
     "fees": [
       {
         "category": "General/OBC/EWS",

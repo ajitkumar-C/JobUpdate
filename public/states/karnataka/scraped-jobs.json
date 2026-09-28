@@ -2284,100 +2284,105 @@
   {
     "id": "karnataka-beml-cgm-gm-am-agm-dgm-engineer",
     "title": "BEML Recruitment 2026 – CGM, GM, AM, AGM, DGM, Engineer Posts",
-    "shortInfo": "BEML has announced notification for CGM, GM, AM, AGM, DGM, Engineer posts. Required qualification: Update Soon. Last date to apply: Notified.",
+    "shortInfo": "BEML has announced notification for CGM, GM, AM, AGM, DGM, Engineer posts. Required qualification: Degree in Engineering. Last date to apply: 07-10-26.",
     "category": "Others",
     "categoryIcon": "🏢",
     "categoryMarathi": "Others",
     "district": "State Level",
     "vacancies": "13",
-    "lastDate": "Notified",
-    "officialWebsite": "https://govtjobguru.in/jobs/beml-manager-engineer-recruitment-2026/",
-    "notificationLink": "https://www.bemlindia.in",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/beml-manager-engineer-recruitment-2026/",
+    "lastDate": "07-10-26",
+    "officialWebsite": "https://www.bemlindia.in",
+    "notificationLink": "https://bemlindia.in/wp-content/plugins/career/WCP/DATA//Writereaddata/Career/KPS152026_25_09_2026.pdf",
+    "applyOnlineLink": "https://beml.registrationform.in/secuRegister_15oF2026veR28/",
     "state": "Karnataka",
     "stateCode": "karnataka",
     "scrapedAt": "2026-09-28",
-    "fees": [],
+    "fees": [
+      {
+        "category": "GEN/EWS/OBC",
+        "fee": "Rs. 500/-"
+      },
+      {
+        "category": "SC/ST/PwD",
+        "fee": "Nil (Exempted)"
+      }
+    ],
     "dates": [
       {
         "event": "Advertisement Date",
         "date": "04/09/2026"
       },
       {
-        "event": "Starting Date for Apply Online (Update Soon)",
-        "date": ""
-      },
-      {
-        "event": "Closing Date for Apply Online (Update Soon)",
-        "date": ""
+        "event": "Last Date to Apply Online",
+        "date": "07/10/2026"
       }
     ],
     "vacancyList": [
       {
-        "postName": "CGM (Gr IX) - Head Futuristic Product Innovation and Incubation Centre (FPI&IC)",
+        "postName": "Chief General Manager (Gr-IX) - Head Futuristic Product Innovation and Incubation Centre (FPI&IC)",
         "count": "",
         "qualification": "",
         "ageLimit": "",
         "payScale": ""
       },
       {
-        "postName": "CGM (Gr IX) - Rolling Stock Manufacturing",
+        "postName": "Chief General Manager (Gr-IX) - Rolling Stock Manufacturing",
         "count": "",
         "qualification": "",
         "ageLimit": "",
         "payScale": ""
       },
       {
-        "postName": "GM (Gr VIII) - Metro Business Development",
+        "postName": "General Manager (Gr-VIII) - Metro Business Development",
         "count": "",
         "qualification": "",
         "ageLimit": "",
         "payScale": ""
       },
       {
-        "postName": "DGM (Gr VII) - Engine Design",
+        "postName": "Deputy General Manager (Gr-VII) - Engine Design",
         "count": "",
         "qualification": "",
         "ageLimit": "",
         "payScale": ""
       },
       {
-        "postName": "DGM (Gr VII) - Engine Testing and Calibration",
+        "postName": "Deputy General Manager (Gr-VII) - Engine Testing and Calibration",
         "count": "",
         "qualification": "",
         "ageLimit": "",
         "payScale": ""
       },
       {
-        "postName": "AGM (Gr VI) - Rollingstock Project/Contract Management",
+        "postName": "Assistant General Manager (Gr-VI) - Project/Contract Management",
         "count": "",
         "qualification": "",
         "ageLimit": "",
         "payScale": ""
       },
       {
-        "postName": "AM (Gr III) - Rollingstock Bogie",
+        "postName": "Assistant Manager R&D (Grade-III) - Rolling Stock Bogie",
         "count": "",
         "qualification": "",
         "ageLimit": "",
         "payScale": ""
       },
       {
-        "postName": "AM (Gr III) - Rollingstock Air Supply & Brake System",
+        "postName": "Assistant Manager R&D (Grade-III) - Rolling Stock Air Supply & Brake System",
         "count": "",
         "qualification": "",
         "ageLimit": "",
         "payScale": ""
       },
       {
-        "postName": "Engineer (Gr II) - Rolling Stock Doors System",
+        "postName": "Engineer R&D (Grade-II) - Rolling Stock Doors",
         "count": "",
         "qualification": "",
         "ageLimit": "",
         "payScale": ""
       },
       {
-        "postName": "Engineer (Gr II) - Rollingstock CRASH Simulation",
+        "postName": "Engineer (Grade-II) - Rolling Stock CRASH Simulation",
         "count": "",
         "qualification": "",
         "ageLimit": "",
@@ -2385,11 +2390,16 @@
       }
     ],
     "howToApply": [
-      "Visit the BEML official website at www.bemlindia.in.",
-      "Navigate to the Career page on the website.",
-      "Read the detailed advertisement carefully.",
-      "Complete the online registration process as per the instructions provided.",
-      "Submit the application form before the last date."
+      "Candidates are required to apply ONLINE only at www.bemlindia.in (Career Page).",
+      "The online registration site is available till 18.00 Hrs on 07.10.2026.",
+      "Candidates must have a valid e-mail ID and mobile number for registration.",
+      "Note the ‘Registration number’ generated for all future correspondences.",
+      "Fill in the experience section starting with the latest experience, providing a pen picture (minimum 150 words) relevant to the position applied for.",
+      "Upload all required documents: X-th Marks card &amp; SSLC, XII-th Marks card, Qualifying Degree Certificate &amp; Marks cards, Post-Graduation documents (mandatory for job code 101), Government-issued Identity card, Detailed Resume, Category certificates (OBC/EWS/SC/ST/PwD as applicable), All Experience Certificates, Latest pay-slip, Current reporting structure (for DGM/GM/CGM positions), Company credentials proving turnover (for GM &amp; CGM candidates).",
+      "Eligible GEN/EWS/OBC candidates (not SC/ST/PwD) must pay a non-refundable application fee of Rs.500/- online.",
+      "Candidates from Central/State Government, Autonomous bodies, Quasi-Government and PSU should forward application through proper channel within 10 days from closing date to: Sr. Manager, Recruitment Cell, BEML Soudha, BEML Limited, 23/1, 4th Main, S.R. Nagar, Bengaluru 560027, OR produce a No Objection Certificate at the time of assessment.",
+      "For queries, e-mail: recruitment@bemlltd.in",
+      ""
     ]
   },
   {

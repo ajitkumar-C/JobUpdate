@@ -1,5 +1,88 @@
 [
   {
+    "id": "kerala-isro lpsc-scientist-engineer-sc",
+    "title": "ISRO LPSC Recruitment 2026 – Scientist Engineer-SC Posts",
+    "shortInfo": "ISRO LPSC has announced notification for Scientist Engineer-SC posts. Required qualification: B.E./B.Tech, M.E./M.Tech. Last date to apply: 13-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "3",
+    "lastDate": "13-10-26",
+    "officialWebsite": "https://www.lpsc.gov.in/",
+    "notificationLink": "https://www.lpsc.gov.in/docs/03-2026%20-%20Detailed%20Bilingual.pdf",
+    "applyOnlineLink": "https://apps.lpsc.gov.in/commonC/advt.jsp",
+    "state": "Kerala",
+    "stateCode": "kerala",
+    "scrapedAt": "2026-09-29",
+    "fees": [
+      {
+        "category": "Female / SC / ST / PWBD / Ex-Servicemen (Fee Exempted &ndash; Full Refund)",
+        "fee": "₹750/- (Full refund after appearing in written test)"
+      },
+      {
+        "category": "General / OBC / EWS (Other Candidates &ndash; Partial Refund)",
+        "fee": "₹750/- (₹500/- refunded after retaining ₹250/- as application fee, on appearing in written test)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "26/09/2026"
+      },
+      {
+        "event": "Online Application Registration Opens",
+        "date": "29/09/2026"
+      },
+      {
+        "event": "Online Application Registration Closes",
+        "date": "13/10/2026"
+      },
+      {
+        "event": "Payment of Application Fee Closes",
+        "date": "14/10/2026"
+      },
+      {
+        "event": "Qualification Possession Cutoff Date / Age Limit Cutoff Date",
+        "date": "13/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Scientist Engineer-SC (Welding) &ndash; Post No. 820",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist Engineer-SC (Turbo Machinery) &ndash; Post No. 821",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Scientist Engineer-SC (Power Electronics) &ndash; Post No. 822",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the LPSC online recruitment portal available from 1400 hrs on 29.09.2026 to 1400 hrs on 13.10.2026.",
+      "Register online and fill in the application form with complete and correct information.",
+      "Upload a recent passport-size photograph in JPG/JPEG format (max 40 KB, 95&ndash;100 pixels height and width).",
+      "Upload certificates/mark sheets pertaining to the prescribed essential qualifications.",
+      "Candidates belonging to fee-exempted categories (SC/ST/Disability/Ex-Servicemen) must upload applicable certificates for fee refund.",
+      "Pay the application fee of ₹750/- online immediately after submitting the application or latest by 1400 hrs on 14.10.2026 using the ‘Make Payment’ option on the portal.",
+      "Note down the online registration number for future reference.",
+      "No documents (printouts, certificates, payment receipts, etc.) need to be sent to LPSC after successful online registration.",
+      "Candidates intending to apply for more than one post must submit separate applications for each post."
+    ]
+  },
+  {
     "id": "kerala-cusat-technical-assistant",
     "title": "CUSAT Recruitment 2026 – Technical Assistant Posts",
     "shortInfo": "CUSAT has announced notification for Technical Assistant posts. Required qualification: Any Graduate, Diploma. Last date to apply: 26-10-26.",

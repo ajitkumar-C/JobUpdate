@@ -806,7 +806,7 @@
     "lastDate": "Update",
     "officialWebsite": "https://jssc.jharkhand.gov.in/",
     "notificationLink": "https://jssc.jharkhand.gov.in/sites/default/files/Brochure%20Backlog%20Vacancy%20JTAACCE-2026%20(Para%20Teacher).pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/jssc-jtaacce-para-teacher-recruitment-2026/",
+    "applyOnlineLink": "https://jsscjtaacce.ibtexamination.com/",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
     "scrapedAt": "2026-09-29",
@@ -822,20 +822,16 @@
     ],
     "dates": [
       {
-        "event": "Start of online registration and application filling (Postponed)",
-        "date": ""
+        "event": "Start of online registration and application filling",
+        "date": "29/09/2026"
       },
       {
         "event": "Last date for registration and filling application details",
-        "date": ""
-      },
-      {
-        "event": "Last date for exam fee payment",
-        "date": ""
+        "date": "18/10/2026"
       },
       {
         "event": "Last date to upload photo/signature and take printout",
-        "date": ""
+        "date": "22/10/2026"
       }
     ],
     "vacancyList": [

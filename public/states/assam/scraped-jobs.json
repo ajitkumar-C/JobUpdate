@@ -1,5 +1,143 @@
 [
   {
+    "id": "assam-iocl bongaigaon-apprentice",
+    "title": "IOCL Bongaigaon Recruitment 2026 – Apprentice Posts",
+    "shortInfo": "IOCL Bongaigaon has announced notification for Apprentice posts. Required qualification: B.Sc, Diploma. Last date to apply: 18-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "58",
+    "lastDate": "18-10-26",
+    "officialWebsite": "https://www.iocl.com",
+    "notificationLink": "https://iocl.com/admin/img/Apprenticeships/Files/2794684a49d74953b8c77e6d21379c23.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/iocl-bongaigaon-refinery-apprentice-recruitment-2026/",
+    "state": "Assam",
+    "stateCode": "assam",
+    "scrapedAt": "2026-09-29",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening of Online Application (NAPS/NATS & Microsoft Forms)",
+        "date": "28/09/2026"
+      },
+      {
+        "event": "Last Date of Submission of Online Application (NAPS/NATS & Microsoft Forms)",
+        "date": "18/10/2026"
+      },
+      {
+        "event": "Tentative Date of Document Verification (04th to 06th November 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Trade Apprentice - Attendant Operator (Chemical Plant) [Code 101]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice (Boiler) [Code 103]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Instrumentation [Code 107]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the IOCL official website at www.iocl.com from 28.09.2026.",
+      "Step I: For Post Codes 101 &amp; 103, register on NAPS portal at https://apprenticeshipindia.gov.in/. For Post Code 107, register on NATS portal at https://nats.education.gov.in. Apply for the relevant apprenticeship opportunity using the Establishment ID for Bongaigaon Refinery (NATS: EASCHC000001, NAPS: E07191800001).",
+      "Ensure your NAPS/NATS profile is 100% correctly updated with personal details, educational details, category, and aggregate percentage.",
+      "Step II: After applying on NAPS/NATS portal, mandatorily fill in additional details on Microsoft Forms by visiting the link at www.iocl.com. The form opens at 10:00 hours on 28.09.2026 and closes at 17:00 hours on 18.10.2026.",
+      "Ensure the same e-mail ID and mobile number are used in both NAPS/NATS portal and Microsoft Forms.",
+      "Both Step I and Step II must be completed for a valid application. Submission at only one step will result in rejection.",
+      "Candidates can apply for only one trade/discipline of their choice.",
+      ""
+    ]
+  },
+  {
+    "id": "assam-iit guwahati-jrf",
+    "title": "IIT Guwahati Recruitment 2026 – JRF Posts",
+    "shortInfo": "IIT Guwahati has announced notification for JRF posts. Required qualification: B.Tech/B.E. Last date to apply: 29-09-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "29-09-26",
+    "officialWebsite": "https://www.iitg.ac.in/pdf/e5386ff9d5e256beca296536c1746f8d.pdf",
+    "notificationLink": "https://www.iitg.ac.in/pdf/e5386ff9d5e256beca296536c1746f8d.pdf",
+    "applyOnlineLink": "https://www.iitg.ac.in/pdf/e5386ff9d5e256beca296536c1746f8d.pdf",
+    "state": "Assam",
+    "stateCode": "assam",
+    "scrapedAt": "2026-09-29"
+  },
+  {
+    "id": "assam-aiims guwahati-project-associate-i",
+    "title": "AIIMS Guwahati Recruitment 2026 – Project Associate I Posts",
+    "shortInfo": "AIIMS Guwahati has announced notification for Project Associate I posts. Required qualification: M.Sc. Last date to apply: 08-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "08-10-26",
+    "officialWebsite": "https://aiimsguwahati.in/viewfile.aspx?fname=8486cd23.pdf&#038;ftype=pdf&#038;rdoctype=cms",
+    "notificationLink": "https://aiimsguwahati.in/viewfile.aspx?fname=8486cd23.pdf&#038;ftype=pdf&#038;rdoctype=cms",
+    "applyOnlineLink": "https://aiimsguwahati.in/viewfile.aspx?fname=8486cd23.pdf&#038;ftype=pdf&#038;rdoctype=cms",
+    "state": "Assam",
+    "stateCode": "assam",
+    "scrapedAt": "2026-09-29"
+  },
+  {
+    "id": "assam-iit guwahati-assistant-project-engineer-jrf",
+    "title": "IIT Guwahati Recruitment 2026 – Assistant Project Engineer, JRF Posts",
+    "shortInfo": "IIT Guwahati has announced notification for Assistant Project Engineer, JRF posts. Required qualification: M.Sc, B.Tech/B.E. Last date to apply: 07-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "3",
+    "lastDate": "07-10-26",
+    "officialWebsite": "https://www.iitg.ac.in/pdf/71e8460660915d3e00fbb31511f6181e.pdf",
+    "notificationLink": "https://www.iitg.ac.in/pdf/71e8460660915d3e00fbb31511f6181e.pdf",
+    "applyOnlineLink": "https://www.iitg.ac.in/pdf/71e8460660915d3e00fbb31511f6181e.pdf",
+    "state": "Assam",
+    "stateCode": "assam",
+    "scrapedAt": "2026-09-29"
+  },
+  {
+    "id": "assam-csir neist-security-officer",
+    "title": "CSIR NEIST Recruitment 2026 – Security Officer Posts",
+    "shortInfo": "CSIR NEIST has announced notification for Security Officer posts. Required qualification: Other. Last date to apply: 27-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "27-10-26",
+    "officialWebsite": "https://neist.res.in/public/storage/documents/1790569561_ADVT%20ENGLISH%20Security%20Officer%20FINAL.pdf",
+    "notificationLink": "https://neist.res.in/public/storage/documents/1790569561_ADVT%20ENGLISH%20Security%20Officer%20FINAL.pdf",
+    "applyOnlineLink": "https://neist.res.in/public/storage/documents/1790569561_ADVT%20ENGLISH%20Security%20Officer%20FINAL.pdf",
+    "state": "Assam",
+    "stateCode": "assam",
+    "scrapedAt": "2026-09-29"
+  },
+  {
     "id": "assam-assam rifles-warrant-officer-rifleman-havildar-amp-other-posts",
     "title": "Assam Rifles Recruitment 2026 – Warrant Officer, Rifleman, Havildar &amp; Other Posts Posts",
     "shortInfo": "Assam Rifles has announced notification for Warrant Officer, Rifleman, Havildar &amp; Other Posts posts. Required qualification: Class 10, ITI/Diploma/Degree. Last date to apply: 28-10-26.",
@@ -14,7 +152,7 @@
     "applyOnlineLink": "https://www.assamrifles.gov.in/onlineapp/Default.aspx",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-09-28",
+    "scrapedAt": "2026-09-29",
     "fees": [
       {
         "category": "General/EWS",
@@ -183,7 +321,7 @@
     "applyOnlineLink": "https://www.iitg.ac.in/pdf/b8ac3bc0623b83ec934da55c987f7c16.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "assam-dlsa dima hasao-para-legal-volunteer",
@@ -200,7 +338,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec05dce8af15f064d1accb98887a2102/uploads/2026/09/2026091877.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "assam-assam university-research-assistant",
@@ -217,7 +355,7 @@
     "applyOnlineLink": "https://www.aus.ac.in/tssot-cse/wp-content/uploads/sites/61/2026/09/Research-Assistant_Recruitment_AUS_DST_Project.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "assam-neramac-assistant-general-manager",
@@ -234,7 +372,7 @@
     "applyOnlineLink": "https://neramac.com/files/userfiles/2026/09/25/files/AGM-Project_Mgmnt_&#038;_Capacity_Building.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "assam-dlsa kamrup-para-legal-volunteers",
@@ -251,7 +389,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0120479c788fb27378c2c99eadcf20/uploads/2026/09/2026092551.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "assam-niper guwahati-project-scientist",
@@ -268,7 +406,7 @@
     "applyOnlineLink": "https://www.niperguwahati.ac.in/DOC/RECRUITMENT/PROJECT-POSITONS/Project-Advt-GAP-170_240926.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "assam-c-dac-project-manager-senior-project-engineer-project-en",
@@ -285,7 +423,7 @@
     "applyOnlineLink": "https://www.cdac.in/index.aspx?id=pdf_hrd_sil&#038;dynamicId=Walk-In-Positions-PMS-PE.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "assam-sidbi-audit-consultant-assistant-communication-officer",
@@ -302,7 +440,7 @@
     "applyOnlineLink": "https://www.sidbi.in/en/careers/careerarchived/careerdetails/recruitment-for-the-post-of-senior-investment-associate",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "assam-kokrajhar university-finance-officer-registrar-and-more",
@@ -319,7 +457,7 @@
     "applyOnlineLink": "https://kokrajharuniversity.ac.in/wp-content/uploads/2026/09/Advt.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "assam-tiss-assistant-professor-and-more-professor",
@@ -336,7 +474,7 @@
     "applyOnlineLink": "https://tiss.ac.in/uploads/files/Final_advt_22_September_2026_-_Teaching-1.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "assam-oil india-contractual-associate-engineer-contractual-electri",
@@ -353,7 +491,7 @@
     "applyOnlineLink": "https://www.oil-india.com/download-advertisement-document?detail=NlVXMw==",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "assam-nluja-lawyer-fellow",
@@ -370,7 +508,7 @@
     "applyOnlineLink": "https://www.nluassam.ac.in/docs/recruitment/2026/NLUJA-LFP.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "assam-rabindranath thakur vishwavidyalaya-project-associate-i",
@@ -387,7 +525,7 @@
     "applyOnlineLink": "https://rtuassam.ac.in/upload/recruitment/1790139452.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "assam-nrl-associate-sr-associate",
@@ -404,7 +542,7 @@
     "applyOnlineLink": "https://portal2.nrl.co.in/onlineapp/Home/DownloadFile?fileId=547&#038;f=1",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "assam-nit silchar-project-assistant",
@@ -421,7 +559,7 @@
     "applyOnlineLink": "https://www.nits.ac.in/storage/CareerDocument/Career_6ab330ea9d122.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "assam-csc-aadhaar-supervisor-operator",
@@ -438,7 +576,7 @@
     "applyOnlineLink": "https://career.csccloud.in/apply-now/MTM5OQ==",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "assam-ncdc-consultant",
@@ -455,24 +593,7 @@
     "applyOnlineLink": "https://www.ncdc.in/documents/career/4114210926ilovepdf_merged-(1).pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-09-28"
-  },
-  {
-    "id": "assam-iit guwahati-junior-research-fellow",
-    "title": "IIT Guwahati Recruitment 2026 – Junior Research Fellow Posts",
-    "shortInfo": "IIT Guwahati has announced notification for Junior Research Fellow posts. Required qualification: M.E/M.Tech. Last date to apply: 23-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "23-09-26",
-    "officialWebsite": "https://www.iitg.ac.in/pdf/8f065e7deea9ed7d4c0c3c0612f36a1b.pdf",
-    "notificationLink": "https://www.iitg.ac.in/pdf/8f065e7deea9ed7d4c0c3c0612f36a1b.pdf",
-    "applyOnlineLink": "https://www.iitg.ac.in/pdf/8f065e7deea9ed7d4c0c3c0612f36a1b.pdf",
-    "state": "Assam",
-    "stateCode": "assam",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "assam-dima hasao district court-driver",
@@ -489,7 +610,7 @@
     "applyOnlineLink": "https://ghconline.gov.in/Recruitment/Notification-15-09-2026.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "assam-dlsa kokrajhar-para-legal-volunteer",
@@ -506,7 +627,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec05cdd0500dc0ef6682fa6ec6d2e6b5/uploads/2026/09/2026092064.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "assam-aiims guwahati-project-technical-support-project-research-scienti",
@@ -523,7 +644,7 @@
     "applyOnlineLink": "https://aiimsguwahati.in/viewfile.aspx?fname=738f0f72.pdf&#038;ftype=pdf&#038;rdoctype=cms",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "assam-cpri-engineering-officer-engineering-assistant-technici",
@@ -540,7 +661,7 @@
     "applyOnlineLink": "https://cpri-app.onlineapplication.org.in/#/",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-09-28",
+    "scrapedAt": "2026-09-29",
     "fees": [
       {
         "category": "Engineering Officer Gr.1, Scientific Assistant, Engineering Assistant (per post)",
@@ -671,7 +792,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/stpi-apprentice-trainee-recruitment-2026/",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-09-28",
+    "scrapedAt": "2026-09-29",
     "fees": [
       {
         "category": "Fee",
@@ -728,210 +849,7 @@
     "applyOnlineLink": "https://recruitment.purabi.coop/files/REOI_WAMUL_%20September%202026_New.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-09-28"
-  },
-  {
-    "id": "assam-nhm assam-medical-officer",
-    "title": "NHM Assam Recruitment 2026 – Medical Officer Posts",
-    "shortInfo": "NHM Assam has announced notification for Medical Officer posts. Required qualification: MBBS. Last date to apply: 22-09-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "78",
-    "lastDate": "22-09-26",
-    "officialWebsite": "https://nhm.assam.gov.in",
-    "notificationLink": "https://nhmssd.assam.gov.in/eHRMIS_latest/uploadAdmin/uploads/job186-doc-1.pdf",
-    "applyOnlineLink": "https://nhmssd.assam.gov.in/eHRMIS_latest/onlineRecruitement/index.php/home/index",
-    "state": "Assam",
-    "stateCode": "assam",
-    "scrapedAt": "2026-09-28",
-    "fees": [
-      {
-        "category": "Fee",
-        "fee": "Not Mentioned"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Advertisement Date",
-        "date": "09/09/2026"
-      },
-      {
-        "event": "Last Date to Apply Online",
-        "date": "22/09/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Medical Officer (MBBS)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the official NHM Assam website: https://nhm.assam.gov.in",
-      "Find the relevant advertisement for Medical Officer (MBBS) recruitment.",
-      "Fill in the online application form with accurate details.",
-      "Upload required documents as specified.",
-      "Submit the application before the last date i.e., 22.09.2026."
-    ]
-  },
-  {
-    "id": "assam-national test house-young-professional",
-    "title": "National Test House Recruitment 2026 – Young Professional Posts",
-    "shortInfo": "National Test House has announced notification for Young Professional posts. Required qualification: Any Graduate, Any Post Graduate. Last date to apply: Within.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "36",
-    "lastDate": "Within",
-    "officialWebsite": "https://nth.gov.in",
-    "notificationLink": "https://nth.gov.in/storage/recruitment-notices/3e4ed89f3c55ca7a5b8b8f575ea69c004afc0e78_37.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/nth-young-professional-recruitment-2026/",
-    "state": "Assam",
-    "stateCode": "assam",
-    "scrapedAt": "2026-09-28",
-    "fees": [
-      {
-        "category": "Fee",
-        "fee": "Not Mentioned"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Last Date to Apply (within 15 days of issuance of the advertisement in the Employment news. )",
-        "date": ""
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Sr. Young Professional (Technical-RPPT)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Sr. Young Professional (Management)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Sr. Young Professional (Technical-Microbiology)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Sr. Young Professional (Technical-Electrical)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Sr. Young Professional (Technical-Civil)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Jr. Young Professional (Technical-Chemical)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Jr. Young Professional (Technical-Mechanical)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Jr. Young Professional (Technical-Civil)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Jr. Young Professional (Technical-Electrical)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Jr. Young Professional (Technical-Microbiology)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Jr. Young Professional (Technical-RPPT)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Jr. Young Professional (Technical-IT)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Jr. Young Professional (Technical-Aerospace)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Jr. Young Professional (Technical-Drone)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Interested candidates may send their resume in the prescribed format along with documentary proof of qualifications and experience, and latest CV to the email mentioned in the notification.",
-      "Applications will be accepted only through email and sent to the appropriate email ID within 15 days of issuance of the advertisement in the Employment News.",
-      "Send application to the email ID corresponding to the location of vacancy: DG Camp Office, NTH HQ Ghaziabad: dg-office@nth.gov.in NTH Ghaziabad: director-gzb@nth.gov.in HQ Kolkata: dg-office@nth.gov.in NTH Kolkata: director-kol@nth.gov.in NTH Chennai: director-chn@nth.gov.in NTH Mumbai: director-mum@nth.gov.in NTH Aurangabad: director-auric@nth.gov.in NTH Jaipur: director-jai@nth.gov.in NTH Guwahati: director-guw@nth.gov.in NTH Bengaluru: director-blr@nth.gov.in NTH Varanasi: director-vns@nth.gov.in",
-      "Attach the application form in the prescribed format (PDF format) along with self-attested passport size photograph.",
-      "Only shortlisted candidates will be informed and called for interview.",
-      "No TA/DA shall be admissible for attending the selection process/joining of assignment or on its completion."
-    ]
-  },
-  {
-    "id": "assam-nit silchar-project-associate-i",
-    "title": "NIT Silchar Recruitment 2026 – Project Associate I Posts",
-    "shortInfo": "NIT Silchar has announced notification for Project Associate I posts. Required qualification: B.Tech/B.E. Last date to apply: 25-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "25-09-26",
-    "officialWebsite": "https://www.nits.ac.in/storage/CareerDocument/Career_6aa289bc7e51d.pdf",
-    "notificationLink": "https://www.nits.ac.in/storage/CareerDocument/Career_6aa289bc7e51d.pdf",
-    "applyOnlineLink": "https://www.nits.ac.in/storage/CareerDocument/Career_6aa289bc7e51d.pdf",
-    "state": "Assam",
-    "stateCode": "assam",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "assam-oil india-deputy-chief-engineer-economist-more",
@@ -948,7 +866,7 @@
     "applyOnlineLink": "https://www.oil-india.com/advertisement-list",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "assam-central silk board-assistant-engineer-joint-secretary-and-more",
@@ -965,7 +883,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/central-silk-board-csb-recruitment-2026/",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-09-28",
+    "scrapedAt": "2026-09-29",
     "fees": [
       {
         "category": "Fee",
@@ -1057,24 +975,7 @@
     "applyOnlineLink": "https://sibsagaruniversity.ac.in/upload/notice/1788965049.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-09-28"
-  },
-  {
-    "id": "assam-district commissioner lakhimpur-co-ordinator-fra-mis-fra-associate",
-    "title": "District Commissioner Lakhimpur Recruitment 2026 – Co-ordinator FRA, MIS/FRA Associate Posts",
-    "shortInfo": "District Commissioner Lakhimpur has announced notification for Co-ordinator FRA, MIS/FRA Associate posts. Required qualification: Master in Social Science, B.Sc, BA, Diploma in IT. Last date to apply: 25-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "2",
-    "lastDate": "25-09-26",
-    "officialWebsite": "https://lakhimpur.assam.gov.in/sites/default/files/public_utility/FRA%20advertisement.pdf",
-    "notificationLink": "https://lakhimpur.assam.gov.in/sites/default/files/public_utility/FRA%20advertisement.pdf",
-    "applyOnlineLink": "https://lakhimpur.assam.gov.in/sites/default/files/public_utility/FRA%20advertisement.pdf",
-    "state": "Assam",
-    "stateCode": "assam",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "assam-bcpl-foreman-chemical-foreman-civil-junior-superintende",
@@ -1091,7 +992,7 @@
     "applyOnlineLink": "https://career.bcplonline.co.in:88/Account/Login?ReturnUrl=%2F",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-09-28",
+    "scrapedAt": "2026-09-29",
     "fees": [
       {
         "category": "General / EWS / OBC (Non-Creamy Layer)",
@@ -1204,56 +1105,6 @@
     ]
   },
   {
-    "id": "assam-dahv assam-veterinary-field-assistant",
-    "title": "DAHV Assam Recruitment 2026 – Veterinary Field Assistant Posts",
-    "shortInfo": "DAHV Assam has announced notification for Veterinary Field Assistant posts. Required qualification: HSSLC in Science with Biology. Last date to apply: 23-09-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "200",
-    "lastDate": "23-09-26",
-    "officialWebsite": "https://animalhusbandry.assam.gov.in",
-    "notificationLink": "https://animalhusbandry.assam.gov.in/sites/default/files/swf_utility_folder/departments/ahvetdept_webcomindia_org_oid_3/menu/document/advertisement_for_recruitment_of_200_nos._of_vfas.pdf",
-    "applyOnlineLink": "https://ahvfa.assam.statedatacenter.in/",
-    "state": "Assam",
-    "stateCode": "assam",
-    "scrapedAt": "2026-09-28",
-    "fees": [
-      {
-        "category": "All Categories",
-        "fee": "No Fee"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Starting Date of Application",
-        "date": "03/09/2026"
-      },
-      {
-        "event": "Last Date of Application",
-        "date": "23/09/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Veterinary Field Assistant (VFA) and allied cadre posts",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the official website: animalhusbandry.assam.gov.in",
-      "Click on the online application link for Veterinary Field Assistant recruitment.",
-      "Fill in all required personal, educational, and category details accurately.",
-      "Upload required documents including HSLC Certificate/Admit Card, Caste Certificate (if applicable), Permanent Resident Certificate, Ex-Servicemen Identity Card and Discharge Book (if applicable), and PwBD Certificate (if applicable).",
-      "No application fee is required for any category.",
-      "Submit the application before 23:59 hrs. on 23rd September, 2026."
-    ]
-  },
-  {
     "id": "assam-stpi-assistant-administrative-officer",
     "title": "STPI Recruitment 2026 – Assistant, Administrative Officer Posts",
     "shortInfo": "STPI has announced notification for Assistant, Administrative Officer posts. Required qualification: Diploma, MBA/PGDM, Any Graduate. Last date to apply: 12-10-26.",
@@ -1268,7 +1119,7 @@
     "applyOnlineLink": "https://recruitment.stpi.in/rect/?_gl=1*15fvrxd*_ga*MTExNDk1NDMzOS4xNzg4MTA5Njc4*_ga_HMXXYT8XE5*czE3ODgxMDk2NzgkbzEkZzEkdDE3ODgxMDk3MTMkajI1JGwwJGgw",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-09-28",
+    "scrapedAt": "2026-09-29",
     "fees": [
       {
         "category": "General/OBC/EWS (Male)",
@@ -1340,22 +1191,5 @@
       "Submit the completed online application before the closing date of 12.10.2026.",
       "No other mode of application shall be accepted."
     ]
-  },
-  {
-    "id": "assam-rnu guwahati-stenographer-cg-operator-and-more",
-    "title": "RNU Guwahati Recruitment 2026 – Stenographer, CG Operator and More Posts",
-    "shortInfo": "RNU Guwahati has announced notification for Stenographer, CG Operator and More posts. Required qualification: 12TH, Any Bachelors Degree, Diploma. Last date to apply: 23-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "-",
-    "lastDate": "23-09-26",
-    "officialWebsite": "https://prasarbharati.gov.in/wp-content/uploads/2026/08/Notification_Adv_RNU_Guwahati.pdf",
-    "notificationLink": "https://prasarbharati.gov.in/wp-content/uploads/2026/08/Notification_Adv_RNU_Guwahati.pdf",
-    "applyOnlineLink": "https://prasarbharati.gov.in/wp-content/uploads/2026/08/Notification_Adv_RNU_Guwahati.pdf",
-    "state": "Assam",
-    "stateCode": "assam",
-    "scrapedAt": "2026-09-28"
   }
 ]

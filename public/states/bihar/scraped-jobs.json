@@ -14,7 +14,7 @@
     "applyOnlineLink": "https://btsc.pariksha.nic.in/Online_App/Notifications.aspx",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-09-28",
+    "scrapedAt": "2026-09-29",
     "fees": [
       {
         "category": "All Candidates",
@@ -111,7 +111,7 @@
     "applyOnlineLink": "https://iitp.ac.in/media/iitp-media/notices/1790264547359-ADV-628.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&#038;X-Amz-Credential=minioadmin%2F20260926%2Fus-east-1%2Fs3%2Faws4_request&#038;X-Amz-Date=20260926T115931Z&#038;X-Amz-Expires=3600&#038;X-Amz-SignedHeaders=host&#038;X-Amz-Signature=76f2db7d44a124366418f726e6368c7ca56f5bbdf38cbc6caa9380c3ca5c70f2",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "bihar-btsc-matsya-prasar-padadhikari-fisheries-extension-offi",
@@ -128,7 +128,7 @@
     "applyOnlineLink": "https://btsc.pariksha.nic.in/Online_App/Notifications.aspx",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-09-28",
+    "scrapedAt": "2026-09-29",
     "fees": [
       {
         "category": "All Candidates",
@@ -229,7 +229,7 @@
     "applyOnlineLink": "https://btsc.pariksha.nic.in/Online_App/Notifications.aspx",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-09-28",
+    "scrapedAt": "2026-09-29",
     "fees": [
       {
         "category": "All Categories",
@@ -279,7 +279,7 @@
     "applyOnlineLink": "https://btsc.bihar.gov.in/sites/default/files/Advertisement/30_2026.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "bihar-iit patna-junior-research-fellow",
@@ -296,7 +296,7 @@
     "applyOnlineLink": "https://iitp.ac.in/media/iitp-media/notices/1790264751167-ADV-629.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&#038;X-Amz-Credential=minioadmin%2F20260925%2Fus-east-1%2Fs3%2Faws4_request&#038;X-Amz-Date=20260925T104147Z&#038;X-Amz-Expires=3600&#038;X-Amz-SignedHeaders=host&#038;X-Amz-Signature=98c937933aa7bd66881461a8f60b5bdf02ea59ce5c5a8b3df6fc9ee3508e6585",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "bihar-nit patna-junior-research-fellow",
@@ -313,41 +313,7 @@
     "applyOnlineLink": "https://nitp-database-s3.s3.ap-south-1.amazonaws.com/1790316577170-3adf7330ff217cd5.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-09-28"
-  },
-  {
-    "id": "bihar-iim bodh gaya-management-trainee-cum-counsellor",
-    "title": "IIM Bodh Gaya Recruitment 2026 – Management Trainee cum Counsellor Posts",
-    "shortInfo": "IIM Bodh Gaya has announced notification for Management Trainee cum Counsellor posts. Required qualification: M.Sc, Any Post Graduate. Last date to apply: 27-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "27-09-26",
-    "officialWebsite": "https://iimbg.ac.in/wp-content/uploads/2026/09/RoR-MT-Clinical-Counselling-Psychology-21-09-2026-1.pdf",
-    "notificationLink": "https://iimbg.ac.in/wp-content/uploads/2026/09/RoR-MT-Clinical-Counselling-Psychology-21-09-2026-1.pdf",
-    "applyOnlineLink": "https://iimbg.ac.in/wp-content/uploads/2026/09/RoR-MT-Clinical-Counselling-Psychology-21-09-2026-1.pdf",
-    "state": "Bihar",
-    "stateCode": "bihar",
-    "scrapedAt": "2026-09-28"
-  },
-  {
-    "id": "bihar-kv gaya and bodhgaya-pgt-tgt-and-more",
-    "title": "KV Gaya and Bodhgaya Recruitment 2026 – PGT, TGT and More Posts",
-    "shortInfo": "KV Gaya and Bodhgaya has announced notification for PGT, TGT and More posts. Required qualification: M.Sc, B.El.Ed, B.Tech/B.E, B.Ed, Any Post Graduate. Last date to apply: 26-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "-",
-    "lastDate": "26-09-26",
-    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3kv063f34b8389851317e056eaa25ed02/uploads/2026/09/2026091938.pdf",
-    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3kv063f34b8389851317e056eaa25ed02/uploads/2026/09/2026091938.pdf",
-    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3kv063f34b8389851317e056eaa25ed02/uploads/2026/09/2026091938.pdf",
-    "state": "Bihar",
-    "stateCode": "bihar",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "bihar-jpu-guest-part-time-faculty",
@@ -364,7 +330,7 @@
     "applyOnlineLink": "https://www.jpv.ac.in/_files/ugd/732218_d18f5c544ebb4b248376bcfe5a686cf0.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "bihar-east central railway-instructor",
@@ -381,7 +347,7 @@
     "applyOnlineLink": "https://ecr.indianrailways.gov.in/cris//uploads/files/1789731105371-ECR-HQ0PERS(SEL)_1_2022-O_o%20Dy.CPO_HQ_ECR_correspondence_I_233624_2026_16-09-2026_11-03-01am.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "bihar-rrc ecr-alp-good-train-manager-technician-station-master-c",
@@ -398,7 +364,7 @@
     "applyOnlineLink": "https://gdce.rrcrail.in/index.php",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-09-28",
+    "scrapedAt": "2026-09-29",
     "fees": [
       {
         "category": "Fee",
@@ -616,7 +582,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-ssco-consultant-recruitment-2026/",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-09-28",
+    "scrapedAt": "2026-09-29",
     "fees": [
       {
         "category": "Fee",
@@ -702,7 +668,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3f4be00279ee2e0a53eafdaa94a151e2c/uploads/2026/09/17894680789427.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "bihar-niper hajipur-staff-nurse",
@@ -719,24 +685,7 @@
     "applyOnlineLink": "https://niperhajipur.ac.in/wp-content/uploads/2026/09/NIPER-Hajipur-Temporary-Staff-Nurse-Notification-15092026-2.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-09-28"
-  },
-  {
-    "id": "bihar-mgcu-jrf-project-fellow",
-    "title": "MGCU Recruitment 2026 – JRF/Project Fellow Posts",
-    "shortInfo": "MGCU has announced notification for JRF/Project Fellow posts. Required qualification: M.Sc. Last date to apply: 23-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "23-09-26",
-    "officialWebsite": "https://mgcub.ac.in/storage/content_files/1788783319_Re-advertisement%20Project%20Fellow.pdf",
-    "notificationLink": "https://mgcub.ac.in/storage/content_files/1788783319_Re-advertisement%20Project%20Fellow.pdf",
-    "applyOnlineLink": "https://mgcub.ac.in/storage/content_files/1788783319_Re-advertisement%20Project%20Fellow.pdf",
-    "state": "Bihar",
-    "stateCode": "bihar",
-    "scrapedAt": "2026-09-28"
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "bihar-bpssc-company-commander",
@@ -753,7 +702,7 @@
     "applyOnlineLink": "https://apply-bpssc.com/bpssc_hg_commander_11_26/applicationIndex",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-09-28",
+    "scrapedAt": "2026-09-29",
     "fees": [
       {
         "category": "All Categories (Male/Female/Third Gender)",
@@ -792,23 +741,6 @@
     ]
   },
   {
-    "id": "bihar-csc e-governance services indian-aadhaar-supervisor-operator",
-    "title": "CSC e-Governance Services Indian Recruitment 2026 – Aadhaar Supervisor/ Operator Posts",
-    "shortInfo": "CSC e-Governance Services Indian has announced notification for Aadhaar Supervisor/ Operator posts. Required qualification: Diploma, 12TH, ITI. Last date to apply: 27-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "19",
-    "lastDate": "27-09-26",
-    "officialWebsite": "https://cscspv.in/ask-job.html",
-    "notificationLink": "https://cscspv.in/ask-job.html",
-    "applyOnlineLink": "https://cscspv.in/ask-job.html",
-    "state": "Bihar",
-    "stateCode": "bihar",
-    "scrapedAt": "2026-09-28"
-  },
-  {
     "id": "bihar-dcpu sheikhpura-chowkidar-ayah",
     "title": "DCPU Sheikhpura Recruitment 2026 – Chowkidar, Ayah Posts",
     "shortInfo": "DCPU Sheikhpura has announced notification for Chowkidar, Ayah posts. Required qualification: Intermediate, 8th, 12th, Any Graduate. Last date to apply: 30-09-26.",
@@ -823,206 +755,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s30bb4aec1710521c12ee76289d9440817/uploads/2026/09/17882512057204.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-09-28"
-  },
-  {
-    "id": "bihar-bseb-secondary-teacher-eligibility-test-stet-2026-paper",
-    "title": "BSEB Recruitment 2026 – Secondary Teacher Eligibility Test (STET) 2026 - Paper I, Secondary, Paper II, Senior Secondary (Last Date Extended) Posts",
-    "shortInfo": "BSEB has announced notification for Secondary Teacher Eligibility Test (STET) 2026 - Paper I, Secondary, Paper II, Senior Secondary (Last Date Extended) posts. Required qualification: Bachelor's degree, B.Ed, Post Graduate degree. Last date to apply: 22-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "-",
-    "lastDate": "22-09-26",
-    "officialWebsite": "https://biharboardonline.com/",
-    "notificationLink": "https://stetregistration.cbrt.co.in/STET%202026%20Advt.pdf",
-    "applyOnlineLink": "https://stetregistration.cbrt.co.in/",
-    "state": "Bihar",
-    "stateCode": "bihar",
-    "scrapedAt": "2026-09-28",
-    "fees": [
-      {
-        "category": "General / Economically Weaker General / OBC / EBC (for one paper)",
-        "fee": "Rs. 960/-"
-      },
-      {
-        "category": "General / Economically Weaker General / OBC / EBC (for both papers)",
-        "fee": "Rs. 1440/-"
-      },
-      {
-        "category": "SC / ST / Divyang (for one paper)",
-        "fee": "Rs. 760/-"
-      },
-      {
-        "category": "SC / ST / Divyang (for both papers)",
-        "fee": "Rs. 1140/-"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Online Application Start Date",
-        "date": "17/08/2026"
-      },
-      {
-        "event": "Online Application Last Date (Extended Upto)",
-        "date": "22/09/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Paper 1 (Secondary)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Paper 2 (Senior Secondary)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the official website: https://stetregistration.cbrt.co.in/",
-      "Complete Registration: Fill in details on the Registration Page, click ‘Generate OTP’, enter OTP to complete registration. User ID and Password will be sent via SMS to the registered mobile number.",
-      "Login using User ID and Password on the main page of the website.",
-      "Fill in the application form with personal, educational and other details.",
-      "Upload scanned colour photograph (size 80KB to 200KB, dimensions 3.5cm &times; 4.5cm) and signature (size 50KB to 200KB).",
-      "Pay the examination fee online via Debit Card/Credit Card/Net Banking/UPI through the selected Payment Gateway.",
-      "Upload self-attested copies of required documents (10th certificate &amp; marksheet, 12th certificate &amp; marksheet, Graduation certificate &amp; marksheet, Post Graduation certificate &amp; marksheet, B.Ed certificate &amp; marksheet, other educational qualifications, residential certificate, caste certificate if applicable, disability certificate if applicable, ex-serviceman certificate if applicable).",
-      "Click ‘Preview’ to review the filled application form. Correct any errors and click ‘Save’.",
-      "After final submission, download and keep a hard copy of the application form."
-    ]
-  },
-  {
-    "id": "bihar-dcpu kaimur-support-person",
-    "title": "DCPU Kaimur Recruitment 2026 – Support Person Posts",
-    "shortInfo": "DCPU Kaimur has announced notification for Support Person posts. Required qualification: Any Graduate, M.A, LLB, Diploma, MSW, M.Sc. Last date to apply: 26-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "25",
-    "lastDate": "26-09-26",
-    "officialWebsite": "https://cdn.s3waas.gov.in/s3daca41214b39c5dc66674d09081940f0/uploads/2026/08/17878051758264.pdf",
-    "notificationLink": "https://cdn.s3waas.gov.in/s3daca41214b39c5dc66674d09081940f0/uploads/2026/08/17878051758264.pdf",
-    "applyOnlineLink": "https://cdn.s3waas.gov.in/s3daca41214b39c5dc66674d09081940f0/uploads/2026/08/17878051758264.pdf",
-    "state": "Bihar",
-    "stateCode": "bihar",
-    "scrapedAt": "2026-09-28"
-  },
-  {
-    "id": "bihar-aiims patna-senior-resident",
-    "title": "AIIMS Patna Recruitment 2026 – Senior Resident Posts",
-    "shortInfo": "AIIMS Patna has announced notification for Senior Resident posts. Required qualification: DNB, MS/MD. Last date to apply: 26-09-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "68",
-    "lastDate": "26-09-26",
-    "officialWebsite": "https://api.aiimspatna.edu.in/advertisement/SR-rec-walkin-interview-29082026.pdf",
-    "notificationLink": "https://api.aiimspatna.edu.in/advertisement/SR-rec-walkin-interview-29082026.pdf",
-    "applyOnlineLink": "https://api.aiimspatna.edu.in/advertisement/SR-rec-walkin-interview-29082026.pdf",
-    "state": "Bihar",
-    "stateCode": "bihar",
-    "scrapedAt": "2026-09-28"
-  },
-  {
-    "id": "bihar-cece board-assistant-manager-aao-accountant-quality-controlle",
-    "title": "CECE Board Recruitment 2026 – Assistant Manager, AAO, Accountant, Quality Controller, LDC Posts",
-    "shortInfo": "CECE Board has announced notification for Assistant Manager, AAO, Accountant, Quality Controller, LDC posts. Required qualification: AICTE approved qualifications. Last date to apply: 24-09-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "259",
-    "lastDate": "24-09-26",
-    "officialWebsite": "https://bceceboard.bihar.gov.in",
-    "notificationLink": "https://bceceboard.bihar.gov.in/pdf_Pros/PROS_BSFC26.pdf",
-    "applyOnlineLink": "https://bcecebpatna.in/bcefoodsep25/",
-    "state": "Bihar",
-    "stateCode": "bihar",
-    "scrapedAt": "2026-09-28",
-    "fees": [
-      {
-        "category": "General/Unreserved/EWS/BC/EBC",
-        "fee": "Rs.1200/-"
-      },
-      {
-        "category": "For SC/ST/DQ",
-        "fee": "Rs.600/-"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Starting Date for Apply Online",
-        "date": "25/08/2026"
-      },
-      {
-        "event": "Closing Date for Apply Online",
-        "date": "24/09/2026"
-      },
-      {
-        "event": "Last Date Payment of Fee",
-        "date": "25/09/2026"
-      },
-      {
-        "event": "Form Correction Last Date (26-09-2026 to 28-09-2026)",
-        "date": ""
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Assistant Manager",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant Account Officer",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Accountant",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Quality Controller",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "LDC (Lower Division Clerk)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the official website: bceceboard.bihar.gov.in and click on the ‘Online Portal of BSFCSC Ltd.’ link.",
-      "Step 1 &ndash; Registration: Click ‘Click here for Registration’, fill in your details including email ID and mobile number, and complete registration to get a Registration Number and Password.",
-      "Step 2 &ndash; Basic Details: Login with Registration Number and Password, fill in Basic Details and click ‘Save &amp; Next’.",
-      "Step 3 &ndash; Educational Qualification Details: Fill in required educational qualification entries and click ‘Save &amp; Next’.",
-      "Step 4 &ndash; Experience Details: Fill in experience details and click ‘Save &amp; Next’.",
-      "Step 5 &ndash; Upload Photo &amp; Signature: Upload scanned photo and signature as per specifications.",
-      "Step 6 &ndash; Preview Application: Review all entered information. Click ‘Final Submit’ after verifying and checking the declaration box.",
-      "Step 7 &ndash; Payment of Examination/Counselling Fee: Pay the fee online via UPI or other available online payment modes (processing charges may apply). Fee once paid is non-refundable.",
-      "Step 8 &ndash; Download/Print Application Form/Transaction Receipt: Download and print the application form and transaction receipt for future reference."
-    ]
+    "scrapedAt": "2026-09-29"
   },
   {
     "id": "bihar-bpsc-teacher-primary-secondary-higher-secondary-tre-4-0",
@@ -1039,7 +772,7 @@
     "applyOnlineLink": "https://bpsconline.bihar.gov.in/candidate/login",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-09-28",
+    "scrapedAt": "2026-09-29",
     "fees": [
       {
         "category": "General/Unreserved/OBC/Other State",
@@ -1126,7 +859,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-09-28",
+    "scrapedAt": "2026-09-29",
     "fees": [],
     "dates": [
       {

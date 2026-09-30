@@ -43,12 +43,175 @@
     "district": "State Level",
     "vacancies": "854",
     "lastDate": "26-10-26",
-    "officialWebsite": "https://vyapamcg.cgstate.gov.in/uploads/pdfs/2843cb02-616d-4f92-a9ff-e2e1b45388e0.jpg",
+    "officialWebsite": "https://cgssb.cgstate.gov.in",
     "notificationLink": "https://vyapamcg.cgstate.gov.in/uploads/pdfs/2843cb02-616d-4f92-a9ff-e2e1b45388e0.jpg",
-    "applyOnlineLink": "https://vyapamcg.cgstate.gov.in/uploads/pdfs/2843cb02-616d-4f92-a9ff-e2e1b45388e0.jpg",
+    "applyOnlineLink": "https://vyapamprofile.cgstate.gov.in/online/",
     "state": "Chhattisgarh",
     "stateCode": "chhattisgarh",
-    "scrapedAt": "2026-09-30"
+    "scrapedAt": "2026-09-30",
+    "fees": [
+      {
+        "category": "General",
+        "fee": "Rs. 350"
+      },
+      {
+        "category": "Other Backward Class (OBC)",
+        "fee": "Rs. 250"
+      },
+      {
+        "category": "SC / ST / Divyang (PwD)",
+        "fee": "Rs. 200"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Application Start Date",
+        "date": "29/09/2026"
+      },
+      {
+        "event": "Online Application Last Date",
+        "date": "26/10/2026"
+      },
+      {
+        "event": "Error Correction Window Start",
+        "date": "27/10/2026"
+      },
+      {
+        "event": "Error Correction Window End",
+        "date": "29/10/2026"
+      },
+      {
+        "event": "Admit Card (Tentative)",
+        "date": "23/11/2026"
+      },
+      {
+        "event": "Exam Date (Tentative)",
+        "date": "29/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Lecturer (E Cadre) &ndash; Hindi",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Lecturer (E Cadre) &ndash; English",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Lecturer (E Cadre) &ndash; Sanskrit",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Lecturer (E Cadre) &ndash; Physics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Lecturer (E Cadre) &ndash; Political Science",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Lecturer (E Cadre) &ndash; History",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Lecturer (E Cadre) &ndash; Geography",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Lecturer (E Cadre) &ndash; Economics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Lecturer (T Cadre) &ndash; Hindi",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Lecturer (T Cadre) &ndash; English",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Lecturer (T Cadre) &ndash; Sanskrit",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Lecturer (T Cadre) &ndash; Physics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Lecturer (T Cadre) &ndash; Political Science",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Lecturer (T Cadre) &ndash; History",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Lecturer (T Cadre) &ndash; Geography",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Lecturer (T Cadre) &ndash; Economics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official CGSSB website: vyapamcg.cgstate.gov.in or cgssb.cgstate.gov.in.",
+      "Complete the new profile registration. Keep a front-facing photograph on a light background in JPG/JPEG format (50 KB to 100 KB) and a scanned signature in a separate JPG/JPEG file (50 KB to 100 KB) ready. The file name should be alphanumeric without spaces or dots.",
+      "Read the “Instructions to fill the FORM” link on the website for the detailed application process.",
+      "Log in and select the Lecturer (Vyakhyata) recruitment and choose only one subject.",
+      "Check the details auto-filled from the profile and complete the application form.",
+      "Pay the application fee online as per your category.",
+      "Click the “SUBMIT” button after the fee payment and take a printout of the application form."
+    ]
   },
   {
     "id": "chhattisgarh-csccc iim raipur-senior-project-associate",

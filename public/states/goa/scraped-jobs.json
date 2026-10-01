@@ -1,5 +1,72 @@
 [
   {
+    "id": "goa-mrpl-retail-engineer-terminal-operation-engineer-retail",
+    "title": "MRPL Recruitment 2026 – Retail Engineer, Terminal Operation Engineer, Retail Construction Engineer Posts",
+    "shortInfo": "MRPL has announced notification for Retail Engineer, Terminal Operation Engineer, Retail Construction Engineer posts. Required qualification: B.Tech/B.E, Diploma. Last date to apply: 29-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "16",
+    "lastDate": "29-10-26",
+    "officialWebsite": "https://www.mrpl.co.in/careers",
+    "notificationLink": "https://admin.mrpl.co.in/img/UploadedFiles/Career/Files/English/91b1f1df504d45c9863acd7f0450f5a0.pdf",
+    "applyOnlineLink": "https://www.mrpl.co.in/hi/careers?prophazecheck=1",
+    "state": "Goa",
+    "stateCode": "goa",
+    "scrapedAt": "2026-10-01",
+    "fees": [
+      {
+        "category": "General / OBC (NCL) / EWS",
+        "fee": "₹118/- (₹100/- application fee + ₹18/- GST)"
+      },
+      {
+        "category": "SC / ST / PwBD / Ex-Serviceman",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Date of Opening of Online Application",
+        "date": "30/09/2026"
+      },
+      {
+        "event": "Last Date for Submission of Online Application",
+        "date": "29/10/2026"
+      },
+      {
+        "event": "Cut-off Date for Age Calculation",
+        "date": "29/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Retail Construction Engineer / Retail Engineer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Terminal Operation Engineer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the MRPL website at https://www.mrpl.co.in/careers and click on ‘Advt. No. MRPL/PFTE/2026/02: Engagement of Personnel on Fixed Term Employment’.",
+      "Click on ‘Click here to register online’ to generate Login ID and Password.",
+      "Sign in using the generated Login ID and Password and fill in the online application form with correct details including educational qualifications, caste, and other required information.",
+      "Upload scanned copies of required documents: recent passport size photograph, signature, educational credentials, work experience documents, caste/PwBD/EWS certificate as applicable.",
+      "Upon submission, the system will generate an Application ID sent via email/SMS.",
+      "General, OBC(NCL) and EWS candidates: Click ‘Pay Now’, select payment category as ‘Advt. No. MRPL/PFTE/2026/02’, and pay application fee of ₹118/- online. Save and upload the payment confirmation receipt. Then click ‘Already Paid’, sign in, submit SBI eCollect Reference Number, Payment Bank Name and Payment Date, upload receipt, and click ‘Next’. Then upload all required documents and click ‘Submit’.",
+      "SC/ST/PwBD/ESM candidates: Directly upload scanned copies of photograph, signature, educational credentials, work experience documents and other required documents, then click ‘Submit’.",
+      "Save the PDF of the submitted online application form for future reference. Do not send the printout to MRPL unless specifically asked."
+    ]
+  },
+  {
     "id": "goa-goa housing board-junior-engineer-civil-group-c",
     "title": "Goa Housing Board Recruitment 2026 – Junior Engineer (Civil) Group C Posts",
     "shortInfo": "Goa Housing Board has announced notification for Junior Engineer (Civil) Group C posts. Required qualification: Diploma, B.Tech/B.E. Last date to apply: 21-10-26.",
@@ -14,7 +81,7 @@
     "applyOnlineLink": "https://www.goa.gov.in/wp-content/uploads/2026/09/goa-housingboard.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-30"
+    "scrapedAt": "2026-10-01"
   },
   {
     "id": "goa-csir nio-principal-project-associate",
@@ -31,7 +98,7 @@
     "applyOnlineLink": "https://www.nio.res.in/vacancies/temporary/1894450",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-30"
+    "scrapedAt": "2026-10-01"
   },
   {
     "id": "goa-grb-draughtsman-and-more-mts-ldc",
@@ -48,7 +115,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/goa-grb-recruitment-2026/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-30",
+    "scrapedAt": "2026-10-01",
     "fees": [
       {
         "category": "Fee",
@@ -167,7 +234,7 @@
     "applyOnlineLink": "https://www.nio.res.in/vacancies/temporary/1875710",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-30"
+    "scrapedAt": "2026-10-01"
   },
   {
     "id": "goa-goa dental college &amp; hospital-staff-nurse",
@@ -184,7 +251,7 @@
     "applyOnlineLink": "https://gdch.goa.gov.in/storage/2026/09/Walk-in-Interview-Staff-Nurse-Maternity-Leave-Vacancy.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-30"
+    "scrapedAt": "2026-10-01"
   },
   {
     "id": "goa-nio-project-associate-i",
@@ -201,7 +268,7 @@
     "applyOnlineLink": "https://www.nio.res.in/vacancies/temporary/1894451",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-30"
+    "scrapedAt": "2026-10-01"
   },
   {
     "id": "goa-gsstfdcl-company-secretary",
@@ -218,7 +285,7 @@
     "applyOnlineLink": "https://www.goa.gov.in/wp-content/uploads/2026/09/advt-18.09.26-1-1.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-30"
+    "scrapedAt": "2026-10-01"
   },
   {
     "id": "goa-goa college of agriculture-assistant-professor",
@@ -235,7 +302,7 @@
     "applyOnlineLink": "https://www.goa.gov.in/wp-content/uploads/2026/09/Advertisement_AGRO-FARM.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-30"
+    "scrapedAt": "2026-10-01"
   },
   {
     "id": "goa-stockholding-branch-manager-business-development-manager-invest",
@@ -252,7 +319,7 @@
     "applyOnlineLink": "https://corporate.stockholding.com/careers/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-30",
+    "scrapedAt": "2026-10-01",
     "fees": [],
     "dates": [
       {
@@ -327,7 +394,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/konkan-railway-alp-recruitment-2026/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-30",
+    "scrapedAt": "2026-10-01",
     "fees": [
       {
         "category": "Fee",
@@ -391,7 +458,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-ssco-consultant-recruitment-2026/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-30",
+    "scrapedAt": "2026-10-01",
     "fees": [
       {
         "category": "Fee",
@@ -477,7 +544,7 @@
     "applyOnlineLink": "https://iitgoa.ac.in/wp-content/uploads/IITGOA_staff-recruitment_-Advt.-2026-05.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-30"
+    "scrapedAt": "2026-10-01"
   },
   {
     "id": "goa-gssc-desktop-publishing-operator-lower-division-clerk-r",
@@ -494,7 +561,7 @@
     "applyOnlineLink": "https://cbes.goa.gov.in/advertisement",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-30",
+    "scrapedAt": "2026-10-01",
     "fees": [
       {
         "category": "UR (Level 1-3)",
@@ -608,7 +675,7 @@
     "applyOnlineLink": "https://goashipyard.ibtexamination.com/App03gSL2026VEr3/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-30",
+    "scrapedAt": "2026-10-01",
     "fees": [
       {
         "category": "General/EWS",
@@ -671,7 +738,7 @@
       }
     ],
     "howToApply": [
-      "Visit the official website www.goashipyard.in and navigate to Notice Board – Careers – Advertisement.",
+      "Visit the official website www.goashipyard.in and navigate to Notice Board ��� Careers – Advertisement.",
       "Click on ‘GSL Careers’ and then click ‘Apply Now’ button and select the post you wish to apply for.",
       "Read the eligibility criteria and Terms &amp; Conditions before applying.",
       "Keep scanned copies of required documents ready (Passport size photograph, Signature, SSC certificate, Educational qualification mark sheet &amp; degree, Caste/Disability certificate, Experience certificates, Aadhar Card).",
@@ -698,7 +765,7 @@
     "applyOnlineLink": "https://www.goa.gov.in/wp-content/uploads/2026/08/FC-Advertisement-Web-Govan.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-30"
+    "scrapedAt": "2026-10-01"
   },
   {
     "id": "goa-nit goa-professor-assistant-professor",
@@ -715,7 +782,7 @@
     "applyOnlineLink": "https://nitgoa.ac.in/uploads/faculty_recruitment2026/Advt_Faculty%20_%20Recruitment%2031august2026.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-30"
+    "scrapedAt": "2026-10-01"
   },
   {
     "id": "goa-krcl-junior-engineer-civil-alp-station-master-technicia",
@@ -732,7 +799,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/konkan-railway-recruitment-2026-apply-online-for-201-je-alp-technician-other-posts/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-09-30",
+    "scrapedAt": "2026-10-01",
     "fees": [
       {
         "category": "General/UR/OBC-NCL/EWS (Male)",

@@ -1,5 +1,39 @@
 [
   {
+    "id": "puducherry-jipmer-data-entry-operator",
+    "title": "JIPMER Recruitment 2026 – Data Entry Operator Posts",
+    "shortInfo": "JIPMER has announced notification for Data Entry Operator posts. Required qualification: Any Post Graduate, Any Graduate. Last date to apply: 12-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "12-10-26",
+    "officialWebsite": "https://jipmer.edu.in/sites/default/files/Advertisment%20notice%20-%20NOCI%20Monitoring.pdf",
+    "notificationLink": "https://jipmer.edu.in/sites/default/files/Advertisment%20notice%20-%20NOCI%20Monitoring.pdf",
+    "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/Advertisment%20notice%20-%20NOCI%20Monitoring.pdf",
+    "state": "Puducherry",
+    "stateCode": "puducherry",
+    "scrapedAt": "2026-10-01"
+  },
+  {
+    "id": "puducherry-dwcd puducherry-chairperson-and-member",
+    "title": "DWCD Puducherry Recruitment 2026 – Chairperson and Member Posts",
+    "shortInfo": "DWCD Puducherry has announced notification for Chairperson and Member posts. Required qualification: Any Graduate. Last date to apply: 20-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "20",
+    "lastDate": "20-10-26",
+    "officialWebsite": "https://py.gov.in/sites/default/files/wcd29092026rect.pdf",
+    "notificationLink": "https://py.gov.in/sites/default/files/wcd29092026rect.pdf",
+    "applyOnlineLink": "https://py.gov.in/sites/default/files/wcd29092026rect.pdf",
+    "state": "Puducherry",
+    "stateCode": "puducherry",
+    "scrapedAt": "2026-10-01"
+  },
+  {
     "id": "puducherry-ptu-registrar",
     "title": "PTU Recruitment 2026 – Registrar Posts",
     "shortInfo": "PTU has announced notification for Registrar posts. Required qualification: Any Masters Degree. Last date to apply: 31-10-26.",
@@ -14,7 +48,7 @@
     "applyOnlineLink": "https://cms.ptuniv.edu.in/file_contents/news_attachments/notices/registrarRecruitment-Sep2026.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-09-30"
+    "scrapedAt": "2026-10-01"
   },
   {
     "id": "puducherry-income tax department tn and puducherry-stenographer-gr-i",
@@ -31,7 +65,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/income-tax-tn-and-puducherry-stenographer-recruitment-2026/",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-09-30",
+    "scrapedAt": "2026-10-01",
     "fees": [
       {
         "category": "Fee",
@@ -84,7 +118,7 @@
     "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/Post_research%20scientist.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-09-30"
+    "scrapedAt": "2026-10-01"
   },
   {
     "id": "puducherry-jipmer-project-technical-support-iii",
@@ -101,7 +135,7 @@
     "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/Post_technical%20support.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-09-30"
+    "scrapedAt": "2026-10-01"
   },
   {
     "id": "puducherry-jipmer-project-nurse-iii",
@@ -118,7 +152,7 @@
     "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/Post_project%20nurse.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-09-30"
+    "scrapedAt": "2026-10-01"
   },
   {
     "id": "puducherry-jipmer-project-nurse",
@@ -135,7 +169,7 @@
     "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/Vacancy%20notification%20of%20PROJECT%20NURSE.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-09-30"
+    "scrapedAt": "2026-10-01"
   },
   {
     "id": "puducherry-pihmct-assistant-lecturer",
@@ -152,7 +186,7 @@
     "applyOnlineLink": "https://py.gov.in/sites/default/files/pihmct18082026rec.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-09-30"
+    "scrapedAt": "2026-10-01"
   },
   {
     "id": "puducherry-pihmct-assistant-lecturer",
@@ -169,6 +203,6 @@
     "applyOnlineLink": "https://py.gov.in/sites/default/files/pihmct18082026rec.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-09-30"
+    "scrapedAt": "2026-10-01"
   }
 ]

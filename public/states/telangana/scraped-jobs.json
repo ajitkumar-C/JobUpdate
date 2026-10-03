@@ -1,5 +1,66 @@
 [
   {
+    "id": "telangana-drdo rci-graduate-apprentice-technician-apprentice-trade-ap",
+    "title": "DRDO RCI Recruitment 2026 – Graduate Apprentice, Technician Apprentice, Trade Apprentice Posts",
+    "shortInfo": "DRDO RCI has announced notification for Graduate Apprentice, Technician Apprentice, Trade Apprentice posts. Required qualification: B.E./B.Tech, Diploma, ITI. Last date to apply: Within.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "195",
+    "lastDate": "Within",
+    "officialWebsite": "https://drdo.gov.in",
+    "notificationLink": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtRCI01102026.pdf",
+    "applyOnlineLink": "https://nats.education.gov.in/",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-10-03",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last date for apply ( 30 days from the date of publication of Advertisement in News Paper.)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Graduate Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice ITI Pass Out (NCVT/SCVT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Before applying, candidates should ensure they fulfil all eligibility criteria and other norms mentioned in the detailed advertisement at https://drdo.gov.in.",
+      "B.E./B.Tech/Diploma candidates must register on NATS 2.0 portal: https://nats.education.gov.in. ITI Trade Apprentices must register on https://apprenticeshipindia.gov.in.",
+      "B.E./B.Tech/Diploma candidates may apply by logging into https://nats.education.gov.in and selecting Research Centre Imarat, DRDO (Enrolment ID: STLRAC000010).",
+      "ITI Trade candidates may apply by logging into https://apprenticeshipindia.gov.in, clicking on ‘Apprenticeship Opportunities’, searching by Establishment Name ‘RESEARCH CENTRE IMARAT’, DRDO (Establishment ID: E05203600040), and clicking Apply after choosing the respective trade.",
+      "Candidate should not be less than 18 years of age as on 01st September 2026.",
+      "Only regular candidates who secured 70% or CGPA 7.5 and above in qualifying examinations (Graduate, Diploma and ITI Trade for the years 2022, 2023, 2024, 2025 &amp; 2026) are eligible to apply.",
+      "The last date for receipt of online application is 30 days from the date of publication of the Advertisement in the News Paper."
+    ]
+  },
+  {
     "id": "telangana-iit hyderabad-senior-research-fellow-senior-language-editor",
     "title": "IIT Hyderabad Recruitment 2026 – Senior Research Fellow, Senior Language Editor Posts",
     "shortInfo": "IIT Hyderabad has announced notification for Senior Research Fellow, Senior Language Editor posts. Required qualification: MS/MD, M.A. Last date to apply: 15-10-26.",

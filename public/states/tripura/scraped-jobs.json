@@ -14,7 +14,7 @@
     "applyOnlineLink": "https://tripura.gov.in/sites/default/files/Detailed_Advt_TIFT_2026.pdf",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-10-02"
+    "scrapedAt": "2026-10-03"
   },
   {
     "id": "tripura-nit agartala-professor-of-practice",
@@ -31,7 +31,7 @@
     "applyOnlineLink": "https://nita.ac.in/MO_26-09-2026_Advt-ProfessorPractice-Sept2026_admin.pdf",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-10-02"
+    "scrapedAt": "2026-10-03"
   },
   {
     "id": "tripura-nit agartala-library-professional-trainee",
@@ -48,7 +48,7 @@
     "applyOnlineLink": "https://nita.ac.in/MO_25-09-2026_LibraryTrainee-Sept2026_admin.pdf",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-10-02"
+    "scrapedAt": "2026-10-03"
   },
   {
     "id": "tripura-tripura university-matron-cum-clerk",
@@ -65,7 +65,7 @@
     "applyOnlineLink": "https://tripurauniv.ac.in/site//images/contentpdf/1790172695_walk_in_interview_for_assignment_of_matron_cum_clerk__purely_temporary_on_contract_basis_.pdf",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-10-02"
+    "scrapedAt": "2026-10-03"
   },
   {
     "id": "tripura-dme tripura-professor-assistant-professor",
@@ -82,7 +82,7 @@
     "applyOnlineLink": "https://dme.tripura.gov.in/sites/default/files/2026-09/Re-advertisement%20for%20the%20Post%20of%20Professor,%20Assistant%20Professor%20and%20Consultant(Teacher%20of%20Clinical%20Subject)%20under%20Tripura%20Government%20Ayurvedic%20Medical%20%20College%20&#038;%20Hospital..pdf",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-10-02"
+    "scrapedAt": "2026-10-03"
   },
   {
     "id": "tripura-nit agartala-lab-attendant-and-more-technician",
@@ -94,11 +94,103 @@
     "district": "State Level",
     "vacancies": "51",
     "lastDate": "20-10-26",
-    "officialWebsite": "https://nita.ac.in/MO_10-09-2026_Advt-GrBGrC-Technical-Sept26_admin.pdf",
+    "officialWebsite": "https://nita.ac.in",
     "notificationLink": "https://nita.ac.in/MO_10-09-2026_Advt-GrBGrC-Technical-Sept26_admin.pdf",
-    "applyOnlineLink": "https://nita.ac.in/MO_10-09-2026_Advt-GrBGrC-Technical-Sept26_admin.pdf",
+    "applyOnlineLink": "https://test.cbexams.com/EDPSU/NIT/Registration/",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-10-02"
+    "scrapedAt": "2026-10-03",
+    "fees": [
+      {
+        "category": "General/OBC/EWS",
+        "fee": "₹1000"
+      },
+      {
+        "category": "SC/ST/PwD",
+        "fee": "₹750"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Application Start",
+        "date": "20/09/2026"
+      },
+      {
+        "event": "Online Application Last Date",
+        "date": "20/10/2026"
+      },
+      {
+        "event": "Eligibility Cut-off Date",
+        "date": "20/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Technical Assistant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Civil/Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Library & Information Assistant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "SAS Assistant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Pharmacist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Technician",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Lab Attendant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website nita.ac.in.",
+      "Go to the “Recruitment” tab and click the link for online application.",
+      "Select the relevant Post Code and read the notification carefully before proceeding.",
+      "Register and fill in personal, educational and category details in the online application form.",
+      "Upload a recent colour passport-size photograph (not earlier than three months) with clear front view, without cap, scarf or sunglasses.",
+      "Upload all supporting documents/testimonials, duly self-attested, in a single PDF (maximum size 10 MB) at the appropriate row/column in the application.",
+      "Pay the prescribed application fee online.",
+      "Review and submit the application, then download and keep a printout of the confirmed application and fee receipt for reference."
+    ]
   }
 ]

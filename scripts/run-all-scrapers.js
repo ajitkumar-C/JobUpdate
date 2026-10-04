@@ -10,7 +10,8 @@ const SCRIPTS = [
   { name: '1. National & Central Govt Scraper', file: 'scripts/scrape.js' },
   { name: '2. Maharashtra Deep-Scraper', file: 'scripts/scrape-maharashtra.js' },
   { name: '3. 33 States & UTs Deep-Scraper', file: 'scripts/scrape-all-states.js' },
-  { name: '4. XML Sitemap Generator', file: 'scripts/generate-sitemap.js' }
+  { name: '4. XML Sitemap Generator', file: 'scripts/generate-sitemap.js' },
+  { name: '5. IndexNow Real-Time Search Submitter', file: 'scripts/submit-indexnow.js' }
 ];
 
 function runScript(script) {

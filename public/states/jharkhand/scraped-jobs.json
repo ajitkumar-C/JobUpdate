@@ -1,5 +1,89 @@
 [
   {
+    "id": "jharkhand-mecon-assistant-manager-deputy-manager-manager-senior-ma",
+    "title": "MECON Recruitment 2026 – Assistant Manager, Deputy Manager, Manager, Senior Manager, Assistant General Manager Posts",
+    "shortInfo": "MECON has announced notification for Assistant Manager, Deputy Manager, Manager, Senior Manager, Assistant General Manager posts. Required qualification: Degree in Engineering or PG Degree/PG Diploma/MBA/MSW/MA in HRM or Degree in Law. Last date to apply: 29-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "111",
+    "lastDate": "29-10-26",
+    "officialWebsite": "https://www.meconlimited.co.in",
+    "notificationLink": "https://recruitment.meconlimited.co.in/AdvertisementFile/72b01edb-4435-4af9-a713-5ca70e875716.pdf",
+    "applyOnlineLink": "https://recruitment.meconlimited.co.in/",
+    "state": "Jharkhand",
+    "stateCode": "jharkhand",
+    "scrapedAt": "2026-10-05",
+    "fees": [
+      {
+        "category": "UR / EWS / OBC (Non-Creamy Layer)",
+        "fee": "₹1,000/- (Non-Refundable)"
+      },
+      {
+        "category": "SC / ST / PWD / Ex-Servicemen / Internal Candidates",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening date for submission of Online application",
+        "date": "30/09/2026"
+      },
+      {
+        "event": "Closing date for submission of Online application",
+        "date": "29/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Assistant Manager (E-1)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager (E-2)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Manager (E-3)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Manager (E-4)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant General Manager (E-5)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit MECON’s official website: www.meconlimited.co.in &rarr; Careers &rarr; Career Opportunities &rarr; Click here to apply Online.",
+      "Fill in the online application form carefully. No other mode of submission is allowed.",
+      "Upload scanned passport size colour photograph in jpg/jpeg format (max 40 KB).",
+      "Upload scanned signature with Blue/Black ink pen in jpg/jpeg format (max 40 KB).",
+      "Upload self-attested scanned copies of: Matriculation/Secondary Board Certificate/Mark sheet/Municipal birth certificate (age proof); Final/Provisional Certificate for Graduation and Post-Graduation; All semester/year mark sheets or consolidated mark sheet; Work Experience Certificates and other documents as per Sl. No. 6; PAN Card and Aadhar Card; Category certificates (SC/ST/OBC(NCL)/EWS/Ex-Servicemen/PwD) if applicable.",
+      "Pay the application fee online through the payment gateway provided by MECON (UR/EWS/OBC(NCL): ₹1,000/-; SC/ST/PWD/Ex-Servicemen/Internal candidates: Exempted).",
+      "Submit the online application before 29.10.2026.",
+      "Candidates employed in Central/State Government/PSEs/Autonomous bodies must forward application through Proper Channel or produce NOC from present employer at the time of interview."
+    ]
+  },
+  {
     "id": "jharkhand-jrhms-specialist-medical-officer",
     "title": "JRHMS Recruitment 2026 – Specialist Medical Officer Posts",
     "shortInfo": "JRHMS has announced notification for Specialist Medical Officer posts. Required qualification: MBBS, PG Degree/Diploma in various fields. Last date to apply: 31-10-26.",
@@ -14,7 +98,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/jrhms-specialist-medical-officer2026/",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-04",
+    "scrapedAt": "2026-10-05",
     "fees": [],
     "dates": [
       {
@@ -67,7 +151,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/hmfw-jharkhand-non-teaching-recruitment-2026/",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-04",
+    "scrapedAt": "2026-10-05",
     "fees": [
       {
         "category": "Fee",
@@ -122,7 +206,7 @@
     "applyOnlineLink": "https://www.aiimsdeoghar.edu.in/Content/resources/document/Recruitment/raiii_advt_2392026_29092026114928715.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-04"
+    "scrapedAt": "2026-10-05"
   },
   {
     "id": "jharkhand-itda gumla-tgt",
@@ -139,7 +223,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3389bc7bb1e1c2a5e7e147703232a88f6/uploads/2026/09/17903237824125.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-04"
+    "scrapedAt": "2026-10-05"
   },
   {
     "id": "jharkhand-nhm simdega-staff-nurse-anm",
@@ -156,7 +240,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s30fcbc61acd0479dc77e3cccc0f5ffca7/uploads/2026/09/17902312954787.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-04"
+    "scrapedAt": "2026-10-05"
   },
   {
     "id": "jharkhand-iit(ism) dhanbad-junior-research-fellow",
@@ -173,7 +257,7 @@
     "applyOnlineLink": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/1284/Project%20JRF_2026-09-24_00-02-52.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-04"
+    "scrapedAt": "2026-10-05"
   },
   {
     "id": "jharkhand-csir nml-project-assistant-pa-project-associate-pat-project",
@@ -190,7 +274,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/csir-nml-recruitment-2026/",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-04",
+    "scrapedAt": "2026-10-05",
     "fees": [
       {
         "category": "Fee",
@@ -536,7 +620,7 @@
     "applyOnlineLink": "https://recruitment.jharkhand.gov.in/Home/fileDownload/198",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-04"
+    "scrapedAt": "2026-10-05"
   },
   {
     "id": "jharkhand-iit (ism) dhanbad-senior-project-associate",
@@ -553,7 +637,7 @@
     "applyOnlineLink": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/1150/Project%20Associate_2026-09-19_18-22-48.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-04"
+    "scrapedAt": "2026-10-05"
   },
   {
     "id": "jharkhand-aiims deoghar-professor-assistant-professor-and-more",
@@ -570,7 +654,7 @@
     "applyOnlineLink": "https://www.aiimsdeoghar.edu.in/Content/resources/document/Recruitment/9th_rolling_phase_2_faculty_advertisement_14092026091141380.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-04"
+    "scrapedAt": "2026-10-05"
   },
   {
     "id": "jharkhand-jscps-chairperson-social-worker-member",
@@ -587,7 +671,7 @@
     "applyOnlineLink": "https://recruitment.jharkhand.gov.in/Home/fileDownload/199",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-04"
+    "scrapedAt": "2026-10-05"
   },
   {
     "id": "jharkhand-junior plant protection office hazaribagh-crop-guard",
@@ -604,7 +688,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3ed265bc903a5a097f61d3ec064d96d2e/uploads/2026/09/17892097098106.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-04"
+    "scrapedAt": "2026-10-05"
   },
   {
     "id": "jharkhand-jharkhand home guard corps-home-guard-grih-rakshak-",
@@ -621,7 +705,7 @@
     "applyOnlineLink": "https://recruitment.jharkhand.gov.in/",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-04",
+    "scrapedAt": "2026-10-05",
     "fees": [
       {
         "category": "Fee",
@@ -680,7 +764,7 @@
     "applyOnlineLink": "https://recruitment.jharkhand.gov.in/Home/fileDownload/197",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-04"
+    "scrapedAt": "2026-10-05"
   },
   {
     "id": "jharkhand-aai-graduate-apprentice-diploma-apprentice-iti-apprent",
@@ -697,7 +781,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-04",
+    "scrapedAt": "2026-10-05",
     "fees": [],
     "dates": [
       {
@@ -755,7 +839,7 @@
     "applyOnlineLink": "https://jsscjtaacce.ibtexamination.com/",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-04",
+    "scrapedAt": "2026-10-05",
     "fees": [
       {
         "category": "General/Other candidates",

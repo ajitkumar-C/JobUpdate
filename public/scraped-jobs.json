@@ -3,7 +3,7 @@
     "id": "result-up-home-guard-final-2026",
     "title": "UP Home Guard Final Result 2026",
     "category": "Result",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "UP Home Guard Final Result 2026. Read notification for detailed information.",
     "applicationStart": "18 November 2025",
     "applicationLastDate": "17 December 2025",
@@ -57,7 +57,7 @@
     "id": "result-rrb-alp-cbt-ii-2026",
     "title": "RRB ALP CBT-II Result 2026",
     "category": "Result",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "RRB ALP CBT-II Result 2026. Read notification for detailed information.",
     "applicationStart": "12 April 2025",
     "applicationLastDate": "19 May 2025",
@@ -108,7 +108,7 @@
     "id": "result-rpsc-apo-2026",
     "title": "RPSC APO Result 2026",
     "category": "Result",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "RPSC APO Result 2026. Read notification for detailed information.",
     "applicationStart": "08 June 2026",
     "applicationLastDate": "07 July 2026",
@@ -160,7 +160,7 @@
     "id": "result-upsssc-platoon-commander-block-organizer-eligibility",
     "title": "UPSSSC Platoon Commander / Block Organizer Eligibility Result 2026",
     "category": "Result",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "UPSSSC Platoon Commander / Block Organizer Eligibility Result 2026. Read notification for detailed information.",
     "applicationStart": "16 June 2026",
     "applicationLastDate": "06 July 2026",
@@ -212,7 +212,7 @@
     "id": "result-upsssc-havildar-instructor-eligibility-2026",
     "title": "UPSSSC Havildar Instructor Eligibility Result 2026",
     "category": "Result",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "UPSSSC Havildar Instructor Eligibility Result 2026. Read notification for detailed information.",
     "applicationStart": "19 June 2026",
     "applicationLastDate": "09 July 2026",
@@ -264,7 +264,7 @@
     "id": "result-upsssc-enforcement-constable-final-2026",
     "title": "UPSSSC Enforcement Constable Final Result 2026",
     "category": "Result",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "UPSSSC Enforcement Constable Final Result 2026. Read notification for detailed information.",
     "applicationStart": "07 July 2023",
     "applicationLastDate": "28 July 2023",
@@ -315,38 +315,39 @@
     "totalVacanciesCount": "477 Posts"
   },
   {
-    "id": "admit-card-rrb-section-controller-city-details-2026",
-    "title": "RRB Section Controller Exam City Details 2026",
+    "id": "admit-card-railway-rrb-technician-admit-card-2026",
+    "title": "Railway RRB Technician Admit Card 2026",
     "category": "Admit Card",
-    "postDate": "2026-10-04",
-    "shortInfo": "RRB Section Controller Exam City Details 2026. Read notification for detailed information.",
-    "applicationStart": "15 July 2026",
-    "applicationLastDate": "14 August 2026 (23:59 PM)",
-    "feeLastDate": "14 August 2026 (23:59 PM)",
-    "examDate": "What details are required to check the RRB Section Controller Exam Date?",
+    "postDate": "2026-10-05",
+    "shortInfo": "Railway RRB Technician Admit Card 2026. Read notification for detailed information.",
+    "applicationStart": "30 June 2026",
+    "applicationLastDate": "29 July 2026",
+    "feeLastDate": "29 July 2026",
+    "examDate": "RRB Technician Admit Card is generally made available a few days before the candidate’s scheduled examination date.",
     "admitCardDate": "To be announced",
     "fees": {
-      "generalObc": "₹ 500/-",
-      "scStPh": "Rs. 250/-",
-      "female": "Rs. 250/-",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+      "generalObc": "Exempted / Not Applicable",
+      "scStPh": "₹ 250/-",
+      "female": "₹ 250/-",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:"
     },
     "ageLimit": {
-      "min": "20 Years",
-      "max": "33 Years",
+      "min": "18 Years",
+      "max": "33 Years (Technician Gr-I Signal)",
       "relaxationText": "Age relaxation applies as per rules."
     },
     "vacancies": [
       {
-        "postName": "RRB Section Controller Exam City Details 2026",
+        "postName": "Railway RRB Technician Admit Card 2026",
         "totalPost": "Refer to Notification",
         "eligibility": "See official guidelines"
       }
     ],
     "importantLinks": {
-      "applyOnline": "https://www.rrbapply.gov.in/",
-      "downloadNotification": "https://rrb.indianrailways.gov.in/-/image/1784023647659FINAL_CEN_03_2026_SECTION_CONTROLLER.pdf/examsDocuments",
-      "officialWebsite": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,7,1281",
+      "applyOnline": "https://www.rrbapply.gov.in/#/auth/landing",
+      "downloadNotification": "https://www.rrbthiruvananthapuram.gov.in/assets/pdf/Detailed_CEN_02_20262.pdf",
+      "officialWebsite": "https://indianrailways.gov.in/",
+      "admitCardUrl": "https://rrb.digialm.com//EForms/configuredHtml/33128/102594/meI2OsGJezsPvhZrvT/login.html",
       "resultUrl": "https://sarkariresult.com.cm/"
     },
     "status": "active",
@@ -370,7 +371,7 @@
     "id": "admit-card-ssc-cgl-tier-i-admit-card",
     "title": "SSC CGL Tier-I Admit Card 2026",
     "category": "Admit Card",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "SSC CGL Tier-I Admit Card 2026. Read notification for detailed information.",
     "applicationStart": "21 May 2026",
     "applicationLastDate": "25 June 2026",
@@ -421,63 +422,10 @@
     "totalVacanciesCount": "Refer to Notification"
   },
   {
-    "id": "admit-card-railway-rrb-technician-admit-card-2026",
-    "title": "Railway RRB Technician Admit Card 2026",
-    "category": "Admit Card",
-    "postDate": "2026-10-04",
-    "shortInfo": "Railway RRB Technician Admit Card 2026. Read notification for detailed information.",
-    "applicationStart": "30 June 2026",
-    "applicationLastDate": "29 July 2026",
-    "feeLastDate": "29 July 2026",
-    "examDate": "RRB Technician Admit Card is generally made available a few days before the candidate’s scheduled examination date.",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "Exempted / Not Applicable",
-      "scStPh": "₹ 250/-",
-      "female": "₹ 250/-",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:"
-    },
-    "ageLimit": {
-      "min": "18 Years",
-      "max": "33 Years (Technician Gr-I Signal)",
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "Railway RRB Technician Admit Card 2026",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://www.rrbapply.gov.in/#/auth/landing",
-      "downloadNotification": "https://www.rrbthiruvananthapuram.gov.in/assets/pdf/Detailed_CEN_02_20262.pdf",
-      "officialWebsite": "https://indianrailways.gov.in/",
-      "admitCardUrl": "https://rrb.digialm.com//EForms/configuredHtml/33128/102594/meI2OsGJezsPvhZrvT/login.html",
-      "resultUrl": "https://sarkariresult.com.cm/"
-    },
-    "status": "active",
-    "salary": "As per Government Rules / Pay Matrix",
-    "selectionProcess": [
-      "Download Online Admit Card / Hall Ticket",
-      "Appear for Written / Online Computer Based Test (CBT)",
-      "Check Answer Key & Result"
-    ],
-    "howToApply": [
-      "Click on the direct \"Download Admit Card / Hall Ticket\" link provided below.",
-      "Enter your Registration Number / Roll Number and Date of Birth (DOB) or Password.",
-      "Click on \"Submit\" or \"Login\" to view your Hall Ticket on screen.",
-      "Check all details thoroughly: Exam Center, Reporting Time, Shift, and Roll Number.",
-      "Download and print at least 2 clear copies of the Admit Card along with the official instructions."
-    ],
-    "jobLocation": "All India (Central Govt)",
-    "totalVacanciesCount": "Refer to Notification"
-  },
-  {
     "id": "admit-card-ibps-clerk-csa-16th-pre-admit",
     "title": "IBPS Clerk (CSA) 16th Pre Admit Card 2026",
     "category": "Admit Card",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "IBPS Clerk (CSA) 16th Pre Admit Card 2026. Read notification for detailed information.",
     "applicationStart": "01 August 2026",
     "applicationLastDate": "28 August 2026 Extended",
@@ -526,10 +474,62 @@
     "totalVacanciesCount": "Refer to Notification"
   },
   {
+    "id": "admit-card-rrb-section-controller-city-details-2026",
+    "title": "RRB Section Controller Exam City Details 2026",
+    "category": "Admit Card",
+    "postDate": "2026-10-05",
+    "shortInfo": "RRB Section Controller Exam City Details 2026. Read notification for detailed information.",
+    "applicationStart": "15 July 2026",
+    "applicationLastDate": "14 August 2026 (23:59 PM)",
+    "feeLastDate": "14 August 2026 (23:59 PM)",
+    "examDate": "What details are required to check the RRB Section Controller Exam Date?",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "₹ 500/-",
+      "scStPh": "Rs. 250/-",
+      "female": "Rs. 250/-",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "min": "20 Years",
+      "max": "33 Years",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "RRB Section Controller Exam City Details 2026",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://www.rrbapply.gov.in/",
+      "downloadNotification": "https://rrb.indianrailways.gov.in/-/image/1784023647659FINAL_CEN_03_2026_SECTION_CONTROLLER.pdf/examsDocuments",
+      "officialWebsite": "https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,7,1281",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Download Online Admit Card / Hall Ticket",
+      "Appear for Written / Online Computer Based Test (CBT)",
+      "Check Answer Key & Result"
+    ],
+    "howToApply": [
+      "Click on the direct \"Download Admit Card / Hall Ticket\" link provided below.",
+      "Enter your Registration Number / Roll Number and Date of Birth (DOB) or Password.",
+      "Click on \"Submit\" or \"Login\" to view your Hall Ticket on screen.",
+      "Check all details thoroughly: Exam Center, Reporting Time, Shift, and Roll Number.",
+      "Download and print at least 2 clear copies of the Admit Card along with the official instructions."
+    ],
+    "jobLocation": "All India (Central Govt)",
+    "totalVacanciesCount": "Refer to Notification"
+  },
+  {
     "id": "admit-card-ssc-junior-engineer-je-date-2026",
     "title": "SSC Junior Engineer JE Exam Date 2026",
     "category": "Admit Card",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "SSC Junior Engineer JE Exam Date 2026. Read notification for detailed information.",
     "applicationStart": "02 September 2026",
     "applicationLastDate": "22 September 2026",
@@ -581,7 +581,7 @@
     "id": "admit-card-rrb-junior-engineer-je-date-2026",
     "title": "RRB Junior Engineer JE Exam Date 2026",
     "category": "Admit Card",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "RRB Junior Engineer JE Exam Date 2026. Read notification for detailed information.",
     "applicationStart": "14 August 2026",
     "applicationLastDate": "Refer to notification",
@@ -634,7 +634,7 @@
     "id": "latest-jobs-bpsc-school-teacher-tre-4-0",
     "title": "BPSC School Teacher TRE 4.0 Recruitment 2026",
     "category": "Latest Jobs",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "BPSC School Teacher TRE 4.0 Recruitment 2026. Read notification for detailed information.",
     "applicationStart": "25 September 2026",
     "applicationLastDate": "26 October 2026",
@@ -685,64 +685,10 @@
     "totalVacanciesCount": "Refer to Notification"
   },
   {
-    "id": "latest-jobs-up-special-tet-2026",
-    "title": "UP Special TET Online Form 2026",
-    "category": "Latest Jobs",
-    "postDate": "2026-10-04",
-    "shortInfo": "UP Special TET Online Form 2026. Read notification for detailed information.",
-    "applicationStart": "05 September 2026",
-    "applicationLastDate": "04 October 2026",
-    "feeLastDate": "04 October 2026",
-    "examDate": "03 November 2026",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "Refer to Notification",
-      "scStPh": "Refer to Notification",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
-    },
-    "ageLimit": {
-      "min": "60 Years",
-      "max": "60 Years",
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "UP Special TET Online Form 2026",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://apply.upessc.org/",
-      "downloadNotification": "https://www.upessc.up.gov.in/Notice/badc-2f84-4983-44c3-12bf.pdf",
-      "officialWebsite": "https://www.upessc.up.gov.in/",
-      "syllabusUrl": "https://www.upessc.up.gov.in/syllabus/ede204de-908b-435f-9028-5fe87a4d460c.pdf",
-      "resultUrl": "https://sarkariresult.com.cm/"
-    },
-    "status": "active",
-    "salary": "As per Government Rules / Pay Matrix",
-    "selectionProcess": [
-      "Written Examination (CBT / OMR)",
-      "Skill / Trade Test (if applicable)",
-      "Document Verification (DV)",
-      "Medical Examination (As per Rules)"
-    ],
-    "howToApply": [
-      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
-      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
-      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
-      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
-      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
-      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
-    ],
-    "jobLocation": "Uttar Pradesh",
-    "totalVacanciesCount": "Refer to Notification"
-  },
-  {
     "id": "latest-jobs-ssc-chsl-10-2-2026",
     "title": "SSC CHSL 10+2 Recruitment 2026",
     "category": "Latest Jobs",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "SSC CHSL 10+2 Recruitment 2026. Read notification for detailed information.",
     "applicationStart": "07 September 2026",
     "applicationLastDate": "07 October 2026",
@@ -798,7 +744,7 @@
     "id": "latest-jobs-rrb-ntpc-10-2-ug-2026",
     "title": "RRB NTPC 10+2 UG Recruitment 2026",
     "category": "Latest Jobs",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "RRB NTPC 10+2 UG Recruitment 2026. Read notification for detailed information.",
     "applicationStart": "15 October 2026",
     "applicationLastDate": "13 November 2026",
@@ -849,10 +795,197 @@
     "totalVacanciesCount": "Refer to Notification"
   },
   {
+    "id": "latest-jobs-assam-rifles-technical-tradesman-2026",
+    "title": "Assam Rifles Technical / Tradesman Recruitment 2026",
+    "category": "Latest Jobs",
+    "postDate": "2026-10-05",
+    "shortInfo": "Assam Rifles Technical / Tradesman Recruitment 2026. Read notification for detailed information.",
+    "applicationStart": "28 September 2026",
+    "applicationLastDate": "28 October 2026",
+    "feeLastDate": "28 October 2026",
+    "examDate": "To be announced",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "Refer to Notification",
+      "scStPh": "Refer to Notification",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "min": "18 Years",
+      "max": "25 Years",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Warrant Officer (Cipher)",
+        "totalPost": "124",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Rifleman (Lineman Field)",
+        "totalPost": "21",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Rifleman (Engineer Equipment Mechanic)",
+        "totalPost": "10",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Rifleman (Electrician Motor Vehicle)",
+        "totalPost": "22",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Rifleman (Metalsmith)",
+        "totalPost": "19",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Rifleman Store Keeper Technical (EME)",
+        "totalPost": "16",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Rifleman (Welder)",
+        "totalPost": "02",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Warrant Officer (Operation Theatre Technician)",
+        "totalPost": "01",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Rifleman (Mason)",
+        "totalPost": "29",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Rifleman (Electrical Fitter Signal)",
+        "totalPost": "32",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Rifleman (Armorer)",
+        "totalPost": "29",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Rifleman (Recovery Vehicle Mechanic)",
+        "totalPost": "13",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Havildar (Instrument Mechanic)",
+        "totalPost": "06",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Rifleman (Upholster)",
+        "totalPost": "03",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Rifleman (Vehicle Mechanic)",
+        "totalPost": "23",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Warrant Officer (Draughtsman)",
+        "totalPost": "02",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Warrant Officer (Physiotherapist)",
+        "totalPost": "02",
+        "eligibility": "Refer to official notification details"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://www.assamrifles.gov.in/onlineapp/Default.aspx",
+      "downloadNotification": "http://sarkariresult.com.cm/wp-content/uploads/2026/09/Assam-Rifles-Technical-Tradesman-Notification-2026.pdf",
+      "officialWebsite": "https://www.assamrifles.gov.in/",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Written Examination (CBT / OMR)",
+      "Skill / Trade Test (if applicable)",
+      "Document Verification (DV)",
+      "Medical Examination (As per Rules)"
+    ],
+    "howToApply": [
+      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
+      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
+      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
+      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
+      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
+      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
+    ],
+    "jobLocation": "All India / State-Wise",
+    "totalVacanciesCount": "354 Posts"
+  },
+  {
+    "id": "latest-jobs-rrb-ntpc-graduate-level-2026",
+    "title": "RRB NTPC Graduate Level Recruitment 2026",
+    "category": "Latest Jobs",
+    "postDate": "2026-10-05",
+    "shortInfo": "RRB NTPC Graduate Level Recruitment 2026. Read notification for detailed information.",
+    "applicationStart": "08 October 2026 Tentative",
+    "applicationLastDate": "06 November 2026 Tentative",
+    "feeLastDate": "06 November 2026 Tentative",
+    "examDate": "Notify Later",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "General / OBC : Rs. 400/- will be refunded and Other candidates : Rs. 250/- will be refunded to the bank account after appearing in Stage I Exam.",
+      "scStPh": "₹ 250/-",
+      "female": "₹ 250/-",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "min": "18 Years",
+      "max": "33 Years",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "NTPC Graduate Level",
+        "totalPost": "3477",
+        "eligibility": "Refer to official notification details"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://whatsapp.com/channel/0029VaAbQf01NCrYADMLt00L",
+      "downloadNotification": "https://whatsapp.com/channel/0029VaAbQf01NCrYADMLt00L",
+      "officialWebsite": "https://www.rrbapply.gov.in/#/auth/landing",
+      "syllabusUrl": "http://sarkariresult.com.cm/wp-content/uploads/2025/10/Final-CEN-06-2025-21-10-2025-Publish-18-20.pdf"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Written Examination (CBT / OMR)",
+      "Skill / Trade Test (if applicable)",
+      "Document Verification (DV)",
+      "Medical Examination (As per Rules)"
+    ],
+    "howToApply": [
+      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
+      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
+      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
+      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
+      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
+      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
+    ],
+    "jobLocation": "All India (Central Govt)",
+    "totalVacanciesCount": "3,477 Posts"
+  },
+  {
     "id": "latest-jobs-upessc-prt-assistant-teacher-2026",
     "title": "UPESSC PRT Assistant Teacher Recruitment 2026",
     "category": "Latest Jobs",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "UPESSC PRT Assistant Teacher Recruitment 2026. Read notification for detailed information.",
     "applicationStart": "16 September 2026",
     "applicationLastDate": "15 October 2026",
@@ -903,63 +1036,10 @@
     "totalVacanciesCount": "Refer to Notification"
   },
   {
-    "id": "latest-jobs-csir-ngri-technician-2026",
-    "title": "CSIR NGRI Technician Recruitment 2026",
-    "category": "Latest Jobs",
-    "postDate": "2026-10-04",
-    "shortInfo": "CSIR NGRI Technician Recruitment 2026. Read notification for detailed information.",
-    "applicationStart": "05 September 2026",
-    "applicationLastDate": "Refer to notification",
-    "feeLastDate": "04 October 2026",
-    "examDate": "Notify Later",
-    "admitCardDate": "To be announced",
-    "resultDate": "Will Be Updated Here Soon",
-    "fees": {
-      "generalObc": "₹ 500/-",
-      "scStPh": "₹ 00/-",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:"
-    },
-    "ageLimit": {
-      "min": "18 Years",
-      "max": "28 Years",
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "Technician",
-        "totalPost": "21 Post",
-        "eligibility": "Refer to official notification details"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://tiru.ngri.res.in/ngri_tech/",
-      "downloadNotification": "https://tiru.ngri.res.in/ngri_tech/files/NGRI_Advt_Technician2026_hin.pdf",
-      "officialWebsite": "https://www.ngri.res.in/",
-      "resultUrl": "https://sarkariresult.com.cm/"
-    },
-    "status": "active",
-    "salary": "As per Government Rules / Pay Matrix",
-    "selectionProcess": [
-      "Stage-1 CBT Examination",
-      "Stage-2 Technical Paper CBT",
-      "Document Verification & Medical Fitness"
-    ],
-    "howToApply": [
-      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
-      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
-      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
-      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
-      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
-      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
-    ],
-    "jobLocation": "All India / State-Wise",
-    "totalVacanciesCount": "21 Posts"
-  },
-  {
     "id": "answer-key-nbems-group-b-c-various-answer",
     "title": "NBEMS Group A, B & C Various Post Answer Key 2026",
     "category": "Answer Key",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "NBEMS Group A, B & C Various Post Answer Key 2026. Read notification for detailed information.",
     "applicationStart": "07 July 2026",
     "applicationLastDate": "31 July 2026",
@@ -1032,7 +1112,7 @@
     "id": "answer-key-upsssc-forensic-science-laboratory-answer-key",
     "title": "UPSSSC Forensic Science Laboratory Answer Key 2026",
     "category": "Answer Key",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "UPSSSC Forensic Science Laboratory Answer Key 2026. Read notification for detailed information.",
     "applicationStart": "27 July 2026",
     "applicationLastDate": "24 August 2026 Extended",
@@ -1101,7 +1181,7 @@
     "id": "answer-key-upsssc-forest-guard-wildlife-guard-answer",
     "title": "UPSSSC Forest Guard / Wildlife Guard Answer Key 2026",
     "category": "Answer Key",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "UPSSSC Forest Guard / Wildlife Guard Answer Key 2026. Read notification for detailed information.",
     "applicationStart": "30 June 2026",
     "applicationLastDate": "20 July 2026",
@@ -1155,7 +1235,7 @@
     "id": "answer-key-upessc-principal-answer-key-2026",
     "title": "UPESSC Principal Answer Key 2026",
     "category": "Answer Key",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "UPESSC Principal Answer Key 2026. Read notification for detailed information.",
     "applicationStart": "21 July 2026",
     "applicationLastDate": "20 August 2026",
@@ -1207,7 +1287,7 @@
     "id": "answer-key-indian-airforce-group-y-medical-assistant",
     "title": "Indian Airforce Group Y/ Medical Assistant Airmen Intake 02/2027 Answer Key",
     "category": "Answer Key",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "Indian Airforce Group Y/ Medical Assistant Airmen Intake 02/2027 Answer Key. Read notification for detailed information.",
     "applicationStart": "06 July 2026",
     "applicationLastDate": "26 July 2026",
@@ -1257,7 +1337,7 @@
     "id": "answer-key-indian-airforce-agniveer-vayu-intake-02",
     "title": "Indian Airforce Agniveer Vayu Intake 02/2027 Answer Key",
     "category": "Answer Key",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "Indian Airforce Agniveer Vayu Intake 02/2027 Answer Key. Read notification for detailed information.",
     "applicationStart": "06 July 2026",
     "applicationLastDate": "26 July 2026",
@@ -1310,7 +1390,7 @@
     "id": "syllabus-up-scholarship-2026-27",
     "title": "UP Scholarship Online Form 2026-27",
     "category": "Syllabus",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "UP Scholarship Online Form 2026-27. Read notification for detailed information.",
     "applicationStart": "22 July 2026",
     "applicationLastDate": "Refer to notification",
@@ -1360,7 +1440,7 @@
     "id": "syllabus-rajasthan-uttar-matric-scholarship-2026",
     "title": "Rajasthan Uttar Matric Scholarship 2026",
     "category": "Syllabus",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "Rajasthan Uttar Matric Scholarship 2026. Read notification for detailed information.",
     "applicationStart": "15 August 2026",
     "applicationLastDate": "31 October 2026",
@@ -1410,7 +1490,7 @@
     "id": "syllabus-nielit-ccc-admit-card-2026",
     "title": "NIELIT CCC Online Form, Admit Card, Result 2026",
     "category": "Syllabus",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "NIELIT CCC Online Form, Admit Card, Result 2026. Read notification for detailed information.",
     "applicationStart": "January 2026",
     "applicationLastDate": "December 2026",
@@ -1463,7 +1543,7 @@
     "id": "syllabus-aadhar-card-download-correction-status-2026",
     "title": "Aadhar Card Download, Correction, Status 2026",
     "category": "Syllabus",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "Aadhar Card Download, Correction, Status 2026. Read notification for detailed information.",
     "applicationStart": "Available soon",
     "applicationLastDate": "Refer to notification",
@@ -1513,7 +1593,7 @@
     "id": "syllabus-pan-card-correction-other-service-2026",
     "title": "PAN Card Registration, Correction & Other Service 2026",
     "category": "Syllabus",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "PAN Card Registration, Correction & Other Service 2026. Read notification for detailed information.",
     "applicationStart": "Already Start",
     "applicationLastDate": "Not Available",
@@ -1563,7 +1643,7 @@
     "id": "syllabus-up-income-cast-residential-verification-2026",
     "title": "UP Income, Cast, Residential Certificate Online Verification 2026",
     "category": "Syllabus",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "UP Income, Cast, Residential Certificate Online Verification 2026. Read notification for detailed information.",
     "applicationStart": "Already Start",
     "applicationLastDate": "Not Available",
@@ -1613,7 +1693,7 @@
     "id": "admission-bihar-library-eligibility-test-blet-2026",
     "title": "Bihar Library Eligibility Test BLET Online Form 2026",
     "category": "Admission",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "Bihar Library Eligibility Test BLET Online Form 2026. Read notification for detailed information.",
     "applicationStart": "01 October 2026",
     "applicationLastDate": "21 October 2026",
@@ -1668,7 +1748,7 @@
     "id": "admission-nvs-class-9th-2027-28",
     "title": "NVS Class 9th Admission Form 2027-28",
     "category": "Admission",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "NVS Class 9th Admission Form 2027-28. Read notification for detailed information.",
     "applicationStart": "02 September 2026",
     "applicationLastDate": "15 October 2026 Extended",
@@ -1720,7 +1800,7 @@
     "id": "admission-nvs-class-11th-2027-28",
     "title": "NVS Class 11th Admission Form 2027-28",
     "category": "Admission",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "NVS Class 11th Admission Form 2027-28. Read notification for detailed information.",
     "applicationStart": "02 September 2026",
     "applicationLastDate": "15 October 2026 Extended",
@@ -1772,7 +1852,7 @@
     "id": "admission-aibe-22th-2026",
     "title": "AIBE 22th Online Form 2026",
     "category": "Admission",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "AIBE 22th Online Form 2026. Read notification for detailed information.",
     "applicationStart": "19 August 2026",
     "applicationLastDate": "27 October 2026",
@@ -1825,7 +1905,7 @@
     "id": "admission-iit-gate-2027",
     "title": "IIT GATE 2027 Admission Form",
     "category": "Admission",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "IIT GATE 2027 Admission Form. Read notification for detailed information.",
     "applicationStart": "27 August 2026",
     "applicationLastDate": "Refer to notification",
@@ -1878,7 +1958,7 @@
     "id": "admission-clat-2026",
     "title": "CLAT Admission Form 2026",
     "category": "Admission",
-    "postDate": "2026-10-04",
+    "postDate": "2026-10-05",
     "shortInfo": "CLAT Admission Form 2026. Read notification for detailed information.",
     "applicationStart": "03 August 2026",
     "applicationLastDate": "31 October 2026",
@@ -1926,6 +2006,113 @@
     ],
     "jobLocation": "All India / State-Wise",
     "totalVacanciesCount": "Refer to Notification"
+  },
+  {
+    "id": "latest-jobs-up-special-tet-2026",
+    "title": "UP Special TET Online Form 2026",
+    "category": "Latest Jobs",
+    "postDate": "2026-10-04",
+    "shortInfo": "UP Special TET Online Form 2026. Read notification for detailed information.",
+    "applicationStart": "05 September 2026",
+    "applicationLastDate": "04 October 2026",
+    "feeLastDate": "04 October 2026",
+    "examDate": "03 November 2026",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "Refer to Notification",
+      "scStPh": "Refer to Notification",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "min": "60 Years",
+      "max": "60 Years",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "UP Special TET Online Form 2026",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://apply.upessc.org/",
+      "downloadNotification": "https://www.upessc.up.gov.in/Notice/badc-2f84-4983-44c3-12bf.pdf",
+      "officialWebsite": "https://www.upessc.up.gov.in/",
+      "syllabusUrl": "https://www.upessc.up.gov.in/syllabus/ede204de-908b-435f-9028-5fe87a4d460c.pdf",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Written Examination (CBT / OMR)",
+      "Skill / Trade Test (if applicable)",
+      "Document Verification (DV)",
+      "Medical Examination (As per Rules)"
+    ],
+    "howToApply": [
+      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
+      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
+      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
+      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
+      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
+      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
+    ],
+    "jobLocation": "Uttar Pradesh",
+    "totalVacanciesCount": "Refer to Notification"
+  },
+  {
+    "id": "latest-jobs-csir-ngri-technician-2026",
+    "title": "CSIR NGRI Technician Recruitment 2026",
+    "category": "Latest Jobs",
+    "postDate": "2026-10-04",
+    "shortInfo": "CSIR NGRI Technician Recruitment 2026. Read notification for detailed information.",
+    "applicationStart": "05 September 2026",
+    "applicationLastDate": "Refer to notification",
+    "feeLastDate": "04 October 2026",
+    "examDate": "Notify Later",
+    "admitCardDate": "To be announced",
+    "resultDate": "Will Be Updated Here Soon",
+    "fees": {
+      "generalObc": "₹ 500/-",
+      "scStPh": "₹ 00/-",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:"
+    },
+    "ageLimit": {
+      "min": "18 Years",
+      "max": "28 Years",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Technician",
+        "totalPost": "21 Post",
+        "eligibility": "Refer to official notification details"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://tiru.ngri.res.in/ngri_tech/",
+      "downloadNotification": "https://tiru.ngri.res.in/ngri_tech/files/NGRI_Advt_Technician2026_hin.pdf",
+      "officialWebsite": "https://www.ngri.res.in/",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Stage-1 CBT Examination",
+      "Stage-2 Technical Paper CBT",
+      "Document Verification & Medical Fitness"
+    ],
+    "howToApply": [
+      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
+      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
+      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
+      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
+      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
+      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
+    ],
+    "jobLocation": "All India / State-Wise",
+    "totalVacanciesCount": "21 Posts"
   },
   {
     "id": "latest-jobs-dsssb-delhi-district-court-various-2026",
@@ -3009,139 +3196,6 @@
     ],
     "jobLocation": "Jharkhand",
     "totalVacanciesCount": "Refer to Notification"
-  },
-  {
-    "id": "latest-jobs-assam-rifles-technical-tradesman-2026",
-    "title": "Assam Rifles Technical / Tradesman Recruitment 2026",
-    "category": "Latest Jobs",
-    "postDate": "2026-10-01",
-    "shortInfo": "Assam Rifles Technical / Tradesman Recruitment 2026. Read notification for detailed information.",
-    "applicationStart": "28 September 2026",
-    "applicationLastDate": "28 October 2026",
-    "feeLastDate": "28 October 2026",
-    "examDate": "To be announced",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "Refer to Notification",
-      "scStPh": "Refer to Notification",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
-    },
-    "ageLimit": {
-      "min": "18 Years",
-      "max": "25 Years",
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "Warrant Officer (Cipher)",
-        "totalPost": "124",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Rifleman (Lineman Field)",
-        "totalPost": "21",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Rifleman (Engineer Equipment Mechanic)",
-        "totalPost": "10",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Rifleman (Electrician Motor Vehicle)",
-        "totalPost": "22",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Rifleman (Metalsmith)",
-        "totalPost": "19",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Rifleman Store Keeper Technical (EME)",
-        "totalPost": "16",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Rifleman (Welder)",
-        "totalPost": "02",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Warrant Officer (Operation Theatre Technician)",
-        "totalPost": "01",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Rifleman (Mason)",
-        "totalPost": "29",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Rifleman (Electrical Fitter Signal)",
-        "totalPost": "32",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Rifleman (Armorer)",
-        "totalPost": "29",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Rifleman (Recovery Vehicle Mechanic)",
-        "totalPost": "13",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Havildar (Instrument Mechanic)",
-        "totalPost": "06",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Rifleman (Upholster)",
-        "totalPost": "03",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Rifleman (Vehicle Mechanic)",
-        "totalPost": "23",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Warrant Officer (Draughtsman)",
-        "totalPost": "02",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Warrant Officer (Physiotherapist)",
-        "totalPost": "02",
-        "eligibility": "Refer to official notification details"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://www.assamrifles.gov.in/onlineapp/Default.aspx",
-      "downloadNotification": "http://sarkariresult.com.cm/wp-content/uploads/2026/09/Assam-Rifles-Technical-Tradesman-Notification-2026.pdf",
-      "officialWebsite": "https://www.assamrifles.gov.in/",
-      "resultUrl": "https://sarkariresult.com.cm/"
-    },
-    "status": "active",
-    "salary": "As per Government Rules / Pay Matrix",
-    "selectionProcess": [
-      "Written Examination (CBT / OMR)",
-      "Skill / Trade Test (if applicable)",
-      "Document Verification (DV)",
-      "Medical Examination (As per Rules)"
-    ],
-    "howToApply": [
-      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
-      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
-      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
-      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
-      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
-      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
-    ],
-    "jobLocation": "All India / State-Wise",
-    "totalVacanciesCount": "354 Posts"
   },
   {
     "id": "latest-jobs-canara-bank-apprentice-2026",
@@ -6403,60 +6457,6 @@
     ],
     "jobLocation": "Uttar Pradesh",
     "totalVacanciesCount": "Refer to Notification"
-  },
-  {
-    "id": "latest-jobs-rrb-ntpc-graduate-level-2026",
-    "title": "RRB NTPC Graduate Level Recruitment 2026",
-    "category": "Latest Jobs",
-    "postDate": "2026-09-25",
-    "shortInfo": "RRB NTPC Graduate Level Recruitment 2026. Read notification for detailed information.",
-    "applicationStart": "08 October 2026 Tentative",
-    "applicationLastDate": "06 November 2026 Tentative",
-    "feeLastDate": "06 November 2026 Tentative",
-    "examDate": "Notify Later",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "General / OBC : Rs. 400/- will be refunded and Other candidates : Rs. 250/- will be refunded to the bank account after appearing in Stage I Exam.",
-      "scStPh": "₹ 250/-",
-      "female": "₹ 250/-",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
-    },
-    "ageLimit": {
-      "min": "18 Years",
-      "max": "33 Years",
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "NTPC Graduate Level",
-        "totalPost": "3477",
-        "eligibility": "Refer to official notification details"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://whatsapp.com/channel/0029VaAbQf01NCrYADMLt00L",
-      "downloadNotification": "https://whatsapp.com/channel/0029VaAbQf01NCrYADMLt00L",
-      "officialWebsite": "https://www.rrbapply.gov.in/#/auth/landing",
-      "syllabusUrl": "http://sarkariresult.com.cm/wp-content/uploads/2025/10/Final-CEN-06-2025-21-10-2025-Publish-18-20.pdf"
-    },
-    "status": "active",
-    "salary": "As per Government Rules / Pay Matrix",
-    "selectionProcess": [
-      "Written Examination (CBT / OMR)",
-      "Skill / Trade Test (if applicable)",
-      "Document Verification (DV)",
-      "Medical Examination (As per Rules)"
-    ],
-    "howToApply": [
-      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
-      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
-      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
-      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
-      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
-      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
-    ],
-    "jobLocation": "All India (Central Govt)",
-    "totalVacanciesCount": "3,477 Posts"
   },
   {
     "id": "latest-jobs-bihar-btsc-touring-veterinary-officer-2026",

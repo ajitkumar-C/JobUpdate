@@ -1,5 +1,97 @@
 [
   {
+    "id": "uttarakhand-uksssc-technician-grade-ii-electrical-technician-grade-ii",
+    "title": "UKSSSC Recruitment 2026 – Technician Grade II (Electrical), Technician Grade II (Mechanical) Posts",
+    "shortInfo": "UKSSSC has announced notification for Technician Grade II (Electrical), Technician Grade II (Mechanical) posts. Required qualification: High School (10th), Vocational Certificate. Last date to apply: 25-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "78",
+    "lastDate": "25-11-26",
+    "officialWebsite": "https://sssc.uk.gov.in/",
+    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s34ffd0e19d2069412274bd3025b0e176c/uploads/2026/10/202610052099111360.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/uksssc-technician-recruitment-2026/",
+    "state": "Uttarakhand",
+    "stateCode": "uttarakhand",
+    "scrapedAt": "2026-10-06",
+    "fees": [
+      {
+        "category": "Unreserved (UR) / Uttarakhand OBC",
+        "fee": "Rs. 300/-"
+      },
+      {
+        "category": "Uttarakhand SC / Uttarakhand ST / EWS",
+        "fee": "Rs. 150/-"
+      },
+      {
+        "category": "Uttarakhand Divyang (PwD)",
+        "fee": "Rs. 150/-"
+      },
+      {
+        "category": "Orphan (Anath)",
+        "fee": "Rs. 0/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Publication Date",
+        "date": "05/10/2026"
+      },
+      {
+        "event": "Online Application Start Date",
+        "date": "12/10/2026"
+      },
+      {
+        "event": "Online Application Last Date",
+        "date": "25/11/2026"
+      },
+      {
+        "event": "Online Application Form Correction/Edit Date (28 to 30 Nov 2026)",
+        "date": ""
+      },
+      {
+        "event": "Written Competitive Exam Tentative Date",
+        "date": "14/03/2027"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Technician Grade II (Electrical) - Power Transmission Corporation of Uttarakhand Ltd.",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Grade II (Electrical) - Uttarakhand Jal Vidyut Nigam Ltd.",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Grade II (Mechanical) - Uttarakhand Jal Vidyut Nigam Ltd.",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website www.sssc.uk.gov.in.",
+      "Register using your Aadhaar number (one Aadhaar can be used only once).",
+      "Fill in personal and other details carefully in the online application form.",
+      "Upload live photo (face detection), signature (150w x 100H px), and left thumb impression (150w x 100H px) in JPG/JPEG format.",
+      "Upload High School certificate and both sides of Aadhaar card for name and date of birth verification.",
+      "Upload reservation category/sub-category certificates (vertical and horizontal) as applicable.",
+      "Upload experience certificate if required for the post.",
+      "Pay the application fee online via Credit Card/Debit Card/Net Banking/UPI.",
+      "Submit the application form by clicking the ‘Submit’ button before the last date.",
+      "Take a printout of the completed application form for future reference."
+    ]
+  },
+  {
     "id": "uttarakhand-hnbgu-guest-faculty",
     "title": "HNBGU Recruitment 2026 – Guest Faculty Posts",
     "shortInfo": "HNBGU has announced notification for Guest Faculty posts. Required qualification: Any Masters Degree. Last date to apply: 06-10-26.",
@@ -14,7 +106,7 @@
     "applyOnlineLink": "https://www.hnbgu.ac.in/sites/default/files/2026-09/Notification%20for%20Guest%20Faculty%20in%20School%20of%20Engineering%20&#038;%20Technology.pdf",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-10-05"
+    "scrapedAt": "2026-10-06"
   },
   {
     "id": "uttarakhand-kalsi forest division-junior-research-fellow",
@@ -31,7 +123,7 @@
     "applyOnlineLink": "https://forest.uk.gov.in/uploads/recruitments/rec-7911_jrf.pdf",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-10-05"
+    "scrapedAt": "2026-10-06"
   },
   {
     "id": "uttarakhand-iit roorkee-senior-research-fellow-srf-",
@@ -48,7 +140,7 @@
     "applyOnlineLink": "https://iitr.ac.in/Careers/static/Project_Jobs/ECE/2026/adv01102026.pdf",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-10-05"
+    "scrapedAt": "2026-10-06"
   },
   {
     "id": "uttarakhand-aiims rishikesh-project-research-scientist-i",
@@ -65,7 +157,7 @@
     "applyOnlineLink": "https://aiimsrishikesh.edu.in/images/upload_documents/Advertisement%20PRS-I%20IIRPIG-2023-0000773.pdf",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-10-05"
+    "scrapedAt": "2026-10-06"
   },
   {
     "id": "uttarakhand-hnbgu-guest-faculty",
@@ -82,7 +174,7 @@
     "applyOnlineLink": "https://www.hnbgu.ac.in/sites/default/files/2026-09/Guest%20Faculty%20Notification.pdf",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-10-05"
+    "scrapedAt": "2026-10-06"
   },
   {
     "id": "uttarakhand-iit roorkee-research-associate-i",
@@ -99,7 +191,7 @@
     "applyOnlineLink": "https://iitr.ac.in/Careers/static/Project_Jobs/HY/2026/adv280920262.pdf",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-10-05"
+    "scrapedAt": "2026-10-06"
   },
   {
     "id": "uttarakhand-aiims rishikesh-cssd-officer-executive-engineer",
@@ -116,7 +208,7 @@
     "applyOnlineLink": "https://aiimsrishikesh.edu.in/images/upload_documents/DEPUTATION%20ADVT.%202026-36%2637.pdf",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-10-05"
+    "scrapedAt": "2026-10-06"
   },
   {
     "id": "uttarakhand-udd uttarakhand-legal-expert",
@@ -133,7 +225,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s38208974663db80265e9bfe7b222dcb18/uploads/2026/09/202609251414663226.pdf",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-10-05"
+    "scrapedAt": "2026-10-06"
   },
   {
     "id": "uttarakhand-graphic era university-clerical-staff",
@@ -150,7 +242,7 @@
     "applyOnlineLink": "https://geu.ac.in/careers/clerical-staff-01-one",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-10-05"
+    "scrapedAt": "2026-10-06"
   },
   {
     "id": "uttarakhand-nit uttarakhand-superintendent-technical-assistant-technician-sg-i",
@@ -167,7 +259,7 @@
     "applyOnlineLink": "https://recruitment-nt.nituk.ac.in/login",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-10-05",
+    "scrapedAt": "2026-10-06",
     "fees": [
       {
         "category": "General/OBC/EWS (S.No.1 & S.No.2)",
@@ -259,7 +351,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/gbpuat-recruitment-2026/",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-10-05",
+    "scrapedAt": "2026-10-06",
     "fees": [
       {
         "category": "Other Backward Classes (OBC)",
@@ -558,7 +650,7 @@
     "applyOnlineLink": "https://ukssscrecruitment.in/UKSSSC_PAGES/Instructions.aspx",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-10-05",
+    "scrapedAt": "2026-10-06",
     "fees": [
       {
         "category": "UR/OBC (Uttarakhand)",
@@ -613,7 +705,7 @@
     "applyOnlineLink": "https://iitr.ac.in/Careers/static/Project_Jobs/ES/2026/adv150920262.pdf",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-10-05"
+    "scrapedAt": "2026-10-06"
   },
   {
     "id": "uttarakhand-uksssc-personal-assistant-stenographer",
@@ -630,7 +722,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/uksssc-pa-stenographer-recruitment-2026-uksssc-recruitment-2026-apply-online-for-101-personal-assistant-others-posts/",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-10-05",
+    "scrapedAt": "2026-10-06",
     "fees": [
       {
         "category": "Unreserved (UR) / Uttarakhand OBC",
@@ -834,7 +926,7 @@
     "applyOnlineLink": "https://ukssscrecruitment.in/UKSSSC_PAGES/Instructions.aspx",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-10-05",
+    "scrapedAt": "2026-10-06",
     "fees": [
       {
         "category": "Unreserved (UR) / Uttarakhand OBC",
@@ -1317,6 +1409,6 @@
     "applyOnlineLink": "https://iitr.ac.in/Careers/static/Project_Jobs/DoSW/2026/adv260620263.pdf",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-10-05"
+    "scrapedAt": "2026-10-06"
   }
 ]

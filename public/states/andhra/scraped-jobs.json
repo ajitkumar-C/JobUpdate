@@ -1,5 +1,100 @@
 [
   {
+    "id": "andhra-spices board-trainee-development-",
+    "title": "Spices Board Recruitment 2026 – Trainee (Development) Posts",
+    "shortInfo": "Spices Board has announced notification for Trainee (Development) posts. Required qualification: B.Sc in Agri/Horti/Forestry/Bot/Micro/Biotech. Last date to apply: 19-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "21",
+    "lastDate": "19-10-26",
+    "officialWebsite": "https://www.indianspices.com",
+    "notificationLink": "https://www.indianspices.com/opportunities/details.html?id=906",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/spices-board-trainee-recruitment-2026/",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-10-06",
+    "fees": [],
+    "dates": [
+      {
+        "event": "Last Date for Online Application",
+        "date": "19/10/2026"
+      },
+      {
+        "event": "Walk-in Test (Sakleshpur Region)",
+        "date": "22/10/2026"
+      },
+      {
+        "event": "Walk-in Test (Guwahati - DO Aizawl)",
+        "date": "22/10/2026"
+      },
+      {
+        "event": "Walk-in Test (Guwahati - FO Senapati)",
+        "date": "22/10/2026"
+      },
+      {
+        "event": "Walk-in Test (Guwahati - FO Ziro)",
+        "date": "22/10/2026"
+      },
+      {
+        "event": "Walk-in Test (RO Nizamabad)",
+        "date": "22/10/2026"
+      },
+      {
+        "event": "Walk-in Test (FO Patna)",
+        "date": "22/10/2026"
+      },
+      {
+        "event": "Walk-in Test (Gangtok Region)",
+        "date": "28/10/2026"
+      },
+      {
+        "event": "Walk-in Test (Guwahati - FO Dimapur)",
+        "date": "28/10/2026"
+      },
+      {
+        "event": "Walk-in Test (RO Guntur & FO Paderu)",
+        "date": "28/10/2026"
+      },
+      {
+        "event": "Walk-in Test (FO Jagadalpur)",
+        "date": "28/10/2026"
+      },
+      {
+        "event": "Walk-in Test (RO Mumbai)",
+        "date": "28/10/2026"
+      },
+      {
+        "event": "Walk-in Test (FO Koraput)",
+        "date": "31/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Trainee (Development)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Before appearing for the written test, candidates must ensure that the application is submitted online. Last date for submitting online application is 19.10.2026.",
+      "Eligible candidates shall submit the application online at http://spicesboard.in/recruitment/.",
+      "Candidates reporting after the specified time or failing to submit their application online will not be permitted to participate in the test.",
+      "Candidates are required to report at the venue at least 30 minutes prior to the scheduled time for certificate verification.",
+      "Candidates must bring all original documents and certificates, along with one set of self-attested copies each, pertaining to identity, age, and educational qualifications for verification purpose.",
+      "Those who have not received their final degree certificate yet need not appear for the test.",
+      "Before applying, candidates should ensure that they fulfill the eligibility criteria for the training as mentioned in the notification.",
+      "Those who have undergone training in any offices of Spices Board earlier need not apply again regardless of whether they have completed their training or not.",
+      "Candidates once selected will be required to undergo training in any of the offices of Spices Board under the mentioned region/regional office.",
+      "No TA/DA will be given to candidates who attend the Written Test.",
+      "Candidates are advised to check the Board’s website www.indianspices.com for updates and not to rely on information from third-party websites.",
+      "Candidates shall obtain the original Degree certificate within two years from the date of issue of Provisional Degree certificate."
+    ]
+  },
+  {
     "id": "andhra-ap high court-civil-judge-junior-division-",
     "title": "AP High Court Recruitment 2026 – Civil Judge (Junior Division) Posts",
     "shortInfo": "AP High Court has announced notification for Civil Judge (Junior Division) posts. Required qualification: Law Degree (LLB). Last date to apply: 26-10-26.",
@@ -14,7 +109,7 @@
     "applyOnlineLink": "https://cdn3.digialm.com//EForms/configuredHtml/2381/102127/Index.html",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05",
+    "scrapedAt": "2026-10-06",
     "fees": [
       {
         "category": "Open Competition / EWS / Backward Classes (A, B, C, D & E)",
@@ -77,7 +172,7 @@
     "applyOnlineLink": "https://tmc.gov.in/postmaster/ViewFile?FileId=TliIaWNS4OPKqCa3M7FbEA==",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05"
+    "scrapedAt": "2026-10-06"
   },
   {
     "id": "andhra-nit andhra pradesh-office-associate",
@@ -94,7 +189,7 @@
     "applyOnlineLink": "https://nitandhra.ac.in/main/Recruitment/NITANP_Notification_OutSourced%20Staff_Academic%20Section%20(1).pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05"
+    "scrapedAt": "2026-10-06"
   },
   {
     "id": "andhra-ap high court-district-judge",
@@ -106,12 +201,77 @@
     "district": "State Level",
     "vacancies": "30",
     "lastDate": "15-10-26",
-    "officialWebsite": "https://aphc.gov.in/docs/notification_1790770770_0.pdf",
+    "officialWebsite": "https://aphc.gov.in",
     "notificationLink": "https://aphc.gov.in/docs/notification_1790770770_0.pdf",
-    "applyOnlineLink": "https://aphc.gov.in/docs/notification_1790770770_0.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/ap-high-court-district-judge-ldce-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05"
+    "scrapedAt": "2026-10-06",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "30/09/2026"
+      },
+      {
+        "event": "Last Date for Receipt of Applications",
+        "date": "15/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "District Judge (OC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "District Judge (SC Group-I)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "District Judge (SC Group-II)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "District Judge (SC Group-III)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "District Judge (ST)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the application pro forma from the High Court of Andhra Pradesh website (https://aphc.gov.in).",
+      "Fill in the application form completely with all required details.",
+      "Attach attested copy of certificate evidencing Date of Birth/SSC and Law Degree.",
+      "Attach attested copy of community certificate issued by the Competent Authority (for SC/ST candidates).",
+      "Attach Service Certificate in the cadre of Civil Judge (Senior Division) issued by the Competent Authority.",
+      "Attach Service Certificate in the cadre of Civil Judge (Junior Division) issued by the Competent Authority.",
+      "Attach attested copies of proceedings of promotion as Civil Judge (Senior Division) and appointment order as Civil Judge (Junior Division).",
+      "Include Hall Ticket-cum-Identity Card (original and duplicate).",
+      "Submit the completed application along with all enclosures in the office of the Principal District Judge concerned not later than 5:00 PM on 15.10.2026.",
+      "Produce all original certificates on the day of Viva Voce for verification."
+    ]
   },
   {
     "id": "andhra-ap high court-district-judge-entry-level-",
@@ -123,12 +283,75 @@
     "district": "State Level",
     "vacancies": "10",
     "lastDate": "15-10-26",
-    "officialWebsite": "https://aphc.gov.in/docs/notification_1790770747_0.pdf",
-    "notificationLink": "https://aphc.gov.in/docs/notification_1790770747_0.pdf",
-    "applyOnlineLink": "https://aphc.gov.in/docs/notification_1790770747_0.pdf",
+    "officialWebsite": "https://govtjobguru.in/jobs/ap-high-court-district-entry-level-recruitment-2026/",
+    "notificationLink": "https://aphc.gov.in/",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/ap-high-court-district-entry-level-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05"
+    "scrapedAt": "2026-10-06",
+    "fees": [],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "30/09/2026"
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "15/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "District Judge (Entry Level) - OC",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "District Judge (Entry Level) - EWS",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "District Judge (Entry Level) - BC-B",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "District Judge (Entry Level) - BC-C",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "District Judge (Entry Level) - BC-E",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "District Judge (Entry Level) - SC Group-III",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "District Judge (Entry Level) - ST",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": []
   },
   {
     "id": "andhra-angrau-teaching-associate-teaching-assistant",
@@ -145,7 +368,7 @@
     "applyOnlineLink": "https://angrau.ac.in/UPLOADS/CareersPDFs/WII_FPT_CFST_BPT.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05"
+    "scrapedAt": "2026-10-06"
   },
   {
     "id": "andhra-visakhapatnam port authority-fire-officer",
@@ -162,7 +385,7 @@
     "applyOnlineLink": "https://vpt.shipping.gov.in/admin_assets/uploads/1790680209_Fire_Officer_Notification00129092026.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05"
+    "scrapedAt": "2026-10-06"
   },
   {
     "id": "andhra-mrpl-retail-engineer-terminal-operation-engineer-retail",
@@ -179,7 +402,7 @@
     "applyOnlineLink": "https://www.mrpl.co.in/hi/careers?prophazecheck=1",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05",
+    "scrapedAt": "2026-10-06",
     "fees": [
       {
         "category": "General / OBC (NCL) / EWS",
@@ -246,7 +469,7 @@
     "applyOnlineLink": "https://apcob.bank.in/wp-content/uploads/2026/09/Notification_CTI_Open-market.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05"
+    "scrapedAt": "2026-10-06"
   },
   {
     "id": "andhra-apcob-chief-business-development-officer-cbdo-",
@@ -263,7 +486,7 @@
     "applyOnlineLink": "https://apcob.bank.in/wp-content/uploads/2026/09/Notification_CBDO-approved.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05"
+    "scrapedAt": "2026-10-06"
   },
   {
     "id": "andhra-iiit sri city-electrician",
@@ -280,7 +503,7 @@
     "applyOnlineLink": "https://iiits.ac.in/iiits-content/uploads/2026/09/Electrician_Advt_Outsourcing-.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05"
+    "scrapedAt": "2026-10-06"
   },
   {
     "id": "andhra-aiims mangalagiri-senior-resident-consultant",
@@ -297,7 +520,7 @@
     "applyOnlineLink": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/09/Recruitment-SR-1.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05"
+    "scrapedAt": "2026-10-06"
   },
   {
     "id": "andhra-angrau-physical-director",
@@ -314,7 +537,7 @@
     "applyOnlineLink": "https://angrau.ac.in/UPLOADS/CareersPDFs/PD_WII_CCS_LAM.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05"
+    "scrapedAt": "2026-10-06"
   },
   {
     "id": "andhra-iiser tirupati-research-associate",
@@ -331,7 +554,7 @@
     "applyOnlineLink": "https://www.iisertirupati.ac.in/wp-content/uploads/2026/09/Advt_762026.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05"
+    "scrapedAt": "2026-10-06"
   },
   {
     "id": "andhra-aiims mangalagiri-librarian-grade-i-accounts-officer",
@@ -348,7 +571,7 @@
     "applyOnlineLink": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/09/Advertisement-for-Recruitment-of-Various-Non-Faculty-Group-A-B-Posts-on-Deputation-basis-at-AIIMS-Mangalagiri.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05"
+    "scrapedAt": "2026-10-06"
   },
   {
     "id": "andhra-dredging corporation of india-executive-director",
@@ -365,7 +588,7 @@
     "applyOnlineLink": "https://dredge-india.com/files/advt326.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05"
+    "scrapedAt": "2026-10-06"
   },
   {
     "id": "andhra-echs telangana and andhra pradesh-peon-clerk-and-more",
@@ -382,7 +605,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/echs-telangana-and-ap-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05",
+    "scrapedAt": "2026-10-06",
     "fees": [
       {
         "category": "Fee",
@@ -534,7 +757,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec030655f117444fc1911ab9c6f6b013/uploads/2026/09/2026091981.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05"
+    "scrapedAt": "2026-10-06"
   },
   {
     "id": "andhra-appsc-hostel-welfare-officer-grade-ii",
@@ -551,7 +774,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05",
+    "scrapedAt": "2026-10-06",
     "fees": [],
     "dates": [
       {
@@ -613,7 +836,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/irctc-hospitality-monitor-recruitment-2026-43-vacancies-walk-in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05",
+    "scrapedAt": "2026-10-06",
     "fees": [
       {
         "category": "Fee",
@@ -668,7 +891,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/slprb-ap-police-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05",
+    "scrapedAt": "2026-10-06",
     "fees": [
       {
         "category": "OC (incl. EWS) & BC - SI/Scientific Assistant posts",
@@ -837,7 +1060,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05",
+    "scrapedAt": "2026-10-06",
     "fees": [
       {
         "category": "Fee",
@@ -891,7 +1114,7 @@
     "applyOnlineLink": "https://jobapply.in/bel2026delhidgm/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05",
+    "scrapedAt": "2026-10-06",
     "fees": [
       {
         "category": "Ex-Servicemen",
@@ -972,7 +1195,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05",
+    "scrapedAt": "2026-10-06",
     "fees": [],
     "dates": [
       {
@@ -1194,7 +1417,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-forest-beat-officer-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05",
+    "scrapedAt": "2026-10-06",
     "fees": [
       {
         "category": "Fee",
@@ -1247,7 +1470,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-forest-section-officer-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05",
+    "scrapedAt": "2026-10-06",
     "fees": [
       {
         "category": "Fee",
@@ -1301,7 +1524,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-aso-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05",
+    "scrapedAt": "2026-10-06",
     "fees": [
       {
         "category": "Fee",
@@ -1359,7 +1582,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-horticulture-officer-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05",
+    "scrapedAt": "2026-10-06",
     "fees": [
       {
         "category": "Fee",
@@ -1413,7 +1636,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-aee-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05",
+    "scrapedAt": "2026-10-06",
     "fees": [
       {
         "category": "Fee",
@@ -1459,24 +1682,32 @@
     "categoryIcon": "🏢",
     "categoryMarathi": "Others",
     "district": "State Level",
-    "vacancies": "163",
+    "vacancies": "166",
     "lastDate": "27-10-26",
     "officialWebsite": "https://psc.ap.gov.in",
-    "notificationLink": "https://psc.ap.gov.in/Documents/NotificationDocuments/Group_I_072026.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-group-i-recruitment-2026/",
+    "notificationLink": "https://psc.ap.gov.in/Documents/NotificationDocuments/Group_I_07_2026.pdf",
+    "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05",
+    "scrapedAt": "2026-10-06",
     "fees": [
       {
-        "category": "Fee",
-        "fee": "Not Mentioned"
+        "category": "General/OC Candidates (Application Fee + Processing Fee)",
+        "fee": "Rs. 250/- (Application Fee) + Examination Fee (amount not fully specified in text)"
+      },
+      {
+        "category": "SC, ST, BC, PBDs, Ex-Servicemen, White Card Holders, Unemployed Youth (Andhra Pradesh Residents) - Examination Fee Exempted",
+        "fee": "Processing Fee: Rs. 250/- (Examination fee exempted)"
+      },
+      {
+        "category": "Candidates from Other States",
+        "fee": "Prescribed Examination Fee + Rs. 250/- Processing Fee"
       }
     ],
     "dates": [
       {
-        "event": "Date of Notification",
-        "date": "15/09/2026"
+        "event": "Notification Date",
+        "date": "06/10/2026"
       },
       {
         "event": "Online Application Start Date",
@@ -1503,7 +1734,7 @@
         "payScale": ""
       },
       {
-        "postName": "Deputy Superintendent of Police (Civil) Category-II in A.P. Police Service",
+        "postName": "Deputy Supdt. of Police (Civil) Cat-2 in A.P. Police Service",
         "count": "",
         "qualification": "",
         "ageLimit": "",
@@ -1581,12 +1812,16 @@
       }
     ],
     "howToApply": [
-      "Visit the Commission’s official website: https://psc.ap.gov.in",
-      "Read the Detailed Notification carefully before applying.",
-      "Ensure you meet the eligibility criteria including educational qualifications, age, and other requirements.",
-      "Fill in the Online Application Form with correct particulars.",
-      "Submit the application only through online mode. Applications sent through any other mode will not be entertained.",
-      "Submit your application well in advance of the last date (27/10/2026 up to 11:59 P.M.) to avoid last-minute rush."
+      "Register on the Commission’s Website https://psc.ap.gov.in using One Time Profile Registration (OTPR) to obtain an OTPR ID (User ID will be sent to registered mobile number and email ID).",
+      "Login to the Commission’s website with your OTPR ID and password.",
+      "Click on ‘Online Application Submission’ and then click ‘Fill Application’ against the relevant notification number.",
+      "Fill in application-specific data such as Local/Non-Local status, White card details, qualification details, post preferences, examination centre, etc.",
+      "Click ‘Save &amp; Submit’ to proceed to the payment gateway. Note: Clicking ‘Save’ alone does not submit the application.",
+      "Complete the fee payment online using Net Banking/Credit Card/Debit Card.",
+      "On successful payment, a payment reference ID is generated and an SMS alert is sent to the registered mobile number.",
+      "Download the filled application PDF for reference.",
+      "Corrections in the application will be enabled after the last date of submission and allowed up to 7 days only, with a payment of Rs. 100/- per correction (Name, Fee, and Age Relaxation fields cannot be changed).",
+      ""
     ]
   },
   {
@@ -1604,7 +1839,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-supervisor-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05",
+    "scrapedAt": "2026-10-06",
     "fees": [
       {
         "category": "Fee",
@@ -1659,7 +1894,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-industrial-promotion-officer-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05",
+    "scrapedAt": "2026-10-06",
     "fees": [
       {
         "category": "Fee",
@@ -1712,7 +1947,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-executive-officer-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05",
+    "scrapedAt": "2026-10-06",
     "fees": [
       {
         "category": "Fee",
@@ -1766,6 +2001,6 @@
     "applyOnlineLink": "https://vpt.shipping.gov.in/admin_assets/uploads/1788918633_VPA_Vacancy_Notification_Dt_08092026__Dy_Chief_Law_Officer___DR.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-05"
+    "scrapedAt": "2026-10-06"
   }
 ]

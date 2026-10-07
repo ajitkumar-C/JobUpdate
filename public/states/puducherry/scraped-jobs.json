@@ -14,7 +14,7 @@
     "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/Advertisment%20notice%20-%20NOCI%20Monitoring.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-10-06"
+    "scrapedAt": "2026-10-07"
   },
   {
     "id": "puducherry-dwcd puducherry-chairperson-and-member",
@@ -31,7 +31,7 @@
     "applyOnlineLink": "https://py.gov.in/sites/default/files/wcd29092026rect.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-10-06"
+    "scrapedAt": "2026-10-07"
   },
   {
     "id": "puducherry-ptu-registrar",
@@ -48,7 +48,7 @@
     "applyOnlineLink": "https://cms.ptuniv.edu.in/file_contents/news_attachments/notices/registrarRecruitment-Sep2026.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-10-06"
+    "scrapedAt": "2026-10-07"
   },
   {
     "id": "puducherry-income tax department tn and puducherry-stenographer-gr-i",
@@ -65,7 +65,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/income-tax-tn-and-puducherry-stenographer-recruitment-2026/",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-10-06",
+    "scrapedAt": "2026-10-07",
     "fees": [
       {
         "category": "Fee",
@@ -104,57 +104,6 @@
     ]
   },
   {
-    "id": "puducherry-jipmer-project-research-scientist-i",
-    "title": "JIPMER Recruitment 2026 – Project Research Scientist I Posts",
-    "shortInfo": "JIPMER has announced notification for Project Research Scientist I posts. Required qualification: Post Graduate Degree. Last date to apply: 03-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "01",
-    "lastDate": "03-10-26",
-    "officialWebsite": "https://jipmer.edu.in/sites/default/files/Post_research%20scientist.pdf",
-    "notificationLink": "https://jipmer.edu.in/sites/default/files/Post_research%20scientist.pdf",
-    "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/Post_research%20scientist.pdf",
-    "state": "Puducherry",
-    "stateCode": "puducherry",
-    "scrapedAt": "2026-10-06"
-  },
-  {
-    "id": "puducherry-jipmer-project-technical-support-iii",
-    "title": "JIPMER Recruitment 2026 – Project Technical Support III Posts",
-    "shortInfo": "JIPMER has announced notification for Project Technical Support III posts. Required qualification: Bachelor Degree in Pharmacy/B.Sc Nursing. Last date to apply: 03-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "01",
-    "lastDate": "03-10-26",
-    "officialWebsite": "https://jipmer.edu.in/sites/default/files/Post_technical%20support.pdf",
-    "notificationLink": "https://jipmer.edu.in/sites/default/files/Post_technical%20support.pdf",
-    "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/Post_technical%20support.pdf",
-    "state": "Puducherry",
-    "stateCode": "puducherry",
-    "scrapedAt": "2026-10-06"
-  },
-  {
-    "id": "puducherry-jipmer-project-nurse-iii",
-    "title": "JIPMER Recruitment 2026 – Project Nurse III Posts",
-    "shortInfo": "JIPMER has announced notification for Project Nurse III posts. Required qualification: Minimum second class or equivalent CGPA with four-year nursing course.. Last date to apply: 03-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "03",
-    "lastDate": "03-10-26",
-    "officialWebsite": "https://jipmer.edu.in/sites/default/files/Post_project%20nurse.pdf",
-    "notificationLink": "https://jipmer.edu.in/sites/default/files/Post_project%20nurse.pdf",
-    "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/Post_project%20nurse.pdf",
-    "state": "Puducherry",
-    "stateCode": "puducherry",
-    "scrapedAt": "2026-10-06"
-  },
-  {
     "id": "puducherry-pihmct-assistant-lecturer",
     "title": "PIHMCT Recruitment 2026 – Assistant Lecturer Posts",
     "shortInfo": "PIHMCT has announced notification for Assistant Lecturer posts. Required qualification: MBA/PGDM, M.Phil/Ph.D, Diploma. Last date to apply: 25-10-26.",
@@ -169,7 +118,7 @@
     "applyOnlineLink": "https://py.gov.in/sites/default/files/pihmct18082026rec.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-10-06"
+    "scrapedAt": "2026-10-07"
   },
   {
     "id": "puducherry-pihmct-assistant-lecturer",
@@ -186,6 +135,6 @@
     "applyOnlineLink": "https://py.gov.in/sites/default/files/pihmct18082026rec.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-10-06"
+    "scrapedAt": "2026-10-07"
   }
 ]

@@ -1,5 +1,176 @@
 [
   {
+    "id": "wb-wbpsc-lower-division-assistant-lower-division-clerk",
+    "title": "WBPSC Recruitment 2026 – Lower Division Assistant, Lower Division Clerk Posts",
+    "shortInfo": "WBPSC has announced notification for Lower Division Assistant, Lower Division Clerk posts. Required qualification: Madhyamik, Computer knowledge. Last date to apply: 26-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "-",
+    "lastDate": "26-10-26",
+    "officialWebsite": "https://psc.wb.gov.in/",
+    "notificationLink": "https://psc.wb.gov.in/Download?param1=CLERKSHIP2024.pdf&param2=advertisement",
+    "applyOnlineLink": "https://psc.wb.gov.in/",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-10-07",
+    "fees": [
+      {
+        "category": "General/OBC/EWS",
+        "fee": "Rs. 110/- plus service charges"
+      },
+      {
+        "category": "SC/ST of West Bengal & PwBD (40% and above)",
+        "fee": "Nil"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Commencement of Online Application",
+        "date": "06/10/2026"
+      },
+      {
+        "event": "Closing Date for Online Application & Fee Submission",
+        "date": "26/10/2026"
+      },
+      {
+        "event": "Edit Window Start",
+        "date": "28/10/2026"
+      },
+      {
+        "event": "Edit Window End",
+        "date": "01/11/2026"
+      },
+      {
+        "event": "Tentative Examination Date (December, 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Lower Division Assistant / Lower Division Clerk",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website at https://psc.wb.gov.in/",
+      "Read the advertisement and scheme/syllabus thoroughly before applying.",
+      "Fill in the online application form with accurate personal, educational, and category details.",
+      "Upload requisite documents including Caste/Category Certificate in PDF format (not more than 100 kb) if applicable.",
+      "Mention any one Photo ID (Madhyamik certificate, Passport, PAN Card, EPIC, Driving Licence, or any Govt-issued ID) with its number and issuing authority.",
+      "Pay the application fee of Rs. 110/- online (SC/ST of West Bengal and PwBD with 40%+ disability are exempt).",
+      "Submit the application. Note: Only one application per candidate is allowed; multiple applications will be cancelled.",
+      "Take a printout of the submitted application for future reference.",
+      "If required, use the Edit Window (28th October to 1st November 2026) to make corrections &mdash; this can be done only once."
+    ]
+  },
+  {
+    "id": "wb-nitttr kolkata-project-scientist",
+    "title": "NITTTR Kolkata Recruitment 2026 – Project Scientist Posts",
+    "shortInfo": "NITTTR Kolkata has announced notification for Project Scientist posts. Required qualification: MS, MCA, M.E/M.Tech, M.Sc. Last date to apply: 27-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "-",
+    "lastDate": "27-10-26",
+    "officialWebsite": "http://www.nitttrkol.ac.in/media/download/recruitment/Advertisement%20for%20Research%20Staff.pdf",
+    "notificationLink": "http://www.nitttrkol.ac.in/media/download/recruitment/Advertisement%20for%20Research%20Staff.pdf",
+    "applyOnlineLink": "http://www.nitttrkol.ac.in/media/download/recruitment/Advertisement%20for%20Research%20Staff.pdf",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-10-07"
+  },
+  {
+    "id": "wb-iit kharagpur-project-technical-support-iii",
+    "title": "IIT Kharagpur Recruitment 2026 – Project Technical Support III Posts",
+    "shortInfo": "IIT Kharagpur has announced notification for Project Technical Support III posts. Required qualification: B.Tech/B.E, DMLT, MLT. Last date to apply: 20-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "20-10-26",
+    "officialWebsite": "https://erp.iitkgp.ac.in/SricWeb/showAdvtFilePdf.htm?ref_no=IIT/SRIC/R/FLA/2026/101",
+    "notificationLink": "https://erp.iitkgp.ac.in/SricWeb/showAdvtFilePdf.htm?ref_no=IIT/SRIC/R/FLA/2026/101",
+    "applyOnlineLink": "https://erp.iitkgp.ac.in/SricWeb/showAdvtFilePdf.htm?ref_no=IIT/SRIC/R/FLA/2026/101",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-10-07"
+  },
+  {
+    "id": "wb-kvic-marketing-expert-banking-expert-technical-expert",
+    "title": "KVIC Recruitment 2026 – Marketing Expert, Banking Expert, Technical Expert Posts",
+    "shortInfo": "KVIC has announced notification for Marketing Expert, Banking Expert, Technical Expert posts. Required qualification: MBA/PGDM, Any Graduate. Last date to apply: 21-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "-",
+    "lastDate": "21-10-26",
+    "officialWebsite": "https://www.kvic.gov.in/kvicres/update/others/Adv_EnagagementExperts_SOKolkata_05-10-26.pdf",
+    "notificationLink": "https://www.kvic.gov.in/kvicres/update/others/Adv_EnagagementExperts_SOKolkata_05-10-26.pdf",
+    "applyOnlineLink": "https://www.kvic.gov.in/kvicres/update/others/Adv_EnagagementExperts_SOKolkata_05-10-26.pdf",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-10-07"
+  },
+  {
+    "id": "wb-smp kolkata-dy-materials-manager-gr-i",
+    "title": "SMP Kolkata Recruitment 2026 – Dy Materials Manager Gr-I Posts",
+    "shortInfo": "SMP Kolkata has announced notification for Dy Materials Manager Gr-I posts. Required qualification: B.Tech/B.E. Last date to apply: 05-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "05-11-26",
+    "officialWebsite": "https://smportkolkata.shipping.gov.in/smpk/wp-content/uploads/2026/10/Filling-up-of-02-posts-of-Dy.-MM-Gr-I-by-Deputation-Absorption-basis-under-KDS-of-SMPA-1.pdf",
+    "notificationLink": "https://smportkolkata.shipping.gov.in/smpk/wp-content/uploads/2026/10/Filling-up-of-02-posts-of-Dy.-MM-Gr-I-by-Deputation-Absorption-basis-under-KDS-of-SMPA-1.pdf",
+    "applyOnlineLink": "https://smportkolkata.shipping.gov.in/smpk/wp-content/uploads/2026/10/Filling-up-of-02-posts-of-Dy.-MM-Gr-I-by-Deputation-Absorption-basis-under-KDS-of-SMPA-1.pdf",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-10-07"
+  },
+  {
+    "id": "wb-iift-corporate-relations-amp-placement-coordinator",
+    "title": "IIFT Recruitment 2026 – Corporate Relations &amp; Placement Coordinator Posts",
+    "shortInfo": "IIFT has announced notification for Corporate Relations &amp; Placement Coordinator posts. Required qualification: M.A, MBA/PGDM, PGDBM. Last date to apply: 22-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "22-10-26",
+    "officialWebsite": "https://www.iift.ac.in/uploads/manage-files/2026/10/crpc_interview.pdf",
+    "notificationLink": "https://www.iift.ac.in/uploads/manage-files/2026/10/crpc_interview.pdf",
+    "applyOnlineLink": "https://www.iift.ac.in/uploads/manage-files/2026/10/crpc_interview.pdf",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-10-07"
+  },
+  {
+    "id": "wb-iiit kalyani-project-assistant-intern",
+    "title": "IIIT Kalyani Recruitment 2026 – Project Assistant, Intern Posts",
+    "shortInfo": "IIIT Kalyani has announced notification for Project Assistant, Intern posts. Required qualification: M.Sc, Any Graduate, B.Tech/B.E. Last date to apply: 15-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "4",
+    "lastDate": "15-10-26",
+    "officialWebsite": "https://iiitkalyani.ac.in/api/serve/2026/10/03/Advertisement_Intern_PA_TTDF_1791043990_11d9d6cd.pdf",
+    "notificationLink": "https://iiitkalyani.ac.in/api/serve/2026/10/03/Advertisement_Intern_PA_TTDF_1791043990_11d9d6cd.pdf",
+    "applyOnlineLink": "https://iiitkalyani.ac.in/api/serve/2026/10/03/Advertisement_Intern_PA_TTDF_1791043990_11d9d6cd.pdf",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-10-07"
+  },
+  {
     "id": "wb-cdac-project-associate-project-engineer-senior-project-",
     "title": "CDAC Recruitment 2026 – Project Associate, Project Engineer, Senior Project Engineer, Project Manager, Project Officer Posts",
     "shortInfo": "CDAC has announced notification for Project Associate, Project Engineer, Senior Project Engineer, Project Manager, Project Officer posts. Required qualification: Post-wise (as per official notification). Last date to apply: 26-10-26.",
@@ -14,7 +185,7 @@
     "applyOnlineLink": "https://careers.cdac.in/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06",
+    "scrapedAt": "2026-10-07",
     "fees": [
       {
         "category": "All Categories",
@@ -141,7 +312,7 @@
     "applyOnlineLink": "https://wbpolice.gov.in/writereaddata/wbp/Telecom_ContDriver01102026.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06"
+    "scrapedAt": "2026-10-07"
   },
   {
     "id": "wb-iiser kolkata-private-secretary",
@@ -158,7 +329,7 @@
     "applyOnlineLink": "https://apply.iiserkol.ac.in/jobs/docs/10_2026/Advt-NT-05-2026_01.10.2026.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06"
+    "scrapedAt": "2026-10-07"
   },
   {
     "id": "wb-iiit kalyani-junior-research-fellow",
@@ -175,7 +346,7 @@
     "applyOnlineLink": "https://iiitkalyani.ac.in/api/serve/2026/09/30/Advertisement_JRF_TTDF_1790767092_bd5818d8.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06"
+    "scrapedAt": "2026-10-07"
   },
   {
     "id": "wb-sail-young-professionals",
@@ -192,7 +363,7 @@
     "applyOnlineLink": "https://sailcareers.com/SAIL2026YPCMO/Adv_Eng.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06"
+    "scrapedAt": "2026-10-07"
   },
   {
     "id": "wb-rrc eastern railway-group-c-cultural-quota-",
@@ -209,7 +380,7 @@
     "applyOnlineLink": "https://rrcer.org/Cultural%20Quota%20Notification%202026-27..pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06"
+    "scrapedAt": "2026-10-07"
   },
   {
     "id": "wb-ddk kolkata-archive-assistant-video-assistant",
@@ -226,7 +397,7 @@
     "applyOnlineLink": "https://prasarbharati.gov.in/wp-content/uploads/2026/09/advertisement-revised.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06"
+    "scrapedAt": "2026-10-07"
   },
   {
     "id": "wb-isi-project-linked-research-associate-i",
@@ -243,7 +414,7 @@
     "applyOnlineLink": "https://www.isical.ac.in/public/jobs_view?id=76",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06"
+    "scrapedAt": "2026-10-07"
   },
   {
     "id": "wb-jadavpur university-intern",
@@ -260,7 +431,7 @@
     "applyOnlineLink": "https://jadavpuruniversity.in/storage/2026/09/Advertisement-for-Intern-DVC.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06"
+    "scrapedAt": "2026-10-07"
   },
   {
     "id": "wb-iiest shibpur-project-associate-i",
@@ -277,7 +448,7 @@
     "applyOnlineLink": "https://data.iiests.ac.in/uploads/announcements/files/1790682807_Website%20Copy,%20Indrajit%20Banerjee,%20IT,%2024.09.2026.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06"
+    "scrapedAt": "2026-10-07"
   },
   {
     "id": "wb-nit durgapur-project-assistant-junior-research-fellow",
@@ -294,7 +465,7 @@
     "applyOnlineLink": "https://nitdgp.ac.in/uploads/JRF_Advertisement_DRDO_R1.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06"
+    "scrapedAt": "2026-10-07"
   },
   {
     "id": "wb-nicl-chief-information-security-officer",
@@ -311,7 +482,7 @@
     "applyOnlineLink": "https://nationalinsurance.nic.co.in/sites/default/files/2026-09/Addendum%20Advertisement%20dated%2030-09-2026%20%28CISO%29_1.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06"
+    "scrapedAt": "2026-10-07"
   },
   {
     "id": "wb-prabuddha bharati shishutirtha-security-guard-night-guard-multipurpose-staff",
@@ -328,7 +499,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s319ca14e7ea6328a42e0eb13d585e4c22/uploads/2026/09/17906782901310.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06"
+    "scrapedAt": "2026-10-07"
   },
   {
     "id": "wb-visva bharati-professor-associate-and-assistant-professor",
@@ -345,7 +516,7 @@
     "applyOnlineLink": "https://www.visvabharati.ac.in/files/698290926_Advt._03-2026_dated_28.09.2026.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06"
+    "scrapedAt": "2026-10-07"
   },
   {
     "id": "wb-aiihph-project-research-scientist",
@@ -362,7 +533,7 @@
     "applyOnlineLink": "https://aiihph.gov.in/storage/uploads/media/e6fe95ae-80d5-4f0d-8a4a-202ba6850934.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06"
+    "scrapedAt": "2026-10-07"
   },
   {
     "id": "wb-ubkv-project-fellow",
@@ -379,24 +550,7 @@
     "applyOnlineLink": "https://www.ubkv.ac.in/wp-content/uploads/Walk-in-Interview-UBKV-DR-442_25.09.2026_Project-Fellow.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06"
-  },
-  {
-    "id": "wb-bckv-project-associate-i",
-    "title": "BCKV Recruitment 2026 – Project Associate I Posts",
-    "shortInfo": "BCKV has announced notification for Project Associate I posts. Required qualification: B.Sc, M.Sc, M.E/M.Tech. Last date to apply: 04-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "-",
-    "lastDate": "04-10-26",
-    "officialWebsite": "https://www.bckv.edu.in//images/contentfiles/1790265707_dr_699.pdf",
-    "notificationLink": "https://www.bckv.edu.in//images/contentfiles/1790265707_dr_699.pdf",
-    "applyOnlineLink": "https://www.bckv.edu.in//images/contentfiles/1790265707_dr_699.pdf",
-    "state": "West Bengal",
-    "stateCode": "wb",
-    "scrapedAt": "2026-10-06"
+    "scrapedAt": "2026-10-07"
   },
   {
     "id": "wb-iit kharagpur-marketing-lead",
@@ -413,7 +567,7 @@
     "applyOnlineLink": "https://erp.iitkgp.ac.in/SricWeb/temporaryJobs.htm",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06"
+    "scrapedAt": "2026-10-07"
   },
   {
     "id": "wb-makaut-project-associate-i",
@@ -430,7 +584,7 @@
     "applyOnlineLink": "https://makautwb.ac.in/datas/users/0-adv_mvlsi26.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06"
+    "scrapedAt": "2026-10-07"
   },
   {
     "id": "wb-iit kharagpur-research-associate",
@@ -447,7 +601,7 @@
     "applyOnlineLink": "https://erp.iitkgp.ac.in/SricWeb/temporaryJobs.htm",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06"
+    "scrapedAt": "2026-10-07"
   },
   {
     "id": "wb-smp kolkata-chief-hydraulic-engineer",
@@ -464,7 +618,7 @@
     "applyOnlineLink": "https://onlinevacancy.shipmin.nic.in/home/dwnld_advt/645",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06"
+    "scrapedAt": "2026-10-07"
   },
   {
     "id": "wb-rbu-technical-assistants",
@@ -481,7 +635,7 @@
     "applyOnlineLink": "https://www.rbu.ac.in/upload/bb177b0eea4fcbac1e1674b0c70fb3e1.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06"
+    "scrapedAt": "2026-10-07"
   },
   {
     "id": "wb-stockholding-branch-manager-business-development-manager-invest",
@@ -498,7 +652,7 @@
     "applyOnlineLink": "https://corporate.stockholding.com/careers/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06",
+    "scrapedAt": "2026-10-07",
     "fees": [],
     "dates": [
       {
@@ -573,24 +727,7 @@
     "applyOnlineLink": "https://apssukna.com/vacancy/ADV220926.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06"
-  },
-  {
-    "id": "wb-iit kharagpur-project-associate-ii",
-    "title": "IIT Kharagpur Recruitment 2026 – Project Associate II Posts",
-    "shortInfo": "IIT Kharagpur has announced notification for Project Associate II posts. Required qualification: B.Pharma, Any Post Graduate, BVSC, Any Graduate, B.Tech/B.E. Last date to apply: 04-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "04-10-26",
-    "officialWebsite": "https://erp.iitkgp.ac.in/SricWeb/temporaryJobs.htm",
-    "notificationLink": "https://erp.iitkgp.ac.in/SricWeb/temporaryJobs.htm",
-    "applyOnlineLink": "https://erp.iitkgp.ac.in/SricWeb/temporaryJobs.htm",
-    "state": "West Bengal",
-    "stateCode": "wb",
-    "scrapedAt": "2026-10-06"
+    "scrapedAt": "2026-10-07"
   },
   {
     "id": "wb-cantonment board barrackpore-radiologist-physiotherapist",
@@ -607,7 +744,7 @@
     "applyOnlineLink": "https://barrackpore.cantt.gov.in/wp-content/uploads/sites/38/2026/09/DocScanner-Sep-17-2026-5-37-PM.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06"
+    "scrapedAt": "2026-10-07"
   },
   {
     "id": "wb-cpri-engineering-officer-engineering-assistant-technici",
@@ -624,7 +761,7 @@
     "applyOnlineLink": "https://cpri-app.onlineapplication.org.in/#/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06",
+    "scrapedAt": "2026-10-07",
     "fees": [
       {
         "category": "Engineering Officer Gr.1, Scientific Assistant, Engineering Assistant (per post)",
@@ -755,7 +892,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/iiser-kolkata-non-teaching-recruitment-2026/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06",
+    "scrapedAt": "2026-10-07",
     "fees": [
       {
         "category": "General/OBC/EWS (Application Fee + Registration Fee)",
@@ -861,7 +998,7 @@
     "applyOnlineLink": "https://www.cgcri.res.in/wp-content/uploads/2026/career/Adv%2039_2627_01.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06"
+    "scrapedAt": "2026-10-07"
   },
   {
     "id": "wb-sbi-dean-sbil-kolkata-faculty-sbil-kolkata-marketing-e",
@@ -878,7 +1015,7 @@
     "applyOnlineLink": "https://recruitment.sbi.bank.in/crpd-sco-2026-27-20/apply",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06",
+    "scrapedAt": "2026-10-07",
     "fees": [
       {
         "category": "General/EWS/OBC",
@@ -952,7 +1089,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/exim-bank-business-development-officer-recruitment-2026/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06",
+    "scrapedAt": "2026-10-07",
     "fees": [
       {
         "category": "Fee",
@@ -998,24 +1135,7 @@
     "applyOnlineLink": "https://data.iiests.ac.in/cloud/2026/09/20260908_69463_librarian.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06"
-  },
-  {
-    "id": "wb-aycl-officer-asst-manager-dy-manager",
-    "title": "AYCL Recruitment 2026 – Officer/Asst. Manager/Dy. Manager Posts",
-    "shortInfo": "AYCL has announced notification for Officer/Asst. Manager/Dy. Manager posts. Required qualification: MSW, Diploma, Any Post Graduate. Last date to apply: 04-10-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "04-10-26",
-    "officialWebsite": "https://www.andrewyule.com/pdf/Matter%20for%20Website%20regular_PnA_2026_13.pdf",
-    "notificationLink": "https://www.andrewyule.com/pdf/Matter%20for%20Website%20regular_PnA_2026_13.pdf",
-    "applyOnlineLink": "https://www.andrewyule.com/pdf/Matter%20for%20Website%20regular_PnA_2026_13.pdf",
-    "state": "West Bengal",
-    "stateCode": "wb",
-    "scrapedAt": "2026-10-06"
+    "scrapedAt": "2026-10-07"
   },
   {
     "id": "wb-indian museum kolkata-driver-hindi-translator",
@@ -1032,7 +1152,7 @@
     "applyOnlineLink": "https://indianmuseumkolkata.org/im_cont/uploads/2026/09/Detail-advertisement-for-website-for-5-posts.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06"
+    "scrapedAt": "2026-10-07"
   },
   {
     "id": "wb-hcl-deputy-general-manager-general-manager",
@@ -1049,7 +1169,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/hcl-dgm-gm-recruitment-2026hcl-recruitment-2026-apply-for-10-deputy-general-manager-posts/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06",
+    "scrapedAt": "2026-10-07",
     "fees": [
       {
         "category": "Fee",
@@ -1135,7 +1255,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aweil-gsf-kashipur-recruitment-2026/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06",
+    "scrapedAt": "2026-10-07",
     "fees": [
       {
         "category": "General/OBC/EWS",
@@ -1222,7 +1342,7 @@
     "applyOnlineLink": "https://iroams.com/rrc_ser_scout2026/index.php",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06",
+    "scrapedAt": "2026-10-07",
     "fees": [
       {
         "category": "UR Male / OBC Male / EWS Male",
@@ -1291,7 +1411,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/sahitya-akademi-recruitment-2026/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06",
+    "scrapedAt": "2026-10-07",
     "fees": [
       {
         "category": "Level-10/11 (UR/OBC)",
@@ -1448,7 +1568,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
     "state": "West Bengal",
     "stateCode": "wb",
-    "scrapedAt": "2026-10-06",
+    "scrapedAt": "2026-10-07",
     "fees": [],
     "dates": [
       {

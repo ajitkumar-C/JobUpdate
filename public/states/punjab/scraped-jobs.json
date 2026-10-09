@@ -1,5 +1,127 @@
 [
   {
+    "id": "punjab-psssb-junior-engineer-je-civil-mechanical-electrical-re-",
+    "title": "PSSSB Recruitment 2026 – Junior Engineer (JE) (Civil/Mechanical/Electrical) - Re Open Posts",
+    "shortInfo": "PSSSB has announced notification for Junior Engineer (JE) (Civil/Mechanical/Electrical) - Re Open posts. Required qualification: Diploma (Engg). Last date to apply: 27-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "Various",
+    "lastDate": "27-10-26",
+    "officialWebsite": "https://sssb.punjab.gov.in/",
+    "notificationLink": "https://sssb.punjab.gov.in/wp-content/uploads/2026/03/Detailed-Advertisement-No-7-of-2026-JE.pdf",
+    "applyOnlineLink": "https://sssb.punjab.gov.in/wp-content/uploads/2026/10/Public-Notice-dated-09.10.2026-Advt-No-7-of-2026.pdf",
+    "state": "Punjab",
+    "stateCode": "punjab",
+    "scrapedAt": "2026-10-09",
+    "fees": [
+      {
+        "category": "Ex-Servicemen, EWS, PwD and LDESM of Punjab State Only",
+        "fee": "₹500/-"
+      },
+      {
+        "category": "For SC/ST of Punjab State Only",
+        "fee": "₹750/-"
+      },
+      {
+        "category": "For All Other Categories",
+        "fee": "₹1500/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Starting Date for Apply Online",
+        "date": "13/03/2026"
+      },
+      {
+        "event": "Closing Date for Apply Online",
+        "date": "06/04/2026"
+      },
+      {
+        "event": "Re open online dates",
+        "date": ""
+      },
+      {
+        "event": "Starting Date for Apply Online",
+        "date": "01/09/2026"
+      },
+      {
+        "event": "Closing Date for Apply Online",
+        "date": "09/09/2026"
+      },
+      {
+        "event": "Re open online dates",
+        "date": ""
+      },
+      {
+        "event": "Starting Date for Apply Online",
+        "date": "11/09/2026"
+      },
+      {
+        "event": "Closing Date for Apply Online",
+        "date": "15/09/2026"
+      },
+      {
+        "event": "Exam Date (JE Civil, Mechanical, Electrical) Postponed",
+        "date": "18/10/2026"
+      },
+      {
+        "event": "Re Open Notice",
+        "date": ""
+      },
+      {
+        "event": "Starting Date for Apply Online",
+        "date": "12/10/2026"
+      },
+      {
+        "event": "Closing Date for Apply Online",
+        "date": "27/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Junior Engineer (JE) (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (JE) (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (JE) (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": []
+  },
+  {
+    "id": "punjab-echs-nursing-assistant-medical-officer",
+    "title": "ECHS Recruitment 2026 – Nursing Assistant, Medical Officer Posts",
+    "shortInfo": "ECHS has announced notification for Nursing Assistant, Medical Officer posts. Required qualification: Diploma, MBBS, GNM. Last date to apply: 16-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "16-10-26",
+    "officialWebsite": "https://www.echs.gov.in/assets/advertisement/Abohar%20Advt%2016%20Oct%2026.pdf",
+    "notificationLink": "https://www.echs.gov.in/assets/advertisement/Abohar%20Advt%2016%20Oct%2026.pdf",
+    "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/Abohar%20Advt%2016%20Oct%2026.pdf",
+    "state": "Punjab",
+    "stateCode": "punjab",
+    "scrapedAt": "2026-10-09"
+  },
+  {
     "id": "punjab-pilbs-professor-associate-professor-assistant-professor-",
     "title": "PILBS Recruitment 2026 – Professor, Associate Professor, Assistant Professor, Senior Resident, Emergency Medical Officer, House Surgeon Posts",
     "shortInfo": "PILBS has announced notification for Professor, Associate Professor, Assistant Professor, Senior Resident, Emergency Medical Officer, House Surgeon posts. Required qualification: MD/MS/DM/M.Ch./DNB. Last date to apply: 13-10-26.",

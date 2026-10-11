@@ -1,5 +1,162 @@
 [
   {
+    "id": "arunachal-apssb-anm-driver-constable-head-constable-ecg-technician",
+    "title": "APSSB Recruitment 2026 – ANM, Driver, Constable, Head Constable, ECG Technician, Dental Technician Posts",
+    "shortInfo": "APSSB has announced notification for ANM, Driver, Constable, Head Constable, ECG Technician, Dental Technician posts. Required qualification: Class X, Class XII, Diploma. Last date to apply: 05-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "217",
+    "lastDate": "05-11-26",
+    "officialWebsite": "https://apssb.nic.in/",
+    "notificationLink": "https://apssb.nic.in/upload/files/RECINS001/Advt_NMTE2026_20261009_184101.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/apssb-ministerial-technical-exam-2026-apply-online-for-217-anm-driver-constable-other-posts/",
+    "state": "Arunachal Pradesh",
+    "stateCode": "arunachal",
+    "scrapedAt": "2026-10-11",
+    "fees": [
+      {
+        "category": "General/All Candidates",
+        "fee": "₹150 (Non-Refundable)"
+      },
+      {
+        "category": "Persons with Disabilities (PwD) / Persons with Benchmark Disabilities (PwBD)",
+        "fee": "Exempt"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date of Application",
+        "date": "21/10/2026"
+      },
+      {
+        "event": "Closing Date of Application",
+        "date": "05/11/2026"
+      },
+      {
+        "event": "Tentative Date of Written Examination",
+        "date": "29/11/2026"
+      },
+      {
+        "event": "Tentative Date of PET/PST",
+        "date": "19/01/2027"
+      },
+      {
+        "event": "Tentative Date of Driving Test",
+        "date": "28/01/2027"
+      },
+      {
+        "event": "Tentative Date of Competency Test",
+        "date": "28/01/2027"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Auxiliary Nurse Midwives (ANM)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Laboratory Technician",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Pharmacist (Allopathy)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "ECG Technician",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Dental Technician",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Health Assistant Jr.",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Head Constable Driver",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Driver (LMV)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Driver (HMV)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Constable (MT) Driver (IRBn)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Constable (MT) Driver (Civil Police)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Field Publicity Assistant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Publicity Assistant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website www.apssb.nic.in to apply online.",
+      "Fill in the online application form carefully with correct details including name, father’s name, category, age, educational qualifications, etc.",
+      "Upload scanned signature (10-50 kb, jpg/jpeg/png) on white paper with black ink pen.",
+      "Upload latest passport size photo (50-100 kb, jpg/jpeg/png).",
+      "Upload copies of Educational/Technical Certificates relevant to the post applied for.",
+      "Indicate preference of posts and Department/Office clearly. Preference once submitted is final and cannot be changed.",
+      "Pay the non-refundable application fee of ₹150 through online mode only (PwBD candidates are exempt).",
+      "Submit the application before the closing date: 05.11.2026 (05:00 PM).",
+      "Carry a valid Photo Identity Document (Aadhaar Card/Voter ID/Driving License/PAN Card or any government authorized Photo ID) in original along with the Admit Card to the examination venue."
+    ]
+  },
+  {
     "id": "arunachal-rgu-teaching-assistant",
     "title": "RGU Recruitment 2026 – Teaching Assistant Posts",
     "shortInfo": "RGU has announced notification for Teaching Assistant posts. Required qualification: MBA/PGDM. Last date to apply: 15-10-26.",
@@ -14,7 +171,7 @@
     "applyOnlineLink": "https://rgu.ac.in/uploads/notices/Advertisement,%20Dept.%20of%20Management_0001.pdf",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-10-10"
+    "scrapedAt": "2026-10-11"
   },
   {
     "id": "arunachal-rgu-teaching-assistant",
@@ -31,7 +188,7 @@
     "applyOnlineLink": "https://rgu.ac.in/uploads/notices/Advertisement%20copy.pdf",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-10-10"
+    "scrapedAt": "2026-10-11"
   },
   {
     "id": "arunachal-spices board-trainee-development-",
@@ -48,7 +205,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/spices-board-trainee-recruitment-2026/",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-10-10",
+    "scrapedAt": "2026-10-11",
     "fees": [],
     "dates": [
       {
@@ -143,7 +300,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/arunachal-pradesh-psc-group-a-b-2026/",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-10-10",
+    "scrapedAt": "2026-10-11",
     "fees": [
       {
         "category": "General/All Candidates",
@@ -220,7 +377,7 @@
     "applyOnlineLink": "https://appsc.gov.in/Index/institute_home/ins/RECINS001",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-10-10",
+    "scrapedAt": "2026-10-11",
     "fees": [
       {
         "category": "General",

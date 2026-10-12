@@ -67,12 +67,55 @@
     "district": "State Level",
     "vacancies": "69",
     "lastDate": "27-10-26",
-    "officialWebsite": "https://www.aiimsbilaspur.edu.in/sites/default/files/2026-10/Advertisement%20SR%20Oct%202026.pdf",
+    "officialWebsite": "https://www.aiimsbilaspur.edu.in",
     "notificationLink": "https://www.aiimsbilaspur.edu.in/sites/default/files/2026-10/Advertisement%20SR%20Oct%202026.pdf",
-    "applyOnlineLink": "https://www.aiimsbilaspur.edu.in/sites/default/files/2026-10/Advertisement%20SR%20Oct%202026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/aiims-bilaspur-senior-resident-recruitment-2026-52-vacancies-walk-in/",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-12"
+    "scrapedAt": "2026-10-12",
+    "fees": [
+      {
+        "category": "PwBD/SC/ST",
+        "fee": "Exempted"
+      },
+      {
+        "category": "Others (General/OBC/EWS)",
+        "fee": "Rs. 1000 + GST (18%) = Rs. 1180"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Walk-in Interview Date",
+        "date": "27/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Senior Resident (Non-Academic) - Broad Specialty",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident (Non-Academic) - Super Specialty",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates are not required to fill any online form.",
+      "Interested candidates are advised to report in person at the Recruitment Cell, 3rd Floor, Administrative Block, AIIMS Bilaspur, Himachal Pradesh, on or before 09:00 AM on 27th October 2026.",
+      "The duly filled and signed original application form must be produced at the time of interview along with one (1) set of self-attested photocopies of Degrees, Certificates, Mark sheets, Age proof, Caste certificates, PwBD certificate (if applicable) etc.",
+      "Original documents must be produced for verification at the time of the interview.",
+      "Annexure-II: Proforma/Checklist for the post of Senior Resident is to be filled and submitted during documents verification which shall take place before the interview.",
+      "Applicants working in Central/State Government/Semi-Government/Autonomous Institution must submit a ‘NO OBJECTION CERTIFICATE’ (NOC) from the employers at the time of interview.",
+      "Application fee to be paid through NEFT to: State Bank of India, Bilaspur; Account Name: Recruitment Fund, AIIMS Bilaspur; Account No: 42734198120; IFSC: SBIN0063972.",
+      "Upload proof of fee payment and produce the same at the time of interview.",
+      "Incomplete forms or those without required documents will not be considered."
+    ]
   },
   {
     "id": "hp-aiims bilaspur-project-nurse-iii-project-technical-support-and-mo",

@@ -1,5 +1,123 @@
 [
   {
+    "id": "result-upsc-nda-ii-2026",
+    "title": "UPSC NDA II Result 2026",
+    "category": "Result",
+    "postDate": "2026-10-13",
+    "shortInfo": "UPSC NDA II Result 2026. Read notification for detailed information.",
+    "applicationStart": "20 May 2026",
+    "applicationLastDate": "11 June 2026",
+    "feeLastDate": "11 June 2026",
+    "examDate": "Where can I download the UPSC NDA II Exam Date notice?",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "₹ 100/-",
+      "scStPh": "₹ 0/-",
+      "female": "₹ 0/-",
+      "paymentMode": "Online payment mode"
+    },
+    "ageLimit": {
+      "relaxationText": "Age Relaxation Extra as per UPSC Examination 2026"
+    },
+    "vacancies": [
+      {
+        "postName": "Army",
+        "totalPost": "208",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Navy",
+        "totalPost": "42",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Airforce",
+        "totalPost": "120",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Naval Academy",
+        "totalPost": "24",
+        "eligibility": "Refer to official notification details"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://upsconline.nic.in/",
+      "downloadNotification": "https://upsc.gov.in/sites/default/files/Notif-NDA-II-2026-Engl-200526.pdf",
+      "officialWebsite": "http://upsc.gov.in/",
+      "admitCardUrl": "https://upsconline.nic.in/candidate/realms/candidate-portal/protocol/openid-connect/auth?client_id=account&redirect_uri=https%3A%2F%2Fupsconline.nic.in%2Fcandidate%2Frealms%2Fcandidate-portal%2Faccount%2Flogin-redirect&state=0%2F85987e89-6c14-5a82-c08f-814bd8bfd002&response_type=code&scope=openid",
+      "resultUrl": "https://www.upsc.gov.in/sites/default/files/WR-RollList-Engl-NDA-II-2026-091026.pdf"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Written / CBT Preliminary Examination",
+      "Mains / Secondary Stage Examination",
+      "Document Verification & Final Merit List"
+    ],
+    "howToApply": [
+      "Click on the direct \"Check Result / Download Merit List\" link below.",
+      "Open the PDF or enter your Roll Number / Registration Number and DOB on the result portal.",
+      "Search for your Roll Number / Name in the qualified candidates list (using Ctrl + F on PC).",
+      "Check category-wise cut-off marks and your qualifying score.",
+      "Download and save a copy of the Scorecard / Merit List for subsequent stages."
+    ],
+    "jobLocation": "All India (Central Govt)",
+    "totalVacanciesCount": "394 Posts"
+  },
+  {
+    "id": "result-rpsc-2nd-grade-teacher-2026",
+    "title": "RPSC 2nd Grade Teacher Result 2026",
+    "category": "Result",
+    "postDate": "2026-10-13",
+    "shortInfo": "RPSC 2nd Grade Teacher Result 2026. Read notification for detailed information.",
+    "applicationStart": "19 August 2025",
+    "applicationLastDate": "17 September 2025",
+    "feeLastDate": "17 September 2025",
+    "examDate": "The admit card is generally released a few days before the examination date.",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "Exempted / Not Applicable",
+      "scStPh": "₹ 400/-",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "min": "18 Years",
+      "max": "40 Years",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "RPSC 2nd Grade Teacher",
+        "totalPost": "10537 Posts",
+        "eligibility": "Refer to official notification details"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://sso.rajasthan.gov.in/signin",
+      "downloadNotification": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/ED4F69C3BFA14F9BBACDC0077554C90D.pdf",
+      "officialWebsite": "https://rpsc.rajasthan.gov.in/news",
+      "admitCardUrl": "https://sso.rajasthan.gov.in/",
+      "resultUrl": "https://rpsc.rajasthan.gov.in/results"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Written / CBT Preliminary Examination",
+      "Mains / Secondary Stage Examination",
+      "Document Verification & Final Merit List"
+    ],
+    "howToApply": [
+      "Click on the direct \"Check Result / Download Merit List\" link below.",
+      "Open the PDF or enter your Roll Number / Registration Number and DOB on the result portal.",
+      "Search for your Roll Number / Name in the qualified candidates list (using Ctrl + F on PC).",
+      "Check category-wise cut-off marks and your qualifying score.",
+      "Download and save a copy of the Scorecard / Merit List for subsequent stages."
+    ],
+    "jobLocation": "Rajasthan",
+    "totalVacanciesCount": "10,537 Posts"
+  },
+  {
     "id": "result-ssc-gd-constable-2026",
     "title": "SSC GD Constable Result 2026",
     "category": "Result",
@@ -106,38 +224,88 @@
     "totalVacanciesCount": "Refer to Notification"
   },
   {
-    "id": "result-upsssc-cane-supervisor-eligibility-2026",
-    "title": "UPSSSC Cane Supervisor Eligibility Result 2026",
+    "id": "result-dsssb-assistant-teacher-primary-2026",
+    "title": "DSSSB Assistant Teacher (Primary) Result 2026",
     "category": "Result",
     "postDate": "2026-10-13",
-    "shortInfo": "UPSSSC Cane Supervisor Eligibility Result 2026. Read notification for detailed information.",
-    "applicationStart": "07 July 2026",
-    "applicationLastDate": "28 July 2026",
-    "feeLastDate": "28 July 2026",
-    "examDate": "Notify Later",
+    "shortInfo": "DSSSB Assistant Teacher (Primary) Result 2026. Read notification for detailed information.",
+    "applicationStart": "17 September 2025",
+    "applicationLastDate": "16 October 2025",
+    "feeLastDate": "16 October 2025",
+    "examDate": "Candidates can visit sarkariresult.com.cm regularly for updates related to the DSSSB Assistant Teacher (Primary) Exam Date, Admit Card, Result, and other recruitment information.",
     "admitCardDate": "To be announced",
     "fees": {
-      "generalObc": "₹ 25/-",
-      "scStPh": "₹ 25/-",
-      "paymentMode": "Online payment mode"
+      "generalObc": "₹ 100/-",
+      "scStPh": "₹ 00/-",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
     },
     "ageLimit": {
-      "min": "21 Years",
-      "max": "40 Years",
-      "relaxationText": "Age Relaxation Extra as per UPSSSC Examination 2026"
+      "max": "30 Years",
+      "relaxationText": "Age relaxation applies as per rules."
     },
     "vacancies": [
       {
-        "postName": "UPSSSC Cane Supervisor Eligibility Result 2026",
+        "postName": "DSSSB Primary Teacher PRT",
+        "totalPost": "1180",
+        "eligibility": "Refer to official notification details"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://dsssbonline.nic.in/",
+      "downloadNotification": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_no_05-2025_asstt_teacher_primary_1.pdf",
+      "officialWebsite": "https://dsssb.delhi.gov.in/home/Delhi-Subordinate-Services-Selection-Board",
+      "admitCardUrl": "https://cdn.digialm.com//EForms/configuredHtml/1258/97829/login.html",
+      "resultUrl": "https://dsssbonline.nic.in/"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Written / CBT Preliminary Examination",
+      "Mains / Secondary Stage Examination",
+      "Document Verification & Final Merit List"
+    ],
+    "howToApply": [
+      "Click on the direct \"Check Result / Download Merit List\" link below.",
+      "Open the PDF or enter your Roll Number / Registration Number and DOB on the result portal.",
+      "Search for your Roll Number / Name in the qualified candidates list (using Ctrl + F on PC).",
+      "Check category-wise cut-off marks and your qualifying score.",
+      "Download and save a copy of the Scorecard / Merit List for subsequent stages."
+    ],
+    "jobLocation": "Delhi / NCR",
+    "totalVacanciesCount": "1,180 Posts"
+  },
+  {
+    "id": "result-upessc-principal-2026",
+    "title": "UPESSC Principal Result 2026",
+    "category": "Result",
+    "postDate": "2026-10-13",
+    "shortInfo": "UPESSC Principal Result 2026. Read notification for detailed information.",
+    "applicationStart": "21 July 2026",
+    "applicationLastDate": "20 August 2026",
+    "feeLastDate": "20 August 2026",
+    "examDate": "The admit card will contain important details such as the candidate’s name, roll number, examination date, shift, reporting time, examination centre and exam-day instructions.",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "Exempted / Not Applicable",
+      "scStPh": "₹ 3000/-",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:"
+    },
+    "ageLimit": {
+      "max": "62 Years",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "UPESSC Principal Result 2026",
         "totalPost": "Refer to Notification",
         "eligibility": "See official guidelines"
       }
     ],
     "importantLinks": {
-      "applyOnline": "https://upsssc.gov.in//AllNotifications.aspx",
-      "downloadNotification": "https://upsssc.gov.in//ViewPdf.aspx?G/yeFT+5YAm8RlpyrTdvA4RFSeQvuw+5fq0YpRjOkSQ=",
-      "officialWebsite": "https://upsssc.gov.in/",
-      "syllabusUrl": "http://sarkariresult.com.cm/wp-content/uploads/2026/05/UPSSSC-Cane-Supervisor-Syllabus-Exam-Pattern-2026.pdf",
+      "applyOnline": "https://principalhe.upessc.org/otr/",
+      "downloadNotification": "https://upessc.up.gov.in/Notice/3e23-9b4f-4145-8397-89fe.pdf",
+      "officialWebsite": "https://upessc.up.gov.in/",
+      "admitCardUrl": "https://upessc.up.gov.in/Notice/1a3a-9dad-47aa-e942-3da5.pdf",
       "resultUrl": "https://sarkariresult.com.cm/"
     },
     "status": "active",
@@ -155,179 +323,6 @@
       "Download and save a copy of the Scorecard / Merit List for subsequent stages."
     ],
     "jobLocation": "Uttar Pradesh",
-    "totalVacanciesCount": "Refer to Notification"
-  },
-  {
-    "id": "result-aiims-norcet-11th-stage-ii-2026",
-    "title": "AIIMS NORCET 11th Stage-II Result 2026",
-    "category": "Result",
-    "postDate": "2026-10-13",
-    "shortInfo": "AIIMS NORCET 11th Stage-II Result 2026. Read notification for detailed information.",
-    "applicationStart": "24 July 2026",
-    "applicationLastDate": "13 August 2026",
-    "feeLastDate": "13 August 2026",
-    "examDate": "30 September 2026",
-    "admitCardDate": "To be announced",
-    "resultDate": "18 September 2026",
-    "fees": {
-      "generalObc": "₹ 3000/-",
-      "scStPh": "₹ 2400/–",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
-    },
-    "ageLimit": {
-      "min": "18 Years",
-      "max": "30 Years",
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "AIIMS NORCET 11th Stage-II Result 2026",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://www.aiimsexams.ac.in/advertisement/6a6350f7e5a81c4267f4ff04",
-      "downloadNotification": "https://rrpdocuments.aiimsexams.ac.in/1784895678667-599501489.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20260724%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20260724T131521Z&X-Amz-Expires=18000&X-Amz-Signature=0c0d4b3cb7b3a3c7df331bf9c5c405143e5179d24744492fac5dd06dd6a1c2d1&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
-      "officialWebsite": "https://www.aiimsexams.ac.in/",
-      "admitCardUrl": "https://aiimsexams.ac.in/advertisement/6a6350f7e5a81c4267f4ff04",
-      "resultUrl": "https://sarkariresult.com.cm/"
-    },
-    "status": "active",
-    "salary": "As per Government Rules / Pay Matrix",
-    "selectionProcess": [
-      "Written / CBT Preliminary Examination",
-      "Mains / Secondary Stage Examination",
-      "Document Verification & Final Merit List"
-    ],
-    "howToApply": [
-      "Click on the direct \"Check Result / Download Merit List\" link below.",
-      "Open the PDF or enter your Roll Number / Registration Number and DOB on the result portal.",
-      "Search for your Roll Number / Name in the qualified candidates list (using Ctrl + F on PC).",
-      "Check category-wise cut-off marks and your qualifying score.",
-      "Download and save a copy of the Scorecard / Merit List for subsequent stages."
-    ],
-    "jobLocation": "All India / State-Wise",
-    "totalVacanciesCount": "Refer to Notification"
-  },
-  {
-    "id": "result-upsc-nda-ii-2026",
-    "title": "UPSC NDA II Result 2026",
-    "category": "Result",
-    "postDate": "2026-10-13",
-    "shortInfo": "UPSC NDA II Result 2026. Read notification for detailed information.",
-    "applicationStart": "20 May 2026",
-    "applicationLastDate": "11 June 2026",
-    "feeLastDate": "11 June 2026",
-    "examDate": "Where can I download the UPSC NDA II Exam Date notice?",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "₹ 100/-",
-      "scStPh": "₹ 0/-",
-      "female": "₹ 0/-",
-      "paymentMode": "Online payment mode"
-    },
-    "ageLimit": {
-      "relaxationText": "Age Relaxation Extra as per UPSC Examination 2026"
-    },
-    "vacancies": [
-      {
-        "postName": "Army",
-        "totalPost": "208",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Navy",
-        "totalPost": "42",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Airforce",
-        "totalPost": "120",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Naval Academy",
-        "totalPost": "24",
-        "eligibility": "Refer to official notification details"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://upsconline.nic.in/",
-      "downloadNotification": "https://upsc.gov.in/sites/default/files/Notif-NDA-II-2026-Engl-200526.pdf",
-      "officialWebsite": "http://upsc.gov.in/",
-      "admitCardUrl": "https://upsconline.nic.in/candidate/realms/candidate-portal/protocol/openid-connect/auth?client_id=account&redirect_uri=https%3A%2F%2Fupsconline.nic.in%2Fcandidate%2Frealms%2Fcandidate-portal%2Faccount%2Flogin-redirect&state=0%2F85987e89-6c14-5a82-c08f-814bd8bfd002&response_type=code&scope=openid",
-      "resultUrl": "https://www.upsc.gov.in/sites/default/files/WR-RollList-Engl-NDA-II-2026-091026.pdf"
-    },
-    "status": "active",
-    "salary": "As per Government Rules / Pay Matrix",
-    "selectionProcess": [
-      "Written / CBT Preliminary Examination",
-      "Mains / Secondary Stage Examination",
-      "Document Verification & Final Merit List"
-    ],
-    "howToApply": [
-      "Click on the direct \"Check Result / Download Merit List\" link below.",
-      "Open the PDF or enter your Roll Number / Registration Number and DOB on the result portal.",
-      "Search for your Roll Number / Name in the qualified candidates list (using Ctrl + F on PC).",
-      "Check category-wise cut-off marks and your qualifying score.",
-      "Download and save a copy of the Scorecard / Merit List for subsequent stages."
-    ],
-    "jobLocation": "All India (Central Govt)",
-    "totalVacanciesCount": "394 Posts"
-  },
-  {
-    "id": "result-bihar-police-csbc-constable-gd-final",
-    "title": "Bihar Police CSBC Constable GD Final Result 2026",
-    "category": "Result",
-    "postDate": "2026-10-13",
-    "shortInfo": "Bihar Police CSBC Constable GD Final Result 2026. Read notification for detailed information.",
-    "applicationStart": "06 February 2026",
-    "applicationLastDate": "05 March 2026",
-    "feeLastDate": "05 March 2026",
-    "examDate": "12 September 2026",
-    "admitCardDate": "To be announced",
-    "resultDate": "18 August 2026",
-    "fees": {
-      "generalObc": "Exempted / Not Applicable",
-      "scStPh": "30 Years. (SC, ST Male & Female)",
-      "female": "30 Years. (SC, ST Male & Female)",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:"
-    },
-    "ageLimit": {
-      "min": "18 Years.",
-      "max": "30 Years. (SC, ST Male & Female)",
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "Bihar Police CSBC Constable GD Final Result 2026",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://apply-csbc.com/CSBC_CT_01_2026_V1/applicationIndex",
-      "downloadNotification": "https://csbc.bihar.gov.in/Advt/Advt-01-2026-Special%20Branch%20Constable.pdf",
-      "officialWebsite": "https://csbc.bihar.gov.in/",
-      "admitCardUrl": "https://csbc.bihar.gov.in/Advt/Notice-01-2026-e-AdmitCard&Exam-20-05-2026.pdf",
-      "resultUrl": "https://csbc.bihar.gov.in/Advt/Results-01-2026-PST-18-08-2026.pdf"
-    },
-    "status": "active",
-    "salary": "As per Government Rules / Pay Matrix",
-    "selectionProcess": [
-      "Written / CBT Preliminary Examination",
-      "Mains / Secondary Stage Examination",
-      "Document Verification & Final Merit List"
-    ],
-    "howToApply": [
-      "Click on the direct \"Check Result / Download Merit List\" link below.",
-      "Open the PDF or enter your Roll Number / Registration Number and DOB on the result portal.",
-      "Search for your Roll Number / Name in the qualified candidates list (using Ctrl + F on PC).",
-      "Check category-wise cut-off marks and your qualifying score.",
-      "Download and save a copy of the Scorecard / Merit List for subsequent stages."
-    ],
-    "jobLocation": "Bihar",
     "totalVacanciesCount": "Refer to Notification"
   },
   {
@@ -488,6 +483,64 @@
     "totalVacanciesCount": "Refer to Notification"
   },
   {
+    "id": "admit-card-wcl-mining-sirdar-assistant-foreman-admit",
+    "title": "WCL Mining Sirdar & Assistant Foreman Admit Card 2026",
+    "category": "Admit Card",
+    "postDate": "2026-10-13",
+    "shortInfo": "WCL Mining Sirdar & Assistant Foreman Admit Card 2026. Read notification for detailed information.",
+    "applicationStart": "Available soon",
+    "applicationLastDate": "Refer to notification",
+    "feeLastDate": "10 August 2026",
+    "examDate": "Candidates can visit sarkariresult.com.cm regularly for updates related to the WCL Mining Sirdar & Assistant Foreman Exam Date, Admit Card, Result, and other recruitment information.",
+    "admitCardDate": "To be announced",
+    "resultDate": "Will Be Updated Here Soon.",
+    "fees": {
+      "generalObc": "Exempted / Not Applicable",
+      "scStPh": "Exempted / Not Applicable",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "min": "18 Years",
+      "max": "30 Years",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Mining Sirdar, T&S Grade-C",
+        "totalPost": "220 Posts",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Assistant Foreman (Trainee) (Electrical)/Electrical Supervisor, T&S Grade- C",
+        "totalPost": "224 Posts",
+        "eligibility": "Refer to official notification details"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://cdn.digialm.com/EForms/configuredHtml/1258/101411/Index.html",
+      "downloadNotification": "https://g03.tcsion.com//per/g03/pub/726/EForms/image/ImageDocUpload/71161/6/2301420289.pdf",
+      "officialWebsite": "https://www.westerncoal.in/hi",
+      "admitCardUrl": "https://docs.westerncoal.in/strapi/uploads/Notice_for_Admit_Card_Download_9a0ca92078.pdf",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Download Online Admit Card / Hall Ticket",
+      "Appear for Written / Online Computer Based Test (CBT)",
+      "Check Answer Key & Result"
+    ],
+    "howToApply": [
+      "Click on the direct \"Download Admit Card / Hall Ticket\" link provided below.",
+      "Enter your Registration Number / Roll Number and Date of Birth (DOB) or Password.",
+      "Click on \"Submit\" or \"Login\" to view your Hall Ticket on screen.",
+      "Check all details thoroughly: Exam Center, Reporting Time, Shift, and Roll Number.",
+      "Download and print at least 2 clear copies of the Admit Card along with the official instructions."
+    ],
+    "jobLocation": "All India / State-Wise",
+    "totalVacanciesCount": "444 Posts"
+  },
+  {
     "id": "admit-card-rajasthan-high-court-stenographer-admit-card",
     "title": "Rajasthan High Court Stenographer Admit Card 2026",
     "category": "Admit Card",
@@ -602,118 +655,46 @@
     "totalVacanciesCount": "Refer to Notification"
   },
   {
-    "id": "admit-card-bihar-bpsc-72-pre-new-date",
-    "title": "Bihar BPSC 72 Pre New Exam Date 2026",
-    "category": "Admit Card",
-    "postDate": "2026-10-13",
-    "shortInfo": "Bihar BPSC 72 Pre New Exam Date 2026. Read notification for detailed information.",
-    "applicationStart": "07 May 2026",
-    "applicationLastDate": "31 May 2026",
-    "feeLastDate": "31 May 2026",
-    "examDate": "The exam date notice generally includes the exam dates, shift timings, reporting time, exam city information, and important instructions for candidates.",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "Exempted / Not Applicable",
-      "scStPh": "Exempted / Not Applicable",
-      "female": "42 Year (SC/ ST-Male & Female)",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
-    },
-    "ageLimit": {
-      "min": "20-22 Year (Post Wise)",
-      "max": "42 Year (SC/ ST-Male & Female)",
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "72nd Combined (Preliminary) Competitive Examination",
-        "totalPost": "1033",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Child Development Project Officer",
-        "totalPost": "20",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Financial Administrative Officer & Equivalent",
-        "totalPost": "32",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Sub-Divisional Protection Officer",
-        "totalPost": "101",
-        "eligibility": "Refer to official notification details"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://bpsconline.bihar.gov.in/candidate/login",
-      "downloadNotification": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Advertisement-Integrated-72th-CCE-PT_BPSC-20260505-p1euvo.pdf",
-      "officialWebsite": "https://bpsc.bihar.gov.in/",
-      "syllabusUrl": "http://sarkariresult.com.cm/wp-content/uploads/2026/05/BPSC-72nd-Pre-Recruitment-Syllabus-Exam-Pattern-2026.pdf"
-    },
-    "status": "active",
-    "salary": "As per Government Rules / Pay Matrix",
-    "selectionProcess": [
-      "Download Online Admit Card / Hall Ticket",
-      "Appear for Written / Online Computer Based Test (CBT)",
-      "Check Answer Key & Result"
-    ],
-    "howToApply": [
-      "Click on the direct \"Download Admit Card / Hall Ticket\" link provided below.",
-      "Enter your Registration Number / Roll Number and Date of Birth (DOB) or Password.",
-      "Click on \"Submit\" or \"Login\" to view your Hall Ticket on screen.",
-      "Check all details thoroughly: Exam Center, Reporting Time, Shift, and Roll Number.",
-      "Download and print at least 2 clear copies of the Admit Card along with the official instructions."
-    ],
-    "jobLocation": "Bihar",
-    "totalVacanciesCount": "1,186 Posts"
-  },
-  {
-    "id": "latest-jobs-dsssb-sweeper-chowkidar-2026",
-    "title": "DSSSB Sweeper & Chowkidar Recruitment 2026",
+    "id": "latest-jobs-mpesb-group-3-sub-engineer-other",
+    "title": "MPESB Group 3 Sub Engineer & Other Post Recruitment 2026",
     "category": "Latest Jobs",
     "postDate": "2026-10-13",
-    "shortInfo": "DSSSB Sweeper & Chowkidar Recruitment 2026. Read notification for detailed information.",
-    "applicationStart": "13 October 2026",
-    "applicationLastDate": "11 November 2026",
-    "feeLastDate": "11 November 2026",
-    "examDate": "Notify Soon",
+    "shortInfo": "MPESB Group 3 Sub Engineer & Other Post Recruitment 2026. Read notification for detailed information.",
+    "applicationStart": "29 August 2026",
+    "applicationLastDate": "27 October 2026",
+    "feeLastDate": "27 October 2026",
+    "examDate": "Notify Later",
     "admitCardDate": "To be announced",
     "fees": {
-      "generalObc": "₹ 100/-",
-      "scStPh": "₹ 00/-",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+      "generalObc": "Refer to Notification",
+      "scStPh": "45 Years (SC, ST, OBC, PwBD & All Female)",
+      "female": "45 Years (SC, ST, OBC, PwBD & All Female)",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:"
     },
     "ageLimit": {
       "min": "18 Years",
-      "max": "27 Years",
+      "max": "40-45 Years",
       "relaxationText": "Age relaxation applies as per rules."
     },
     "vacancies": [
       {
-        "postName": "Sweeper / Safai karamchari",
-        "totalPost": "10",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Chowkidar",
-        "totalPost": "15",
-        "eligibility": "Refer to official notification details"
+        "postName": "MPESB Group 3 Sub Engineer & Other Post",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
       }
     ],
     "importantLinks": {
-      "applyOnline": "https://whatsapp.com/channel/0029VaAbQf01NCrYADMLt00L",
-      "downloadNotification": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_05_2026_1.pdf",
-      "officialWebsite": "https://dsssb.delhi.gov.in/",
+      "applyOnline": "https://esb.mponline.gov.in/Portal/Examinations/Vyapam/examsList.aspx",
+      "downloadNotification": "https://esb.mp.gov.in/Rulebooks/RB_2026/Group3_SUBENG_RuleBook_2026_17_08_2026.pdf",
+      "officialWebsite": "https://esb.mp.gov.in/e_default.html",
       "resultUrl": "https://sarkariresult.com.cm/"
     },
     "status": "active",
     "salary": "As per Government Rules / Pay Matrix",
     "selectionProcess": [
-      "Written Examination (CBT / OMR)",
-      "Skill / Trade Test (if applicable)",
-      "Document Verification (DV)",
-      "Medical Examination (As per Rules)"
+      "Stage-1 CBT Examination",
+      "Stage-2 Technical Paper CBT",
+      "Document Verification & Medical Fitness"
     ],
     "howToApply": [
       "Check your eligibility, educational qualifications, and age criteria from the official notification.",
@@ -723,8 +704,8 @@
       "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
       "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
     ],
-    "jobLocation": "Delhi / NCR",
-    "totalVacanciesCount": "25 Posts"
+    "jobLocation": "All India / State-Wise",
+    "totalVacanciesCount": "Refer to Notification"
   },
   {
     "id": "latest-jobs-rrb-ntpc-graduate-level-2026",
@@ -796,6 +777,64 @@
     "totalVacanciesCount": "3,548 Posts"
   },
   {
+    "id": "latest-jobs-dsssb-sweeper-chowkidar-2026",
+    "title": "DSSSB Sweeper & Chowkidar Recruitment 2026",
+    "category": "Latest Jobs",
+    "postDate": "2026-10-13",
+    "shortInfo": "DSSSB Sweeper & Chowkidar Recruitment 2026. Read notification for detailed information.",
+    "applicationStart": "13 October 2026",
+    "applicationLastDate": "11 November 2026",
+    "feeLastDate": "11 November 2026",
+    "examDate": "Notify Soon",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "₹ 100/-",
+      "scStPh": "₹ 00/-",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "min": "18 Years",
+      "max": "27 Years",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Sweeper / Safai karamchari",
+        "totalPost": "10",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Chowkidar",
+        "totalPost": "15",
+        "eligibility": "Refer to official notification details"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://dsssbonline.nic.in/",
+      "downloadNotification": "https://dsssb.delhi.gov.in/sites/default/files/DSSSB/circulars-orders/final_advt_05_2026_1.pdf",
+      "officialWebsite": "https://dsssb.delhi.gov.in/",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Written Examination (CBT / OMR)",
+      "Skill / Trade Test (if applicable)",
+      "Document Verification (DV)",
+      "Medical Examination (As per Rules)"
+    ],
+    "howToApply": [
+      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
+      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
+      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
+      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
+      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
+      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
+    ],
+    "jobLocation": "Delhi / NCR",
+    "totalVacanciesCount": "25 Posts"
+  },
+  {
     "id": "latest-jobs-ruhs-medical-officer-2026",
     "title": "RUHS Medical Officer Recruitment 2026",
     "category": "Latest Jobs",
@@ -847,114 +886,6 @@
     ],
     "jobLocation": "All India / State-Wise",
     "totalVacanciesCount": "600 Posts"
-  },
-  {
-    "id": "latest-jobs-upessc-prt-assistant-teacher-2026",
-    "title": "UPESSC PRT Assistant Teacher Recruitment 2026",
-    "category": "Latest Jobs",
-    "postDate": "2026-10-13",
-    "shortInfo": "UPESSC PRT Assistant Teacher Recruitment 2026. Read notification for detailed information.",
-    "applicationStart": "16 September 2026",
-    "applicationLastDate": "15 October 2026",
-    "feeLastDate": "15 October 2026",
-    "examDate": "03 – 04 December 2026",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "Refer to Notification",
-      "scStPh": "₹ 500/-",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:"
-    },
-    "ageLimit": {
-      "min": "21 Years",
-      "max": "40 years",
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "UPESSC PRT Assistant Teacher",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://apply.upessc.org/",
-      "downloadNotification": "https://www.upessc.up.gov.in/Notice/a429-726e-4862-f3dc-8a6f.pdf",
-      "officialWebsite": "https://upessc.up.gov.in/",
-      "syllabusUrl": "https://www.upessc.up.gov.in/syllabus/837218cf-1d9a-4252-a08c-404719d1b9d9.pdf",
-      "resultUrl": "https://sarkariresult.com.cm/"
-    },
-    "status": "active",
-    "salary": "As per Government Rules / Pay Matrix",
-    "selectionProcess": [
-      "Computer Based Written Test (CBT)",
-      "Typing / Skill / Shorthand Test",
-      "Document Verification (DV)",
-      "Final Merit List"
-    ],
-    "howToApply": [
-      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
-      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
-      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
-      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
-      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
-      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
-    ],
-    "jobLocation": "Uttar Pradesh",
-    "totalVacanciesCount": "Refer to Notification"
-  },
-  {
-    "id": "latest-jobs-bpsc-school-teacher-tre-4-0",
-    "title": "BPSC School Teacher TRE 4.0 Recruitment 2026",
-    "category": "Latest Jobs",
-    "postDate": "2026-10-13",
-    "shortInfo": "BPSC School Teacher TRE 4.0 Recruitment 2026. Read notification for detailed information.",
-    "applicationStart": "25 September 2026",
-    "applicationLastDate": "26 October 2026",
-    "feeLastDate": "26 October 2026",
-    "examDate": "Notify Later",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "Refer to Notification",
-      "scStPh": "Refer to Notification",
-      "female": "42 Years (SC/ ST-Male & Female)",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
-    },
-    "ageLimit": {
-      "min": "18 Years",
-      "max": "42 years",
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "BPSC School Teacher TRE 4.0",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://bpsconline.bihar.gov.in/candidate/login",
-      "downloadNotification": "http://sarkariresult.com.cm/wp-content/uploads/2026/08/BPSC_TRE_4_NOTIFICATION_2026.pdf",
-      "officialWebsite": "http://www.bpsc.bih.nic.in/",
-      "syllabusUrl": "http://sarkariresult.com.cm/wp-content/uploads/2026/08/BPSC-School-Teacher-TRE-4.0-Syllabus-Exam-Pattern-2026.pdf",
-      "resultUrl": "https://sarkariresult.com.cm/"
-    },
-    "status": "active",
-    "salary": "As per Government Rules / Pay Matrix",
-    "selectionProcess": [
-      "Written Competitive Examination",
-      "Interview / Demo Class (if applicable)",
-      "Document Verification (DV)"
-    ],
-    "howToApply": [
-      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
-      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
-      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
-      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
-      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
-      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
-    ],
-    "jobLocation": "Bihar",
-    "totalVacanciesCount": "Refer to Notification"
   },
   {
     "id": "latest-jobs-rrb-paramedical-staff-2026",
@@ -1049,6 +980,113 @@
     ],
     "jobLocation": "All India (Central Govt)",
     "totalVacanciesCount": "590 Posts"
+  },
+  {
+    "id": "latest-jobs-upessc-prt-assistant-teacher-2026",
+    "title": "UPESSC PRT Assistant Teacher Recruitment 2026",
+    "category": "Latest Jobs",
+    "postDate": "2026-10-13",
+    "shortInfo": "UPESSC PRT Assistant Teacher Recruitment 2026. Read notification for detailed information.",
+    "applicationStart": "16 September 2026",
+    "applicationLastDate": "15 October 2026",
+    "feeLastDate": "15 October 2026",
+    "examDate": "03 – 04 December 2026",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "Refer to Notification",
+      "scStPh": "₹ 500/-",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:"
+    },
+    "ageLimit": {
+      "min": "21 Years",
+      "max": "40 years",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "UPESSC PRT Assistant Teacher",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://apply.upessc.org/",
+      "downloadNotification": "https://www.upessc.up.gov.in/Notice/a429-726e-4862-f3dc-8a6f.pdf",
+      "officialWebsite": "https://upessc.up.gov.in/",
+      "syllabusUrl": "https://www.upessc.up.gov.in/syllabus/837218cf-1d9a-4252-a08c-404719d1b9d9.pdf",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Computer Based Written Test (CBT)",
+      "Typing / Skill / Shorthand Test",
+      "Document Verification (DV)",
+      "Final Merit List"
+    ],
+    "howToApply": [
+      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
+      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
+      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
+      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
+      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
+      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
+    ],
+    "jobLocation": "Uttar Pradesh",
+    "totalVacanciesCount": "Refer to Notification"
+  },
+  {
+    "id": "answer-key-bihar-bpsc-apo-final-answer-key",
+    "title": "Bihar BPSC APO Final Answer Key 2026",
+    "category": "Answer Key",
+    "postDate": "2026-10-13",
+    "shortInfo": "Bihar BPSC APO Final Answer Key 2026. Read notification for detailed information.",
+    "applicationStart": "27 February 2026",
+    "applicationLastDate": "20 March 2026",
+    "feeLastDate": "20 March 2026",
+    "examDate": "The notice generally includes the exam date, examination schedule, reporting time, exam shift, and important instructions for candidates.",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "Exempted / Not Applicable",
+      "scStPh": "Exempted / Not Applicable",
+      "female": "42 Years (SC/ ST-Male & Female)",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "min": "21 Years",
+      "max": "42 Years (SC/ ST-Male & Female)",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Assistant Prosecution Officer (APO)",
+        "totalPost": "300 Posts",
+        "eligibility": "Refer to official notification details"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://bpsconline.bihar.gov.in/candidate/login",
+      "downloadNotification": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Advertisement-132026-APO-Pre_BPSC-20260225-cjdpw3.pdf",
+      "officialWebsite": "https://bpsc.bihar.gov.in/",
+      "admitCardUrl": "https://bpsconline.bihar.gov.in/candidate/login"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "View Response Sheet & Question Paper",
+      "Raise Objections / Challenge Answer Key Online",
+      "Final Answer Key & Scorecard Declaration"
+    ],
+    "howToApply": [
+      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
+      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
+      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
+      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
+      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
+      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
+    ],
+    "jobLocation": "Bihar",
+    "totalVacanciesCount": "300 Posts"
   },
   {
     "id": "answer-key-ssc-selection-phase-14-answer-key",
@@ -1331,75 +1369,6 @@
     ],
     "jobLocation": "All India / State-Wise",
     "totalVacanciesCount": "53 Posts"
-  },
-  {
-    "id": "answer-key-upsssc-forensic-science-laboratory-answer-key",
-    "title": "UPSSSC Forensic Science Laboratory Answer Key 2026",
-    "category": "Answer Key",
-    "postDate": "2026-10-13",
-    "shortInfo": "UPSSSC Forensic Science Laboratory Answer Key 2026. Read notification for detailed information.",
-    "applicationStart": "27 July 2026",
-    "applicationLastDate": "24 August 2026 Extended",
-    "feeLastDate": "24 August 2026",
-    "examDate": "27 September 2026",
-    "admitCardDate": "23 September 2026",
-    "resultDate": "Will Be Updated Here Soon",
-    "fees": {
-      "generalObc": "₹ 25/-",
-      "scStPh": "₹ 25/-",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
-    },
-    "ageLimit": {
-      "min": "21 Years",
-      "max": "40 Years",
-      "relaxationText": "Age Relaxation Extra As Per Rules Of UPSSSC Bharti 2026"
-    },
-    "vacancies": [
-      {
-        "postName": "Scientific Assistant (Regular)",
-        "totalPost": "134 Posts",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Scientific Assistant (Special Recruitment)",
-        "totalPost": "13 Posts",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Lab Assistant (Laboratory Assistant) (Regular)",
-        "totalPost": "56 Posts",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Lab Assistant (Laboratory Assistant) (Special Recruitment)",
-        "totalPost": "05 Posts",
-        "eligibility": "Refer to official notification details"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://upsssc.gov.in/AllNotifications.aspx",
-      "downloadNotification": "https://upsssc.gov.in/ViewPdf.aspx?omt6wajWeQ/wMLs6acTFSsdT5ApHGahB+4GmYQbMxzY=",
-      "officialWebsite": "http://upsssc.gov.in/Default.aspx",
-      "admitCardUrl": "https://upsssc.gov.in/ViewPdf.aspx?sW91nE7NciLdHO1e8e0+/nDq8f/eUYUtQ+d+3wwM2mw=",
-      "resultUrl": "https://sarkariresult.com.cm/"
-    },
-    "status": "active",
-    "salary": "As per Government Rules / Pay Matrix",
-    "selectionProcess": [
-      "View Response Sheet & Question Paper",
-      "Raise Objections / Challenge Answer Key Online",
-      "Final Answer Key & Scorecard Declaration"
-    ],
-    "howToApply": [
-      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
-      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
-      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
-      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
-      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
-      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
-    ],
-    "jobLocation": "Uttar Pradesh",
-    "totalVacanciesCount": "208 Posts"
   },
   {
     "id": "syllabus-nielit-ccc-admit-card-2026",
@@ -2022,6 +1991,355 @@
     "totalVacanciesCount": "Refer to Notification"
   },
   {
+    "id": "result-upsssc-cane-supervisor-eligibility-2026",
+    "title": "UPSSSC Cane Supervisor Eligibility Result 2026",
+    "category": "Result",
+    "postDate": "2026-10-13",
+    "shortInfo": "UPSSSC Cane Supervisor Eligibility Result 2026. Read notification for detailed information.",
+    "applicationStart": "07 July 2026",
+    "applicationLastDate": "28 July 2026",
+    "feeLastDate": "28 July 2026",
+    "examDate": "Notify Later",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "₹ 25/-",
+      "scStPh": "₹ 25/-",
+      "paymentMode": "Online payment mode"
+    },
+    "ageLimit": {
+      "min": "21 Years",
+      "max": "40 Years",
+      "relaxationText": "Age Relaxation Extra as per UPSSSC Examination 2026"
+    },
+    "vacancies": [
+      {
+        "postName": "UPSSSC Cane Supervisor Eligibility Result 2026",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://upsssc.gov.in//AllNotifications.aspx",
+      "downloadNotification": "https://upsssc.gov.in//ViewPdf.aspx?G/yeFT+5YAm8RlpyrTdvA4RFSeQvuw+5fq0YpRjOkSQ=",
+      "officialWebsite": "https://upsssc.gov.in/",
+      "syllabusUrl": "http://sarkariresult.com.cm/wp-content/uploads/2026/05/UPSSSC-Cane-Supervisor-Syllabus-Exam-Pattern-2026.pdf",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Written / CBT Preliminary Examination",
+      "Mains / Secondary Stage Examination",
+      "Document Verification & Final Merit List"
+    ],
+    "howToApply": [
+      "Click on the direct \"Check Result / Download Merit List\" link below.",
+      "Open the PDF or enter your Roll Number / Registration Number and DOB on the result portal.",
+      "Search for your Roll Number / Name in the qualified candidates list (using Ctrl + F on PC).",
+      "Check category-wise cut-off marks and your qualifying score.",
+      "Download and save a copy of the Scorecard / Merit List for subsequent stages."
+    ],
+    "jobLocation": "Uttar Pradesh",
+    "totalVacanciesCount": "Refer to Notification"
+  },
+  {
+    "id": "result-aiims-norcet-11th-stage-ii-2026",
+    "title": "AIIMS NORCET 11th Stage-II Result 2026",
+    "category": "Result",
+    "postDate": "2026-10-13",
+    "shortInfo": "AIIMS NORCET 11th Stage-II Result 2026. Read notification for detailed information.",
+    "applicationStart": "24 July 2026",
+    "applicationLastDate": "13 August 2026",
+    "feeLastDate": "13 August 2026",
+    "examDate": "30 September 2026",
+    "admitCardDate": "To be announced",
+    "resultDate": "18 September 2026",
+    "fees": {
+      "generalObc": "₹ 3000/-",
+      "scStPh": "₹ 2400/–",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "min": "18 Years",
+      "max": "30 Years",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "AIIMS NORCET 11th Stage-II Result 2026",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://www.aiimsexams.ac.in/advertisement/6a6350f7e5a81c4267f4ff04",
+      "downloadNotification": "https://rrpdocuments.aiimsexams.ac.in/1784895678667-599501489.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVRUVRLXWMSLVSAP7%2F20260724%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20260724T131521Z&X-Amz-Expires=18000&X-Amz-Signature=0c0d4b3cb7b3a3c7df331bf9c5c405143e5179d24744492fac5dd06dd6a1c2d1&X-Amz-SignedHeaders=host&response-content-type=application%2Fpdf",
+      "officialWebsite": "https://www.aiimsexams.ac.in/",
+      "admitCardUrl": "https://aiimsexams.ac.in/advertisement/6a6350f7e5a81c4267f4ff04",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Written / CBT Preliminary Examination",
+      "Mains / Secondary Stage Examination",
+      "Document Verification & Final Merit List"
+    ],
+    "howToApply": [
+      "Click on the direct \"Check Result / Download Merit List\" link below.",
+      "Open the PDF or enter your Roll Number / Registration Number and DOB on the result portal.",
+      "Search for your Roll Number / Name in the qualified candidates list (using Ctrl + F on PC).",
+      "Check category-wise cut-off marks and your qualifying score.",
+      "Download and save a copy of the Scorecard / Merit List for subsequent stages."
+    ],
+    "jobLocation": "All India / State-Wise",
+    "totalVacanciesCount": "Refer to Notification"
+  },
+  {
+    "id": "result-bihar-police-csbc-constable-gd-final",
+    "title": "Bihar Police CSBC Constable GD Final Result 2026",
+    "category": "Result",
+    "postDate": "2026-10-13",
+    "shortInfo": "Bihar Police CSBC Constable GD Final Result 2026. Read notification for detailed information.",
+    "applicationStart": "06 February 2026",
+    "applicationLastDate": "05 March 2026",
+    "feeLastDate": "05 March 2026",
+    "examDate": "12 September 2026",
+    "admitCardDate": "To be announced",
+    "resultDate": "18 August 2026",
+    "fees": {
+      "generalObc": "Exempted / Not Applicable",
+      "scStPh": "30 Years. (SC, ST Male & Female)",
+      "female": "30 Years. (SC, ST Male & Female)",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:"
+    },
+    "ageLimit": {
+      "min": "18 Years.",
+      "max": "30 Years. (SC, ST Male & Female)",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Bihar Police CSBC Constable GD Final Result 2026",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://apply-csbc.com/CSBC_CT_01_2026_V1/applicationIndex",
+      "downloadNotification": "https://csbc.bihar.gov.in/Advt/Advt-01-2026-Special%20Branch%20Constable.pdf",
+      "officialWebsite": "https://csbc.bihar.gov.in/",
+      "admitCardUrl": "https://csbc.bihar.gov.in/Advt/Notice-01-2026-e-AdmitCard&Exam-20-05-2026.pdf",
+      "resultUrl": "https://csbc.bihar.gov.in/Advt/Results-01-2026-PST-18-08-2026.pdf"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Written / CBT Preliminary Examination",
+      "Mains / Secondary Stage Examination",
+      "Document Verification & Final Merit List"
+    ],
+    "howToApply": [
+      "Click on the direct \"Check Result / Download Merit List\" link below.",
+      "Open the PDF or enter your Roll Number / Registration Number and DOB on the result portal.",
+      "Search for your Roll Number / Name in the qualified candidates list (using Ctrl + F on PC).",
+      "Check category-wise cut-off marks and your qualifying score.",
+      "Download and save a copy of the Scorecard / Merit List for subsequent stages."
+    ],
+    "jobLocation": "Bihar",
+    "totalVacanciesCount": "Refer to Notification"
+  },
+  {
+    "id": "admit-card-bihar-bpsc-72-pre-new-date",
+    "title": "Bihar BPSC 72 Pre New Exam Date 2026",
+    "category": "Admit Card",
+    "postDate": "2026-10-13",
+    "shortInfo": "Bihar BPSC 72 Pre New Exam Date 2026. Read notification for detailed information.",
+    "applicationStart": "07 May 2026",
+    "applicationLastDate": "31 May 2026",
+    "feeLastDate": "31 May 2026",
+    "examDate": "The exam date notice generally includes the exam dates, shift timings, reporting time, exam city information, and important instructions for candidates.",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "Exempted / Not Applicable",
+      "scStPh": "Exempted / Not Applicable",
+      "female": "42 Year (SC/ ST-Male & Female)",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "min": "20-22 Year (Post Wise)",
+      "max": "42 Year (SC/ ST-Male & Female)",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "72nd Combined (Preliminary) Competitive Examination",
+        "totalPost": "1033",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Child Development Project Officer",
+        "totalPost": "20",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Financial Administrative Officer & Equivalent",
+        "totalPost": "32",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Sub-Divisional Protection Officer",
+        "totalPost": "101",
+        "eligibility": "Refer to official notification details"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://bpsconline.bihar.gov.in/candidate/login",
+      "downloadNotification": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Advertisement-Integrated-72th-CCE-PT_BPSC-20260505-p1euvo.pdf",
+      "officialWebsite": "https://bpsc.bihar.gov.in/",
+      "syllabusUrl": "http://sarkariresult.com.cm/wp-content/uploads/2026/05/BPSC-72nd-Pre-Recruitment-Syllabus-Exam-Pattern-2026.pdf"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Download Online Admit Card / Hall Ticket",
+      "Appear for Written / Online Computer Based Test (CBT)",
+      "Check Answer Key & Result"
+    ],
+    "howToApply": [
+      "Click on the direct \"Download Admit Card / Hall Ticket\" link provided below.",
+      "Enter your Registration Number / Roll Number and Date of Birth (DOB) or Password.",
+      "Click on \"Submit\" or \"Login\" to view your Hall Ticket on screen.",
+      "Check all details thoroughly: Exam Center, Reporting Time, Shift, and Roll Number.",
+      "Download and print at least 2 clear copies of the Admit Card along with the official instructions."
+    ],
+    "jobLocation": "Bihar",
+    "totalVacanciesCount": "1,186 Posts"
+  },
+  {
+    "id": "latest-jobs-bpsc-school-teacher-tre-4-0",
+    "title": "BPSC School Teacher TRE 4.0 Recruitment 2026",
+    "category": "Latest Jobs",
+    "postDate": "2026-10-13",
+    "shortInfo": "BPSC School Teacher TRE 4.0 Recruitment 2026. Read notification for detailed information.",
+    "applicationStart": "25 September 2026",
+    "applicationLastDate": "26 October 2026",
+    "feeLastDate": "26 October 2026",
+    "examDate": "Notify Later",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "Refer to Notification",
+      "scStPh": "Refer to Notification",
+      "female": "42 Years (SC/ ST-Male & Female)",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "min": "18 Years",
+      "max": "42 years",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "BPSC School Teacher TRE 4.0",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://bpsconline.bihar.gov.in/candidate/login",
+      "downloadNotification": "http://sarkariresult.com.cm/wp-content/uploads/2026/08/BPSC_TRE_4_NOTIFICATION_2026.pdf",
+      "officialWebsite": "http://www.bpsc.bih.nic.in/",
+      "syllabusUrl": "http://sarkariresult.com.cm/wp-content/uploads/2026/08/BPSC-School-Teacher-TRE-4.0-Syllabus-Exam-Pattern-2026.pdf",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Written Competitive Examination",
+      "Interview / Demo Class (if applicable)",
+      "Document Verification (DV)"
+    ],
+    "howToApply": [
+      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
+      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
+      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
+      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
+      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
+      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
+    ],
+    "jobLocation": "Bihar",
+    "totalVacanciesCount": "Refer to Notification"
+  },
+  {
+    "id": "answer-key-upsssc-forensic-science-laboratory-answer-key",
+    "title": "UPSSSC Forensic Science Laboratory Answer Key 2026",
+    "category": "Answer Key",
+    "postDate": "2026-10-13",
+    "shortInfo": "UPSSSC Forensic Science Laboratory Answer Key 2026. Read notification for detailed information.",
+    "applicationStart": "27 July 2026",
+    "applicationLastDate": "24 August 2026 Extended",
+    "feeLastDate": "24 August 2026",
+    "examDate": "27 September 2026",
+    "admitCardDate": "23 September 2026",
+    "resultDate": "Will Be Updated Here Soon",
+    "fees": {
+      "generalObc": "₹ 25/-",
+      "scStPh": "₹ 25/-",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "min": "21 Years",
+      "max": "40 Years",
+      "relaxationText": "Age Relaxation Extra As Per Rules Of UPSSSC Bharti 2026"
+    },
+    "vacancies": [
+      {
+        "postName": "Scientific Assistant (Regular)",
+        "totalPost": "134 Posts",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Scientific Assistant (Special Recruitment)",
+        "totalPost": "13 Posts",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Lab Assistant (Laboratory Assistant) (Regular)",
+        "totalPost": "56 Posts",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Lab Assistant (Laboratory Assistant) (Special Recruitment)",
+        "totalPost": "05 Posts",
+        "eligibility": "Refer to official notification details"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://upsssc.gov.in/AllNotifications.aspx",
+      "downloadNotification": "https://upsssc.gov.in/ViewPdf.aspx?omt6wajWeQ/wMLs6acTFSsdT5ApHGahB+4GmYQbMxzY=",
+      "officialWebsite": "http://upsssc.gov.in/Default.aspx",
+      "admitCardUrl": "https://upsssc.gov.in/ViewPdf.aspx?sW91nE7NciLdHO1e8e0+/nDq8f/eUYUtQ+d+3wwM2mw=",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "View Response Sheet & Question Paper",
+      "Raise Objections / Challenge Answer Key Online",
+      "Final Answer Key & Scorecard Declaration"
+    ],
+    "howToApply": [
+      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
+      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
+      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
+      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
+      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
+      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
+    ],
+    "jobLocation": "Uttar Pradesh",
+    "totalVacanciesCount": "208 Posts"
+  },
+  {
     "id": "result-ssc-selection-phase-14-answer-key",
     "title": "SSC Selection Phase 14 Answer Key 2026",
     "category": "Result",
@@ -2625,59 +2943,6 @@
       "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
     ],
     "jobLocation": "Uttar Pradesh",
-    "totalVacanciesCount": "Refer to Notification"
-  },
-  {
-    "id": "latest-jobs-mpesb-group-3-sub-engineer-other",
-    "title": "MPESB Group 3 Sub Engineer & Other Post Recruitment 2026",
-    "category": "Latest Jobs",
-    "postDate": "2026-10-12",
-    "shortInfo": "MPESB Group 3 Sub Engineer & Other Post Recruitment 2026. Read notification for detailed information.",
-    "applicationStart": "29 August 2026",
-    "applicationLastDate": "27 October 2026",
-    "feeLastDate": "27 October 2026",
-    "examDate": "Notify Later",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "Refer to Notification",
-      "scStPh": "45 Years (SC, ST, OBC, PwBD & All Female)",
-      "female": "45 Years (SC, ST, OBC, PwBD & All Female)",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:"
-    },
-    "ageLimit": {
-      "min": "18 Years",
-      "max": "40-45 Years",
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "MPESB Group 3 Sub Engineer & Other Post",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://whatsapp.com/channel/0029VaAbQf01NCrYADMLt00L",
-      "downloadNotification": "https://esb.mp.gov.in/Rulebooks/RB_2026/Group3_SUBENG_RuleBook_2026_17_08_2026.pdf",
-      "officialWebsite": "https://esb.mp.gov.in/e_default.html",
-      "resultUrl": "https://sarkariresult.com.cm/"
-    },
-    "status": "active",
-    "salary": "As per Government Rules / Pay Matrix",
-    "selectionProcess": [
-      "Stage-1 CBT Examination",
-      "Stage-2 Technical Paper CBT",
-      "Document Verification & Medical Fitness"
-    ],
-    "howToApply": [
-      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
-      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
-      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
-      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
-      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
-      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
-    ],
-    "jobLocation": "All India / State-Wise",
     "totalVacanciesCount": "Refer to Notification"
   },
   {

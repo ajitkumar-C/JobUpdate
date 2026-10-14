@@ -1,5 +1,54 @@
 [
   {
+    "id": "odisha-nluo-deputy-warden",
+    "title": "NLUO Recruitment 2026 – Deputy Warden Posts",
+    "shortInfo": "NLUO has announced notification for Deputy Warden posts. Required qualification: Bachelor Degree. Last date to apply: 10-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "02",
+    "lastDate": "10-11-26",
+    "officialWebsite": "https://nluo.ac.in",
+    "notificationLink": "https://nluo.ac.in/wp-content/uploads/2026/10/NLUO-Cuttack.pdf",
+    "applyOnlineLink": "https://docs.google.com/forms/d/e/1FAIpQLSecipUL6xu2tQZXPPOnNR3a_9JXkkrMPDyA8RyvfntJzrri4Q/viewform",
+    "state": "Odisha",
+    "stateCode": "odisha",
+    "scrapedAt": "2026-10-14",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "13/10/2026"
+      },
+      {
+        "event": "Last Date to Apply",
+        "date": "10/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Deputy Warden",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Career section of the University website: www.nluo.ac.in.",
+      "Fill in the prescribed Google Form available on the website.",
+      "Submit the duly filled-in Google Form along with all supporting documents/proof of qualifications and experience to the Registrar, National Law University Odisha, Naraj Road, Sector-13, CDA, Cuttack-753015, Odisha on or before 10.11.2026 by 5:00 PM.",
+      "Only short-listed candidates will be called for Interview.",
+      "No TA/DA will be given for attending the Interview."
+    ]
+  },
+  {
     "id": "odisha-kalahandi district-sociologist",
     "title": "Kalahandi District Recruitment 2026 – Sociologist Posts",
     "shortInfo": "Kalahandi District has announced notification for Sociologist posts. Required qualification: Any Graduate. Last date to apply: 15-10-26.",
@@ -14,7 +63,7 @@
     "applyOnlineLink": "https://kalahandi.odisha.gov.in/sites/default/files/2026-10/4904.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13"
+    "scrapedAt": "2026-10-14"
   },
   {
     "id": "odisha-oreda limited-chief-executive-officer",
@@ -31,7 +80,7 @@
     "applyOnlineLink": "https://oredaodisha.com/wp-content/uploads/2026/10/Career-Opportunity-CEO-NORL.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13"
+    "scrapedAt": "2026-10-14"
   },
   {
     "id": "odisha-niser-senior-project-associate",
@@ -48,7 +97,7 @@
     "applyOnlineLink": "https://www.niser.ac.in/readpdf.php",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13"
+    "scrapedAt": "2026-10-14"
   },
   {
     "id": "odisha-prasar bharati-casual-broadcast-assistant",
@@ -65,7 +114,7 @@
     "applyOnlineLink": "https://newsonair.gov.in/wp-content/uploads/2026/10/Advertisement-Sambalpur.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13"
+    "scrapedAt": "2026-10-14"
   },
   {
     "id": "odisha-oreda-chief-executive-officer",
@@ -82,7 +131,7 @@
     "applyOnlineLink": "https://oredaodisha.com/wp-content/uploads/2026/10/Advertisement-No.1of-26-Dt-01.10.2026.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13"
+    "scrapedAt": "2026-10-14"
   },
   {
     "id": "odisha-odisha research centre-senior-amp-junior-research-internship-programme",
@@ -99,7 +148,7 @@
     "applyOnlineLink": "https://kuu.ac.in/wp-content/uploads/2026/10/Call-for-applications.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13"
+    "scrapedAt": "2026-10-14"
   },
   {
     "id": "odisha-oav khunta-assistant-cook",
@@ -116,7 +165,7 @@
     "applyOnlineLink": "https://mayurbhanj.odisha.gov.in/sites/default/files/2026-10/ADVERTISEMENT%20TO%20BE%20PUBLISHED%20(1).pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13"
+    "scrapedAt": "2026-10-14"
   },
   {
     "id": "odisha-utkal university-research-associate-research-assistant-field-invest",
@@ -133,7 +182,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/utkal-university-research-staff-recruitment-2026/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13",
+    "scrapedAt": "2026-10-14",
     "fees": [
       {
         "category": "Fee",
@@ -287,7 +336,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/police-commissionerate-bhubaneswar-kataka-spo-recruitment-2026/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13",
+    "scrapedAt": "2026-10-14",
     "fees": [
       {
         "category": "Fee",
@@ -343,7 +392,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/opsc-aee-recruitment-2026-apply-online-for-758-aee-civil-mechanical-posts/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13",
+    "scrapedAt": "2026-10-14",
     "fees": [
       {
         "category": "All Categories",
@@ -404,7 +453,7 @@
     "applyOnlineLink": "https://fmuniversity.nic.in/getdata?dir=InstituteNotice&#038;rid=inotice1089_101020261791619377727.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13"
+    "scrapedAt": "2026-10-14"
   },
   {
     "id": "odisha-wcd odisha-assistant-instructress-instructress",
@@ -421,7 +470,7 @@
     "applyOnlineLink": "https://wcd.odisha.gov.in/sites/default/files/2026-10/Advertisement%20SIWC.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13"
+    "scrapedAt": "2026-10-14"
   },
   {
     "id": "odisha-kvk ouat-stenographer-farm-manager-and-more",
@@ -438,7 +487,7 @@
     "applyOnlineLink": "https://ouat.ac.in/wp-content/uploads/2026/10/16218.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13"
+    "scrapedAt": "2026-10-14"
   },
   {
     "id": "odisha-itr drdo-graduate-and-technician-apprentice",
@@ -455,7 +504,7 @@
     "applyOnlineLink": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtITR09102026.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13"
+    "scrapedAt": "2026-10-14"
   },
   {
     "id": "odisha-bbmch-laboratory-technician",
@@ -472,7 +521,7 @@
     "applyOnlineLink": "https://balangir.odisha.gov.in/sites/default/files/2026-10/Advt.%20No.%205323%20dt.%2006.10.2026.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13"
+    "scrapedAt": "2026-10-14"
   },
   {
     "id": "odisha-nit rourkela-junior-research-fellow",
@@ -489,7 +538,7 @@
     "applyOnlineLink": "https://nitrkl.ac.in/docs/Career/ProjectFelow/2026/09102026110921921.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13"
+    "scrapedAt": "2026-10-14"
   },
   {
     "id": "odisha-oav sansole-cook-cum-helper",
@@ -506,7 +555,7 @@
     "applyOnlineLink": "https://mayurbhanj.odisha.gov.in/sites/default/files/2026-10/CCH%20ADVERTISEMENT%20&#038;%20APPLICATION%20FORM.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13"
+    "scrapedAt": "2026-10-14"
   },
   {
     "id": "odisha-central university of odisha-registrar-controller-of-examinations",
@@ -523,7 +572,7 @@
     "applyOnlineLink": "https://cuo.ac.in/Recruitment/2026/Advt-Notification_Registrar-CoE-07102026.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13"
+    "scrapedAt": "2026-10-14"
   },
   {
     "id": "odisha-nit rourkela-project-research-scientist-i",
@@ -540,7 +589,7 @@
     "applyOnlineLink": "https://nitrkl.ac.in/docs/Career/ProjectFelow/2026/07102026180802517.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13"
+    "scrapedAt": "2026-10-14"
   },
   {
     "id": "odisha-odisha police-special-police-officers-spos-",
@@ -557,7 +606,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/odisha-police-89-spo-recruitment-2026/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13",
+    "scrapedAt": "2026-10-14",
     "fees": [],
     "dates": [
       {
@@ -598,7 +647,7 @@
     "applyOnlineLink": "https://halstb.formflix.com/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13",
+    "scrapedAt": "2026-10-14",
     "fees": [
       {
         "category": "UR/OBC-NCL/EWS",
@@ -710,7 +759,7 @@
     "applyOnlineLink": "https://www.iopb.res.in/wp-content/uploads/2026/10/IOP_TADESMAN-A_Recruitment_Advertisement_2026__FINAL.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13"
+    "scrapedAt": "2026-10-14"
   },
   {
     "id": "odisha-csb btsso-sericulture-assistant",
@@ -727,7 +776,7 @@
     "applyOnlineLink": "https://csb.gov.in/sites/default/files/2026-10/csb-btsso-SA.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13"
+    "scrapedAt": "2026-10-14"
   },
   {
     "id": "odisha-opgc-additional-general-manager",
@@ -744,7 +793,7 @@
     "applyOnlineLink": "https://career.opgc.co.in/pdf/OPGC_Paper_Adv_OPGC_CO_HR_03_2026.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13"
+    "scrapedAt": "2026-10-14"
   },
   {
     "id": "odisha-odisha police-special-police-officers-spo-",
@@ -761,7 +810,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/odisha-police-special-police-officer-recruitment-2026/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13",
+    "scrapedAt": "2026-10-14",
     "fees": [
       {
         "category": "fee",
@@ -826,7 +875,7 @@
     "applyOnlineLink": "https://ssbodisha.site/las26/public/advertisement.php",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13",
+    "scrapedAt": "2026-10-14",
     "fees": [
       {
         "category": "SC/ST/PwD Candidates",
@@ -891,7 +940,7 @@
     "applyOnlineLink": "https://osepa.odisha.gov.in/webadmin/News_pdf/05_53_09pm85b1b34a08df789179c0e0917e585241.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13"
+    "scrapedAt": "2026-10-14"
   },
   {
     "id": "odisha-rdwu-assistant-professor",
@@ -908,7 +957,7 @@
     "applyOnlineLink": "https://rdwu.ac.in/Notice/2026/9076_26.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13"
+    "scrapedAt": "2026-10-14"
   },
   {
     "id": "odisha-spices board-trainee-development-",
@@ -925,7 +974,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/spices-board-trainee-recruitment-2026/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13",
+    "scrapedAt": "2026-10-14",
     "fees": [],
     "dates": [
       {
@@ -1020,7 +1069,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/kucbldec25/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13",
+    "scrapedAt": "2026-10-14",
     "fees": [
       {
         "category": "General (Unreserved)",
@@ -1095,7 +1144,7 @@
     "applyOnlineLink": "https://aima-web-images.s3.ap-south-1.amazonaws.com/sailcareers.com/Downloads/RSP_News%20&#038;%20Jobs_01102026_172734.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13"
+    "scrapedAt": "2026-10-14"
   },
   {
     "id": "odisha-icar crri-agricultural-field-operator",
@@ -1112,7 +1161,7 @@
     "applyOnlineLink": "https://icar-crri.in/wp-content/uploads/2026/09/EAP-484.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13"
+    "scrapedAt": "2026-10-14"
   },
   {
     "id": "odisha-dlsa koraput-para-legal-volunteer",
@@ -1129,7 +1178,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec02747d3443e319a22747fbb873e8b2/uploads/2026/09/2026093027.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13"
+    "scrapedAt": "2026-10-14"
   },
   {
     "id": "odisha-ouat-professor-associate-director-of-research",
@@ -1146,7 +1195,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/ouat-professor-recruitment-2026/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13",
+    "scrapedAt": "2026-10-14",
     "fees": [
       {
         "category": "All Candidates",
@@ -1472,7 +1521,7 @@
     "applyOnlineLink": "https://www.orierc.org/CuteSoft_Client/writereaddata/upload/Advertisement_for_Secretary_Directors.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13"
+    "scrapedAt": "2026-10-14"
   },
   {
     "id": "odisha-nluo-assistant-registrar-section-officer",
@@ -1489,7 +1538,7 @@
     "applyOnlineLink": "https://nluo.ac.in/wp-content/uploads/2026/09/AR-and-So-Paper-Advertisement.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13"
+    "scrapedAt": "2026-10-14"
   },
   {
     "id": "odisha-aiims bhubaneswar-guest-faculty-guest-counsellor",
@@ -1506,7 +1555,7 @@
     "applyOnlineLink": "https://aiimsbhubaneswar.nic.in/wp-content/uploads/2026/09/Latest-Guest-Faculty-Advt.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13"
+    "scrapedAt": "2026-10-14"
   },
   {
     "id": "odisha-wcd odisha-anganwadi-worker-amp-helper",
@@ -1523,7 +1572,7 @@
     "applyOnlineLink": "https://engagement-awc.odisha.gov.in/download-aww-event-document?awwEventHistoryId=173324",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13"
+    "scrapedAt": "2026-10-14"
   },
   {
     "id": "odisha-oavs-principal-teachers",
@@ -1540,7 +1589,7 @@
     "applyOnlineLink": "https://oav.edu.in/online-application.php",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13",
+    "scrapedAt": "2026-10-14",
     "fees": [
       {
         "category": "UR & SEBC candidates (Principal)",
@@ -1719,7 +1768,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec03e94fe9ac8dc10dd8b9a239e6abee/uploads/2026/09/2026092399.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13"
+    "scrapedAt": "2026-10-14"
   },
   {
     "id": "odisha-indian coast guard-foreman-of-stores",
@@ -1736,7 +1785,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/indian-coast-guard-foreman-recruitment-2026/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13",
+    "scrapedAt": "2026-10-14",
     "fees": [
       {
         "category": "Fee",
@@ -1788,7 +1837,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ee8fe9093fbbb687bef15a38facc44d2/uploads/2026/09/20260917299908819.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13"
+    "scrapedAt": "2026-10-14"
   },
   {
     "id": "odisha-aai-graduate-apprentice-diploma-apprentice-iti-apprent",
@@ -1805,7 +1854,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-13",
+    "scrapedAt": "2026-10-14",
     "fees": [],
     "dates": [
       {

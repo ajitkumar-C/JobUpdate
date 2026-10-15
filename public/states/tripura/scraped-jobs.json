@@ -1,5 +1,77 @@
 [
   {
+    "id": "tripura-uco bank-apprentice",
+    "title": "UCO Bank Recruitment 2026 – Apprentice Posts",
+    "shortInfo": "UCO Bank has announced notification for Apprentice posts. Required qualification: Graduate degree from recognized University. Last date to apply: 29-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "530",
+    "lastDate": "29-10-26",
+    "officialWebsite": "https://www.uco.bank.in",
+    "notificationLink": "https://uco.bank.in/documents/20120/0/Final+Advertisement+Apprenticeship+Engagement+2026-27.pdf/b7a52d0a-0aa2-2f0e-e266-e0038dd28a71?t=1791908189791",
+    "applyOnlineLink": "https://beep.bfsissc.com/",
+    "state": "Tripura",
+    "stateCode": "tripura",
+    "scrapedAt": "2026-10-15",
+    "fees": [
+      {
+        "category": "SC/ST candidates",
+        "fee": "Rs. 200/- plus GST"
+      },
+      {
+        "category": "Person with Benchmark Disability (PwBD) candidates",
+        "fee": "Rs. 200/- plus GST"
+      },
+      {
+        "category": "General, EWS and OBC - Male candidates",
+        "fee": "Rs. 800/- plus GST"
+      },
+      {
+        "category": "General, EWS and OBC - Female/Transgender candidates",
+        "fee": "Rs. 600/- plus GST"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "13/10/2026"
+      },
+      {
+        "event": "Online Registration Start Date",
+        "date": "14/10/2026"
+      },
+      {
+        "event": "Online Registration & Fee Payment Last Date",
+        "date": "29/10/2026"
+      },
+      {
+        "event": "Online Entrance Examination Date",
+        "date": "07/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must first register on the NATS portal (https://nats.education.gov.in) under the ‘Student Register/Login’ section.",
+      "After registering on NATS, apply for the UCO Bank Apprenticeship Program on the NATS portal.",
+      "Candidates will receive an email from BFSI SSC (info@bfsissc.com) inviting them to fill in detailed application information and make payment for the Online Examination at https://beep.bfsissc.com.",
+      "Pay the requisite non-refundable Application/Examination fee through ONLINE mode only from 14-10-2026 to 29-10-2026.",
+      "Appear for the Online Entrance Examination conducted by BFSI SSC on 07-11-2026 at 11 AM.",
+      "Candidates can apply for engagement in ONE State/UT only.",
+      "Keep the NATS Enrolment ID safe for all future correspondence.",
+      "No hard copy of application or documents is to be sent to the Bank’s office."
+    ]
+  },
+  {
     "id": "tripura-swse tripura-state-commissioner",
     "title": "SWSE Tripura Recruitment 2026 – State Commissioner Posts",
     "shortInfo": "SWSE Tripura has announced notification for State Commissioner posts. Required qualification: Any Graduate. Last date to apply: 05-11-26.",
@@ -14,7 +86,7 @@
     "applyOnlineLink": "https://socialwelfare.tripura.gov.in/sites/default/files/detailed%20Advertsiment%20dated%2012-10-2026%20%20regarding%20inviting%20applications%20for%20the%20post%20of%20State%20Commissioner%20for%20Persons%20with%20Disabilities%2C.pdf",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "tripura-dlsa-member",
@@ -31,7 +103,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec01b922ede9c9eb9eabec1c1fecbdec/uploads/2026/10/2026100590.pdf",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "tripura-tidcl-assistant-manager",
@@ -48,7 +120,7 @@
     "applyOnlineLink": "https://tripura.gov.in/sites/default/files/Recruitment_of_Assistant_Manager_in_TIDCL_on_contractual_basis.pdf",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "tripura-tripura institution for transformation-associate-and-more-consultant",
@@ -65,7 +137,7 @@
     "applyOnlineLink": "https://recruitment.tift.org.in/recruitment/application.php",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [],
     "dates": [
       {
@@ -190,7 +262,7 @@
     "applyOnlineLink": "https://nita.ac.in/MO_26-09-2026_Advt-ProfessorPractice-Sept2026_admin.pdf",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "tripura-nit agartala-library-professional-trainee",
@@ -207,7 +279,7 @@
     "applyOnlineLink": "https://nita.ac.in/MO_25-09-2026_LibraryTrainee-Sept2026_admin.pdf",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "tripura-nit agartala-lab-attendant-and-more-technician",
@@ -224,7 +296,7 @@
     "applyOnlineLink": "https://test.cbexams.com/EDPSU/NIT/Registration/",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [
       {
         "category": "General/OBC/EWS",

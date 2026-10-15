@@ -1,5 +1,94 @@
 [
   {
+    "id": "megha-uco bank-apprentice",
+    "title": "UCO Bank Recruitment 2026 – Apprentice Posts",
+    "shortInfo": "UCO Bank has announced notification for Apprentice posts. Required qualification: Graduate degree from recognized University. Last date to apply: 29-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "530",
+    "lastDate": "29-10-26",
+    "officialWebsite": "https://www.uco.bank.in",
+    "notificationLink": "https://uco.bank.in/documents/20120/0/Final+Advertisement+Apprenticeship+Engagement+2026-27.pdf/b7a52d0a-0aa2-2f0e-e266-e0038dd28a71?t=1791908189791",
+    "applyOnlineLink": "https://beep.bfsissc.com/",
+    "state": "Meghalaya",
+    "stateCode": "megha",
+    "scrapedAt": "2026-10-15",
+    "fees": [
+      {
+        "category": "SC/ST candidates",
+        "fee": "Rs. 200/- plus GST"
+      },
+      {
+        "category": "Person with Benchmark Disability (PwBD) candidates",
+        "fee": "Rs. 200/- plus GST"
+      },
+      {
+        "category": "General, EWS and OBC - Male candidates",
+        "fee": "Rs. 800/- plus GST"
+      },
+      {
+        "category": "General, EWS and OBC - Female/Transgender candidates",
+        "fee": "Rs. 600/- plus GST"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "13/10/2026"
+      },
+      {
+        "event": "Online Registration Start Date",
+        "date": "14/10/2026"
+      },
+      {
+        "event": "Online Registration & Fee Payment Last Date",
+        "date": "29/10/2026"
+      },
+      {
+        "event": "Online Entrance Examination Date",
+        "date": "07/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must first register on the NATS portal (https://nats.education.gov.in) under the ‘Student Register/Login’ section.",
+      "After registering on NATS, apply for the UCO Bank Apprenticeship Program on the NATS portal.",
+      "Candidates will receive an email from BFSI SSC (info@bfsissc.com) inviting them to fill in detailed application information and make payment for the Online Examination at https://beep.bfsissc.com.",
+      "Pay the requisite non-refundable Application/Examination fee through ONLINE mode only from 14-10-2026 to 29-10-2026.",
+      "Appear for the Online Entrance Examination conducted by BFSI SSC on 07-11-2026 at 11 AM.",
+      "Candidates can apply for engagement in ONE State/UT only.",
+      "Keep the NATS Enrolment ID safe for all future correspondence.",
+      "No hard copy of application or documents is to be sent to the Bank’s office."
+    ]
+  },
+  {
+    "id": "megha-nehu-project-technical-support-ndash-iii",
+    "title": "NEHU Recruitment 2026 – Project Technical Support&ndash;III Posts",
+    "shortInfo": "NEHU has announced notification for Project Technical Support&ndash;III posts. Required qualification: MCA, B.Tech/B.E. Last date to apply: 19-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "3",
+    "lastDate": "19-10-26",
+    "officialWebsite": "https://nehu.ac.in/public/assets/files/advertisements/20261012071216_Add-for-project-technical-support-lll.pdf",
+    "notificationLink": "https://nehu.ac.in/public/assets/files/advertisements/20261012071216_Add-for-project-technical-support-lll.pdf",
+    "applyOnlineLink": "https://nehu.ac.in/public/assets/files/advertisements/20261012071216_Add-for-project-technical-support-lll.pdf",
+    "state": "Meghalaya",
+    "stateCode": "megha",
+    "scrapedAt": "2026-10-15"
+  },
+  {
     "id": "megha-shsrc-health-system-fellow-nursing-consultant",
     "title": "SHSRC Recruitment 2026 – Health System Fellow, Nursing Consultant Posts",
     "shortInfo": "SHSRC has announced notification for Health System Fellow, Nursing Consultant posts. Required qualification: Any Graduate, Any Post Graduate, M.Sc. Last date to apply: 26-10-26.",
@@ -14,7 +103,7 @@
     "applyOnlineLink": "https://nhmmeghalaya.nic.in/recruitment/SHSRC/For%20NHM-DHS-MCH&#038;FW-NHM-SHSRC-2025-26_(02)_(LVIII).pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "megha-shillong medical college-medical-social-worker",
@@ -31,7 +120,7 @@
     "applyOnlineLink": "https://meghealth.gov.in/news/2026-10-08-%20SMC-97-2026-Estt-HR-11-MSW-%20recruitment.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "megha-mmdsl-laboratory-technician-software-engineer",
@@ -48,7 +137,7 @@
     "applyOnlineLink": "https://meghealth.gov.in/news/2026-10-07-MMDSL-HR-1-HIRING-2026-27-42-AD_TOR_Various_Posts.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "megha-neepco-executive-trainee-safety-",
@@ -65,7 +154,7 @@
     "applyOnlineLink": "https://recruitment.neepco-spark.co.in/",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [
       {
         "category": "General / EWS / OBC (NCL)",
@@ -122,7 +211,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/10/17914437656060.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "megha-meecl-graduate-apprentice",
@@ -139,7 +228,7 @@
     "applyOnlineLink": "https://meecl.nic.in/wp-content/uploads/2026/10/Graduate-General-Stream-Apprenticeship-2026-27.pdf?x47147",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "megha-neigrihms-project-technical-support-1",
@@ -156,7 +245,7 @@
     "applyOnlineLink": "https://neigrihms.gov.in/Latest%20News/Other/2026/Advertisement%20for%20Recruitment%20To%20Project%20Posts%20-%20(%20on%20Contract)%20Dept%20of%20Anaesthesiology.modified.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "megha-dmho ri-bhoi-staff-nurse",
@@ -173,7 +262,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3fe8c15fed5f808006ce95eddb7366e35/uploads/2026/10/17911914994041.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "megha-iim shillong-associate-and-assistant-professor-professor",
@@ -190,7 +279,7 @@
     "applyOnlineLink": "https://www.iimshillong.ac.in/wp-content/uploads/2026/09/Faculty-Ad-0926.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "megha-neigrihms-project-nurse",
@@ -207,7 +296,7 @@
     "applyOnlineLink": "https://neigrihms.gov.in/Latest%20News/Other/2026/Advertisement_Project_Research_Nurse_CARHDP_Sept_2026.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "megha-meghalaya high court-library-assistant-stenographer-more",
@@ -224,7 +313,7 @@
     "applyOnlineLink": "https://meghalayahighcourt.nic.in/sites/default/files/recruitment/R222.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "megha-cwssu-professor-associate-professor-assistant-professor",
@@ -241,7 +330,7 @@
     "applyOnlineLink": "https://rpa.meghalaya.gov.in/cwssu/",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [
       {
         "category": "General Candidates",

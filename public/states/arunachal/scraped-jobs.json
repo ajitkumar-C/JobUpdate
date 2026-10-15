@@ -1,5 +1,135 @@
 [
   {
+    "id": "arunachal-apssb-mts",
+    "title": "APSSB Recruitment 2026 – MTS Posts",
+    "shortInfo": "APSSB has announced notification for MTS posts. Required qualification: Class 10th/ITI passed. Last date to apply: 23-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "93",
+    "lastDate": "23-11-26",
+    "officialWebsite": "https://apssb.nic.in",
+    "notificationLink": "https://apssb.nic.in/upload/files/RECINS001/ADVERTISEMENT_OF_CSLE_2026_20261014_172726.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/apssb-mts-recruitment-2026/",
+    "state": "Arunachal Pradesh",
+    "stateCode": "arunachal",
+    "scrapedAt": "2026-10-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "₹150/-"
+      },
+      {
+        "category": "For PWD/PwBD category",
+        "fee": "No Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date of Application",
+        "date": "09/11/2026"
+      },
+      {
+        "event": "Closing Date of Application",
+        "date": "23/11/2026"
+      },
+      {
+        "event": "Tentative Date of Written Examination",
+        "date": "20/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "MTS (Multi Tasking Staff)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website www.apssb.nic.in.",
+      "Read the Recruitment Notice carefully before applying.",
+      "Fill the online application form with correct and relevant information.",
+      "Ensure all eligibility conditions like Age, Educational Qualifications, Experience, and Category are met.",
+      "Submit the application before the closing date 23-11-2026 (03:00 PM).",
+      "Applications received through any other mode shall be rejected."
+    ]
+  },
+  {
+    "id": "arunachal-uco bank-apprentice",
+    "title": "UCO Bank Recruitment 2026 – Apprentice Posts",
+    "shortInfo": "UCO Bank has announced notification for Apprentice posts. Required qualification: Graduate degree from recognized University. Last date to apply: 29-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "530",
+    "lastDate": "29-10-26",
+    "officialWebsite": "https://www.uco.bank.in",
+    "notificationLink": "https://uco.bank.in/documents/20120/0/Final+Advertisement+Apprenticeship+Engagement+2026-27.pdf/b7a52d0a-0aa2-2f0e-e266-e0038dd28a71?t=1791908189791",
+    "applyOnlineLink": "https://beep.bfsissc.com/",
+    "state": "Arunachal Pradesh",
+    "stateCode": "arunachal",
+    "scrapedAt": "2026-10-15",
+    "fees": [
+      {
+        "category": "SC/ST candidates",
+        "fee": "Rs. 200/- plus GST"
+      },
+      {
+        "category": "Person with Benchmark Disability (PwBD) candidates",
+        "fee": "Rs. 200/- plus GST"
+      },
+      {
+        "category": "General, EWS and OBC - Male candidates",
+        "fee": "Rs. 800/- plus GST"
+      },
+      {
+        "category": "General, EWS and OBC - Female/Transgender candidates",
+        "fee": "Rs. 600/- plus GST"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "13/10/2026"
+      },
+      {
+        "event": "Online Registration Start Date",
+        "date": "14/10/2026"
+      },
+      {
+        "event": "Online Registration & Fee Payment Last Date",
+        "date": "29/10/2026"
+      },
+      {
+        "event": "Online Entrance Examination Date",
+        "date": "07/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must first register on the NATS portal (https://nats.education.gov.in) under the ‘Student Register/Login’ section.",
+      "After registering on NATS, apply for the UCO Bank Apprenticeship Program on the NATS portal.",
+      "Candidates will receive an email from BFSI SSC (info@bfsissc.com) inviting them to fill in detailed application information and make payment for the Online Examination at https://beep.bfsissc.com.",
+      "Pay the requisite non-refundable Application/Examination fee through ONLINE mode only from 14-10-2026 to 29-10-2026.",
+      "Appear for the Online Entrance Examination conducted by BFSI SSC on 07-11-2026 at 11 AM.",
+      "Candidates can apply for engagement in ONE State/UT only.",
+      "Keep the NATS Enrolment ID safe for all future correspondence.",
+      "No hard copy of application or documents is to be sent to the Bank’s office."
+    ]
+  },
+  {
     "id": "arunachal-apssb-anm-driver-constable-head-constable-ecg-technician",
     "title": "APSSB Recruitment 2026 – ANM, Driver, Constable, Head Constable, ECG Technician, Dental Technician Posts",
     "shortInfo": "APSSB has announced notification for ANM, Driver, Constable, Head Constable, ECG Technician, Dental Technician posts. Required qualification: Class X, Class XII, Diploma. Last date to apply: 05-11-26.",
@@ -14,7 +144,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/apssb-ministerial-technical-exam-2026-apply-online-for-217-anm-driver-constable-other-posts/",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [
       {
         "category": "General/All Candidates",
@@ -171,7 +301,7 @@
     "applyOnlineLink": "https://rgu.ac.in/uploads/notices/Advertisement,%20Dept.%20of%20Management_0001.pdf",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "arunachal-spices board-trainee-development-",
@@ -188,7 +318,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/spices-board-trainee-recruitment-2026/",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [],
     "dates": [
       {
@@ -269,21 +399,21 @@
     ]
   },
   {
-    "id": "arunachal-arunachal pradesh psc-group-a-group-b",
-    "title": "Arunachal Pradesh PSC Recruitment 2026 – Group-A, Group-B Posts",
-    "shortInfo": "Arunachal Pradesh PSC has announced notification for Group-A, Group-B posts. Required qualification: Technical qualifications as per exam. Last date to apply: 12-10-26.",
+    "id": "arunachal-arunachal pradesh psc-group-a-group-b-last-date-extended-",
+    "title": "Arunachal Pradesh PSC Recruitment 2026 – Group-A, Group-B (Last Date Extended) Posts",
+    "shortInfo": "Arunachal Pradesh PSC has announced notification for Group-A, Group-B (Last Date Extended) posts. Required qualification: Technical qualifications as per exam. Last date to apply: 27-10-26.",
     "category": "Others",
     "categoryIcon": "🏢",
     "categoryMarathi": "Others",
     "district": "State Level",
     "vacancies": "37",
-    "lastDate": "12-10-26",
+    "lastDate": "27-10-26",
     "officialWebsite": "https://appsc.gov.in",
     "notificationLink": "https://appsc.gov.in/upload/RECINS001/COMMON_GROUP_A_B_PARTII.pdf",
     "applyOnlineLink": "https://appsc.gov.in/upload/RECINS001/Corrigendum_to_Advertisement_for_Common_Recruitment_Examination_for_GrA__GrB_Gazetted_Technical_Post2026_Part__II_20261007_175343.pdf",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [
       {
         "category": "General/All Candidates",
@@ -360,7 +490,7 @@
     "applyOnlineLink": "https://appsc.gov.in/Index/institute_home/ins/RECINS001",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [
       {
         "category": "General",

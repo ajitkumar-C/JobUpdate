@@ -1,5 +1,94 @@
 [
   {
+    "id": "punjab-uco bank-apprentice",
+    "title": "UCO Bank Recruitment 2026 – Apprentice Posts",
+    "shortInfo": "UCO Bank has announced notification for Apprentice posts. Required qualification: Graduate degree from recognized University. Last date to apply: 29-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "530",
+    "lastDate": "29-10-26",
+    "officialWebsite": "https://www.uco.bank.in",
+    "notificationLink": "https://uco.bank.in/documents/20120/0/Final+Advertisement+Apprenticeship+Engagement+2026-27.pdf/b7a52d0a-0aa2-2f0e-e266-e0038dd28a71?t=1791908189791",
+    "applyOnlineLink": "https://beep.bfsissc.com/",
+    "state": "Punjab",
+    "stateCode": "punjab",
+    "scrapedAt": "2026-10-15",
+    "fees": [
+      {
+        "category": "SC/ST candidates",
+        "fee": "Rs. 200/- plus GST"
+      },
+      {
+        "category": "Person with Benchmark Disability (PwBD) candidates",
+        "fee": "Rs. 200/- plus GST"
+      },
+      {
+        "category": "General, EWS and OBC - Male candidates",
+        "fee": "Rs. 800/- plus GST"
+      },
+      {
+        "category": "General, EWS and OBC - Female/Transgender candidates",
+        "fee": "Rs. 600/- plus GST"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "13/10/2026"
+      },
+      {
+        "event": "Online Registration Start Date",
+        "date": "14/10/2026"
+      },
+      {
+        "event": "Online Registration & Fee Payment Last Date",
+        "date": "29/10/2026"
+      },
+      {
+        "event": "Online Entrance Examination Date",
+        "date": "07/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must first register on the NATS portal (https://nats.education.gov.in) under the ‘Student Register/Login’ section.",
+      "After registering on NATS, apply for the UCO Bank Apprenticeship Program on the NATS portal.",
+      "Candidates will receive an email from BFSI SSC (info@bfsissc.com) inviting them to fill in detailed application information and make payment for the Online Examination at https://beep.bfsissc.com.",
+      "Pay the requisite non-refundable Application/Examination fee through ONLINE mode only from 14-10-2026 to 29-10-2026.",
+      "Appear for the Online Entrance Examination conducted by BFSI SSC on 07-11-2026 at 11 AM.",
+      "Candidates can apply for engagement in ONE State/UT only.",
+      "Keep the NATS Enrolment ID safe for all future correspondence.",
+      "No hard copy of application or documents is to be sent to the Bank’s office."
+    ]
+  },
+  {
+    "id": "punjab-hbch&amp;rc punjab-research-assistant",
+    "title": "HBCH&amp;RC Punjab Recruitment 2026 – Research Assistant Posts",
+    "shortInfo": "HBCH&amp;RC Punjab has announced notification for Research Assistant posts. Required qualification: Any Post Graduate. Last date to apply: 27-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "27-10-26",
+    "officialWebsite": "https://tmc.gov.in/postmaster/ViewFile?FileId=WS0+s7DqHH6UPwlYvpCMUQ==",
+    "notificationLink": "https://tmc.gov.in/postmaster/ViewFile?FileId=WS0+s7DqHH6UPwlYvpCMUQ==",
+    "applyOnlineLink": "https://tmc.gov.in/postmaster/ViewFile?FileId=WS0+s7DqHH6UPwlYvpCMUQ==",
+    "state": "Punjab",
+    "stateCode": "punjab",
+    "scrapedAt": "2026-10-15"
+  },
+  {
     "id": "punjab-ggsmch-project-nurse-ii",
     "title": "GGSMCH Recruitment 2026 – Project Nurse-II Posts",
     "shortInfo": "GGSMCH has announced notification for Project Nurse-II posts. Required qualification: Diploma. Last date to apply: 15-10-26.",
@@ -14,7 +103,7 @@
     "applyOnlineLink": "https://bfuhs.ggsmch.org/wp-content/uploads/2026/09/AdvtProjectNursemerged.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "punjab-psssb-junior-engineer-je-civil-mechanical-electrical-re-",
@@ -31,7 +120,7 @@
     "applyOnlineLink": "https://eservices.punjab.gov.in/loginWindow.do",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [
       {
         "category": "Ex-Servicemen, EWS, PwD and LDESM of Punjab State Only",
@@ -136,7 +225,7 @@
     "applyOnlineLink": "https://tmc.gov.in/postmaster/ViewFile?FileId=xhNOMT+/PCk85eoiLndkCw==",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "punjab-echs-nursing-assistant-medical-officer",
@@ -153,7 +242,7 @@
     "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/Abohar%20Advt%2016%20Oct%2026.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "punjab-pilbs-professor-associate-professor-assistant-professor-",
@@ -170,7 +259,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/pilbs-recruitment-2026/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [],
     "dates": [
       {
@@ -345,7 +434,7 @@
     "applyOnlineLink": "https://www.iitrpr.ac.in/api/v2/files/download/218",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "punjab-punjabi university-assistant-professor",
@@ -362,7 +451,7 @@
     "applyOnlineLink": "https://www.punjabiuniversity.ac.in/Pages/SF/TQR/PE9BBF86E.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "punjab-dlsa sangrur-para-legal-volunteer",
@@ -379,7 +468,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec03ac73001b1d44f4925449ce09d9f5/uploads/2026/10/2026100692.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "punjab-punjab &amp; sind bank-physiotherapist",
@@ -396,7 +485,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/punjab-sind-bank-physiotherapist-recruitment-2026/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [],
     "dates": [
       {
@@ -441,7 +530,7 @@
     "applyOnlineLink": "https://aiimsbathinda.edu.in/images/Reqruitment/20261006114316.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "punjab-iit ropar-postdoctoral-fellow",
@@ -458,7 +547,7 @@
     "applyOnlineLink": "https://www.iitrpr.ac.in/api/v2/files/download/211",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "punjab-cdac-project-associate-project-engineer-senior-project-",
@@ -475,7 +564,7 @@
     "applyOnlineLink": "https://careers.cdac.in/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [
       {
         "category": "All Categories",
@@ -602,7 +691,7 @@
     "applyOnlineLink": "https://cdn3.digialm.com/EForms/configuredHtml/32046/100408/8QbduJv6oSbKw2p7dK/Index.html",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [
       {
         "category": "SC/BC/OBC/ESM/EWS of Punjab",
@@ -667,7 +756,7 @@
     "applyOnlineLink": "https://jobs.puchd.ac.in/includes/jobs/2026/20261001165851-Walk%20In%20Interview%20Electrician.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "punjab-gndu-officer-on-special-duty-amp-assistant-professor",
@@ -684,7 +773,7 @@
     "applyOnlineLink": "https://digital.gndu.ac.in/pdf/news/AdvtNo__13_2026_20261001105120853.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "punjab-bathinda district court-lift-operators-technician",
@@ -701,7 +790,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec01e9fb2eda3d9c55a0d89c98d6c54b/uploads/2026/09/2026093078.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "punjab-psssb-head-draftsman-law-officer-legal-assistant-account",
@@ -718,7 +807,7 @@
     "applyOnlineLink": "https://eservices.punjab.gov.in/loginWindow.do",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [
       {
         "category": "Scheduled Castes of Punjab State only",
@@ -810,7 +899,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/iiser-mohali-assistant-professor-recruitment-2026/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [
       {
         "category": "Fee",
@@ -918,7 +1007,7 @@
     "applyOnlineLink": "https://www.iitrpr.ac.in/api/v2/files/download/209",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "punjab-psssb-steno-typist-re-open-",
@@ -935,7 +1024,7 @@
     "applyOnlineLink": "https://test.learnpunjabi.org/Steno2025Choices/DepartmentChoiceFilling",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [
       {
         "category": "For General Category/Freedom Fighters/Players",
@@ -1002,7 +1091,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/ludhiana-court-lift-operator-recruitment-2026/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [
       {
         "category": "Fee",
@@ -1088,7 +1177,7 @@
     "applyOnlineLink": "https://pau.edu/index.php?_act=manageVacancy&#038;DO=viewVacancyDetail&#038;intID=7577",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "punjab-psssb-clerk-driver-translator-stenographer-field-artist",
@@ -1105,7 +1194,7 @@
     "applyOnlineLink": "https://eservices.punjab.gov.in/loginWindow.do",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [
       {
         "category": "General Category / Sports",
@@ -1264,7 +1353,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/exim-bank-business-development-officer-recruitment-2026/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [
       {
         "category": "Fee",
@@ -1310,7 +1399,7 @@
     "applyOnlineLink": "https://pserc.punjab.gov.in/pages/VC-78-2026-09.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "punjab-gndu-junior-technician",
@@ -1327,7 +1416,7 @@
     "applyOnlineLink": "https://digital.gndu.ac.in/pdf/news/Advt._No._12_(2026)_20260820151330443.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "punjab-punjab remote sensing centre-lab-attendant-clerk-last-date-extended-",
@@ -1344,7 +1433,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/prsc-recruitment-2026/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [
       {
         "category": "General",
@@ -1428,6 +1517,6 @@
     "applyOnlineLink": "https://pgimer.edu.in/PGIMER_PORTAL/PGIMERPORTAL/Vacancies/JSP/ViewAll.jsp?record=15445",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   }
 ]

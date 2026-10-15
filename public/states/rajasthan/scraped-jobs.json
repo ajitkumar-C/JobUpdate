@@ -1,5 +1,77 @@
 [
   {
+    "id": "rajasthan-uco bank-apprentice",
+    "title": "UCO Bank Recruitment 2026 – Apprentice Posts",
+    "shortInfo": "UCO Bank has announced notification for Apprentice posts. Required qualification: Graduate degree from recognized University. Last date to apply: 29-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "530",
+    "lastDate": "29-10-26",
+    "officialWebsite": "https://www.uco.bank.in",
+    "notificationLink": "https://uco.bank.in/documents/20120/0/Final+Advertisement+Apprenticeship+Engagement+2026-27.pdf/b7a52d0a-0aa2-2f0e-e266-e0038dd28a71?t=1791908189791",
+    "applyOnlineLink": "https://beep.bfsissc.com/",
+    "state": "Rajasthan",
+    "stateCode": "rajasthan",
+    "scrapedAt": "2026-10-15",
+    "fees": [
+      {
+        "category": "SC/ST candidates",
+        "fee": "Rs. 200/- plus GST"
+      },
+      {
+        "category": "Person with Benchmark Disability (PwBD) candidates",
+        "fee": "Rs. 200/- plus GST"
+      },
+      {
+        "category": "General, EWS and OBC - Male candidates",
+        "fee": "Rs. 800/- plus GST"
+      },
+      {
+        "category": "General, EWS and OBC - Female/Transgender candidates",
+        "fee": "Rs. 600/- plus GST"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "13/10/2026"
+      },
+      {
+        "event": "Online Registration Start Date",
+        "date": "14/10/2026"
+      },
+      {
+        "event": "Online Registration & Fee Payment Last Date",
+        "date": "29/10/2026"
+      },
+      {
+        "event": "Online Entrance Examination Date",
+        "date": "07/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must first register on the NATS portal (https://nats.education.gov.in) under the ‘Student Register/Login’ section.",
+      "After registering on NATS, apply for the UCO Bank Apprenticeship Program on the NATS portal.",
+      "Candidates will receive an email from BFSI SSC (info@bfsissc.com) inviting them to fill in detailed application information and make payment for the Online Examination at https://beep.bfsissc.com.",
+      "Pay the requisite non-refundable Application/Examination fee through ONLINE mode only from 14-10-2026 to 29-10-2026.",
+      "Appear for the Online Entrance Examination conducted by BFSI SSC on 07-11-2026 at 11 AM.",
+      "Candidates can apply for engagement in ONE State/UT only.",
+      "Keep the NATS Enrolment ID safe for all future correspondence.",
+      "No hard copy of application or documents is to be sent to the Bank’s office."
+    ]
+  },
+  {
     "id": "rajasthan-aiims jodhpur-tutor-demonstrator",
     "title": "AIIMS Jodhpur Recruitment 2026 – Tutor / Demonstrator Posts",
     "shortInfo": "AIIMS Jodhpur has announced notification for Tutor / Demonstrator posts. Required qualification: MBBS, Postgraduate. Last date to apply: 02-11-26.",
@@ -14,7 +86,7 @@
     "applyOnlineLink": "https://rec.aiimsjodhpur.edu.in/Tutor_Demonstrator/2026/TD_2026_1/",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [
       {
         "category": "Fee",
@@ -92,6 +164,57 @@
     ]
   },
   {
+    "id": "rajasthan-iit jodhpur-assistant-project-manager",
+    "title": "IIT Jodhpur Recruitment 2026 – Assistant Project Manager Posts",
+    "shortInfo": "IIT Jodhpur has announced notification for Assistant Project Manager posts. Required qualification: Any Graduate, Any Post Graduate. Last date to apply: 16-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "3",
+    "lastDate": "16-10-26",
+    "officialWebsite": "https://erponline.iitj.ac.in/RnDOutside/projectTemporaryAppointment.htm",
+    "notificationLink": "https://erponline.iitj.ac.in/RnDOutside/projectTemporaryAppointment.htm",
+    "applyOnlineLink": "https://erponline.iitj.ac.in/RnDOutside/projectTemporaryAppointment.htm",
+    "state": "Rajasthan",
+    "stateCode": "rajasthan",
+    "scrapedAt": "2026-10-15"
+  },
+  {
+    "id": "rajasthan-iit jodhpur-senior-project-manager",
+    "title": "IIT Jodhpur Recruitment 2026 – Senior Project Manager Posts",
+    "shortInfo": "IIT Jodhpur has announced notification for Senior Project Manager posts. Required qualification: Any Post Graduate. Last date to apply: 16-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "16-10-26",
+    "officialWebsite": "https://erponline.iitj.ac.in/RnDOutside/projectTemporaryAppointment.htm",
+    "notificationLink": "https://erponline.iitj.ac.in/RnDOutside/projectTemporaryAppointment.htm",
+    "applyOnlineLink": "https://erponline.iitj.ac.in/RnDOutside/projectTemporaryAppointment.htm",
+    "state": "Rajasthan",
+    "stateCode": "rajasthan",
+    "scrapedAt": "2026-10-15"
+  },
+  {
+    "id": "rajasthan-aiims jodhpur-tutor-demonstrator",
+    "title": "AIIMS Jodhpur Recruitment 2026 – Tutor / Demonstrator Posts",
+    "shortInfo": "AIIMS Jodhpur has announced notification for Tutor / Demonstrator posts. Required qualification: MBBS. Last date to apply: 02-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "20",
+    "lastDate": "02-11-26",
+    "officialWebsite": "https://rec.aiimsjodhpur.edu.in/Tutor_Demonstrator/2026/TD_2026_1/PDF/Tutor%20Advt.%202026.pdf",
+    "notificationLink": "https://rec.aiimsjodhpur.edu.in/Tutor_Demonstrator/2026/TD_2026_1/PDF/Tutor%20Advt.%202026.pdf",
+    "applyOnlineLink": "https://rec.aiimsjodhpur.edu.in/Tutor_Demonstrator/2026/TD_2026_1/PDF/Tutor%20Advt.%202026.pdf",
+    "state": "Rajasthan",
+    "stateCode": "rajasthan",
+    "scrapedAt": "2026-10-15"
+  },
+  {
     "id": "rajasthan-aiims jodhpur-more-project-nurse-iii-project-research-scientist-",
     "title": "AIIMS Jodhpur Recruitment 2026 – More, Project Nurse III, Project Research Scientist I Posts",
     "shortInfo": "AIIMS Jodhpur has announced notification for More, Project Nurse III, Project Research Scientist I posts. Required qualification: MBBS, B.Sc, 12TH, Diploma. Last date to apply: 23-10-26.",
@@ -106,7 +229,7 @@
     "applyOnlineLink": "https://aiimsjodhpur.edu.in/recruitment/Research/2026/1791799246_ADVERTISEMENT-121026.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "rajasthan-esic jaipur-panchakarma-physician-senior-resident",
@@ -123,7 +246,7 @@
     "applyOnlineLink": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_Interview_for_the_Post_of_Contractual_Basis_Senior_Resident_3_years_for_the_various_departments_and_Medical_Officer_in_ESIC_Medical_College_and_Hospital_Jaipur_interview_on_date_22_10_2026_from_09_00am_onwards_1791782197.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "rajasthan-curaj-project-associate-i",
@@ -140,7 +263,7 @@
     "applyOnlineLink": "https://www.curaj.ac.in/sites/default/files/ARFI_CURAJ_Advertisement.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "rajasthan-esic jaipur-professor-assistant-professor",
@@ -157,7 +280,7 @@
     "applyOnlineLink": "https://esic.gov.in/attachments/recruitmentfile/WALK_IN_INTERVIEW_FOR_ENGAGEMENT_OF_TEACHING_FACULTY_ON_CONTRACTUAL_BASIS_INCLUDING_ARMY_RETIRED_MEDICAL_TEACHERS_at_ESIC_Medical_College_amp_Hospital_Jaipur_Interview_on_Date_22_10_2026_From_09_00_am_onwards_1791781969.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "rajasthan-aiims jodhpur-project-research-scientist-i",
@@ -174,7 +297,7 @@
     "applyOnlineLink": "https://aiimsjodhpur.edu.in/recruitment/Research/2026/1791612514_ICMR%20EPTS%20PROJECT-101026.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "rajasthan-aiims jodhpur-project-research-scientist-i-project-technical-sup",
@@ -191,7 +314,7 @@
     "applyOnlineLink": "https://aiimsjodhpur.edu.in/recruitment/Research/2026/1791612455_ICMR%20PRIDE%20INDIA%20PROJECT-101026.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "rajasthan-sainik school jhunjhunu-sports-coach",
@@ -208,7 +331,7 @@
     "applyOnlineLink": "https://ssjhunjhunu.com/uploads/654763walkininterview.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "rajasthan-rsja-research-scholar",
@@ -225,7 +348,7 @@
     "applyOnlineLink": "https://hcraj.nic.in/hcraj/hcraj_admin/uploadfile/recruitment/Scheme_merged179085594945.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "rajasthan-rajasthan high court-junior-accountant",
@@ -242,7 +365,7 @@
     "applyOnlineLink": "http://103.203.137.249/jracct2026/index.php",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [],
     "dates": [
       {
@@ -281,7 +404,7 @@
     "applyOnlineLink": "https://aiimsjodhpur.edu.in/recruitment/Research/2026/1791520905_PRR-Res-Adv-42.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "rajasthan-iit jodhpur-senior-assistant-medical-officer-junior-technical-",
@@ -298,7 +421,7 @@
     "applyOnlineLink": "https://www.iitj.ac.in/PageImages/RecruitmentAdvertisementMaster/09-2026/Advertisement-1-639262138218700252.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [
       {
         "category": "Group-A Posts (Assistant Registrar, Counselor, Medical Officer)",
@@ -422,7 +545,7 @@
     "applyOnlineLink": "https://www.npcilcareers.co.in/HQCA20260610/candidate/Default.aspx",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [
       {
         "category": "All Categories",
@@ -530,7 +653,7 @@
     "applyOnlineLink": "https://aiimsjodhpur.edu.in/recruitment/Research/2026/1791277830_Research%20Rec_AMS-IPC-061026.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "rajasthan-iiit kota-junior-research-fellow",
@@ -547,7 +670,7 @@
     "applyOnlineLink": "https://cdn.iiitkota.ac.in/recruitment/2026-10-04_Advertisement.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "rajasthan-iit jodhpur-scientific-officer",
@@ -564,7 +687,7 @@
     "applyOnlineLink": "https://www.iitj.ac.in/PageImages/RecruitmentAdvertisementMaster/10-2026/Advertisement-1-639264726375550208.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "rajasthan-rrc nwr jaipur-act-apprentice",
@@ -581,7 +704,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/nwr-jaipur-railway-apprentice-recruitment-2026/",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [
       {
         "category": "All candidates except SC/ST, PwBD, and Women",
@@ -690,7 +813,7 @@
     "applyOnlineLink": "https://www.bits-pilani.ac.in/wp-content/uploads/Ashutosh_Bhatia_DRDO_Project_30_Sep_2026.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "rajasthan-curaj-faculty-resource-person",
@@ -707,7 +830,7 @@
     "applyOnlineLink": "https://curaj.ac.in/sites/default/files/Advt.%20No.%207051%20dated%2030.09.2026%20of%20Faculty%20Resource%20Person%20%28Contractual%29%20for%20Dr.%20Ambedkar%20Centre%20of%20Excellence%20%28DACE%29.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "rajasthan-prl udaipur-telescope-operator-trainee-office-trainee-more",
@@ -724,7 +847,7 @@
     "applyOnlineLink": "https://www.prl.res.in/~notices/websitedocs/2026/09/29/ADVT_NO_142026-29-09-2026-17-11-39.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "rajasthan-icmr nihr-young-professional-ii",
@@ -741,7 +864,7 @@
     "applyOnlineLink": "https://nihrjodhpur.icmr.org.in/admin/en_doc/vacancy-notification-for-engagement-of-young-professionals-(temporary).pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "rajasthan-ruhs-medical-officer",
@@ -758,7 +881,7 @@
     "applyOnlineLink": "https://ruhsmomedical.com/",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [],
     "dates": [
       {
@@ -843,7 +966,7 @@
     "applyOnlineLink": "https://sso.rajasthan.gov.in/signin?ru=RECRUITMENT",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [
       {
         "category": "General (Unreserved)",

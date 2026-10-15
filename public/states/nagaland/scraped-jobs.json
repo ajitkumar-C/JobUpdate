@@ -1,5 +1,77 @@
 [
   {
+    "id": "nagaland-uco bank-apprentice",
+    "title": "UCO Bank Recruitment 2026 – Apprentice Posts",
+    "shortInfo": "UCO Bank has announced notification for Apprentice posts. Required qualification: Graduate degree from recognized University. Last date to apply: 29-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "530",
+    "lastDate": "29-10-26",
+    "officialWebsite": "https://www.uco.bank.in",
+    "notificationLink": "https://uco.bank.in/documents/20120/0/Final+Advertisement+Apprenticeship+Engagement+2026-27.pdf/b7a52d0a-0aa2-2f0e-e266-e0038dd28a71?t=1791908189791",
+    "applyOnlineLink": "https://beep.bfsissc.com/",
+    "state": "Nagaland",
+    "stateCode": "nagaland",
+    "scrapedAt": "2026-10-15",
+    "fees": [
+      {
+        "category": "SC/ST candidates",
+        "fee": "Rs. 200/- plus GST"
+      },
+      {
+        "category": "Person with Benchmark Disability (PwBD) candidates",
+        "fee": "Rs. 200/- plus GST"
+      },
+      {
+        "category": "General, EWS and OBC - Male candidates",
+        "fee": "Rs. 800/- plus GST"
+      },
+      {
+        "category": "General, EWS and OBC - Female/Transgender candidates",
+        "fee": "Rs. 600/- plus GST"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "13/10/2026"
+      },
+      {
+        "event": "Online Registration Start Date",
+        "date": "14/10/2026"
+      },
+      {
+        "event": "Online Registration & Fee Payment Last Date",
+        "date": "29/10/2026"
+      },
+      {
+        "event": "Online Entrance Examination Date",
+        "date": "07/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must first register on the NATS portal (https://nats.education.gov.in) under the ‘Student Register/Login’ section.",
+      "After registering on NATS, apply for the UCO Bank Apprenticeship Program on the NATS portal.",
+      "Candidates will receive an email from BFSI SSC (info@bfsissc.com) inviting them to fill in detailed application information and make payment for the Online Examination at https://beep.bfsissc.com.",
+      "Pay the requisite non-refundable Application/Examination fee through ONLINE mode only from 14-10-2026 to 29-10-2026.",
+      "Appear for the Online Entrance Examination conducted by BFSI SSC on 07-11-2026 at 11 AM.",
+      "Candidates can apply for engagement in ONE State/UT only.",
+      "Keep the NATS Enrolment ID safe for all future correspondence.",
+      "No hard copy of application or documents is to be sent to the Bank’s office."
+    ]
+  },
+  {
     "id": "nagaland-ahvs nagaland-inspector-supervisor-amp-enumerator",
     "title": "AHVS Nagaland Recruitment 2026 – Inspector/Supervisor &amp; Enumerator Posts",
     "shortInfo": "AHVS Nagaland has announced notification for Inspector/Supervisor &amp; Enumerator posts. Required qualification: Any Graduate. Last date to apply: 15-10-26.",
@@ -14,7 +86,7 @@
     "applyOnlineLink": "https://ipr.nagaland.gov.in/sites/default/files/2026-10/Advertisement%20of%20ISS%20posts.pdf",
     "state": "Nagaland",
     "stateCode": "nagaland",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "nagaland-nit nagaland-research-assistant",
@@ -31,7 +103,7 @@
     "applyOnlineLink": "https://www.nitnagaland.ac.in/templates/g5_helium/PDF/RECRUITMENT/Application%20Form_October_Advt._NITN_ME_%20RA.pdf",
     "state": "Nagaland",
     "stateCode": "nagaland",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "nagaland-spices board-trainee-development-",
@@ -48,7 +120,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/spices-board-trainee-recruitment-2026/",
     "state": "Nagaland",
     "stateCode": "nagaland",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [],
     "dates": [
       {
@@ -143,6 +215,6 @@
     "applyOnlineLink": "https://ipr.nagaland.gov.in/advertisement-2026-09-23",
     "state": "Nagaland",
     "stateCode": "nagaland",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   }
 ]

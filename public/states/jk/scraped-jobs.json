@@ -1,5 +1,77 @@
 [
   {
+    "id": "jk-uco bank-apprentice",
+    "title": "UCO Bank Recruitment 2026 – Apprentice Posts",
+    "shortInfo": "UCO Bank has announced notification for Apprentice posts. Required qualification: Graduate degree from recognized University. Last date to apply: 29-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "530",
+    "lastDate": "29-10-26",
+    "officialWebsite": "https://www.uco.bank.in",
+    "notificationLink": "https://uco.bank.in/documents/20120/0/Final+Advertisement+Apprenticeship+Engagement+2026-27.pdf/b7a52d0a-0aa2-2f0e-e266-e0038dd28a71?t=1791908189791",
+    "applyOnlineLink": "https://beep.bfsissc.com/",
+    "state": "Jammu & Kashmir",
+    "stateCode": "jk",
+    "scrapedAt": "2026-10-15",
+    "fees": [
+      {
+        "category": "SC/ST candidates",
+        "fee": "Rs. 200/- plus GST"
+      },
+      {
+        "category": "Person with Benchmark Disability (PwBD) candidates",
+        "fee": "Rs. 200/- plus GST"
+      },
+      {
+        "category": "General, EWS and OBC - Male candidates",
+        "fee": "Rs. 800/- plus GST"
+      },
+      {
+        "category": "General, EWS and OBC - Female/Transgender candidates",
+        "fee": "Rs. 600/- plus GST"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "13/10/2026"
+      },
+      {
+        "event": "Online Registration Start Date",
+        "date": "14/10/2026"
+      },
+      {
+        "event": "Online Registration & Fee Payment Last Date",
+        "date": "29/10/2026"
+      },
+      {
+        "event": "Online Entrance Examination Date",
+        "date": "07/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must first register on the NATS portal (https://nats.education.gov.in) under the ‘Student Register/Login’ section.",
+      "After registering on NATS, apply for the UCO Bank Apprenticeship Program on the NATS portal.",
+      "Candidates will receive an email from BFSI SSC (info@bfsissc.com) inviting them to fill in detailed application information and make payment for the Online Examination at https://beep.bfsissc.com.",
+      "Pay the requisite non-refundable Application/Examination fee through ONLINE mode only from 14-10-2026 to 29-10-2026.",
+      "Appear for the Online Entrance Examination conducted by BFSI SSC on 07-11-2026 at 11 AM.",
+      "Candidates can apply for engagement in ONE State/UT only.",
+      "Keep the NATS Enrolment ID safe for all future correspondence.",
+      "No hard copy of application or documents is to be sent to the Bank’s office."
+    ]
+  },
+  {
     "id": "jk-iit jammu-postdoctoral-fellow-pdf-",
     "title": "IIT Jammu Recruitment 2026 – Postdoctoral Fellow (PDF) Posts",
     "shortInfo": "IIT Jammu has announced notification for Postdoctoral Fellow (PDF) posts. Required qualification: M.Phil/Ph.D. Last date to apply: 18-10-26.",
@@ -14,7 +86,7 @@
     "applyOnlineLink": "https://apply.iitjammu.ac.in/#/home",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "jk-cibs-consultant-accounts-",
@@ -31,7 +103,7 @@
     "applyOnlineLink": "https://cibs.ac.in/wp-content/uploads/2026/10/Vaccancy-Circulation.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "jk-jk bank-credit-auditor",
@@ -48,7 +120,7 @@
     "applyOnlineLink": "https://jkb.bank.in/sites/default/files/2026-10/ADVERTISEMENT%20NOTIFICATION%20Credit%20Auditors.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "jk-echs bd bari-nursing-assistant",
@@ -65,7 +137,7 @@
     "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Bd%20Bari%20613.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "jk-cuk-junior-research-fellow",
@@ -82,7 +154,7 @@
     "applyOnlineLink": "https://cukapi.disgenweb.in/p/employments/1790831931791-AICTE.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "jk-jk high court-district-judge-entry-level-",
@@ -99,7 +171,7 @@
     "applyOnlineLink": "https://exams.jklhc.in/uploads/advertisements/1791025696_noti_2510_03102026.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "jk-jk high court-district-judge",
@@ -116,7 +188,7 @@
     "applyOnlineLink": "https://exams.jklhc.in/uploads/advertisements/1791016995_noti_2279_01102026_n.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "jk-jk high court-research-assistant",
@@ -133,7 +205,7 @@
     "applyOnlineLink": "https://exams.jklhc.in/uploads/advertisements/1791099169_adv_01102026.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "jk-rari-project-associate-i",
@@ -150,7 +222,7 @@
     "applyOnlineLink": "https://ccras.nic.in/wp-content/uploads/2026/10/08102026-Rari-Jammu.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "jk-lahdc leh-central-administrator-amp-guard",
@@ -167,7 +239,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3291597a100aadd814d197af4f4bab3a7/uploads/2026/10/17913556376066.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "jk-budgam district-krishi-udyami-ku-agricultural-entrepreneur-",
@@ -184,7 +256,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s31141938ba2c2b13f5505d7c424ebae5f/uploads/2026/10/17912843775483.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "jk-budgam district-krishi-udyami-agricultural-entrepreneur-",
@@ -201,7 +273,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s31141938ba2c2b13f5505d7c424ebae5f/uploads/2026/10/17912840355116.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "jk-iust-project-assistant",
@@ -218,7 +290,7 @@
     "applyOnlineLink": "https://www.iust.ac.in/Notifications/Jobs/261007164328.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "jk-iit jammu-administrative-assistant",
@@ -235,7 +307,7 @@
     "applyOnlineLink": "https://apply.iitjammu.ac.in",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "jk-kashmir university-project-assistant",
@@ -252,7 +324,7 @@
     "applyOnlineLink": "https://www.kashmiruniversity.net/jobs/3115.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "jk-central university of kashmir-research-associate",
@@ -269,7 +341,7 @@
     "applyOnlineLink": "https://cukapi.disgenweb.in/p/employments/1790831857409-HEFA%20Advt_merged.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "jk-cdpo poshan beerwah-anganwadi-workers",
@@ -286,7 +358,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s31141938ba2c2b13f5505d7c424ebae5f/uploads/2026/09/17904017611297.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-14"
+    "scrapedAt": "2026-10-15"
   },
   {
     "id": "jk-jkssb-class-iv-mts-sanitation-worker",
@@ -303,7 +375,7 @@
     "applyOnlineLink": "https://jkssb.nic.in/dynamic-jkssb-test/pages/login.aspx",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [
       {
         "category": "General/OM/OBC/RBA/ALC-IB/ESM",
@@ -409,7 +481,7 @@
     "applyOnlineLink": "https://jkssb.nic.in/dynamic-jkssb-test/pages/login.aspx",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [
       {
         "category": "General Category",
@@ -1008,7 +1080,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/jkssb-warder-recruitment-2026/",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-14",
+    "scrapedAt": "2026-10-15",
     "fees": [
       {
         "category": "General/OM/OBC/RBA/ALC-IB/ESM",

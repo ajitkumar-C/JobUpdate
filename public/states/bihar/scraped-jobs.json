@@ -303,17 +303,28 @@
         "date": "08/10/2026"
       },
       {
-        "event": "Online Application End Date (Revised)",
+        "event": "Online Application End Date (Revised) (Kaimur)",
         "date": "07/11/2026"
       },
       {
-        "event": "Last Date to Submit Hard Copy via Registered Post",
+        "event": "Last Date to Submit Hard Copy via Registered Post (Kaimur)",
         "date": "14/11/2026"
+      },
+      {
+        "event": "Last Date for Apply Online (Buxar)",
+        "date": "19/11/2026"
       }
     ],
     "vacancyList": [
       {
-        "postName": "Female Supervisor (Mahila Paryavekshika)",
+        "postName": "Female Supervisor (Mahila Paryavekshika) (Buxar)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Female Supervisor (Mahila Paryavekshika) (Kaimur)",
         "count": "",
         "qualification": "",
         "ageLimit": "",

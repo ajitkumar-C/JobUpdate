@@ -1175,6 +1175,10 @@
       {
         "event": "Closing Date for Deposit of Fee",
         "date": "19/10/2026"
+      },
+      {
+        "event": "Screening Test Date",
+        "date": "06/12/2026"
       }
     ],
     "vacancyList": [

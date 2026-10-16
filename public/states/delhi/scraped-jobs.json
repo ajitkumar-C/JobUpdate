@@ -1,5 +1,467 @@
 [
   {
+    "id": "delhi-supreme court of india sci-junior-court-attendant",
+    "title": "Supreme Court of India SCI Recruitment 2026 – Junior Court Attendant Posts",
+    "shortInfo": "Supreme Court of India SCI has announced notification for Junior Court Attendant posts. Required qualification: 10th, 12th. Last date to apply: 25-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "130",
+    "lastDate": "25-11-26",
+    "officialWebsite": "https://www.sci.gov.in",
+    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2026/10/2026101560.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/supreme-court-junior-court-attendant-recruitment-2026/",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-10-16",
+    "fees": [
+      {
+        "category": "General/Unreserved",
+        "fee": "Rs. 1,500/- (plus bank charges)"
+      },
+      {
+        "category": "SC/ST/OBC (Non-Creamy Layer)/Ex-Servicemen/Physically Challenged",
+        "fee": "Rs. 750/- (plus bank charges)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Starting Date for Apply Online",
+        "date": "04/11/2026"
+      },
+      {
+        "event": "Closing Date for Apply Online",
+        "date": "25/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Junior Court Attendant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website of the Supreme Court of India at www.sci.gov.in.",
+      "Click on the online application link provided on the website.",
+      "Fill in the required details and upload necessary documents.",
+      "Pay the non-refundable application fee online through the payment gateway provided by UCO Bank: Rs. 1,500/- for General/Unreserved category and Rs. 750/- for SC/ST/OBC (Non-Creamy Layer)/Ex-Servicemen/Physically Challenged candidates (plus bank charges).",
+      "Submit an undertaking confirming that all information furnished is correct and that you have read and understood the terms and conditions of the advertisement.",
+      "Submit the application form online. No postal application forms will be accepted."
+    ]
+  },
+  {
+    "id": "delhi-sgm hospital-junior-resident-walk-in-",
+    "title": "SGM Hospital Recruitment 2026 – Junior Resident (Walk-in) Posts",
+    "shortInfo": "SGM Hospital has announced notification for Junior Resident (Walk-in) posts. Required qualification: MBBS. Last date to apply: 22-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "12",
+    "lastDate": "22-10-26",
+    "officialWebsite": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wsgm_15.pdf",
+    "notificationLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wsgm_15.pdf",
+    "applyOnlineLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wsgm_15.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-10-16"
+  },
+  {
+    "id": "delhi-ddu hispital-senior-resident-walk-in-",
+    "title": "DDU Hispital Recruitment 2026 – Senior Resident (Walk-in) Posts",
+    "shortInfo": "DDU Hispital has announced notification for Senior Resident (Walk-in) posts. Required qualification: PG Degree (MD/MS/DNB/Diploma). Last date to apply: 12.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "27",
+    "lastDate": "12",
+    "officialWebsite": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wddu_26.pdf",
+    "notificationLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wddu_26.pdf",
+    "applyOnlineLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wddu_26.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-10-16"
+  },
+  {
+    "id": "delhi-punjab and sind bank-chief-compliance-officer-cco-",
+    "title": "Punjab and Sind Bank Recruitment 2026 – CHIEF COMPLIANCE OFFICER (CCO) Posts",
+    "shortInfo": "Punjab and Sind Bank has announced notification for CHIEF COMPLIANCE OFFICER (CCO) posts. Required qualification: Graduate Degree. Last date to apply: 30-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "01",
+    "lastDate": "30-10-26",
+    "officialWebsite": "https://punjabandsind.bank.in/system/uploads/recruitment/7932_2026101510322743787.pdf",
+    "notificationLink": "https://punjabandsind.bank.in/system/uploads/recruitment/7932_2026101510322743787.pdf",
+    "applyOnlineLink": "https://punjabandsind.bank.in/system/uploads/recruitment/7932_2026101510322743787.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-10-16"
+  },
+  {
+    "id": "delhi-dmrc-senior-engineer-supervisor-engineer",
+    "title": "DMRC Recruitment 2026 – Senior Engineer, Supervisor, Engineer Posts",
+    "shortInfo": "DMRC has announced notification for Senior Engineer, Supervisor, Engineer posts. Required qualification: Govt Org/Railways/PSUs/Metro exp in Arch, Civil, Env, Signaling. Last date to apply: 04-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "73",
+    "lastDate": "04-11-26",
+    "officialWebsite": "http://www.delhimetrorail.com",
+    "notificationLink": "https://backend.delhimetrorail.com/documents/11947/Advt-235-non-executive-and-executive-Architect_Civil_ST_Environment_Jaipur.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/dmrc-executive-and-non-executive-recruitment-2026/",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-10-16",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "14/10/2026"
+      },
+      {
+        "event": "Last Date of Receipt of Application",
+        "date": "04/11/2026"
+      },
+      {
+        "event": "Shortlisted Candidates List Upload (Tentative) (Second Week of November, 2026)",
+        "date": ""
+      },
+      {
+        "event": "Screening (Tentative) (Third Week of November, 2026)",
+        "date": ""
+      },
+      {
+        "event": "Final Result Declaration (Tentative) (Fourth Week of November, 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Supervisor (Architecture) [01/S/A]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Engineer (Architecture) [01/E/A]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Engineer (Architecture) [01/SE/A]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Supervisor (Civil/Track) [02/S/C]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Engineer & Senior Engineer(Civil/Track) [02/E/C]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Supervisor (S&T) [03/S/ST]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Engineer & Senior Engineer (S&T) [03/E/ST]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Supervisor (Environment) [04/S/E]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Engineer & Senior Engineer (Environment) [04/E/E]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the application form from the DMRC website: http://www.delhimetrorail.com",
+      "Fill in the application form (Annexure-I) in capital letters with all required details.",
+      "Attach all relevant documents including educational certificates, work experience certificates, last promotion order, copy of PPO, NOC from present employer, D&amp;AR and Vigilance clearance (Annexure-II), and APARs of last 05 years.",
+      "Candidates presently employed in Govt. organization/Railways/PSUs/Metro organizations must send their application through proper channel along with Vigilance and D&amp;AR clearance.",
+      "Send the duly filled application form in an envelope superscribing the Name of Post prominently, through Speed Post to: Additional General Manager/HR/P, Delhi Metro Rail Corporation Ltd., Metro Bhawan, Fire Brigade Lane, Barakhamba Road, New Delhi, latest by 04/11/2026.",
+      "OR email the scanned copy of duly filled Application Form along with scanned copies of all other documents to: career@dmrc.org, indicating the Advt. No. DMRC/PERS/22/HR/2026/235 in the subject of the email.",
+      "Incomplete applications or applications received after the due date shall be summarily rejected."
+    ]
+  },
+  {
+    "id": "delhi-icmr nirdh-consultant",
+    "title": "ICMR NIRDH Recruitment 2026 – Consultant Posts",
+    "shortInfo": "ICMR NIRDH has announced notification for Consultant posts. Required qualification: M.Pharma, MPH, M.Sc, M.Phil/Ph.D, M.E/M.Tech, B.Tech/B.E. Last date to apply: 03-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "03-11-26",
+    "officialWebsite": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791978216_notification14-10-2026.PDF",
+    "notificationLink": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791978216_notification14-10-2026.PDF",
+    "applyOnlineLink": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791978216_notification14-10-2026.PDF",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-10-16"
+  },
+  {
+    "id": "delhi-delhi university-project-technical-support-i",
+    "title": "Delhi University Recruitment 2026 – Project Technical Support-I Posts",
+    "shortInfo": "Delhi University has announced notification for Project Technical Support-I posts. Required qualification: Any Graduate, DMLT. Last date to apply: 05-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "05-11-26",
+    "officialWebsite": "https://www.du.ac.in/uploads/new-web/13102026_Zoology_Advertisement_ICMR.pdf",
+    "notificationLink": "https://www.du.ac.in/uploads/new-web/13102026_Zoology_Advertisement_ICMR.pdf",
+    "applyOnlineLink": "https://www.du.ac.in/uploads/new-web/13102026_Zoology_Advertisement_ICMR.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-10-16"
+  },
+  {
+    "id": "delhi-ncsc-research-officer-and-more-law-officer",
+    "title": "NCSC Recruitment 2026 – Research Officer and More, Law Officer Posts",
+    "shortInfo": "NCSC has announced notification for Research Officer and More, Law Officer posts. Required qualification: Any Post Graduate, MSW, M.A, LLM. Last date to apply: 11-12-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "11",
+    "lastDate": "11-12-26",
+    "officialWebsite": "https://ncsc.nic.in/storage/vacancies/NlqBv3VCNgmxKNsnpAEpC2SHozW4BWvOSfn7g0vo.pdf",
+    "notificationLink": "https://ncsc.nic.in/storage/vacancies/NlqBv3VCNgmxKNsnpAEpC2SHozW4BWvOSfn7g0vo.pdf",
+    "applyOnlineLink": "https://ncsc.nic.in/storage/vacancies/NlqBv3VCNgmxKNsnpAEpC2SHozW4BWvOSfn7g0vo.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-10-16"
+  },
+  {
+    "id": "delhi-iit delhi-research-associate-project-scientist",
+    "title": "IIT Delhi Recruitment 2026 – Research Associate, Project Scientist Posts",
+    "shortInfo": "IIT Delhi has announced notification for Research Associate, Project Scientist posts. Required qualification: ITI, M.Phil/Ph.D, M.A, B.Tech/B.E, B.A, Any Post Graduate. Last date to apply: 28-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "7",
+    "lastDate": "28-10-26",
+    "officialWebsite": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1791955699156_bfhltbr.pdf",
+    "notificationLink": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1791955699156_bfhltbr.pdf",
+    "applyOnlineLink": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1791955699156_bfhltbr.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-10-16"
+  },
+  {
+    "id": "delhi-ambedkar nagar hospital-junior-resident",
+    "title": "Ambedkar Nagar Hospital Recruitment 2026 – Junior Resident Posts",
+    "shortInfo": "Ambedkar Nagar Hospital has announced notification for Junior Resident posts. Required qualification: MBBS. Last date to apply: 15-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "15-10-26",
+    "officialWebsite": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wanhj_5.pdf",
+    "notificationLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wanhj_5.pdf",
+    "applyOnlineLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wanhj_5.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-10-16"
+  },
+  {
+    "id": "delhi-ncjmh-senior-resident",
+    "title": "NCJMH Recruitment 2026 – Senior Resident Posts",
+    "shortInfo": "NCJMH has announced notification for Senior Resident posts. Required qualification: MBBS, Any Post Graduate, Diploma. Last date to apply: 19-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "4",
+    "lastDate": "19-10-26",
+    "officialWebsite": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wncjm_5.pdf",
+    "notificationLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wncjm_5.pdf",
+    "applyOnlineLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wncjm_5.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-10-16"
+  },
+  {
+    "id": "delhi-drat-chairperson",
+    "title": "DRAT Recruitment 2026 – Chairperson Posts",
+    "shortInfo": "DRAT has announced notification for Chairperson posts. Required qualification: . Last date to apply: 02-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "02-11-26",
+    "officialWebsite": "https://www.allahabadhighcourt.in/event/event_27257_14-10-2026.pdf",
+    "notificationLink": "https://www.allahabadhighcourt.in/event/event_27257_14-10-2026.pdf",
+    "applyOnlineLink": "https://www.allahabadhighcourt.in/event/event_27257_14-10-2026.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-10-16"
+  },
+  {
+    "id": "delhi-pfi-executive-trainee-electrical-",
+    "title": "PFI Recruitment 2026 – Executive Trainee (Electrical) Posts",
+    "shortInfo": "PFI has announced notification for Executive Trainee (Electrical) posts. Required qualification: B.Tech/B.E. Last date to apply: 03-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "4",
+    "lastDate": "03-11-26",
+    "officialWebsite": "https://www.powerfoundation.org.in/assets/careers/et-advertisment.pdf",
+    "notificationLink": "https://www.powerfoundation.org.in/assets/careers/et-advertisment.pdf",
+    "applyOnlineLink": "https://www.powerfoundation.org.in/assets/careers/et-advertisment.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-10-16"
+  },
+  {
+    "id": "delhi-gipmer-senior-resident",
+    "title": "GIPMER Recruitment 2026 – Senior Resident Posts",
+    "shortInfo": "GIPMER has announced notification for Senior Resident posts. Required qualification: Diploma, Any Post Graduate, MBBS. Last date to apply: 19-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "3",
+    "lastDate": "19-10-26",
+    "officialWebsite": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wgpimr_5.pdf",
+    "notificationLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wgpimr_5.pdf",
+    "applyOnlineLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wgpimr_5.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-10-16"
+  },
+  {
+    "id": "delhi-aiesl-regional-security-officer-assistant-supervisor",
+    "title": "AIESL Recruitment 2026 – Regional Security Officer, Assistant Supervisor Posts",
+    "shortInfo": "AIESL has announced notification for Regional Security Officer, Assistant Supervisor posts. Required qualification: Any Graduate. Last date to apply: 03-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "11",
+    "lastDate": "03-11-26",
+    "officialWebsite": "https://aiahl.in/public/uploads/recruitments/ADVERTISEMENT%20RSO%20and%20Assistant%20Supervisor%20Security%20October%202026.pdf",
+    "notificationLink": "https://aiahl.in/public/uploads/recruitments/ADVERTISEMENT%20RSO%20and%20Assistant%20Supervisor%20Security%20October%202026.pdf",
+    "applyOnlineLink": "https://aiahl.in/public/uploads/recruitments/ADVERTISEMENT%20RSO%20and%20Assistant%20Supervisor%20Security%20October%202026.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-10-16"
+  },
+  {
+    "id": "delhi-svbph delhi-junior-resident",
+    "title": "SVBPH Delhi Recruitment 2026 – Junior Resident Posts",
+    "shortInfo": "SVBPH Delhi has announced notification for Junior Resident posts. Required qualification: MBBS. Last date to apply: 16-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "16-10-26",
+    "officialWebsite": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wsvbp_55.pdf",
+    "notificationLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wsvbp_55.pdf",
+    "applyOnlineLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wsvbp_55.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-10-16"
+  },
+  {
+    "id": "delhi-smfcl-head-of-internal-audit",
+    "title": "SMFCL Recruitment 2026 – Head of Internal Audit Posts",
+    "shortInfo": "SMFCL has announced notification for Head of Internal Audit posts. Required qualification: CA. Last date to apply: 20-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "20-10-26",
+    "officialWebsite": "https://sdclindia.com/admin/images/documents/vancancydocument-HIA%20-%20dt.%2013.10.2026.pdf",
+    "notificationLink": "https://sdclindia.com/admin/images/documents/vancancydocument-HIA%20-%20dt.%2013.10.2026.pdf",
+    "applyOnlineLink": "https://sdclindia.com/admin/images/documents/vancancydocument-HIA%20-%20dt.%2013.10.2026.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-10-16"
+  },
+  {
+    "id": "delhi-delhi university-junior-research-fellow",
+    "title": "Delhi University Recruitment 2026 – Junior Research Fellow Posts",
+    "shortInfo": "Delhi University has announced notification for Junior Research Fellow posts. Required qualification: B.Sc, MBBS, B.Pharma, B.Tech/B.E, M.Sc. Last date to apply: 04-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "04-11-26",
+    "officialWebsite": "https://www.du.ac.in/uploads/new-web/14102026-microbiology-genetics.pdf",
+    "notificationLink": "https://www.du.ac.in/uploads/new-web/14102026-microbiology-genetics.pdf",
+    "applyOnlineLink": "https://www.du.ac.in/uploads/new-web/14102026-microbiology-genetics.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-10-16"
+  },
+  {
+    "id": "delhi-income tax delhi-mts-stenographer",
+    "title": "Income Tax Delhi Recruitment 2026 – MTS, Stenographer Posts",
+    "shortInfo": "Income Tax Delhi has announced notification for MTS, Stenographer posts. Required qualification: Any Graduate, 10th, 12th. Last date to apply: 10-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "119",
+    "lastDate": "10-11-26",
+    "officialWebsite": "https://incometaxdelhi.gov.in/",
+    "notificationLink": "https://incometaxdelhi.gov.in/",
+    "applyOnlineLink": "https://incometaxdelhi.gov.in/",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-10-16"
+  },
+  {
     "id": "delhi-uco bank-apprentice",
     "title": "UCO Bank Recruitment 2026 – Apprentice Posts",
     "shortInfo": "UCO Bank has announced notification for Apprentice posts. Required qualification: Graduate degree from recognized University. Last date to apply: 29-10-26.",
@@ -14,7 +476,7 @@
     "applyOnlineLink": "https://beep.bfsissc.com/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15",
+    "scrapedAt": "2026-10-16",
     "fees": [
       {
         "category": "SC/ST candidates",
@@ -86,7 +548,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/supreme-court-spa-recruitment-2026/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15",
+    "scrapedAt": "2026-10-16",
     "fees": [
       {
         "category": "General/Unreserved",
@@ -162,7 +624,7 @@
     "applyOnlineLink": "https://ncert.nic.in/pdf/announcement/vacancies/projectstaffvacancy/Advertisement_jpf_desm.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-negd-full-stack-developer-ai-ml-engineer-data-scientist",
@@ -179,7 +641,7 @@
     "applyOnlineLink": "https://diccdnmedia.digitalindiacorporation.in/wp-content/uploads/2026/10/Myscheme-Advertisement-13.10.26.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-indian bureau of mines-assistant-controller-of-mines-regional-controller-",
@@ -196,7 +658,7 @@
     "applyOnlineLink": "https://ibm.gov.in/writereaddata/files/17912845316ac4d533d25a3Draft_RR_RCOM_SRACOM_ACOM_.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-smfcl-chief-information-security-officer",
@@ -213,7 +675,7 @@
     "applyOnlineLink": "https://sdclindia.com/admin/images/documents/vancancydocument-CISO%20dt.%2013.10.2026.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-sfac-assistant-manager",
@@ -230,7 +692,7 @@
     "applyOnlineLink": "https://sfacindia.com/PDFs/Tenders/Vacancy%20Notice%20for%20the%20posts%20of%20Manager%20(Finance)%20and%20Accounts%20Officer%20in%20SFAC.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-digital india corporation-database-administrator-head",
@@ -247,7 +709,7 @@
     "applyOnlineLink": "https://diccdnmedia.digitalindiacorporation.in/wp-content/uploads/2026/10/Advt-MY-Bharat.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-jnu-guest-faculty",
@@ -264,7 +726,7 @@
     "applyOnlineLink": "https://jnu.ac.in/sites/default/files/career/Advt_of_Guest_Faculty_RC_GF_2026_03_SSIS.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-iit delhi-consultant",
@@ -281,7 +743,7 @@
     "applyOnlineLink": "https://home.iitd.ac.in/jobs-iitd/uploads/Advt.%20No.%20E-II.33.2026(W)%20Dated%2013.10.2026.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-mamc-senior-resident",
@@ -298,7 +760,7 @@
     "applyOnlineLink": "https://lnjp.delhi.gov.in/sites/default/files/lnjp/universal/17881.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-niti aayog-library-and-information-officer",
@@ -315,7 +777,7 @@
     "applyOnlineLink": "https://www.niti.gov.in/sites/default/files/2026-10/NITI-Aayog-circular-dated-09-10-2026-LIO.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-wdra-deputy-director-hr-",
@@ -332,7 +794,7 @@
     "applyOnlineLink": "https://wdra.gov.in/documents/d/wdra/ddhr-advt-oct-2026",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-icsil-consultant-hindi-consultant-senior-consultant",
@@ -349,7 +811,7 @@
     "applyOnlineLink": "https://icsil.in/sites/default/files/2026-10/NDC%20(Consultants-Walk-In).pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-ncert-junior-project-fellow",
@@ -366,7 +828,7 @@
     "applyOnlineLink": "https://ncert.nic.in/pdf/announcement/vacancies/projectstaffvacancy/Advertisement_jpf_desm.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-iift-legal-officer",
@@ -383,7 +845,7 @@
     "applyOnlineLink": "https://www.iift.ac.in/uploads/manage-files/2026/10/ad-for-legal-officer.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-wdra-assistant",
@@ -400,7 +862,7 @@
     "applyOnlineLink": "https://wdra.gov.in/documents/d/wdra/Assistant_EL_corrigendum",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-icsil-data-entry-operator",
@@ -417,7 +879,7 @@
     "applyOnlineLink": "https://icsil.in/app/uploads/advertisement/DCCWS_DEO_October_12_2026_ONLINE_ADVT.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-nlud-professor-of-practice",
@@ -434,7 +896,7 @@
     "applyOnlineLink": "https://nludelhi.ac.in/wp-content/uploads/2026/10/Professor-of-Practice-Call-for-Applications.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-supreme court of india-court-master-shorthand-",
@@ -451,7 +913,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/supreme-court-of-india-court-master-recruitment-2026/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15",
+    "scrapedAt": "2026-10-16",
     "fees": [
       {
         "category": "Fee",
@@ -505,7 +967,7 @@
     "applyOnlineLink": "https://cms.pfcindia.co.in/media/documents/PFC-CMD-ADVT-JD.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-lok nayak hospital-senior-resident-walk-in-",
@@ -522,7 +984,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/lnh-senior-resident-recruitment-2026/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15",
+    "scrapedAt": "2026-10-16",
     "fees": [
       {
         "category": "Fee",
@@ -641,7 +1103,7 @@
     "applyOnlineLink": "https://iiitd.ac.in/sites/default/files/docs/positions/2026/Advertisement%20Chief%20Medical%20Officer121026.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-dsci-senior-resident",
@@ -658,7 +1120,7 @@
     "applyOnlineLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wdsci_30.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-rgssh-assistant-nursing-superintendent",
@@ -675,7 +1137,7 @@
     "applyOnlineLink": "https://rgssh.delhi.gov.in/sites/default/files/rgssh/universal/rect_notice_12-2026_for_post_of_ans.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-srhch-senior-resident",
@@ -692,7 +1154,7 @@
     "applyOnlineLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wsrhc_32.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-iiit-delhi-project-research-scientist-ndash-iii",
@@ -709,7 +1171,7 @@
     "applyOnlineLink": "https://iiitd.ac.in/sites/default/files/docs/positions/2026/Project-research-scientist-III.docx.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-fsl delhi-intern",
@@ -726,7 +1188,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/fsl-delhi-intern-recruitment-2026/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15",
+    "scrapedAt": "2026-10-16",
     "fees": [
       {
         "category": "Fee",
@@ -818,7 +1280,7 @@
     "applyOnlineLink": "https://ncert.nic.in/pdf/announcement/vacancies/projectstaffvacancy/revised_mpd0110.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-ndtl-research-associate-i",
@@ -835,7 +1297,7 @@
     "applyOnlineLink": "https://ndtlindia.com/wp-content/uploads/2026/10/Advertisement-for-Research-Associate-I.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-ncdc-financial-advisor",
@@ -852,7 +1314,7 @@
     "applyOnlineLink": "https://www.ncdc.in/documents/career/4017091026Website_Notification_Hindi.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-ggsgh-senior-resident-wlak-in-",
@@ -869,7 +1331,7 @@
     "applyOnlineLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wggsgs_4.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-nia-inspector-sub-inspector",
@@ -886,7 +1348,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/nia-si-asi-recruitment-2026/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15",
+    "scrapedAt": "2026-10-16",
     "fees": [
       {
         "category": "Fee",
@@ -945,7 +1407,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/ircon-rail-welding-technician-recruitment-2026/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15",
+    "scrapedAt": "2026-10-16",
     "fees": [
       {
         "category": "Fee",
@@ -996,7 +1458,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/bee-recruitment-2026/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15",
+    "scrapedAt": "2026-10-16",
     "fees": [
       {
         "category": "Fee",
@@ -1076,7 +1538,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/nia-ministerial-staff-recruitment-2026/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15",
+    "scrapedAt": "2026-10-16",
     "fees": [
       {
         "category": "Fee",
@@ -1177,7 +1639,7 @@
     "applyOnlineLink": "https://nia.gov.in/secure-pdf/view/3af485dd49666242e33a79ba2f87b258",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-nsc delhi-trainee-craft",
@@ -1194,7 +1656,7 @@
     "applyOnlineLink": "https://nscd.gov.in/wp-content/uploads/2026/10/Details-of-Advertisement-No.-13-2026.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-cwc-consultant",
@@ -1211,7 +1673,7 @@
     "applyOnlineLink": "https://www.cwceportal.com/Careers/Guidelines/44/44_Notice%20for%20Engagement%20of%20Consultant_482c03e5-ba5f-47ba-8a35-d40667a0c446.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-aiims delhi-staff-nurse",
@@ -1228,7 +1690,7 @@
     "applyOnlineLink": "https://www.aiims.edu/images/pdf/recruitment/advertisement/jpnatc-10-10-26.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-nlud-associate-coordination-",
@@ -1245,7 +1707,7 @@
     "applyOnlineLink": "https://nludelhi.ac.in/wp-content/uploads/2026/10/Admin-Post-AssociateCoordination.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-nlud-associate-administration-",
@@ -1262,7 +1724,7 @@
     "applyOnlineLink": "https://nludelhi.ac.in/wp-content/uploads/2026/10/Admin-Post-AssociateAdministration.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-ggsipu-assistant-section-officer-veterinary-officer-more",
@@ -1279,7 +1741,7 @@
     "applyOnlineLink": "https://www.ipu.ac.in/Pubinfo2026/nt091026300%20(2).pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-derc-ldc-clerk-cum-computer-operator-and-more",
@@ -1296,7 +1758,7 @@
     "applyOnlineLink": "https://www.derc.gov.in/app/uploads/pdf/1/general_instructions/DERC_Advertisement1.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-dpcc-scientific-assistant-and-more-legal-assistant",
@@ -1313,7 +1775,7 @@
     "applyOnlineLink": "https://dpcc.delhi.gov.in/sites/default/files/DPCC/important-news/scan_0028_2).pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-abgh delhi-senior-resident-walk-in-",
@@ -1330,7 +1792,7 @@
     "applyOnlineLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wabh_25.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-gnec-senior-resident-ophthalmology-walk-in-",
@@ -1347,7 +1809,7 @@
     "applyOnlineLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wgnec_4.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-dic-assistant-manager",
@@ -1364,7 +1826,7 @@
     "applyOnlineLink": "https://diccdnmedia.digitalindiacorporation.in/wp-content/uploads/2026/10/Assistant-Manager-Admin.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-lok nayak hospital-junior-resident-walk-in-",
@@ -1381,7 +1843,7 @@
     "applyOnlineLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wlnh_5.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-bhel-director",
@@ -1398,7 +1860,7 @@
     "applyOnlineLink": "https://heavyindustries.gov.in/sites/default/files/2026-10/jd-bhel_ord.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-negd-platform-engineering-head",
@@ -1415,7 +1877,7 @@
     "applyOnlineLink": "https://diccdnmedia.digitalindiacorporation.in/wp-content/uploads/2026/10/Vacancy-Advt.-Platform-Engineering-Head-_-Architect-8.10.26.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-dsssb-chowkidar-sweeper-safai-karamchari",
@@ -1432,7 +1894,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/dsssb-sweeper-chowkidar-recruitment-2026/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15",
+    "scrapedAt": "2026-10-16",
     "fees": [
       {
         "category": "General/EWS (Male)",
@@ -1494,7 +1956,7 @@
     "applyOnlineLink": "https://aiia.gov.in/viewpdf?docTypeId=1&#038;pdfName=1790769841617_Vacancy30092026173401.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-iiitd-assistant-administrative-officer",
@@ -1511,7 +1973,7 @@
     "applyOnlineLink": "https://iiitd.ac.in/sites/default/files/docs/positions/2026/34_2026_AAO%20(Placement)_L-6.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-rgssh-medical-officer-walk-in-",
@@ -1528,7 +1990,7 @@
     "applyOnlineLink": "https://rgssh.delhi.gov.in/sites/default/files/rgssh/universal/rect_notice_11-2026_for_medical_officer.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-rgssh-sub-fire-officer",
@@ -1545,7 +2007,7 @@
     "applyOnlineLink": "https://rgssh.delhi.gov.in/sites/default/files/rgssh/universal/rect_notice13-2026_for_sub_fire_officer.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-derc-secretary-more-executive-director",
@@ -1562,7 +2024,7 @@
     "applyOnlineLink": "https://ghconline.gov.in/Recruitment/Notification-08-10-2026.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-aiims new delhi-senior-research-fellow-deo",
@@ -1579,7 +2041,7 @@
     "applyOnlineLink": "https://www.aiims.edu/images/pdf/recruitment/advertisement/plasticsurg-9-10-26.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-nfdi-chief-executive-officer",
@@ -1596,7 +2058,7 @@
     "applyOnlineLink": "https://nift.ac.in/sites/default/files/2026-10/1791457260_ToR_CEO__NFDI%20(1).pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-delhi cantonment board-gastroenterologist",
@@ -1613,24 +2075,7 @@
     "applyOnlineLink": "https://delhi.cantt.gov.in/wp-content/uploads/sites/4/2026/10/CGH_Adv_Doctors_08_10_2026.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
-  },
-  {
-    "id": "delhi-bank of baroda-guest-player-cricket-",
-    "title": "Bank of Baroda Recruitment 2026 – Guest Player (Cricket) Posts",
-    "shortInfo": "Bank of Baroda has announced notification for Guest Player (Cricket) posts. Required qualification: 10TH. Last date to apply: 12-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "8",
-    "lastDate": "12-10-26",
-    "officialWebsite": "https://bankofbaroda.bank.in/-/media/Project/BOB/CountryWebsites/India/Career/2026/26-10/pdf-adv-07-25.pdf",
-    "notificationLink": "https://bankofbaroda.bank.in/-/media/Project/BOB/CountryWebsites/India/Career/2026/26-10/pdf-adv-07-25.pdf",
-    "applyOnlineLink": "https://bankofbaroda.bank.in/-/media/Project/BOB/CountryWebsites/India/Career/2026/26-10/pdf-adv-07-25.pdf",
-    "state": "Delhi",
-    "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-dic-state-coordinator",
@@ -1647,7 +2092,7 @@
     "applyOnlineLink": "https://diccdnmedia.digitalindiacorporation.in/wp-content/uploads/2026/10/Advertisement-Poshan-Tracker-State-Coordinator-Oct-2026.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-bmh delhi-senior-resident",
@@ -1664,7 +2109,7 @@
     "applyOnlineLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wbmh_33.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-dtu-laboratory-technician",
@@ -1681,7 +2126,7 @@
     "applyOnlineLink": "https://dtu.ac.in/Web/upload/jobs/2026/oct/file1004.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-dhas delhi-senior-resident",
@@ -1698,7 +2143,7 @@
     "applyOnlineLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/rdhas_35.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-derc-secretary-personnel-officer-more",
@@ -1715,7 +2160,7 @@
     "applyOnlineLink": "https://ghconline.gov.in/Recruitment/Notification-08-10-2026.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-mcd-senior-resident",
@@ -1732,7 +2177,7 @@
     "applyOnlineLink": "https://mcdonline.nic.in/portal/downloadFile/walk_in_interview_for_engagement_of_30_senior_residents_at_mata_gujri_hospital._2610080433441044.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-fssai-legal-consultant",
@@ -1749,7 +2194,7 @@
     "applyOnlineLink": "https://fssai.gov.in/docs/footer/jobs/Legal%20Consultant%20advertisement%202026.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-aiims new delhi-research-associate-i",
@@ -1766,7 +2211,7 @@
     "applyOnlineLink": "https://www.aiims.edu/images/pdf/recruitment/advertisement/cder1-7-10-26.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-hal-director-human-resources-",
@@ -1783,7 +2228,7 @@
     "applyOnlineLink": "https://hal-india.co.in/backend//wp-content/uploads/career/HAL%20D%20HR%20Notification_21-09-2026_1790082354.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-aiims delhi-project-research-scientist-i-project-technical-sup",
@@ -1800,7 +2245,7 @@
     "applyOnlineLink": "https://www.aiims.edu/images/pdf/recruitment/advertisement/nddtc-7-10-26.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-nhsrc-finance-controller",
@@ -1817,7 +2262,7 @@
     "applyOnlineLink": "https://mohfw-dohfw.gov.in/static/uploads/2026/10/44b6ebb1dc46173e1420e082ca8cc84e.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-dduh-junior-resident",
@@ -1834,7 +2279,7 @@
     "applyOnlineLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wddu_25.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-icsil-it-assistant",
@@ -1851,7 +2296,7 @@
     "applyOnlineLink": "https://icsil.in/sites/default/files/2026-10/DTTDC%20IT%20ASSISTANTS%20%20October%20%20%202026%20walk%20in%20advt.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-nhsrc-consultant",
@@ -1868,7 +2313,7 @@
     "applyOnlineLink": "https://recruitment.nhsrcindia.org/web/content/2920295?download=true",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-nhsrc-finance-controller-finance-data-analyst",
@@ -1885,7 +2330,7 @@
     "applyOnlineLink": "https://www.mohfw-dohfw.gov.in/static/uploads/2026/10/44b6ebb1dc46173e1420e082ca8cc84e.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-c-dot-young-professional",
@@ -1902,7 +2347,7 @@
     "applyOnlineLink": "https://cdot.in/cdotweb/assets/docs/curr_openings/adv/Notification_JD_YP.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-mohfw-consultant-clinical-establishments-",
@@ -1919,7 +2364,7 @@
     "applyOnlineLink": "https://www.mohfw-dohfw.gov.in/static/uploads/2026/10/f68514b62a5d3190e7e68368a24ed2d0.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-pt mmmh-senior-resident",
@@ -1936,7 +2381,7 @@
     "applyOnlineLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wptmh_22.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-icar iari-senior-research-fellow-young-professional-i",
@@ -1953,7 +2398,7 @@
     "applyOnlineLink": "https://iari.res.in/files/jobs/PPVFRA_Advt_07102026.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-nlud-field-researchers-research-associate",
@@ -1970,7 +2415,7 @@
     "applyOnlineLink": "https://nludelhi.ac.in/wp-content/uploads/2026/10/Call-for-Applications-UPR-2027-Project.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-maids-project-research-scientist-iii-young-professional-",
@@ -1987,7 +2432,7 @@
     "applyOnlineLink": "https://maids.delhi.gov.in/sites/default/files/maids/circulars-orders/notice_and_application_form_for_the_post_of_project_research_scientist-iii_medical)_and_young_professional-ii_it).pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-mopsw-deputy-director",
@@ -2004,7 +2449,7 @@
     "applyOnlineLink": "https://shipmin.gov.in/sites/default/files/Vacancy%20circular%20dated%2024.09.2026.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-lady shri ram college for women delhi-assistant-professor",
@@ -2021,7 +2466,7 @@
     "applyOnlineLink": "https://www.du.ac.in/uploads/new-web/07102026-lsr-Advt-Guest%20-History%20Department.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-iiitd-chief-security-officer",
@@ -2038,7 +2483,7 @@
     "applyOnlineLink": "https://iiitd.ac.in/sites/default/files/docs/positions/2026/Advertisement%20no%2031_2026%20dated%207-10-2026.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-ramjas college delhi university-guest-faculty",
@@ -2055,7 +2500,7 @@
     "applyOnlineLink": "https://www.du.ac.in/uploads/new-web/07102026-ramjas-guest-philosophy.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-ihe-section-officer",
@@ -2072,7 +2517,7 @@
     "applyOnlineLink": "https://www.du.ac.in/uploads/new-web/07102026-ihe-SO_Deputation.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-maharishi valmiki hospital-senior-resident-walk-in-",
@@ -2089,7 +2534,7 @@
     "applyOnlineLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wmvh_28.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-shivaji college-project-research-scientist-i",
@@ -2106,7 +2551,7 @@
     "applyOnlineLink": "https://shivaji.du.ac.in/sPanel/uploads/opportunity/7bad15c8320633386eb9e7d667c8eed9.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-akashvani delhi-casual-news-editor-casual-news-reader-cum-translat",
@@ -2123,7 +2568,7 @@
     "applyOnlineLink": "https://newsonair.gov.in/wp-content/uploads/2026/10/Casual-News-Editor.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-nii-research-associate-ii",
@@ -2140,7 +2585,7 @@
     "applyOnlineLink": "https://www.nii.res.in/sites/default/files/announcement/events/RA_II_WIN_DBT_%20October%2026.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-tci foundation-senior-accountant",
@@ -2157,7 +2602,7 @@
     "applyOnlineLink": "https://ncdc.mohfw.gov.in/uploads/vacancies/1791346610_Sr.%20Accountant.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-jamia hamdard-technical-assistant",
@@ -2174,7 +2619,7 @@
     "applyOnlineLink": "https://www.jamiahamdard.ac.in/uploads/Walk_In_Interview-(Tech__Asst_)_.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-icmr-scientist-d",
@@ -2191,7 +2636,7 @@
     "applyOnlineLink": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791345589_icmr-nineadvertisementscientist-d.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-iit delhi-project-scientist",
@@ -2208,7 +2653,7 @@
     "applyOnlineLink": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1791268155540_1sbp95q.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-nfdc-senior-executive",
@@ -2225,7 +2670,7 @@
     "applyOnlineLink": "https://nfdcindia.com/nfdcapi/apifile/1791289015599_4948559.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-mea-consultant-legal-",
@@ -2242,7 +2687,7 @@
     "applyOnlineLink": "https://www.mea.gov.in/Portal/Vacancy/136_1_Eurasia_Legal__Consultant_.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-jnu-junior-research-fellow",
@@ -2259,7 +2704,7 @@
     "applyOnlineLink": "https://jnu.ac.in/sites/default/files/career/SPS_OPMeena_JRF_ApplicationForm.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-iit delhi-research-assistant",
@@ -2276,7 +2721,7 @@
     "applyOnlineLink": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1791198455590_njooy6j.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-nbt india-media-coordinator",
@@ -2293,7 +2738,7 @@
     "applyOnlineLink": "https://www.nbtindia.gov.in/writereaddata/jobattachment/tuesday-october-6-202610-56-49-amvacancy-notice-for-the-post-of-media-coordinator-on-contractual-basis-.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-ndtl-deputy-director-admin-",
@@ -2310,7 +2755,7 @@
     "applyOnlineLink": "https://ndtlindia.com/wp-content/uploads/2026/10/Advertisement-for-Deputy-Director-Admin.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-sports authority of india-director",
@@ -2327,7 +2772,7 @@
     "applyOnlineLink": "https://sportsauthorityofindia.nic.in/sai_new/public/assets/uploads/jobs/86e9f769-3851-4a57-a156-19a87ffb3848.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-iit delhi-project-scientist-jr-project-assistant",
@@ -2344,7 +2789,7 @@
     "applyOnlineLink": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1791268443903_jgsdvcs.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-negd-senior-data-scientist-ai-engineer",
@@ -2361,7 +2806,7 @@
     "applyOnlineLink": "https://diccdnmedia.digitalindiacorporation.in/wp-content/uploads/2026/10/AI-Engineer-Senior-Data-Scientist-JD-MNRE.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-iit delhi-project-associate-ii-senior-project-associate",
@@ -2378,7 +2823,7 @@
     "applyOnlineLink": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1791200468994_l9j9f81.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-icgeb-research-associate",
@@ -2395,7 +2840,7 @@
     "applyOnlineLink": "https://www.icgeb.org/wp-content/uploads/2026/10/Vacancy-Notice-for-YSB-Group2.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-iiit delhi-junior-administrative-officer",
@@ -2412,7 +2857,7 @@
     "applyOnlineLink": "https://iiitd.ac.in/sites/default/files/docs/positions/2026/32_2026_JAO(Academic).pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-mvh-junior-resident-mbbs-",
@@ -2429,7 +2874,7 @@
     "applyOnlineLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wmvh_27.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-cdac-project-associate-project-engineer-senior-project-",
@@ -2446,7 +2891,7 @@
     "applyOnlineLink": "https://careers.cdac.in/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15",
+    "scrapedAt": "2026-10-16",
     "fees": [
       {
         "category": "All Categories",
@@ -2573,7 +3018,7 @@
     "applyOnlineLink": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1791198455590_njooy6j.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-bee-sector-expert-project-engineer",
@@ -2590,7 +3035,7 @@
     "applyOnlineLink": "https://beeindia.gov.in/WriteReadData/RTF1984/RTF-PDF-0366d8e62c21e4da_1791196110.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-jamia hamdard-guest-visiting-faculty",
@@ -2607,7 +3052,7 @@
     "applyOnlineLink": "https://www.jamiahamdard.ac.in/uploads/Walk-in-Interview-Guest_Faculty_in_SPER.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-thsti-project-technician-and-more-project-research-scien",
@@ -2624,7 +3069,7 @@
     "applyOnlineLink": "https://recruitment.thsti.in/public/upload/job_pdf/179117578147web-advt-RN-20.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-ndtl-scientist-e",
@@ -2641,7 +3086,7 @@
     "applyOnlineLink": "https://ndtlindia.com/wp-content/uploads/2026/10/Advertisement-for-Scientist-E.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-ignou-assistant-director-technical-manager-technical-ass",
@@ -2658,7 +3103,7 @@
     "applyOnlineLink": "https://ignount.samarth.edu.in/index.php/site/login",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15",
+    "scrapedAt": "2026-10-16",
     "fees": [
       {
         "category": "Unreserved/OBC(NCL)/EWS",
@@ -2795,7 +3240,7 @@
     "applyOnlineLink": "https://rgssh.delhi.gov.in/sites/default/files/rgssh/universal/rect_notice_10_2026_for_faculty_and_dms.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-ggsipu-post-doctoral-fellowship",
@@ -2812,7 +3257,7 @@
     "applyOnlineLink": "https://www.ipu.ac.in/Pubinfo2026/nt011020260430.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-csir tkdl-senior-project-associate-project-associate",
@@ -2829,7 +3274,7 @@
     "applyOnlineLink": "http://14.139.49.55:8005/tkdlrecruitment/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15",
+    "scrapedAt": "2026-10-16",
     "fees": [
       {
         "category": "Fee",
@@ -3098,7 +3543,7 @@
     "applyOnlineLink": "https://ccras.nic.in/wp-content/uploads/2026/09/30",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-icar iari-young-professional-project-assistant",
@@ -3115,7 +3560,7 @@
     "applyOnlineLink": "https://iari.res.in/files/jobs/Advertisement_yp_30092026.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-dsssb-senior-personal-assistant-personal-assistant-junio",
@@ -3132,7 +3577,7 @@
     "applyOnlineLink": "https://dsssbonline.nic.in/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15",
+    "scrapedAt": "2026-10-16",
     "fees": [
       {
         "category": "General/EWS (Male)",
@@ -3244,7 +3689,7 @@
     "applyOnlineLink": "https://cdn3.digialm.com//EForms/configuredHtml/32912/100521/Index.html",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15",
+    "scrapedAt": "2026-10-16",
     "fees": [
       {
         "category": "General/Unreserved",
@@ -3320,7 +3765,7 @@
     "applyOnlineLink": "https://wdra.gov.in/documents/d/wdra/us-tech-vacancy-1",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-aiims delhi-senior-research-fellow-data-entry-operator",
@@ -3337,7 +3782,7 @@
     "applyOnlineLink": "https://www.aiims.edu/images/pdf/recruitment/advertisement/Burns-30-9-26.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-icar iari-project-associate-i-field-worker",
@@ -3354,7 +3799,7 @@
     "applyOnlineLink": "https://iari.res.in/files/jobs/Advertisement_30092026.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-nbpgr-young-professional-project-associate-and-more",
@@ -3371,7 +3816,7 @@
     "applyOnlineLink": "https://nbpgr.org.in/nbpgr2023/walk-in-interview-for-project-positions-under-the-project-enhancing-climate-resilience-and-ensuring-food-security-with-genome-editing-tools-under-the-scheme-crop-science-for-food-and-nutritional/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-nbpgr-senior-research-fellow-laboratory-assistant",
@@ -3388,7 +3833,7 @@
     "applyOnlineLink": "https://nbpgr.org.in/nbpgr2023/walk-in-interview-for-the-temporary-post-of-senior-research-fellow-one-post-and-laboratory-assistant-two-posts-nmhys-plant-quarantine-field-facility-lead-centre-component/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-nbpgr-young-professional-i",
@@ -3405,7 +3850,7 @@
     "applyOnlineLink": "https://nbpgr.org.in/nbpgr2023/applications-are-invited-for-the-selection-of-young-professional-i-vacancy-1-in-contract-researchproject-on-study-on-the-effect-of-ecomax-vam-on-soil-organic-carbon-in-rice-whea/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-iit delhi-junior-project-assistant-research-associate",
@@ -3422,7 +3867,7 @@
     "applyOnlineLink": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1790593729230_4gqj1gb.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-burari hospital-senior-residents",
@@ -3439,7 +3884,7 @@
     "applyOnlineLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wbur_28.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-ignca-consultant-senior-engineer-",
@@ -3456,7 +3901,7 @@
     "applyOnlineLink": "https://ignca.gov.in/vaccancy/29092026-Adv-Consultant(Sr.Engineer).pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-wdra-consultant",
@@ -3473,7 +3918,7 @@
     "applyOnlineLink": "https://wdra.gov.in/documents/d/wdra/consl_legal_advertisement_28_sep_2026",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-aiims delhi-project-research-scientist-iii-medical-",
@@ -3490,7 +3935,7 @@
     "applyOnlineLink": "https://www.aiims.edu/images/pdf/recruitment/advertisement/NCI%20jhajjar-29-9-26.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-ministry of culture-intern",
@@ -3507,7 +3952,7 @@
     "applyOnlineLink": "https://culture.gov.in/files/vacancies_documents/TIB_Inters_advert.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-icmr-young-professional",
@@ -3524,7 +3969,7 @@
     "applyOnlineLink": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1790577324_icmr-yp-2.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-aai-co-pilot",
@@ -3541,7 +3986,7 @@
     "applyOnlineLink": "https://www.aai.aero/sites/default/files/examdashboard_advertisement/advertisement%20AAI%20website%20CO_PILOT%2029-09-2026.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-icmr-consultant",
@@ -3558,7 +4003,7 @@
     "applyOnlineLink": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1790589975_advertisementfinal.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-lok nayak hospital-senior-resident",
@@ -3575,7 +4020,7 @@
     "applyOnlineLink": "https://lnjp.delhi.gov.in/sites/default/files/lnjp/universal/adobe_scan_28_sept_2026_2.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-csir niscpr-consultant",
@@ -3592,7 +4037,7 @@
     "applyOnlineLink": "https://niscpr.res.in/includes/images/jobs/Advertisement-2025-2026-2026-09-28-02-41-42pm.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-aai-quality-manager-compliance-monitoring-manager",
@@ -3609,7 +4054,7 @@
     "applyOnlineLink": "https://www.aai.aero/sites/default/files/examdashboard_advertisement/Advertisement%20NSOP%20FIU%20AAI%202026-QM%28CMM%29.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-ncct-accounts-officer-assistant-registrar",
@@ -3626,7 +4071,7 @@
     "applyOnlineLink": "https://www.ncct.ac.in/images/uploads/Advertisement%20for%20Recruitment%20to%20Posts%20on%20Deputation%20Basis.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-dtu-research-intern",
@@ -3643,7 +4088,7 @@
     "applyOnlineLink": "https://dtu.ac.in/Web/upload/jobs/2026/sep/file0908.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-ncdc-system-admin-amp-graphic-designer",
@@ -3660,7 +4105,7 @@
     "applyOnlineLink": "https://ncdc.mohfw.gov.in/uploads/vacancies/1790576351_Recuritment-IT-unit-NCDC.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-icmr-young-professional",
@@ -3677,7 +4122,7 @@
     "applyOnlineLink": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1790577324_icmr-yp-2.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-national book trust india-editorial-assistant",
@@ -3694,7 +4139,7 @@
     "applyOnlineLink": "https://www.nbtindia.gov.in/writereaddata/jobattachment/monday-september-28-202611-52-50-amvacancy-notice-for-the-post-of-editorial-assistant-hindi-on-contract-basis.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-nbt-young-professional",
@@ -3711,7 +4156,7 @@
     "applyOnlineLink": "https://www.nbtindia.gov.in/writereaddata/attachmentNews/monday-september-28-202611-54-48-amvacancy-notice-for-the-post-of-young-professional-public-relation-on-a-contractual-basis-.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-becil-more-driver-residential-supervisor",
@@ -3728,7 +4173,7 @@
     "applyOnlineLink": "https://www.becil.com/uploads/topics/17905745249582.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-hindustan prefab-consultant",
@@ -3745,7 +4190,7 @@
     "applyOnlineLink": "https://www.hindprefab.in/career/Notice%20-%20Engagement%20of%20Consultants%2028.09.2026.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-derc-assistant-director-and-more-executive-director",
@@ -3762,7 +4207,7 @@
     "applyOnlineLink": "https://www.derc.gov.in/app/uploads/pdf/1/general_instructions/Final_ADV_Techno-Comml_-_Dep2.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-press council of india-assistant-section-officer-aso",
@@ -3779,7 +4224,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/press-council-of-india-aso-recruitment-2026/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15",
+    "scrapedAt": "2026-10-16",
     "fees": [
       {
         "category": "General/OBC/EWS",
@@ -3831,7 +4276,7 @@
     "applyOnlineLink": "https://www.ncrtc.co.in/hr-module/HR/uploads/2026_09_24_02_09_45362026AMOperationsDirect.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-iit delhi-project-manager",
@@ -3848,7 +4293,7 @@
     "applyOnlineLink": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1790334176062_90k6im3.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-mcd-labour-welfare-superintendent",
@@ -3865,7 +4310,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/mcd-labour-welfare-superintendent-recruitment-2026/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15",
+    "scrapedAt": "2026-10-16",
     "fees": [],
     "dates": [
       {
@@ -3929,7 +4374,7 @@
     "applyOnlineLink": "https://www.derc.gov.in/app/uploads/pdf/1/general_instructions/Final_ADV_Secy_others7.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-icar nbpgr-research-associate-iii-young-professional-ii",
@@ -3946,7 +4391,7 @@
     "applyOnlineLink": "https://nbpgr.org.in/nbpgr2023/walk-in-interview-for-the-temporary-positions-of-research-associate-iii-one-position-and-youngprofessional-ii-one-position/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-nlu delhi-consultant",
@@ -3963,7 +4408,7 @@
     "applyOnlineLink": "https://nludelhi.ac.in/wp-content/uploads/2026/09/Call-for-Application-Consultant-Placement.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-derc-joint-director-and-more-executive-director",
@@ -3980,7 +4425,7 @@
     "applyOnlineLink": "https://www.derc.gov.in/app/uploads/pdf/1/general_instructions/Final_AD_Law_-_Dep2.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-icsil-more-junior-engineer-supervisor",
@@ -3997,7 +4442,7 @@
     "applyOnlineLink": "https://icsil.in/app/uploads/advertisement/Advertisement_-_Deputation_Posts25_9_2026.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-becil-legal-consultant-architect-consultant-and-more",
@@ -4014,7 +4459,7 @@
     "applyOnlineLink": "https://www.becil.com/uploads/topics/17903366883226.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-iari-research-assistant",
@@ -4031,7 +4476,7 @@
     "applyOnlineLink": "https://iari.res.in/files/jobs/website_advt_widushi_25092026.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-ignou-technical-manager-technical-assistant",
@@ -4048,7 +4493,7 @@
     "applyOnlineLink": "https://www.ignou.ac.in/viewFile/ad/notification/Detailed_Advertisement.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-eil-associate-engineer-gr-i-inspection-mechanical-meta",
@@ -4065,7 +4510,7 @@
     "applyOnlineLink": "https://recruitment.eil.co.in/applicnExpRecruitment/Default.aspx?adv=HRD%2fRECTT.%2fADVT.%2f2026-27%2f10&pcode=Z12&dcode=B&mexp=2+&testOpt=",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15",
+    "scrapedAt": "2026-10-16",
     "fees": [],
     "dates": [
       {
@@ -4119,7 +4564,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/dipr-delhi-apprentice-recruitment-2026/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15",
+    "scrapedAt": "2026-10-16",
     "fees": [
       {
         "category": "Fee",
@@ -4206,7 +4651,7 @@
     "applyOnlineLink": "https://www.aiasl.in/resources/Advertisement%20%20Application%20Format%20for%20the%20post%20of%20CEO-AIESL.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-mohfw nhsrc-finance-analyst-finance-data-analyst",
@@ -4223,7 +4668,7 @@
     "applyOnlineLink": "https://recruitment.nhsrcindia.org/web/content/2894527?download=true",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-delhi jal board-law-officer",
@@ -4240,7 +4685,7 @@
     "applyOnlineLink": "https://delhijalboard.delhi.gov.in/sites/default/files/Jalboard/circulars-orders/law_office_2.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-ignou-professor-associate-professor-assistant-professor",
@@ -4257,7 +4702,7 @@
     "applyOnlineLink": "https://cuignourec.samarth.edu.in/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15",
+    "scrapedAt": "2026-10-16",
     "fees": [
       {
         "category": "UR/OBC/EWS category",
@@ -4614,24 +5059,7 @@
     "applyOnlineLink": "https://www.ncdc.in/documents/career/1914210926Dy-ManagerAssistant-Manager-(Operation).pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
-  },
-  {
-    "id": "delhi-dmrc-head-operations",
-    "title": "DMRC Recruitment 2026 – Head Operations Posts",
-    "shortInfo": "DMRC has announced notification for Head Operations posts. Required qualification: B.Tech/B.E. Last date to apply: 11-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "11-10-26",
-    "officialWebsite": "https://backend.delhimetrorail.com/documents/11747/Advt-234-Head-Operations.pdf",
-    "notificationLink": "https://backend.delhimetrorail.com/documents/11747/Advt-234-Head-Operations.pdf",
-    "applyOnlineLink": "https://backend.delhimetrorail.com/documents/11747/Advt-234-Head-Operations.pdf",
-    "state": "Delhi",
-    "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-ircon-manager",
@@ -4648,7 +5076,7 @@
     "applyOnlineLink": "https://www.ircon.org/sites/default/files/2026-09/Advt%20No_10_2026.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-icar iari-senior-research-fellow-research-associate",
@@ -4665,7 +5093,7 @@
     "applyOnlineLink": "https://iari.res.in/files/jobs/Website_matter_21092026.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-ignou-deputy-registrar-assistant-registrar",
@@ -4682,7 +5110,7 @@
     "applyOnlineLink": "https://ignount.samarth.edu.in/index.php/site/login",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15",
+    "scrapedAt": "2026-10-16",
     "fees": [
       {
         "category": "All Categories",
@@ -4751,7 +5179,7 @@
     "applyOnlineLink": "https://rlda.indianrailways.gov.in/uploads/VNN_22_2026.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-grid-executive-trainee-electrical-executive-trainee-com",
@@ -4768,7 +5196,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/grid-india-executive-trainee-recruitment-2026/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15",
+    "scrapedAt": "2026-10-16",
     "fees": [
       {
         "category": "General/OBC-NCL/EWS",
@@ -4828,7 +5256,7 @@
     "applyOnlineLink": "https://nhai.gov.in/nhai/sites/default/files/vacancy_files/detailed-advertisement.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-exim bank-business-development-officer",
@@ -4845,7 +5273,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/exim-bank-business-development-officer-recruitment-2026/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15",
+    "scrapedAt": "2026-10-16",
     "fees": [
       {
         "category": "Fee",
@@ -4891,7 +5319,7 @@
     "applyOnlineLink": "https://career.neeri.res.in/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15",
+    "scrapedAt": "2026-10-16",
     "fees": [
       {
         "category": "General/OBC/EWS (Male)",
@@ -5005,7 +5433,7 @@
     "applyOnlineLink": "https://www.nationalbalbhavan.nic.in/Files/notice-2026/Recruitment%20to%20various%20posts%20in%20the%20National%20Bal%20Bhavan%20on%20a%20Direct%20Recruitment.jpeg",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-cerc-senior-account-officer-and-more-assistant",
@@ -5022,7 +5450,7 @@
     "applyOnlineLink": "https://www.cercind.gov.in/2026/vacancy/VacancyNotice-030926.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-sahitya akademi-deputy-secretary-mts-clerk-van-driver-stenographer",
@@ -5039,7 +5467,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/sahitya-akademi-recruitment-2026/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15",
+    "scrapedAt": "2026-10-16",
     "fees": [
       {
         "category": "Level-10/11 (UR/OBC)",
@@ -5196,7 +5624,7 @@
     "applyOnlineLink": "https://ibtexamination.com/App2o26_DUAC/notification/Advertisement%20-%20LDC.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-dghs-professor-cum-vice-principal-professor-cum-princip",
@@ -5213,7 +5641,7 @@
     "applyOnlineLink": "https://neigrihms.gov.in/Latest%20News/Other/Advt%20of%20other%20Offices/Vacancy%20Circular%20for%20the%20post%20of%20Professor-cum-Principal%20and%20Professor-cum-Vice%20Principal%20in%20Rajkumari%20Amrit%20Kaur%20College%20of%20Nursing,%20Lajpat%20Nagar,%20New%20Delhi.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15"
+    "scrapedAt": "2026-10-16"
   },
   {
     "id": "delhi-nhai-deputy-general-manager-last-date-extended-",
@@ -5230,7 +5658,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/nhai-dgm-and-manager-recruitment-2026/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-10-15",
+    "scrapedAt": "2026-10-16",
     "fees": [],
     "dates": [
       {

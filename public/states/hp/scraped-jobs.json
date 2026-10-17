@@ -1,5 +1,39 @@
 [
   {
+    "id": "hp-aiims bilaspur-registrar",
+    "title": "AIIMS Bilaspur Recruitment 2026 – Registrar Posts",
+    "shortInfo": "AIIMS Bilaspur has announced notification for Registrar posts. Required qualification: Any Graduate. Last date to apply: 31-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "31-10-26",
+    "officialWebsite": "https://aiimsbilaspur.edu.in/sites/default/files/2026-10/Advertisement%2001.pdf",
+    "notificationLink": "https://aiimsbilaspur.edu.in/sites/default/files/2026-10/Advertisement%2001.pdf",
+    "applyOnlineLink": "https://aiimsbilaspur.edu.in/sites/default/files/2026-10/Advertisement%2001.pdf",
+    "state": "Himachal Pradesh",
+    "stateCode": "hp",
+    "scrapedAt": "2026-10-17"
+  },
+  {
+    "id": "hp-echs dharamsala-lab-assistant-medical-officer",
+    "title": "ECHS Dharamsala Recruitment 2026 – Lab Assistant, Medical Officer Posts",
+    "shortInfo": "ECHS Dharamsala has announced notification for Lab Assistant, Medical Officer posts. Required qualification: MBBS, DMLT. Last date to apply: 24-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "3",
+    "lastDate": "24-10-26",
+    "officialWebsite": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Stn%20HQ%20Dharamasala%20%20on%2024%20Oct.pdf",
+    "notificationLink": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Stn%20HQ%20Dharamasala%20%20on%2024%20Oct.pdf",
+    "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Stn%20HQ%20Dharamasala%20%20on%2024%20Oct.pdf",
+    "state": "Himachal Pradesh",
+    "stateCode": "hp",
+    "scrapedAt": "2026-10-17"
+  },
+  {
     "id": "hp-echs solan bilasapur-driver-medical-officer",
     "title": "ECHS Solan Bilasapur Recruitment 2026 – Driver, Medical Officer Posts",
     "shortInfo": "ECHS Solan Bilasapur has announced notification for Driver, Medical Officer posts. Required qualification: Diploma, MBBS, Any Graduate. Last date to apply: 02-11-26.",
@@ -14,7 +48,7 @@
     "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Solan%20Bilasapur%20Ghumarwin%2020%20Nov.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-16"
+    "scrapedAt": "2026-10-17"
   },
   {
     "id": "hp-uco bank-apprentice",
@@ -31,7 +65,7 @@
     "applyOnlineLink": "https://beep.bfsissc.com/",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-16",
+    "scrapedAt": "2026-10-17",
     "fees": [
       {
         "category": "SC/ST candidates",
@@ -103,7 +137,7 @@
     "applyOnlineLink": "https://hppsconline.hp.gov.in/HPPSC/ApplicantRegistration/Home/Login",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-16",
+    "scrapedAt": "2026-10-17",
     "fees": [
       {
         "category": "All Candidates (irrespective of category or gender)",
@@ -161,7 +195,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec03d5d7f5bba709f5cbbe1f74977096/uploads/2026/10/2026101257.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-16"
+    "scrapedAt": "2026-10-17"
   },
   {
     "id": "hp-aiims bilaspur-senior-resident-walk-in-",
@@ -178,7 +212,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aiims-bilaspur-senior-resident-recruitment-2026-52-vacancies-walk-in/",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-16",
+    "scrapedAt": "2026-10-17",
     "fees": [
       {
         "category": "PwBD/SC/ST",
@@ -238,7 +272,7 @@
     "applyOnlineLink": "https://aiimsbilaspur.edu.in/sites/default/files/2026-10/Advertisement%20for%20Recruitment_ICMR%20Project.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-16"
+    "scrapedAt": "2026-10-17"
   },
   {
     "id": "hp-ysp uhf-junior-research-fellow",
@@ -255,7 +289,7 @@
     "applyOnlineLink": "https://uhf.ac.in/storage/uploads/docs/1791453779.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-16"
+    "scrapedAt": "2026-10-17"
   },
   {
     "id": "hp-aiims bilaspur-project-technical-support-iii",
@@ -272,7 +306,7 @@
     "applyOnlineLink": "https://aiimsbilaspur.edu.in/sites/default/files/2026-10/Advertisement-_0.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-16"
+    "scrapedAt": "2026-10-17"
   },
   {
     "id": "hp-himachal pradesh high court-peon-librarian",
@@ -289,110 +323,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec03d5d7f5bba709f5cbbe1f74977096/uploads/2026/10/2026100895.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-16"
-  },
-  {
-    "id": "hp-district and sessions judge kullu-oath-commissioner",
-    "title": "District and Sessions Judge Kullu Recruitment 2026 – Oath Commissioner Posts",
-    "shortInfo": "District and Sessions Judge Kullu has announced notification for Oath Commissioner posts. Required qualification: Any Graduate. Last date to apply: 14-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "14-10-26",
-    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3ec03d5d7f5bba709f5cbbe1f74977096/uploads/2026/10/2026100740.pdf",
-    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec03d5d7f5bba709f5cbbe1f74977096/uploads/2026/10/2026100740.pdf",
-    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec03d5d7f5bba709f5cbbe1f74977096/uploads/2026/10/2026100740.pdf",
-    "state": "Himachal Pradesh",
-    "stateCode": "hp",
-    "scrapedAt": "2026-10-16"
-  },
-  {
-    "id": "hp-hppsc-h-p-administrative-services-block-development-offi",
-    "title": "HPPSC Recruitment 2026 – H.P. Administrative Services, Block Development Officer, District Controller, District Treasury Officer, Tehsildar Posts",
-    "shortInfo": "HPPSC has announced notification for H.P. Administrative Services, Block Development Officer, District Controller, District Treasury Officer, Tehsildar posts. Required qualification: Bachelor's degree. Last date to apply: 15-10-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "35",
-    "lastDate": "15-10-26",
-    "officialWebsite": "https://www.hppsc.hp.gov.in/hppsc",
-    "notificationLink": "https://hppsc.hp.gov.in/CommonControls/CMSFileView?qs=oeMK915q2HkdpWSZ%2B0aaIFmLDoF0cTjGvKykbXugJ5FH4sUacllacYlnRK0MeZGEfxeUsdEM2p69nc6WDWdQBhIBr3TooKs4EQ87JuUdBNI%3D",
-    "applyOnlineLink": "https://hppsconline.hp.gov.in/HPPSC/ApplicantRegistration/Home/Login",
-    "state": "Himachal Pradesh",
-    "stateCode": "hp",
-    "scrapedAt": "2026-10-16",
-    "fees": [
-      {
-        "category": "All Candidates (Uniform Fee irrespective of category)",
-        "fee": "Rs. 600.00"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Advertisement Date",
-        "date": "26/08/2026"
-      },
-      {
-        "event": "Last Date for Application Submission (Extended Ypto)",
-        "date": "15/10/2026"
-      },
-      {
-        "event": "Preliminary Exam Date (Tentatively)",
-        "date": "13/12/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "H.P. Administrative Services",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Block Development Officer",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "District Controller",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "District Treasury Officer",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Tehsildar",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the official website of the Commission at https://www.hppsc.hp.gov.in/hppsc.",
-      "Click on the link ‘Apply Online’ on the Home Page.",
-      "Click on ‘One Time Registration (OTR) for Examinations’ and register/create your profile by clicking ‘New Registration’ if not already registered.",
-      "Log into your OTR account and select the relevant advertisement from the dashboard.",
-      "Fill in the Online Recruitment Application (ORA) carefully, uploading all requisite documents including Matriculation Certificate, Degree Certificates, Category Certificates, Bonafide Himachali Certificate, EWS/BPL Certificate, and Ex-Servicemen documents as applicable.",
-      "Capture a live photograph as required during the application process.",
-      "Give an undertaking/declaration that all uploaded documents are legible, readable and true.",
-      "Pay the examination fee online via Debit Card/Credit Card/UPI or any other online digital mode on or before the closing date.",
-      "Submit the application. The application is deemed successfully submitted only after payment of fee is acknowledged and credited to the Commission’s account.",
-      "Download the e-admit card from the official website using your User ID and password."
-    ]
+    "scrapedAt": "2026-10-17"
   },
   {
     "id": "hp-district court solan-licenced-typist-cum-computer-operator",
@@ -409,7 +340,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0360a70bb05b08d6cd95deb3bdb750/uploads/2026/10/2026100790.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-16"
+    "scrapedAt": "2026-10-17"
   },
   {
     "id": "hp-csir ihbt-project-associate-project-assistant-i",
@@ -426,7 +357,7 @@
     "applyOnlineLink": "https://www.ihbt.res.in/components/com_chronoforms5/chronoforms/uploads/Recruitment/20261007154027_Final_Advt._no._17_by_2026_with_Application_Form.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-16"
+    "scrapedAt": "2026-10-17"
   },
   {
     "id": "hp-hp high court-stenographer",
@@ -443,7 +374,7 @@
     "applyOnlineLink": "https://www.hphcrecruitment.in/static/dist/pdf/69.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-16"
+    "scrapedAt": "2026-10-17"
   },
   {
     "id": "hp-hppsc-assistant-director",
@@ -460,24 +391,7 @@
     "applyOnlineLink": "https://hppsc.hp.gov.in/CommonControls/CMSFileView?qs=oeMK915q2HkdpWSZ%2B0aaIFmLDoF0cTjGvKykbXugJ5FH4sUacllacTF%2B5RqdIHDUaLjGjYE8mOeHqj0VR%2FB5RoAFuG6TC47917zNkNFr8Dw%3D",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-16"
-  },
-  {
-    "id": "hp-echs-clerk-peon-deo-more",
-    "title": "ECHS Recruitment 2026 – Clerk, Peon, DEO, More Posts",
-    "shortInfo": "ECHS has announced notification for Clerk, Peon, DEO, More posts. Required qualification: Other, MBBS. Last date to apply: 14-10-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "23",
-    "lastDate": "14-10-26",
-    "officialWebsite": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20YOL%2024%20Sep.pdf",
-    "notificationLink": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20YOL%2024%20Sep.pdf",
-    "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20YOL%2024%20Sep.pdf",
-    "state": "Himachal Pradesh",
-    "stateCode": "hp",
-    "scrapedAt": "2026-10-16"
+    "scrapedAt": "2026-10-17"
   },
   {
     "id": "hp-cskhpkv-young-professional-ii",
@@ -494,7 +408,7 @@
     "applyOnlineLink": "https://www.hillagric.ac.in/info/jobs_advt/2026/2026-10-06-FN-2844-2944.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-16"
+    "scrapedAt": "2026-10-17"
   },
   {
     "id": "hp-hp home guards-junior-office-assistant",
@@ -511,7 +425,7 @@
     "applyOnlineLink": "https://himachal.nic.in/homeguard/ControlsAsync/ViewFTPFile?qs=KI3gZ53zz1wtN18hlxLgW1j9YCrEoVMXjVNgRMLaYWLVpKVxmjmCvpzV27XwQVR%2Fs2YhZGPLMf3gQMWYvlgGGq4EoOObz%2Fvj",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-16"
+    "scrapedAt": "2026-10-17"
   },
   {
     "id": "hp-dlsa solan-para-legal-volunteers",
@@ -528,41 +442,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0360a70bb05b08d6cd95deb3bdb750/uploads/2026/10/2026100559.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-16"
-  },
-  {
-    "id": "hp-iim sirmaur-medical-officer-more-research-associate",
-    "title": "IIM Sirmaur Recruitment 2026 – Medical Officer, More, Research Associate Posts",
-    "shortInfo": "IIM Sirmaur has announced notification for Medical Officer, More, Research Associate posts. Required qualification: MBA/PGDM, MBBS, M.Phil/Ph.D, Any Graduate. Last date to apply: 12-10-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "8",
-    "lastDate": "12-10-26",
-    "officialWebsite": "https://www.iimsirmaur.ac.in/sites/default/files/2026-10/Final%20File.pdf",
-    "notificationLink": "https://www.iimsirmaur.ac.in/sites/default/files/2026-10/Final%20File.pdf",
-    "applyOnlineLink": "https://www.iimsirmaur.ac.in/sites/default/files/2026-10/Final%20File.pdf",
-    "state": "Himachal Pradesh",
-    "stateCode": "hp",
-    "scrapedAt": "2026-10-16"
-  },
-  {
-    "id": "hp-cskhpkv-junior-research-fellow",
-    "title": "CSKHPKV Recruitment 2026 – Junior Research Fellow Posts",
-    "shortInfo": "CSKHPKV has announced notification for Junior Research Fellow posts. Required qualification: M.Sc. Last date to apply: 12-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "12-10-26",
-    "officialWebsite": "https://www.hillagric.ac.in/info/jobs_advt/2026/2026-09-30-FN-439-48.pdf",
-    "notificationLink": "https://www.hillagric.ac.in/info/jobs_advt/2026/2026-09-30-FN-439-48.pdf",
-    "applyOnlineLink": "https://www.hillagric.ac.in/info/jobs_advt/2026/2026-09-30-FN-439-48.pdf",
-    "state": "Himachal Pradesh",
-    "stateCode": "hp",
-    "scrapedAt": "2026-10-16"
+    "scrapedAt": "2026-10-17"
   },
   {
     "id": "hp-himachal pradesh jal shakti vibhag-multipurpose-worker-para-pump-operator-and-more",
@@ -579,7 +459,7 @@
     "applyOnlineLink": "https://jsv.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1yTV49xNU6QBk0f+D9rWV0VhZ+dahwEOncXXlmc34oR/PcisPcfSvHhoDoX/CxwsAsmTL9C/VnROuu+CWEFqAcLBh9/QyjadPoTiFxrq6OS5FgIN7ezqDVeEdSrUnbzMH8=",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-16"
+    "scrapedAt": "2026-10-17"
   },
   {
     "id": "hp-hp high court-librarian-peon-mali-cook-cum-attendant",
@@ -596,7 +476,7 @@
     "applyOnlineLink": "https://www.hphcrecruitment.in/login",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-16",
+    "scrapedAt": "2026-10-17",
     "fees": [
       {
         "category": "Unreserved (UR)",
@@ -679,7 +559,7 @@
     "applyOnlineLink": "https://hppsconline.hp.gov.in/HPPSC/ApplicantRegistration/Home/Login",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-16",
+    "scrapedAt": "2026-10-17",
     "fees": [
       {
         "category": "All Candidates (irrespective of category or gender)",
@@ -722,40 +602,6 @@
     ]
   },
   {
-    "id": "hp-hp jsv-multipurpose-worker-para-pump-operator-and-more",
-    "title": "HP JSV Recruitment 2026 – Multipurpose Worker, Para Pump Operator and More Posts",
-    "shortInfo": "HP JSV has announced notification for Multipurpose Worker, Para Pump Operator and More posts. Required qualification: 10TH, ITI. Last date to apply: 14-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "30",
-    "lastDate": "14-10-26",
-    "officialWebsite": "https://jsv.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1yTV49xNU6QBk0f%2BD9rWV0VhZ%2BdahwEOncXXlmc34oR%2FPcisPcfSvHhoDoX%2FCxwsAsmTL9C%2FVnROsUbyOoZvu1JD5XWZ8eXolf%2BRECjZZud88euqfniUU6yHs4VA2Vfh7U%3D",
-    "notificationLink": "https://jsv.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1yTV49xNU6QBk0f%2BD9rWV0VhZ%2BdahwEOncXXlmc34oR%2FPcisPcfSvHhoDoX%2FCxwsAsmTL9C%2FVnROsUbyOoZvu1JD5XWZ8eXolf%2BRECjZZud88euqfniUU6yHs4VA2Vfh7U%3D",
-    "applyOnlineLink": "https://jsv.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1yTV49xNU6QBk0f%2BD9rWV0VhZ%2BdahwEOncXXlmc34oR%2FPcisPcfSvHhoDoX%2FCxwsAsmTL9C%2FVnROsUbyOoZvu1JD5XWZ8eXolf%2BRECjZZud88euqfniUU6yHs4VA2Vfh7U%3D",
-    "state": "Himachal Pradesh",
-    "stateCode": "hp",
-    "scrapedAt": "2026-10-16"
-  },
-  {
-    "id": "hp-hp jal shakti vibhag-para-cook-para-helper",
-    "title": "HP Jal Shakti Vibhag Recruitment 2026 – Para Cook, Para Helper Posts",
-    "shortInfo": "HP Jal Shakti Vibhag has announced notification for Para Cook, Para Helper posts. Required qualification: Any Graduate, 10TH, Diploma. Last date to apply: 13-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "3",
-    "lastDate": "13-10-26",
-    "officialWebsite": "https://jsv.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1yTV49xNU6QBk0f%2BD9rWV0VhZ%2BdahwEOncXXlmc34oR%2FPcisPcfSvHhoDoX%2FCxwsAsmTL9C%2FVnROhe22h3xEN5NJZemb1xzdS3P%2B0qinFtE9KJBpuaWZmnoZUePFF%2BMPnc%3D",
-    "notificationLink": "https://jsv.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1yTV49xNU6QBk0f%2BD9rWV0VhZ%2BdahwEOncXXlmc34oR%2FPcisPcfSvHhoDoX%2FCxwsAsmTL9C%2FVnROhe22h3xEN5NJZemb1xzdS3P%2B0qinFtE9KJBpuaWZmnoZUePFF%2BMPnc%3D",
-    "applyOnlineLink": "https://jsv.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1yTV49xNU6QBk0f%2BD9rWV0VhZ%2BdahwEOncXXlmc34oR%2FPcisPcfSvHhoDoX%2FCxwsAsmTL9C%2FVnROhe22h3xEN5NJZemb1xzdS3P%2B0qinFtE9KJBpuaWZmnoZUePFF%2BMPnc%3D",
-    "state": "Himachal Pradesh",
-    "stateCode": "hp",
-    "scrapedAt": "2026-10-16"
-  },
-  {
     "id": "hp-hppsc-assistant-professor",
     "title": "HPPSC Recruitment 2026 – Assistant Professor Posts",
     "shortInfo": "HPPSC has announced notification for Assistant Professor posts. Required qualification: -. Last date to apply: 16-10-26.",
@@ -770,7 +616,7 @@
     "applyOnlineLink": "https://hppsc.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1wSGo29lXLTBfw1DHezN8KfEg%2BrikZhi%2FLLqiZME0%2BQRfdkGlH8WWhtsQprtXAi4VMaeLFdFshXnjnFpPXIJIM1FOfW55WwUfo%3D",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-16"
+    "scrapedAt": "2026-10-17"
   },
   {
     "id": "hp-hppsc-medical-officer",
@@ -787,7 +633,7 @@
     "applyOnlineLink": "https://hppsconline.hp.gov.in/HPPSC/ApplicantRegistration/Home/Login",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-16",
+    "scrapedAt": "2026-10-17",
     "fees": [],
     "dates": [
       {

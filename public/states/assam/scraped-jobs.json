@@ -14,7 +14,7 @@
     "applyOnlineLink": "https://recruitment.purabi.coop/files/REOI4b36f3.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-cotton university-hod-assistant-professor",
@@ -31,7 +31,7 @@
     "applyOnlineLink": "https://cottonuniversity.ac.in/storage/uploads/page/1865997113.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-bhattadev university-associate-professor-yoga-trainer",
@@ -48,7 +48,7 @@
     "applyOnlineLink": "https://www.bhattadevuniversity.ac.in/docs/notifications/Advertisement__Physical_Education_&#038;_Sports.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-hgc-principal",
@@ -65,7 +65,7 @@
     "applyOnlineLink": "https://rtuassam.ac.in/upload/recruitment/1791782418.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-esic medical college and hospital, beltola-senior-resident-walk-in-",
@@ -82,7 +82,7 @@
     "applyOnlineLink": "https://esic.gov.in/attachments/recruitmentfile/ENGAGEMENT_OF_SENIOR_RESIDENT_ON_CONTRACTUAL_BASIS_FOR_ESIC_MEDICAL_COLLEGE_amp_HOSPITAL_BELTOLA_GUWAHATI_22_1792142122.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-iit guwahati-assistant-project-engineer",
@@ -99,7 +99,7 @@
     "applyOnlineLink": "https://www.iitg.ac.in/pdf/4b7cf1561733666a02505e41ad3d15b0.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-iit guwahati-srf",
@@ -116,7 +116,7 @@
     "applyOnlineLink": "https://www.iitg.ac.in/pdf/555ecd4e3d492893fdd78e298d10b531.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-ongc assam asset-junior-consultant-associate-consultant",
@@ -128,12 +128,47 @@
     "district": "State Level",
     "vacancies": "20",
     "lastDate": "12-11-26",
-    "officialWebsite": "https://ongcindia.com/documents/77751/2660534/AdvetisementFormat_ONGCPortals2026.pdf/019de7df-e026-b81e-a130-ba0653abe9e1",
+    "officialWebsite": "https://ongc.co.in",
     "notificationLink": "https://ongcindia.com/documents/77751/2660534/AdvetisementFormat_ONGCPortals2026.pdf/019de7df-e026-b81e-a130-ba0653abe9e1",
-    "applyOnlineLink": "https://ongcindia.com/documents/77751/2660534/AdvetisementFormat_ONGCPortals2026.pdf/019de7df-e026-b81e-a130-ba0653abe9e1",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/ongc-associate-consultant-recruitment-2026/",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date of Receipt of Application",
+        "date": "12/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Associate Consultant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Consultant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the application form (Bio Data Form) from the advertisement.",
+      "Fill in all required details including post applied for, personal information, ONGC CPF No., designation at retirement, discipline (Production/Drilling), service details, and educational qualifications.",
+      "Attach relevant documents as enclosures.",
+      "Send the completed application to the email address: assam_hws@ongc.co.in",
+      "Last date of receipt of application: 12.11.2026 (Thursday) at 16:30 hrs."
+    ]
   },
   {
     "id": "assam-nid assam-senior-assistant-finance-amp-accounts-",
@@ -150,7 +185,7 @@
     "applyOnlineLink": "https://nidj.ac.in/wp-content/uploads/2026/10/RecAdvtSrAsstFA14102026.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-sivasagar district administration-revenue-sheristadar",
@@ -167,7 +202,7 @@
     "applyOnlineLink": "https://sivasagar.assam.gov.in/sites/default/files/public_utility/RS%20Advertisement.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-nid assam-technical-instructor-and-more-design-instructor",
@@ -184,7 +219,7 @@
     "applyOnlineLink": "https://nidj.ac.in/wp-content/uploads/2026/10/RecAdvtTechnicalPosts15102026-1.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-dc sivasagar-hahchara-mouzadar",
@@ -201,7 +236,7 @@
     "applyOnlineLink": "https://sivasagar.assam.gov.in/sites/default/files/public_utility/Hahchara_Mouza.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-assam university-vice-chancellor",
@@ -218,7 +253,7 @@
     "applyOnlineLink": "https://www.aus.ac.in/wp-content/uploads/2026/10/Approved-Advt-Bilingual.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-oil india-senior-officer-superintending-research-scientist",
@@ -230,12 +265,90 @@
     "district": "State Level",
     "vacancies": "32",
     "lastDate": "14-11-26",
-    "officialWebsite": "https://www.oil-india.com/download-advertisement-document?detail=NlVXMW9ENlc=",
-    "notificationLink": "https://www.oil-india.com/download-advertisement-document?detail=NlVXMW9ENlc=",
-    "applyOnlineLink": "https://www.oil-india.com/download-advertisement-document?detail=NlVXMW9ENlc=",
+    "officialWebsite": "https://www.oil-india.com/",
+    "notificationLink": "https://govtjobguru.in/wp-content/uploads/2026/10/Oil-india-recruitmebt-2026.pdf",
+    "applyOnlineLink": "https://cdn.digialm.com/EForms/configuredHtml/1258/101869/cLS13NVBAyZXSMfBYd/Index.html",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19",
+    "fees": [
+      {
+        "category": "General / OBC (NCL)",
+        "fee": "Rs. 500 + Applicable Taxes"
+      },
+      {
+        "category": "SC / ST / PwBD / EWS / Ex-Servicemen",
+        "fee": "Nil"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening of OIL website for online submission of application",
+        "date": "15/10/2026"
+      },
+      {
+        "event": "Last date for submission of online application",
+        "date": "14/11/2026"
+      },
+      {
+        "event": "Date of Computer Based Test (CBT)",
+        "date": "28/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Superintending Research Scientist (CH-01)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Officer (Mechanical) (ME-02)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Officer (Petroleum) (PE-03)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Accounts Officer / Senior Internal Auditor (AC-04)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Hindi Officer - Official Language (HO-05)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Confidential Secretary (CS-06)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit OIL’s official website (www.oil-india.com) and click on the ‘Click Here’ hyperlink to initiate registration.",
+      "Step-I: Register by filling Personal Details and Contact Details. An OTP will be sent to your registered Mobile No. and E-mail ID. Enter both OTPs to verify. Accept terms &amp; conditions and click Submit. You will receive an Application Sequence No. (User ID) and Password.",
+      "Step-II: Re-login using User ID and Password. Fill in Personal Details, Additional Details, Communication Details, Qualification Details, Experience Details, and Declaration. Upload scanned photograph (JPG/JPEG, 100KB&ndash;200KB, 3.5cm x 4.5cm) and signature (JPG/JPEG, 80KB&ndash;150KB).",
+      "Preview the application and verify all details. Edit if required before final submission.",
+      "Submit the application. After submission, pay the applicable non-refundable application fee of Rs. 500/- (plus applicable taxes) via SBI e-Pay Lite Payment Gateway. SC/ST/PwBD/EWS/Ex-Servicemen are exempted from fee.",
+      "After successful payment, print/save the submitted Application Form in PDF for future reference.",
+      "Ensure your e-mail ID and mobile number remain valid throughout the recruitment process.",
+      "For technical queries, contact Help Desk at Phone No: 9513253397 (Monday to Friday, 10 AM to 5 PM)."
+    ]
   },
   {
     "id": "assam-central silk board-assistant-engineer-joint-secretary-and-more",
@@ -252,7 +365,7 @@
     "applyOnlineLink": "https://csb.gov.in/sites/default/files/what_s_new/files/Deputation%20advt.%20CSB_01_2026.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-slrc assam-field-assistant-statistics-enumerator",
@@ -264,12 +377,87 @@
     "district": "State Level",
     "vacancies": "72",
     "lastDate": "14-11-26",
-    "officialWebsite": "http://slrcg3.sebaonline.org/uploads/SLRC_ClassIII_29092026_Field_Assistant_Statistics_Enumerator_Veterinary.pdf",
-    "notificationLink": "http://slrcg3.sebaonline.org/uploads/SLRC_ClassIII_29092026_Field_Assistant_Statistics_Enumerator_Veterinary.pdf",
-    "applyOnlineLink": "http://slrcg3.sebaonline.org/uploads/SLRC_ClassIII_29092026_Field_Assistant_Statistics_Enumerator_Veterinary.pdf",
+    "officialWebsite": "https://assam.gov.in",
+    "notificationLink": "https://assam.gov.in/sites/default/files/2026-09/Advt.%20for%2072%20FA%28stats%29%20Enumerator%2C%20AHV%20deptt.%20%282%29.pdf",
+    "applyOnlineLink": "https://formsrec.in/SLRC_III_FASE/WebPages/instruction.php",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19",
+    "fees": [
+      {
+        "category": "All Categories",
+        "fee": "No Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Starting Date of Application",
+        "date": "15/10/2026"
+      },
+      {
+        "event": "Last Date of Application",
+        "date": "14/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Field Assistant (Statistics)/Enumerator (Open Category)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Field Assistant (Statistics)/Enumerator (OBC/MOBC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Field Assistant (Statistics)/Enumerator (OBC Tea Tribes & Adivasi Community)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Field Assistant (Statistics)/Enumerator (SC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Field Assistant (Statistics)/Enumerator (ST-P)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Field Assistant (Statistics)/Enumerator (ST-H)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Field Assistant (Statistics)/Enumerator (Total)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website: www.sebaonline.org",
+      "Click on the online application link for Field Assistant (Statistics)/Enumerator under ISS.",
+      "Fill in the required personal, educational, and other details in the application form.",
+      "Upload all required documents including educational certificates, caste certificate (if applicable), Computer Course Certificate, Employment Exchange registration certificate, Ex-Servicemen Identity Card and Discharge Book (if applicable), and PwBD certificate (if applicable).",
+      "Submit the application form online before the last date i.e., 14th November, 2026 (23:59 PM).",
+      "No application fee is required for any category."
+    ]
   },
   {
     "id": "assam-sivasagar district-mouzadar",
@@ -286,7 +474,7 @@
     "applyOnlineLink": "https://sivasagar.assam.gov.in/sites/default/files/public_utility/Aathkhel_Mouza.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-oil india-contractual-warden",
@@ -303,7 +491,7 @@
     "applyOnlineLink": "https://www.oil-india.com/download-advertisement-document?detail=NlVXMA==",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-niper guwahati-research-manager",
@@ -320,7 +508,7 @@
     "applyOnlineLink": "https://www.niperguwahati.ac.in/DOC/RECRUITMENT/CONTRACTUAL-POSITIONS/Advt._Research%20Manager_05(C).2026-Bilingual.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-uco bank-apprentice",
@@ -337,7 +525,7 @@
     "applyOnlineLink": "https://beep.bfsissc.com/",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18",
+    "scrapedAt": "2026-10-19",
     "fees": [
       {
         "category": "SC/ST candidates",
@@ -409,7 +597,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0562e7f2e090fe150ef8deb4466fdc/uploads/2026/10/2026101333.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-rabindranath thakur vishwavidyalaya-assistant-professor",
@@ -426,7 +614,7 @@
     "applyOnlineLink": "https://rtuassam.ac.in/upload/recruitment/1791886682.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-samagra shiksha assam-special-educator-and-more-additional-resource-pers",
@@ -443,7 +631,7 @@
     "applyOnlineLink": "https://ssa.assam.gov.in/sites/default/files/swf_utility_folder/departments/ssam_medhassu_in_oid_5/latest/engagement_-_arp_aarp_and_special_educator.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-atal amrit abhiyan society assam-operation-executive-and-more-medical-officer",
@@ -460,7 +648,7 @@
     "applyOnlineLink": "https://sharecruitment.in/",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18",
+    "scrapedAt": "2026-10-19",
     "fees": [
       {
         "category": "Fee",
@@ -536,7 +724,7 @@
     "applyOnlineLink": "https://kokrajharuniversity.ac.in/wp-content/uploads/2026/10/Advertisement-for-Walk-In-Interview-for-Temporary-Teaching-Post-of-ITEP-B.Sc_.-B.Ed_.-Programme-in-Kokrajhar-University.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-concor-general-manager-c-amp-o-senior-general-manager-c-a",
@@ -553,7 +741,7 @@
     "applyOnlineLink": "https://cms.concorindia.co.in:8000/uploads/cms/pdf/N0o59dO7FVXRIWf_VacancyNotice10of2026.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-tiss-deputy-librarian-and-more-deputy-registrar",
@@ -570,7 +758,7 @@
     "applyOnlineLink": "https://tiss.ac.in/uploads/files/Final_Advertisement_dtd_07.10.2026_Non-Teaching_Positions.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-csir neist-project-associate-senior-project-associate",
@@ -587,7 +775,7 @@
     "applyOnlineLink": "https://www.neist.res.in/prostaff/",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18",
+    "scrapedAt": "2026-10-19",
     "fees": [
       {
         "category": "Fee",
@@ -714,7 +902,7 @@
     "applyOnlineLink": "https://tiss.ac.in/uploads/files/Office-attendant_TISS-Guwahati_CxjFroW.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-nit silchar-junior-research-fellow",
@@ -731,7 +919,7 @@
     "applyOnlineLink": "https://www.nits.ac.in/storage/CareerDocument/Career_6ac5a1d1105f5.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-aau-assistant-professor",
@@ -748,7 +936,7 @@
     "applyOnlineLink": "https://appl.aau.ac.in/aau-recruitment-2026",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18",
+    "scrapedAt": "2026-10-19",
     "fees": [
       {
         "category": "General/OBC",
@@ -1014,7 +1202,7 @@
     "applyOnlineLink": "https://www.nits.ac.in/storage/CareerDocument/Career_6ac5a1a4540e9.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-tezpur university-female-security-supervisor",
@@ -1031,7 +1219,7 @@
     "applyOnlineLink": "https://www.tezu.ernet.in/Admin/Advt_No_30_2026_Female_Security_Supervisor.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-central silk board-sericulture-assistant",
@@ -1048,7 +1236,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/central-silk-board-sericulture-assistant-recruitment-2026-apply-online/",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18",
+    "scrapedAt": "2026-10-19",
     "fees": [
       {
         "category": "Fee",
@@ -1112,7 +1300,7 @@
     "applyOnlineLink": "https://goalpara.assam.gov.in/sites/default/files/public_utility/DocScanner%206%20Oct%202026%2012-11%E2%80%AFpm.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-spices board-trainee-development-",
@@ -1129,7 +1317,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/spices-board-trainee-recruitment-2026/",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18",
+    "scrapedAt": "2026-10-19",
     "fees": [],
     "dates": [
       {
@@ -1224,7 +1412,7 @@
     "applyOnlineLink": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791182844_engagementofseniorconsultantscientific-non-medicalandconsultantfinance_0001.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-rrc nfr-alp-technician-junior-engineer-train-manager",
@@ -1241,7 +1429,7 @@
     "applyOnlineLink": "https://rrcgdce.etrpindia.com/rrc-gdce-guwahati/",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18",
+    "scrapedAt": "2026-10-19",
     "fees": [
       {
         "category": "Fee",
@@ -1445,7 +1633,7 @@
     "applyOnlineLink": "https://www.nits.ac.in/storage/files/v2-advertisement-vivesvaraya-pdf-admission-2025-updated-15th-may-25_1.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-district commissioner hailakandi-administrative-head-assistant",
@@ -1462,7 +1650,7 @@
     "applyOnlineLink": "https://hailakandi.assam.gov.in/sites/default/files/public_utility/DocScanner%2025%20Sept%202026%204-41%E2%80%AFpm.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-dahv assam-field-assistant-enumerator",
@@ -1479,7 +1667,7 @@
     "applyOnlineLink": "https://animalhusbandry.assam.gov.in/sites/default/files/swf_utility_folder/departments/ahvetdept_webcomindia_org_oid_3/menu/right_menu/right_menu/advertisement_for_the_post_of_field_assistant_statistics-enumerator.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-iocl bongaigaon-apprentice-last-date-extended-",
@@ -1496,7 +1684,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/iocl-bongaigaon-refinery-apprentice-recruitment-2026/",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18",
+    "scrapedAt": "2026-10-19",
     "fees": [
       {
         "category": "Fee",
@@ -1566,7 +1754,7 @@
     "applyOnlineLink": "https://neist.res.in/public/storage/documents/1790569561_ADVT%20ENGLISH%20Security%20Officer%20FINAL.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-assam rifles-warrant-officer-rifleman-havildar-amp-other-posts",
@@ -1583,7 +1771,7 @@
     "applyOnlineLink": "https://www.assamrifles.gov.in/onlineapp/Default.aspx",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18",
+    "scrapedAt": "2026-10-19",
     "fees": [
       {
         "category": "General/EWS",
@@ -1752,7 +1940,7 @@
     "applyOnlineLink": "https://kokrajharuniversity.ac.in/wp-content/uploads/2026/09/Advt.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "assam-tiss-assistant-professor-and-more-professor",
@@ -1769,6 +1957,6 @@
     "applyOnlineLink": "https://tiss.ac.in/uploads/files/Final_advt_22_September_2026_-_Teaching-1.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   }
 ]

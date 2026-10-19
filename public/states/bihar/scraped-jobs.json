@@ -1,5 +1,76 @@
 [
   {
+    "id": "bihar-bssc-field-assistant-mains-exam-",
+    "title": "BSSC Recruitment 2026 – Field Assistant (Mains Exam) Posts",
+    "shortInfo": "BSSC has announced notification for Field Assistant (Mains Exam) posts. Required qualification: I.Sc, Diploma in Agriculture. Last date to apply: 31-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "201",
+    "lastDate": "31-10-26",
+    "officialWebsite": "https://bssc.bihar.gov.in",
+    "notificationLink": "https://bssc.bihar.gov.in/Advertisement/0325_advt.pdf",
+    "applyOnlineLink": "https://www.onlinebssc.com/agribsc25/",
+    "state": "Bihar",
+    "stateCode": "bihar",
+    "scrapedAt": "2026-10-19",
+    "fees": [
+      {
+        "category": "General/BC/EBC/Other State",
+        "fee": "₹540/-"
+      },
+      {
+        "category": "For SC/ST (for permanent residents of Bihar)",
+        "fee": "₹135/-"
+      },
+      {
+        "category": "For Disabled (All Category)",
+        "fee": "₹135/-"
+      },
+      {
+        "category": "For Women (only for permanent residents of Bihar)",
+        "fee": "₹135/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Starting Date for Apply Online",
+        "date": "25/04/2025"
+      },
+      {
+        "event": "Closing Date for Apply Online",
+        "date": "21/05/2025"
+      },
+      {
+        "event": "New Preliminary Exam Date",
+        "date": "10/08/2025"
+      },
+      {
+        "event": "Admit Card Available",
+        "date": "30/07/2025"
+      },
+      {
+        "event": "Mains Application Start Date",
+        "date": "22/10/2026"
+      },
+      {
+        "event": "Mains Application Last Date:",
+        "date": "31/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Field Assistant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": []
+  },
+  {
     "id": "bihar-igims-senior-resident",
     "title": "IGIMS Recruitment 2026 – Senior Resident Posts",
     "shortInfo": "IGIMS has announced notification for Senior Resident posts. Required qualification: MS/MD. Last date to apply: 24-10-26.",
@@ -14,7 +85,7 @@
     "applyOnlineLink": "https://www.igims.org/resources/uploads/TenderManagement/179221835928.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "bihar-dlsa sheohar-para-legal-volunteer",
@@ -31,7 +102,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0407211688a0869d995947a8fb11b2/uploads/2026/10/2026101655.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "bihar-igims-senior-resident-walk-in-",
@@ -48,7 +119,7 @@
     "applyOnlineLink": "https://www.igims.org/resources/uploads/TenderManagement/179214638459.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "bihar-iim bodh gaya-non-faculty-and-trainee",
@@ -65,7 +136,7 @@
     "applyOnlineLink": "https://iimbg.ac.in/wp-content/uploads/2026/10/RoR-Non-Faculty.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "bihar-dlsa gaya-panel-lawyer",
@@ -82,7 +153,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec05fd4c2dc64ccb8496e6f1f94c85f3/uploads/2026/10/2026101640-1.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "bihar-collectorate arwal-assistant-government-pleader-government-pleader",
@@ -99,7 +170,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s366808e327dc79d135ba18e051673d906/uploads/2026/10/17920548595454.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "bihar-icds buxar-lady-supervisor",
@@ -116,7 +187,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/icds-bihar-anganwadi-lady-supervisor-bharti-2026/",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18",
+    "scrapedAt": "2026-10-19",
     "fees": [
       {
         "category": "Fee",
@@ -181,7 +252,7 @@
     "applyOnlineLink": "https://www.igims.org/resources/uploads/TenderManagement/179204992885.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "bihar-cimp-research-associate",
@@ -198,7 +269,7 @@
     "applyOnlineLink": "https://cimp.ac.in/wp-content/uploads/2026/10/CIMP_Research_Associate_Advertisement_WaterAid_Readvertisement.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "bihar-aiims-project-clinician",
@@ -215,7 +286,7 @@
     "applyOnlineLink": "https://api.aiimspatna.edu.in/advertisement/advt-proj-clinician-WFM-Obs-340AIIMSPatGynae2026-15102026.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "bihar-igims-senior-resident",
@@ -232,7 +303,7 @@
     "applyOnlineLink": "https://www.igims.org/resources/uploads/TenderManagement/179196278682.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "bihar-iiit bhagalpur-assistant-professor-grade-ii",
@@ -249,7 +320,7 @@
     "applyOnlineLink": "https://www.iiitbh.ac.in/sites/default/files/2026/UPGRADATION%20OF%20FACULTY%20MEMBERS%20FROM%20ASSISTANT%20PROFESSOR%20GRADE-II,%20LEVEL-10%20(On%20Contract)%20to%20ASSISTANT%20PROFESSOR%20GRADE-II,%20LEVEL-11%20(On%20Contract).pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "bihar-uco bank-apprentice",
@@ -266,7 +337,7 @@
     "applyOnlineLink": "https://beep.bfsissc.com/",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18",
+    "scrapedAt": "2026-10-19",
     "fees": [
       {
         "category": "SC/ST candidates",
@@ -338,7 +409,7 @@
     "applyOnlineLink": "https://brlps.in/UplodFiles/Career/Detailed%20Ad%20MIS%20Consultant%20(1).pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "bihar-district magistrate arwal-public-prosecutor",
@@ -355,7 +426,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s366808e327dc79d135ba18e051673d906/uploads/2026/10/17910105711153.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "bihar-aiims patna-laundry-manager-librarian-more",
@@ -372,7 +443,7 @@
     "applyOnlineLink": "https://api.aiimspatna.edu.in/advertisement/DeputationAdvertisementPublishFTS-15070XVIIIDeputation10102026.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "bihar-aiims patna-manifold-technician-senior-plumber",
@@ -389,7 +460,7 @@
     "applyOnlineLink": "https://api.aiimspatna.edu.in/advertisement/DeputationAdvertisementPublishFTS-15070XIX10102026.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "bihar-aiims patna-more-senior-analyst-superintending-engineer",
@@ -406,7 +477,7 @@
     "applyOnlineLink": "https://api.aiimspatna.edu.in/advertisement/Deputation%20Advertisement%20Publish-FTS-15070-XVII-10102026.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "bihar-bssa-head-coach",
@@ -423,7 +494,7 @@
     "applyOnlineLink": "https://sportsauthorityofindia.nic.in/sai_new/public/assets/uploads/jobs/dda5b26b-4e58-43fb-9aa7-2910354eb7b7.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "bihar-nalanda university-research-assistant",
@@ -440,7 +511,7 @@
     "applyOnlineLink": "https://nalandauniv.edu.in/wp-content/uploads/2026/10/Advt-Notice-for-Research-Assistant-08.10.2026.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "bihar-hbchrc muzaffarpur-clerk",
@@ -457,7 +528,7 @@
     "applyOnlineLink": "https://tmc.gov.in/postmaster/ViewFile?FileId=DfhhbfvtIK3/WUJQz9Vn5Q==",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "bihar-iim bodh gaya-associate-and-assistant-professor-professor",
@@ -474,7 +545,7 @@
     "applyOnlineLink": "https://iimbg.ac.in/wp-content/uploads/2026/10/RoR-Faculty-Rolling-Advertisement.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "bihar-dswo munger-gender-specialist",
@@ -491,7 +562,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3e0c641195b27425bb056ac56f8953d24/uploads/2026/10/17912718751181.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "bihar-nit patna-medical-officer",
@@ -508,7 +579,7 @@
     "applyOnlineLink": "https://nitp-database-s3.s3.ap-south-1.amazonaws.com/notices/default/1791274903167-10e5cf176f13ac7d.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "bihar-icds kaimur-woman-supervisor",
@@ -525,7 +596,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/icds-bihar-anganwadi-lady-supervisor-bharti-2026/",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18",
+    "scrapedAt": "2026-10-19",
     "fees": [
       {
         "category": "Fee",
@@ -590,7 +661,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/spices-board-trainee-recruitment-2026/",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18",
+    "scrapedAt": "2026-10-19",
     "fees": [],
     "dates": [
       {
@@ -685,7 +756,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s34e4b5fbbbb602b6d35bea8460aa8f8e5/uploads/2026/10/17911820936616.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "bihar-iit patna-junior-research-fellow",
@@ -702,7 +773,7 @@
     "applyOnlineLink": "https://iitp.ac.in/media/iitp-media/notices/1790944480884-Advertisement%20no%20630%20dated%2029.09.2026.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&#038;X-Amz-Credential=minioadmin%2F20261005%2Fus-east-1%2Fs3%2Faws4_request&#038;X-Amz-Date=20261005T035233Z&#038;X-Amz-Expires=3600&#038;X-Amz-SignedHeaders=host&#038;X-Amz-Signature=f10e2bfb6375ab598ea32d9931d583b0211de3b0157f0ccd330698c3db9b5875",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "bihar-wcdc bihar-state-project-manager-accountant-assistant",
@@ -719,7 +790,7 @@
     "applyOnlineLink": "https://miswcdc.bihar.gov.in/SysAdmin/HRM/Documents/Advertisements/2026930451.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "bihar-bseb-school-librarian-bset-2026",
@@ -736,7 +807,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/bihar-librarian-bharti-2026/",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18",
+    "scrapedAt": "2026-10-19",
     "fees": [
       {
         "category": "General / OBC / EBC",
@@ -793,7 +864,7 @@
     "applyOnlineLink": "https://btsc.pariksha.nic.in/Online_App/Notifications.aspx",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18",
+    "scrapedAt": "2026-10-19",
     "fees": [
       {
         "category": "All Candidates",
@@ -890,7 +961,7 @@
     "applyOnlineLink": "https://btsc.pariksha.nic.in/Online_App/Notifications.aspx",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18",
+    "scrapedAt": "2026-10-19",
     "fees": [
       {
         "category": "All Candidates",
@@ -991,7 +1062,7 @@
     "applyOnlineLink": "https://btsc.pariksha.nic.in/Online_App/Notifications.aspx",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18",
+    "scrapedAt": "2026-10-19",
     "fees": [
       {
         "category": "All Categories",
@@ -1041,7 +1112,7 @@
     "applyOnlineLink": "https://btsc.bihar.gov.in/sites/default/files/Advertisement/30_2026.pdf",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18"
+    "scrapedAt": "2026-10-19"
   },
   {
     "id": "bihar-bpsc-teacher-primary-secondary-higher-secondary-tre-4-0",
@@ -1058,7 +1129,7 @@
     "applyOnlineLink": "https://bpsconline.bihar.gov.in/candidate/login",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18",
+    "scrapedAt": "2026-10-19",
     "fees": [
       {
         "category": "General/Unreserved/OBC/Other State",
@@ -1145,7 +1216,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-10-18",
+    "scrapedAt": "2026-10-19",
     "fees": [],
     "dates": [
       {

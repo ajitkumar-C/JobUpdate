@@ -3,7 +3,7 @@
     "id": "result-sbi-junior-associates-clerk-backlog-2026",
     "title": "SBI Junior Associates Clerk Backlog Result 2026",
     "category": "Result",
-    "postDate": "2026-10-18",
+    "postDate": "2026-10-19",
     "shortInfo": "SBI Junior Associates Clerk Backlog Result 2026. Read notification for detailed information.",
     "applicationStart": "07 August 2026",
     "applicationLastDate": "27 August 2026",
@@ -56,7 +56,7 @@
     "id": "result-hpsc-hcs-final-2026",
     "title": "HPSC HCS Final Result 2026",
     "category": "Result",
-    "postDate": "2026-10-18",
+    "postDate": "2026-10-19",
     "shortInfo": "HPSC HCS Final Result 2026. Read notification for detailed information.",
     "applicationStart": "06 February 2026",
     "applicationLastDate": "26 February 2026",
@@ -109,7 +109,7 @@
     "id": "result-upsc-geo-scientist-final-2026",
     "title": "UPSC Geo Scientist Final Result 2026",
     "category": "Result",
-    "postDate": "2026-10-18",
+    "postDate": "2026-10-19",
     "shortInfo": "UPSC Geo Scientist Final Result 2026. Read notification for detailed information.",
     "applicationStart": "03 September 2025",
     "applicationLastDate": "23 September 2025",
@@ -162,7 +162,7 @@
     "id": "result-rrb-section-controller-answer-key-2026",
     "title": "RRB Section Controller Answer Key 2026",
     "category": "Result",
-    "postDate": "2026-10-18",
+    "postDate": "2026-10-19",
     "shortInfo": "RRB Section Controller Answer Key 2026. Read notification for detailed information.",
     "applicationStart": "15 July 2026",
     "applicationLastDate": "14 August 2026 (23:59 PM)",
@@ -215,7 +215,7 @@
     "id": "result-rbi-officer-grade-b-final-2026",
     "title": "RBI Officer Grade-B Final Result 2026",
     "category": "Result",
-    "postDate": "2026-10-18",
+    "postDate": "2026-10-19",
     "shortInfo": "RBI Officer Grade-B Final Result 2026. Read notification for detailed information.",
     "applicationStart": "29 April 2026",
     "applicationLastDate": "20 May 2026",
@@ -277,7 +277,7 @@
     "id": "result-ibps-so-xvi-pre-2026",
     "title": "IBPS SO XVI Pre Result 2026",
     "category": "Result",
-    "postDate": "2026-10-18",
+    "postDate": "2026-10-19",
     "shortInfo": "IBPS SO XVI Pre Result 2026. Read notification for detailed information.",
     "applicationStart": "01 July 2026",
     "applicationLastDate": "Refer to notification",
@@ -354,7 +354,7 @@
     "id": "admit-card-bihar-stet-admit-card-2026",
     "title": "Bihar STET Admit Card 2026",
     "category": "Admit Card",
-    "postDate": "2026-10-18",
+    "postDate": "2026-10-19",
     "shortInfo": "Bihar STET Admit Card 2026. Read notification for detailed information.",
     "applicationStart": "17 August 2026",
     "applicationLastDate": "22 September 2026",
@@ -408,7 +408,7 @@
     "id": "admit-card-upsssc-pet-admit-card-2026",
     "title": "UPSSSC PET Admit Card 2026",
     "category": "Admit Card",
-    "postDate": "2026-10-18",
+    "postDate": "2026-10-19",
     "shortInfo": "UPSSSC PET Admit Card 2026. Read notification for detailed information.",
     "applicationStart": "03 August 2026",
     "applicationLastDate": "07 September 2026 Extended",
@@ -459,10 +459,117 @@
     "totalVacanciesCount": "Refer to Notification"
   },
   {
+    "id": "admit-card-ssc-cgl-tier-i-admit-card",
+    "title": "SSC CGL Tier-I Admit Card 2026",
+    "category": "Admit Card",
+    "postDate": "2026-10-19",
+    "shortInfo": "SSC CGL Tier-I Admit Card 2026. Read notification for detailed information.",
+    "applicationStart": "21 May 2026",
+    "applicationLastDate": "25 June 2026",
+    "feeLastDate": "25 June 2026",
+    "examDate": "The city intimation slip provides details such as the allotted examination city and scheduled examination date.",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "Exempted / Not Applicable",
+      "scStPh": "Exempted / Not Applicable",
+      "female": "₹ 0/-",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "min": "18 Years",
+      "max": "32 Years",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "SSC CGL Tier-I Admit Card 2026",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://ssc.gov.in/candidate-portal/one-time-registration/home-page",
+      "downloadNotification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_cgl_2026.pdf",
+      "officialWebsite": "https://ssc.gov.in/",
+      "syllabusUrl": "http://sarkariresult.com.cm/wp-content/uploads/2026/05/SSC-CGL-Syllabus-Exam-Pattern-2026.pdf",
+      "admitCardUrl": "https://ssc.gov.in/login",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Download Online Admit Card / Hall Ticket",
+      "Appear for Written / Online Computer Based Test (CBT)",
+      "Check Answer Key & Result"
+    ],
+    "howToApply": [
+      "Click on the direct \"Download Admit Card / Hall Ticket\" link provided below.",
+      "Enter your Registration Number / Roll Number and Date of Birth (DOB) or Password.",
+      "Click on \"Submit\" or \"Login\" to view your Hall Ticket on screen.",
+      "Check all details thoroughly: Exam Center, Reporting Time, Shift, and Roll Number.",
+      "Download and print at least 2 clear copies of the Admit Card along with the official instructions."
+    ],
+    "jobLocation": "All India (Central Govt)",
+    "totalVacanciesCount": "Refer to Notification"
+  },
+  {
+    "id": "admit-card-rrb-junior-engineer-je-city-details",
+    "title": "RRB Junior Engineer JE Exam City Details 2026",
+    "category": "Admit Card",
+    "postDate": "2026-10-19",
+    "shortInfo": "RRB Junior Engineer JE Exam City Details 2026. Read notification for detailed information.",
+    "applicationStart": "14 August 2026",
+    "applicationLastDate": "Refer to notification",
+    "feeLastDate": "Refer to notification",
+    "examDate": "Candidates can check the exam date by visiting their respective regional RRB website and opening the notification or notice related to CEN 04/2026.",
+    "admitCardDate": "Before Exam",
+    "fees": {
+      "generalObc": "General / OBC : Rs. 400/- will be refunded and Other candidates : Rs. 250/- will be refunded to the bank account after appearing in Stage I Exam.",
+      "scStPh": "₹ 250/-",
+      "female": "₹ 250/-",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "min": "18 Years",
+      "max": "33 years",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "RRB Junior Engineer JE Exam City Details 2026",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://www.rrbapply.gov.in/#/auth/landing",
+      "downloadNotification": "https://rrb.indianrailways.gov.in/-/image/1786627574998CEN_04_2026_JE_DMS_English.pdf/examsDocuments",
+      "officialWebsite": "https://indianrailways.gov.in/",
+      "syllabusUrl": "http://sarkariresult.com.cm/wp-content/uploads/2025/10/04_14_24pm142384bf87cab8ba2918a287b376265c-19-23.pdf",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Download Online Admit Card / Hall Ticket",
+      "Appear for Written / Online Computer Based Test (CBT)",
+      "Check Answer Key & Result"
+    ],
+    "howToApply": [
+      "Click on the direct \"Download Admit Card / Hall Ticket\" link provided below.",
+      "Enter your Registration Number / Roll Number and Date of Birth (DOB) or Password.",
+      "Click on \"Submit\" or \"Login\" to view your Hall Ticket on screen.",
+      "Check all details thoroughly: Exam Center, Reporting Time, Shift, and Roll Number.",
+      "Download and print at least 2 clear copies of the Admit Card along with the official instructions."
+    ],
+    "jobLocation": "All India (Central Govt)",
+    "totalVacanciesCount": "Refer to Notification"
+  },
+  {
     "id": "admit-card-rrb-paramedical-staff-date-2026",
     "title": "RRB Paramedical Staff Exam Date 2026",
     "category": "Admit Card",
-    "postDate": "2026-10-18",
+    "postDate": "2026-10-19",
     "shortInfo": "RRB Paramedical Staff Exam Date 2026. Read notification for detailed information.",
     "applicationStart": "15 September 2026",
     "applicationLastDate": "14 October 2026",
@@ -551,117 +658,10 @@
     "totalVacanciesCount": "590 Posts"
   },
   {
-    "id": "admit-card-rrb-junior-engineer-je-city-details",
-    "title": "RRB Junior Engineer JE Exam City Details 2026",
-    "category": "Admit Card",
-    "postDate": "2026-10-18",
-    "shortInfo": "RRB Junior Engineer JE Exam City Details 2026. Read notification for detailed information.",
-    "applicationStart": "14 August 2026",
-    "applicationLastDate": "Refer to notification",
-    "feeLastDate": "Refer to notification",
-    "examDate": "Candidates can check the exam date by visiting their respective regional RRB website and opening the notification or notice related to CEN 04/2026.",
-    "admitCardDate": "Before Exam",
-    "fees": {
-      "generalObc": "General / OBC : Rs. 400/- will be refunded and Other candidates : Rs. 250/- will be refunded to the bank account after appearing in Stage I Exam.",
-      "scStPh": "₹ 250/-",
-      "female": "₹ 250/-",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
-    },
-    "ageLimit": {
-      "min": "18 Years",
-      "max": "33 years",
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "RRB Junior Engineer JE Exam City Details 2026",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://www.rrbapply.gov.in/#/auth/landing",
-      "downloadNotification": "https://rrb.indianrailways.gov.in/-/image/1786627574998CEN_04_2026_JE_DMS_English.pdf/examsDocuments",
-      "officialWebsite": "https://indianrailways.gov.in/",
-      "syllabusUrl": "http://sarkariresult.com.cm/wp-content/uploads/2025/10/04_14_24pm142384bf87cab8ba2918a287b376265c-19-23.pdf",
-      "resultUrl": "https://sarkariresult.com.cm/"
-    },
-    "status": "active",
-    "salary": "As per Government Rules / Pay Matrix",
-    "selectionProcess": [
-      "Download Online Admit Card / Hall Ticket",
-      "Appear for Written / Online Computer Based Test (CBT)",
-      "Check Answer Key & Result"
-    ],
-    "howToApply": [
-      "Click on the direct \"Download Admit Card / Hall Ticket\" link provided below.",
-      "Enter your Registration Number / Roll Number and Date of Birth (DOB) or Password.",
-      "Click on \"Submit\" or \"Login\" to view your Hall Ticket on screen.",
-      "Check all details thoroughly: Exam Center, Reporting Time, Shift, and Roll Number.",
-      "Download and print at least 2 clear copies of the Admit Card along with the official instructions."
-    ],
-    "jobLocation": "All India (Central Govt)",
-    "totalVacanciesCount": "Refer to Notification"
-  },
-  {
-    "id": "admit-card-ssc-cgl-tier-i-admit-card",
-    "title": "SSC CGL Tier-I Admit Card 2026",
-    "category": "Admit Card",
-    "postDate": "2026-10-18",
-    "shortInfo": "SSC CGL Tier-I Admit Card 2026. Read notification for detailed information.",
-    "applicationStart": "21 May 2026",
-    "applicationLastDate": "25 June 2026",
-    "feeLastDate": "25 June 2026",
-    "examDate": "The city intimation slip provides details such as the allotted examination city and scheduled examination date.",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "Exempted / Not Applicable",
-      "scStPh": "Exempted / Not Applicable",
-      "female": "₹ 0/-",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
-    },
-    "ageLimit": {
-      "min": "18 Years",
-      "max": "32 Years",
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "SSC CGL Tier-I Admit Card 2026",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://ssc.gov.in/candidate-portal/one-time-registration/home-page",
-      "downloadNotification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_cgl_2026.pdf",
-      "officialWebsite": "https://ssc.gov.in/",
-      "syllabusUrl": "http://sarkariresult.com.cm/wp-content/uploads/2026/05/SSC-CGL-Syllabus-Exam-Pattern-2026.pdf",
-      "admitCardUrl": "https://ssc.gov.in/login",
-      "resultUrl": "https://sarkariresult.com.cm/"
-    },
-    "status": "active",
-    "salary": "As per Government Rules / Pay Matrix",
-    "selectionProcess": [
-      "Download Online Admit Card / Hall Ticket",
-      "Appear for Written / Online Computer Based Test (CBT)",
-      "Check Answer Key & Result"
-    ],
-    "howToApply": [
-      "Click on the direct \"Download Admit Card / Hall Ticket\" link provided below.",
-      "Enter your Registration Number / Roll Number and Date of Birth (DOB) or Password.",
-      "Click on \"Submit\" or \"Login\" to view your Hall Ticket on screen.",
-      "Check all details thoroughly: Exam Center, Reporting Time, Shift, and Roll Number.",
-      "Download and print at least 2 clear copies of the Admit Card along with the official instructions."
-    ],
-    "jobLocation": "All India (Central Govt)",
-    "totalVacanciesCount": "Refer to Notification"
-  },
-  {
     "id": "admit-card-up-board-class-10th-12th-time",
     "title": "UP Board Class 10th & 12th Time Table 2027",
     "category": "Admit Card",
-    "postDate": "2026-10-18",
+    "postDate": "2026-10-19",
     "shortInfo": "UP Board Class 10th & 12th Time Table 2027. Read notification for detailed information.",
     "applicationStart": "Available soon",
     "applicationLastDate": "Refer to notification",
@@ -708,77 +708,10 @@
     "totalVacanciesCount": "Refer to Notification"
   },
   {
-    "id": "latest-jobs-jssc-para-teacher-jtaacce-2026",
-    "title": "JSSC Para Teacher JTAACCE Recruitment 2026",
-    "category": "Latest Jobs",
-    "postDate": "2026-10-18",
-    "shortInfo": "JSSC Para Teacher JTAACCE Recruitment 2026. Read notification for detailed information.",
-    "applicationStart": "29 September 2026",
-    "applicationLastDate": "18 October 2026",
-    "feeLastDate": "18 October 2026",
-    "examDate": "Notify Later",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "Refer to Notification",
-      "scStPh": "Refer to Notification",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
-    },
-    "ageLimit": {
-      "min": "21 Years",
-      "max": "35 Years",
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "Intermediate Trained Assistant Teacher (Class 1-5)",
-        "totalPost": "2756 Posts",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Graduate Trained Assistant Teacher (Class 6-8) Language Knowledge",
-        "totalPost": "1887 Posts",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Graduate Trained Assistant Teacher (Class 6-8) Social Science",
-        "totalPost": "908 Posts",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Graduate Trained Assistant Teacher (Class 6-8) Science and Mathematics",
-        "totalPost": "1748 Posts",
-        "eligibility": "Refer to official notification details"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://jsscjtaacce.ibtexamination.com/",
-      "downloadNotification": "https://jssc.jharkhand.gov.in/notices/advertisement-regular-vacancy-jtaacce-2026-para-teacher",
-      "officialWebsite": "https://jssc.jharkhand.gov.in/",
-      "resultUrl": "http://sarkariresult.com.cm/wp-content/uploads/2026/01/JSSC-Kakshapal-Jail-Warder-Syllabus-Exam-Pattern-2026.pdf"
-    },
-    "status": "active",
-    "salary": "As per Government Rules / Pay Matrix",
-    "selectionProcess": [
-      "Written Competitive Examination",
-      "Interview / Demo Class (if applicable)",
-      "Document Verification (DV)"
-    ],
-    "howToApply": [
-      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
-      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
-      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
-      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
-      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
-      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
-    ],
-    "jobLocation": "Jharkhand",
-    "totalVacanciesCount": "7,299 Posts"
-  },
-  {
     "id": "latest-jobs-rrb-ntpc-10-2-ug-2026",
     "title": "RRB NTPC 10+2 UG Recruitment 2026",
     "category": "Latest Jobs",
-    "postDate": "2026-10-18",
+    "postDate": "2026-10-19",
     "shortInfo": "RRB NTPC 10+2 UG Recruitment 2026. Read notification for detailed information.",
     "applicationStart": "15 October 2026",
     "applicationLastDate": "13 November 2026",
@@ -829,47 +762,46 @@
     "totalVacanciesCount": "Refer to Notification"
   },
   {
-    "id": "latest-jobs-bpsc-school-teacher-tre-4-0",
-    "title": "BPSC School Teacher TRE 4.0 Recruitment 2026",
+    "id": "latest-jobs-hpsc-food-safety-officer-fso-2026",
+    "title": "HPSC Food Safety Officer (FSO) Recruitment 2026",
     "category": "Latest Jobs",
-    "postDate": "2026-10-18",
-    "shortInfo": "BPSC School Teacher TRE 4.0 Recruitment 2026. Read notification for detailed information.",
-    "applicationStart": "25 September 2026",
-    "applicationLastDate": "26 October 2026",
-    "feeLastDate": "26 October 2026",
+    "postDate": "2026-10-19",
+    "shortInfo": "HPSC Food Safety Officer (FSO) Recruitment 2026. Read notification for detailed information.",
+    "applicationStart": "28 September 2026",
+    "applicationLastDate": "19 October 2026",
+    "feeLastDate": "19 October 2026",
     "examDate": "Notify Later",
     "admitCardDate": "To be announced",
     "fees": {
       "generalObc": "Refer to Notification",
       "scStPh": "Refer to Notification",
-      "female": "42 Years (SC/ ST-Male & Female)",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:"
     },
     "ageLimit": {
       "min": "18 Years",
-      "max": "42 years",
+      "max": "42 Years",
       "relaxationText": "Age relaxation applies as per rules."
     },
     "vacancies": [
       {
-        "postName": "BPSC School Teacher TRE 4.0",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
+        "postName": "HPSC Food Safety Officer (FSO)",
+        "totalPost": "45",
+        "eligibility": "Refer to official notification details"
       }
     ],
     "importantLinks": {
-      "applyOnline": "https://bpsconline.bihar.gov.in/candidate/login",
-      "downloadNotification": "http://sarkariresult.com.cm/wp-content/uploads/2026/08/BPSC_TRE_4_NOTIFICATION_2026.pdf",
-      "officialWebsite": "http://www.bpsc.bih.nic.in/",
-      "syllabusUrl": "http://sarkariresult.com.cm/wp-content/uploads/2026/08/BPSC-School-Teacher-TRE-4.0-Syllabus-Exam-Pattern-2026.pdf",
+      "applyOnline": "https://regn.hpsc.gov.in/frontend/",
+      "downloadNotification": "https://hpsc.gov.in/Portals/0/Advt_25_2026_FSO_18_09_2026.pdf",
+      "officialWebsite": "https://hpsc.gov.in/en-us/",
       "resultUrl": "https://sarkariresult.com.cm/"
     },
     "status": "active",
     "salary": "As per Government Rules / Pay Matrix",
     "selectionProcess": [
-      "Written Competitive Examination",
-      "Interview / Demo Class (if applicable)",
-      "Document Verification (DV)"
+      "Written Examination (CBT / OMR)",
+      "Skill / Trade Test (if applicable)",
+      "Document Verification (DV)",
+      "Medical Examination (As per Rules)"
     ],
     "howToApply": [
       "Check your eligibility, educational qualifications, and age criteria from the official notification.",
@@ -879,14 +811,14 @@
       "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
       "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
     ],
-    "jobLocation": "Bihar",
-    "totalVacanciesCount": "Refer to Notification"
+    "jobLocation": "Haryana",
+    "totalVacanciesCount": "45 Posts"
   },
   {
     "id": "latest-jobs-upsssc-inter-12th-level-2026",
     "title": "UPSSSC Inter (12th) Level Recruitment 2026",
     "category": "Latest Jobs",
-    "postDate": "2026-10-18",
+    "postDate": "2026-10-19",
     "shortInfo": "UPSSSC Inter (12th) Level Recruitment 2026. Read notification for detailed information.",
     "applicationStart": "10 November 2026",
     "applicationLastDate": "01 December 2026",
@@ -993,10 +925,64 @@
     "totalVacanciesCount": "1,784 Posts"
   },
   {
+    "id": "latest-jobs-bpsc-school-teacher-tre-4-0",
+    "title": "BPSC School Teacher TRE 4.0 Recruitment 2026",
+    "category": "Latest Jobs",
+    "postDate": "2026-10-19",
+    "shortInfo": "BPSC School Teacher TRE 4.0 Recruitment 2026. Read notification for detailed information.",
+    "applicationStart": "25 September 2026",
+    "applicationLastDate": "26 October 2026",
+    "feeLastDate": "26 October 2026",
+    "examDate": "Notify Later",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "Refer to Notification",
+      "scStPh": "Refer to Notification",
+      "female": "42 Years (SC/ ST-Male & Female)",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "min": "18 Years",
+      "max": "42 years",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "BPSC School Teacher TRE 4.0",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://bpsconline.bihar.gov.in/candidate/login",
+      "downloadNotification": "http://sarkariresult.com.cm/wp-content/uploads/2026/08/BPSC_TRE_4_NOTIFICATION_2026.pdf",
+      "officialWebsite": "http://www.bpsc.bih.nic.in/",
+      "syllabusUrl": "http://sarkariresult.com.cm/wp-content/uploads/2026/08/BPSC-School-Teacher-TRE-4.0-Syllabus-Exam-Pattern-2026.pdf",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Written Competitive Examination",
+      "Interview / Demo Class (if applicable)",
+      "Document Verification (DV)"
+    ],
+    "howToApply": [
+      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
+      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
+      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
+      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
+      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
+      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
+    ],
+    "jobLocation": "Bihar",
+    "totalVacanciesCount": "Refer to Notification"
+  },
+  {
     "id": "latest-jobs-rrb-ntpc-graduate-level-2026",
     "title": "RRB NTPC Graduate Level Recruitment 2026",
     "category": "Latest Jobs",
-    "postDate": "2026-10-18",
+    "postDate": "2026-10-19",
     "shortInfo": "RRB NTPC Graduate Level Recruitment 2026. Read notification for detailed information.",
     "applicationStart": "08 October 2026",
     "applicationLastDate": "06 November 2026",
@@ -1062,46 +1048,47 @@
     "totalVacanciesCount": "3,548 Posts"
   },
   {
-    "id": "latest-jobs-hpsc-food-safety-officer-fso-2026",
-    "title": "HPSC Food Safety Officer (FSO) Recruitment 2026",
+    "id": "latest-jobs-upessc-prt-assistant-teacher-2026",
+    "title": "UPESSC PRT Assistant Teacher Recruitment 2026",
     "category": "Latest Jobs",
-    "postDate": "2026-10-18",
-    "shortInfo": "HPSC Food Safety Officer (FSO) Recruitment 2026. Read notification for detailed information.",
-    "applicationStart": "28 September 2026",
-    "applicationLastDate": "19 October 2026",
-    "feeLastDate": "19 October 2026",
-    "examDate": "Notify Later",
+    "postDate": "2026-10-19",
+    "shortInfo": "UPESSC PRT Assistant Teacher Recruitment 2026. Read notification for detailed information.",
+    "applicationStart": "16 September 2026",
+    "applicationLastDate": "28 October 2026 Extended",
+    "feeLastDate": "28 October 2026 Extended",
+    "examDate": "03 – 04 December 2026",
     "admitCardDate": "To be announced",
     "fees": {
       "generalObc": "Refer to Notification",
-      "scStPh": "Refer to Notification",
+      "scStPh": "₹ 500/-",
       "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:"
     },
     "ageLimit": {
-      "min": "18 Years",
-      "max": "42 Years",
+      "min": "21 Years",
+      "max": "40 years",
       "relaxationText": "Age relaxation applies as per rules."
     },
     "vacancies": [
       {
-        "postName": "HPSC Food Safety Officer (FSO)",
-        "totalPost": "45",
-        "eligibility": "Refer to official notification details"
+        "postName": "UPESSC PRT Assistant Teacher",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
       }
     ],
     "importantLinks": {
-      "applyOnline": "https://regn.hpsc.gov.in/frontend/",
-      "downloadNotification": "https://hpsc.gov.in/Portals/0/Advt_25_2026_FSO_18_09_2026.pdf",
-      "officialWebsite": "https://hpsc.gov.in/en-us/",
+      "applyOnline": "https://apply.upessc.org/",
+      "downloadNotification": "https://www.upessc.up.gov.in/Notice/a429-726e-4862-f3dc-8a6f.pdf",
+      "officialWebsite": "https://upessc.up.gov.in/",
+      "syllabusUrl": "https://www.upessc.up.gov.in/syllabus/837218cf-1d9a-4252-a08c-404719d1b9d9.pdf",
       "resultUrl": "https://sarkariresult.com.cm/"
     },
     "status": "active",
     "salary": "As per Government Rules / Pay Matrix",
     "selectionProcess": [
-      "Written Examination (CBT / OMR)",
-      "Skill / Trade Test (if applicable)",
+      "Computer Based Written Test (CBT)",
+      "Typing / Skill / Shorthand Test",
       "Document Verification (DV)",
-      "Medical Examination (As per Rules)"
+      "Final Merit List"
     ],
     "howToApply": [
       "Check your eligibility, educational qualifications, and age criteria from the official notification.",
@@ -1111,14 +1098,14 @@
       "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
       "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
     ],
-    "jobLocation": "Haryana",
-    "totalVacanciesCount": "45 Posts"
+    "jobLocation": "Uttar Pradesh",
+    "totalVacanciesCount": "Refer to Notification"
   },
   {
     "id": "answer-key-rrb-section-controller-answer-key-2026",
     "title": "RRB Section Controller Answer Key 2026",
     "category": "Answer Key",
-    "postDate": "2026-10-18",
+    "postDate": "2026-10-19",
     "shortInfo": "RRB Section Controller Answer Key 2026. Read notification for detailed information.",
     "applicationStart": "15 July 2026",
     "applicationLastDate": "14 August 2026 (23:59 PM)",
@@ -1172,7 +1159,7 @@
     "id": "answer-key-railway-rrb-technician-answer-key-2026",
     "title": "Railway RRB Technician Answer Key 2026",
     "category": "Answer Key",
-    "postDate": "2026-10-18",
+    "postDate": "2026-10-19",
     "shortInfo": "Railway RRB Technician Answer Key 2026. Read notification for detailed information.",
     "applicationStart": "30 June 2026",
     "applicationLastDate": "29 July 2026",
@@ -1226,7 +1213,7 @@
     "id": "answer-key-bihar-bpsc-apo-final-answer-key",
     "title": "Bihar BPSC APO Final Answer Key 2026",
     "category": "Answer Key",
-    "postDate": "2026-10-18",
+    "postDate": "2026-10-19",
     "shortInfo": "Bihar BPSC APO Final Answer Key 2026. Read notification for detailed information.",
     "applicationStart": "27 February 2026",
     "applicationLastDate": "20 March 2026",
@@ -1279,7 +1266,7 @@
     "id": "answer-key-ssc-selection-phase-14-answer-key",
     "title": "SSC Selection Phase 14 Answer Key 2026",
     "category": "Answer Key",
-    "postDate": "2026-10-18",
+    "postDate": "2026-10-19",
     "shortInfo": "SSC Selection Phase 14 Answer Key 2026. Read notification for detailed information.",
     "applicationStart": "13 April 2026",
     "applicationLastDate": "04 May 2026",
@@ -1332,7 +1319,7 @@
     "id": "answer-key-mpesb-group-2-sub-group-4",
     "title": "MPESB Group-2 Sub Group-4 Patwari Answer Key 2026",
     "category": "Answer Key",
-    "postDate": "2026-10-18",
+    "postDate": "2026-10-19",
     "shortInfo": "MPESB Group-2 Sub Group-4 Patwari Answer Key 2026. Read notification for detailed information.",
     "applicationStart": "04 August 2026",
     "applicationLastDate": "21 August 2026",
@@ -1386,7 +1373,7 @@
     "id": "answer-key-rajasthan-state-eligibility-test-set-answer",
     "title": "Rajasthan State Eligibility Test SET Answer Key 2026",
     "category": "Answer Key",
-    "postDate": "2026-10-18",
+    "postDate": "2026-10-19",
     "shortInfo": "Rajasthan State Eligibility Test SET Answer Key 2026. Read notification for detailed information.",
     "applicationStart": "14 June 2026",
     "applicationLastDate": "10 August 2026 Extended",
@@ -1436,7 +1423,7 @@
     "id": "syllabus-nielit-ccc-admit-card-2026",
     "title": "NIELIT CCC Online Form, Admit Card, Result 2026",
     "category": "Syllabus",
-    "postDate": "2026-10-18",
+    "postDate": "2026-10-19",
     "shortInfo": "NIELIT CCC Online Form, Admit Card, Result 2026. Read notification for detailed information.",
     "applicationStart": "January 2026",
     "applicationLastDate": "December 2026",
@@ -1489,7 +1476,7 @@
     "id": "syllabus-up-scholarship-2026-27",
     "title": "UP Scholarship Online Form 2026-27",
     "category": "Syllabus",
-    "postDate": "2026-10-18",
+    "postDate": "2026-10-19",
     "shortInfo": "UP Scholarship Online Form 2026-27. Read notification for detailed information.",
     "applicationStart": "22 July 2026",
     "applicationLastDate": "Refer to notification",
@@ -1539,7 +1526,7 @@
     "id": "syllabus-rajasthan-uttar-matric-scholarship-2026",
     "title": "Rajasthan Uttar Matric Scholarship 2026",
     "category": "Syllabus",
-    "postDate": "2026-10-18",
+    "postDate": "2026-10-19",
     "shortInfo": "Rajasthan Uttar Matric Scholarship 2026. Read notification for detailed information.",
     "applicationStart": "15 August 2026",
     "applicationLastDate": "31 October 2026",
@@ -1589,7 +1576,7 @@
     "id": "syllabus-aadhar-card-download-correction-status-2026",
     "title": "Aadhar Card Download, Correction, Status 2026",
     "category": "Syllabus",
-    "postDate": "2026-10-18",
+    "postDate": "2026-10-19",
     "shortInfo": "Aadhar Card Download, Correction, Status 2026. Read notification for detailed information.",
     "applicationStart": "Available soon",
     "applicationLastDate": "Refer to notification",
@@ -1639,7 +1626,7 @@
     "id": "syllabus-pan-card-correction-other-service-2026",
     "title": "PAN Card Registration, Correction & Other Service 2026",
     "category": "Syllabus",
-    "postDate": "2026-10-18",
+    "postDate": "2026-10-19",
     "shortInfo": "PAN Card Registration, Correction & Other Service 2026. Read notification for detailed information.",
     "applicationStart": "Already Start",
     "applicationLastDate": "Not Available",
@@ -1689,7 +1676,7 @@
     "id": "syllabus-up-income-cast-residential-verification-2026",
     "title": "UP Income, Cast, Residential Certificate Online Verification 2026",
     "category": "Syllabus",
-    "postDate": "2026-10-18",
+    "postDate": "2026-10-19",
     "shortInfo": "UP Income, Cast, Residential Certificate Online Verification 2026. Read notification for detailed information.",
     "applicationStart": "Already Start",
     "applicationLastDate": "Not Available",
@@ -1736,170 +1723,10 @@
     "totalVacanciesCount": "Refer to Notification"
   },
   {
-    "id": "admission-nta-niftee-2027",
-    "title": "NTA NIFTEE Admission Form 2027",
-    "category": "Admission",
-    "postDate": "2026-10-18",
-    "shortInfo": "NTA NIFTEE Admission Form 2027. Read notification for detailed information.",
-    "applicationStart": "16 October 2026",
-    "applicationLastDate": "16 November 2026 (with no late fee)",
-    "feeLastDate": "16 November 2026 (with no late fee)",
-    "examDate": "10 January 2027",
-    "admitCardDate": "To be announced",
-    "resultDate": "Will Be Updated Here Soon",
-    "fees": {
-      "generalObc": "Exempted / Not Applicable",
-      "scStPh": "₹ 750/-",
-      "paymentMode": "Online payment mode"
-    },
-    "ageLimit": {
-      "max": "24 Years (For B.Des & B.F.Tech)",
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "NTA NIFTEE Admission Form 2027",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://exams.nta.nic.in/niftee/",
-      "downloadNotification": "https://cdnbbsr.s3waas.gov.in/s388a839f2f6f1427879fc33ee4acf4f66/uploads/2026/10/20261016429881227.pdf",
-      "officialWebsite": "https://exams.nta.nic.in/niftee/",
-      "resultUrl": "https://sarkariresult.com.cm/"
-    },
-    "status": "active",
-    "salary": "As per Government Rules / Pay Matrix",
-    "selectionProcess": [
-      "Written Examination (CBT / OMR)",
-      "Skill / Trade Test (if applicable)",
-      "Document Verification (DV)",
-      "Medical Examination (As per Rules)"
-    ],
-    "howToApply": [
-      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
-      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
-      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
-      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
-      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
-      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
-    ],
-    "jobLocation": "All India (Central Govt)",
-    "totalVacanciesCount": "Refer to Notification"
-  },
-  {
-    "id": "admission-nta-ugc-net-jrf-december-2026",
-    "title": "NTA UGC NET JRF December Admission Form 2026",
-    "category": "Admission",
-    "postDate": "2026-10-18",
-    "shortInfo": "NTA UGC NET JRF December Admission Form 2026. Read notification for detailed information.",
-    "applicationStart": "Available soon",
-    "applicationLastDate": "Refer to notification",
-    "feeLastDate": "28 October 2026",
-    "examDate": "14 – 18 & 21 December 2026",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "Exempted / Not Applicable",
-      "scStPh": "Exempted / Not Applicable",
-      "paymentMode": "Online payment mode"
-    },
-    "ageLimit": {
-      "max": "30 Years (JRF)",
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "NTA UGC NET JRF December Admission Form 2026",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://examinationservices.nic.in/ExamSys27/root/home.aspx?enc=Ei4cajBkK1gZSfgr53ImFV/yIzhTZHBze3wooSg9DjjOvzupXmjixBOc0vZyJQ9v",
-      "downloadNotification": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/10/202610081928217016.pdf",
-      "officialWebsite": "https://ugcnet.nta.nic.in/",
-      "resultUrl": "https://sarkariresult.com.cm/"
-    },
-    "status": "active",
-    "salary": "As per Government Rules / Pay Matrix",
-    "selectionProcess": [
-      "Written Examination (CBT / OMR)",
-      "Skill / Trade Test (if applicable)",
-      "Document Verification (DV)",
-      "Medical Examination (As per Rules)"
-    ],
-    "howToApply": [
-      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
-      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
-      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
-      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
-      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
-      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
-    ],
-    "jobLocation": "All India (Central Govt)",
-    "totalVacanciesCount": "Refer to Notification"
-  },
-  {
-    "id": "admission-bihar-library-eligibility-test-blet-2026",
-    "title": "Bihar Library Eligibility Test BLET Online Form 2026",
-    "category": "Admission",
-    "postDate": "2026-10-18",
-    "shortInfo": "Bihar Library Eligibility Test BLET Online Form 2026. Read notification for detailed information.",
-    "applicationStart": "01 October 2026",
-    "applicationLastDate": "21 October 2026",
-    "feeLastDate": "21 October 2026",
-    "examDate": "19 November – 10 December 2026",
-    "admitCardDate": "Before Exam",
-    "resultDate": "Will Be Updated Here Soon",
-    "fees": {
-      "generalObc": "Exempted / Not Applicable",
-      "scStPh": "₹ 760/-",
-      "female": "42 Years (SC/ ST-Male & Female)",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
-    },
-    "ageLimit": {
-      "min": "21 Years",
-      "max": "42 Years (SC/ ST-Male & Female)",
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "Bihar Library Eligibility Test BLET Online Form 2026",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://sletregistration.cbrt.co.in/",
-      "downloadNotification": "http://sarkariresult.com.cm/wp-content/uploads/2026/10/SLET-2026-Advt-English.pdf",
-      "officialWebsite": "https://biharboardonline.com/",
-      "resultUrl": "https://sarkariresult.com.cm/"
-    },
-    "status": "active",
-    "salary": "As per Government Rules / Pay Matrix",
-    "selectionProcess": [
-      "Written Examination (CBT / OMR)",
-      "Skill / Trade Test (if applicable)",
-      "Document Verification (DV)",
-      "Medical Examination (As per Rules)"
-    ],
-    "howToApply": [
-      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
-      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
-      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
-      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
-      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
-      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
-    ],
-    "jobLocation": "Bihar",
-    "totalVacanciesCount": "Refer to Notification"
-  },
-  {
     "id": "admission-aibe-22th-2026",
     "title": "AIBE 22th Online Form 2026",
     "category": "Admission",
-    "postDate": "2026-10-18",
+    "postDate": "2026-10-19",
     "shortInfo": "AIBE 22th Online Form 2026. Read notification for detailed information.",
     "applicationStart": "19 August 2026",
     "applicationLastDate": "27 October 2026",
@@ -1952,7 +1779,7 @@
     "id": "admission-clat-2026",
     "title": "CLAT Admission Form 2026",
     "category": "Admission",
-    "postDate": "2026-10-18",
+    "postDate": "2026-10-19",
     "shortInfo": "CLAT Admission Form 2026. Read notification for detailed information.",
     "applicationStart": "03 August 2026",
     "applicationLastDate": "31 October 2026",
@@ -2002,10 +1829,170 @@
     "totalVacanciesCount": "Refer to Notification"
   },
   {
+    "id": "admission-nta-niftee-2027",
+    "title": "NTA NIFTEE Admission Form 2027",
+    "category": "Admission",
+    "postDate": "2026-10-19",
+    "shortInfo": "NTA NIFTEE Admission Form 2027. Read notification for detailed information.",
+    "applicationStart": "16 October 2026",
+    "applicationLastDate": "16 November 2026 (with no late fee)",
+    "feeLastDate": "16 November 2026 (with no late fee)",
+    "examDate": "10 January 2027",
+    "admitCardDate": "To be announced",
+    "resultDate": "Will Be Updated Here Soon",
+    "fees": {
+      "generalObc": "Exempted / Not Applicable",
+      "scStPh": "₹ 750/-",
+      "paymentMode": "Online payment mode"
+    },
+    "ageLimit": {
+      "max": "24 Years (For B.Des & B.F.Tech)",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "NTA NIFTEE Admission Form 2027",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://exams.nta.nic.in/niftee/",
+      "downloadNotification": "https://cdnbbsr.s3waas.gov.in/s388a839f2f6f1427879fc33ee4acf4f66/uploads/2026/10/20261016429881227.pdf",
+      "officialWebsite": "https://exams.nta.nic.in/niftee/",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Written Examination (CBT / OMR)",
+      "Skill / Trade Test (if applicable)",
+      "Document Verification (DV)",
+      "Medical Examination (As per Rules)"
+    ],
+    "howToApply": [
+      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
+      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
+      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
+      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
+      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
+      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
+    ],
+    "jobLocation": "All India (Central Govt)",
+    "totalVacanciesCount": "Refer to Notification"
+  },
+  {
+    "id": "admission-nta-ugc-net-jrf-december-2026",
+    "title": "NTA UGC NET JRF December Admission Form 2026",
+    "category": "Admission",
+    "postDate": "2026-10-19",
+    "shortInfo": "NTA UGC NET JRF December Admission Form 2026. Read notification for detailed information.",
+    "applicationStart": "Available soon",
+    "applicationLastDate": "Refer to notification",
+    "feeLastDate": "28 October 2026",
+    "examDate": "14 – 18 & 21 December 2026",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "Exempted / Not Applicable",
+      "scStPh": "Exempted / Not Applicable",
+      "paymentMode": "Online payment mode"
+    },
+    "ageLimit": {
+      "max": "30 Years (JRF)",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "NTA UGC NET JRF December Admission Form 2026",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://examinationservices.nic.in/ExamSys27/root/home.aspx?enc=Ei4cajBkK1gZSfgr53ImFV/yIzhTZHBze3wooSg9DjjOvzupXmjixBOc0vZyJQ9v",
+      "downloadNotification": "https://cdnbbsr.s3waas.gov.in/s301eee509ee2f68dc6014898c309e86bf/uploads/2026/10/202610081928217016.pdf",
+      "officialWebsite": "https://ugcnet.nta.nic.in/",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Written Examination (CBT / OMR)",
+      "Skill / Trade Test (if applicable)",
+      "Document Verification (DV)",
+      "Medical Examination (As per Rules)"
+    ],
+    "howToApply": [
+      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
+      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
+      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
+      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
+      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
+      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
+    ],
+    "jobLocation": "All India (Central Govt)",
+    "totalVacanciesCount": "Refer to Notification"
+  },
+  {
+    "id": "admission-bihar-library-eligibility-test-blet-2026",
+    "title": "Bihar Library Eligibility Test BLET Online Form 2026",
+    "category": "Admission",
+    "postDate": "2026-10-19",
+    "shortInfo": "Bihar Library Eligibility Test BLET Online Form 2026. Read notification for detailed information.",
+    "applicationStart": "01 October 2026",
+    "applicationLastDate": "21 October 2026",
+    "feeLastDate": "21 October 2026",
+    "examDate": "19 November – 10 December 2026",
+    "admitCardDate": "Before Exam",
+    "resultDate": "Will Be Updated Here Soon",
+    "fees": {
+      "generalObc": "Exempted / Not Applicable",
+      "scStPh": "₹ 760/-",
+      "female": "42 Years (SC/ ST-Male & Female)",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "min": "21 Years",
+      "max": "42 Years (SC/ ST-Male & Female)",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Bihar Library Eligibility Test BLET Online Form 2026",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://sletregistration.cbrt.co.in/",
+      "downloadNotification": "http://sarkariresult.com.cm/wp-content/uploads/2026/10/SLET-2026-Advt-English.pdf",
+      "officialWebsite": "https://biharboardonline.com/",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Written Examination (CBT / OMR)",
+      "Skill / Trade Test (if applicable)",
+      "Document Verification (DV)",
+      "Medical Examination (As per Rules)"
+    ],
+    "howToApply": [
+      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
+      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
+      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
+      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
+      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
+      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
+    ],
+    "jobLocation": "Bihar",
+    "totalVacanciesCount": "Refer to Notification"
+  },
+  {
     "id": "admission-nta-csir-ugc-net-december-2026",
     "title": "NTA CSIR UGC NET December Online Form 2026",
     "category": "Admission",
-    "postDate": "2026-10-18",
+    "postDate": "2026-10-19",
     "shortInfo": "NTA CSIR UGC NET December Online Form 2026. Read notification for detailed information.",
     "applicationStart": "Available soon",
     "applicationLastDate": "Refer to notification",
@@ -2052,6 +2039,73 @@
     ],
     "jobLocation": "All India (Central Govt)",
     "totalVacanciesCount": "Refer to Notification"
+  },
+  {
+    "id": "latest-jobs-jssc-para-teacher-jtaacce-2026",
+    "title": "JSSC Para Teacher JTAACCE Recruitment 2026",
+    "category": "Latest Jobs",
+    "postDate": "2026-10-18",
+    "shortInfo": "JSSC Para Teacher JTAACCE Recruitment 2026. Read notification for detailed information.",
+    "applicationStart": "29 September 2026",
+    "applicationLastDate": "18 October 2026",
+    "feeLastDate": "18 October 2026",
+    "examDate": "Notify Later",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "Refer to Notification",
+      "scStPh": "Refer to Notification",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "min": "21 Years",
+      "max": "35 Years",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Intermediate Trained Assistant Teacher (Class 1-5)",
+        "totalPost": "2756 Posts",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Graduate Trained Assistant Teacher (Class 6-8) Language Knowledge",
+        "totalPost": "1887 Posts",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Graduate Trained Assistant Teacher (Class 6-8) Social Science",
+        "totalPost": "908 Posts",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Graduate Trained Assistant Teacher (Class 6-8) Science and Mathematics",
+        "totalPost": "1748 Posts",
+        "eligibility": "Refer to official notification details"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://jsscjtaacce.ibtexamination.com/",
+      "downloadNotification": "https://jssc.jharkhand.gov.in/notices/advertisement-regular-vacancy-jtaacce-2026-para-teacher",
+      "officialWebsite": "https://jssc.jharkhand.gov.in/",
+      "resultUrl": "http://sarkariresult.com.cm/wp-content/uploads/2026/01/JSSC-Kakshapal-Jail-Warder-Syllabus-Exam-Pattern-2026.pdf"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Written Competitive Examination",
+      "Interview / Demo Class (if applicable)",
+      "Document Verification (DV)"
+    ],
+    "howToApply": [
+      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
+      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
+      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
+      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
+      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
+      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
+    ],
+    "jobLocation": "Jharkhand",
+    "totalVacanciesCount": "7,299 Posts"
   },
   {
     "id": "result-railway-rrb-technician-answer-key-2026",
@@ -2671,60 +2725,6 @@
     ],
     "jobLocation": "Uttar Pradesh",
     "totalVacanciesCount": "412 Posts"
-  },
-  {
-    "id": "latest-jobs-upessc-prt-assistant-teacher-2026",
-    "title": "UPESSC PRT Assistant Teacher Recruitment 2026",
-    "category": "Latest Jobs",
-    "postDate": "2026-10-16",
-    "shortInfo": "UPESSC PRT Assistant Teacher Recruitment 2026. Read notification for detailed information.",
-    "applicationStart": "16 September 2026",
-    "applicationLastDate": "28 October 2026 Extended",
-    "feeLastDate": "28 October 2026 Extended",
-    "examDate": "03 – 04 December 2026",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "Refer to Notification",
-      "scStPh": "₹ 500/-",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:"
-    },
-    "ageLimit": {
-      "min": "21 Years",
-      "max": "40 years",
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "UPESSC PRT Assistant Teacher",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://apply.upessc.org/",
-      "downloadNotification": "https://www.upessc.up.gov.in/Notice/a429-726e-4862-f3dc-8a6f.pdf",
-      "officialWebsite": "https://upessc.up.gov.in/",
-      "syllabusUrl": "https://www.upessc.up.gov.in/syllabus/837218cf-1d9a-4252-a08c-404719d1b9d9.pdf",
-      "resultUrl": "https://sarkariresult.com.cm/"
-    },
-    "status": "active",
-    "salary": "As per Government Rules / Pay Matrix",
-    "selectionProcess": [
-      "Computer Based Written Test (CBT)",
-      "Typing / Skill / Shorthand Test",
-      "Document Verification (DV)",
-      "Final Merit List"
-    ],
-    "howToApply": [
-      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
-      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
-      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
-      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
-      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
-      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
-    ],
-    "jobLocation": "Uttar Pradesh",
-    "totalVacanciesCount": "Refer to Notification"
   },
   {
     "id": "result-ssb-hc-ministerial-2026",

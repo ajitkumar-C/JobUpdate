@@ -364,6 +364,57 @@
     "totalVacanciesCount": "925 Posts"
   },
   {
+    "id": "admit-card-rrb-alp-cbat-city-details-2026",
+    "title": "RRB ALP CBAT Exam City Details 2026",
+    "category": "Admit Card",
+    "postDate": "2026-10-20",
+    "shortInfo": "RRB ALP CBAT Exam City Details 2026. Read notification for detailed information.",
+    "applicationStart": "12 April 2025",
+    "applicationLastDate": "19 May 2025",
+    "feeLastDate": "19 May 2025",
+    "examDate": "30 October 2026",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "Exempted / Not Applicable",
+      "scStPh": "Exempted / Not Applicable",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "min": "18 Years",
+      "max": "30 Years",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "RRB ALP CBAT Exam City Details 2026",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://www.rrbapply.gov.in/#/auth/landing",
+      "downloadNotification": "https://www.rrbkolkata.gov.in/file/Revised_CEN_01-2025_ALP.pdf",
+      "officialWebsite": "https://www.rrbapply.gov.in/#/auth/landing",
+      "admitCardUrl": "https://rrb.digialm.com//EForms/configuredHtml/33128/97789/login.html"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Download Online Admit Card / Hall Ticket",
+      "Appear for Written / Online Computer Based Test (CBT)",
+      "Check Answer Key & Result"
+    ],
+    "howToApply": [
+      "Click on the direct \"Download Admit Card / Hall Ticket\" link provided below.",
+      "Enter your Registration Number / Roll Number and Date of Birth (DOB) or Password.",
+      "Click on \"Submit\" or \"Login\" to view your Hall Ticket on screen.",
+      "Check all details thoroughly: Exam Center, Reporting Time, Shift, and Roll Number.",
+      "Download and print at least 2 clear copies of the Admit Card along with the official instructions."
+    ],
+    "jobLocation": "All India (Central Govt)",
+    "totalVacanciesCount": "Refer to Notification"
+  },
+  {
     "id": "admit-card-upsssc-pet-admit-card-2026",
     "title": "UPSSSC PET Admit Card 2026",
     "category": "Admit Card",
@@ -637,56 +688,57 @@
     "totalVacanciesCount": "1,121 Posts"
   },
   {
-    "id": "admit-card-rrb-junior-engineer-je-city-details",
-    "title": "RRB Junior Engineer JE Exam City Details 2026",
-    "category": "Admit Card",
+    "id": "latest-jobs-supreme-court-spa-2026",
+    "title": "Supreme Court SPA Recruitment 2026",
+    "category": "Latest Jobs",
     "postDate": "2026-10-20",
-    "shortInfo": "RRB Junior Engineer JE Exam City Details 2026. Read notification for detailed information.",
-    "applicationStart": "14 August 2026",
+    "shortInfo": "Supreme Court SPA Recruitment 2026. Read notification for detailed information.",
+    "applicationStart": "Available soon",
     "applicationLastDate": "Refer to notification",
     "feeLastDate": "Refer to notification",
-    "examDate": "Candidates can check the exam date by visiting their respective regional RRB website and opening the notification or notice related to CEN 04/2026.",
-    "admitCardDate": "Before Exam",
+    "examDate": "Notify Later",
+    "admitCardDate": "To be announced",
+    "resultDate": "Will Be Updated Here Soon",
     "fees": {
-      "generalObc": "General / OBC : Rs. 400/- will be refunded and Other candidates : Rs. 250/- will be refunded to the bank account after appearing in Stage I Exam.",
-      "scStPh": "₹ 250/-",
-      "female": "₹ 250/-",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+      "generalObc": "Refer to Notification",
+      "scStPh": "₹ 750/-",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:"
     },
     "ageLimit": {
       "min": "18 Years",
-      "max": "33 years",
+      "max": "30 years",
       "relaxationText": "Age relaxation applies as per rules."
     },
     "vacancies": [
       {
-        "postName": "RRB Junior Engineer JE Exam City Details 2026",
+        "postName": "Supreme Court SPA",
         "totalPost": "Refer to Notification",
         "eligibility": "See official guidelines"
       }
     ],
     "importantLinks": {
-      "applyOnline": "https://www.rrbapply.gov.in/#/auth/landing",
-      "downloadNotification": "https://rrb.indianrailways.gov.in/-/image/1786627574998CEN_04_2026_JE_DMS_English.pdf/examsDocuments",
-      "officialWebsite": "https://indianrailways.gov.in/",
-      "syllabusUrl": "http://sarkariresult.com.cm/wp-content/uploads/2025/10/04_14_24pm142384bf87cab8ba2918a287b376265c-19-23.pdf",
+      "applyOnline": "https://cdn3.digialm.com/EForms/configuredHtml/32912/102864/14v7jBxcoPI08LH2vw/Index.html",
+      "downloadNotification": "https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2026/10/2026101325.pdf",
+      "officialWebsite": "https://www.sci.gov.in/recruitments/",
       "resultUrl": "https://sarkariresult.com.cm/"
     },
     "status": "active",
     "salary": "As per Government Rules / Pay Matrix",
     "selectionProcess": [
-      "Download Online Admit Card / Hall Ticket",
-      "Appear for Written / Online Computer Based Test (CBT)",
-      "Check Answer Key & Result"
+      "Written Examination (CBT / OMR)",
+      "Skill / Trade Test (if applicable)",
+      "Document Verification (DV)",
+      "Medical Examination (As per Rules)"
     ],
     "howToApply": [
-      "Click on the direct \"Download Admit Card / Hall Ticket\" link provided below.",
-      "Enter your Registration Number / Roll Number and Date of Birth (DOB) or Password.",
-      "Click on \"Submit\" or \"Login\" to view your Hall Ticket on screen.",
-      "Check all details thoroughly: Exam Center, Reporting Time, Shift, and Roll Number.",
-      "Download and print at least 2 clear copies of the Admit Card along with the official instructions."
+      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
+      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
+      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
+      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
+      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
+      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
     ],
-    "jobLocation": "All India (Central Govt)",
+    "jobLocation": "All India / State-Wise",
     "totalVacanciesCount": "Refer to Notification"
   },
   {
@@ -1018,59 +1070,6 @@
       "Typing / Skill / Shorthand Test",
       "Document Verification (DV)",
       "Final Merit List"
-    ],
-    "howToApply": [
-      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
-      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
-      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
-      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
-      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
-      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
-    ],
-    "jobLocation": "Uttar Pradesh",
-    "totalVacanciesCount": "Refer to Notification"
-  },
-  {
-    "id": "latest-jobs-up-pgt-teacher-correction-edit-2026",
-    "title": "UP PGT Teacher Correction / Edit Form 2026",
-    "category": "Latest Jobs",
-    "postDate": "2026-10-20",
-    "shortInfo": "UP PGT Teacher Correction / Edit Form 2026. Read notification for detailed information.",
-    "applicationStart": "18 September 2026",
-    "applicationLastDate": "17 October 2026",
-    "feeLastDate": "17 October 2026",
-    "examDate": "15 – 16 December 2026",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "Refer to Notification",
-      "scStPh": "₹ 750/-",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:"
-    },
-    "ageLimit": {
-      "min": "21 Years",
-      "max": "62 years",
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "UP PGT Teacher Correction / Edit Form 2026",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://apply.upessc.org/",
-      "downloadNotification": "https://www.upessc.up.gov.in/Notice/b9ce-e9ff-48c3-10f9-4b52.pdf",
-      "officialWebsite": "https://upessc.up.gov.in/",
-      "syllabusUrl": "https://www.upessc.up.gov.in/Home/Syllabus_all",
-      "resultUrl": "https://sarkariresult.com.cm/"
-    },
-    "status": "active",
-    "salary": "As per Government Rules / Pay Matrix",
-    "selectionProcess": [
-      "Written Competitive Examination",
-      "Interview / Demo Class (if applicable)",
-      "Document Verification (DV)"
     ],
     "howToApply": [
       "Check your eligibility, educational qualifications, and age criteria from the official notification.",
@@ -2020,6 +2019,112 @@
       "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
     ],
     "jobLocation": "All India (Central Govt)",
+    "totalVacanciesCount": "Refer to Notification"
+  },
+  {
+    "id": "admit-card-rrb-junior-engineer-je-city-details",
+    "title": "RRB Junior Engineer JE Exam City Details 2026",
+    "category": "Admit Card",
+    "postDate": "2026-10-20",
+    "shortInfo": "RRB Junior Engineer JE Exam City Details 2026. Read notification for detailed information.",
+    "applicationStart": "14 August 2026",
+    "applicationLastDate": "Refer to notification",
+    "feeLastDate": "Refer to notification",
+    "examDate": "Candidates can check the exam date by visiting their respective regional RRB website and opening the notification or notice related to CEN 04/2026.",
+    "admitCardDate": "Before Exam",
+    "fees": {
+      "generalObc": "General / OBC : Rs. 400/- will be refunded and Other candidates : Rs. 250/- will be refunded to the bank account after appearing in Stage I Exam.",
+      "scStPh": "₹ 250/-",
+      "female": "₹ 250/-",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "min": "18 Years",
+      "max": "33 years",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "RRB Junior Engineer JE Exam City Details 2026",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://www.rrbapply.gov.in/#/auth/landing",
+      "downloadNotification": "https://rrb.indianrailways.gov.in/-/image/1786627574998CEN_04_2026_JE_DMS_English.pdf/examsDocuments",
+      "officialWebsite": "https://indianrailways.gov.in/",
+      "syllabusUrl": "http://sarkariresult.com.cm/wp-content/uploads/2025/10/04_14_24pm142384bf87cab8ba2918a287b376265c-19-23.pdf",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Download Online Admit Card / Hall Ticket",
+      "Appear for Written / Online Computer Based Test (CBT)",
+      "Check Answer Key & Result"
+    ],
+    "howToApply": [
+      "Click on the direct \"Download Admit Card / Hall Ticket\" link provided below.",
+      "Enter your Registration Number / Roll Number and Date of Birth (DOB) or Password.",
+      "Click on \"Submit\" or \"Login\" to view your Hall Ticket on screen.",
+      "Check all details thoroughly: Exam Center, Reporting Time, Shift, and Roll Number.",
+      "Download and print at least 2 clear copies of the Admit Card along with the official instructions."
+    ],
+    "jobLocation": "All India (Central Govt)",
+    "totalVacanciesCount": "Refer to Notification"
+  },
+  {
+    "id": "latest-jobs-up-pgt-teacher-correction-edit-2026",
+    "title": "UP PGT Teacher Correction / Edit Form 2026",
+    "category": "Latest Jobs",
+    "postDate": "2026-10-20",
+    "shortInfo": "UP PGT Teacher Correction / Edit Form 2026. Read notification for detailed information.",
+    "applicationStart": "18 September 2026",
+    "applicationLastDate": "17 October 2026",
+    "feeLastDate": "17 October 2026",
+    "examDate": "15 – 16 December 2026",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "Refer to Notification",
+      "scStPh": "₹ 750/-",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:"
+    },
+    "ageLimit": {
+      "min": "21 Years",
+      "max": "62 years",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "UP PGT Teacher Correction / Edit Form 2026",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://apply.upessc.org/",
+      "downloadNotification": "https://www.upessc.up.gov.in/Notice/b9ce-e9ff-48c3-10f9-4b52.pdf",
+      "officialWebsite": "https://upessc.up.gov.in/",
+      "syllabusUrl": "https://www.upessc.up.gov.in/Home/Syllabus_all",
+      "resultUrl": "https://sarkariresult.com.cm/"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Written Competitive Examination",
+      "Interview / Demo Class (if applicable)",
+      "Document Verification (DV)"
+    ],
+    "howToApply": [
+      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
+      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
+      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
+      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
+      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
+      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
+    ],
+    "jobLocation": "Uttar Pradesh",
     "totalVacanciesCount": "Refer to Notification"
   },
   {

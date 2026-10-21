@@ -1,5 +1,145 @@
 [
   {
+    "id": "up-lic hfl-apprentice",
+    "title": "LIC HFL Recruitment 2026 – Apprentice Posts",
+    "shortInfo": "LIC HFL has announced notification for Apprentice posts. Required qualification: Graduation in any stream. Last date to apply: 01-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "232",
+    "lastDate": "01-11-26",
+    "officialWebsite": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
+    "notificationLink": "https://cdn.lichousing.com/2026/10/Apprentecis-Advertisement-Notification-Batch-10.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-10-21",
+    "fees": [
+      {
+        "category": "Scheduled Caste (SC) / Scheduled Tribe (ST) candidates",
+        "fee": "Rs. 200/- plus GST"
+      },
+      {
+        "category": "Person with Benchmark Disability (PwBD) candidates",
+        "fee": "Rs. 200/- plus GST"
+      },
+      {
+        "category": "General, EWS and Other Backward Class (OBC) - Male candidates",
+        "fee": "Rs. 800/- plus GST"
+      },
+      {
+        "category": "General, EWS and Other Backward Class (OBC) - Female / Transgender candidates",
+        "fee": "Rs. 600/- plus GST"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Application Start Date",
+        "date": "20/10/2026"
+      },
+      {
+        "event": "Last Date to Apply & Pay Examination Fee",
+        "date": "01/11/2026"
+      },
+      {
+        "event": "Entrance Examination Date",
+        "date": "07/11/2026"
+      },
+      {
+        "event": "Document Verification & Personal Interview",
+        "date": "15/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must first mandatorily register themselves on the NATS portal (https://nats.education.gov.in) by navigating to the ‘Student Register/Login’ section.",
+      "After registration, candidates will receive an email from BFSI SSC inviting them to fill up a detailed application and make payment for the Online Examination for ‘LIC HFL Apprenticeship Program’.",
+      "Visit https://beep.bfsissc.com to submit additional information and make the examination fee payment before 01-Nov-2026.",
+      "Note your Enrolment ID issued by the NATS portal for all future correspondence.",
+      "All eligible applicants who have paid the examination fee will receive an online examination link and login credentials from BFSI SSC on the day before the examination date.",
+      "Appear for the online remote proctored examination on 07-Nov-2026 from home using a camera-enabled device with good internet connectivity.",
+      "Shortlisted candidates will be invited for Document Verification &amp; Personal Interview at LIC HFL offices on 15-Nov-2026.",
+      "Final selected candidates will receive engagement letters from LIC HFL tentatively in the 3rd week of November."
+    ]
+  },
+  {
+    "id": "up-gims-medical-superintendent",
+    "title": "GIMS Recruitment 2026 – Medical Superintendent Posts",
+    "shortInfo": "GIMS has announced notification for Medical Superintendent posts. Required qualification: MBBS. Last date to apply: 30-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "30-10-26",
+    "officialWebsite": "https://www.gims.ac.in/assets/pdf/Notices/MS%20Contractual%20Advertisement%20details%20-%20Copy%20(2).pdf",
+    "notificationLink": "https://www.gims.ac.in/assets/pdf/Notices/MS%20Contractual%20Advertisement%20details%20-%20Copy%20(2).pdf",
+    "applyOnlineLink": "https://www.gims.ac.in/assets/pdf/Notices/MS%20Contractual%20Advertisement%20details%20-%20Copy%20(2).pdf",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-10-21"
+  },
+  {
+    "id": "up-becil-advisor",
+    "title": "BECIL Recruitment 2026 – Advisor Posts",
+    "shortInfo": "BECIL has announced notification for Advisor posts. Required qualification: B.Tech/B.E. Last date to apply: 02-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "02-11-26",
+    "officialWebsite": "https://www.becil.com/uploads/topics/17924098715995.pdf",
+    "notificationLink": "https://www.becil.com/uploads/topics/17924098715995.pdf",
+    "applyOnlineLink": "https://www.becil.com/uploads/topics/17924098715995.pdf",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-10-21"
+  },
+  {
+    "id": "up-csir nbri-project-assistant-ii-project-associate-i-more",
+    "title": "CSIR NBRI Recruitment 2026 – Project Assistant-II, Project Associate-I, More Posts",
+    "shortInfo": "CSIR NBRI has announced notification for Project Assistant-II, Project Associate-I, More posts. Required qualification: Diploma, B.Tech/B.E, Any Graduate, M.Phil/Ph.D. Last date to apply: 27-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "7",
+    "lastDate": "27-10-26",
+    "officialWebsite": "https://nbri.res.in/uploads/RecruitmentFile/1792413068.pdf",
+    "notificationLink": "https://nbri.res.in/uploads/RecruitmentFile/1792413068.pdf",
+    "applyOnlineLink": "https://nbri.res.in/uploads/RecruitmentFile/1792413068.pdf",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-10-21"
+  },
+  {
+    "id": "up-icsil-firemen",
+    "title": "ICSIL Recruitment 2026 – Firemen Posts",
+    "shortInfo": "ICSIL has announced notification for Firemen posts. Required qualification: 12TH. Last date to apply: 25-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "3",
+    "lastDate": "25-10-26",
+    "officialWebsite": "https://icsil.in/app/uploads/advertisement/CRIH_(Firemen)_ONLINE.pdf",
+    "notificationLink": "https://icsil.in/app/uploads/advertisement/CRIH_(Firemen)_ONLINE.pdf",
+    "applyOnlineLink": "https://icsil.in/app/uploads/advertisement/CRIH_(Firemen)_ONLINE.pdf",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-10-21"
+  },
+  {
     "id": "up-sgpgims-senior-resident-junior-resident-walk-in-",
     "title": "SGPGIMS Recruitment 2026 – Senior Resident, Junior Resident (Walk-in) Posts",
     "shortInfo": "SGPGIMS has announced notification for Senior Resident, Junior Resident (Walk-in) posts. Required qualification: -. Last date to apply: 30-102-26.",
@@ -14,7 +154,7 @@
     "applyOnlineLink": "https://sgpgims.org.in/Home/recruit/sr/2026/17.10.2026_SRHS%20JRNA%20Rolling%20Advt_171026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-bhel-fitter-welder-turner-machinist-electrician-electro",
@@ -28,10 +168,10 @@
     "lastDate": "18-11-26",
     "officialWebsite": "https://careers.bhel.in",
     "notificationLink": "https://careers.bhel.in/ar_2027/Artisan_Detailed%20AD.pdf",
-    "applyOnlineLink": "https://careers.bhel.in/ar_2027/BHEL%20Exam%20Pattern.pdf",
+    "applyOnlineLink": "https://cdn.digialm.com/EForms/configuredHtml/33192/102813/o0zKIYO3CqWa8uMPmN/login.html",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "UR/EWS/OBC",
@@ -134,7 +274,7 @@
     "applyOnlineLink": "https://www.iitk.ac.in/dord/project/mse-pa-I-14-10-26.html",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-lucknow university-young-professional-amp-research-assistant",
@@ -151,7 +291,7 @@
     "applyOnlineLink": "https://lkouniv.ac.in/site/writereaddata/siteContent/202610161709475976CDPR%20Advertisement%20Final.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-exim bank-business-development-officer-last-date-extended-",
@@ -168,7 +308,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/exim-bank-business-development-officer-recruitment-2026/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "Fee",
@@ -214,7 +354,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/upsssc-inter-level-recruitment-2026/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "Unreserved (General)",
@@ -362,7 +502,7 @@
     "applyOnlineLink": "https://sgpgims.org.in/Home/recruit/sr/2026/PDF%20Rolling%20Advt%2016.10.2026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-auraiya district court-stenographer-and-more-senior-assistant",
@@ -379,7 +519,7 @@
     "applyOnlineLink": "https://www.allahabadhighcourt.in/event/event_27288_16-10-2026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-rmlau-junior-research-assistant",
@@ -396,7 +536,7 @@
     "applyOnlineLink": "https://www.rmlau.ac.in/news/RMLCareer_151026072850.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-sgpgims-project-research-scientist-i",
@@ -413,7 +553,7 @@
     "applyOnlineLink": "https://sgpgims.org.in/Home/recruit/Project/2026/Proj_Hemato_DrCPChaturvedi_161026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-amu-senior-resident",
@@ -430,7 +570,7 @@
     "applyOnlineLink": "https://api.amu.ac.in/storage/file/8003/jobs/1792126493.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-upmrc-project-director",
@@ -447,7 +587,7 @@
     "applyOnlineLink": "https://upmrcl-media.s3.amazonaws.com/media/documents/Notification-Project_Director_rotated_YZ0HoAu.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-dlsa bijnor-peon",
@@ -464,7 +604,7 @@
     "applyOnlineLink": "https://www.allahabadhighcourt.in/event/event_27275_15-10-2026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-aiims gorakhpur-assistant-professor-professor",
@@ -481,7 +621,7 @@
     "applyOnlineLink": "https://aiimsgorakhpur.edu.in/wp-content/uploads/2026/10/2nd-Rolling-Faculty-Advertisment.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-esic hospital sahibabad-senior-resident-super-specialist-specialist-walk-i",
@@ -498,7 +638,7 @@
     "applyOnlineLink": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_interview_on_26th_and_27th_October_2026_for_the_recruitment_of_Full_Time_Part_Time_Super_Specialist_Full_Time_Part_Time_Specialist_and_Senior_Residents_under_03_Years_Residency_Scheme_on_contract_basis_at_ESIC_1792061749.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-family court pratapgarh-counselor",
@@ -515,7 +655,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec05abdeb6f575ac5c6676b747bca8d0/uploads/2026/10/2026101475.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-vvgnli-research-associate",
@@ -532,7 +672,7 @@
     "applyOnlineLink": "https://vvgnli.gov.in/sites/default/files/2026-10/RG_Advertisement_RA_14.10.26.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-up kasganj anganwadi-anganwadi-worker",
@@ -549,7 +689,7 @@
     "applyOnlineLink": "https://upanganwadibharti.in/workernew/uploadOrder/ordercopy_1791979147_52412659.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-district court bijnor-junior-assistant",
@@ -566,7 +706,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec05291d43c696d8c3704cdbe0a72ade/uploads/2026/10/2026101440.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-rdso-senior-section-engineer",
@@ -583,7 +723,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/rdso-senior-section-engineer-recruitment-2026/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "Fee",
@@ -641,7 +781,7 @@
     "applyOnlineLink": "https://www.bbau.ac.in/Docs/Career/Project/Advt..pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-gbu-associate-professor-professor-assistant-professor",
@@ -658,7 +798,7 @@
     "applyOnlineLink": "https://www.gbu.ac.in/Content/gbudata/jobs/Detailed%20Adv%20for%20Website-14-10-2026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-mnnit allahabad-research-associate-senior-research-assistant-junio",
@@ -675,7 +815,7 @@
     "applyOnlineLink": "https://mnnit.ac.in/images/newstories/2026/Project_Project/Adverisement_UP_CST_1.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-cmo banda-specialist-medical-officer",
@@ -692,7 +832,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s326657d5ff9020d2abefe558796b99584/uploads/2026/10/17919582182905.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-hathras district court-group-iv-stenographer-group-iii",
@@ -709,7 +849,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec050141a8aedb1b53970fac7c81dac7/uploads/2024/01/2026101317.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-dlsa sant kabir nagar-mediator",
@@ -726,7 +866,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0473231e53eeef362c814c8522f525/uploads/2026/10/2026101336.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-uco bank-apprentice",
@@ -743,7 +883,7 @@
     "applyOnlineLink": "https://beep.bfsissc.com/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "SC/ST candidates",
@@ -815,7 +955,7 @@
     "applyOnlineLink": "https://igrua.gov.in/sites/default/files/EM%20adver.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-sgpgims-project-technical-support-iii",
@@ -832,7 +972,7 @@
     "applyOnlineLink": "https://sgpgims.org.in/Home/recruit/Project/2026/Proj_Hemato_DrKulwant_131026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-tmc-fellow",
@@ -849,7 +989,7 @@
     "applyOnlineLink": "https://tmc.gov.in/postmaster/ViewFile?FileId=WgNzrQjc/I8i5B2mZ775uw==",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-ordnance factory hazratpur-doctor",
@@ -866,7 +1006,7 @@
     "applyOnlineLink": "https://ddpdoo.gov.in/storage/document/6accc3df6c10d.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-aiims raebareli-project-technical-support-iii-project-nurse-i",
@@ -883,7 +1023,7 @@
     "applyOnlineLink": "https://aiimsrbl.edu.in/recruitments%5Cdownload%5C126",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-mnnit allahabad-part-time-general-duty-doctors",
@@ -900,7 +1040,7 @@
     "applyOnlineLink": "https://mnnit.ac.in/images/newstories/2026/JobMnnit/Advt_for_Part_Time_General_Duty_Doctors_dated_12.10.2026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-upsssc-junior-engineer-electrical-technical-assistant-ele",
@@ -917,7 +1057,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/upsssc-je-recruitment-2026/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "Unreserved (General)",
@@ -1088,7 +1228,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/upsssc-je-ae-mechanic-recruitment-2026/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "Unreserved (General)",
@@ -1211,7 +1351,7 @@
     "applyOnlineLink": "https://iitbhu.ac.in/contents/institute/2026/project/noti_cse_lorawan.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-lucknow university-junior-research-assistant",
@@ -1228,7 +1368,7 @@
     "applyOnlineLink": "https://lkouniv.ac.in/site/writereaddata/siteContent/202610121122183916Advertisement_121026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-upcar-stenographer-accounts-clerk-and-more",
@@ -1245,7 +1385,7 @@
     "applyOnlineLink": "https://onlineupcar.com/Advt_UPCAR_REC_03_2026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-sgpgims-clinical-research-coordinator",
@@ -1262,7 +1402,7 @@
     "applyOnlineLink": "https://sgpgims.org.in/Home/recruit/Project/2026/Proj_Neuro_Dr.JKalita.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-echs bareilly-medical-officer-gynecologist",
@@ -1279,7 +1419,7 @@
     "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Bareilly%20on%2021%20Oct%202026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-allahabad university-junior-research-fellow",
@@ -1296,7 +1436,7 @@
     "applyOnlineLink": "https://www.allduniv.ac.in/upload/file_collection/advertisement_JRF_Monsoon_Misson_project.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-vvgnli-fellow",
@@ -1313,7 +1453,7 @@
     "applyOnlineLink": "https://vvgnli.gov.in/sites/default/files/2026-10/Advt.%20-%20Fellow_1.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-rgipt-registrar-finance-officer",
@@ -1330,7 +1470,7 @@
     "applyOnlineLink": "https://www.rgipt.ac.in/site/writereaddata/siteContent/202610011303374733RGIPT-NTS-October%202026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-dlsa moradabad-para-legal-volunteer",
@@ -1347,7 +1487,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec05d87ca511e2a8593c8039ef732f5b/uploads/2026/10/2026100524.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-iwai-section-officer",
@@ -1364,7 +1504,7 @@
     "applyOnlineLink": "https://iwai.gov.in/sites/default/files/2026-10/emp._notice_of_section_officer_2026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-lucknow university-subject-expert",
@@ -1381,7 +1521,7 @@
     "applyOnlineLink": "https://lkouniv.ac.in/site/writereaddata/siteContent/202610081746082339VACANCY_081026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-mjpru-assistant-professor",
@@ -1398,7 +1538,7 @@
     "applyOnlineLink": "https://mjpru.ac.in/NoticeBoard/Vacancy/2026/WalInterview07102026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-igrua-ground-instructor",
@@ -1415,7 +1555,7 @@
     "applyOnlineLink": "https://igrua.gov.in/sites/default/files/Revised_QR_GI%20(Air%20Regs).pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-bbau-young-professional-ii",
@@ -1432,7 +1572,7 @@
     "applyOnlineLink": "https://www.bbau.ac.in/Docs/Career/Project/walkinterview.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-iit (bhu) varanasi-project-assistant-junior-research-fellow-jrf-proje",
@@ -1449,7 +1589,7 @@
     "applyOnlineLink": "https://iitbhu.ac.in/contents/institute/2026/project/project_civ_slcr.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-up anganwadi moradabad-anganwadi-helper",
@@ -1466,7 +1606,7 @@
     "applyOnlineLink": "https://upanganwadibharti.in/workernew/users/registration.php",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "Fee",
@@ -1513,7 +1653,7 @@
     "applyOnlineLink": "https://ddpdoo.gov.in/storage/document/6ac732b240220.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-up moradabad anganwadi-anganwadi-worker",
@@ -1530,7 +1670,7 @@
     "applyOnlineLink": "https://upanganwadibharti.in/workernew/users/registration.php",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "Fee",
@@ -1577,7 +1717,7 @@
     "applyOnlineLink": "https://halstb.formflix.com/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "UR/OBC-NCL/EWS",
@@ -1689,7 +1829,7 @@
     "applyOnlineLink": "https://ner.indianrailways.gov.in/uploads/files/1791289855389-SG%20Notification%20Eng%202026-27.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-npcil-ca-cma-intern",
@@ -1706,7 +1846,7 @@
     "applyOnlineLink": "https://www.npcilcareers.co.in/HQCA20260610/candidate/Default.aspx",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "All Categories",
@@ -1814,7 +1954,7 @@
     "applyOnlineLink": "https://www.sainikschoolmainpuri.com/files/news/NEWS_20261005_6ac3910bedb36.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-iim lucknow-research-associate",
@@ -1831,7 +1971,7 @@
     "applyOnlineLink": "https://www.iiml.ac.in/sites/default/files/upload/jobs/503891908Advertisement_RA_2026_sept.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-amu-assistant-professor",
@@ -1848,7 +1988,7 @@
     "applyOnlineLink": "https://api.amu.ac.in/storage/file/10169/notice-and-circular/1791271778.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-iit (bhu) varanasi-project-research-scientist-i",
@@ -1865,7 +2005,7 @@
     "applyOnlineLink": "https://iitbhu.ac.in/contents/institute/2026/project/project_prs_phe_novel.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-cdac-project-associate-project-engineer-senior-project-",
@@ -1882,7 +2022,7 @@
     "applyOnlineLink": "https://careers.cdac.in/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "All Categories",
@@ -2009,7 +2149,7 @@
     "applyOnlineLink": "https://csjmurec.samarth.edu.in/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "General/OBC/EWS/UR",
@@ -2068,7 +2208,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec01f0031c7a91d74015a9addfbc589f/uploads/2026/10/2026100199.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-upsssc-regional-youth-welfare-and-provincial-development-",
@@ -2085,7 +2225,7 @@
     "applyOnlineLink": "https://upsssc.gov.in/AllNotifications.aspx",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "Unreserved (General)",
@@ -2182,7 +2322,7 @@
     "applyOnlineLink": "https://upanganwadibharti.in/workernew/uploadOrder/ordercopy_1790765630_c3e6e85e.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-upsssc-groundsman-and-more-assistant-coach",
@@ -2199,7 +2339,7 @@
     "applyOnlineLink": "https://upsssc.gov.in/AllNotifications.aspx",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "Unreserved (General)",
@@ -2372,7 +2512,7 @@
     "applyOnlineLink": "https://rrcgdce.etrpindia.com/rrc-gdce-prayagraj/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "Fee",
@@ -2618,7 +2758,7 @@
     "applyOnlineLink": "https://iitbhu.ac.in/contents/institute/2026/project/project_director_dia_coe_30sep_2026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-nsi-foreman-electrical-",
@@ -2635,7 +2775,7 @@
     "applyOnlineLink": "https://nsi.gov.in/storage/files/1/Vacancies/Vacancy_circular_Foreman(Electrical)_Deputation_29092026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-bel-sr-asst-engineer",
@@ -2652,7 +2792,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/bel-sr-assistant-engineer-recruitment-2026/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "Ex-Servicemen",
@@ -2712,7 +2852,7 @@
     "applyOnlineLink": "https://upanganwadibharti.in/helper-v2/uploadOrder/ordercopy1790596741.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-csjmu-associate-professor-professor-assistant-professor",
@@ -2729,7 +2869,7 @@
     "applyOnlineLink": "https://csjmu.ac.in/wp-content/uploads/docs/2026/09/980.-Advertisement-For-Teaching-post.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-rgnau-junior-technical-superintendent",
@@ -2746,7 +2886,7 @@
     "applyOnlineLink": "https://rgnau.ac.in/sites/default/files/inline-files/Engagement%20of%20Junior%20Technical%20Superintendent-Advt.%2023.09.2026_2.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-shravasti family court-counselor",
@@ -2763,7 +2903,7 @@
     "applyOnlineLink": "https://www.allahabadhighcourt.in/event/event_26922_19-09-2026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-amethi district-part-time-yoga-instructor",
@@ -2780,7 +2920,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3cfa0860e83a4c3a763a7e62d825349f7/uploads/2026/09/17896322959679.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-iit kanpur-assistant-professor",
@@ -2797,7 +2937,7 @@
     "applyOnlineLink": "https://www.iitk.ac.in/dofa/special-recruitment-drive-2026-001",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-upessc-lecturer-pgt-",
@@ -2814,7 +2954,7 @@
     "applyOnlineLink": "https://apply.upessc.org/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "General/Unreserved/OBC/EWS and Others",
@@ -3061,7 +3201,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/up-prt-bharti-2026/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "General/Unreserved/OBC/EWS and Others",
@@ -3155,7 +3295,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec02e8258e5140317ff36c7f8225a3bf/uploads/2026/08/2026082516.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-rgnau-visiting-medical-consultant-visiting-health-inspec",
@@ -3172,7 +3312,7 @@
     "applyOnlineLink": "https://rgnau.ac.in/sites/default/files/inline-files/Notification%20for%20Visiting%20Medical%20Consultant%20%26%20Visiting%20Health%20Inspector%20-%2003.09.2026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-bbau-more-professor-assistant-professor",
@@ -3189,7 +3329,7 @@
     "applyOnlineLink": "https://www.bbau.ac.in/Docs/Career/teaching26/ADVERTISEMENT-TEACHING-2026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-rgnau-server-engineer-computer-lab-engineer-and-more",
@@ -3206,7 +3346,7 @@
     "applyOnlineLink": "https://rgnau.ac.in/sites/default/files/inline-files/Engagement%20of%20Contractual%20Positions%20in%20IT%20%26%20CIC%20Areas-03.09.2026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "up-drmlims-stenographer-receptionist-hospital-attendant-medic",
@@ -3223,7 +3363,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/drrmlims-non-teaching-recruitment-2026/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "Unreserved (UR)",
@@ -3324,7 +3464,7 @@
     "applyOnlineLink": "https://upanganwadibharti.in/workernew/users/registration.php",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "Fee",

@@ -1,5 +1,94 @@
 [
   {
+    "id": "jk-lic hfl-apprentice",
+    "title": "LIC HFL Recruitment 2026 – Apprentice Posts",
+    "shortInfo": "LIC HFL has announced notification for Apprentice posts. Required qualification: Graduation in any stream. Last date to apply: 01-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "232",
+    "lastDate": "01-11-26",
+    "officialWebsite": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
+    "notificationLink": "https://cdn.lichousing.com/2026/10/Apprentecis-Advertisement-Notification-Batch-10.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
+    "state": "Jammu & Kashmir",
+    "stateCode": "jk",
+    "scrapedAt": "2026-10-21",
+    "fees": [
+      {
+        "category": "Scheduled Caste (SC) / Scheduled Tribe (ST) candidates",
+        "fee": "Rs. 200/- plus GST"
+      },
+      {
+        "category": "Person with Benchmark Disability (PwBD) candidates",
+        "fee": "Rs. 200/- plus GST"
+      },
+      {
+        "category": "General, EWS and Other Backward Class (OBC) - Male candidates",
+        "fee": "Rs. 800/- plus GST"
+      },
+      {
+        "category": "General, EWS and Other Backward Class (OBC) - Female / Transgender candidates",
+        "fee": "Rs. 600/- plus GST"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Application Start Date",
+        "date": "20/10/2026"
+      },
+      {
+        "event": "Last Date to Apply & Pay Examination Fee",
+        "date": "01/11/2026"
+      },
+      {
+        "event": "Entrance Examination Date",
+        "date": "07/11/2026"
+      },
+      {
+        "event": "Document Verification & Personal Interview",
+        "date": "15/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must first mandatorily register themselves on the NATS portal (https://nats.education.gov.in) by navigating to the ‘Student Register/Login’ section.",
+      "After registration, candidates will receive an email from BFSI SSC inviting them to fill up a detailed application and make payment for the Online Examination for ‘LIC HFL Apprenticeship Program’.",
+      "Visit https://beep.bfsissc.com to submit additional information and make the examination fee payment before 01-Nov-2026.",
+      "Note your Enrolment ID issued by the NATS portal for all future correspondence.",
+      "All eligible applicants who have paid the examination fee will receive an online examination link and login credentials from BFSI SSC on the day before the examination date.",
+      "Appear for the online remote proctored examination on 07-Nov-2026 from home using a camera-enabled device with good internet connectivity.",
+      "Shortlisted candidates will be invited for Document Verification &amp; Personal Interview at LIC HFL offices on 15-Nov-2026.",
+      "Final selected candidates will receive engagement letters from LIC HFL tentatively in the 3rd week of November."
+    ]
+  },
+  {
+    "id": "jk-nit srinagar-junior-research-fellow",
+    "title": "NIT Srinagar Recruitment 2026 – Junior Research Fellow Posts",
+    "shortInfo": "NIT Srinagar has announced notification for Junior Research Fellow posts. Required qualification: M.E/M.Tech, B.Tech/B.E. Last date to apply: 08-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "08-11-26",
+    "officialWebsite": "https://nitsri.ac.in/uploaded_files/Advertisement_for_one_post_of_JPF_under_DST_JKSTIC-sponsored_project.pdf",
+    "notificationLink": "https://nitsri.ac.in/uploaded_files/Advertisement_for_one_post_of_JPF_under_DST_JKSTIC-sponsored_project.pdf",
+    "applyOnlineLink": "https://nitsri.ac.in/uploaded_files/Advertisement_for_one_post_of_JPF_under_DST_JKSTIC-sponsored_project.pdf",
+    "state": "Jammu & Kashmir",
+    "stateCode": "jk",
+    "scrapedAt": "2026-10-21"
+  },
+  {
     "id": "jk-csir iiim-project-associate-project-assistant-and-more",
     "title": "CSIR IIIM Recruitment 2026 – Project Associate, Project Assistant and More Posts",
     "shortInfo": "CSIR IIIM has announced notification for Project Associate, Project Assistant and More posts. Required qualification: B.Sc, M.Phil/Ph.D, B.Tech/B.E, M.Sc. Last date to apply: 28-10-26.",
@@ -14,7 +103,7 @@
     "applyOnlineLink": "https://iiim.res.in/wp-content/uploads/2026/10/advt-no-38-2026.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jk-csir iiim-administrative-officer",
@@ -31,7 +120,7 @@
     "applyOnlineLink": "https://iiim.res.in/wp-content/uploads/2026/10/advt-no-36-2026.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jk-cus-programmer",
@@ -48,7 +137,7 @@
     "applyOnlineLink": "https://www.cusrinagar.edu.in/foldermanager/notification/employmentnoticeno.06forprogrammerpositiononcontractualbasiscus..pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jk-iit jammu-technician",
@@ -65,7 +154,7 @@
     "applyOnlineLink": "https://apply.iitjammu.ac.in/#/home",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jk-echs-nursing-assistant-and-more-clerk",
@@ -82,7 +171,7 @@
     "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Leh%2020%20Nov.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jk-aiims jammu-assistant-professor-and-more-professor",
@@ -99,7 +188,7 @@
     "applyOnlineLink": "https://www.aiimsjammu.edu.in/wp-content/uploads/2026/10/Advertisement-Faculty-Recruitent-2026-2.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jk-uco bank-apprentice",
@@ -116,7 +205,7 @@
     "applyOnlineLink": "https://beep.bfsissc.com/",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "SC/ST candidates",
@@ -188,7 +277,7 @@
     "applyOnlineLink": "https://apply.iitjammu.ac.in/#/home",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jk-cibs-consultant-accounts-",
@@ -205,7 +294,7 @@
     "applyOnlineLink": "https://cibs.ac.in/wp-content/uploads/2026/10/Vaccancy-Circulation.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jk-jk bank-credit-auditor",
@@ -222,7 +311,7 @@
     "applyOnlineLink": "https://jkb.bank.in/sites/default/files/2026-10/ADVERTISEMENT%20NOTIFICATION%20Credit%20Auditors.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jk-echs bd bari-nursing-assistant",
@@ -239,7 +328,7 @@
     "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Bd%20Bari%20613.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jk-jk high court-district-judge-entry-level-",
@@ -256,7 +345,7 @@
     "applyOnlineLink": "https://exams.jklhc.in/uploads/advertisements/1791025696_noti_2510_03102026.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jk-rari-project-associate-i",
@@ -273,7 +362,7 @@
     "applyOnlineLink": "https://ccras.nic.in/wp-content/uploads/2026/10/08102026-Rari-Jammu.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jk-lahdc leh-central-administrator-amp-guard",
@@ -290,7 +379,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3291597a100aadd814d197af4f4bab3a7/uploads/2026/10/17913556376066.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jk-iust-project-assistant",
@@ -307,7 +396,7 @@
     "applyOnlineLink": "https://www.iust.ac.in/Notifications/Jobs/261007164328.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jk-kashmir university-project-assistant",
@@ -324,7 +413,7 @@
     "applyOnlineLink": "https://www.kashmiruniversity.net/jobs/3115.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jk-jkssb-class-iv-mts-sanitation-worker",
@@ -341,7 +430,7 @@
     "applyOnlineLink": "https://jkssb.nic.in/dynamic-jkssb-test/pages/login.aspx",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "General/OM/OBC/RBA/ALC-IB/ESM",
@@ -447,7 +536,7 @@
     "applyOnlineLink": "https://jkssb.nic.in/dynamic-jkssb-test/pages/login.aspx",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "General Category",
@@ -1046,7 +1135,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/jkssb-warder-recruitment-2026/",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "General/OM/OBC/RBA/ALC-IB/ESM",

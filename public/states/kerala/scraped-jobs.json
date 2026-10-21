@@ -1,5 +1,94 @@
 [
   {
+    "id": "kerala-lic hfl-apprentice",
+    "title": "LIC HFL Recruitment 2026 – Apprentice Posts",
+    "shortInfo": "LIC HFL has announced notification for Apprentice posts. Required qualification: Graduation in any stream. Last date to apply: 01-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "232",
+    "lastDate": "01-11-26",
+    "officialWebsite": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
+    "notificationLink": "https://cdn.lichousing.com/2026/10/Apprentecis-Advertisement-Notification-Batch-10.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
+    "state": "Kerala",
+    "stateCode": "kerala",
+    "scrapedAt": "2026-10-21",
+    "fees": [
+      {
+        "category": "Scheduled Caste (SC) / Scheduled Tribe (ST) candidates",
+        "fee": "Rs. 200/- plus GST"
+      },
+      {
+        "category": "Person with Benchmark Disability (PwBD) candidates",
+        "fee": "Rs. 200/- plus GST"
+      },
+      {
+        "category": "General, EWS and Other Backward Class (OBC) - Male candidates",
+        "fee": "Rs. 800/- plus GST"
+      },
+      {
+        "category": "General, EWS and Other Backward Class (OBC) - Female / Transgender candidates",
+        "fee": "Rs. 600/- plus GST"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Application Start Date",
+        "date": "20/10/2026"
+      },
+      {
+        "event": "Last Date to Apply & Pay Examination Fee",
+        "date": "01/11/2026"
+      },
+      {
+        "event": "Entrance Examination Date",
+        "date": "07/11/2026"
+      },
+      {
+        "event": "Document Verification & Personal Interview",
+        "date": "15/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must first mandatorily register themselves on the NATS portal (https://nats.education.gov.in) by navigating to the ‘Student Register/Login’ section.",
+      "After registration, candidates will receive an email from BFSI SSC inviting them to fill up a detailed application and make payment for the Online Examination for ‘LIC HFL Apprenticeship Program’.",
+      "Visit https://beep.bfsissc.com to submit additional information and make the examination fee payment before 01-Nov-2026.",
+      "Note your Enrolment ID issued by the NATS portal for all future correspondence.",
+      "All eligible applicants who have paid the examination fee will receive an online examination link and login credentials from BFSI SSC on the day before the examination date.",
+      "Appear for the online remote proctored examination on 07-Nov-2026 from home using a camera-enabled device with good internet connectivity.",
+      "Shortlisted candidates will be invited for Document Verification &amp; Personal Interview at LIC HFL offices on 15-Nov-2026.",
+      "Final selected candidates will receive engagement letters from LIC HFL tentatively in the 3rd week of November."
+    ]
+  },
+  {
+    "id": "kerala-rcc thiruvananthapuram-operation-theatre-technician",
+    "title": "RCC Thiruvananthapuram Recruitment 2026 – Operation Theatre Technician Posts",
+    "shortInfo": "RCC Thiruvananthapuram has announced notification for Operation Theatre Technician posts. Required qualification: B.Sc. Last date to apply: 31-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "31-10-26",
+    "officialWebsite": "https://rcctvm.gov.in/uploads/Downloadtemsuppy/Notification%20-%20OT%20technician-17924045311906444136.pdf",
+    "notificationLink": "https://rcctvm.gov.in/uploads/Downloadtemsuppy/Notification%20-%20OT%20technician-17924045311906444136.pdf",
+    "applyOnlineLink": "https://rcctvm.gov.in/uploads/Downloadtemsuppy/Notification%20-%20OT%20technician-17924045311906444136.pdf",
+    "state": "Kerala",
+    "stateCode": "kerala",
+    "scrapedAt": "2026-10-21"
+  },
+  {
     "id": "kerala-isro vssc-authorised-medical-officer-ayorveda-allopathy-",
     "title": "ISRO VSSC Recruitment 2026 – Authorised Medical Officer (Ayorveda, Allopathy) Posts",
     "shortInfo": "ISRO VSSC has announced notification for Authorised Medical Officer (Ayorveda, Allopathy) posts. Required qualification: MBBS, BAMS. Last date to apply: 01-11-26.",
@@ -14,7 +103,7 @@
     "applyOnlineLink": "https://www.vssc.gov.in/media-vssc/pdf/recruitments/Detailed_Notification_dt_16102026.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-irel-tradesman-trainee-fitter-tradesman-trainee-electri",
@@ -31,7 +120,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/irel-tradesman-trainee-recruitment-2026/",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "UR / EWS / OBC (NCL) candidates",
@@ -110,7 +199,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0379514e888b8f2acacc68738d0cbb/uploads/2026/10/2026101747.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-cmd kerala-project-manager",
@@ -127,7 +216,7 @@
     "applyOnlineLink": "https://cmd.kerala.gov.in/wp-content/uploads/2026/10/TDB-PMU-Notification-final.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-kannur university-assistant-professor",
@@ -144,7 +233,7 @@
     "applyOnlineLink": "https://www.kannuruniversity.ac.in/media/documents/Asst_Professor_Vacancy_Notification_Interview.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-district court thrissur-computer-assistant-office-attendant",
@@ -161,7 +250,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0379514e888b8f2acacc68738d0cbb/uploads/2026/10/2026101635.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-kmrl-graduate-and-technician-apprentice-trade",
@@ -178,7 +267,7 @@
     "applyOnlineLink": "https://kochimetro.org/careers/site_media/notifications/217.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-nam kerala-medical-officer",
@@ -195,7 +284,7 @@
     "applyOnlineLink": "https://www.nam.kerala.gov.in/images/careers/1792061592609.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-nam kerala-full-time-sweeper-and-more-deo",
@@ -212,7 +301,7 @@
     "applyOnlineLink": "https://www.nam.kerala.gov.in/images/careers/1792061270587.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-kerala high court-telephone-operator",
@@ -229,7 +318,7 @@
     "applyOnlineLink": "https://hckrecruitment.keralacourts.in/hckrecruitment//Recruitment/viewPdfNotificationFile?token=bm90aWZpY2F0aW9uXzU2LnBkZg==",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-kvasu-junior-research-fellow",
@@ -246,7 +335,7 @@
     "applyOnlineLink": "https://www.kvasu.ac.in/files/1792125967_JRF+notification.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-nit calicut-counselling-psychologist",
@@ -263,7 +352,7 @@
     "applyOnlineLink": "https://nitc.ac.in/imgserver/uploads/attachments/Ed__ea929d9c-4fde-41f1-afe7-69c8e5590e3e_.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-kerala high court-senior-software-developer",
@@ -280,7 +369,7 @@
     "applyOnlineLink": "https://hckrecruitment.keralacourts.in/hckrecruitment//Recruitment/viewPdfNotificationFile?token=bm90aWZpY2F0aW9uXzU1LnBkZg==",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-kannur university-physiotherapist-sports-physiotherapist",
@@ -297,7 +386,7 @@
     "applyOnlineLink": "https://www.kannuruniversity.ac.in/media/documents/Notification-Physiotherapist.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-kerala high court-telephone-operator",
@@ -314,7 +403,7 @@
     "applyOnlineLink": "https://hckrecruitment.keralacourts.in/hckrecruitment/Recruitment/viewFile?token=Mzg2",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-nam thrissur-yoga-instructor",
@@ -331,7 +420,7 @@
     "applyOnlineLink": "https://www.nam.kerala.gov.in/images/careers/1791976341973.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-iim kozhikode-assistant-junior-assistant-and-more",
@@ -348,7 +437,7 @@
     "applyOnlineLink": "https://webapps.iimk.ac.in/jobportal/notifications/Notif_1792055800.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-mgu-co-ordinator",
@@ -365,7 +454,7 @@
     "applyOnlineLink": "https://www.mgu.ac.in/uploads/2026/10/renotifn-2-cordinator-sfst.pdf?x42115=",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-iim kozhikode-technical-support-staff",
@@ -382,7 +471,7 @@
     "applyOnlineLink": "https://webapps.iimk.ac.in/jobportal/notifications/Notif_1791461078.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-kudsit-project-intern",
@@ -399,7 +488,7 @@
     "applyOnlineLink": "https://duk.ac.in/data/2026/10/Notification-Project-Intern-SEC-KUDSIT-465-AD_AIII-2026.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-iimk-campus-security-manager",
@@ -416,7 +505,7 @@
     "applyOnlineLink": "https://webapps.iimk.ac.in/jobportal/notifications/Notif_1790838225.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-iimk-software-developer-cum-operator",
@@ -433,7 +522,7 @@
     "applyOnlineLink": "https://webapps.iimk.ac.in/jobportal/notifications/Notif_1791200565.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-nam kasargod-ayurkarma-worker",
@@ -450,7 +539,7 @@
     "applyOnlineLink": "https://www.nam.kerala.gov.in/images/careers/1791886696909.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-kannur university-assistant",
@@ -467,7 +556,7 @@
     "applyOnlineLink": "https://www.kannuruniversity.ac.in/media/documents/Adobe_Scan_14_Oct_2026.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-hll-lab-technician-trainee-radiographer-trainee",
@@ -484,7 +573,7 @@
     "applyOnlineLink": "https://lifecarehll.com/file/download/reference/b150a8c54f717b966fee06d0b7e49f6fhYSKfYA",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-kvs thalassery-computer-instructor",
@@ -501,7 +590,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3kv031a066727c4dd99d00c638861b921/uploads/2026/10/2026101382.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-kudumbashree-assistant-district-mission-coordinator-district-mi",
@@ -518,7 +607,7 @@
     "applyOnlineLink": "https://www.kudumbashree.org/storage//files/4kvhp_kudumbashree-dmc-admc-deputation-vacancies.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-kinfra-project-management-executive",
@@ -535,7 +624,7 @@
     "applyOnlineLink": "https://cmd.kerala.gov.in/wp-content/uploads/2026/10/KINFRA-PME-Civil-PME-General-Notification-final.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-uco bank-apprentice",
@@ -552,7 +641,7 @@
     "applyOnlineLink": "https://beep.bfsissc.com/",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "SC/ST candidates",
@@ -624,7 +713,7 @@
     "applyOnlineLink": "https://www.mgu.ac.in/uploads/2026/10/lab-technician-2026.pdf?x27050=",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-irel-graduate-technician-and-trade-apprentices",
@@ -641,7 +730,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/irel-apprentice-vacancy-2026/",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "Fee",
@@ -727,7 +816,7 @@
     "applyOnlineLink": "https://www.mgu.ac.in/uploads/2026/10/Notification-of-Project-Associate.pdf?x55667=",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-kvasu-research-assistant",
@@ -744,7 +833,7 @@
     "applyOnlineLink": "https://www.kvasu.ac.in/files/1791802490_NOTIFICATION+FOR+Research+Assistant+EDF+Project.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-sgou-assistant-professor",
@@ -761,7 +850,7 @@
     "applyOnlineLink": "https://content.sgou.ac.in/rp/public/uploads/documents/JobNotification/1791799884_file_pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-calicut university-assistant-professor",
@@ -778,7 +867,7 @@
     "applyOnlineLink": "https://docs.uoc.ac.in/website/vacancies/2026-10-12%2015:36:27_vac2126.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-esic kollam-super-specialist-specialist-senior-resident",
@@ -795,7 +884,7 @@
     "applyOnlineLink": "https://esic.gov.in/attachments/recruitmentfile/WALK_IN_INTERVIEW_ON_22_10_2026_FOR_ENGAGEMENT_OF_SUPER_SPECIALIST_FULL_TIME_PART_TIME_SPECIALIST_FULL_TIME_PART_TIME_AND_SENIOR_RESIDENT_1_Year_ON_CONTRACTUAL_BASIS_FOR_ESIC_MODEL_AND_SUPER_SPECIALTY_HOSPITAL_ASRAMAM_KOLLAM_KERALA_1791781736.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-cusat-technician-grade-ii",
@@ -812,7 +901,7 @@
     "applyOnlineLink": "https://recruit.cusat.ac.in/files/NOTIFICATION_485.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-iim kozhikode-campus-security-manager",
@@ -829,7 +918,7 @@
     "applyOnlineLink": "https://webapps.iimk.ac.in/jobportal/vacancy_details/eyJpdiI6InpIdG1KWXM1OVBTQ2p2MTZEclcwZWc9PSIsInZhbHVlIjoiL3RVUkxEdldXY0V0SkhNV1d6NmV5Zz09IiwibWFjIjoiNjVhZmM3NWU1NWYyMzc2ZDhhNTg0NDU3ZjhmYmRmNWQ5ZGE3YjMyOWJiN2Y3ODA0N2NlMDUwMGE1YjliODhmMyIsInRhZyI6IiJ9",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-cochin shipyard-guarantee-engineer",
@@ -846,7 +935,7 @@
     "applyOnlineLink": "https://cochinshipyard.in/uploads/career/9755f62599cacf30f90651d22839cdef.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-iiser thiruvananthapuram-project-scientist-1",
@@ -863,7 +952,7 @@
     "applyOnlineLink": "https://www.iisertvm.ac.in/files/read/opening-ps1-prof-deepshikha-20261009",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-ksrtc swift-driver-conductor-driver-cum-conductor",
@@ -880,7 +969,7 @@
     "applyOnlineLink": "https://recruitopen.com/cmd/kswift22.html",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "All Candidates",
@@ -945,7 +1034,7 @@
     "applyOnlineLink": "https://www.kau.in/sites/default/files/announcements/kaudsw.178.2026.dsw_a1.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-kvs-tgt-social-science",
@@ -962,7 +1051,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3kv022d30000f1e2c06a5492fd512b8f2/uploads/2026/10/2026100955.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-nam thrissur-multi-purpose-health-worker",
@@ -979,7 +1068,7 @@
     "applyOnlineLink": "https://www.nam.kerala.gov.in/images/careers/1791544203797.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-hll-quality-assurance-officer",
@@ -996,7 +1085,7 @@
     "applyOnlineLink": "https://drive.google.com/file/d/1dVdLJzF-zEkWz_eGp_7O93pwqQwDtqyk/view",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-hll-associate-manager-and-more-associate-manager",
@@ -1013,7 +1102,7 @@
     "applyOnlineLink": "https://www.lifecarehll.com/careers/view/reference/678a1491514b7f1006d605e9161946b1hYCEgA",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-kudsit-assistant-electronic-engineer",
@@ -1030,7 +1119,7 @@
     "applyOnlineLink": "https://duk.ac.in/careers/apply/",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-rcc thiruvananthapuram-resident-staff-nurse",
@@ -1047,7 +1136,7 @@
     "applyOnlineLink": "https://rcctvm.gov.in/uploads/Downloadtemsuppy/Prospectus%20-%20RSN%20-%202026-17911997061832860690.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-nhm thiruvananthapuram-medical-officer",
@@ -1064,7 +1153,7 @@
     "applyOnlineLink": "https://arogyakeralam.gov.in/wp-content/uploads/2026/10/Medical-Officer-Notification-2026.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-kau-guest-lecturer",
@@ -1081,7 +1170,7 @@
     "applyOnlineLink": "https://www.kau.in/sites/default/files/announcements/notice-nano_biotechnology.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-kerala university-guest-lecturer",
@@ -1098,7 +1187,7 @@
     "applyOnlineLink": "https://keralauniversity.ac.in/pdfs/jobNoti/JobNotificationGuestFaculty1790854293.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-nit calicut-apprentice-trainees",
@@ -1115,7 +1204,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/nit-calicut-apprentice-recruitment-2026/",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "Fee",
@@ -1229,7 +1318,7 @@
     "applyOnlineLink": "https://content.sgou.ac.in/rp/public/uploads/documents/JobNotification/1791457973_file_pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-ksmha-member",
@@ -1246,7 +1335,7 @@
     "applyOnlineLink": "https://arogyakeralam.gov.in/wp-content/uploads/2026/10/SMD-letter-2-4.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-nam kollam-mphw-ayurveda-nurse",
@@ -1263,7 +1352,7 @@
     "applyOnlineLink": "https://www.nam.kerala.gov.in/images/careers/1791372528242.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-nit calicut-apprentice-trainees",
@@ -1280,7 +1369,7 @@
     "applyOnlineLink": "https://nitc.ac.in/imgserver/uploads/attachments/engagement-of-apprentice-trainees-graduate-and-diploma-trade-at-nit-calicut-for-the-year-202627_25393883-791d-4989-b153-e6d4068112b9_0.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-sgou-software-developer-more-software-tester",
@@ -1297,7 +1386,7 @@
     "applyOnlineLink": "https://content.sgou.ac.in/rp/public/uploads/documents/JobNotification/1791387189_file_pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-nam kasaragod-multi-purpose-health-worker",
@@ -1314,7 +1403,7 @@
     "applyOnlineLink": "https://www.nam.kerala.gov.in/images/careers/1791279577389.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-kmscl-assistant-manager-it-",
@@ -1331,7 +1420,7 @@
     "applyOnlineLink": "https://cmd.kerala.gov.in/wp-content/uploads/2026/10/KMSCL-Assistant-Manager-Notification-V1.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-mgu-more-software-developer-hardware-engineer",
@@ -1348,7 +1437,7 @@
     "applyOnlineLink": "https://www.mgu.ac.in/uploads/2026/10/46650-AD_A4-3-2026-AD_A_4-1.pdf?x94802",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-nam thrissur-pharmacist",
@@ -1365,7 +1454,7 @@
     "applyOnlineLink": "https://www.nam.kerala.gov.in/images/careers/1791278855190.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-instrumentation limited-instrumentation-sr-engineer",
@@ -1382,7 +1471,7 @@
     "applyOnlineLink": "https://ilpgt.com/images/IL%20-%20FTE%20%20OFFICER%20WEBSITE%20%20ADVERTISEMENT.PDF",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-kerala university-resident-cook-kitchen-helper",
@@ -1399,7 +1488,7 @@
     "applyOnlineLink": "https://keralauniversity.ac.in/pdfs/jobNoti/JobNotificationcook1791287217.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-instrumentation limited-instrumentation-electrician-machinist",
@@ -1416,7 +1505,7 @@
     "applyOnlineLink": "https://ilpgt.com/images/IL%20-%20FTE%20%20WEBSITE%20%20WORKER%20ADVERTISEMENT.PDF",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-cdac-project-associate-project-engineer-senior-project-",
@@ -1433,7 +1522,7 @@
     "applyOnlineLink": "https://careers.cdac.in/",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "All Categories",
@@ -1560,7 +1649,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/spices-board-trainee-recruitment-2026/",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [],
     "dates": [
       {
@@ -1655,7 +1744,7 @@
     "applyOnlineLink": "https://www.kvasu.ac.in/files/1790837059_Notification+RF+1+Oct+2026.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-kerala psc-peon-watchman-draftsman-and-more",
@@ -1672,7 +1761,7 @@
     "applyOnlineLink": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-30092026",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-mrpl-retail-engineer-terminal-operation-engineer-retail",
@@ -1689,7 +1778,7 @@
     "applyOnlineLink": "https://www.mrpl.co.in/hi/careers?prophazecheck=1",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "General / OBC (NCL) / EWS",
@@ -1756,7 +1845,7 @@
     "applyOnlineLink": "https://recruit.cusat.ac.in/files/NOTIFICATION_483.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "kerala-kerala high court-office-attendant",
@@ -1773,7 +1862,7 @@
     "applyOnlineLink": "https://hckrecruitment.keralacourts.in/hckrecruitment/Login",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "General/OBC",
@@ -1841,7 +1930,7 @@
     "applyOnlineLink": "https://pminternship.mca.gov.in/login/",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "All Candidates",

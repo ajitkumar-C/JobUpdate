@@ -1,5 +1,94 @@
 [
   {
+    "id": "hp-lic hfl-apprentice",
+    "title": "LIC HFL Recruitment 2026 – Apprentice Posts",
+    "shortInfo": "LIC HFL has announced notification for Apprentice posts. Required qualification: Graduation in any stream. Last date to apply: 01-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "232",
+    "lastDate": "01-11-26",
+    "officialWebsite": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
+    "notificationLink": "https://cdn.lichousing.com/2026/10/Apprentecis-Advertisement-Notification-Batch-10.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
+    "state": "Himachal Pradesh",
+    "stateCode": "hp",
+    "scrapedAt": "2026-10-21",
+    "fees": [
+      {
+        "category": "Scheduled Caste (SC) / Scheduled Tribe (ST) candidates",
+        "fee": "Rs. 200/- plus GST"
+      },
+      {
+        "category": "Person with Benchmark Disability (PwBD) candidates",
+        "fee": "Rs. 200/- plus GST"
+      },
+      {
+        "category": "General, EWS and Other Backward Class (OBC) - Male candidates",
+        "fee": "Rs. 800/- plus GST"
+      },
+      {
+        "category": "General, EWS and Other Backward Class (OBC) - Female / Transgender candidates",
+        "fee": "Rs. 600/- plus GST"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Application Start Date",
+        "date": "20/10/2026"
+      },
+      {
+        "event": "Last Date to Apply & Pay Examination Fee",
+        "date": "01/11/2026"
+      },
+      {
+        "event": "Entrance Examination Date",
+        "date": "07/11/2026"
+      },
+      {
+        "event": "Document Verification & Personal Interview",
+        "date": "15/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must first mandatorily register themselves on the NATS portal (https://nats.education.gov.in) by navigating to the ‘Student Register/Login’ section.",
+      "After registration, candidates will receive an email from BFSI SSC inviting them to fill up a detailed application and make payment for the Online Examination for ‘LIC HFL Apprenticeship Program’.",
+      "Visit https://beep.bfsissc.com to submit additional information and make the examination fee payment before 01-Nov-2026.",
+      "Note your Enrolment ID issued by the NATS portal for all future correspondence.",
+      "All eligible applicants who have paid the examination fee will receive an online examination link and login credentials from BFSI SSC on the day before the examination date.",
+      "Appear for the online remote proctored examination on 07-Nov-2026 from home using a camera-enabled device with good internet connectivity.",
+      "Shortlisted candidates will be invited for Document Verification &amp; Personal Interview at LIC HFL offices on 15-Nov-2026.",
+      "Final selected candidates will receive engagement letters from LIC HFL tentatively in the 3rd week of November."
+    ]
+  },
+  {
+    "id": "hp-esic baddi-specialist-super-specialist-senior-resident-walk-i",
+    "title": "ESIC Baddi Recruitment 2026 – Specialist, Super Specialist, Senior Resident (Walk-in) Posts",
+    "shortInfo": "ESIC Baddi has announced notification for Specialist, Super Specialist, Senior Resident (Walk-in) posts. Required qualification: MS/MD, PG Diploma, DM, M.Ch. Last date to apply: 28-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "45",
+    "lastDate": "28-10-26",
+    "officialWebsite": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_interview_for_the_post_of_SR_Specialist_Superspecialist_Cardiology_on_contract_basis_1792395520.pdf",
+    "notificationLink": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_interview_for_the_post_of_SR_Specialist_Superspecialist_Cardiology_on_contract_basis_1792395520.pdf",
+    "applyOnlineLink": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_interview_for_the_post_of_SR_Specialist_Superspecialist_Cardiology_on_contract_basis_1792395520.pdf",
+    "state": "Himachal Pradesh",
+    "stateCode": "hp",
+    "scrapedAt": "2026-10-21"
+  },
+  {
     "id": "hp-aiims bilaspur-registrar",
     "title": "AIIMS Bilaspur Recruitment 2026 – Registrar Posts",
     "shortInfo": "AIIMS Bilaspur has announced notification for Registrar posts. Required qualification: Any Graduate. Last date to apply: 31-10-26.",
@@ -14,7 +103,7 @@
     "applyOnlineLink": "https://aiimsbilaspur.edu.in/sites/default/files/2026-10/Advertisement%2001.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "hp-echs dharamsala-lab-assistant-medical-officer",
@@ -31,7 +120,7 @@
     "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Stn%20HQ%20Dharamasala%20%20on%2024%20Oct.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "hp-echs solan bilasapur-driver-medical-officer",
@@ -48,7 +137,7 @@
     "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Solan%20Bilasapur%20Ghumarwin%2020%20Nov.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "hp-uco bank-apprentice",
@@ -65,7 +154,7 @@
     "applyOnlineLink": "https://beep.bfsissc.com/",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "SC/ST candidates",
@@ -137,7 +226,7 @@
     "applyOnlineLink": "https://hppsconline.hp.gov.in/HPPSC/ApplicantRegistration/Home/Login",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "All Candidates (irrespective of category or gender)",
@@ -195,7 +284,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec03d5d7f5bba709f5cbbe1f74977096/uploads/2026/10/2026101257.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "hp-aiims bilaspur-senior-resident-walk-in-",
@@ -212,7 +301,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aiims-bilaspur-senior-resident-recruitment-2026-52-vacancies-walk-in/",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "PwBD/SC/ST",
@@ -272,7 +361,7 @@
     "applyOnlineLink": "https://aiimsbilaspur.edu.in/sites/default/files/2026-10/Advertisement%20for%20Recruitment_ICMR%20Project.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "hp-ysp uhf-junior-research-fellow",
@@ -289,7 +378,7 @@
     "applyOnlineLink": "https://uhf.ac.in/storage/uploads/docs/1791453779.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "hp-aiims bilaspur-project-technical-support-iii",
@@ -306,7 +395,7 @@
     "applyOnlineLink": "https://aiimsbilaspur.edu.in/sites/default/files/2026-10/Advertisement-_0.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "hp-himachal pradesh high court-peon-librarian",
@@ -323,7 +412,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec03d5d7f5bba709f5cbbe1f74977096/uploads/2026/10/2026100895.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "hp-district court solan-licenced-typist-cum-computer-operator",
@@ -340,7 +429,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0360a70bb05b08d6cd95deb3bdb750/uploads/2026/10/2026100790.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "hp-csir ihbt-project-associate-project-assistant-i",
@@ -357,7 +446,7 @@
     "applyOnlineLink": "https://www.ihbt.res.in/components/com_chronoforms5/chronoforms/uploads/Recruitment/20261007154027_Final_Advt._no._17_by_2026_with_Application_Form.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "hp-hp high court-stenographer",
@@ -374,7 +463,7 @@
     "applyOnlineLink": "https://www.hphcrecruitment.in/static/dist/pdf/69.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "hp-hppsc-assistant-director",
@@ -391,7 +480,7 @@
     "applyOnlineLink": "https://hppsc.hp.gov.in/CommonControls/CMSFileView?qs=oeMK915q2HkdpWSZ%2B0aaIFmLDoF0cTjGvKykbXugJ5FH4sUacllacTF%2B5RqdIHDUaLjGjYE8mOeHqj0VR%2FB5RoAFuG6TC47917zNkNFr8Dw%3D",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "hp-cskhpkv-young-professional-ii",
@@ -408,7 +497,7 @@
     "applyOnlineLink": "https://www.hillagric.ac.in/info/jobs_advt/2026/2026-10-06-FN-2844-2944.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "hp-hp home guards-junior-office-assistant",
@@ -425,7 +514,7 @@
     "applyOnlineLink": "https://himachal.nic.in/homeguard/ControlsAsync/ViewFTPFile?qs=KI3gZ53zz1wtN18hlxLgW1j9YCrEoVMXjVNgRMLaYWLVpKVxmjmCvpzV27XwQVR%2Fs2YhZGPLMf3gQMWYvlgGGq4EoOObz%2Fvj",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "hp-dlsa solan-para-legal-volunteers",
@@ -442,7 +531,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0360a70bb05b08d6cd95deb3bdb750/uploads/2026/10/2026100559.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "hp-himachal pradesh jal shakti vibhag-multipurpose-worker-para-pump-operator-and-more",
@@ -459,7 +548,7 @@
     "applyOnlineLink": "https://jsv.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1yTV49xNU6QBk0f+D9rWV0VhZ+dahwEOncXXlmc34oR/PcisPcfSvHhoDoX/CxwsAsmTL9C/VnROuu+CWEFqAcLBh9/QyjadPoTiFxrq6OS5FgIN7ezqDVeEdSrUnbzMH8=",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "hp-hp high court-librarian-peon-mali-cook-cum-attendant",
@@ -476,7 +565,7 @@
     "applyOnlineLink": "https://www.hphcrecruitment.in/login",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "Unreserved (UR)",
@@ -559,7 +648,7 @@
     "applyOnlineLink": "https://hppsconline.hp.gov.in/HPPSC/ApplicantRegistration/Home/Login",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "All Candidates (irrespective of category or gender)",
@@ -616,7 +705,7 @@
     "applyOnlineLink": "https://hppsc.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1wSGo29lXLTBfw1DHezN8KfEg%2BrikZhi%2FLLqiZME0%2BQRfdkGlH8WWhtsQprtXAi4VMaeLFdFshXnjnFpPXIJIM1FOfW55WwUfo%3D",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "hp-hppsc-medical-officer",
@@ -633,7 +722,7 @@
     "applyOnlineLink": "https://hppsconline.hp.gov.in/HPPSC/ApplicantRegistration/Home/Login",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [],
     "dates": [
       {

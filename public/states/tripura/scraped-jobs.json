@@ -1,5 +1,77 @@
 [
   {
+    "id": "tripura-lic hfl-apprentice",
+    "title": "LIC HFL Recruitment 2026 – Apprentice Posts",
+    "shortInfo": "LIC HFL has announced notification for Apprentice posts. Required qualification: Graduation in any stream. Last date to apply: 01-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "232",
+    "lastDate": "01-11-26",
+    "officialWebsite": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
+    "notificationLink": "https://cdn.lichousing.com/2026/10/Apprentecis-Advertisement-Notification-Batch-10.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
+    "state": "Tripura",
+    "stateCode": "tripura",
+    "scrapedAt": "2026-10-21",
+    "fees": [
+      {
+        "category": "Scheduled Caste (SC) / Scheduled Tribe (ST) candidates",
+        "fee": "Rs. 200/- plus GST"
+      },
+      {
+        "category": "Person with Benchmark Disability (PwBD) candidates",
+        "fee": "Rs. 200/- plus GST"
+      },
+      {
+        "category": "General, EWS and Other Backward Class (OBC) - Male candidates",
+        "fee": "Rs. 800/- plus GST"
+      },
+      {
+        "category": "General, EWS and Other Backward Class (OBC) - Female / Transgender candidates",
+        "fee": "Rs. 600/- plus GST"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Application Start Date",
+        "date": "20/10/2026"
+      },
+      {
+        "event": "Last Date to Apply & Pay Examination Fee",
+        "date": "01/11/2026"
+      },
+      {
+        "event": "Entrance Examination Date",
+        "date": "07/11/2026"
+      },
+      {
+        "event": "Document Verification & Personal Interview",
+        "date": "15/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must first mandatorily register themselves on the NATS portal (https://nats.education.gov.in) by navigating to the ‘Student Register/Login’ section.",
+      "After registration, candidates will receive an email from BFSI SSC inviting them to fill up a detailed application and make payment for the Online Examination for ‘LIC HFL Apprenticeship Program’.",
+      "Visit https://beep.bfsissc.com to submit additional information and make the examination fee payment before 01-Nov-2026.",
+      "Note your Enrolment ID issued by the NATS portal for all future correspondence.",
+      "All eligible applicants who have paid the examination fee will receive an online examination link and login credentials from BFSI SSC on the day before the examination date.",
+      "Appear for the online remote proctored examination on 07-Nov-2026 from home using a camera-enabled device with good internet connectivity.",
+      "Shortlisted candidates will be invited for Document Verification &amp; Personal Interview at LIC HFL offices on 15-Nov-2026.",
+      "Final selected candidates will receive engagement letters from LIC HFL tentatively in the 3rd week of November."
+    ]
+  },
+  {
     "id": "tripura-tift-senior-associate-and-more-sector-expert",
     "title": "TIFT Recruitment 2026 – Senior Associate and More, Sector Expert Posts",
     "shortInfo": "TIFT has announced notification for Senior Associate and More, Sector Expert posts. Required qualification: Any Bachelors Degree, M.Sc, PG Diploma, M.E/M.Tech, MBA/PGDM, M.A. Last date to apply: 07-11-26.",
@@ -14,7 +86,7 @@
     "applyOnlineLink": "https://tripura.gov.in/sites/default/files/TIFT_SSM_Recruitment_Oct_2026.pdf",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "tripura-tripura employees state insurance society-laboratory-technician-more-accountant",
@@ -31,7 +103,7 @@
     "applyOnlineLink": "https://tripura.gov.in/sites/default/files/EOI,2026.pdf",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "tripura-nit agartala-office-intern-accountant",
@@ -48,7 +120,7 @@
     "applyOnlineLink": "https://nita.ac.in/MO_13-10-2026_Advt-Cont-Accountant-Oct26_admin.pdf",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "tripura-nit agartala-junior-research-fellow-project-associate-1",
@@ -65,7 +137,7 @@
     "applyOnlineLink": "https://nita.ac.in/MO_14-10-2026_Advt-Chemistry-ProjectStaff-Oct26_admin.pdf",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "tripura-uco bank-apprentice",
@@ -82,7 +154,7 @@
     "applyOnlineLink": "https://beep.bfsissc.com/",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "SC/ST candidates",
@@ -154,7 +226,7 @@
     "applyOnlineLink": "https://socialwelfare.tripura.gov.in/sites/default/files/detailed%20Advertsiment%20dated%2012-10-2026%20%20regarding%20inviting%20applications%20for%20the%20post%20of%20State%20Commissioner%20for%20Persons%20with%20Disabilities%2C.pdf",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "tripura-tidcl-assistant-manager",
@@ -171,7 +243,7 @@
     "applyOnlineLink": "https://tripura.gov.in/sites/default/files/Recruitment_of_Assistant_Manager_in_TIDCL_on_contractual_basis.pdf",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "tripura-nit agartala-professor-of-practice",
@@ -188,7 +260,7 @@
     "applyOnlineLink": "https://nita.ac.in/MO_26-09-2026_Advt-ProfessorPractice-Sept2026_admin.pdf",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "tripura-nit agartala-library-professional-trainee",
@@ -205,7 +277,7 @@
     "applyOnlineLink": "https://nita.ac.in/MO_25-09-2026_LibraryTrainee-Sept2026_admin.pdf",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "tripura-nit agartala-lab-attendant-and-more-technician",
@@ -222,7 +294,7 @@
     "applyOnlineLink": "https://test.cbexams.com/EDPSU/NIT/Registration/",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "General/OBC/EWS",

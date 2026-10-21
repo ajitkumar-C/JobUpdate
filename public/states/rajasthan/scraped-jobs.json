@@ -1,5 +1,77 @@
 [
   {
+    "id": "rajasthan-lic hfl-apprentice",
+    "title": "LIC HFL Recruitment 2026 – Apprentice Posts",
+    "shortInfo": "LIC HFL has announced notification for Apprentice posts. Required qualification: Graduation in any stream. Last date to apply: 01-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "232",
+    "lastDate": "01-11-26",
+    "officialWebsite": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
+    "notificationLink": "https://cdn.lichousing.com/2026/10/Apprentecis-Advertisement-Notification-Batch-10.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
+    "state": "Rajasthan",
+    "stateCode": "rajasthan",
+    "scrapedAt": "2026-10-21",
+    "fees": [
+      {
+        "category": "Scheduled Caste (SC) / Scheduled Tribe (ST) candidates",
+        "fee": "Rs. 200/- plus GST"
+      },
+      {
+        "category": "Person with Benchmark Disability (PwBD) candidates",
+        "fee": "Rs. 200/- plus GST"
+      },
+      {
+        "category": "General, EWS and Other Backward Class (OBC) - Male candidates",
+        "fee": "Rs. 800/- plus GST"
+      },
+      {
+        "category": "General, EWS and Other Backward Class (OBC) - Female / Transgender candidates",
+        "fee": "Rs. 600/- plus GST"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Application Start Date",
+        "date": "20/10/2026"
+      },
+      {
+        "event": "Last Date to Apply & Pay Examination Fee",
+        "date": "01/11/2026"
+      },
+      {
+        "event": "Entrance Examination Date",
+        "date": "07/11/2026"
+      },
+      {
+        "event": "Document Verification & Personal Interview",
+        "date": "15/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must first mandatorily register themselves on the NATS portal (https://nats.education.gov.in) by navigating to the ‘Student Register/Login’ section.",
+      "After registration, candidates will receive an email from BFSI SSC inviting them to fill up a detailed application and make payment for the Online Examination for ‘LIC HFL Apprenticeship Program’.",
+      "Visit https://beep.bfsissc.com to submit additional information and make the examination fee payment before 01-Nov-2026.",
+      "Note your Enrolment ID issued by the NATS portal for all future correspondence.",
+      "All eligible applicants who have paid the examination fee will receive an online examination link and login credentials from BFSI SSC on the day before the examination date.",
+      "Appear for the online remote proctored examination on 07-Nov-2026 from home using a camera-enabled device with good internet connectivity.",
+      "Shortlisted candidates will be invited for Document Verification &amp; Personal Interview at LIC HFL offices on 15-Nov-2026.",
+      "Final selected candidates will receive engagement letters from LIC HFL tentatively in the 3rd week of November."
+    ]
+  },
+  {
     "id": "rajasthan-sainik school chittorgarh-mess-manager-tgt",
     "title": "Sainik School Chittorgarh Recruitment 2026 – Mess Manager, TGT Posts",
     "shortInfo": "Sainik School Chittorgarh has announced notification for Mess Manager, TGT posts. Required qualification: 10TH, B.Ed. Last date to apply: 07-11-26.",
@@ -14,7 +86,7 @@
     "applyOnlineLink": "https://sschittorgarh.edu.in/SSC_ADM/images/444967ADVERTISEMENT%20FOR%20TGT%20%20ENGLISH,%20SCIENCE,%20COMP%20SCEICNE%20MATHS%20AND%20MESS%20MANAGER%20REGULAR%20-%2017.10.26.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "rajasthan-csir ceeri-project-associate-project-associate-more",
@@ -31,7 +103,7 @@
     "applyOnlineLink": "https://www.ceeri.res.in/wp-content/uploads/2026/10/Advt_No_PF-09_2026_16102026.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "rajasthan-dlsa jalore-para-legal-volunteer",
@@ -48,7 +120,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec02aac61539fd1fb209b44b9f9d0d8d/uploads/2026/10/2026101630.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "rajasthan-csir ceeri-project-scientist-project-associate-jrf-project-as",
@@ -65,7 +137,7 @@
     "applyOnlineLink": "https://www.ceeri.res.in/wp-content/uploads/2026/10/Advt_No_PF-09_2026_16102026.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "rajasthan-rslsa-legal-researcher",
@@ -82,7 +154,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s35065a82a3b4e103b6f33c206062dd768/uploads/2026/10/20261015462138960.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "rajasthan-rajasthan high court-legal-researcher",
@@ -99,7 +171,7 @@
     "applyOnlineLink": "https://hcraj.nic.in/hcraj/hcraj_admin/uploadfile/recruitment/33701001-2-5_merged179206551469.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "rajasthan-ruhs-professor-associate-professor-assistant-professor-",
@@ -116,7 +188,7 @@
     "applyOnlineLink": "https://old.ruhsraj.org/cms/uploads/2026/10/Notification%20and%20Application%20Form%20for%20Empanelment%20of%20Guest%20Faculty%20under%20SFS%20for%20RUHS%20College%20of%20Physiotherapy%20Jaipur.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "rajasthan-dmrc-senior-engineer-supervisor-engineer",
@@ -133,7 +205,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/dmrc-executive-and-non-executive-recruitment-2026/",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "Fee",
@@ -252,7 +324,7 @@
     "applyOnlineLink": "https://beep.bfsissc.com/",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "SC/ST candidates",
@@ -324,7 +396,7 @@
     "applyOnlineLink": "https://rec.aiimsjodhpur.edu.in/Tutor_Demonstrator/2026/TD_2026_1/",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "Fee",
@@ -416,7 +488,7 @@
     "applyOnlineLink": "https://erponline.iitj.ac.in/RnDOutside/projectTemporaryAppointment.htm",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "rajasthan-iit jodhpur-senior-project-manager",
@@ -433,7 +505,7 @@
     "applyOnlineLink": "https://erponline.iitj.ac.in/RnDOutside/projectTemporaryAppointment.htm",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "rajasthan-aiims jodhpur-tutor-demonstrator",
@@ -450,7 +522,7 @@
     "applyOnlineLink": "https://rec.aiimsjodhpur.edu.in/Tutor_Demonstrator/2026/TD_2026_1/PDF/Tutor%20Advt.%202026.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "rajasthan-aiims jodhpur-more-project-nurse-iii-project-research-scientist-",
@@ -467,7 +539,7 @@
     "applyOnlineLink": "https://aiimsjodhpur.edu.in/recruitment/Research/2026/1791799246_ADVERTISEMENT-121026.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "rajasthan-esic jaipur-panchakarma-physician-senior-resident",
@@ -484,7 +556,7 @@
     "applyOnlineLink": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_Interview_for_the_Post_of_Contractual_Basis_Senior_Resident_3_years_for_the_various_departments_and_Medical_Officer_in_ESIC_Medical_College_and_Hospital_Jaipur_interview_on_date_22_10_2026_from_09_00am_onwards_1791782197.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "rajasthan-curaj-project-associate-i",
@@ -501,7 +573,7 @@
     "applyOnlineLink": "https://www.curaj.ac.in/sites/default/files/ARFI_CURAJ_Advertisement.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "rajasthan-esic jaipur-professor-assistant-professor",
@@ -518,7 +590,7 @@
     "applyOnlineLink": "https://esic.gov.in/attachments/recruitmentfile/WALK_IN_INTERVIEW_FOR_ENGAGEMENT_OF_TEACHING_FACULTY_ON_CONTRACTUAL_BASIS_INCLUDING_ARMY_RETIRED_MEDICAL_TEACHERS_at_ESIC_Medical_College_amp_Hospital_Jaipur_Interview_on_Date_22_10_2026_From_09_00_am_onwards_1791781969.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "rajasthan-aiims jodhpur-project-research-scientist-i",
@@ -535,7 +607,7 @@
     "applyOnlineLink": "https://aiimsjodhpur.edu.in/recruitment/Research/2026/1791612514_ICMR%20EPTS%20PROJECT-101026.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "rajasthan-aiims jodhpur-project-research-scientist-i-project-technical-sup",
@@ -552,7 +624,7 @@
     "applyOnlineLink": "https://aiimsjodhpur.edu.in/recruitment/Research/2026/1791612455_ICMR%20PRIDE%20INDIA%20PROJECT-101026.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "rajasthan-sainik school jhunjhunu-sports-coach",
@@ -569,7 +641,7 @@
     "applyOnlineLink": "https://ssjhunjhunu.com/uploads/654763walkininterview.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "rajasthan-rsja-research-scholar",
@@ -586,7 +658,7 @@
     "applyOnlineLink": "https://hcraj.nic.in/hcraj/hcraj_admin/uploadfile/recruitment/Scheme_merged179085594945.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "rajasthan-aiims jodhpur-project-research-scientist-iii",
@@ -603,7 +675,7 @@
     "applyOnlineLink": "https://aiimsjodhpur.edu.in/recruitment/Research/2026/1791520905_PRR-Res-Adv-42.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "rajasthan-iit jodhpur-senior-assistant-medical-officer-junior-technical-",
@@ -620,7 +692,7 @@
     "applyOnlineLink": "https://www.iitj.ac.in/PageImages/RecruitmentAdvertisementMaster/09-2026/Advertisement-1-639262138218700252.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "Group-A Posts (Assistant Registrar, Counselor, Medical Officer)",
@@ -744,7 +816,7 @@
     "applyOnlineLink": "https://www.npcilcareers.co.in/HQCA20260610/candidate/Default.aspx",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "All Categories",
@@ -852,7 +924,7 @@
     "applyOnlineLink": "https://cdn.iiitkota.ac.in/recruitment/2026-10-04_Advertisement.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "rajasthan-iit jodhpur-scientific-officer",
@@ -869,7 +941,7 @@
     "applyOnlineLink": "https://www.iitj.ac.in/PageImages/RecruitmentAdvertisementMaster/10-2026/Advertisement-1-639264726375550208.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "rajasthan-rrc nwr jaipur-act-apprentice",
@@ -886,7 +958,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/nwr-jaipur-railway-apprentice-recruitment-2026/",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "All candidates except SC/ST, PwBD, and Women",
@@ -995,7 +1067,7 @@
     "applyOnlineLink": "https://www.bits-pilani.ac.in/wp-content/uploads/Ashutosh_Bhatia_DRDO_Project_30_Sep_2026.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "rajasthan-curaj-faculty-resource-person",
@@ -1012,7 +1084,7 @@
     "applyOnlineLink": "https://curaj.ac.in/sites/default/files/Advt.%20No.%207051%20dated%2030.09.2026%20of%20Faculty%20Resource%20Person%20%28Contractual%29%20for%20Dr.%20Ambedkar%20Centre%20of%20Excellence%20%28DACE%29.pdf",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "rajasthan-local self government rajasthan-contractual-safai-karmachari-last-date-extended-",
@@ -1029,7 +1101,7 @@
     "applyOnlineLink": "https://sso.rajasthan.gov.in/signin?ru=RECRUITMENT",
     "state": "Rajasthan",
     "stateCode": "rajasthan",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "General (Unreserved)",

@@ -1,5 +1,77 @@
 [
   {
+    "id": "jharkhand-lic hfl-apprentice",
+    "title": "LIC HFL Recruitment 2026 – Apprentice Posts",
+    "shortInfo": "LIC HFL has announced notification for Apprentice posts. Required qualification: Graduation in any stream. Last date to apply: 01-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "232",
+    "lastDate": "01-11-26",
+    "officialWebsite": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
+    "notificationLink": "https://cdn.lichousing.com/2026/10/Apprentecis-Advertisement-Notification-Batch-10.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
+    "state": "Jharkhand",
+    "stateCode": "jharkhand",
+    "scrapedAt": "2026-10-21",
+    "fees": [
+      {
+        "category": "Scheduled Caste (SC) / Scheduled Tribe (ST) candidates",
+        "fee": "Rs. 200/- plus GST"
+      },
+      {
+        "category": "Person with Benchmark Disability (PwBD) candidates",
+        "fee": "Rs. 200/- plus GST"
+      },
+      {
+        "category": "General, EWS and Other Backward Class (OBC) - Male candidates",
+        "fee": "Rs. 800/- plus GST"
+      },
+      {
+        "category": "General, EWS and Other Backward Class (OBC) - Female / Transgender candidates",
+        "fee": "Rs. 600/- plus GST"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Application Start Date",
+        "date": "20/10/2026"
+      },
+      {
+        "event": "Last Date to Apply & Pay Examination Fee",
+        "date": "01/11/2026"
+      },
+      {
+        "event": "Entrance Examination Date",
+        "date": "07/11/2026"
+      },
+      {
+        "event": "Document Verification & Personal Interview",
+        "date": "15/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must first mandatorily register themselves on the NATS portal (https://nats.education.gov.in) by navigating to the ‘Student Register/Login’ section.",
+      "After registration, candidates will receive an email from BFSI SSC inviting them to fill up a detailed application and make payment for the Online Examination for ‘LIC HFL Apprenticeship Program’.",
+      "Visit https://beep.bfsissc.com to submit additional information and make the examination fee payment before 01-Nov-2026.",
+      "Note your Enrolment ID issued by the NATS portal for all future correspondence.",
+      "All eligible applicants who have paid the examination fee will receive an online examination link and login credentials from BFSI SSC on the day before the examination date.",
+      "Appear for the online remote proctored examination on 07-Nov-2026 from home using a camera-enabled device with good internet connectivity.",
+      "Shortlisted candidates will be invited for Document Verification &amp; Personal Interview at LIC HFL offices on 15-Nov-2026.",
+      "Final selected candidates will receive engagement letters from LIC HFL tentatively in the 3rd week of November."
+    ]
+  },
+  {
     "id": "jharkhand-iim ranchi-doctor",
     "title": "IIM Ranchi Recruitment 2026 – Doctor Posts",
     "shortInfo": "IIM Ranchi has announced notification for Doctor posts. Required qualification: MBBS. Last date to apply: 02-11-26.",
@@ -14,7 +86,7 @@
     "applyOnlineLink": "https://iimranchi.ac.in/media/2026/10/Advertisement.docx",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jharkhand-kvic-marketing-expert-technical-expert",
@@ -31,7 +103,7 @@
     "applyOnlineLink": "https://www.kvic.gov.in/kvicres/update/others/Adv_MKTExprt_RNC_SORanchi_161026.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jharkhand-district agriculture office, simdega-crop-guard-kamdar-",
@@ -48,7 +120,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s30fcbc61acd0479dc77e3cccc0f5ffca7/uploads/2026/10/17917895934559.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jharkhand-jepc-manager",
@@ -65,7 +137,7 @@
     "applyOnlineLink": "https://jepc.jharkhand.gov.in/Application/uploadDocuments/recruitmentDocs/advertisementLetter_20261003_190750.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jharkhand-department of agriculture animal husbandry and co-operative west singhbhum-crop-guard",
@@ -82,7 +154,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s32bb232c0b13c774965ef8558f0fbd615/uploads/2026/10/17920645652660.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jharkhand-hazaribagh west forest division-junior-research-fellow-senior-research-fellow",
@@ -99,7 +171,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3ed265bc903a5a097f61d3ec064d96d2e/uploads/2026/10/17920590348952.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jharkhand-iit (ism) dhanbad-anrf-junior-research-fellow",
@@ -116,7 +188,7 @@
     "applyOnlineLink": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/1640/Project%20JRF_2026-10-15_16-42-48.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jharkhand-nit jamshedpur-project-intern",
@@ -133,7 +205,7 @@
     "applyOnlineLink": "https://nitjsr.ac.in/backend/uploads/recruitments/53d35db9-21dd-4aa5-b9e6-14e59b0430f9-Project%20post-1.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jharkhand-uco bank-apprentice",
@@ -150,7 +222,7 @@
     "applyOnlineLink": "https://beep.bfsissc.com/",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "SC/ST candidates",
@@ -222,7 +294,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec05f095cedd23b99f1696fc8caecbcf/uploads/2026/10/2026101380.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jharkhand-cuj-assistant-professor",
@@ -239,7 +311,7 @@
     "applyOnlineLink": "https://cuj.ac.in/file/WALK-IN-INTERVIEW%20-ASSISTANT%20PROFESSOR%20(TEMPORARY)-121026.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jharkhand-itda pakur-part-time-teacher",
@@ -256,7 +328,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3df877f3865752637daa540ea9cbc474f/uploads/2026/10/17918071047311.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jharkhand-wcdss jharkhand-outreach-worker",
@@ -273,7 +345,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s30fcbc61acd0479dc77e3cccc0f5ffca7/uploads/2026/10/17917911491174.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jharkhand-dhs godda-specialist-medical-officer",
@@ -290,7 +362,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s31ff1de774005f8da13f42943881c655f/uploads/2026/10/17917912217944.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jharkhand-jepc-programmer-and-more-manager",
@@ -307,7 +379,7 @@
     "applyOnlineLink": "https://jepc.jharkhand.gov.in/recruitment",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "General/UR/EWS/BC-I/BC-II (Table A Sl.No.1-5, Table B Sl.No.06, Table D Sl.No.10)",
@@ -466,7 +538,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0511338326597d14a1f7c745853f4d/uploads/2026/09/2026093044.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jharkhand-dlsa seraikella-kharsawan-member",
@@ -483,7 +555,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0577ec6f21c85b637cc42bb997841e/uploads/2026/10/2026100144.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jharkhand-iit (ism) dhanbad-project-assistant",
@@ -500,7 +572,7 @@
     "applyOnlineLink": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/978/Project%20Assistant_2026-10-05_15-45-28.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jharkhand-district agriculture office, pakur-crop-protector",
@@ -517,7 +589,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3df877f3865752637daa540ea9cbc474f/uploads/2026/10/17908529981499.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jharkhand-iit (ism) dhanbad-project-assistant",
@@ -534,7 +606,7 @@
     "applyOnlineLink": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/916/Project%20Assistant_2026-10-09_13-47-42.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jharkhand-iit (ism) dhanbad-field-investigator",
@@ -551,7 +623,7 @@
     "applyOnlineLink": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/1010/Field%20Investigator_2026-10-08_12-22-53.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jharkhand-iit (ism) dhanbad-project-associate-i",
@@ -568,7 +640,7 @@
     "applyOnlineLink": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/978/Project%20Associate_2026-10-05_15-45-12.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jharkhand-dlsa dumka-member-pla",
@@ -585,7 +657,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec051ea97de85eb634d580161c603422/uploads/2026/10/2026100851.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jharkhand-csb btsso-sericulture-assistant",
@@ -602,7 +674,7 @@
     "applyOnlineLink": "https://csb.gov.in/sites/default/files/2026-10/csb-btsso-SA.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jharkhand-jsac-junior-project-assistant-research-associate",
@@ -619,7 +691,7 @@
     "applyOnlineLink": "https://jsac.jharkhand.gov.in/recent_notice/Advertisment%202026_07.10.2026.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jharkhand-nit jamshedpur-medical-officer",
@@ -636,7 +708,7 @@
     "applyOnlineLink": "https://nitjsr.ac.in/backend/uploads/recruitments/0a112336-a92f-41ed-ac46-1edaf582236d-Walk-In-Interview%20for%20the%20post%20of%20Medical%20Officer%20(on%20Contract).pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jharkhand-mecon-assistant-manager-deputy-manager-manager-senior-ma",
@@ -653,7 +725,7 @@
     "applyOnlineLink": "https://recruitment.meconlimited.co.in/",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "UR / EWS / OBC (Non-Creamy Layer)",
@@ -737,7 +809,7 @@
     "applyOnlineLink": "https://recruitment.jharkhand.gov.in/",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [],
     "dates": [
       {
@@ -790,7 +862,7 @@
     "applyOnlineLink": "https://recruitment.jharkhand.gov.in/",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "Fee",
@@ -845,7 +917,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s30fcbc61acd0479dc77e3cccc0f5ffca7/uploads/2026/09/17902312954787.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "jharkhand-jharkhand home guard corps-home-guard-grih-rakshak-",
@@ -862,7 +934,7 @@
     "applyOnlineLink": "https://recruitment.jharkhand.gov.in/",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "Fee",
@@ -921,7 +993,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [],
     "dates": [
       {
@@ -979,7 +1051,7 @@
     "applyOnlineLink": "https://jsscjtaacce.ibtexamination.com/",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "General/Other candidates",

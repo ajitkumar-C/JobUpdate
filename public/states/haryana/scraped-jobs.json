@@ -1,5 +1,94 @@
 [
   {
+    "id": "haryana-lic hfl-apprentice",
+    "title": "LIC HFL Recruitment 2026 – Apprentice Posts",
+    "shortInfo": "LIC HFL has announced notification for Apprentice posts. Required qualification: Graduation in any stream. Last date to apply: 01-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "232",
+    "lastDate": "01-11-26",
+    "officialWebsite": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
+    "notificationLink": "https://cdn.lichousing.com/2026/10/Apprentecis-Advertisement-Notification-Batch-10.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
+    "state": "Haryana",
+    "stateCode": "haryana",
+    "scrapedAt": "2026-10-21",
+    "fees": [
+      {
+        "category": "Scheduled Caste (SC) / Scheduled Tribe (ST) candidates",
+        "fee": "Rs. 200/- plus GST"
+      },
+      {
+        "category": "Person with Benchmark Disability (PwBD) candidates",
+        "fee": "Rs. 200/- plus GST"
+      },
+      {
+        "category": "General, EWS and Other Backward Class (OBC) - Male candidates",
+        "fee": "Rs. 800/- plus GST"
+      },
+      {
+        "category": "General, EWS and Other Backward Class (OBC) - Female / Transgender candidates",
+        "fee": "Rs. 600/- plus GST"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Application Start Date",
+        "date": "20/10/2026"
+      },
+      {
+        "event": "Last Date to Apply & Pay Examination Fee",
+        "date": "01/11/2026"
+      },
+      {
+        "event": "Entrance Examination Date",
+        "date": "07/11/2026"
+      },
+      {
+        "event": "Document Verification & Personal Interview",
+        "date": "15/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Apprentice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must first mandatorily register themselves on the NATS portal (https://nats.education.gov.in) by navigating to the ‘Student Register/Login’ section.",
+      "After registration, candidates will receive an email from BFSI SSC inviting them to fill up a detailed application and make payment for the Online Examination for ‘LIC HFL Apprenticeship Program’.",
+      "Visit https://beep.bfsissc.com to submit additional information and make the examination fee payment before 01-Nov-2026.",
+      "Note your Enrolment ID issued by the NATS portal for all future correspondence.",
+      "All eligible applicants who have paid the examination fee will receive an online examination link and login credentials from BFSI SSC on the day before the examination date.",
+      "Appear for the online remote proctored examination on 07-Nov-2026 from home using a camera-enabled device with good internet connectivity.",
+      "Shortlisted candidates will be invited for Document Verification &amp; Personal Interview at LIC HFL offices on 15-Nov-2026.",
+      "Final selected candidates will receive engagement letters from LIC HFL tentatively in the 3rd week of November."
+    ]
+  },
+  {
+    "id": "haryana-haryana police-special-police-officer",
+    "title": "Haryana Police Recruitment 2026 – Special Police Officer Posts",
+    "shortInfo": "Haryana Police has announced notification for Special Police Officer posts. Required qualification: 12TH. Last date to apply: 05-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "170",
+    "lastDate": "05-11-26",
+    "officialWebsite": "https://haryanapolice.gov.in/pdf/Engagement%20of%20170%20SPOs%20in%20Haryana%20Police%20Telecommunication%20Wing.pdf",
+    "notificationLink": "https://haryanapolice.gov.in/pdf/Engagement%20of%20170%20SPOs%20in%20Haryana%20Police%20Telecommunication%20Wing.pdf",
+    "applyOnlineLink": "https://haryanapolice.gov.in/pdf/Engagement%20of%20170%20SPOs%20in%20Haryana%20Police%20Telecommunication%20Wing.pdf",
+    "state": "Haryana",
+    "stateCode": "haryana",
+    "scrapedAt": "2026-10-21"
+  },
+  {
     "id": "haryana-sainik school rewari-nursing-assistant-medical-officer-and-more",
     "title": "Sainik School Rewari Recruitment 2026 – Nursing Assistant, Medical Officer and More Posts",
     "shortInfo": "Sainik School Rewari has announced notification for Nursing Assistant, Medical Officer and More posts. Required qualification: MBBS, Diploma, 10TH, Any Graduate. Last date to apply: 06-11-26.",
@@ -14,7 +103,7 @@
     "applyOnlineLink": "https://ssrw.org/wp-content/uploads/2026/10/Website-Advertisement-Oct-2026.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "haryana-mdu-field-staff",
@@ -31,7 +120,7 @@
     "applyOnlineLink": "https://mdu.ac.in/UpFiles/UpPdfFiles/2026/Oct/4_10-15-2026_16-44-17_hsrf_revised_advt.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "haryana-ccs hau-graduate-trainee",
@@ -48,7 +137,7 @@
     "applyOnlineLink": "https://hau.ac.in/public/notification-documents/5773/1792049337.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "haryana-luvas-teaching-associate",
@@ -65,7 +154,7 @@
     "applyOnlineLink": "https://luvas.edu.in/downloads/files/n6ad0b9adc3e73.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "haryana-luvas-teaching-associate",
@@ -82,7 +171,7 @@
     "applyOnlineLink": "https://luvas.edu.in/downloads/files/n6ace14bf6d789.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "haryana-rcb-project-technical-support-iii",
@@ -99,7 +188,7 @@
     "applyOnlineLink": "https://rcb.res.in/files/advertisement-files/advt._no._39_project_2026_hr.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "haryana-uco bank-apprentice",
@@ -116,7 +205,7 @@
     "applyOnlineLink": "https://beep.bfsissc.com/",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "SC/ST candidates",
@@ -188,7 +277,7 @@
     "applyOnlineLink": "https://gurugramuniversity.ac.in/Notice/Advertisement%20for%20the%20post%20Sports%20Officer%20or%20Assistant%20Director%20Sports%20(on%20deputation)_compressed%20(1).pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "haryana-thsti-research-associate-i-project-associate-i-ii",
@@ -205,7 +294,7 @@
     "applyOnlineLink": "https://recruitment.thsti.in/public/upload/job_pdf/179118106722web-advt-RN-01-10-I-walkin.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "haryana-rcb-administrative-officer",
@@ -222,7 +311,7 @@
     "applyOnlineLink": "https://rcb.res.in/files/advertisement-files/advt._no._rcb_ibdc_01_2026_rectt._hr.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "haryana-thsti-project-manager",
@@ -239,7 +328,7 @@
     "applyOnlineLink": "https://recruitment.thsti.in/public/upload/job_pdf/179154379731Advertisement-THS-C-19-2026.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "haryana-nit kurukshetra-junior-research-fellow",
@@ -256,7 +345,7 @@
     "applyOnlineLink": "https://nitkkr.ac.in/wp-content/uploads/2026/10/PAIR-JRF-Advt-Round-Computer-Engg-Dept02-JRFs.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "haryana-rites-individual-consultant",
@@ -273,7 +362,7 @@
     "applyOnlineLink": "https://recruit.rites.com/frmRegistration.aspx",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "All Categories",
@@ -511,7 +600,7 @@
     "applyOnlineLink": "https://aiimsrewari.edu.in/assets/img/jobs/ADVT_%20Faculty_02_2026.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "haryana-thsti-front-desk-executive-cum-receptionist",
@@ -528,7 +617,7 @@
     "applyOnlineLink": "https://recruitment.thsti.in/public/upload/job_pdf/Advertisement%20Admin%20Sep%202026.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "haryana-rcb-project-research-scientist-i",
@@ -545,7 +634,7 @@
     "applyOnlineLink": "https://rcb.res.in/files/advertisement-files/advt._no.38_project_2026_hr.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "haryana-ccs hau-young-professional",
@@ -562,7 +651,7 @@
     "applyOnlineLink": "https://hau.ac.in/public/notification-documents/5762/1791452709.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "haryana-district and sessions court jind-stenographer-grade-iii",
@@ -579,7 +668,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/jind-court-stenographer-recruitment-2026/",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "Fee",
@@ -624,7 +713,7 @@
     "applyOnlineLink": "https://www.rites.com/Upload/Career/Final_advertisement_(2)_pdf-2026-Oct-06-17-31-29.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "haryana-rcb-project-research-fellow",
@@ -641,7 +730,7 @@
     "applyOnlineLink": "https://rcb.res.in/files/advertisement-files/advt._no._37_project_2026_hr.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "haryana-mdu-research-assistant-project-fellow",
@@ -658,7 +747,7 @@
     "applyOnlineLink": "https://mdu.ac.in/UpFiles/UpPdfFiles/2026/Oct/4_10-07-2026_14-46-39_Advertisement%20for%20the%20engagement%20of%20the%20research%20staff%20for%20the%20HSRF%20sponsored%20research%20project_7.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "haryana-igu-field-investigator",
@@ -675,7 +764,7 @@
     "applyOnlineLink": "https://igu.ac.in//storage/1531/Readvertisement-field-invstigator.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "haryana-npcil-ca-cma-intern",
@@ -692,7 +781,7 @@
     "applyOnlineLink": "https://www.npcilcareers.co.in/HQCA20260610/candidate/Default.aspx",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "All Categories",
@@ -800,7 +889,7 @@
     "applyOnlineLink": "https://rites.com/Upload/Career/Final_adv_(1)_pdf-2026-Oct-06-15-22-22.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "haryana-rites-assistant-manager-more-manager",
@@ -817,7 +906,7 @@
     "applyOnlineLink": "https://rites.com/Upload/Career/64_to_72_26E_pdf-2026-Oct-06-09-28-21.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "haryana-cuh-guest-faculty",
@@ -834,7 +923,7 @@
     "applyOnlineLink": "https://file.cuh.ac.in/recruitment/advt_no_6ac4c5eab5ec6.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "haryana-thsti-field-worker-and-more-technician-walk-in-",
@@ -851,7 +940,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/thsti-research-nurse-technician-recruitment-2026/",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "Fee",
@@ -918,7 +1007,7 @@
     "applyOnlineLink": "https://skau.ac.in/downloads/files/n6aaccdfd3d3a6.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "haryana-niftem-young-professional",
@@ -935,7 +1024,7 @@
     "applyOnlineLink": "https://niftem.ac.in/storage/careers/openings/SZqCyTq3pz0K4UdisqFHooFVkBokq7xU203uTVAS.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "haryana-becil aiims rewari-deo-personal-assistant-and-more-mts",
@@ -952,7 +1041,7 @@
     "applyOnlineLink": "https://www.becil.com/uploads/topics/17911788087200.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "haryana-punjab and haryana high court-clerk",
@@ -969,7 +1058,7 @@
     "applyOnlineLink": "https://cdn3.digialm.com/EForms/configuredHtml/32046/100408/8QbduJv6oSbKw2p7dK/Index.html",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "SC/BC/OBC/ESM/EWS of Punjab",
@@ -1009,7 +1098,7 @@
     ],
     "howToApply": [
       "Visit the official website of S.S.S.C. at www.sssc.gov.in.",
-      "Click on the link for &#8216;Clerk District Courts of Punjab&#8217; under the Online Application section.",
+      "Click on the link for ‘Clerk District Courts of Punjab’ under the Online Application section.",
       "Fill in the Registration Form with personal and educational details.",
       "Upload a real-time photograph (not more than one month old) and scanned signature.",
       "Fill in the Application Form carefully, including category and sub-category details.",
@@ -1034,7 +1123,7 @@
     "applyOnlineLink": "https://srmuniversity.ac.in/uploads/51ba570fe68fc088e0a942bdf8700cdce7eb8b1d/1790763872HSRF-Advertisement.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "haryana-aiims rewari-senior-residents-senior-demonstrators",
@@ -1051,7 +1140,7 @@
     "applyOnlineLink": "https://aiimsrewari.edu.in/assets/img/jobs/Final%20SR_02_advt.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "haryana-aiims rewari-junior-resident-non-academic-",
@@ -1068,7 +1157,7 @@
     "applyOnlineLink": "https://aiimsrewari.edu.in/assets/img/jobs/AIIMS_Rewari_JR_Advertisement_FINAL.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "haryana-sainik school kunjpura-tgt-nursing-sister-and-more",
@@ -1085,7 +1174,7 @@
     "applyOnlineLink": "https://sskunjpura.org/admin/logged/images/academicupdate/Recruitment%20Notice.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "haryana-hpsc-food-safety-officer",
@@ -1102,7 +1191,7 @@
     "applyOnlineLink": "https://regn.hpsc.gov.in/frontend/",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20",
+    "scrapedAt": "2026-10-21",
     "fees": [
       {
         "category": "Persons with Benchmark Disabilities (PwBD) with at least 40% disability",
@@ -1181,7 +1270,7 @@
     "applyOnlineLink": "https://skau.ac.in/downloads/files/n6aaccdfd3d3a6.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   },
   {
     "id": "haryana-old civil hospital ambala-radiation-therapy-technologist-medical-physicist-c",
@@ -1198,6 +1287,6 @@
     "applyOnlineLink": "https://nhmharyana.gov.in/Writereaddata/userfiles/file/pdfs/AMB_%20ADVERTISEMNENT09072026.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-10-20"
+    "scrapedAt": "2026-10-21"
   }
 ]

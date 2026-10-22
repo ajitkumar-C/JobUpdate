@@ -14,7 +14,7 @@
     "applyOnlineLink": "https://nagalandpolicerecruitment.in",
     "state": "Nagaland",
     "stateCode": "nagaland",
-    "scrapedAt": "2026-10-21",
+    "scrapedAt": "2026-10-22",
     "fees": [
       {
         "category": "All Candidates",
@@ -71,7 +71,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec02799de6d3dae4c924142cf245a1d7/uploads/2026/10/2026101327.pdf",
     "state": "Nagaland",
     "stateCode": "nagaland",
-    "scrapedAt": "2026-10-21"
+    "scrapedAt": "2026-10-22"
   },
   {
     "id": "nagaland-gauhati high court-stenographer-grade-iii",
@@ -88,7 +88,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0289d4402dc03d3b7318bbac102030/uploads/2026/10/2026101312.pdf",
     "state": "Nagaland",
     "stateCode": "nagaland",
-    "scrapedAt": "2026-10-21"
+    "scrapedAt": "2026-10-22"
   },
   {
     "id": "nagaland-uco bank-apprentice",
@@ -105,7 +105,7 @@
     "applyOnlineLink": "https://beep.bfsissc.com/",
     "state": "Nagaland",
     "stateCode": "nagaland",
-    "scrapedAt": "2026-10-21",
+    "scrapedAt": "2026-10-22",
     "fees": [
       {
         "category": "SC/ST candidates",
@@ -177,102 +177,7 @@
     "applyOnlineLink": "https://www.nitnagaland.ac.in/templates/g5_helium/PDF/RECRUITMENT/Application%20Form_October_Advt._NITN_ME_%20RA.pdf",
     "state": "Nagaland",
     "stateCode": "nagaland",
-    "scrapedAt": "2026-10-21"
-  },
-  {
-    "id": "nagaland-spices board-trainee-development-",
-    "title": "Spices Board Recruitment 2026 – Trainee (Development) Posts",
-    "shortInfo": "Spices Board has announced notification for Trainee (Development) posts. Required qualification: B.Sc in Agri/Horti/Forestry/Bot/Micro/Biotech. Last date to apply: 19-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "21",
-    "lastDate": "19-10-26",
-    "officialWebsite": "https://www.indianspices.com",
-    "notificationLink": "https://www.indianspices.com/opportunities/details.html?id=906",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/spices-board-trainee-recruitment-2026/",
-    "state": "Nagaland",
-    "stateCode": "nagaland",
-    "scrapedAt": "2026-10-21",
-    "fees": [],
-    "dates": [
-      {
-        "event": "Last Date for Online Application",
-        "date": "19/10/2026"
-      },
-      {
-        "event": "Walk-in Test (Sakleshpur Region)",
-        "date": "22/10/2026"
-      },
-      {
-        "event": "Walk-in Test (Guwahati - DO Aizawl)",
-        "date": "22/10/2026"
-      },
-      {
-        "event": "Walk-in Test (Guwahati - FO Senapati)",
-        "date": "22/10/2026"
-      },
-      {
-        "event": "Walk-in Test (Guwahati - FO Ziro)",
-        "date": "22/10/2026"
-      },
-      {
-        "event": "Walk-in Test (RO Nizamabad)",
-        "date": "22/10/2026"
-      },
-      {
-        "event": "Walk-in Test (FO Patna)",
-        "date": "22/10/2026"
-      },
-      {
-        "event": "Walk-in Test (Gangtok Region)",
-        "date": "28/10/2026"
-      },
-      {
-        "event": "Walk-in Test (Guwahati - FO Dimapur)",
-        "date": "28/10/2026"
-      },
-      {
-        "event": "Walk-in Test (RO Guntur & FO Paderu)",
-        "date": "28/10/2026"
-      },
-      {
-        "event": "Walk-in Test (FO Jagadalpur)",
-        "date": "28/10/2026"
-      },
-      {
-        "event": "Walk-in Test (RO Mumbai)",
-        "date": "28/10/2026"
-      },
-      {
-        "event": "Walk-in Test (FO Koraput)",
-        "date": "31/10/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Trainee (Development)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Before appearing for the written test, candidates must ensure that the application is submitted online. Last date for submitting online application is 19.10.2026.",
-      "Eligible candidates shall submit the application online at http://spicesboard.in/recruitment/.",
-      "Candidates reporting after the specified time or failing to submit their application online will not be permitted to participate in the test.",
-      "Candidates are required to report at the venue at least 30 minutes prior to the scheduled time for certificate verification.",
-      "Candidates must bring all original documents and certificates, along with one set of self-attested copies each, pertaining to identity, age, and educational qualifications for verification purpose.",
-      "Those who have not received their final degree certificate yet need not appear for the test.",
-      "Before applying, candidates should ensure that they fulfill the eligibility criteria for the training as mentioned in the notification.",
-      "Those who have undergone training in any offices of Spices Board earlier need not apply again regardless of whether they have completed their training or not.",
-      "Candidates once selected will be required to undergo training in any of the offices of Spices Board under the mentioned region/regional office.",
-      "No TA/DA will be given to candidates who attend the Written Test.",
-      "Candidates are advised to check the Board’s website www.indianspices.com for updates and not to rely on information from third-party websites.",
-      "Candidates shall obtain the original Degree certificate within two years from the date of issue of Provisional Degree certificate."
-    ]
+    "scrapedAt": "2026-10-22"
   },
   {
     "id": "nagaland-deputy commissioner tuensang-multi-tasking-staff-mts-",
@@ -289,6 +194,6 @@
     "applyOnlineLink": "https://ipr.nagaland.gov.in/advertisement-2026-09-23",
     "state": "Nagaland",
     "stateCode": "nagaland",
-    "scrapedAt": "2026-10-21"
+    "scrapedAt": "2026-10-22"
   }
 ]

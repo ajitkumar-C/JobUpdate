@@ -14,7 +14,7 @@
     "applyOnlineLink": "https://ibsd.gov.in/uploads/documents/2026/10/14102026-278-Advertisement_for_Project_Associate-I.pdf",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-10-22"
+    "scrapedAt": "2026-10-23"
   },
   {
     "id": "manipur-uco bank-apprentice",
@@ -31,7 +31,7 @@
     "applyOnlineLink": "https://beep.bfsissc.com/",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-10-22",
+    "scrapedAt": "2026-10-23",
     "fees": [
       {
         "category": "SC/ST candidates",
@@ -86,77 +86,6 @@
       "Candidates can apply for engagement in ONE State/UT only.",
       "Keep the NATS Enrolment ID safe for all future correspondence.",
       "No hard copy of application or documents is to be sent to the Bank’s office."
-    ]
-  },
-  {
-    "id": "manipur-manipur psc-dental-surgeon",
-    "title": "Manipur PSC Recruitment 2026 – Dental Surgeon Posts",
-    "shortInfo": "Manipur PSC has announced notification for Dental Surgeon posts. Required qualification: Dental qualification, Registration with State Dental Council. Last date to apply: 18-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "13",
-    "lastDate": "18-10-26",
-    "officialWebsite": "https://mpscmanipur.gov.in",
-    "notificationLink": "https://mpscmanipur.gov.in/files/MPSC_26092317020.pdf",
-    "applyOnlineLink": "https://empsconline.gov.in/viewnotice.aspx?&nt=C%2bLkX3lH35E%3d&et=ruEf0YIQ1YRmB7w7fd5RDjg7N8bCr7LE",
-    "state": "Manipur",
-    "stateCode": "manipur",
-    "scrapedAt": "2026-10-22",
-    "fees": [
-      {
-        "category": "General / OBC",
-        "fee": "Rs. 600/-"
-      },
-      {
-        "category": "SC/ST",
-        "fee": "Rs. 400/-"
-      },
-      {
-        "category": "PwBD Candidates",
-        "fee": "Exempted"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Notification Date",
-        "date": "23/09/2026"
-      },
-      {
-        "event": "Starting Date to Apply Online",
-        "date": "28/09/2026"
-      },
-      {
-        "event": "Last Date to Apply Online",
-        "date": "18/10/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Dental Surgeon (MHS Grade-IV) - UR",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Dental Surgeon (MHS Grade-IV) - ST",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the official Manipur PSC website.",
-      "Open the Dental Surgeon Recruitment notification.",
-      "Complete the online registration process.",
-      "Fill in personal and educational details.",
-      "Upload required documents.",
-      "Pay the application fee.",
-      "Submit the application form before 18 October 2026.",
-      "Take a printout of the submitted application for future reference."
     ]
   }
 ]

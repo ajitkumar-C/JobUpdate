@@ -1,5 +1,108 @@
 [
   {
+    "id": "andhra-dcil-trainee-marine-engineer-trainee-electrical-officer",
+    "title": "DCIL Recruitment 2026 – Trainee Marine Engineer, Trainee Electrical Officer, NCVT (Walk-in) Posts",
+    "shortInfo": "DCIL has announced notification for Trainee Marine Engineer, Trainee Electrical Officer, NCVT (Walk-in) posts. Required qualification: Degree, 10th. Last date to apply: 03-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "28",
+    "lastDate": "03-11-26",
+    "officialWebsite": "https://dredge-india.com/",
+    "notificationLink": "https://dredge-india.com/files/WebsiteAdvNo042026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/dcil-trainee-recruitment-2026/",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-10-23",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last date to send CV (Internal floating staff) to recruitfs@dcil.co.in",
+        "date": "03/11/2026"
+      },
+      {
+        "event": "Walk-in-Interview for Fleet Personnel",
+        "date": "05/11/2026"
+      },
+      {
+        "event": "Walk-in-Interview for Trainee Marine Engineer / Trainee Electrical Officer / NCV(T)s",
+        "date": "06/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Trainee Marine Engineer (TME)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trainee Electrical Officer (TELO)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "NCV Trainee (NCV(T))",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the Bio-data/Application format from DCI website: https://www.dredge-india.com/career or use the prescribed format given in the advertisement.",
+      "Fill in the Bio-data/Application form completely with all required details.",
+      "Collect all original certificates and one set of self-attested photocopies (educational qualifications, caste certificate, COC/CDC/Passport/INDOS/STCW certificates, etc.).",
+      "Appear for the Walk-in-Interview on the scheduled date and time at the respective venue (Visakhapatnam, Kolkata, Chennai, or Kochi).",
+      "Internal floating staff not signed off may appear through online VC mode with the Master’s recommendation and must send their CV with requisite documents to recruitfs@dcil.co.in by 03.11.2026 15:00 Hrs.",
+      "Candidates attending the Walk-in-Interview need NOT apply online.",
+      "Candidates belonging to SC/ST/OBC/EWS must bring the relevant caste/income certificate in the prescribed format."
+    ]
+  },
+  {
+    "id": "andhra-visakhapatnam port authority-senior-deputy-secretary",
+    "title": "Visakhapatnam Port Authority Recruitment 2026 – Senior Deputy Secretary Posts",
+    "shortInfo": "Visakhapatnam Port Authority has announced notification for Senior Deputy Secretary posts. Required qualification: Any Bachelors Degree. Last date to apply: 06-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "06-12-26",
+    "officialWebsite": "https://onlinevacancy.shipmin.nic.in/home/dwnld_advt/658",
+    "notificationLink": "https://onlinevacancy.shipmin.nic.in/home/dwnld_advt/658",
+    "applyOnlineLink": "https://onlinevacancy.shipmin.nic.in/home/dwnld_advt/658",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-10-23"
+  },
+  {
+    "id": "andhra-amrita vishwa vidyapeetham-robotics-engineer-and-more-research-trainee",
+    "title": "Amrita Vishwa Vidyapeetham Recruitment 2026 – Robotics Engineer and More, Research Trainee Posts",
+    "shortInfo": "Amrita Vishwa Vidyapeetham has announced notification for Robotics Engineer and More, Research Trainee posts. Required qualification: ITI, M.Phil/Ph.D, 12TH, Any Graduate, Any Masters Degree, MBA/PGDM, B.Tech/B.E. Last date to apply: 31-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "83",
+    "lastDate": "31-10-26",
+    "officialWebsite": "https://www.amrita.edu/jobs/",
+    "notificationLink": "https://www.amrita.edu/jobs/",
+    "applyOnlineLink": "https://www.amrita.edu/jobs/",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-10-23"
+  },
+  {
     "id": "andhra-tmc hbchrcv-tele-radiology-consultant-walk-in-",
     "title": "TMC HBCHRCV Recruitment 2026 – Tele Radiology Consultant (Walk-in) Posts",
     "shortInfo": "TMC HBCHRCV has announced notification for Tele Radiology Consultant (Walk-in) posts. Required qualification: MS/MD. Last date to apply: 27-10-26.",
@@ -14,7 +117,7 @@
     "applyOnlineLink": "https://tmc.gov.in/postmaster/ViewFile?FileId=KHxXWzM1zWT5C0bGUPpolg==",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22"
+    "scrapedAt": "2026-10-23"
   },
   {
     "id": "andhra-amrita vishwa vidyapeetham-robotics-engineer-research-trainee",
@@ -31,7 +134,7 @@
     "applyOnlineLink": "https://www.amrita.edu/jobs/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22"
+    "scrapedAt": "2026-10-23"
   },
   {
     "id": "andhra-amrita vishwa vidyapeetham-assistant-professor-and-more-resident-staff-nurse",
@@ -48,7 +151,7 @@
     "applyOnlineLink": "https://www.amrita.edu/jobs/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22"
+    "scrapedAt": "2026-10-23"
   },
   {
     "id": "andhra-tmc-senior-resident-walk-in-",
@@ -65,7 +168,7 @@
     "applyOnlineLink": "https://tmc.gov.in/postmaster/Details.aspx?adv=TQKhQ1G1eHlutGWC7gZUNQ==",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22"
+    "scrapedAt": "2026-10-23"
   },
   {
     "id": "andhra-ccrh-senior-research-fellow",
@@ -82,7 +185,7 @@
     "applyOnlineLink": "https://ccrhindia.ayush.gov.in/sites/default/files/2026-10/CCRH%20Engagement%20of%20Senior%20Research%20Fellow%20(Homoeo)%20on%20contract%20basis.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22"
+    "scrapedAt": "2026-10-23"
   },
   {
     "id": "andhra-lic hfl-apprentice",
@@ -99,7 +202,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22",
+    "scrapedAt": "2026-10-23",
     "fees": [
       {
         "category": "Scheduled Caste (SC) / Scheduled Tribe (ST) candidates",
@@ -171,7 +274,7 @@
     "applyOnlineLink": "https://apps.shar.gov.in/Recruitment/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22",
+    "scrapedAt": "2026-10-23",
     "fees": [
       {
         "category": "Post Codes 07–15 (Women/SC/ST/PwBD/Ex-Servicemen – Exempted, Full Refund)",
@@ -400,7 +503,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3kv01c5b35a864eb1b4cd4b82cd4e7d90/uploads/2026/10/2026101960.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22"
+    "scrapedAt": "2026-10-23"
   },
   {
     "id": "andhra-bhel-fitter-welder-turner-machinist-electrician-electro",
@@ -417,7 +520,7 @@
     "applyOnlineLink": "https://cdn.digialm.com/EForms/configuredHtml/33192/102813/o0zKIYO3CqWa8uMPmN/login.html",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22",
+    "scrapedAt": "2026-10-23",
     "fees": [
       {
         "category": "UR/EWS/OBC",
@@ -520,7 +623,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/irel-tradesman-trainee-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22",
+    "scrapedAt": "2026-10-23",
     "fees": [
       {
         "category": "UR / EWS / OBC (NCL) candidates",
@@ -585,57 +688,6 @@
     ]
   },
   {
-    "id": "andhra-hbchrc visakhapatnam-clinical-trial-coordinator",
-    "title": "HBCHRC Visakhapatnam Recruitment 2026 – Clinical Trial Coordinator Posts",
-    "shortInfo": "HBCHRC Visakhapatnam has announced notification for Clinical Trial Coordinator posts. Required qualification: D.Pharm, PG Diploma, M.Sc, M.Pharma. Last date to apply: 21-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "21-10-26",
-    "officialWebsite": "https://tmc.gov.in/postmaster/Details.aspx?adv=BFS+EpP/2ux08AE/wVKcuw==",
-    "notificationLink": "https://tmc.gov.in/postmaster/Details.aspx?adv=BFS+EpP/2ux08AE/wVKcuw==",
-    "applyOnlineLink": "https://tmc.gov.in/postmaster/Details.aspx?adv=BFS+EpP/2ux08AE/wVKcuw==",
-    "state": "Andhra Pradesh",
-    "stateCode": "andhra",
-    "scrapedAt": "2026-10-22"
-  },
-  {
-    "id": "andhra-dw&amp;cwo palnadu-case-worker",
-    "title": "DW&amp;CWO Palnadu Recruitment 2026 – Case Worker Posts",
-    "shortInfo": "DW&amp;CWO Palnadu has announced notification for Case Worker posts. Required qualification: BSW, B.A, B.Sc, LLB. Last date to apply: 20-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "20-10-26",
-    "officialWebsite": "https://cdn.s3waas.gov.in/s3e4da3b7fbbce2345d7772b0674a318d5/uploads/2026/10/17920771916712.pdf",
-    "notificationLink": "https://cdn.s3waas.gov.in/s3e4da3b7fbbce2345d7772b0674a318d5/uploads/2026/10/17920771916712.pdf",
-    "applyOnlineLink": "https://cdn.s3waas.gov.in/s3e4da3b7fbbce2345d7772b0674a318d5/uploads/2026/10/17920771916712.pdf",
-    "state": "Andhra Pradesh",
-    "stateCode": "andhra",
-    "scrapedAt": "2026-10-22"
-  },
-  {
-    "id": "andhra-dw&amp;cw&amp;eo palnadu-para-legal-personnel-and-more-case-worker",
-    "title": "DW&amp;CW&amp;EO Palnadu Recruitment 2026 – Para Legal Personnel and More, Case Worker Posts",
-    "shortInfo": "DW&amp;CW&amp;EO Palnadu has announced notification for Para Legal Personnel and More, Case Worker posts. Required qualification: LLB, BSW, B.A. Last date to apply: 20-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "4",
-    "lastDate": "20-10-26",
-    "officialWebsite": "https://cdn.s3waas.gov.in/s3e4da3b7fbbce2345d7772b0674a318d5/uploads/2026/10/17920766562221.pdf",
-    "notificationLink": "https://cdn.s3waas.gov.in/s3e4da3b7fbbce2345d7772b0674a318d5/uploads/2026/10/17920766562221.pdf",
-    "applyOnlineLink": "https://cdn.s3waas.gov.in/s3e4da3b7fbbce2345d7772b0674a318d5/uploads/2026/10/17920766562221.pdf",
-    "state": "Andhra Pradesh",
-    "stateCode": "andhra",
-    "scrapedAt": "2026-10-22"
-  },
-  {
     "id": "andhra-dwcweo palnadu-chowkidar-and-more-asst-cum-data-entry-operator",
     "title": "DWCWEO Palnadu Recruitment 2026 – Chowkidar and More, Asst. cum Data Entry Operator Posts",
     "shortInfo": "DWCWEO Palnadu has announced notification for Chowkidar and More, Asst. cum Data Entry Operator posts. Required qualification: 7th, 12TH, Diploma, PG Diploma. Last date to apply: 23-10-26.",
@@ -650,7 +702,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3e4da3b7fbbce2345d7772b0674a318d5/uploads/2026/10/17919756658503.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22"
+    "scrapedAt": "2026-10-23"
   },
   {
     "id": "andhra-appsc-senior-lecturer-d-i-e-t-lecturer-s-c-e-r-t-lecture",
@@ -667,7 +719,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-diet-lecturer-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22",
+    "scrapedAt": "2026-10-23",
     "fees": [],
     "dates": [
       {
@@ -729,7 +781,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-group-2-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22",
+    "scrapedAt": "2026-10-23",
     "fees": [
       {
         "category": "Fee",
@@ -860,7 +912,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-aee-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22",
+    "scrapedAt": "2026-10-23",
     "fees": [
       {
         "category": "Fee",
@@ -955,7 +1007,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/ap-dsc-teacher-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22",
+    "scrapedAt": "2026-10-23",
     "fees": [],
     "dates": [
       {
@@ -1057,7 +1109,7 @@
     "applyOnlineLink": "https://beep.bfsissc.com/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22",
+    "scrapedAt": "2026-10-23",
     "fees": [
       {
         "category": "SC/ST candidates",
@@ -1115,23 +1167,6 @@
     ]
   },
   {
-    "id": "andhra-iiit sri city, chittoor-junior-research-fellow",
-    "title": "IIIT Sri City, Chittoor Recruitment 2026 – Junior Research Fellow Posts",
-    "shortInfo": "IIIT Sri City, Chittoor has announced notification for Junior Research Fellow posts. Required qualification: M.E/M.Tech, B.Tech/B.E. Last date to apply: 20-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "20-10-26",
-    "officialWebsite": "https://iiits.ac.in/iiits-content/uploads/2026/10/Disaster-Net-JRF_Advertisement_Oct-2026.docx-1.pdf",
-    "notificationLink": "https://iiits.ac.in/iiits-content/uploads/2026/10/Disaster-Net-JRF_Advertisement_Oct-2026.docx-1.pdf",
-    "applyOnlineLink": "https://iiits.ac.in/iiits-content/uploads/2026/10/Disaster-Net-JRF_Advertisement_Oct-2026.docx-1.pdf",
-    "state": "Andhra Pradesh",
-    "stateCode": "andhra",
-    "scrapedAt": "2026-10-22"
-  },
-  {
     "id": "andhra-iiit sri city-project-associate",
     "title": "IIIT Sri City Recruitment 2026 – Project Associate Posts",
     "shortInfo": "IIIT Sri City has announced notification for Project Associate posts. Required qualification: B.Tech/B.E. Last date to apply: 25-10-26.",
@@ -1146,7 +1181,7 @@
     "applyOnlineLink": "https://iiits.ac.in/iiits-content/uploads/2026/10/AgriHub-Project-Associate-_Advertisement-Oct-2026.docx-2.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22"
+    "scrapedAt": "2026-10-23"
   },
   {
     "id": "andhra-andhra university-junior-research-fellow",
@@ -1163,7 +1198,7 @@
     "applyOnlineLink": "https://www.andhrauniversity.edu.in/file-desk/updates/13-10-2026/6acdbefa83163.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22"
+    "scrapedAt": "2026-10-23"
   },
   {
     "id": "andhra-east godavari district court-head-clerk",
@@ -1180,24 +1215,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec01a0ba2648acd23dc7a5829968ce53/uploads/2026/10/2026101293.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22"
-  },
-  {
-    "id": "andhra-aiims mangalagiri-research-scientist-b",
-    "title": "AIIMS Mangalagiri Recruitment 2026 – Research Scientist B Posts",
-    "shortInfo": "AIIMS Mangalagiri has announced notification for Research Scientist B posts. Required qualification: Any Post Graduate. Last date to apply: 18-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "18-10-26",
-    "officialWebsite": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/10/Advertisement-draft-for-Research-Scientist-B-Non-Medical-staff-recruitment-Reg.pdf",
-    "notificationLink": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/10/Advertisement-draft-for-Research-Scientist-B-Non-Medical-staff-recruitment-Reg.pdf",
-    "applyOnlineLink": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/10/Advertisement-draft-for-Research-Scientist-B-Non-Medical-staff-recruitment-Reg.pdf",
-    "state": "Andhra Pradesh",
-    "stateCode": "andhra",
-    "scrapedAt": "2026-10-22"
+    "scrapedAt": "2026-10-23"
   },
   {
     "id": "andhra-angrau-lspm-part-time-teacher",
@@ -1214,7 +1232,7 @@
     "applyOnlineLink": "https://angrau.ac.in/UPLOADS/CareersPDFs/AGCMNDWIILSPM_07_10.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22"
+    "scrapedAt": "2026-10-23"
   },
   {
     "id": "andhra-csb btsso-sericulture-assistant",
@@ -1231,7 +1249,7 @@
     "applyOnlineLink": "https://csb.gov.in/sites/default/files/2026-10/csb-btsso-SA.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22"
+    "scrapedAt": "2026-10-23"
   },
   {
     "id": "andhra-iim visakhapatnam-research-associate-data-science-",
@@ -1248,7 +1266,7 @@
     "applyOnlineLink": "https://iimv.ac.in/storage/CareerDocument/Career_1791284192_1.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22"
+    "scrapedAt": "2026-10-23"
   },
   {
     "id": "andhra-aiims mangalagiri-faculty-group-a-associate-professor",
@@ -1265,7 +1283,7 @@
     "applyOnlineLink": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/09/ADVERTISEMENT-FOR-DIRECT-RECRUITMENT-OF-FACULTY-POSTS-GROUP-%E2%80%98A-IN-VARIOUS-DEPARTMENTS-OF-AIIMS-MANGALAGIRI-.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22"
+    "scrapedAt": "2026-10-23"
   },
   {
     "id": "andhra-ap high court-civil-judge-junior-division-",
@@ -1282,7 +1300,7 @@
     "applyOnlineLink": "https://cdn3.digialm.com//EForms/configuredHtml/2381/102127/Index.html",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22",
+    "scrapedAt": "2026-10-23",
     "fees": [
       {
         "category": "Open Competition / EWS / Backward Classes (A, B, C, D & E)",
@@ -1345,7 +1363,7 @@
     "applyOnlineLink": "https://vpt.shipping.gov.in/admin_assets/uploads/1790680209_Fire_Officer_Notification00129092026.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22"
+    "scrapedAt": "2026-10-23"
   },
   {
     "id": "andhra-mrpl-retail-engineer-terminal-operation-engineer-retail",
@@ -1362,7 +1380,7 @@
     "applyOnlineLink": "https://www.mrpl.co.in/hi/careers?prophazecheck=1",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22",
+    "scrapedAt": "2026-10-23",
     "fees": [
       {
         "category": "General / OBC (NCL) / EWS",
@@ -1429,7 +1447,7 @@
     "applyOnlineLink": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/09/Recruitment-SR-1.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22"
+    "scrapedAt": "2026-10-23"
   },
   {
     "id": "andhra-aiims mangalagiri-librarian-grade-i-accounts-officer",
@@ -1446,7 +1464,7 @@
     "applyOnlineLink": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/09/Advertisement-for-Recruitment-of-Various-Non-Faculty-Group-A-B-Posts-on-Deputation-basis-at-AIIMS-Mangalagiri.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22"
+    "scrapedAt": "2026-10-23"
   },
   {
     "id": "andhra-ananthapuramu district court-computer-assistant",
@@ -1463,7 +1481,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec030655f117444fc1911ab9c6f6b013/uploads/2026/09/2026091981.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22"
+    "scrapedAt": "2026-10-23"
   },
   {
     "id": "andhra-appsc-hostel-welfare-officer-grade-ii",
@@ -1480,7 +1498,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22",
+    "scrapedAt": "2026-10-23",
     "fees": [],
     "dates": [
       {
@@ -1542,7 +1560,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/slprb-ap-police-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22",
+    "scrapedAt": "2026-10-23",
     "fees": [
       {
         "category": "OC (incl. EWS) & BC - SI/Scientific Assistant posts",
@@ -1711,7 +1729,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22",
+    "scrapedAt": "2026-10-23",
     "fees": [
       {
         "category": "Fee",
@@ -1765,7 +1783,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22",
+    "scrapedAt": "2026-10-23",
     "fees": [],
     "dates": [
       {
@@ -1987,7 +2005,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22",
+    "scrapedAt": "2026-10-23",
     "fees": [
       {
         "category": "Fee",
@@ -2040,7 +2058,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22",
+    "scrapedAt": "2026-10-23",
     "fees": [
       {
         "category": "Fee",
@@ -2094,7 +2112,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22",
+    "scrapedAt": "2026-10-23",
     "fees": [
       {
         "category": "Application Processing Fee (All Candidates)",
@@ -2164,7 +2182,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22",
+    "scrapedAt": "2026-10-23",
     "fees": [
       {
         "category": "Fee",
@@ -2218,7 +2236,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22",
+    "scrapedAt": "2026-10-23",
     "fees": [
       {
         "category": "Fee",
@@ -2271,7 +2289,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22",
+    "scrapedAt": "2026-10-23",
     "fees": [
       {
         "category": "General/OC Candidates (Application Fee + Processing Fee)",
@@ -2421,7 +2439,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22",
+    "scrapedAt": "2026-10-23",
     "fees": [
       {
         "category": "Fee",
@@ -2476,7 +2494,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22",
+    "scrapedAt": "2026-10-23",
     "fees": [
       {
         "category": "Fee",
@@ -2529,7 +2547,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-22",
+    "scrapedAt": "2026-10-23",
     "fees": [
       {
         "category": "Fee",

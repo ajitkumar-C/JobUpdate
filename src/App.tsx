@@ -563,13 +563,14 @@ export const App: React.FC = () => {
 
       {/* Sub Navigation Bar for Categories */}
       {!isAdminMode && !selectedJobId && (
-        <nav className="sub-nav no-print">
-          <button
+        <nav className="sub-nav no-print" aria-label="Category Navigation">
+          <a
+            href="/"
             className={`sub-nav-item ${currentView === 'home' && selectedCategoryCode === null ? 'active' : ''}`}
-            onClick={() => { navigateTo('home', null, null, false); window.scrollTo(0, 0); }}
+            onClick={(e) => { e.preventDefault(); navigateTo('home', null, null, false); window.scrollTo(0, 0); }}
           >
             All Sections
-          </button>
+          </a>
           
           {/* All 9 Recruitment Categories */}
           {ORDERED_CATEGORIES.map((catId) => {
@@ -577,45 +578,50 @@ export const App: React.FC = () => {
             if (!cat) return null;
             const icon = CATEGORY_ICONS[catId] || '📄';
             return (
-              <button
+              <a
                 key={cat.id}
+                href={`/${cat.id}`}
                 className={`sub-nav-item ${currentView === 'home' && selectedCategoryCode === cat.id ? 'active' : ''}`}
-                onClick={() => { navigateTo('home', cat.id, null, false); window.scrollTo(0, 0); }}
+                onClick={(e) => { e.preventDefault(); navigateTo('home', cat.id, null, false); window.scrollTo(0, 0); }}
               >
                 <span>{icon} {cat.name}</span>
-              </button>
+              </a>
             );
           })}
 
           {/* State-Wise Jobs */}
-          <button
+          <a
+            href="/state-jobs"
             className={`sub-nav-item sub-nav-state ${currentView === 'state-directory' || currentView === 'state-view' ? 'active' : ''}`}
-            onClick={() => { navigateTo('state-directory', null, null, false); window.scrollTo(0, 0); }}
+            onClick={(e) => { e.preventDefault(); navigateTo('state-directory', null, null, false); window.scrollTo(0, 0); }}
           >
             🌏 State Jobs
-          </button>
+          </a>
 
           {/* Blog Section */}
-          <button
+          <a
+            href="/blog"
             className={`sub-nav-item sub-nav-blog ${currentView === 'blog-directory' || currentView === 'blog-view' ? 'active' : ''}`}
-            onClick={() => { navigateTo('blog-directory', null, null, false); window.scrollTo(0, 0); }}
+            onClick={(e) => { e.preventDefault(); navigateTo('blog-directory', null, null, false); window.scrollTo(0, 0); }}
           >
             ✍️ Blog
-          </button>
+          </a>
 
           {/* Useful Tools Direct Navigation */}
-          <button
+          <a
+            href="/tools/image-resizer"
             className={`sub-nav-item ${currentView === 'tool-resizer' ? 'active' : ''}`}
-            onClick={() => { navigateTo('tool-resizer', null, null, false); window.scrollTo(0, 0); }}
+            onClick={(e) => { e.preventDefault(); navigateTo('tool-resizer', null, null, false); window.scrollTo(0, 0); }}
           >
             📷 Photo Resizer
-          </button>
-          <button
+          </a>
+          <a
+            href="/tools/age-calculator"
             className={`sub-nav-item ${currentView === 'tool-age' ? 'active' : ''}`}
-            onClick={() => { navigateTo('tool-age', null, null, false); window.scrollTo(0, 0); }}
+            onClick={(e) => { e.preventDefault(); navigateTo('tool-age', null, null, false); window.scrollTo(0, 0); }}
           >
             📅 Age Calculator
-          </button>
+          </a>
         </nav>
       )}
 
@@ -851,27 +857,31 @@ export const App: React.FC = () => {
               <h3 className="drawer-section-title">Navigation Sections</h3>
               <ul className="drawer-list">
                 <li>
-                  <button 
+                  <a 
+                    href="/"
                     className={`drawer-item ${selectedCategoryCode === null ? 'active' : ''}`}
-                    onClick={() => {
+                    onClick={(e) => {
+                      e.preventDefault();
                       navigateTo('home', null, null, false);
                       window.scrollTo(0, 0);
                     }}
                   >
                     All Sections / होम
-                  </button>
+                  </a>
                 </li>
                 {categories.map((cat) => (
                   <li key={cat.id}>
-                    <button
+                    <a
+                      href={`/${cat.id}`}
                       className={`drawer-item ${selectedCategoryCode === cat.id ? 'active' : ''}`}
-                      onClick={() => {
+                      onClick={(e) => {
+                        e.preventDefault();
                         navigateTo('home', cat.id, null, false);
                         window.scrollTo(0, 0);
                       }}
                     >
                       {cat.name}
-                    </button>
+                    </a>
                   </li>
                 ))}
               </ul>
@@ -880,36 +890,40 @@ export const App: React.FC = () => {
                 <h3 className="drawer-section-title">State-Wise Jobs</h3>
                 <ul className="drawer-list">
                   <li>
-                    <button
+                    <a
+                      href="/state-jobs"
                       className={`drawer-item ${currentView === 'state-directory' ? 'active' : ''}`}
-                      onClick={() => { navigateTo('state-directory', null, null, false); window.scrollTo(0, 0); }}
+                      onClick={(e) => { e.preventDefault(); navigateTo('state-directory', null, null, false); window.scrollTo(0, 0); }}
                     >
                       🌏 All State Jobs
-                    </button>
+                    </a>
                   </li>
                   <li>
-                    <button
+                    <a
+                      href="/state/mh"
                       className={`drawer-item ${currentView === 'state-view' && selectedStateCode === 'mh' ? 'active' : ''}`}
-                      onClick={() => { navigateTo('state-view', null, null, false, 'mh'); window.scrollTo(0, 0); }}
+                      onClick={(e) => { e.preventDefault(); navigateTo('state-view', null, null, false, 'mh'); window.scrollTo(0, 0); }}
                     >
                       🚩 Maharashtra Jobs
-                    </button>
+                    </a>
                   </li>
                   <li>
-                    <button
+                    <a
+                      href="/state/up"
                       className={`drawer-item ${currentView === 'state-view' && selectedStateCode === 'up' ? 'active' : ''}`}
-                      onClick={() => { navigateTo('state-view', null, null, false, 'up'); window.scrollTo(0, 0); }}
+                      onClick={(e) => { e.preventDefault(); navigateTo('state-view', null, null, false, 'up'); window.scrollTo(0, 0); }}
                     >
                       🚩 Uttar Pradesh
-                    </button>
+                    </a>
                   </li>
                   <li>
-                    <button
+                    <a
+                      href="/state/bihar"
                       className={`drawer-item ${currentView === 'state-view' && selectedStateCode === 'bihar' ? 'active' : ''}`}
-                      onClick={() => { navigateTo('state-view', null, null, false, 'bihar'); window.scrollTo(0, 0); }}
+                      onClick={(e) => { e.preventDefault(); navigateTo('state-view', null, null, false, 'bihar'); window.scrollTo(0, 0); }}
                     >
                       🚩 Bihar Jobs
-                    </button>
+                    </a>
                   </li>
                 </ul>
               </div>
@@ -918,12 +932,13 @@ export const App: React.FC = () => {
                 <h3 className="drawer-section-title">Career Corner</h3>
                 <ul className="drawer-list">
                   <li>
-                    <button
+                    <a
+                      href="/blog"
                       className={`drawer-item ${currentView === 'blog-directory' || currentView === 'blog-view' ? 'active' : ''}`}
-                      onClick={() => { navigateTo('blog-directory', null, null, false); window.scrollTo(0, 0); }}
+                      onClick={(e) => { e.preventDefault(); navigateTo('blog-directory', null, null, false); window.scrollTo(0, 0); }}
                     >
                       ✍️ Sarkari Aavedan Blog
-                    </button>
+                    </a>
                   </li>
                 </ul>
               </div>
@@ -932,20 +947,22 @@ export const App: React.FC = () => {
                 <h3 className="drawer-section-title">🛠️ Useful Sarkari Tools</h3>
                 <ul className="drawer-list">
                   <li>
-                    <button
+                    <a
+                      href="/tools/image-resizer"
                       className={`drawer-item ${currentView === 'tool-resizer' ? 'active' : ''}`}
-                      onClick={() => { navigateTo('tool-resizer', null, null, false); window.scrollTo(0, 0); }}
+                      onClick={(e) => { e.preventDefault(); navigateTo('tool-resizer', null, null, false); window.scrollTo(0, 0); }}
                     >
                       📷 Photo & Signature Resizer
-                    </button>
+                    </a>
                   </li>
                   <li>
-                    <button
+                    <a
+                      href="/tools/age-calculator"
                       className={`drawer-item ${currentView === 'tool-age' ? 'active' : ''}`}
-                      onClick={() => { navigateTo('tool-age', null, null, false); window.scrollTo(0, 0); }}
+                      onClick={(e) => { e.preventDefault(); navigateTo('tool-age', null, null, false); window.scrollTo(0, 0); }}
                     >
                       📅 Sarkari Age Calculator
-                    </button>
+                    </a>
                   </li>
                 </ul>
               </div>
@@ -954,19 +971,19 @@ export const App: React.FC = () => {
                 <h3 className="drawer-section-title">Information Pages</h3>
                 <ul className="drawer-list">
                   <li>
-                    <button className="drawer-item" onClick={() => { navigateTo('about', null, null, false); window.scrollTo(0, 0); }}>About Us</button>
+                    <a href="/about" className="drawer-item" onClick={(e) => { e.preventDefault(); navigateTo('about', null, null, false); window.scrollTo(0, 0); }}>About Us</a>
                   </li>
                   <li>
-                    <button className="drawer-item" onClick={() => { navigateTo('contact', null, null, false); window.scrollTo(0, 0); }}>Contact</button>
+                    <a href="/contact" className="drawer-item" onClick={(e) => { e.preventDefault(); navigateTo('contact', null, null, false); window.scrollTo(0, 0); }}>Contact</a>
                   </li>
                   <li>
-                    <button className="drawer-item" onClick={() => { navigateTo('disclaimer', null, null, false); window.scrollTo(0, 0); }}>Disclaimer</button>
+                    <a href="/disclaimer" className="drawer-item" onClick={(e) => { e.preventDefault(); navigateTo('disclaimer', null, null, false); window.scrollTo(0, 0); }}>Disclaimer</a>
                   </li>
                   <li>
-                    <button className="drawer-item" onClick={() => { navigateTo('privacy', null, null, false); window.scrollTo(0, 0); }}>Privacy Policy</button>
+                    <a href="/privacy" className="drawer-item" onClick={(e) => { e.preventDefault(); navigateTo('privacy', null, null, false); window.scrollTo(0, 0); }}>Privacy Policy</a>
                   </li>
                   <li>
-                    <button className="drawer-item" onClick={() => { navigateTo('terms', null, null, false); window.scrollTo(0, 0); }}>Terms of Service</button>
+                    <a href="/terms" className="drawer-item" onClick={(e) => { e.preventDefault(); navigateTo('terms', null, null, false); window.scrollTo(0, 0); }}>Terms of Service</a>
                   </li>
                 </ul>
               </div>

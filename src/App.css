@@ -421,6 +421,7 @@
   flex-direction: column;
   gap: 0.25rem;
   cursor: pointer;
+  text-decoration: none;
 }
 
 .category-column-item-title {
@@ -1299,6 +1300,10 @@ textarea.form-control {
 }
 
 .sub-nav-item {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
   background: var(--bg-primary);
   border: 1px solid var(--border-color);
   color: var(--text-secondary);
@@ -1374,6 +1379,7 @@ textarea.form-control {
   background-color: var(--bg-secondary);
   cursor: pointer;
   transition: all var(--transition-fast);
+  text-decoration: none;
 }
 
 .category-column-more:hover {
@@ -1448,6 +1454,9 @@ textarea.form-control {
 
 .drawer-item {
   width: 100%;
+  display: block;
+  box-sizing: border-box;
+  text-decoration: none;
   text-align: left;
   background: transparent;
   border: none;

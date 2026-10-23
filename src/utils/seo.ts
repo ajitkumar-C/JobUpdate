@@ -472,9 +472,7 @@ export function updateSEO(
 
   } else {
     // D. Homepage (Root / Dashboard)
-    // Canonical stays 'https://sarkariavedan.info/'
-    
-    // Inject Dynamic WebSite & Organization Graph Schema
+    // Inject Dynamic WebSite & Organization Graph Schema with SiteNavigationElement for Google Sitelinks
     const graphSchema = {
       '@context': 'https://schema.org',
       '@graph': [
@@ -483,20 +481,35 @@ export function updateSEO(
           '@id': 'https://sarkariavedan.info/#website',
           'url': 'https://sarkariavedan.info/',
           'name': 'Sarkari Aavedan',
-          'alternateName': ['Sarkari Aavedan (सरकारी आवेदन)', 'sarkariavedan.info', 'sarkariavedan'],
+          'alternateName': [
+            'Sarkari Aavedan (सरकारी आवेदन)',
+            'Sarkari Aavedan',
+            'SarkariAavedan',
+            'sarkariavedan.info',
+            'Sarkari Aavedan 2026'
+          ],
           'publisher': {
             '@id': 'https://sarkariavedan.info/#organization'
+          },
+          'potentialAction': {
+            '@type': 'SearchAction',
+            'target': {
+              '@type': 'EntryPoint',
+              'urlTemplate': 'https://sarkariavedan.info/?search={search_term_string}'
+            },
+            'query-input': 'required name=search_term_string'
           }
         },
         {
           '@type': 'Organization',
           '@id': 'https://sarkariavedan.info/#organization',
           'name': 'Sarkari Aavedan',
+          'alternateName': ['Sarkari Aavedan (सरकारी आवेदन)', 'SarkariAavedan'],
           'url': 'https://sarkariavedan.info/',
           'logo': {
             '@type': 'ImageObject',
             '@id': 'https://sarkariavedan.info/#logo',
-            'url': 'https://sarkariavedan.info/favicon.svg',
+            'url': 'https://sarkariavedan.info/sarkariavedan_logo.jpg',
             'caption': 'Sarkari Aavedan Logo'
           },
           'image': {
@@ -507,6 +520,78 @@ export function updateSEO(
             'https://www.facebook.com/SarkariAavedanInfo',
             'https://twitter.com/SarkariAavedan'
           ]
+        },
+        {
+          '@type': 'SiteNavigationElement',
+          'name': 'Latest Jobs',
+          'url': 'https://sarkariavedan.info/latest-jobs',
+          'description': 'View all latest online application forms for UPSC, SSC, Railways, Banking, Defense, and State Police.'
+        },
+        {
+          '@type': 'SiteNavigationElement',
+          'name': 'Admit Card',
+          'url': 'https://sarkariavedan.info/admit-card',
+          'description': 'Download official exam hall tickets, call letters, and exam city intimation slips.'
+        },
+        {
+          '@type': 'SiteNavigationElement',
+          'name': 'Result',
+          'url': 'https://sarkariavedan.info/result',
+          'description': 'Check government recruitment results, written examination merit lists, and scorecards.'
+        },
+        {
+          '@type': 'SiteNavigationElement',
+          'name': 'Answer Key',
+          'url': 'https://sarkariavedan.info/answer-key',
+          'description': 'Match question responses with official provisional and final answer keys.'
+        },
+        {
+          '@type': 'SiteNavigationElement',
+          'name': 'Syllabus',
+          'url': 'https://sarkariavedan.info/syllabus',
+          'description': 'Read exam patterns, section-wise syllabus PDFs, and official marking schemes.'
+        },
+        {
+          '@type': 'SiteNavigationElement',
+          'name': 'Admission',
+          'url': 'https://sarkariavedan.info/admission',
+          'description': 'National and state-level entrance examination alerts, CUET, B.Ed, NVS, and ITI admissions.'
+        },
+        {
+          '@type': 'SiteNavigationElement',
+          'name': 'State Govt Jobs',
+          'url': 'https://sarkariavedan.info/state-jobs',
+          'description': 'State-wise sarkari naukri alerts across Maharashtra, UP, Bihar, Rajasthan, and 33 states.'
+        },
+        {
+          '@type': 'SiteNavigationElement',
+          'name': 'Sarkari Blog & Guides',
+          'url': 'https://sarkariavedan.info/blog',
+          'description': 'Detailed exam preparation blueprints, subject-wise booklists, and salary breakdowns.'
+        },
+        {
+          '@type': 'SiteNavigationElement',
+          'name': 'Photo & Signature Resizer',
+          'url': 'https://sarkariavedan.info/tools/image-resizer',
+          'description': 'Free photo and signature resizer for online government job application forms.'
+        },
+        {
+          '@type': 'SiteNavigationElement',
+          'name': 'Age Calculator',
+          'url': 'https://sarkariavedan.info/tools/age-calculator',
+          'description': 'Calculate exact age as of notification cutoff dates and check age relaxation eligibility.'
+        },
+        {
+          '@type': 'SiteNavigationElement',
+          'name': 'About Us',
+          'url': 'https://sarkariavedan.info/about',
+          'description': 'Learn about Sarkari Aavedan\'s mission, editorial standards, and trust credentials.'
+        },
+        {
+          '@type': 'SiteNavigationElement',
+          'name': 'Contact Us',
+          'url': 'https://sarkariavedan.info/contact',
+          'description': 'Contact the Sarkari Aavedan support team for inquiries and candidate assistance.'
         }
       ]
     };

@@ -108,7 +108,21 @@ export const CategoryGrid: React.FC<CategoryGridProps> = ({
             <div className="category-column-header">
               <span className="category-column-title">
                 {getCategoryIcon(category.name)}
-                {category.name}
+                {onCategorySelect && !isSingleColumnView ? (
+                  <a
+                    href={`/${category.id}`}
+                    onClick={(e) => {
+                      e.preventDefault();
+                      onCategorySelect(category.id);
+                      window.scrollTo(0, 0);
+                    }}
+                    style={{ color: 'inherit', textDecoration: 'none' }}
+                  >
+                    {category.name}
+                  </a>
+                ) : (
+                  category.name
+                )}
               </span>
               <span className="category-column-count">{categoryJobs.length}</span>
             </div>
@@ -117,9 +131,13 @@ export const CategoryGrid: React.FC<CategoryGridProps> = ({
               {displayedJobs.length > 0 ? (
                 displayedJobs.map((job) => (
                   <li key={job.id} className="category-column-item">
-                    <div
+                    <a
+                      href={`/job/${job.id}`}
                       className="category-column-item-link"
-                      onClick={() => onJobClick(job.id)}
+                      onClick={(e) => {
+                        e.preventDefault();
+                        onJobClick(job.id);
+                      }}
                     >
                       <span className="category-column-item-title">
                         {job.title}
@@ -135,7 +153,7 @@ export const CategoryGrid: React.FC<CategoryGridProps> = ({
                           <span style={{ color: 'var(--danger)', fontWeight: 600 }}>Closed</span>
                         )}
                       </div>
-                    </div>
+                    </a>
                   </li>
                 ))
               ) : (
@@ -145,12 +163,17 @@ export const CategoryGrid: React.FC<CategoryGridProps> = ({
 
             {/* View More button at the bottom of the card, only in grid view */}
             {!isSingleColumnView && onCategorySelect && (
-              <div 
+              <a 
+                href={`/${category.id}`}
                 className="category-column-more"
-                onClick={() => { onCategorySelect(category.id); window.scrollTo(0, 0); }}
+                onClick={(e) => { 
+                  e.preventDefault();
+                  onCategorySelect(category.id); 
+                  window.scrollTo(0, 0); 
+                }}
               >
                 View More...
-              </div>
+              </a>
             )}
 
             {/* Load More button at the bottom of the column page, only in single column page view */}

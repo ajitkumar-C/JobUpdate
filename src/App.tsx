@@ -706,28 +706,24 @@ export const App: React.FC = () => {
 
               {!selectedCategoryCode && !searchTerm && (
                 <section className="seo-home-info">
-                  <h3>Sarkari Aavedan (सरकारी आवेदन) — Govt Jobs, Admit Cards & Results</h3>
+                  <h3>Sarkari Result 2026 & Latest Sarkari Job Alerts — Sarkari Aavedan (सरकारी आवेदन)</h3>
                   <p>
-                    <strong>Sarkari Aavedan (सरकारी आवेदन)</strong> is a dedicated portal designed to help job aspirants navigate through the complex world of competitive government examinations in India. We gather, verify, and present information regarding a wide range of job recruitments, entrance tests, call letters, exam keys, and results.
-                  </p>
-                  <p>
-                    Our platform covers prominent central and state government recruitment boards, including the <strong>Union Public Service Commission (UPSC)</strong>, <strong>Staff Selection Commission (SSC)</strong>, <strong>Railway Recruitment Board (RRB)</strong>, <strong>Institute of Banking Personnel Selection (IBPS)</strong>, and individual state-level commissions like <strong>UPPSC, BPSC, MPPSC, and UKPSC</strong>.
+                    <strong>Sarkari Aavedan (सरकारी आवेदन)</strong> is India's premier bilingual portal providing real-time alerts for <strong>Sarkari Result 2026</strong>, <strong>Sarkari Job</strong> vacancy recruitments, <strong>Admit Card</strong> downloads, and <strong>Govt Jobs</strong> across central and state government departments.
                   </p>
                   
-                  <h4>Bilingual Job Alerts & Essential Updates</h4>
+                  <h4>Sarkari Job & Govt Jobs Vacancies (सरकारी नौकरी) 2026</h4>
                   <p>
-                    We present job posts in a well-structured, print-ready, bilingual format (Hindi/English). Each vacancy specification card includes:
+                    Explore verified online forms for <strong>UPSC, SSC (CGL, CHSL, GD, MTS), Railway Recruitment Boards (RRB NTPC, Group D, ALP), IBPS Bank PO/Clerk, Defence (Army, Navy, Air Force)</strong>, and state-level commissions including <strong>UP Police, Bihar BPSC, MP ESB, Rajasthan RPSC, and Maharashtra MPSC</strong>. Vacancies are categorized for 10th pass, 12th pass, ITI, diploma, and graduates.
                   </p>
-                  <ul>
-                    <li><strong>Important Timelines:</strong> Critical dates such as application opening, last date to apply, exam schedule, and admit card release dates.</li>
-                    <li><strong>Application Fee Details:</strong> Clean billing breakdown for General, OBC, EWS, SC, ST, and PH categories.</li>
-                    <li><strong>Age Eligibility:</strong> Minimum and maximum age requirements, plus criteria for age relaxation.</li>
-                    <li><strong>Vacancy Details:</strong> Clear tabular representations of posts, qualification criteria, and department allocations.</li>
-                  </ul>
                   
-                  <h4>Direct & Secure Redirects</h4>
+                  <h4>Sarkari Result (सरकारी रिजल्ट) & Exam Scorecards</h4>
                   <p>
-                    Sarkari Aavedan values user safety and convenience. Unlike traditional portals that route traffic through commercial intermediate wrappers or third-party advertisements, we parse and automatically unwrap redirection links. This means every button on our detail pages takes you directly to the official government servers (e.g. upsc.gov.in, ssc.gov.in) to download notifications or apply online safely.
+                    Check immediate <strong>Sarkari Result 2026</strong> updates, written test scorecards, category-wise qualifying cut-off marks (General, OBC, EWS, SC, ST), and final selection merit lists published by official recruitment boards.
+                  </p>
+
+                  <h4>Admit Card & Hall Ticket Download (प्रवेश पत्र)</h4>
+                  <p>
+                    Retrieve official <strong>Admit Card</strong> downloads, examination call letters, and exam city intimation slips 10 days prior to competitive exams. Download your hall tickets with direct official authority links without intermediate advertisement walls.
                   </p>
                 </section>
               )}
@@ -845,7 +841,7 @@ export const App: React.FC = () => {
                 <img src="/sarkariavedan_logo.jpg" alt="Logo" className="header-logo" style={{width: '40px', height: '40px', borderRadius: '50%', objectFit: 'cover'}} />
                 <div className="drawer-title-container" style={{ display: 'flex', flexDirection: 'column' }}>
                   <span className="header-title" style={{ fontFamily: 'Poppins, sans-serif', fontSize: '1.2rem', fontWeight: 800, letterSpacing: '-0.5px' }}>SarkariAvedan<span style={{color: 'var(--primary-color)'}}>.info</span></span>
-                  <span className="header-subtitle" style={{ letterSpacing: '1px', textTransform: 'uppercase', fontSize: '0.65rem', fontWeight: 600 }}>India's Job Alerts</span>
+                  <span className="header-subtitle" style={{ letterSpacing: '1px', textTransform: 'uppercase', fontSize: '0.65rem', fontWeight: 600 }}>Sarkari Result & Govt Jobs</span>
                 </div>
               </div>
               <button className="btn-icon" onClick={() => setIsDrawerOpen(false)}>

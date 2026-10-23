@@ -432,11 +432,51 @@ export function prerender() {
   // D. PRE-RENDER DEFAULT CATEGORIES WITH REAL JOBS
   // ==========================================
   const categories = [
-    { id: 'latest-jobs', name: 'Latest Jobs', hindi: 'नवीनतम नौकरियां', desc: 'Browse all active government recruitment applications, exams, and vacancies for 2026.' },
-    { id: 'admit-card', name: 'Admit Card', hindi: 'प्रवेश पत्र', desc: 'Download official competitive exam admit cards, call letters, and hall tickets online.' },
-    { id: 'result', name: 'Result', hindi: 'परीक्षा परिणाम', desc: 'Check latest Sarkari results, selection merit lists, and scorecards directly.' },
-    { id: 'answer-key', name: 'Answer Key', hindi: 'उत्तर कुंजी', desc: 'Download official solved answer keys, question paper PDFs, and response sheets.' },
-    { id: 'syllabus', name: 'Syllabus', hindi: 'पाठ्यक्रम', desc: 'Download section-wise exam patterns, syllabus PDFs, and marking schemes.' },
+    {
+      id: 'latest-jobs',
+      name: 'Latest Jobs',
+      hindi: 'नवीनतम नौकरियां',
+      customTitle: 'Sarkari Job 2026: Latest Govt Jobs, Online Forms & Vacancy Alerts | Sarkari Aavedan',
+      customDesc: 'Explore latest Sarkari Job 2026 notifications, 10th/12th/Graduate Govt Jobs, UPSC, SSC, Railways, Bank PO, and Police recruitment online application forms.',
+      h1: 'Sarkari Job 2026 (नवीनतम सरकारी नौकरी) — Online Govt Jobs & Vacancies',
+      desc: 'Browse all active government recruitment applications, exams, and vacancies for 2026.'
+    },
+    {
+      id: 'result',
+      name: 'Result',
+      hindi: 'परीक्षा परिणाम',
+      customTitle: 'Sarkari Result 2026: Check Latest Exam Results, Scorecards & Merit Lists | Sarkari Aavedan',
+      customDesc: 'Find all latest Sarkari Result 2026 updates, official exam scorecards, written merit lists, and category-wise cut-off marks on Sarkari Aavedan.',
+      h1: 'Sarkari Result 2026 (सरकारी रिजल्ट) — Exam Results, Scorecards & Cut-Offs',
+      desc: 'Check latest Sarkari results, selection merit lists, and scorecards directly.'
+    },
+    {
+      id: 'admit-card',
+      name: 'Admit Card',
+      hindi: 'प्रवेश पत्र',
+      customTitle: 'Admit Card 2026: Hall Ticket Download, Call Letter & Exam City Slips | Sarkari Aavedan',
+      customDesc: 'Download official Admit Card 2026, competitive exam hall tickets, call letters, and exam city intimation slips directly on Sarkari Aavedan.',
+      h1: 'Admit Card 2026 (प्रवेश पत्र) — Download Hall Tickets & Call Letters',
+      desc: 'Download official competitive exam admit cards, call letters, and hall tickets online.'
+    },
+    {
+      id: 'answer-key',
+      name: 'Answer Key',
+      hindi: 'उत्तर कुंजी',
+      customTitle: 'Answer Key 2026: Download Solved Question Papers & OMR Sheets | Sarkari Aavedan',
+      customDesc: 'Check official provisional & final Answer Key 2026, question paper solutions, and objection challenge links on Sarkari Aavedan.',
+      h1: 'Answer Key 2026 (उत्तर कुंजी) — Download Solved Question Papers & OMR Sheets',
+      desc: 'Download official solved answer keys, question paper PDFs, and response sheets.'
+    },
+    {
+      id: 'syllabus',
+      name: 'Syllabus',
+      hindi: 'पाठ्यक्रम',
+      customTitle: 'Syllabus 2026: Exam Pattern, Section-Wise PDF & Marking Schemes | Sarkari Aavedan',
+      customDesc: 'Download official exam Syllabus 2026, test patterns, subject-wise PDF guides, and marking schemes for UPSC, SSC, RRB, and Banking exams.',
+      h1: 'Syllabus 2026 (पाठ्यक्रम) — Exam Pattern & Section-Wise PDF Guides',
+      desc: 'Download section-wise exam patterns, syllabus PDFs, and marking schemes.'
+    },
     { id: 'admission', name: 'Admission', hindi: 'प्रवेश', desc: 'Apply online for school, college, polytechnic, and university entrance examinations.' },
     { id: 'certificate', name: 'Certificate Verification', hindi: 'प्रमाण पत्र सत्यापन', desc: 'Direct verification portals for caste, income, domicile certificates, and scholarship status.' },
     { id: 'outsourcing-offline', name: 'Outsourcing & Offline Jobs', hindi: 'आउटसोर्सिंग एवं संविदा नौकरी', desc: 'Apply for contractual vacancies, Sewa Yojan jobs, and offline application forms.' },
@@ -448,12 +488,15 @@ export function prerender() {
     const topCatJobs = matchingJobs.slice(0, 30);
 
     const catCanonical = `${BASE_URL}/${cat.id}`;
+    const pageTitle = cat.customTitle || `${cat.name} (${cat.hindi}) 2026 | Sarkari Aavedan`;
+    const pageDesc = cat.customDesc || `${cat.desc} Verified official links, dates, and guidelines.`;
+    const headingH1 = cat.h1 || `${cat.name} (${cat.hindi}) 2026`;
 
     const catSchema = {
       '@context': 'https://schema.org',
       '@type': 'CollectionPage',
-      'name': `${cat.name} (${cat.hindi}) 2026 | Sarkari Aavedan`,
-      'description': cat.desc,
+      'name': pageTitle,
+      'description': pageDesc,
       'url': catCanonical
     };
 
@@ -490,9 +533,9 @@ export function prerender() {
           <span>${escapeHtml(cat.name)}</span>
         </nav>
         <h1 style="font-size: 1.9rem; font-weight: 800; margin-bottom: 0.5rem;">
-          ${escapeHtml(cat.name)} (${escapeHtml(cat.hindi)}) 2026
+          ${escapeHtml(headingH1)}
         </h1>
-        <p style="font-size: 1.05rem; color: #334155; margin-bottom: 1.5rem;">${escapeHtml(cat.desc)}</p>
+        <p style="font-size: 1.05rem; color: #334155; margin-bottom: 1.5rem;">${escapeHtml(pageDesc)}</p>
         ${jobListHtml}
       </main>
     `;
@@ -500,8 +543,8 @@ export function prerender() {
     writePrerenderedPage(
       cat.id,
       {
-        title: `${cat.name} (${cat.hindi}) 2026 | Sarkari Aavedan`,
-        description: `${cat.desc} Verified official links, dates, and guidelines.`,
+        title: pageTitle,
+        description: pageDesc,
         canonical: catCanonical,
         image: `${BASE_URL}/logos/og_banner.png`
       },

@@ -43,9 +43,9 @@ export function updateSEO(
   if (typeof window === 'undefined') return;
 
   // 1. Setup metadata default values
-  const defaultTitle = 'Sarkari Aavedan (सरकारी आवेदन) | Govt Jobs 2026';
-  const defaultDesc = 'Sarkari Aavedan (सरकारी आवेदन) provides the latest government jobs, exam results, admit cards, answer keys, syllabus, and admissions. Stay updated in 2026.';
-  const defaultKeywords = 'sarkari aavedan, sarkari result, sarkari exam, govt jobs, admit card, results, latest jobs, 2026 recruitment, sarkari update, government job vacancy, सरकारी आवेदन';
+  const defaultTitle = 'Sarkari Result 2026 | Sarkari Job, Admit Card & Govt Jobs Alerts - Sarkari Aavedan';
+  const defaultDesc = 'Sarkari Aavedan (सरकारी आवेदन) provides real-time Sarkari Result 2026, latest Sarkari Job notifications, Admit Card downloads, answer keys, syllabus, and Govt Jobs online forms.';
+  const defaultKeywords = 'sarkari result, sarkari job, admit card, govt jobs, sarkari result 2026, sarkari naukri, latest jobs, online form, admit card 2026, सरकारी रिजल्ट, सरकारी नौकरी, sarkari aavedan';
 
   let finalTitle = defaultTitle;
   let finalDesc = defaultDesc;
@@ -277,9 +277,33 @@ export function updateSEO(
   } else if (categoryName) {
     // B. Category View
     const categorySlug = getCategorySlug(categoryName);
-    finalTitle = `${categoryName} (सरकारी आवेदन) | Exam Results & Admit Cards 2026`;
-    finalDesc = `Find all latest updates, job notifications, exam dates, admit cards, answer keys, and syllabus for ${categoryName} online on Sarkari Aavedan.`;
-    finalKeywords = `${categoryName.toLowerCase()}, exam date, admit card 2026, result notification, online application form, sarkari result, sarkari jobs`;
+    
+    // Keyword-targeted high-CTR titles for core search terms
+    if (categorySlug === 'result') {
+      finalTitle = 'Sarkari Result 2026: Check Latest Exam Results, Scorecards & Merit Lists | Sarkari Aavedan';
+      finalDesc = 'Find all latest Sarkari Result 2026 updates, official exam scorecards, written merit lists, and category-wise cut-off marks on Sarkari Aavedan.';
+      finalKeywords = 'sarkari result, sarkari result 2026, exam result, sarkari scorecard, merit list, cut off marks, सरकारी रिजल्ट';
+    } else if (categorySlug === 'latest-jobs') {
+      finalTitle = 'Sarkari Job 2026: Latest Govt Jobs, Online Forms & Vacancy Alerts | Sarkari Aavedan';
+      finalDesc = 'Explore latest Sarkari Job 2026 notifications, 10th/12th/Graduate Govt Jobs, UPSC, SSC, Railways, Bank PO, and Police recruitment online application forms.';
+      finalKeywords = 'sarkari job, govt jobs, sarkari naukri, latest jobs, 2026 recruitment, online application form, sarkari vacancy, सरकारी नौकरी';
+    } else if (categorySlug === 'admit-card') {
+      finalTitle = 'Admit Card 2026: Hall Ticket Download, Call Letter & Exam City Slips | Sarkari Aavedan';
+      finalDesc = 'Download official Admit Card 2026, competitive exam hall tickets, call letters, and exam city intimation slips directly on Sarkari Aavedan.';
+      finalKeywords = 'admit card, admit card 2026, hall ticket download, call letter, exam city slip, rrb admit card, ssc admit card, प्रवेश पत्र';
+    } else if (categorySlug === 'answer-key') {
+      finalTitle = 'Answer Key 2026: Download Solved Question Papers & OMR Sheets | Sarkari Aavedan';
+      finalDesc = 'Check official provisional & final Answer Key 2026, question paper solutions, and objection challenge links on Sarkari Aavedan.';
+      finalKeywords = 'answer key, answer key 2026, official key, question paper, omr sheet, answer key challenge, उत्तर कुंजी';
+    } else if (categorySlug === 'syllabus') {
+      finalTitle = 'Syllabus 2026: Exam Pattern, Section-Wise PDF & Marking Schemes | Sarkari Aavedan';
+      finalDesc = 'Download official exam Syllabus 2026, test patterns, subject-wise PDF guides, and marking schemes for UPSC, SSC, RRB, and Banking exams.';
+      finalKeywords = 'syllabus, exam pattern, syllabus pdf, marking scheme, exam syllabus 2026, पाठ्यक्रम';
+    } else {
+      finalTitle = `${categoryName} (सरकारी आवेदन) | Govt Jobs & Exam Updates 2026`;
+      finalDesc = `Find all latest updates, job notifications, exam dates, admit cards, answer keys, and syllabus for ${categoryName} online on Sarkari Aavedan.`;
+      finalKeywords = `${categoryName.toLowerCase()}, exam date, admit card 2026, result notification, online application form, sarkari result, sarkari jobs`;
+    }
     canonicalUrl = `https://sarkariavedan.info/${categorySlug}`;
 
     // Inject CollectionPage Schema

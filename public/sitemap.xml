@@ -272,6 +272,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sarkariavedan.info/job/result-cci-various-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/result-ssc-gd-constable-revised-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sarkariavedan.info/job/result-upsc-cds-ii-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -292,12 +302,17 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/result-rbi-officer-grade-b-final-2026</loc>
+    <loc>https://sarkariavedan.info/job/admit-card-railway-rrb-alp-city-details-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/result-railway-rrb-technician-answer-key-2026</loc>
+    <loc>https://sarkariavedan.info/job/admit-card-rrb-junior-engineer-je-admit-card</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-delhi-cantonment-board-dcb-ae-je</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -317,17 +332,22 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/admit-card-mppsc-adpo-admit-card-2026</loc>
+    <loc>https://sarkariavedan.info/job/latest-jobs-upessc-up-tgt-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/admit-card-bsf-hc-ro-rm-admit-card</loc>
+    <loc>https://sarkariavedan.info/job/latest-jobs-upessc-up-headmaster-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/admit-card-rrb-alp-cbat-city-details-2026</loc>
+    <loc>https://sarkariavedan.info/job/latest-jobs-upessc-up-principal-inter-level-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-railway-rrc-nwr-apprentice-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -338,26 +358,6 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/latest-jobs-bpsc-school-teacher-tre-4-0</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-rrb-ntpc-graduate-level-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-bihar-btsc-touring-veterinary-officer-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-bihar-btsc-fishery-extension-officer-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-upsssc-inter-12th-level-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -448,6 +448,51 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/admission-nta-csir-ugc-net-december-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/result-rbi-officer-grade-b-final-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/result-railway-rrb-technician-answer-key-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-mppsc-adpo-admit-card-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-bsf-hc-ro-rm-admit-card</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-rrb-alp-cbat-city-details-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-rrb-ntpc-graduate-level-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-bihar-btsc-touring-veterinary-officer-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-bihar-btsc-fishery-extension-officer-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-upsssc-inter-12th-level-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1103,11 +1148,6 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/admit-card-railway-rrb-technician-city-details-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-railway-rrc-nwr-apprentice-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

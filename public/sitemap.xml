@@ -302,6 +302,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sarkariavedan.info/job/admit-card-mpesb-mp-police-si-subedar-admit</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sarkariavedan.info/job/admit-card-bank-baroda-so-admit-card-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -327,17 +332,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/admit-card-ssc-junior-engineer-je-city-details</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-supreme-court-sci-court-master-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-bpsc-school-teacher-tre-4-0</loc>
+    <loc>https://sarkariavedan.info/job/latest-jobs-upessc-up-tgt-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -347,17 +342,22 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-upessc-up-tgt-2026</loc>
+    <loc>https://sarkariavedan.info/job/latest-jobs-bpsc-school-teacher-tre-4-0</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-supreme-court-sci-court-master-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-uppsc-ro-aro-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/latest-jobs-rrb-ntpc-10-2-ug-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-upessc-up-headmaster-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -448,6 +448,16 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/admission-nta-ugc-net-jrf-december-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-ssc-junior-engineer-je-city-details</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-upessc-up-headmaster-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

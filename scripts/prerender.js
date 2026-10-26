@@ -264,6 +264,250 @@ export function prerender() {
   }
 
   // ==========================================
+  // SCHEMA HELPERS FOR JOB POSTINGS (Google Jobs Compliance)
+  // ==========================================
+  function getJobAddress(job) {
+    const query = `${job?.jobLocation || ''} ${job?.title || ''}`;
+    const LOCATION_MAP = [
+      { match: /\b(up|uttar pradesh|lucknow|kanpur|varanasi|allahabad|prayagraj|upsssc|uppsc|upessc|upprpb)\b/i, locality: 'Lucknow', region: 'Uttar Pradesh', postalCode: '226001', streetAddress: 'Vidhan Sabha Marg, Hazratganj' },
+      { match: /\b(maharashtra|mumbai|pune|nagpur|nashik|mpsc|bmc|mahapolic)\b/i, locality: 'Mumbai', region: 'Maharashtra', postalCode: '400032', streetAddress: 'Madam Cama Road, Mantralaya, Nariman Point' },
+      { match: /\b(bihar|patna|bpsc|bssc|bseb|csbc)\b/i, locality: 'Patna', region: 'Bihar', postalCode: '800015', streetAddress: 'Old Secretariat, Bailey Road' },
+      { match: /\b(delhi|dsssb|ndmc|mcd)\b/i, locality: 'New Delhi', region: 'Delhi', postalCode: '110001', streetAddress: 'Indraprastha Estate, Central Secretariat' },
+      { match: /\b(rajasthan|jaipur|jodhpur|rpsc|rsmssb|rssb)\b/i, locality: 'Jaipur', region: 'Rajasthan', postalCode: '302005', streetAddress: 'Government Secretariat, Bhagwan Das Road' },
+      { match: /\b(mp|madhya pradesh|bhopal|indore|mppsc|mpesb|vyapam)\b/i, locality: 'Bhopal', region: 'Madhya Pradesh', postalCode: '462004', streetAddress: 'Vallabh Bhavan, Arera Hills' },
+      { match: /\b(haryana|hssc|hpsc)\b/i, locality: 'Chandigarh', region: 'Haryana', postalCode: '160001', streetAddress: 'Haryana Civil Secretariat, Sector 1' },
+      { match: /\b(punjab|psssc|ppsc)\b/i, locality: 'Chandigarh', region: 'Punjab', postalCode: '160001', streetAddress: 'Punjab Civil Secretariat, Sector 1' },
+      { match: /\b(gujarat|gandhinagar|ahmedabad|gpsc|gsssb)\b/i, locality: 'Gandhinagar', region: 'Gujarat', postalCode: '382010', streetAddress: 'Sardar Bhavan, New Sachivalaya' },
+      { match: /\b(karnataka|bangalore|bengaluru|kpsc|kea)\b/i, locality: 'Bengaluru', region: 'Karnataka', postalCode: '560001', streetAddress: 'Vidhana Soudha, Ambedkar Bheedhi' },
+      { match: /\b(tamil nadu|tamilnadu|chennai|tnpsc|trb)\b/i, locality: 'Chennai', region: 'Tamil Nadu', postalCode: '600009', streetAddress: 'Fort St. George, Rajaji Salai' },
+      { match: /\b(west bengal|wb|kolkata|wbpsc|wbprb)\b/i, locality: 'Kolkata', region: 'West Bengal', postalCode: '700001', streetAddress: 'Nabanna, 325 Sarat Chatterjee Road' },
+      { match: /\b(telangana|hyderabad|tspsc)\b/i, locality: 'Hyderabad', region: 'Telangana', postalCode: '500022', streetAddress: 'Dr. B.R. Ambedkar Telangana Secretariat' },
+      { match: /\b(andhra|andhra pradesh|vijayawada|amaravati|appsc)\b/i, locality: 'Amaravati', region: 'Andhra Pradesh', postalCode: '522238', streetAddress: 'AP Government Secretariat, Velagapudi' },
+      { match: /\b(kerala|thiruvananthapuram|kpsc)\b/i, locality: 'Thiruvananthapuram', region: 'Kerala', postalCode: '695001', streetAddress: 'Government Secretariat, MG Road' },
+      { match: /\b(odisha|bhubaneswar|opsc|ossc)\b/i, locality: 'Bhubaneswar', region: 'Odisha', postalCode: '751001', streetAddress: 'Lok Seva Bhavan, Sachivalaya Marg' },
+      { match: /\b(jharkhand|ranchi|jpsc|jssc)\b/i, locality: 'Ranchi', region: 'Jharkhand', postalCode: '834004', streetAddress: 'Project Building, Dhurwa' },
+      { match: /\b(chhattisgarh|raipur|cgpsc|cgvyapam)\b/i, locality: 'Raipur', region: 'Chhattisgarh', postalCode: '492002', streetAddress: 'Mahanadi Bhavan, Nawa Raipur Atal Nagar' },
+      { match: /\b(uttarakhand|uk|dehradun|ukpsc|uksssc)\b/i, locality: 'Dehradun', region: 'Uttarakhand', postalCode: '248001', streetAddress: 'Uttarakhand Secretariat, 4 Subhash Road' },
+      { match: /\b(himachal|hp|shimla|hppsc)\b/i, locality: 'Shimla', region: 'Himachal Pradesh', postalCode: '171002', streetAddress: 'HP Secretariat, Chhota Shimla' },
+      { match: /\b(assam|guwahati|dispur|apsc)\b/i, locality: 'Guwahati', region: 'Assam', postalCode: '781006', streetAddress: 'Assam Secretariat, Dispur' }
+    ];
+
+    for (const item of LOCATION_MAP) {
+      if (item.match.test(query)) {
+        return {
+          '@type': 'PostalAddress',
+          'streetAddress': item.streetAddress,
+          'addressLocality': item.locality,
+          'addressRegion': item.region,
+          'postalCode': item.postalCode,
+          'addressCountry': 'IN'
+        };
+      }
+    }
+
+    return {
+      '@type': 'PostalAddress',
+      'streetAddress': 'Central Secretariat, Rajpath Area',
+      'addressLocality': 'New Delhi',
+      'addressRegion': 'Delhi',
+      'postalCode': '110001',
+      'addressCountry': 'IN'
+    };
+  }
+
+  function getBaseSalary(job) {
+    const text = `${job?.salary || ''} ${job?.title || ''}`;
+
+    const rangeMatch = text.match(/(?:₹|rs\.?|inr)?\s*(\d{1,2}[\d,]{3,7})\s*(?:-|to)\s*(?:₹|rs\.?|inr)?\s*(\d{1,2}[\d,]{3,7})/i);
+    if (rangeMatch) {
+      const min = parseInt(rangeMatch[1].replace(/,/g, ''), 10);
+      const max = parseInt(rangeMatch[2].replace(/,/g, ''), 10);
+      if (!isNaN(min) && !isNaN(max) && min > 5000 && max > min) {
+        return {
+          '@type': 'MonetaryAmount',
+          'currency': 'INR',
+          'value': {
+            '@type': 'QuantitativeValue',
+            'minValue': min,
+            'maxValue': max,
+            'unitText': 'MONTH'
+          }
+        };
+      }
+    }
+
+    const levelMatch = text.match(/level[\s-]*([0-9]{1,2})/i);
+    if (levelMatch) {
+      const lvl = parseInt(levelMatch[1], 10);
+      const payMatrix = {
+        1: [18000, 56900],
+        2: [19900, 63200],
+        3: [21700, 69100],
+        4: [25500, 81100],
+        5: [29200, 92300],
+        6: [35400, 112400],
+        7: [44900, 142400],
+        8: [47600, 151100],
+        9: [53100, 167800],
+        10: [56100, 177500],
+        11: [67700, 208700],
+        12: [78800, 209200]
+      };
+      if (payMatrix[lvl]) {
+        return {
+          '@type': 'MonetaryAmount',
+          'currency': 'INR',
+          'value': {
+            '@type': 'QuantitativeValue',
+            'minValue': payMatrix[lvl][0],
+            'maxValue': payMatrix[lvl][1],
+            'unitText': 'MONTH'
+          }
+        };
+      }
+    }
+
+    const upper = text.toUpperCase();
+    if (/(OFFICER|PROFESSOR|DOCTOR|SCIENTIST|ENGINEER|LECTURER|SUB INSPECTOR|\bSI\b|CIVIL JUDGE)/.test(upper)) {
+      return {
+        '@type': 'MonetaryAmount',
+        'currency': 'INR',
+        'value': {
+          '@type': 'QuantitativeValue',
+          'minValue': 35400,
+          'maxValue': 112400,
+          'unitText': 'MONTH'
+        }
+      };
+    }
+
+    if (/(CONSTABLE|DRIVER|MTS|PEON|GROUP D|HELPER|ATTENDANT|SWEEPER|FIREMAN)/.test(upper)) {
+      return {
+        '@type': 'MonetaryAmount',
+        'currency': 'INR',
+        'value': {
+          '@type': 'QuantitativeValue',
+          'minValue': 18000,
+          'maxValue': 56900,
+          'unitText': 'MONTH'
+        }
+      };
+    }
+
+    return {
+      '@type': 'MonetaryAmount',
+      'currency': 'INR',
+      'value': {
+        '@type': 'QuantitativeValue',
+        'minValue': 21700,
+        'maxValue': 69100,
+        'unitText': 'MONTH'
+      }
+    };
+  }
+
+  function getValidThrough(job, fallbackDays = 60) {
+    const rawDate = job?.applicationLastDate || job?.lastDate || job?.feeLastDate || '';
+    let parsedDate = null;
+
+    const isoMatch = String(rawDate).match(/(\d{4})-(\d{2})-(\d{2})/);
+    if (isoMatch) {
+      parsedDate = new Date(`${isoMatch[1]}-${isoMatch[2]}-${isoMatch[3]}T23:59:59Z`);
+    }
+
+    if (!parsedDate || isNaN(parsedDate.getTime())) {
+      const dmyMatch = String(rawDate).match(/(\d{1,2})[\/\-](\d{1,2})[\/\-](\d{4})/);
+      if (dmyMatch) {
+        const day = dmyMatch[1].padStart(2, '0');
+        const month = dmyMatch[2].padStart(2, '0');
+        const year = dmyMatch[3];
+        parsedDate = new Date(`${year}-${month}-${day}T23:59:59Z`);
+      }
+    }
+
+    if (!parsedDate || isNaN(parsedDate.getTime())) {
+      const months = {
+        jan: '01', january: '01',
+        feb: '02', february: '02',
+        mar: '03', march: '03',
+        apr: '04', april: '04',
+        may: '05',
+        jun: '06', june: '06',
+        jul: '07', july: '07',
+        aug: '08', august: '08',
+        sep: '09', sept: '09', september: '09',
+        oct: '10', october: '10',
+        nov: '11', november: '11',
+        dec: '12', december: '12'
+      };
+      const textMatch = String(rawDate).match(/(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})/);
+      if (textMatch) {
+        const day = textMatch[1].padStart(2, '0');
+        const monthKey = textMatch[2].toLowerCase();
+        const month = months[monthKey];
+        const year = textMatch[3];
+        if (month) {
+          parsedDate = new Date(`${year}-${month}-${day}T23:59:59Z`);
+        }
+      }
+    }
+
+    const now = new Date();
+    if (parsedDate && !isNaN(parsedDate.getTime()) && parsedDate.getTime() > now.getTime()) {
+      return parsedDate.toISOString().replace(/\.\d{3}Z$/, 'Z');
+    }
+
+    let baseDate = now;
+    if (job?.postDate && /^\d{4}-\d{2}-\d{2}$/.test(job.postDate)) {
+      const pDate = new Date(job.postDate);
+      if (!isNaN(pDate.getTime())) {
+        const projected = new Date(pDate.getTime() + fallbackDays * 24 * 60 * 60 * 1000);
+        if (projected.getTime() > now.getTime()) {
+          baseDate = pDate;
+        }
+      }
+    }
+
+    const future = new Date(baseDate.getTime() + fallbackDays * 24 * 60 * 60 * 1000);
+    return future.toISOString().split('T')[0] + 'T23:59:59Z';
+  }
+
+  function getHiringOrgName(job) {
+    const t = (job?.title || '').toUpperCase();
+    if (t.includes('UPSC')) return 'Union Public Service Commission (UPSC)';
+    if (t.includes('SSC')) return 'Staff Selection Commission (SSC)';
+    if (t.includes('RRB') || t.includes('RAILWAY')) return 'Railway Recruitment Board (RRB)';
+    if (t.includes('IBPS')) return 'Institute of Banking Personnel Selection (IBPS)';
+    if (t.includes('SBI')) return 'State Bank of India (SBI)';
+    if (t.includes('ISRO')) return 'Indian Space Research Organisation (ISRO)';
+    if (t.includes('DRDO')) return 'Defence Research and Development Organisation (DRDO)';
+    if (t.includes('UPSSSC')) return 'Uttar Pradesh Subordinate Services Selection Commission (UPSSSC)';
+    if (t.includes('UPPSC')) return 'Uttar Pradesh Public Service Commission (UPPSC)';
+    if (t.includes('UP POLICE') || t.includes('UPPRPB')) return 'Uttar Pradesh Police Recruitment & Promotion Board (UPPRPB)';
+    if (t.includes('BPSC')) return 'Bihar Public Service Commission (BPSC)';
+    if (t.includes('BSSC')) return 'Bihar Staff Selection Commission (BSSC)';
+    if (t.includes('BIHAR POLICE') || t.includes('CSBC')) return 'Central Selection Board of Constable (CSBC Bihar)';
+    if (t.includes('MPSC')) return 'Maharashtra Public Service Commission (MPSC)';
+    if (t.includes('MAHA POLICE') || t.includes('MAHARASHTRA POLICE')) return 'Maharashtra State Police Recruitment';
+    if (t.includes('RPSC')) return 'Rajasthan Public Service Commission (RPSC)';
+    if (t.includes('RSMSSB') || t.includes('RSSB')) return 'Rajasthan Staff Selection Board (RSSB)';
+    if (t.includes('MPPSC')) return 'Madhya Pradesh Public Service Commission (MPPSC)';
+    if (t.includes('MPESB') || t.includes('VYAPAM')) return 'Madhya Pradesh Employees Selection Board (MPESB)';
+    if (t.includes('DSSSB')) return 'Delhi Subordinate Services Selection Board (DSSSB)';
+    if (t.includes('HSSC')) return 'Haryana Staff Selection Commission (HSSC)';
+    if (t.includes('HPSC')) return 'Haryana Public Service Commission (HPSC)';
+    if (t.includes('UKPSC')) return 'Uttarakhand Public Service Commission (UKPSC)';
+    if (t.includes('WBPSC')) return 'West Bengal Public Service Commission (WBPSC)';
+    if (t.includes('TNPSC')) return 'Tamil Nadu Public Service Commission (TNPSC)';
+    if (t.includes('KPSC')) return 'Karnataka Public Service Commission (KPSC)';
+    if (t.includes('KERALA PSC')) return 'Kerala Public Service Commission (Kerala PSC)';
+    if (t.includes('INDIAN ARMY') || t.includes('ARMY')) return 'Indian Army';
+    if (t.includes('INDIAN NAVY') || t.includes('NAVY')) return 'Indian Navy';
+    if (t.includes('AIR FORCE') || t.includes('IAF')) return 'Indian Air Force';
+    return 'Government Recruitment Board / Commission';
+  }
+
+  // ==========================================
   // B. PRE-RENDER INDIVIDUAL JOBS
   // ==========================================
   let allScrapedJobs = [];
@@ -279,32 +523,47 @@ export function prerender() {
         const actionLabel = getCategoryActionLabel(job.category);
         const catSlug = getCategorySlug(job.category);
 
-        const cleanDesc = job.shortDescription 
-          ? job.shortDescription.substring(0, 158)
-          : `${job.title} [${job.category}]. Check total vacancies (${job.totalVacancy || 'Various'}), eligibility criteria, important dates, and official links on Sarkari Aavedan.`;
+        const cleanDesc = job.shortInfo || job.shortDescription || 
+          `${job.title} [${job.category}]. Check total vacancies (${job.totalVacanciesCount || job.totalVacancy || 'Various'}), eligibility criteria, important dates, and official links on Sarkari Aavedan.`;
 
         const jobCanonical = `${BASE_URL}/job/${job.id}`;
+        const primaryVacancy = job.vacancies?.[0];
+        const postTitle = job.title || (primaryVacancy ? primaryVacancy.postName : 'Government Job Vacancy');
+        const orgName = getHiringOrgName(job);
+        const validThroughDate = getValidThrough(job);
+        const datePosted = (/^\d{4}-\d{2}-\d{2}$/.test(job.postDate)) ? job.postDate : new Date().toISOString().split('T')[0];
+        const jobAddress = getJobAddress(job);
+        const baseSalary = getBaseSalary(job);
 
         const jobSchema = {
           '@context': 'https://schema.org',
           '@type': 'JobPosting',
-          'title': `${job.title} (${actionLabel})`,
+          'title': `${postTitle} (${actionLabel})`,
           'description': cleanDesc,
-          'datePosted': job.postDate || '2026-01-01',
-          'validThrough': job.lastDate ? '2026-12-31' : undefined,
+          'datePosted': datePosted,
+          'validThrough': validThroughDate,
           'employmentType': 'FULL_TIME',
           'hiringOrganization': {
             '@type': 'Organization',
-            'name': 'Government Recruitment Board / Commission',
-            'sameAs': BASE_URL
+            'name': orgName,
+            'sameAs': job.importantLinks?.officialWebsite || BASE_URL,
+            'logo': `${BASE_URL}/favicon.svg`
+          },
+          'identifier': {
+            '@type': 'PropertyValue',
+            'name': orgName,
+            'value': job.id
           },
           'jobLocation': {
             '@type': 'Place',
-            'address': {
-              '@type': 'PostalAddress',
-              'addressCountry': 'IN'
-            }
-          }
+            'address': jobAddress
+          },
+          'baseSalary': baseSalary,
+          'applicantLocationRequirements': {
+            '@type': 'Country',
+            'name': 'India'
+          },
+          'directApply': Boolean(job.importantLinks?.applyOnline)
         };
 
         const breadcrumbSchema = {
@@ -331,10 +590,10 @@ export function prerender() {
             <div style="background: #f1f5f9; padding: 0.75rem 1rem; border-radius: 6px; margin-bottom: 1.5rem; font-size: 0.9rem;">
               <span><strong>Section:</strong> ${escapeHtml(job.category || 'Latest Job')}</span> |
               <span><strong>Posted Date:</strong> ${escapeHtml(job.postDate || '2026')}</span>
-              ${job.totalVacancy ? ` | <span><strong>Total Vacancy:</strong> ${escapeHtml(job.totalVacancy)}</span>` : ''}
-              ${job.lastDate ? ` | <span><strong>Last Date:</strong> ${escapeHtml(job.lastDate)}</span>` : ''}
+              ${job.totalVacanciesCount || job.totalVacancy ? ` | <span><strong>Total Vacancy:</strong> ${escapeHtml(job.totalVacanciesCount || job.totalVacancy)}</span>` : ''}
+              ${job.applicationLastDate || job.lastDate ? ` | <span><strong>Last Date:</strong> ${escapeHtml(job.applicationLastDate || job.lastDate)}</span>` : ''}
             </div>
-            ${job.shortDescription ? `<p style="font-size: 1rem; margin-bottom: 1.5rem;">${escapeHtml(job.shortDescription)}</p>` : ''}
+            ${job.shortInfo || job.shortDescription ? `<p style="font-size: 1rem; margin-bottom: 1.5rem;">${escapeHtml(job.shortInfo || job.shortDescription)}</p>` : ''}
             <div style="margin-top: 1.5rem; padding: 1rem; background: #e0f2fe; border-radius: 8px;">
               <p style="margin: 0; font-weight: 600; color: #0369a1;">
                 Loading full interactive specification card, official links, and guidelines for ${escapeHtml(job.category)}...

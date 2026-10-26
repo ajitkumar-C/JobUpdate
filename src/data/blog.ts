@@ -19,6 +19,22 @@ export interface BlogPost {
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    id: 'ssc-chsl-syllabus-exam-pattern',
+    title: 'SSC CHSL Syllabus 2026 & Exam Pattern PDF: Tier-1 & Tier-2 Section-Wise Weightage, Negative Marking, LDC/DEO Typing Speed & 7th CPC Pay Scale',
+    summary: 'Master the Staff Selection Commission Combined Higher Secondary Level (SSC CHSL 10+2) examination. Exhaustive topic-wise breakdown for Tier-1 and Tier-2 CBTs, Section-I & Section-II merit modules, Computer Knowledge syllabus, 35 w.p.m. typing test benchmarks, LDC/JSA/DEO post-wise 7th CPC salaries, and 100% free official study resources.',
+    category: 'Exams',
+    author: 'Sarkari Aavedan Editorial Team',
+    publishedDate: '2026-10-26',
+    readTime: '18 min read',
+    keywords: ['SSC CHSL Syllabus 2026', 'SSC CHSL Exam Pattern 2026', 'SSC CHSL Tier 1 Syllabus PDF', 'SSC CHSL Tier 2 Pattern', 'SSC CHSL Typing Speed LDC JSA'],
+    content: `## Direct Answer: What Is the Examination Scheme for SSC CHSL 2026?
+
+> [!IMPORTANT]  
+> **Core Fact**: The Staff Selection Commission Combined Higher Secondary Level (**SSC CHSL 10+2**) examination is conducted in two mandatory stages: **Tier-1** (a 60-minute qualifying Computer Based Test consisting of 100 questions for 200 marks with 0.50 negative marking) and **Tier-2** (the merit-deciding stage conducted on a single day, comprising Session I with 120 objective questions across Mathematics, Reasoning, English, General Awareness, and a 15-question Computer Knowledge module for a total of 360 merit marks + 45 qualifying marks, followed immediately by Session II's mandatory Skill/Typing Test). Final appointment to prestigious Central Ministries is determined **100% on Tier-2 Section-I and Section-II scores**, provided candidates qualify both the Computer Knowledge module and the Typing Test.
+
+Every year, over 30 to 35 Lakh 12th-pass aspirants across all 28 Indian States and 8 Union Territories register for the SSC CHSL examination. Serving as the primary recruitment channel for Group 'C' ministerial positions across the Central Government of India, SSC CHSL offers stable desk careers with guaranteed 7th Central Pay Commission increments, Central Government Health Scheme (CGHS) benefits, residential government quarters, and structured promotional avenues to Gazetted officer grades.`
+  },
+  {
     id: 'rrb-ntpc-technician-admit-card-exam-date',
     title: 'RRB NTPC & Technician 2026 Admit Card & Exam Date Tracker: City Intimation Slip & Direct Hall Ticket Download',
     summary: 'Live tracking for Railway Recruitment Board (RRB) NTPC Graduate & Under-Graduate posts and Technician Grade 1 & 3 Admit Cards. Access official zone-wise login portals, exam city slip release dates, SC/ST travel authority passes, shift timings, and mandatory CBT exam guidelines.',

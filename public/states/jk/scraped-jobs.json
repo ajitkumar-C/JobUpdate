@@ -882,55 +882,11 @@
     "district": "State Level",
     "vacancies": "288",
     "lastDate": "-",
-    "officialWebsite": "https://jkssb.nic.in",
-    "notificationLink": "https://jkssb.nic.in/Pdf/Advt_05OF2026_06072026.pdf",
+    "officialWebsite": "https://govtjobguru.in/jobs/jkssb-warder-recruitment-2026/",
+    "notificationLink": "https://govtjobguru.in/jobs/jkssb-warder-recruitment-2026/",
     "applyOnlineLink": "https://govtjobguru.in/jobs/jkssb-warder-recruitment-2026/",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-28",
-    "fees": [
-      {
-        "category": "General/OM/OBC/RBA/ALC-IB/ESM",
-        "fee": "Rs. 700/-"
-      },
-      {
-        "category": "SC/ST-1/ST-2/EWS",
-        "fee": "Rs. 600/-"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Date of Advertisement Notification",
-        "date": "06/07/2026"
-      },
-      {
-        "event": "Commencement of Online Application Submission (Postponed)",
-        "date": ""
-      },
-      {
-        "event": "Last Date for Submission of Online Application Forms",
-        "date": ""
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Warder",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the official website of JKSSB at www.jkssb.nic.in.",
-      "Read the Advertisement Notification No. 05 of 2026 carefully before applying.",
-      "Fill the Online Application Form with all required details including Name, Date of Birth, Father’s Name, Mother’s Name (as per Matriculation Certificate), Email ID, and Mobile Number.",
-      "Upload a live photograph, signature (Size: 10 KB to 20 KB), Category Certificate (Max size: 100 KB in PDF format), and Qualification/Experience Certificates (self-attested, Max size: 100 KB in PDF format) as required.",
-      "Pay the application fee online through Net Banking, Credit Card, or Debit Card (Rs. 700/- for General; Rs. 600/- for SC/ST-1/ST-2/EWS).",
-      "Review the application form carefully before final submission.",
-      "Submit the Online Application Form before the last date i.e. 25.08.2026.",
-      "Take a printout of the submitted application form for future reference and for submission at the time of Document Verification.",
-      "In-service candidates must submit the printout through proper channel (Head of Department/Designated Authority) before the last date of Document Verification."
-    ]
+    "scrapedAt": "2026-10-28"
   }
 ]

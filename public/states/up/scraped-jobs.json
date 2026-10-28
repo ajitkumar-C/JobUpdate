@@ -14,7 +14,7 @@
     "applyOnlineLink": "https://uppsc.up.nic.in/CandidatePages/Notifications.aspx",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27",
+    "scrapedAt": "2026-10-28",
     "fees": [
       {
         "category": "Unreserved / Economically Weaker Sections / Other Backward Classes",
@@ -160,6 +160,234 @@
     ]
   },
   {
+    "id": "up-bel-probationary-engineer",
+    "title": "BEL Recruitment 2026 – Probationary Engineer Posts",
+    "shortInfo": "BEL has announced notification for Probationary Engineer posts. Required qualification: B.Sc, B.Tech/B.E. Last date to apply: 18-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "350",
+    "lastDate": "18-11-26",
+    "officialWebsite": "https://bel-india.in/",
+    "notificationLink": "https://bel-india.in/wp-content/uploads/2026/10/External-Ad-2026-English-1.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/bel-probationary-engineer-recruitment-2026/",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-10-28",
+    "fees": [
+      {
+        "category": "General (UR)",
+        "fee": "Rs. 1180/- (Rs. 1000/- + GST)"
+      },
+      {
+        "category": "EWS",
+        "fee": "Rs. 1180/- (Rs. 1000/- + GST)"
+      },
+      {
+        "category": "OBC (NCL)",
+        "fee": "Rs. 1180/- (Rs. 1000/- + GST)"
+      },
+      {
+        "category": "SC/ST/PwBD/ESM",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date for Online Registration of Application",
+        "date": "28/10/2026"
+      },
+      {
+        "event": "Last Date of Submission of Online Application with Fee",
+        "date": "18/11/2026"
+      },
+      {
+        "event": "Tentative Date of Computer Based Test (CBT)",
+        "date": "22/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Probationary Engineer (Electronics) / E-II Grade",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Probationary Engineer (Mechanical) / E-II Grade",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the BEL official website: www.bel-india.in and navigate to the Careers section.",
+      "Read the detailed advertisement carefully and check eligibility before applying.",
+      "Keep ready: Valid E-mail ID, Mobile Number, scanned passport size photograph (not older than 3 months), scanned signature in JPG/JPEG format.",
+      "Step-I: Register by filling Personal Details and Contact Details, generate OTP and verify Mobile No. and E-mail ID. Submit to receive Application Sequence Number (User ID) and Password.",
+      "Step-II: Re-login and complete Personal Details, Additional Details, Communication Details, Qualification Details, Declaration, upload Photograph and Signature, and submit the application.",
+      "Pay the applicable application fee online via SBI e-Pay Lite Payment Gateway (Rs. 1180/- inclusive of GST for GEN/EWS/OBC(NCL) candidates). SC/ST/PwBD/ESM candidates are exempted.",
+      "After successful submission and payment, print and retain the Application Form and Payment Acknowledgement Slip for future reference.",
+      "Do NOT send hard copies of the application or any documents to BEL office."
+    ]
+  },
+  {
+    "id": "up-iffco-trainee-transportation-",
+    "title": "IFFCO Recruitment 2026 – Trainee (Transportation) Posts",
+    "shortInfo": "IFFCO has announced notification for Trainee (Transportation) posts. Required qualification: Graduate, Diploma. Last date to apply: 10-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "10-11-26",
+    "officialWebsite": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2026-10/Trainee-Transportation.pdf?VersionId=HoVKy0XfNHnx83sb18cyTELsDkYYY8Mj",
+    "notificationLink": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2026-10/Trainee-Transportation.pdf?VersionId=HoVKy0XfNHnx83sb18cyTELsDkYYY8Mj",
+    "applyOnlineLink": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2026-10/Trainee-Transportation.pdf?VersionId=HoVKy0XfNHnx83sb18cyTELsDkYYY8Mj",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-10-28"
+  },
+  {
+    "id": "up-sgpgims-junior-resident",
+    "title": "SGPGIMS Recruitment 2026 – Junior Resident Posts",
+    "shortInfo": "SGPGIMS has announced notification for Junior Resident posts. Required qualification: . Last date to apply: 30-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "3",
+    "lastDate": "30-10-26",
+    "officialWebsite": "https://sgpgims.org.in/Home/recruit/sr/2026/27.10.2026_%20JRNA%20Rolling%20Advt%20SUPPLIMENTARY.pdf",
+    "notificationLink": "https://sgpgims.org.in/Home/recruit/sr/2026/27.10.2026_%20JRNA%20Rolling%20Advt%20SUPPLIMENTARY.pdf",
+    "applyOnlineLink": "https://sgpgims.org.in/Home/recruit/sr/2026/27.10.2026_%20JRNA%20Rolling%20Advt%20SUPPLIMENTARY.pdf",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-10-28"
+  },
+  {
+    "id": "up-bhu-ac-operator-and-more-computer-operator",
+    "title": "BHU Recruitment 2026 – AC Operator and More, Computer Operator Posts",
+    "shortInfo": "BHU has announced notification for AC Operator and More, Computer Operator posts. Required qualification: B.Sc, Intermediate, 10TH, 12TH, M.Sc, ITI, MCA, M.E/M.Tech, PGDCA, CS, B.Tech/B.E, BCA. Last date to apply: 25-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "11",
+    "lastDate": "25-11-26",
+    "officialWebsite": "https://bhu.ac.in/Images/files/Advt_%20No_03_26-27%20for%20Computer%20Center.pdf",
+    "notificationLink": "https://bhu.ac.in/Images/files/Advt_%20No_03_26-27%20for%20Computer%20Center.pdf",
+    "applyOnlineLink": "https://bhu.ac.in/Images/files/Advt_%20No_03_26-27%20for%20Computer%20Center.pdf",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-10-28"
+  },
+  {
+    "id": "up-up government-more-apprentice-trainee-operator",
+    "title": "UP Government Recruitment 2026 – More, Apprentice Trainee, Operator Posts",
+    "shortInfo": "UP Government has announced notification for More, Apprentice Trainee, Operator posts. Required qualification: 12TH, 10TH, Graduate, ITI. Last date to apply: 31-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "120",
+    "lastDate": "31-10-26",
+    "officialWebsite": "https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_2233dd94-7c39-4a5e-aea0-d09cccd57530.pdf",
+    "notificationLink": "https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_2233dd94-7c39-4a5e-aea0-d09cccd57530.pdf",
+    "applyOnlineLink": "https://information.up.gov.in/admin/UploadDocument/OtherPress/compressed_2233dd94-7c39-4a5e-aea0-d09cccd57530.pdf",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-10-28"
+  },
+  {
+    "id": "up-bhu-indian-sign-languages-interpreter",
+    "title": "BHU Recruitment 2026 – Indian Sign Languages Interpreter Posts",
+    "shortInfo": "BHU has announced notification for Indian Sign Languages Interpreter posts. Required qualification: Any Bachelors Degree. Last date to apply: 26-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "26-11-26",
+    "officialWebsite": "https://www.bhu.ac.in/Images/files/Advt_%20Contractual-04-2026-2027%20(%20Indian%20Sign%20Language%20Interpereter).pdf",
+    "notificationLink": "https://www.bhu.ac.in/Images/files/Advt_%20Contractual-04-2026-2027%20(%20Indian%20Sign%20Language%20Interpereter).pdf",
+    "applyOnlineLink": "https://www.bhu.ac.in/Images/files/Advt_%20Contractual-04-2026-2027%20(%20Indian%20Sign%20Language%20Interpereter).pdf",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-10-28"
+  },
+  {
+    "id": "up-iit kanpur-research-associate-i",
+    "title": "IIT Kanpur Recruitment 2026 – Research Associate-I Posts",
+    "shortInfo": "IIT Kanpur has announced notification for Research Associate-I posts. Required qualification: M.E/M.Tech, M.Phil/Ph.D. Last date to apply: 09-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "09-11-26",
+    "officialWebsite": "https://www.iitk.ac.in/dord/project/see-ra-I-27-10-26.html",
+    "notificationLink": "https://www.iitk.ac.in/dord/project/see-ra-I-27-10-26.html",
+    "applyOnlineLink": "https://www.iitk.ac.in/dord/project/see-ra-I-27-10-26.html",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-10-28"
+  },
+  {
+    "id": "up-iit kanpur-project-engineer",
+    "title": "IIT Kanpur Recruitment 2026 – Project Engineer Posts",
+    "shortInfo": "IIT Kanpur has announced notification for Project Engineer posts. Required qualification: B.Tech/B.E, M.E/M.Tech. Last date to apply: 05-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "05-11-26",
+    "officialWebsite": "https://www.iitk.ac.in/dord/project/doaa-pe-22-10-26.html",
+    "notificationLink": "https://www.iitk.ac.in/dord/project/doaa-pe-22-10-26.html",
+    "applyOnlineLink": "https://www.iitk.ac.in/dord/project/doaa-pe-22-10-26.html",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-10-28"
+  },
+  {
+    "id": "up-deputy commissioner (swarozgar), siddharthnagar-mis-assistant-accountant",
+    "title": "Deputy Commissioner (Swarozgar), Siddharthnagar Recruitment 2026 – MIS Assistant, Accountant Posts",
+    "shortInfo": "Deputy Commissioner (Swarozgar), Siddharthnagar has announced notification for MIS Assistant, Accountant posts. Required qualification: 12TH. Last date to apply: 05-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "20",
+    "lastDate": "05-11-26",
+    "officialWebsite": "https://cdn.s3waas.gov.in/s385d8ce590ad8981ca2c8286f79f59954/uploads/2026/10/17929999831215.pdf",
+    "notificationLink": "https://cdn.s3waas.gov.in/s385d8ce590ad8981ca2c8286f79f59954/uploads/2026/10/17929999831215.pdf",
+    "applyOnlineLink": "https://cdn.s3waas.gov.in/s385d8ce590ad8981ca2c8286f79f59954/uploads/2026/10/17929999831215.pdf",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-10-28"
+  },
+  {
+    "id": "up-iit (bhu) varanasi-junior-research-assistant",
+    "title": "IIT (BHU) Varanasi Recruitment 2026 – Junior Research Assistant Posts",
+    "shortInfo": "IIT (BHU) Varanasi has announced notification for Junior Research Assistant posts. Required qualification: M.Sc, B.Tech/B.E, M.E/M.Tech. Last date to apply: 21.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "21",
+    "officialWebsite": "https://iitbhu.ac.in/contents/institute/2026/project/project_ece_jrf_wearable.pdf",
+    "notificationLink": "https://iitbhu.ac.in/contents/institute/2026/project/project_ece_jrf_wearable.pdf",
+    "applyOnlineLink": "https://iitbhu.ac.in/contents/institute/2026/project/project_ece_jrf_wearable.pdf",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-10-28"
+  },
+  {
     "id": "up-iit kanpur-research-associate-iii",
     "title": "IIT Kanpur Recruitment 2026 – Research Associate III Posts",
     "shortInfo": "IIT Kanpur has announced notification for Research Associate III posts. Required qualification: M.Phil/Ph.D. Last date to apply: 03-11-26.",
@@ -174,7 +402,7 @@
     "applyOnlineLink": "https://www.iitk.ac.in/dord/project/bsbe-ra-III-26-10-26.html",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-gautam buddha university-project-technical-support-iii",
@@ -191,7 +419,7 @@
     "applyOnlineLink": "https://manage.gbu.ac.in/Content/uploads/Notices/General/RP-Adv-ProjectTechnicalsupportIII.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-hbtu-faculty-and-administrative-positions",
@@ -208,7 +436,7 @@
     "applyOnlineLink": "https://hbtu.ac.in/Rec2026-27/updated-Regular%20Recruitment%202026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-iit (bhu)-junior-research-fellow",
@@ -225,7 +453,7 @@
     "applyOnlineLink": "https://iitbhu.ac.in/contents/institute/2026/project/project_jrf_phe_ganga.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-pawan hans-consultant-head-senior-consultant",
@@ -242,7 +470,7 @@
     "applyOnlineLink": "https://www.pawanhans.co.in/english/CareerDetailsN.aspx?id=2548",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-cgst-tax-assistant-havaldar",
@@ -255,11 +483,11 @@
     "vacancies": "17",
     "lastDate": "23-11-26",
     "officialWebsite": "https://ccolkozone.gov.in",
-    "notificationLink": "blob:https://www.cbic.gov.in/6e757532-0902-4ae8-8bca-f53a80ed2df5",
+    "notificationLink": "https://www.cbic.gov.in",
     "applyOnlineLink": "https://govtjobguru.in/jobs/cgst-lucknow-sports-quota-recruitment-2026/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27",
+    "scrapedAt": "2026-10-28",
     "fees": [],
     "dates": [
       {
@@ -307,7 +535,7 @@
     "applyOnlineLink": "https://apply.upessc.org/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27",
+    "scrapedAt": "2026-10-28",
     "fees": [
       {
         "category": "General/OBC/EWS",
@@ -385,7 +613,7 @@
     "applyOnlineLink": "https://apply.upessc.org/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27",
+    "scrapedAt": "2026-10-28",
     "fees": [
       {
         "category": "General/OBC/EWS",
@@ -464,7 +692,7 @@
     "applyOnlineLink": "https://apply.upessc.org/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27",
+    "scrapedAt": "2026-10-28",
     "fees": [
       {
         "category": "General/Unreserved/OBC/EWS and Others",
@@ -768,7 +996,7 @@
     "applyOnlineLink": "https://www.armypublicschoolbly.com/slider/j2wtsstb.wib_Requsite%20Qualification%20&#038;%20Advertisement.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-asmc bahraich-non-pg-junior-resident",
@@ -785,7 +1013,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3e96ed478dab8595a7dbda4cbcbee168f/uploads/2026/10/17928232635072.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-sgpgims-technical-coordinator",
@@ -802,7 +1030,7 @@
     "applyOnlineLink": "https://sgpgims.org.in/Home/recruit/Project/2026/Project_Genetics_241026_DrKausik.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-bsae moradabad-academic-resource-person",
@@ -819,7 +1047,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s382161242827b703e6acf9c726942a1e4/uploads/2026/10/17928188256525.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-iwai-principal-private-secretary",
@@ -836,7 +1064,7 @@
     "applyOnlineLink": "https://iwai.gov.in/sites/default/files/2026-10/emp._notice_of_pps_2026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-bhatkhande university-tabla-accompanist-accompanist",
@@ -853,7 +1081,7 @@
     "applyOnlineLink": "https://www.bhatkhandeuniversity.ac.in/downloadmedia/UploadNews/pdf/C_202610231653532615.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-rgnau-professional-trainee",
@@ -870,7 +1098,7 @@
     "applyOnlineLink": "https://rgnau.ac.in/sites/default/files/inline-files/Final%20-%20Advt%20for%20Professional%20Trainee%20(Management,%20EE,%20CE%20&#038;%20Pharmacy).pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-rgnau-designer-cum-content-developer",
@@ -887,24 +1115,7 @@
     "applyOnlineLink": "https://rgnau.ac.in/sites/default/files/inline-files/Final%20-Engagement%20of%20Designer-cum-Content%20Developer%20(on%20contract)-23.10.2026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
-  },
-  {
-    "id": "up-icsil-firemen",
-    "title": "ICSIL Recruitment 2026 – Firemen Posts",
-    "shortInfo": "ICSIL has announced notification for Firemen posts. Required qualification: 12TH. Last date to apply: 25-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "3",
-    "lastDate": "25-10-26",
-    "officialWebsite": "https://icsil.in/app/uploads/advertisement/CRIH_(Firemen)_ONLINE.pdf",
-    "notificationLink": "https://icsil.in/app/uploads/advertisement/CRIH_(Firemen)_ONLINE.pdf",
-    "applyOnlineLink": "https://icsil.in/app/uploads/advertisement/CRIH_(Firemen)_ONLINE.pdf",
-    "state": "Uttar Pradesh",
-    "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-iit kanpur-project-post-doctoral-fellow",
@@ -921,7 +1132,7 @@
     "applyOnlineLink": "https://www.iitk.ac.in/dord/project/doaa-ppdf-23-10-26.html",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-iwai-director",
@@ -938,7 +1149,7 @@
     "applyOnlineLink": "https://shipmin.gov.in/sites/default/files/IWAI%20letter%20dt.%2006.10.2026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-bhu-young-professional",
@@ -955,7 +1166,7 @@
     "applyOnlineLink": "http://dcs.sdau.edu.in/Uploads/news/YP%20II%20advertisement.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-sgpgims-senior-resident-psychiatry-walk-in-",
@@ -972,7 +1183,7 @@
     "applyOnlineLink": "https://sgpgims.org.in/Home/recruit/sr/2026/22.10.2026_SRHS%20Rolling%20Advt%20SUPPLIMENTARY_221026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-jiit-security-supervisor",
@@ -989,7 +1200,7 @@
     "applyOnlineLink": "https://www.jiit.ac.in/uploads/Vigilane_Supervisors_Oct26_8e4e438ad1.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-drat-udc-stenographer",
@@ -1006,7 +1217,7 @@
     "applyOnlineLink": "https://financialservices.gov.in/sites/default/files/vacancy/2026-10/VACANCY-CIRCULAR--DRAT-ALLAHABAD.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-rgnau-associate-professor-assistant-professor-professor",
@@ -1023,7 +1234,7 @@
     "applyOnlineLink": "https://rgnau.ac.in/sites/default/files/inline-files/Advertisemnt-Faculty%20(including%20backlog)-Oct%202026-Final%20-22.10.2026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-asmc bahraich-associate-professor-professor-assistant-professor",
@@ -1040,7 +1251,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3e96ed478dab8595a7dbda4cbcbee168f/uploads/2026/10/17926502502762.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-asmc bahraich-associate-professor-professor-assistant-professor",
@@ -1057,7 +1268,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3e96ed478dab8595a7dbda4cbcbee168f/uploads/2026/10/17926496851815.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-hbch mpmmcc-visiting-consultant",
@@ -1074,7 +1285,7 @@
     "applyOnlineLink": "https://tmc.gov.in/postmaster/ViewFile?FileId=T4YkMygGdMFA00vLVDvAEA==",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-tmc mpmmcc-ad-hoc-medical-officer",
@@ -1091,7 +1302,7 @@
     "applyOnlineLink": "https://tmc.gov.in/postmaster/ViewFile?FileId=pzAE7ORySj3GAxN1RYDZMQ==",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-aai-consultant-short-service-commission-officers-last-",
@@ -1108,7 +1319,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-ssco-consultant-recruitment-2026/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27",
+    "scrapedAt": "2026-10-28",
     "fees": [
       {
         "category": "Fee",
@@ -1194,7 +1405,7 @@
     "applyOnlineLink": "https://hrms.hurl.net.in/files/E-05-2026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-tmc-senior-resident-junior-resident",
@@ -1211,7 +1422,7 @@
     "applyOnlineLink": "https://tmc.gov.in/postmaster/ViewFile?FileId=k9Ghigb+WqmjvqOTu2GA+w==",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-ipc-intern",
@@ -1228,24 +1439,7 @@
     "applyOnlineLink": "https://ipc.gov.in/news-highlights/1526-applications-open-pvpi-internship-programmes-2026.html",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
-  },
-  {
-    "id": "up-pcim&amp;h-mts-office-assistant-and-more",
-    "title": "PCIM&amp;H Recruitment 2026 – MTS, Office Assistant and More Posts",
-    "shortInfo": "PCIM&amp;H has announced notification for MTS, Office Assistant and More posts. Required qualification: Any Graduate, M.Phil/Ph.D. Last date to apply: 25-10-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "20",
-    "lastDate": "25-10-26",
-    "officialWebsite": "https://pcimh.gov.in/assets/pdf/vacancy/PCIMH_Advertisement.pdf",
-    "notificationLink": "https://pcimh.gov.in/assets/pdf/vacancy/PCIMH_Advertisement.pdf",
-    "applyOnlineLink": "https://pcimh.gov.in/assets/pdf/vacancy/PCIMH_Advertisement.pdf",
-    "state": "Uttar Pradesh",
-    "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-tmc-senior-resident-fellowship-in-patient-blood-manage",
@@ -1262,24 +1456,7 @@
     "applyOnlineLink": "https://tmc.gov.in/postmaster/ViewFile?FileId=FLaJTnHLz1IIG3F1Iacfcg==",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
-  },
-  {
-    "id": "up-aiims gorakhpur-project-technical-support-ii",
-    "title": "AIIMS Gorakhpur Recruitment 2026 – Project Technical Support-II Posts",
-    "shortInfo": "AIIMS Gorakhpur has announced notification for Project Technical Support-II posts. Required qualification: BMLT, DMLT. Last date to apply: 25-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "25-10-26",
-    "officialWebsite": "https://aiimsgorakhpur.edu.in/wp-content/uploads/2026/10/icmr-PTS-II_merged.pdf",
-    "notificationLink": "https://aiimsgorakhpur.edu.in/wp-content/uploads/2026/10/icmr-PTS-II_merged.pdf",
-    "applyOnlineLink": "https://aiimsgorakhpur.edu.in/wp-content/uploads/2026/10/icmr-PTS-II_merged.pdf",
-    "state": "Uttar Pradesh",
-    "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-esic medical college &amp; hospital varanasi-teaching-faculty-senior-resident-walk-in-",
@@ -1296,7 +1473,7 @@
     "applyOnlineLink": "https://esic.gov.in/attachments/recruitmentfile/Recruitment_of_Teaching_Faculty_on_contract_basis_at_ESIC_Medical_College_amp_Hospital_Pandeypur_Varanasi_1792570807.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-iit (bhu)-junior-research-fellow",
@@ -1313,7 +1490,7 @@
     "applyOnlineLink": "https://iitbhu.ac.in/contents/institute/2026/project/project_jrf_apm_analysis.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-iim lucknow-research-assistant",
@@ -1330,7 +1507,7 @@
     "applyOnlineLink": "https://www.iiml.ac.in/sites/default/files/upload/jobs/247392874Advertisement.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-lic hfl-apprentice",
@@ -1347,7 +1524,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27",
+    "scrapedAt": "2026-10-28",
     "fees": [
       {
         "category": "Scheduled Caste (SC) / Scheduled Tribe (ST) candidates",
@@ -1419,7 +1596,7 @@
     "applyOnlineLink": "https://www.gims.ac.in/assets/pdf/Notices/MS%20Contractual%20Advertisement%20details%20-%20Copy%20(2).pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-becil-advisor",
@@ -1436,7 +1613,7 @@
     "applyOnlineLink": "https://www.becil.com/uploads/topics/17924098715995.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-csir nbri-project-assistant-ii-project-associate-i-more",
@@ -1453,24 +1630,7 @@
     "applyOnlineLink": "https://nbri.res.in/uploads/RecruitmentFile/1792413068.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
-  },
-  {
-    "id": "up-icsil-firemen",
-    "title": "ICSIL Recruitment 2026 – Firemen Posts",
-    "shortInfo": "ICSIL has announced notification for Firemen posts. Required qualification: 12TH. Last date to apply: 25-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "3",
-    "lastDate": "25-10-26",
-    "officialWebsite": "https://icsil.in/app/uploads/advertisement/CRIH_(Firemen)_ONLINE.pdf",
-    "notificationLink": "https://icsil.in/app/uploads/advertisement/CRIH_(Firemen)_ONLINE.pdf",
-    "applyOnlineLink": "https://icsil.in/app/uploads/advertisement/CRIH_(Firemen)_ONLINE.pdf",
-    "state": "Uttar Pradesh",
-    "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-sgpgims-senior-resident-junior-resident-walk-in-",
@@ -1487,7 +1647,7 @@
     "applyOnlineLink": "https://sgpgims.org.in/Home/recruit/sr/2026/17.10.2026_SRHS%20JRNA%20Rolling%20Advt_171026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-bhel-fitter-welder-turner-machinist-electrician-electro",
@@ -1504,7 +1664,7 @@
     "applyOnlineLink": "https://cdn.digialm.com/EForms/configuredHtml/33192/102813/o0zKIYO3CqWa8uMPmN/login.html",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27",
+    "scrapedAt": "2026-10-28",
     "fees": [
       {
         "category": "UR/EWS/OBC",
@@ -1593,86 +1753,6 @@
     ]
   },
   {
-    "id": "up-iit kanpur-project-associate-i",
-    "title": "IIT Kanpur Recruitment 2026 – Project Associate-I Posts",
-    "shortInfo": "IIT Kanpur has announced notification for Project Associate-I posts. Required qualification: M.Sc, M.E/M.Tech. Last date to apply: 23-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "23-10-26",
-    "officialWebsite": "https://www.iitk.ac.in/dord/project/mse-pa-I-14-10-26.html",
-    "notificationLink": "https://www.iitk.ac.in/dord/project/mse-pa-I-14-10-26.html",
-    "applyOnlineLink": "https://www.iitk.ac.in/dord/project/mse-pa-I-14-10-26.html",
-    "state": "Uttar Pradesh",
-    "stateCode": "up",
-    "scrapedAt": "2026-10-27"
-  },
-  {
-    "id": "up-lucknow university-young-professional-amp-research-assistant",
-    "title": "Lucknow University Recruitment 2026 – Young Professional &amp; Research Assistant Posts",
-    "shortInfo": "Lucknow University has announced notification for Young Professional &amp; Research Assistant posts. Required qualification: M.Phil/Ph.D. Last date to apply: 24-10-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "24",
-    "lastDate": "24-10-26",
-    "officialWebsite": "https://lkouniv.ac.in/site/writereaddata/siteContent/202610161709475976CDPR%20Advertisement%20Final.pdf",
-    "notificationLink": "https://lkouniv.ac.in/site/writereaddata/siteContent/202610161709475976CDPR%20Advertisement%20Final.pdf",
-    "applyOnlineLink": "https://lkouniv.ac.in/site/writereaddata/siteContent/202610161709475976CDPR%20Advertisement%20Final.pdf",
-    "state": "Uttar Pradesh",
-    "stateCode": "up",
-    "scrapedAt": "2026-10-27"
-  },
-  {
-    "id": "up-exim bank-business-development-officer-last-date-extended-",
-    "title": "Exim Bank Recruitment 2026 – Business Development Officer (Last Date Extended) Posts",
-    "shortInfo": "Exim Bank has announced notification for Business Development Officer (Last Date Extended) posts. Required qualification: Postgraduate in Marketing/Finance, MBA. Last date to apply: 25-10-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "12",
-    "lastDate": "25-10-26",
-    "officialWebsite": "https://eximbankindia.in",
-    "notificationLink": "https://www.eximbankindia.in/sites/default/files/2026-09/Recruitment%20of%20Business%20Development%20Officer%20on%20Contract.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/exim-bank-business-development-officer-recruitment-2026/",
-    "state": "Uttar Pradesh",
-    "stateCode": "up",
-    "scrapedAt": "2026-10-27",
-    "fees": [
-      {
-        "category": "Fee",
-        "fee": "Not Mentioned"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Last Date to Apply (Extended Upto)",
-        "date": "25/10/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Business Development Officer",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Ensure you meet all the eligibility criteria before applying.",
-      "Prepare your resume as per the attached application format provided in the notification.",
-      "Send your resume to hrm@eximbankindia.in with the subject line: BDO Application: Mr./ Ms. (Full Name).",
-      "The Bank will shortlist eligible candidates for personal interview at its office in Mumbai/New Delhi.",
-      "Only shortlisted candidates will be informed regarding the interview.",
-      "Candidates will be shortlisted for interviews in the ratio of 1:10 based on percentage score at post-graduation examination if more than 10 candidates are eligible."
-    ]
-  },
-  {
     "id": "up-upsssc-tax-collection-amin-land-acquisition-amin-store-ke",
     "title": "UPSSSC Recruitment 2026 – Tax Collection Amin, Land Acquisition Amin, Store Keeper, Clerk, VDO &amp; Other Posts",
     "shortInfo": "UPSSSC has announced notification for Tax Collection Amin, Land Acquisition Amin, Store Keeper, Clerk, VDO &amp; Other posts. Required qualification: Intermediate (10+2), CCC Certificate. Last date to apply: 01-12-26.",
@@ -1687,7 +1767,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/upsssc-inter-level-recruitment-2026/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27",
+    "scrapedAt": "2026-10-28",
     "fees": [
       {
         "category": "Unreserved (General)",
@@ -1835,7 +1915,7 @@
     "applyOnlineLink": "https://sgpgims.org.in/Home/recruit/sr/2026/PDF%20Rolling%20Advt%2016.10.2026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-auraiya district court-stenographer-and-more-senior-assistant",
@@ -1852,7 +1932,7 @@
     "applyOnlineLink": "https://www.allahabadhighcourt.in/event/event_27288_16-10-2026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-amu-senior-resident",
@@ -1869,24 +1949,7 @@
     "applyOnlineLink": "https://api.amu.ac.in/storage/file/8003/jobs/1792126493.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
-  },
-  {
-    "id": "up-upmrc-project-director",
-    "title": "UPMRC Recruitment 2026 – Project Director Posts",
-    "shortInfo": "UPMRC has announced notification for Project Director posts. Required qualification: B.Tech/B.E. Last date to apply: 23-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "23-10-26",
-    "officialWebsite": "https://upmrcl-media.s3.amazonaws.com/media/documents/Notification-Project_Director_rotated_YZ0HoAu.pdf",
-    "notificationLink": "https://upmrcl-media.s3.amazonaws.com/media/documents/Notification-Project_Director_rotated_YZ0HoAu.pdf",
-    "applyOnlineLink": "https://upmrcl-media.s3.amazonaws.com/media/documents/Notification-Project_Director_rotated_YZ0HoAu.pdf",
-    "state": "Uttar Pradesh",
-    "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-dlsa bijnor-peon",
@@ -1903,7 +1966,7 @@
     "applyOnlineLink": "https://www.allahabadhighcourt.in/event/event_27275_15-10-2026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-aiims gorakhpur-assistant-professor-professor",
@@ -1920,7 +1983,7 @@
     "applyOnlineLink": "https://aiimsgorakhpur.edu.in/wp-content/uploads/2026/10/2nd-Rolling-Faculty-Advertisment.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-esic hospital sahibabad-senior-resident-super-specialist-specialist-walk-i",
@@ -1937,7 +2000,7 @@
     "applyOnlineLink": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_interview_on_26th_and_27th_October_2026_for_the_recruitment_of_Full_Time_Part_Time_Super_Specialist_Full_Time_Part_Time_Specialist_and_Senior_Residents_under_03_Years_Residency_Scheme_on_contract_basis_at_ESIC_1792061749.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-family court pratapgarh-counselor",
@@ -1954,24 +2017,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec05abdeb6f575ac5c6676b747bca8d0/uploads/2026/10/2026101475.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
-  },
-  {
-    "id": "up-vvgnli-research-associate",
-    "title": "VVGNLI Recruitment 2026 – Research Associate Posts",
-    "shortInfo": "VVGNLI has announced notification for Research Associate posts. Required qualification: M.A. Last date to apply: 23-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "23-10-26",
-    "officialWebsite": "https://vvgnli.gov.in/sites/default/files/2026-10/RG_Advertisement_RA_14.10.26.pdf",
-    "notificationLink": "https://vvgnli.gov.in/sites/default/files/2026-10/RG_Advertisement_RA_14.10.26.pdf",
-    "applyOnlineLink": "https://vvgnli.gov.in/sites/default/files/2026-10/RG_Advertisement_RA_14.10.26.pdf",
-    "state": "Uttar Pradesh",
-    "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-up kasganj anganwadi-anganwadi-worker",
@@ -1988,7 +2034,7 @@
     "applyOnlineLink": "https://upanganwadibharti.in/workernew/uploadOrder/ordercopy_1791979147_52412659.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-district court bijnor-junior-assistant",
@@ -2005,7 +2051,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec05291d43c696d8c3704cdbe0a72ade/uploads/2026/10/2026101440.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-rdso-senior-section-engineer",
@@ -2022,7 +2068,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/rdso-senior-section-engineer-recruitment-2026/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27",
+    "scrapedAt": "2026-10-28",
     "fees": [
       {
         "category": "Fee",
@@ -2080,7 +2126,7 @@
     "applyOnlineLink": "https://www.bbau.ac.in/Docs/Career/Project/Advt..pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-gbu-associate-professor-professor-assistant-professor",
@@ -2097,7 +2143,7 @@
     "applyOnlineLink": "https://www.gbu.ac.in/Content/gbudata/jobs/Detailed%20Adv%20for%20Website-14-10-2026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-cmo banda-specialist-medical-officer",
@@ -2114,7 +2160,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s326657d5ff9020d2abefe558796b99584/uploads/2026/10/17919582182905.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-hathras district court-group-iv-stenographer-group-iii",
@@ -2131,24 +2177,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec050141a8aedb1b53970fac7c81dac7/uploads/2024/01/2026101317.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
-  },
-  {
-    "id": "up-dlsa sant kabir nagar-mediator",
-    "title": "DLSA Sant Kabir Nagar Recruitment 2026 – Mediator Posts",
-    "shortInfo": "DLSA Sant Kabir Nagar has announced notification for Mediator posts. Required qualification: CA, Retired Staff. Last date to apply: 23-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "4",
-    "lastDate": "23-10-26",
-    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3ec0473231e53eeef362c814c8522f525/uploads/2026/10/2026101336.pdf",
-    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec0473231e53eeef362c814c8522f525/uploads/2026/10/2026101336.pdf",
-    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0473231e53eeef362c814c8522f525/uploads/2026/10/2026101336.pdf",
-    "state": "Uttar Pradesh",
-    "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-uco bank-apprentice",
@@ -2165,7 +2194,7 @@
     "applyOnlineLink": "https://beep.bfsissc.com/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27",
+    "scrapedAt": "2026-10-28",
     "fees": [
       {
         "category": "SC/ST candidates",
@@ -2237,24 +2266,7 @@
     "applyOnlineLink": "https://igrua.gov.in/sites/default/files/EM%20adver.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
-  },
-  {
-    "id": "up-sgpgims-project-technical-support-iii",
-    "title": "SGPGIMS Recruitment 2026 – Project Technical Support-III Posts",
-    "shortInfo": "SGPGIMS has announced notification for Project Technical Support-III posts. Required qualification: M.Sc. Last date to apply: 22-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "22-10-26",
-    "officialWebsite": "https://sgpgims.org.in/Home/recruit/Project/2026/Proj_Hemato_DrKulwant_131026.pdf",
-    "notificationLink": "https://sgpgims.org.in/Home/recruit/Project/2026/Proj_Hemato_DrKulwant_131026.pdf",
-    "applyOnlineLink": "https://sgpgims.org.in/Home/recruit/Project/2026/Proj_Hemato_DrKulwant_131026.pdf",
-    "state": "Uttar Pradesh",
-    "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-tmc-fellow",
@@ -2271,24 +2283,7 @@
     "applyOnlineLink": "https://tmc.gov.in/postmaster/ViewFile?FileId=WgNzrQjc/I8i5B2mZ775uw==",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
-  },
-  {
-    "id": "up-ordnance factory hazratpur-doctor",
-    "title": "Ordnance Factory Hazratpur Recruitment 2026 – Doctor Posts",
-    "shortInfo": "Ordnance Factory Hazratpur has announced notification for Doctor posts. Required qualification: MBBS. Last date to apply: 26-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "26-10-26",
-    "officialWebsite": "https://ddpdoo.gov.in/storage/document/6accc3df6c10d.pdf",
-    "notificationLink": "https://ddpdoo.gov.in/storage/document/6accc3df6c10d.pdf",
-    "applyOnlineLink": "https://ddpdoo.gov.in/storage/document/6accc3df6c10d.pdf",
-    "state": "Uttar Pradesh",
-    "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-mnnit allahabad-part-time-general-duty-doctors",
@@ -2305,7 +2300,7 @@
     "applyOnlineLink": "https://mnnit.ac.in/images/newstories/2026/JobMnnit/Advt_for_Part_Time_General_Duty_Doctors_dated_12.10.2026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-upsssc-junior-engineer-electrical-technical-assistant-ele",
@@ -2322,7 +2317,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/upsssc-je-recruitment-2026/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27",
+    "scrapedAt": "2026-10-28",
     "fees": [
       {
         "category": "Unreserved (General)",
@@ -2493,7 +2488,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/upsssc-je-ae-mechanic-recruitment-2026/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27",
+    "scrapedAt": "2026-10-28",
     "fees": [
       {
         "category": "Unreserved (General)",
@@ -2616,24 +2611,7 @@
     "applyOnlineLink": "https://iitbhu.ac.in/contents/institute/2026/project/noti_cse_lorawan.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
-  },
-  {
-    "id": "up-lucknow university-junior-research-assistant",
-    "title": "Lucknow University Recruitment 2026 – Junior Research Assistant Posts",
-    "shortInfo": "Lucknow University has announced notification for Junior Research Assistant posts. Required qualification: M.Sc. Last date to apply: 24-10-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "24-10-26",
-    "officialWebsite": "https://lkouniv.ac.in/site/writereaddata/siteContent/202610121122183916Advertisement_121026.pdf",
-    "notificationLink": "https://lkouniv.ac.in/site/writereaddata/siteContent/202610121122183916Advertisement_121026.pdf",
-    "applyOnlineLink": "https://lkouniv.ac.in/site/writereaddata/siteContent/202610121122183916Advertisement_121026.pdf",
-    "state": "Uttar Pradesh",
-    "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-allahabad university-junior-research-fellow",
@@ -2650,7 +2628,7 @@
     "applyOnlineLink": "https://www.allduniv.ac.in/upload/file_collection/advertisement_JRF_Monsoon_Misson_project.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-vvgnli-fellow",
@@ -2667,7 +2645,7 @@
     "applyOnlineLink": "https://vvgnli.gov.in/sites/default/files/2026-10/Advt.%20-%20Fellow_1.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-rgipt-registrar-finance-officer",
@@ -2684,24 +2662,7 @@
     "applyOnlineLink": "https://www.rgipt.ac.in/site/writereaddata/siteContent/202610011303374733RGIPT-NTS-October%202026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
-  },
-  {
-    "id": "up-dlsa moradabad-para-legal-volunteer",
-    "title": "DLSA Moradabad Recruitment 2026 – Para Legal Volunteer Posts",
-    "shortInfo": "DLSA Moradabad has announced notification for Para Legal Volunteer posts. Required qualification: 10TH. Last date to apply: 22-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "-",
-    "lastDate": "22-10-26",
-    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3ec05d87ca511e2a8593c8039ef732f5b/uploads/2026/10/2026100524.pdf",
-    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec05d87ca511e2a8593c8039ef732f5b/uploads/2026/10/2026100524.pdf",
-    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec05d87ca511e2a8593c8039ef732f5b/uploads/2026/10/2026100524.pdf",
-    "state": "Uttar Pradesh",
-    "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-iwai-section-officer",
@@ -2718,7 +2679,7 @@
     "applyOnlineLink": "https://iwai.gov.in/sites/default/files/2026-10/emp._notice_of_section_officer_2026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-igrua-ground-instructor",
@@ -2735,24 +2696,7 @@
     "applyOnlineLink": "https://igrua.gov.in/sites/default/files/Revised_QR_GI%20(Air%20Regs).pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
-  },
-  {
-    "id": "up-bbau-young-professional-ii",
-    "title": "BBAU Recruitment 2026 – Young Professional II Posts",
-    "shortInfo": "BBAU has announced notification for Young Professional II posts. Required qualification: M.Phil/Ph.D. Last date to apply: 22-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "22-10-26",
-    "officialWebsite": "https://www.bbau.ac.in/Docs/Career/Project/walkinterview.pdf",
-    "notificationLink": "https://www.bbau.ac.in/Docs/Career/Project/walkinterview.pdf",
-    "applyOnlineLink": "https://www.bbau.ac.in/Docs/Career/Project/walkinterview.pdf",
-    "state": "Uttar Pradesh",
-    "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-iit (bhu) varanasi-project-assistant-junior-research-fellow-jrf-proje",
@@ -2769,7 +2713,7 @@
     "applyOnlineLink": "https://iitbhu.ac.in/contents/institute/2026/project/project_civ_slcr.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-up anganwadi moradabad-anganwadi-helper",
@@ -2786,7 +2730,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/up-anganwadi-bharti-2024/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-aweil-junior-translator",
@@ -2803,7 +2747,7 @@
     "applyOnlineLink": "https://ddpdoo.gov.in/storage/document/6ac732b240220.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-up moradabad anganwadi-anganwadi-worker",
@@ -2820,7 +2764,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/up-anganwadi-bharti-2024/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-rrc ner-group-d-group-c",
@@ -2837,293 +2781,7 @@
     "applyOnlineLink": "https://ner.indianrailways.gov.in/uploads/files/1791289855389-SG%20Notification%20Eng%202026-27.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
-  },
-  {
-    "id": "up-npcil-ca-cma-intern",
-    "title": "NPCIL Recruitment 2026 – CA/CMA Intern Posts",
-    "shortInfo": "NPCIL has announced notification for CA/CMA Intern posts. Required qualification: Inter CA, Inter CMA. Last date to apply: 26-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "51",
-    "lastDate": "26-10-26",
-    "officialWebsite": "https://www.npcil.nic.in",
-    "notificationLink": "https://www.npcilcareers.co.in/HQCA20260610/documents/advt.pdf",
-    "applyOnlineLink": "https://www.npcilcareers.co.in/HQCA20260610/candidate/Default.aspx",
-    "state": "Uttar Pradesh",
-    "stateCode": "up",
-    "scrapedAt": "2026-10-27",
-    "fees": [
-      {
-        "category": "All Categories",
-        "fee": "No Fee"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Opening Date for Submission of Online Applications",
-        "date": "06/10/2026"
-      },
-      {
-        "event": "Last Date for Submission of Online Applications",
-        "date": "26/10/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "CA/CMA Intern (NPCIL HQ, Mumbai)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "CA/CMA Intern (TAPS, Maharashtra)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "CA/CMA Intern (RAPS, Rajasthan)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "CA/CMA Intern (NAPS, Uttar Pradesh)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "CA/CMA Intern (KAPS, Gujarat)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "CA/CMA Intern (MAPS, Tamil Nadu)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "CA/CMA Intern (KGS, Karnataka)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "CA/CMA Intern (GHAVP, Haryana)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "CA/CMA Intern (KKNPP, Tamil Nadu)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the official website www.npcilcareers.co.in and click on ‘Apply =&gt; Online Registration’.",
-      "Step 1 – Registration: Fill in basic information such as Name, Date of Birth, Category, Email, and Mobile Number. An activation link will be sent to your registered email.",
-      "Step 2 – Activation: Click on the activation link received via email to activate your account.",
-      "Step 3 – Fill Application: Login using your Login ID and Password. Fill in all details including Educational Qualifications, Marks of CA/CMA, Personal Details, and upload scanned Photograph (JPEG, max 50KB, max 480×640 pixels, min 10KB, min 180×240 pixels) and Signature (JPEG, max 20KB, max 160×560 pixels, min 80×100 pixels).",
-      "Step 4 – Submit Application: Review the draft application, make any necessary corrections, and submit. An Application Number will be generated upon successful submission.",
-      "Step 5 – Print Application Form: After submission, view and print the Online Application Form.",
-      "There is NO application fee for applying for the Internship.",
-      "Do NOT send any documents/application to NPCIL by post or in person."
-    ]
-  },
-  {
-    "id": "up-sainik school mainpuri-tgt-english-counsellor",
-    "title": "Sainik School Mainpuri Recruitment 2026 – TGT English, Counsellor Posts",
-    "shortInfo": "Sainik School Mainpuri has announced notification for TGT English, Counsellor posts. Required qualification: Any Graduate, B.Ed, Any Post Graduate. Last date to apply: 25-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "2",
-    "lastDate": "25-10-26",
-    "officialWebsite": "https://www.sainikschoolmainpuri.com/files/news/NEWS_20261005_6ac3910bedb36.pdf",
-    "notificationLink": "https://www.sainikschoolmainpuri.com/files/news/NEWS_20261005_6ac3910bedb36.pdf",
-    "applyOnlineLink": "https://www.sainikschoolmainpuri.com/files/news/NEWS_20261005_6ac3910bedb36.pdf",
-    "state": "Uttar Pradesh",
-    "stateCode": "up",
-    "scrapedAt": "2026-10-27"
-  },
-  {
-    "id": "up-iim lucknow-research-associate",
-    "title": "IIM Lucknow Recruitment 2026 – Research Associate Posts",
-    "shortInfo": "IIM Lucknow has announced notification for Research Associate posts. Required qualification: M.Phil/Ph.D. Last date to apply: 25-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "25-10-26",
-    "officialWebsite": "https://www.iiml.ac.in/sites/default/files/upload/jobs/503891908Advertisement_RA_2026_sept.pdf",
-    "notificationLink": "https://www.iiml.ac.in/sites/default/files/upload/jobs/503891908Advertisement_RA_2026_sept.pdf",
-    "applyOnlineLink": "https://www.iiml.ac.in/sites/default/files/upload/jobs/503891908Advertisement_RA_2026_sept.pdf",
-    "state": "Uttar Pradesh",
-    "stateCode": "up",
-    "scrapedAt": "2026-10-27"
-  },
-  {
-    "id": "up-iit (bhu) varanasi-project-research-scientist-i",
-    "title": "IIT (BHU) Varanasi Recruitment 2026 – Project Research Scientist I Posts",
-    "shortInfo": "IIT (BHU) Varanasi has announced notification for Project Research Scientist I posts. Required qualification: M.Pharma, M.E/M.Tech, M.Phil/Ph.D, MS. Last date to apply: 21.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "21",
-    "officialWebsite": "https://iitbhu.ac.in/contents/institute/2026/project/project_prs_phe_novel.pdf",
-    "notificationLink": "https://iitbhu.ac.in/contents/institute/2026/project/project_prs_phe_novel.pdf",
-    "applyOnlineLink": "https://iitbhu.ac.in/contents/institute/2026/project/project_prs_phe_novel.pdf",
-    "state": "Uttar Pradesh",
-    "stateCode": "up",
-    "scrapedAt": "2026-10-27"
-  },
-  {
-    "id": "up-cdac-project-associate-project-engineer-senior-project-",
-    "title": "CDAC Recruitment 2026 – Project Associate, Project Engineer, Senior Project Engineer, Project Manager, Project Officer Posts",
-    "shortInfo": "CDAC has announced notification for Project Associate, Project Engineer, Senior Project Engineer, Project Manager, Project Officer posts. Required qualification: Post-wise (as per official notification). Last date to apply: 26-10-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "951",
-    "lastDate": "26-10-26",
-    "officialWebsite": "https://cdac.gov.in",
-    "notificationLink": "https://careers.cdac.in/",
-    "applyOnlineLink": "https://careers.cdac.in/",
-    "state": "Uttar Pradesh",
-    "stateCode": "up",
-    "scrapedAt": "2026-10-27",
-    "fees": [
-      {
-        "category": "All Categories",
-        "fee": "No Fee"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Notification Release Date",
-        "date": "05/10/2026"
-      },
-      {
-        "event": "Apply Online Starts",
-        "date": "05/10/2026"
-      },
-      {
-        "event": "Last Date to Apply Online",
-        "date": "26/10/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Bengaluru (All Posts)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Chennai (All Posts)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Delhi (All Posts)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Hyderabad (All Posts)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Kolkata (All Posts)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Mumbai (All Posts)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Noida (All Posts)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Pune (All Posts)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Thiruvananthapuram (All Posts)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "North East (All Posts)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Mohali (All Posts)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Go to the official website of CDAC, www.cdac.in",
-      "On the home page, click on the link “Apply” provided against each position.",
-      "The candidates should register themselves with a valid email ID and mobile number.",
-      "After registering, candidates need to log in with their mobile number and OTP.",
-      "After filling out the OTP, the candidate will be redirected to the application form.",
-      "Fill in all the personal information, educational information, scanned photograph, and signature.",
-      "Candidates should upload their resume in PDF format in the prescribed size.",
-      "Click on the “Submit” button to get an application number.",
-      "Take a printout of the application form and keep it for future reference."
-    ]
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-csjmu-professor-associate-professor-assistant-professor",
@@ -3140,7 +2798,7 @@
     "applyOnlineLink": "https://csjmurec.samarth.edu.in/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27",
+    "scrapedAt": "2026-10-28",
     "fees": [
       {
         "category": "General/OBC/EWS/UR",
@@ -3199,7 +2857,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec01f0031c7a91d74015a9addfbc589f/uploads/2026/10/2026100199.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-upsssc-regional-youth-welfare-and-provincial-development-",
@@ -3216,7 +2874,7 @@
     "applyOnlineLink": "https://upsssc.gov.in/AllNotifications.aspx",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27",
+    "scrapedAt": "2026-10-28",
     "fees": [
       {
         "category": "Unreserved (General)",
@@ -3313,7 +2971,7 @@
     "applyOnlineLink": "https://upsssc.gov.in/AllNotifications.aspx",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27",
+    "scrapedAt": "2026-10-28",
     "fees": [
       {
         "category": "Unreserved (General)",
@@ -3486,7 +3144,7 @@
     "applyOnlineLink": "https://rrcgdce.etrpindia.com/rrc-gdce-prayagraj/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27",
+    "scrapedAt": "2026-10-28",
     "fees": [
       {
         "category": "Fee",
@@ -3732,7 +3390,7 @@
     "applyOnlineLink": "https://iitbhu.ac.in/contents/institute/2026/project/project_director_dia_coe_30sep_2026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-nsi-foreman-electrical-",
@@ -3749,7 +3407,7 @@
     "applyOnlineLink": "https://nsi.gov.in/storage/files/1/Vacancies/Vacancy_circular_Foreman(Electrical)_Deputation_29092026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-csjmu-associate-professor-professor-assistant-professor",
@@ -3766,7 +3424,7 @@
     "applyOnlineLink": "https://csjmu.ac.in/wp-content/uploads/docs/2026/09/980.-Advertisement-For-Teaching-post.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-rgnau-junior-technical-superintendent",
@@ -3783,7 +3441,7 @@
     "applyOnlineLink": "https://rgnau.ac.in/sites/default/files/inline-files/Engagement%20of%20Junior%20Technical%20Superintendent-Advt.%2023.09.2026_2.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-iit kanpur-assistant-professor",
@@ -3800,7 +3458,7 @@
     "applyOnlineLink": "https://www.iitk.ac.in/dofa/special-recruitment-drive-2026-001",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-upessc-prt-assistant-teacher-primary-urban-assistant-teac",
@@ -3817,7 +3475,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/up-prt-bharti-2026/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27",
+    "scrapedAt": "2026-10-28",
     "fees": [
       {
         "category": "General/Unreserved/OBC/EWS and Others",
@@ -3911,7 +3569,7 @@
     "applyOnlineLink": "https://rgnau.ac.in/sites/default/files/inline-files/Notification%20for%20Visiting%20Medical%20Consultant%20%26%20Visiting%20Health%20Inspector%20-%2003.09.2026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-rgnau-server-engineer-computer-lab-engineer-and-more",
@@ -3928,7 +3586,7 @@
     "applyOnlineLink": "https://rgnau.ac.in/sites/default/files/inline-files/Engagement%20of%20Contractual%20Positions%20in%20IT%20%26%20CIC%20Areas-03.09.2026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "up-drmlims-stenographer-receptionist-hospital-attendant-medic",
@@ -3945,7 +3603,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/drrmlims-non-teaching-recruitment-2026/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27",
+    "scrapedAt": "2026-10-28",
     "fees": [
       {
         "category": "Unreserved (UR)",
@@ -4046,6 +3704,6 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/up-anganwadi-bharti-2024/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   }
 ]

@@ -1,5 +1,90 @@
 [
   {
+    "id": "jk-jkssb-junior-engineer-civil-",
+    "title": "JKSSB Recruitment 2026 – Junior Engineer (Civil) Posts",
+    "shortInfo": "JKSSB has announced notification for Junior Engineer (Civil) posts. Required qualification: Diploma, B.Tech/B.E. Last date to apply: 29-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "458",
+    "lastDate": "29-12-26",
+    "officialWebsite": "https://www.jkssb.nic.in",
+    "notificationLink": "https://jkssb.nic.in/Pdf/Advertisement_11OF2026_27102026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/jkssb-je-civil-recruitment-2026/",
+    "state": "Jammu & Kashmir",
+    "stateCode": "jk",
+    "scrapedAt": "2026-10-28",
+    "fees": [
+      {
+        "category": "General (OM/OBC/RBA/ALC-IB/ESM)",
+        "fee": "Rs. 600/-"
+      },
+      {
+        "category": "SC / ST-1 / ST-2 / EWS / PwBD",
+        "fee": "Rs. 500/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Date of Advertisement Notification",
+        "date": "27/10/2026"
+      },
+      {
+        "event": "Commencement of Online Application Submission",
+        "date": "30/11/2026"
+      },
+      {
+        "event": "Last Date for Submission of Online Application Forms",
+        "date": "29/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Junior Engineer (Civil) - Jal Shakti Department",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Civil) - Public Works (R&B) Department",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website of JKSSB at www.jkssb.nic.in.",
+      "Read the Advertisement Notification No. 11 of 2026 carefully before applying.",
+      "Fill the Online Application Form with all required details including Name, Date of Birth, Father’s Name, Mother’s Name (as per Matriculation Certificate), Email-ID, and Mobile Number.",
+      "Upload live photograph, signature (Size: 10 KB to 20 KB), Category Certificate (Max size: 200 KB in PDF format), and Qualification/Experience Certificates (self-attested, Max size: 200 KB in PDF format) as required.",
+      "Pay the application fee online through Net Banking, Credit Card, or Debit Card (Rs. 600/- for General; Rs. 500/- for SC, ST-1, ST-2, EWS, and PwBD candidates).",
+      "Submit the Online Application Form before the last date i.e. 29.12.2026.",
+      "Take a printout of the submitted application form for future reference and for submission at the time of Document Verification.",
+      "Do not submit hard copies of the online application form to the office of the Services Selection Board either in person or by post/email.",
+      "In-service candidates shall submit the printout of the filled online application form along with a duly filled, signed, and stamped certificate through proper channel (Head of Department/Designated Authority)."
+    ]
+  },
+  {
+    "id": "jk-kashmir university-research-assistant",
+    "title": "Kashmir University Recruitment 2026 – Research Assistant Posts",
+    "shortInfo": "Kashmir University has announced notification for Research Assistant posts. Required qualification: M.Phil/Ph.D. Last date to apply: 28-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "28-10-26",
+    "officialWebsite": "https://www.kashmiruniversity.net/jobs/3119.pdf",
+    "notificationLink": "https://www.kashmiruniversity.net/jobs/3119.pdf",
+    "applyOnlineLink": "https://www.kashmiruniversity.net/jobs/3119.pdf",
+    "state": "Jammu & Kashmir",
+    "stateCode": "jk",
+    "scrapedAt": "2026-10-28"
+  },
+  {
     "id": "jk-kashmir university-junior-research-fellow-junior-project-fellow",
     "title": "Kashmir University Recruitment 2026 – Junior Research Fellow/Junior Project Fellow Posts",
     "shortInfo": "Kashmir University has announced notification for Junior Research Fellow/Junior Project Fellow posts. Required qualification: M.Sc. Last date to apply: 09-11-26.",
@@ -14,7 +99,7 @@
     "applyOnlineLink": "https://www.kashmiruniversity.net/jobs/3117.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "jk-dao budgam-krishi-udyami-agricultural-entrepreneur-",
@@ -31,7 +116,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s31141938ba2c2b13f5505d7c424ebae5f/uploads/2026/10/17928209402748.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "jk-krcl-sse-sta-s-amp-t-",
@@ -48,7 +133,7 @@
     "applyOnlineLink": "https://konkanrailway.com/sites/default/files/2026-10/1JKNOTIFICATION.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "jk-lahdc ssrb-laboratory-assistant-driver-class-iv-technician-at",
@@ -62,10 +147,10 @@
     "lastDate": "27-11-26",
     "officialWebsite": "https://kargil.nic.in/",
     "notificationLink": "https://cdn.s3waas.gov.in/s341ae36ecb9b3eee609d05b90c14222fb/uploads/2026/10/17925841874690.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/lahdc-kssrb-recruitment-2026/",
+    "applyOnlineLink": "https://www.dssrbkargil.in/register.aspx",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-27",
+    "scrapedAt": "2026-10-28",
     "fees": [
       {
         "category": "Unreserved (General/UR)",
@@ -259,7 +344,7 @@
     "applyOnlineLink": "https://cujammu.ac.in/media/homepage/jobs/UNIV/221026_Readvertisement_for_JRF_ICE_CRUNCH_final_2115_1792654054.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "jk-ladakh police-junior-assistant-computer-assistant",
@@ -276,7 +361,7 @@
     "applyOnlineLink": "https://prison.lpssrb2026.apply-gov.in/",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-27",
+    "scrapedAt": "2026-10-28",
     "fees": [
       {
         "category": "Assistant Superintendent Jail - UR/EWS",
@@ -416,7 +501,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s341ae36ecb9b3eee609d05b90c14222fb/uploads/2026/10/17925841874690.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "jk-jkssb-junior-engineer-mechanical-",
@@ -433,7 +518,7 @@
     "applyOnlineLink": "https://jkssb.nic.in/Pdf/Advt_notification_10OF2026_21102026.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "jk-lic hfl-apprentice",
@@ -450,7 +535,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-27",
+    "scrapedAt": "2026-10-28",
     "fees": [
       {
         "category": "Scheduled Caste (SC) / Scheduled Tribe (ST) candidates",
@@ -522,7 +607,7 @@
     "applyOnlineLink": "https://nitsri.ac.in/uploaded_files/Advertisement_for_one_post_of_JPF_under_DST_JKSTIC-sponsored_project.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "jk-csir iiim-project-associate-project-assistant-and-more",
@@ -539,7 +624,7 @@
     "applyOnlineLink": "https://iiim.res.in/wp-content/uploads/2026/10/advt-no-38-2026.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "jk-iit jammu-technician",
@@ -556,7 +641,7 @@
     "applyOnlineLink": "https://apply.iitjammu.ac.in/#/home",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "jk-echs-nursing-assistant-and-more-clerk",
@@ -573,7 +658,7 @@
     "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Leh%2020%20Nov.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "jk-aiims jammu-assistant-professor-and-more-professor",
@@ -590,7 +675,7 @@
     "applyOnlineLink": "https://www.aiimsjammu.edu.in/wp-content/uploads/2026/10/Advertisement-Faculty-Recruitent-2026-2.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "jk-uco bank-apprentice",
@@ -607,7 +692,7 @@
     "applyOnlineLink": "https://beep.bfsissc.com/",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-27",
+    "scrapedAt": "2026-10-28",
     "fees": [
       {
         "category": "SC/ST candidates",
@@ -665,23 +750,6 @@
     ]
   },
   {
-    "id": "jk-jk bank-credit-auditor",
-    "title": "JK Bank Recruitment 2026 – Credit Auditor Posts",
-    "shortInfo": "JK Bank has announced notification for Credit Auditor posts. Required qualification: Retired Staff. Last date to apply: 22-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "22-10-26",
-    "officialWebsite": "https://jkb.bank.in/sites/default/files/2026-10/ADVERTISEMENT%20NOTIFICATION%20Credit%20Auditors.pdf",
-    "notificationLink": "https://jkb.bank.in/sites/default/files/2026-10/ADVERTISEMENT%20NOTIFICATION%20Credit%20Auditors.pdf",
-    "applyOnlineLink": "https://jkb.bank.in/sites/default/files/2026-10/ADVERTISEMENT%20NOTIFICATION%20Credit%20Auditors.pdf",
-    "state": "Jammu & Kashmir",
-    "stateCode": "jk",
-    "scrapedAt": "2026-10-27"
-  },
-  {
     "id": "jk-jk high court-district-judge-entry-level-",
     "title": "JK High Court Recruitment 2026 – District Judge (Entry Level) Posts",
     "shortInfo": "JK High Court has announced notification for District Judge (Entry Level) posts. Required qualification: LLB. Last date to apply: 04-11-26.",
@@ -696,7 +764,7 @@
     "applyOnlineLink": "https://exams.jklhc.in/uploads/advertisements/1791025696_noti_2510_03102026.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-27"
+    "scrapedAt": "2026-10-28"
   },
   {
     "id": "jk-jkssb-class-iv-mts-sanitation-worker",
@@ -713,7 +781,7 @@
     "applyOnlineLink": "https://jkssb.nic.in/dynamic-jkssb-test/pages/login.aspx",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-27",
+    "scrapedAt": "2026-10-28",
     "fees": [
       {
         "category": "General/OM/OBC/RBA/ALC-IB/ESM",
@@ -805,605 +873,6 @@
     ]
   },
   {
-    "id": "jk-jkssb-junior-lab-technician-junior-staff-nurse-junior-ph",
-    "title": "JKSSB Recruitment 2026 – Junior lab Technician, Junior Staff Nurse, Junior Pharmacist, MMPHW, Jr Laboratory Asst &amp; Other (Last Date Extended) Posts",
-    "shortInfo": "JKSSB has announced notification for Junior lab Technician, Junior Staff Nurse, Junior Pharmacist, MMPHW, Jr Laboratory Asst &amp; Other (Last Date Extended) posts. Required qualification: Matriculation to Graduate degree with Science. Last date to apply: 24-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "518",
-    "lastDate": "24-10-26",
-    "officialWebsite": "https://www.jkssb.nic.in",
-    "notificationLink": "https://jkssb.nic.in/Pdf/Advertisement_08OF2026_04082026.pdf",
-    "applyOnlineLink": "https://jkssb.nic.in/dynamic-jkssb-test/pages/login.aspx",
-    "state": "Jammu & Kashmir",
-    "stateCode": "jk",
-    "scrapedAt": "2026-10-27",
-    "fees": [
-      {
-        "category": "General Category",
-        "fee": "Rs. 600"
-      },
-      {
-        "category": "SC / ST-1 / ST-2 / EWS / PwBD",
-        "fee": "Rs. 500"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Notification Release Date",
-        "date": "04/08/2026"
-      },
-      {
-        "event": "Online Application Start Date (Extended Upto)",
-        "date": "24/09/2026"
-      },
-      {
-        "event": "Online Application Last Date (Cut-off Date)",
-        "date": "09/10/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Senior Canning Attendant – Div. Kashmir",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Horticulture Technician Grade-IV – Srinagar",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Horticulture Technician Grade-IV – Budgam",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Horticulture Technician Grade-IV – Shopian",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Horticulture Technician Grade-IV – Kulgam",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Horticulture Technician Grade-IV – Ganderbal",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Horticulture Technician Grade-IV – Pulwama",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Horticulture Technician Grade-IV – Anantnag",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Horticulture Technician Grade-IV – Rajouri",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Horticulture Technician Grade-IV – Poonch",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Horticulture Technician Grade-IV – Bandipora",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Horticulture Technician Grade-IV – Baramulla",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Horticulture Technician Grade-IV – Kupwara",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Health Educator – Div. Kashmir",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Sanitary Inspector – Div. Kashmir",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Pharmacist – Budgam",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Pharmacist – Srinagar",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Pharmacist – Ganderbal",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Pharmacist – Pulwama",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Pharmacist – Shopian",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Pharmacist – Kulgam",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Pharmacist – Anantnag",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Pharmacist – Kupwara",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Pharmacist – Baramulla",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Pharmacist – Bandipora",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Para Medical Assistant – Bandipora",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Theatre Technician – Budgam",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Theatre Technician – Ganderbal",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Theatre Technician – Pulwama",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Theatre Technician – Kulgam",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Theatre Technician – Baramulla",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Ophthalmic Technician – Budgam",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Ophthalmic Technician – Ganderbal",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Ophthalmic Technician – Pulwama",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Ophthalmic Technician – Kulgam",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Ophthalmic Technician – Anantnag",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Ophthalmic Technician – Baramulla",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Ophthalmic Technician – Bandipora",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Lab Technician – Budgam",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Lab Technician – Srinagar",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Lab Technician – Ganderbal",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Lab Technician – Pulwama",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Lab Technician – Shopian",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Lab Technician – Kulgam",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Lab Technician – Anantnag",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Lab Technician – Kupwara",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Lab Technician – Baramulla",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Lab Technician – Bandipora",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Staff Nurse – Pulwama",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Staff Nurse – Kulgam",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Staff Nurse – Anantnag",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Staff Nurse – Kupwara",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Staff Nurse – Baramulla",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Staff Nurse – Srinagar",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Staff Nurse – Ganderbal",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Staff Nurse – Budgam",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "FMPHW – Budgam",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "FMPHW – Srinagar",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "FMPHW – Ganderbal",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "FMPHW – Pulwama",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "FMPHW – Shopian",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "FMPHW – Kulgam",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "FMPHW – Anantnag",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "FMPHW – Kupwara",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "FMPHW – Baramulla",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "FMPHW – Bandipora",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "MMPHW – Budgam",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "MMPHW – Ganderbal",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "MMPHW – Pulwama",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "MMPHW – Shopian",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "MMPHW – Kulgam",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "MMPHW – Anantnag",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "MMPHW – Kupwara",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "MMPHW – Baramulla",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "MMPHW – Bandipora",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Laboratory Assistant – Div. Kashmir",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Laboratory Assistant – Div. Jammu",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Supervisor – UT",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the official JKSSB website, www.jkssb.nic.in, and go through the Advertisement Notification and instructions carefully.",
-      "Fill the online application form; applications through any other mode will not be accepted.",
-      "Clearly indicate the item number(s)/post(s) being applied for; only one application per item number is allowed.",
-      "Upload a live photograph, signature (10 KB–20 KB), category certificate (max 100 KB PDF), and qualification/experience certificates (self-attested, max 100 KB PDF) as required for the post.",
-      "Pay the applicable application fee online through Net Banking, Credit Card, or Debit Card.",
-      "Review all entries carefully before final submission, since no changes are entertained after submission.",
-      "Take a printout of the submitted application form and preserve it for Document Verification; do not submit the hard copy to the JKSSB office in person, by post, or by email.",
-      "In-service candidates must additionally forward a signed and stamped printout of the application, along with the certificate at the end of the form, through their Head of Department to the Secretary, JKSSB, by the last date of Document Verification."
-    ]
-  },
-  {
     "id": "jk-jkssb-warder-postponed-",
     "title": "JKSSB Recruitment 2026 – Warder (Postponed) Posts",
     "shortInfo": "JKSSB has announced notification for Warder (Postponed) posts. Required qualification: Minimum Matric, Maximum 10+2. Last date to apply: -.",
@@ -1418,7 +887,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/jkssb-warder-recruitment-2026/",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-27",
+    "scrapedAt": "2026-10-28",
     "fees": [
       {
         "category": "General/OM/OBC/RBA/ALC-IB/ESM",

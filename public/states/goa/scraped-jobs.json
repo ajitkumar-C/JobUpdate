@@ -1,5 +1,22 @@
 [
   {
+    "id": "goa-gtdc-technical-assistant-civil-",
+    "title": "GTDC Recruitment 2026 – Technical Assistant (Civil) Posts",
+    "shortInfo": "GTDC has announced notification for Technical Assistant (Civil) posts. Required qualification: B.Tech/B.E. Last date to apply: 17-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "3",
+    "lastDate": "17-11-26",
+    "officialWebsite": "https://www.goa.gov.in/wp-content/uploads/2026/10/Advertisment-for-the-post-of-TA-Civil.pdf",
+    "notificationLink": "https://www.goa.gov.in/wp-content/uploads/2026/10/Advertisment-for-the-post-of-TA-Civil.pdf",
+    "applyOnlineLink": "https://www.goa.gov.in/wp-content/uploads/2026/10/Advertisment-for-the-post-of-TA-Civil.pdf",
+    "state": "Goa",
+    "stateCode": "goa",
+    "scrapedAt": "2026-10-29"
+  },
+  {
     "id": "goa-dll-technician-electronics-",
     "title": "DLL Recruitment 2026 – Technician (Electronics) Posts",
     "shortInfo": "DLL has announced notification for Technician (Electronics) posts. Required qualification: Diploma. Last date to apply: 08-12-26.",
@@ -14,7 +31,7 @@
     "applyOnlineLink": "https://dgll.nic.in/sites/default/files/2026-10/Tech%20(Electronics)_0.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "goa-dfs goa-scientific-assistant-searcher",
@@ -31,7 +48,7 @@
     "applyOnlineLink": "https://www.goa.gov.in/wp-content/uploads/2026/10/Directorate-of-Forensic-Sciences-Advertisment-Form.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "goa-gsl-technical-assistant-eot-crane-operator",
@@ -43,12 +60,190 @@
     "district": "State Level",
     "vacancies": "91",
     "lastDate": "27-11-26",
-    "officialWebsite": "https://goashipyard.in/storage/clients_logo/Advt.%20No.%2009-2026.pdf",
+    "officialWebsite": "https://goashipyard.in",
     "notificationLink": "https://goashipyard.in/storage/clients_logo/Advt.%20No.%2009-2026.pdf",
-    "applyOnlineLink": "https://goashipyard.in/storage/clients_logo/Advt.%20No.%2009-2026.pdf",
+    "applyOnlineLink": "https://goashipyard.ibtexamination.com/App09Gsl2026VeR4/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29",
+    "fees": [
+      {
+        "category": "General/OBC/EWS",
+        "fee": "₹200/- (Non-Refundable)"
+      },
+      {
+        "category": "SC/ST/PwBD/Ex-Servicemen",
+        "fee": "Exempted"
+      },
+      {
+        "category": "Internal Candidates",
+        "fee": "No Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Application Start Date",
+        "date": "28/10/2026"
+      },
+      {
+        "event": "Online Application End Date",
+        "date": "27/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Assistant Superintendent (Hindi Translator)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Supervisor (Safety-Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Supervisor (Substation)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technical Assistant (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technical Assistant - Mechanical (Mumbai Office)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technical Assistant (Electrical/Electronics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technical Assistant (Shipbuilding)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technical Assistant (Instrumentation)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technical Assistant (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Nurse (Male)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Shipwright Fitter",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Welder",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Instrument Mechanic",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diesel Mechanic",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Khalasi",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Safety Steward",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "EOT Crane Operator",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "3G Welder (Semi-Skilled)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Painter (Semi-Skilled)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Steward cum Cook (Semi-Skilled)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website www.goashipyard.in and navigate to Notice Board – Careers – Advertisement.",
+      "Click on ‘GSL Careers’ and then click the ‘Apply Online’ button.",
+      "Select the post you wish to apply for and read the eligibility criteria and Terms &amp; Conditions carefully.",
+      "Keep scanned copies (JPG/PDF) of required documents ready: passport size photo, signature, SSC certificate, educational qualification marksheets/degree, caste/disability/ex-serviceman certificate, experience certificates, and Aadhar Card.",
+      "Fill in the Online Application Form with all required personal and educational details.",
+      "Pay the application fee of ₹200/- (Non-Refundable) online through SBI e-pay (Debit Card/Credit Card/Net Banking). SC/ST/PwBD/Ex-Servicemen are exempted from fee payment.",
+      "After successful payment, download and print the Fee Receipt.",
+      "After completing the online application, take a printout of the auto-generated filled-in Application Form for use in subsequent selection processes.",
+      "Online Application opens from 00.00 hrs on 28.10.2026 and closes at 17.00 hrs on 27.11.2026.",
+      "Candidates applying for more than one post must apply separately for each post."
+    ]
   },
   {
     "id": "goa-gsl-expert-specialist",
@@ -65,7 +260,7 @@
     "applyOnlineLink": "https://goashipyard.in/storage/clients_logo/Advt.%20No.%2008-2026.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "goa-bits pilani-project-research-scientist-i",
@@ -82,7 +277,7 @@
     "applyOnlineLink": "https://www.bits-pilani.ac.in/wp-content/uploads/Advertisement-Format-for-Project-Res-Sci-I.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "goa-goa university-post-doctoral-fellow-phd-fellow",
@@ -99,7 +294,7 @@
     "applyOnlineLink": "https://webassets.unigoa.ac.in/uploads/confg_docs/20261023.154623~Vacancy_PhD_Fellow_PD_26.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "goa-mormugao port authority-dy-chief-vigilance-officer",
@@ -116,7 +311,7 @@
     "applyOnlineLink": "https://mormugaoport.gov.in/careers_doc/view/1792674622860546.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "goa-mormugao port authority-deputy-chief-mechanical-engineer",
@@ -133,7 +328,7 @@
     "applyOnlineLink": "https://onlinevacancy.shipmin.nic.in/home/dwnld_advt/659",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "goa-gsl-consultant",
@@ -150,24 +345,7 @@
     "applyOnlineLink": "https://goashipyard.in/storage/clients_logo/1792643520.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-10-28"
-  },
-  {
-    "id": "goa-gsl-junior-manager-manager-and-more",
-    "title": "GSL Recruitment 2026 – Junior Manager, Manager and More Posts",
-    "shortInfo": "GSL has announced notification for Junior Manager, Manager and More posts. Required qualification: Any Graduate, MBA/PGDM, Diploma, B.Tech/B.E, CA, LLB. Last date to apply: 22-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "40",
-    "lastDate": "22-11-26",
-    "officialWebsite": "https://goashipyard.in/storage/clients_logo/1792555837.pdf",
-    "notificationLink": "https://goashipyard.in/storage/clients_logo/1792555837.pdf",
-    "applyOnlineLink": "https://goashipyard.in/storage/clients_logo/1792555837.pdf",
-    "state": "Goa",
-    "stateCode": "goa",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "goa-aai-consultant-short-service-commission-officers-last-",
@@ -184,7 +362,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-ssco-consultant-recruitment-2026/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-10-28",
+    "scrapedAt": "2026-10-29",
     "fees": [
       {
         "category": "Fee",
@@ -270,7 +448,7 @@
     "applyOnlineLink": "https://goashipyard.in/storage/clients_logo/1792555837.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "goa-directorate of vigilance goa-technical-examiner",
@@ -287,7 +465,7 @@
     "applyOnlineLink": "https://cbes.goa.gov.in/advertisement?id=b3245ab3686e41a5029f96092196f226",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "goa-lic hfl-apprentice",
@@ -304,7 +482,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-10-28",
+    "scrapedAt": "2026-10-29",
     "fees": [
       {
         "category": "Scheduled Caste (SC) / Scheduled Tribe (ST) candidates",
@@ -376,62 +554,7 @@
     "applyOnlineLink": "https://www.goa.gov.in/wp-content/uploads/2026/10/AdvertIsement-Manager-legal-and-driver.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-10-28"
-  },
-  {
-    "id": "goa-south indian bank-junior-officer-operations-",
-    "title": "South Indian Bank Recruitment 2026 – Junior Officer (Operations) Posts",
-    "shortInfo": "South Indian Bank has announced notification for Junior Officer (Operations) posts. Required qualification: Any Graduate. Last date to apply: 27-10-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "-",
-    "lastDate": "27-10-26",
-    "officialWebsite": "https://www.southindianbank.bank.in/",
-    "notificationLink": "https://recruit.southindianbank.bank.in/RDC/Notification/Notification_115102026.PDF",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/south-indian-bank-junior-officer-2026/",
-    "state": "Goa",
-    "stateCode": "goa",
-    "scrapedAt": "2026-10-28",
-    "fees": [
-      {
-        "category": "All Candidates",
-        "fee": "Nil"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Online Application Start Date",
-        "date": "16/10/2026"
-      },
-      {
-        "event": "Online Application End Date",
-        "date": "27/10/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Junior Officer (Operations)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Ensure that you fulfill all the eligibility criteria (age, qualification, work experience, domicile).",
-      "Visit the Bank’s official recruitment portal: https://recruit.southindianbank.com/RDC/",
-      "Register online and ensure a valid email ID is provided in your name before registration.",
-      "Fill in the Online Application Form carefully with correct information.",
-      "Upload photograph (passport size, white background, 378×437 pixels, max 50kb), signature (white paper, black ink, 140×110 pixels, max 50kb), and resume (PDF, max 1MB) as per specifications.",
-      "Note down the system-generated User ID (Application Ref. ID) for future reference.",
-      "Submit the application successfully. Verify submission status by logging into your profile.",
-      "An email with application PDF and login credentials will be sent to your registered email ID upon successful submission.",
-      "Keep a copy of the application for future reference. No physical copy needs to be sent to the Bank.",
-      "Multiple registrations for the same role will lead to disqualification.",
-      ""
-    ]
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "goa-uco bank-apprentice",
@@ -448,7 +571,7 @@
     "applyOnlineLink": "https://beep.bfsissc.com/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-10-28",
+    "scrapedAt": "2026-10-29",
     "fees": [
       {
         "category": "SC/ST candidates",
@@ -506,23 +629,6 @@
     ]
   },
   {
-    "id": "goa-iit goa-part-time-student-counsellor",
-    "title": "IIT Goa Recruitment 2026 – Part-Time Student Counsellor Posts",
-    "shortInfo": "IIT Goa has announced notification for Part-Time Student Counsellor posts. Required qualification: PG Diploma, M.A, M.Sc. Last date to apply: 27-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "27-10-26",
-    "officialWebsite": "https://iitgoa.ac.in/wp-content/uploads/IITGoaRECTNT-CON2026-09.pdf",
-    "notificationLink": "https://iitgoa.ac.in/wp-content/uploads/IITGoaRECTNT-CON2026-09.pdf",
-    "applyOnlineLink": "https://iitgoa.ac.in/wp-content/uploads/IITGoaRECTNT-CON2026-09.pdf",
-    "state": "Goa",
-    "stateCode": "goa",
-    "scrapedAt": "2026-10-28"
-  },
-  {
     "id": "goa-mormugao port authority-chief-engineer",
     "title": "Mormugao Port Authority Recruitment 2026 – Chief Engineer Posts",
     "shortInfo": "Mormugao Port Authority has announced notification for Chief Engineer posts. Required qualification: B.Tech/B.E. Last date to apply: 12-11-26.",
@@ -537,7 +643,7 @@
     "applyOnlineLink": "https://onlinevacancy.shipmin.nic.in/home/dwnld_advt/657",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "goa-sainik school goalpara-tgt-pgt-ldc",
@@ -554,7 +660,7 @@
     "applyOnlineLink": "https://sainikschoolgoalpara.org/wp-content/uploads/2026/10/Advt-Recruitment_03_2026_03Oct-26.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "goa-dhs goa-other-posts-surgeon-medical-officer",
@@ -571,7 +677,7 @@
     "applyOnlineLink": "https://dhs.goa.gov.in/cms-gov-be/storage/app/public/uploads/newsNotices/sIcDskxSIz6pCTCzrLBYioAiUnAJ8nwLqoEMes5z.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "goa-ghb-junior-engineer-civil-assistant-engineer-civil-",
@@ -588,7 +694,7 @@
     "applyOnlineLink": "https://ghb.goa.gov.in/notices/wp-content/uploads/2026/10/Advertisement-GHB-1708-2026.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "goa-goa housing board-assistant-engineer-junior-engineer",
@@ -605,7 +711,7 @@
     "applyOnlineLink": "https://www.goa.gov.in/wp-content/uploads/2026/10/Goa-Housing-Board-Avertisment-10-8-2026.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "goa-iocl western region-trade-apprentice-technician-apprentice-graduate-ap",
@@ -622,7 +728,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/iocl-wr-apprentice-recruitment-2026/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-10-28",
+    "scrapedAt": "2026-10-29",
     "fees": [
       {
         "category": "Fee",
@@ -695,7 +801,7 @@
     "applyOnlineLink": "https://ncpor.res.in/upload/recruitments/adv_ncpor_2026_08_011026.PDF",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "goa-gssc-food-safety-officer-veterinary-assistant",
@@ -712,7 +818,7 @@
     "applyOnlineLink": "https://gssc.goa.gov.in/wp-content/uploads/2026/09/advertisement-no.-4-of-year-2026-brief-advertisement_compressed.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "goa-mrpl-retail-engineer-terminal-operation-engineer-retail",
@@ -729,7 +835,7 @@
     "applyOnlineLink": "https://www.mrpl.co.in/hi/careers?prophazecheck=1",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-10-28",
+    "scrapedAt": "2026-10-29",
     "fees": [
       {
         "category": "General / OBC (NCL) / EWS",
@@ -796,7 +902,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/konkan-railway-recruitment-2026-apply-online-for-201-je-alp-technician-other-posts/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-10-28",
+    "scrapedAt": "2026-10-29",
     "fees": [
       {
         "category": "General/UR/OBC-NCL/EWS (Male)",

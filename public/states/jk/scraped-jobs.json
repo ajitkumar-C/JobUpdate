@@ -1,5 +1,39 @@
 [
   {
+    "id": "jk-cuk-guest-teacher",
+    "title": "CUK Recruitment 2026 – Guest Teacher Posts",
+    "shortInfo": "CUK has announced notification for Guest Teacher posts. Required qualification: . Last date to apply: 30-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "30-10-26",
+    "officialWebsite": "https://cukapi.disgenweb.in/p/employments/1793185032277-Walk%20in%20Interview%20(1).pdf",
+    "notificationLink": "https://cukapi.disgenweb.in/p/employments/1793185032277-Walk%20in%20Interview%20(1).pdf",
+    "applyOnlineLink": "https://cukapi.disgenweb.in/p/employments/1793185032277-Walk%20in%20Interview%20(1).pdf",
+    "state": "Jammu & Kashmir",
+    "stateCode": "jk",
+    "scrapedAt": "2026-10-29"
+  },
+  {
+    "id": "jk-iit jammu-project-officer",
+    "title": "IIT Jammu Recruitment 2026 – Project Officer Posts",
+    "shortInfo": "IIT Jammu has announced notification for Project Officer posts. Required qualification: M.Sc, M.E/M.Tech. Last date to apply: 10-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "10-11-26",
+    "officialWebsite": "https://www.iitjammu.ac.in/Advertisements/Contract/2026/Outsource%20HR-%2080.pdf",
+    "notificationLink": "https://www.iitjammu.ac.in/Advertisements/Contract/2026/Outsource%20HR-%2080.pdf",
+    "applyOnlineLink": "https://www.iitjammu.ac.in/Advertisements/Contract/2026/Outsource%20HR-%2080.pdf",
+    "state": "Jammu & Kashmir",
+    "stateCode": "jk",
+    "scrapedAt": "2026-10-29"
+  },
+  {
     "id": "jk-jkssb-junior-engineer-civil-",
     "title": "JKSSB Recruitment 2026 – Junior Engineer (Civil) Posts",
     "shortInfo": "JKSSB has announced notification for Junior Engineer (Civil) posts. Required qualification: Diploma, B.Tech/B.E. Last date to apply: 29-12-26.",
@@ -14,7 +48,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/jkssb-je-civil-recruitment-2026/",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-28",
+    "scrapedAt": "2026-10-29",
     "fees": [
       {
         "category": "General (OM/OBC/RBA/ALC-IB/ESM)",
@@ -82,7 +116,7 @@
     "applyOnlineLink": "https://www.kashmiruniversity.net/jobs/3119.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "jk-kashmir university-junior-research-fellow-junior-project-fellow",
@@ -99,7 +133,7 @@
     "applyOnlineLink": "https://www.kashmiruniversity.net/jobs/3117.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "jk-dao budgam-krishi-udyami-agricultural-entrepreneur-",
@@ -116,7 +150,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s31141938ba2c2b13f5505d7c424ebae5f/uploads/2026/10/17928209402748.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "jk-krcl-sse-sta-s-amp-t-",
@@ -133,7 +167,7 @@
     "applyOnlineLink": "https://konkanrailway.com/sites/default/files/2026-10/1JKNOTIFICATION.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "jk-lahdc ssrb-laboratory-assistant-driver-class-iv-technician-at",
@@ -150,7 +184,7 @@
     "applyOnlineLink": "https://www.dssrbkargil.in/register.aspx",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-28",
+    "scrapedAt": "2026-10-29",
     "fees": [
       {
         "category": "Unreserved (General/UR)",
@@ -344,7 +378,7 @@
     "applyOnlineLink": "https://cujammu.ac.in/media/homepage/jobs/UNIV/221026_Readvertisement_for_JRF_ICE_CRUNCH_final_2115_1792654054.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "jk-ladakh police-junior-assistant-computer-assistant",
@@ -361,7 +395,7 @@
     "applyOnlineLink": "https://prison.lpssrb2026.apply-gov.in/",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-28",
+    "scrapedAt": "2026-10-29",
     "fees": [
       {
         "category": "Assistant Superintendent Jail - UR/EWS",
@@ -496,12 +530,189 @@
     "district": "State Level",
     "vacancies": "181",
     "lastDate": "27-11-26",
-    "officialWebsite": "https://cdn.s3waas.gov.in/s341ae36ecb9b3eee609d05b90c14222fb/uploads/2026/10/17925841874690.pdf",
+    "officialWebsite": "https://kargil.nic.in/",
     "notificationLink": "https://cdn.s3waas.gov.in/s341ae36ecb9b3eee609d05b90c14222fb/uploads/2026/10/17925841874690.pdf",
-    "applyOnlineLink": "https://cdn.s3waas.gov.in/s341ae36ecb9b3eee609d05b90c14222fb/uploads/2026/10/17925841874690.pdf",
+    "applyOnlineLink": "https://www.dssrbkargil.in/register.aspx",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29",
+    "fees": [
+      {
+        "category": "Unreserved (General/UR)",
+        "fee": "₹250/-"
+      },
+      {
+        "category": "Reserved Categories (SC/ST/ALC/EWS/PwD/ESM/OSP)",
+        "fee": "₹200/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening date for online application",
+        "date": "27/10/2026"
+      },
+      {
+        "event": "Closing date for submission of application",
+        "date": "27/11/2026"
+      },
+      {
+        "event": "Last date for making online fee payment",
+        "date": "27/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Laboratory Assistant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Library Assistant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Driver Grade-II",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Class-IV",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "VLW (Village Level Worker)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Mirab",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Driver-II",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Gram Sevika",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Assistant (Rural Development Dept.)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Instructor/Assistant Craftsman/Craft Assistant/Craft Teacher",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Assistant (Ladakh Power Development Dept.)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician-III",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Receptionist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Mechanic/Electrician/Fitter",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Painter",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Bearer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Store Khalasi",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Assistant (Animal Husbandry Dept.)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Veterinary Pharmacist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Attendant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official LAHDC-KSSRB website at https://www.dssrbkargil.in.",
+      "Click on ‘New User Registration’ for one-time registration by filling Basic Details, Contact Details, and uploading scanned passport size photograph and signature in JPEG format (20KB to 100KB).",
+      "After successful registration, a User ID and Password will be sent to the registered email.",
+      "Login using the credentials and click on ‘Apply Now’ against the desired post.",
+      "Fill in the online application form carefully with all required details.",
+      "Pay the application fee online through credit card/debit card/net banking/UPI.",
+      "Submit the application form before the closing date of 27-11-2026.",
+      "Take a printout of the submitted application for future reference and for submission at the document verification stage.",
+      "Candidates must apply separately for each category of post and pay fee for each."
+    ]
   },
   {
     "id": "jk-jkssb-junior-engineer-mechanical-",
@@ -518,7 +729,7 @@
     "applyOnlineLink": "https://jkssb.nic.in/Pdf/Advt_notification_10OF2026_21102026.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "jk-lic hfl-apprentice",
@@ -535,7 +746,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-28",
+    "scrapedAt": "2026-10-29",
     "fees": [
       {
         "category": "Scheduled Caste (SC) / Scheduled Tribe (ST) candidates",
@@ -607,7 +818,7 @@
     "applyOnlineLink": "https://nitsri.ac.in/uploaded_files/Advertisement_for_one_post_of_JPF_under_DST_JKSTIC-sponsored_project.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "jk-csir iiim-project-associate-project-assistant-and-more",
@@ -624,24 +835,7 @@
     "applyOnlineLink": "https://iiim.res.in/wp-content/uploads/2026/10/advt-no-38-2026.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-28"
-  },
-  {
-    "id": "jk-iit jammu-technician",
-    "title": "IIT Jammu Recruitment 2026 – Technician Posts",
-    "shortInfo": "IIT Jammu has announced notification for Technician posts. Required qualification: Diploma, 10TH, ITI, Any Bachelors Degree, 12TH. Last date to apply: 27-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "27-10-26",
-    "officialWebsite": "https://apply.iitjammu.ac.in/#/home",
-    "notificationLink": "https://apply.iitjammu.ac.in/#/home",
-    "applyOnlineLink": "https://apply.iitjammu.ac.in/#/home",
-    "state": "Jammu & Kashmir",
-    "stateCode": "jk",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "jk-echs-nursing-assistant-and-more-clerk",
@@ -658,7 +852,7 @@
     "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Leh%2020%20Nov.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "jk-aiims jammu-assistant-professor-and-more-professor",
@@ -675,7 +869,7 @@
     "applyOnlineLink": "https://www.aiimsjammu.edu.in/wp-content/uploads/2026/10/Advertisement-Faculty-Recruitent-2026-2.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "jk-uco bank-apprentice",
@@ -692,7 +886,7 @@
     "applyOnlineLink": "https://beep.bfsissc.com/",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-28",
+    "scrapedAt": "2026-10-29",
     "fees": [
       {
         "category": "SC/ST candidates",
@@ -764,7 +958,7 @@
     "applyOnlineLink": "https://exams.jklhc.in/uploads/advertisements/1791025696_noti_2510_03102026.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "jk-jkssb-class-iv-mts-sanitation-worker",
@@ -781,7 +975,7 @@
     "applyOnlineLink": "https://jkssb.nic.in/dynamic-jkssb-test/pages/login.aspx",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-28",
+    "scrapedAt": "2026-10-29",
     "fees": [
       {
         "category": "General/OM/OBC/RBA/ALC-IB/ESM",
@@ -887,6 +1081,10 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/jkssb-warder-recruitment-2026/",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29",
+    "fees": [],
+    "dates": [],
+    "vacancyList": [],
+    "howToApply": []
   }
 ]

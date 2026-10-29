@@ -272,6 +272,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sarkariavedan.info/job/result-uppsc-lt-grade-assistant-teacher-mains</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sarkariavedan.info/job/result-upsssc-stenographer-skill-test-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -297,17 +302,12 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/result-cci-various-2026</loc>
+    <loc>https://sarkariavedan.info/job/admit-card-upsssc-pet-admit-card-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/admit-card-nvs-class-6-admit-card-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/admit-card-upsssc-pet-admit-card-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -322,22 +322,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sarkariavedan.info/job/admit-card-ssc-junior-engineer-je-city-details</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sarkariavedan.info/job/admit-card-isro-icrb-scientist-engineer-admit-card</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/admit-card-ntpc-assistant-officer-admit-card-2026</loc>
+    <loc>https://sarkariavedan.info/job/latest-jobs-indian-army-tgc-145-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-bpsc-auditor-mains-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-upessc-prt-assistant-teacher-2026</loc>
+    <loc>https://sarkariavedan.info/job/latest-jobs-mpesb-mp-police-constable-driver-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -347,17 +347,17 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-upessc-prt-assistant-teacher-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-rajasthan-safai-karmchari-correction-edit-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sarkariavedan.info/job/latest-jobs-upessc-up-tgt-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-nta-jee-mains-session-i-2027</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-rrb-ntpc-10-2-ug-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -452,12 +452,32 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/result-isro-assistant-junior-personal-assistant-2026</loc>
+    <loc>https://sarkariavedan.info/job/result-cci-various-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/admit-card-ssc-junior-engineer-je-city-details</loc>
+    <loc>https://sarkariavedan.info/job/admit-card-ntpc-assistant-officer-admit-card-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-bpsc-auditor-mains-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-nta-jee-mains-session-i-2027</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-rrb-ntpc-10-2-ug-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/result-isro-assistant-junior-personal-assistant-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -792,11 +812,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-mpesb-mp-police-constable-driver-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sarkariavedan.info/job/answer-key-rrb-section-controller-answer-key-notice</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -1023,11 +1038,6 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/result-ssc-stenographer-c-d-2025-final</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/result-uppsc-lt-grade-assistant-teacher-mains</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1348,11 +1358,6 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/admit-card-uppsc-atp-mains-city-details-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-indian-army-tgc-145-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

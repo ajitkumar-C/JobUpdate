@@ -1,5 +1,22 @@
 [
   {
+    "id": "sikkim-sikkim university-field-investigator",
+    "title": "Sikkim University Recruitment 2026 – Field Investigator Posts",
+    "shortInfo": "Sikkim University has announced notification for Field Investigator posts. Required qualification: M.A, M.Sc. Last date to apply: 13-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "13-11-26",
+    "officialWebsite": "https://cus.ac.in/images/content/dynamic/noti/2026/Oct/Advt_Oct%2026_ICSSR.pdf",
+    "notificationLink": "https://cus.ac.in/images/content/dynamic/noti/2026/Oct/Advt_Oct%2026_ICSSR.pdf",
+    "applyOnlineLink": "https://cus.ac.in/images/content/dynamic/noti/2026/Oct/Advt_Oct%2026_ICSSR.pdf",
+    "state": "Sikkim",
+    "stateCode": "sikkim",
+    "scrapedAt": "2026-10-29"
+  },
+  {
     "id": "sikkim-nmhs-junior-research-fellow",
     "title": "NMHS Recruitment 2026 – Junior Research Fellow Posts",
     "shortInfo": "NMHS has announced notification for Junior Research Fellow posts. Required qualification: Post Graduate, M.Phil/Ph.D. Last date to apply: 16-11-26.",
@@ -14,7 +31,7 @@
     "applyOnlineLink": "https://cus.ac.in/images/content/dynamic/noti/2026/Oct/NHMS_SU_ATREE-2025_Agroforestry_Advertisement%20for%20GIS%20Position.pdf",
     "state": "Sikkim",
     "stateCode": "sikkim",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "sikkim-sikkim high court-developer-and-more-it-assistant",
@@ -31,7 +48,7 @@
     "applyOnlineLink": "https://hcs.gov.in/hcs/sites/default/files/Notification/31_4.pdf",
     "state": "Sikkim",
     "stateCode": "sikkim",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "sikkim-uco bank-apprentice",
@@ -48,7 +65,7 @@
     "applyOnlineLink": "https://beep.bfsissc.com/",
     "state": "Sikkim",
     "stateCode": "sikkim",
-    "scrapedAt": "2026-10-28",
+    "scrapedAt": "2026-10-29",
     "fees": [
       {
         "category": "SC/ST candidates",
@@ -120,7 +137,7 @@
     "applyOnlineLink": "https://sikkimnlu.ac.in/sites/default/files/2026-10/SNLU%20Recruitment%20Ad%202026-4.pdf",
     "state": "Sikkim",
     "stateCode": "sikkim",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "sikkim-aai-graduate-apprentice-diploma-apprentice-iti-apprent",
@@ -137,6 +154,10 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
     "state": "Sikkim",
     "stateCode": "sikkim",
-    "scrapedAt": "2026-10-28"
+    "scrapedAt": "2026-10-29",
+    "fees": [],
+    "dates": [],
+    "vacancyList": [],
+    "howToApply": []
   }
 ]

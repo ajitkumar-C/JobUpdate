@@ -994,16 +994,74 @@
     "district": "State Level",
     "vacancies": "1475",
     "lastDate": "22-11-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/upessc-up-principal-bharti-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/upessc-up-principal-bharti-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/upessc-up-principal-bharti-2026/",
+    "officialWebsite": "https://www.upessc.up.gov.in",
+    "notificationLink": "https://www.upessc.up.gov.in/Notice/42e9-c235-4f83-4173-1558.pdf",
+    "applyOnlineLink": "https://apply.upessc.org/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
     "scrapedAt": "2026-10-29",
-    "fees": [],
-    "dates": [],
-    "vacancyList": [],
-    "howToApply": []
+    "fees": [
+      {
+        "category": "General/OBC/EWS",
+        "fee": "₹2000"
+      },
+      {
+        "category": "SC/ST",
+        "fee": "₹2000"
+      },
+      {
+        "category": "Divyangjan (PwD)",
+        "fee": "₹2000"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Publication Date",
+        "date": "23/10/2026"
+      },
+      {
+        "event": "Online OTR/Application Start Date",
+        "date": "23/10/2026"
+      },
+      {
+        "event": "Last Date to Submit Online Application Fee",
+        "date": "22/11/2026"
+      },
+      {
+        "event": "Last Date for Online Application Correction",
+        "date": "26/11/2026"
+      },
+      {
+        "event": "Examination Date",
+        "date": "07/01/2027"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Principal (Pradhanaacharya) – Boys Schools",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Principal (Pradhanaacharya) – Girls Schools",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website: www.upessc.up.gov.in",
+      "Complete One Time Registration (OTR) – mandatory for all applicants.",
+      "After OTR, fill the online application form in English.",
+      "Upload passport-size photo (10 KB – 100 KB, JPG/JPEG) and signature on white background (10 KB – 100 KB, JPG/JPEG).",
+      "Upload all required certificates/documents in PDF format (20 KB – 200 KB each).",
+      "Pay the examination fee online via Credit/Debit Card or Net Banking.",
+      "Submit the application form before the last date.",
+      "Take printout of the submitted application form and keep at least 3 copies for future reference."
+    ]
   },
   {
     "id": "up-upessc-assistant-teacher-sahayak-adhyapak-tgt-",
@@ -2589,16 +2647,166 @@
     "district": "State Level",
     "vacancies": "380",
     "lastDate": "27-11-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/upsssc-je-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/upsssc-je-recruitment-2026/",
+    "officialWebsite": "https://upsssc.gov.in",
+    "notificationLink": "https://upsssc.gov.in/ViewPdf.aspx?g9IIEYcGJ7PkZDjzBKIJpj8aXQI5sdWqidI+5sub2ro=",
     "applyOnlineLink": "https://govtjobguru.in/jobs/upsssc-je-recruitment-2026/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
     "scrapedAt": "2026-10-29",
-    "fees": [],
-    "dates": [],
-    "vacancyList": [],
-    "howToApply": []
+    "fees": [
+      {
+        "category": "Unreserved (General)",
+        "fee": "Rs. 25 (Online Processing Fee only)"
+      },
+      {
+        "category": "Other Backward Class (OBC)",
+        "fee": "Rs. 25 (Online Processing Fee only)"
+      },
+      {
+        "category": "Scheduled Caste (SC)",
+        "fee": "Rs. 25 (Online Processing Fee only)"
+      },
+      {
+        "category": "Scheduled Tribe (ST)",
+        "fee": "Rs. 25 (Online Processing Fee only)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Publication Date",
+        "date": "12/10/2026"
+      },
+      {
+        "event": "Start Date for Registration/Online Application Fee Submission",
+        "date": "06/11/2026"
+      },
+      {
+        "event": "Last Date for Fee Submission/Online Application Form Submission",
+        "date": "27/11/2026"
+      },
+      {
+        "event": "Last Date for Fee Adjustment and Application Modification",
+        "date": "04/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Technical Assistant (Electrical) - Special Selection (Ground Water Department, UP)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Electrical) - General & Special Selection (Electrical Safety Directorate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Electrical) - Special Selection (Electrical Safety Directorate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Electrical) (Deen Dayal Upadhyaya Gorakhpur University, Gorakhpur)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Research Assistant (Research Development & Training Institute, UP, Kanpur)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Electrical) (Dr. Ram Manohar Lohia National Law University, Lucknow)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Electrical) (Prof. Rajendra Singh (Rajju Bhaiya) University, Prayagraj)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Electrical) (UP State Construction & Infrastructure Development Corporation Limited)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electrician (Uttar Pradesh State Road Transport Corporation, Lucknow)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Electrical) (Guru Jambheshwar University, Moradabad)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Electrical) (Maa Pateshwari University, Balrampur)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Electrical) (Maa Vindhyavasini University, Mirzapur)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Electrical) - General & Special Selection (UP Rajkiya Nirman Nigam Limited)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Electrical) (Office of Chief Engineer, Public Works Department)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Engineer (Electrical) (Maa Shakumbhari University, Saharanpur)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website upsssc.gov.in and click on the relevant advertisement under the Live Advertisement Segment on the Homepage.",
+      "Login using your PET-2025 Registration Number via OTP sent to your registered mobile number/email.",
+      "Verify personal details auto-populated from PET-2025 registration (name, category, date of birth, gender, etc.).",
+      "Select the post(s) you wish to apply for and fill in educational qualification details (board/university name, year of passing, certificate/roll number, marks, etc.).",
+      "Fill in preference order for selected posts and provide details of preferential qualifications (if any).",
+      "Read and accept the Declaration by ticking all checkboxes, enter the verification code, and click ‘Save and Submit’.",
+      "Pay the application fee online via Credit Card / Debit Card / Internet Banking / UPI or SBI e-Challan.",
+      "After successful fee payment and reconciliation, the application form will be auto-submitted. Download and print the application form for future reference.",
+      "Application modification (permitted fields only) can be done till 04-12-2026 via Applicant’s Dashboard using PET-2025 Registration Number."
+    ]
   },
   {
     "id": "up-upsssc-junior-engineer-mechanical-technical-assistant-mec",
@@ -2857,11 +3065,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/up-anganwadi-bharti-2024/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-29",
-    "fees": [],
-    "dates": [],
-    "vacancyList": [],
-    "howToApply": []
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "up-aweil-junior-translator",
@@ -2895,11 +3099,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/up-anganwadi-bharti-2024/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-29",
-    "fees": [],
-    "dates": [],
-    "vacancyList": [],
-    "howToApply": []
+    "scrapedAt": "2026-10-29"
   },
   {
     "id": "up-rrc ner-group-d-group-c",
@@ -3735,7 +3935,7 @@
     "lastDate": "-",
     "officialWebsite": "https://www.drrmlims.ac.in",
     "notificationLink": "https://www.drrmlims.ac.in/Assets/pages/recruitment/Final_Advt_2026_GROUP_B_C_D_1.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/drrmlims-non-teaching-recruitment-2026/",
+    "applyOnlineLink": "https://cdn3.digialm.com//EForms/configuredHtml/33060/102389/z4LWiNYg7o8WMWt7Si/Index.html",
     "state": "Uttar Pradesh",
     "stateCode": "up",
     "scrapedAt": "2026-10-29",
@@ -3763,8 +3963,12 @@
         "date": "25/08/2026"
       },
       {
-        "event": "Last Date to Apply (One month from the date the online link opens (exact date not specified))",
-        "date": ""
+        "event": "Starting date for Apply Online",
+        "date": "19/10/2026"
+      },
+      {
+        "event": "Closing Date for Apply Online",
+        "date": "20/11/2026"
       }
     ],
     "vacancyList": [
@@ -3839,10 +4043,6 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/up-anganwadi-bharti-2024/",
     "state": "Uttar Pradesh",
     "stateCode": "up",
-    "scrapedAt": "2026-10-29",
-    "fees": [],
-    "dates": [],
-    "vacancyList": [],
-    "howToApply": []
+    "scrapedAt": "2026-10-29"
   }
 ]

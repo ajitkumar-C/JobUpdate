@@ -1475,16 +1475,60 @@
     "district": "State Level",
     "vacancies": "1040",
     "lastDate": "22-11-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/ksrtc-swift-driver-conductor-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/ksrtc-swift-driver-conductor-recruitment-2026/",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/ksrtc-swift-driver-conductor-recruitment-2026/",
+    "officialWebsite": "https://www.cmd.kerala.gov.in",
+    "notificationLink": "https://cmd.kerala.gov.in/wp-content/uploads/2026/10/NOTIFICATION_KSRTC-SWIFT.pdf",
+    "applyOnlineLink": "https://recruitopen.com/cmd/kswift22.html",
     "state": "Kerala",
     "stateCode": "kerala",
     "scrapedAt": "2026-10-29",
-    "fees": [],
-    "dates": [],
-    "vacancyList": [],
-    "howToApply": []
+    "fees": [
+      {
+        "category": "All Candidates",
+        "fee": "Rs. 100/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "07/10/2026"
+      },
+      {
+        "event": "Last Date to Apply Online",
+        "date": "22/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Driver",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Conductor",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Driver-cum-Conductor",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website: www.cmd.kerala.gov.in",
+      "Fill in the online application form with required details.",
+      "Upload self-attested copies of certificates for educational qualification, work experience, and age proof.",
+      "Upload a passport-size photograph.",
+      "Pay the application fee of Rs. 100/- online.",
+      "Submit the application before 5:00 PM on the last date (22.11.2026 as indicated in the notification).",
+      "Applications submitted by any means other than online will not be accepted."
+    ]
   },
   {
     "id": "kerala-sgou-section-officer-assistant-registrar",

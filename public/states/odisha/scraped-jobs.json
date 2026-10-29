@@ -1143,16 +1143,64 @@
     "district": "State Level",
     "vacancies": "24",
     "lastDate": "02",
-    "officialWebsite": "https://govtjobguru.in/jobs/icar-crri-afo-yp-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/icar-crri-afo-yp-recruitment-2026/",
+    "officialWebsite": "https://icar-crri.in/",
+    "notificationLink": "https://icar-crri.in/wp-content/uploads/2026/10/EAP-485.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/icar-crri-afo-yp-recruitment-2026/",
     "state": "Odisha",
     "stateCode": "odisha",
     "scrapedAt": "2026-10-29",
-    "fees": [],
-    "dates": [],
-    "vacancyList": [],
-    "howToApply": []
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Walk-in Interview for Young Professional-II (YP-II)",
+        "date": "02/11/2026"
+      },
+      {
+        "event": "Walk-in Interview for Young Professional-I (YP-I)",
+        "date": "02/11/2026"
+      },
+      {
+        "event": "Walk-in Interview for Agricultural Field Operator (AFO)",
+        "date": "03/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Young Professional-II (YP-II)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Young Professional-I (YP-I)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Agricultural Field Operator (AFO)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the Biodata form from the official website of ICAR-CRRI.",
+      "Bring one recent passport size photograph.",
+      "Bring original educational certificates from matriculation onwards (even if available on Digilocker) along with Xerox copies.",
+      "Bring experience certificate in the relevant subject as per advertisement.",
+      "Candidates currently employed or pursuing studies must furnish a No Objection Certificate (NOC) from their respective employer/institution.",
+      "Appear for the Walk-in-Interview on the scheduled date, time, and place as mentioned in the advertisement.",
+      "Report strictly before the scheduled reporting time."
+    ]
   },
   {
     "id": "odisha-bric ils-junior-research-fellow",
@@ -1673,16 +1721,321 @@
     "district": "State Level",
     "vacancies": "52",
     "lastDate": "28-10-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/ouat-professor-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/ouat-professor-recruitment-2026/",
+    "officialWebsite": "https://ouat.ac.in",
+    "notificationLink": "https://ouat.ac.in/wp-content/uploads/2026/09/Advt.-of-Professor.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/ouat-professor-recruitment-2026/",
     "state": "Odisha",
     "stateCode": "odisha",
     "scrapedAt": "2026-10-29",
-    "fees": [],
-    "dates": [],
-    "vacancyList": [],
-    "howToApply": []
+    "fees": [
+      {
+        "category": "All Candidates",
+        "fee": "Rs. 1500/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "25/09/2026"
+      },
+      {
+        "event": "Last Date to Submit Application",
+        "date": "28/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Professor - Agronomy",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Plant Breeding and Genetics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Plant Physiology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Fruit Science and Horticulture Technology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Vegetable Science",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Floriculture and Landscaping",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Post Harvest Management",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Plant Pathology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Nematology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Soil Science & Agricultural Chemistry",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Entomology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Agricultural Statistics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Extension Education",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Seed Science & Technology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Agricultural Meteorology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Silvi-culture & Agro-forestry",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Forest Product & Utilization",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Forest Biology & Tree Improvement",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Veterinary Anatomy & Histology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Veterinary Microbiology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Veterinary Parasitology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Ambulatory Clinic (Medicine/Surgery/ARGO)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Animal Reproduction, Gynecology & Obstetrics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Veterinary Epidemiology & Preventive Medicine",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Veterinary Public Health",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Agricultural Processing & Food Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - P.G. Dept. of Microbiology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Aquaculture",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Fisheries Resource Management",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Fish Processing Technology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Aquatic Environment Management",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Fishery Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Aquatic Animal Health Management",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Fishery Extension, Economics & Statistics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Apparel & Textile",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Extension Education & Communication Management",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Human Development & Family Study",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Resource Management & Consumer Science",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Food and Nutrition",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Director of Research (Professor Equivalent)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the prescribed application form from the University website: ouat.ac.in.",
+      "Fill the application form completely and legibly.",
+      "Attach self-attested copies of all certificates, mark sheets of all examinations passed, research publications, and other supporting documents.",
+      "Deposit the non-refundable application fee of Rs. 1500/- through Green Channel Counter (GCC) / Internet Banking / RTGS in the Comptroller, OUAT account (A/C No. 10173711536, SBI, OUAT Campus Branch, IFSC: SBIN0003341).",
+      "Attach duly signed photocopy of the deposit receipt along with the application form.",
+      "Submit separate application for each post with separate fee payment.",
+      "In-service candidates must apply through proper channel and submit an advance copy to avoid delay; produce NOC from employer at the time of document verification/interview.",
+      "Super-scribe the envelope with “APPLICATION FOR THE POST OF [Post Name]” along with advertisement number and date.",
+      "Send the application to: The Registrar, Odisha University of Agriculture &amp; Technology (OUAT), Bhubaneswar-751003, Odisha via Speed Post / Registered Post so as to reach on or before 5:00 PM of 28.10.2026."
+    ]
   },
   {
     "id": "odisha-nluo-assistant-registrar-section-officer",
@@ -1947,10 +2300,6 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-10-29",
-    "fees": [],
-    "dates": [],
-    "vacancyList": [],
-    "howToApply": []
+    "scrapedAt": "2026-10-29"
   }
 ]

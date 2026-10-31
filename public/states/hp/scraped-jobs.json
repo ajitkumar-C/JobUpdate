@@ -1,5 +1,56 @@
 [
   {
+    "id": "hp-iit mandi-project-associate",
+    "title": "IIT Mandi Recruitment 2026 – Project Associate Posts",
+    "shortInfo": "IIT Mandi has announced notification for Project Associate posts. Required qualification: B.Tech/B.E, MCA. Last date to apply: 30-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "30-10-26",
+    "officialWebsite": "https://iitmandi.ac.in/recruitment/DORA_project.docx.pdf",
+    "notificationLink": "https://iitmandi.ac.in/recruitment/DORA_project.docx.pdf",
+    "applyOnlineLink": "https://iitmandi.ac.in/recruitment/DORA_project.docx.pdf",
+    "state": "Himachal Pradesh",
+    "stateCode": "hp",
+    "scrapedAt": "2026-10-31"
+  },
+  {
+    "id": "hp-iit mandi-associate-professor",
+    "title": "IIT Mandi Recruitment 2026 – Associate Professor Posts",
+    "shortInfo": "IIT Mandi has announced notification for Associate Professor posts. Required qualification: M.Phil/Ph.D. Last date to apply: 06-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "06-11-26",
+    "officialWebsite": "https://iitmandi.ac.in/recruitment/Advertisement_2026_Associate%20Professor_IKSHMA.pdf",
+    "notificationLink": "https://iitmandi.ac.in/recruitment/Advertisement_2026_Associate%20Professor_IKSHMA.pdf",
+    "applyOnlineLink": "https://iitmandi.ac.in/recruitment/Advertisement_2026_Associate%20Professor_IKSHMA.pdf",
+    "state": "Himachal Pradesh",
+    "stateCode": "hp",
+    "scrapedAt": "2026-10-31"
+  },
+  {
+    "id": "hp-uhf-senior-research-fellow-young-professional",
+    "title": "UHF Recruitment 2026 – Senior Research Fellow, Young Professional Posts",
+    "shortInfo": "UHF has announced notification for Senior Research Fellow, Young Professional posts. Required qualification: Post Graduate, M.Sc, B.Sc. Last date to apply: 16-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "5",
+    "lastDate": "16-11-26",
+    "officialWebsite": "https://uhf.ac.in/storage/uploads/docs/1793186055.pdf",
+    "notificationLink": "https://uhf.ac.in/storage/uploads/docs/1793186055.pdf",
+    "applyOnlineLink": "https://uhf.ac.in/storage/uploads/docs/1793186055.pdf",
+    "state": "Himachal Pradesh",
+    "stateCode": "hp",
+    "scrapedAt": "2026-10-31"
+  },
+  {
     "id": "hp-cskhpkv-field-cum-lab-helper",
     "title": "CSKHPKV Recruitment 2026 – Field-cum-Lab Helper Posts",
     "shortInfo": "CSKHPKV has announced notification for Field-cum-Lab Helper posts. Required qualification: 10TH. Last date to apply: 07-11-26.",
@@ -14,7 +65,7 @@
     "applyOnlineLink": "https://www.hillagric.ac.in/info/jobs_advt/2026/2026-10-28-FN-548-60.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "hp-cskhpkv palampur-assistant-professor",
@@ -31,7 +82,7 @@
     "applyOnlineLink": "https://www.hillagric.ac.in/info/jobs_advt/2026/2026-10-24-Circular-7187-7286.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "hp-himachal pradesh jal shakti vibhag-para-cook-para-helper",
@@ -48,7 +99,7 @@
     "applyOnlineLink": "https://jsv.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1yTV49xNU6QBk0f+D9rWV0VhZ+dahwEOncXXlmc34oR/PcisPcfSvHhoDoX/CxwsAsmTL9C/VnROgCSojmIGYo3jML+G3u2I0hWKUA2VT6PHb6AtFCZ2XopnPzf4ATzgwk=",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "hp-jal shakti vibhag, himachal pradesh-mpw-para-pump-operator-and-more",
@@ -65,7 +116,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/jsv-hp-multi-purpose-worker-recruitment-2026/",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [],
     "dates": [
       {
@@ -120,7 +171,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s38d7d8ee069cb0cbbf816bbb65d56947e/uploads/2026/10/17927432757000.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "hp-hpnlu-professor-of-law",
@@ -137,7 +188,7 @@
     "applyOnlineLink": "https://www.hpnlu.ac.in/PDF/62a7ab49-2c81-44fc-97f4-970965ef2224.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "hp-lic hfl-apprentice",
@@ -154,7 +205,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "Scheduled Caste (SC) / Scheduled Tribe (ST) candidates",
@@ -226,7 +277,7 @@
     "applyOnlineLink": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_interview_for_the_post_of_SR_Specialist_Superspecialist_Cardiology_on_contract_basis_1792395520.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "hp-aiims bilaspur-registrar",
@@ -243,7 +294,7 @@
     "applyOnlineLink": "https://aiimsbilaspur.edu.in/sites/default/files/2026-10/Advertisement%2001.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "hp-echs solan bilasapur-driver-medical-officer",
@@ -260,7 +311,7 @@
     "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Solan%20Bilasapur%20Ghumarwin%2020%20Nov.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "hp-uco bank-apprentice",
@@ -277,7 +328,7 @@
     "applyOnlineLink": "https://beep.bfsissc.com/",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "SC/ST candidates",
@@ -349,7 +400,7 @@
     "applyOnlineLink": "https://hppsconline.hp.gov.in/HPPSC/ApplicantRegistration/Home/Login",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "All Candidates (irrespective of category or gender)",
@@ -407,7 +458,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec03d5d7f5bba709f5cbbe1f74977096/uploads/2026/10/2026101257.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "hp-ysp uhf-junior-research-fellow",
@@ -424,7 +475,7 @@
     "applyOnlineLink": "https://uhf.ac.in/storage/uploads/docs/1791453779.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "hp-hp high court-stenographer",
@@ -441,7 +492,7 @@
     "applyOnlineLink": "https://www.hphcrecruitment.in/static/dist/pdf/69.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "hp-hppsc-assistant-director",
@@ -458,7 +509,7 @@
     "applyOnlineLink": "https://hppsc.hp.gov.in/CommonControls/CMSFileView?qs=oeMK915q2HkdpWSZ%2B0aaIFmLDoF0cTjGvKykbXugJ5FH4sUacllacTF%2B5RqdIHDUaLjGjYE8mOeHqj0VR%2FB5RoAFuG6TC47917zNkNFr8Dw%3D",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "hp-hp home guards-junior-office-assistant",
@@ -475,7 +526,7 @@
     "applyOnlineLink": "https://himachal.nic.in/homeguard/ControlsAsync/ViewFTPFile?qs=KI3gZ53zz1wtN18hlxLgW1j9YCrEoVMXjVNgRMLaYWLVpKVxmjmCvpzV27XwQVR%2Fs2YhZGPLMf3gQMWYvlgGGq4EoOObz%2Fvj",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "hp-dlsa solan-para-legal-volunteers",
@@ -492,7 +543,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0360a70bb05b08d6cd95deb3bdb750/uploads/2026/10/2026100559.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "hp-hppsc-agriculture-development-officer-ado-group-a-job-tr",
@@ -509,7 +560,7 @@
     "applyOnlineLink": "https://hppsconline.hp.gov.in/HPPSC/ApplicantRegistration/Home/Login",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "All Candidates (irrespective of category or gender)",

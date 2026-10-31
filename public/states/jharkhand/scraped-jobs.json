@@ -1,5 +1,382 @@
 [
   {
+    "id": "jharkhand-aees-principal-pgt-prt-tgt-balvatika-teacher-librarian-",
+    "title": "AEES Recruitment 2026 – Principal, PGT, PRT, TGT, Balvatika Teacher, Librarian &amp; Other Posts",
+    "shortInfo": "AEES has announced notification for Principal, PGT, PRT, TGT, Balvatika Teacher, Librarian &amp; Other posts. Required qualification: Relevant degree, B.Ed, CTET. Last date to apply: 22-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "254",
+    "lastDate": "22-11-26",
+    "officialWebsite": "https://aees.gov.in",
+    "notificationLink": "https://www.aees.gov.in/DOCUMENTS/rv/2.(%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%80%20%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%B5%E0%A4%BE%E0%A4%A6)%20AEES_Recruitment_Notice_01_2026_29.10.2026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/aees-teacher-recruitment-2026/",
+    "state": "Jharkhand",
+    "stateCode": "jharkhand",
+    "scrapedAt": "2026-10-31",
+    "fees": [
+      {
+        "category": "General/OBC/EWS (Application Fee + Processing Fee)",
+        "fee": "Rs. 750 + Rs. 250 = Rs. 1000 (plus GST)"
+      },
+      {
+        "category": "Women/SC/ST/PwBD/Ex-Servicemen (Processing Fee only)",
+        "fee": "Rs. 250 (plus GST)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening of online application process and payment of Application fee",
+        "date": "02/11/2026"
+      },
+      {
+        "event": "Last date of online submission of applications",
+        "date": "22/11/2026"
+      },
+      {
+        "event": "Last date for payment of application fee",
+        "date": "22/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Principal",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Vice-Principal",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "PGT English",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "PGT Mathematics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "PGT Biology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "PGT Chemistry",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "PGT Physics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "PGT Computer Science",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "PGT Commerce",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "PGT Economics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "PGT History",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT English",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT Social Studies",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT Hindi-Sanskrit",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT Mathematics-Physics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT Chemistry-Biology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT Computer Science",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT P&HE (Male)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT P&HE (Female)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT Art Education",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT Marathi",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Librarian",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Primary Teacher (PRT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Primary Teacher (Music)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Balvatika Teacher",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Online Application Portal of AEES at https://aees.onlineregistrationforms.com",
+      "Register and create a valid account using a personal email ID and mobile number.",
+      "Fill in the online application form carefully with correct details (name, date of birth, category, etc. as per Class X certificate).",
+      "Upload scanned copies of required documents (photograph, signature, certificates, etc.) using a proper scanner.",
+      "Select the post(s) for which you wish to apply. Within PGTs, apply for only one subject; within TGTs, apply for only one subject.",
+      "Pay the application fee and processing fee online via Debit Card/Credit Card/Net Banking.",
+      "Submit the application form and generate the Confirmation Page. Keep a printout for future reference.",
+      "Do NOT send the printout to AEES by post. Bring it at the time of Skill Test/Interview along with self-attested copies of certificates."
+    ]
+  },
+  {
+    "id": "jharkhand-dao gumla-crop-guard-kamdar-",
+    "title": "DAO Gumla Recruitment 2026 – Crop Guard (Kamdar) Posts",
+    "shortInfo": "DAO Gumla has announced notification for Crop Guard (Kamdar) posts. Required qualification: 10TH. Last date to apply: 06-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "11",
+    "lastDate": "06-11-26",
+    "officialWebsite": "https://cdn.s3waas.gov.in/s3389bc7bb1e1c2a5e7e147703232a88f6/uploads/2026/10/17932745758246.pdf",
+    "notificationLink": "https://cdn.s3waas.gov.in/s3389bc7bb1e1c2a5e7e147703232a88f6/uploads/2026/10/17932745758246.pdf",
+    "applyOnlineLink": "https://cdn.s3waas.gov.in/s3389bc7bb1e1c2a5e7e147703232a88f6/uploads/2026/10/17932745758246.pdf",
+    "state": "Jharkhand",
+    "stateCode": "jharkhand",
+    "scrapedAt": "2026-10-31"
+  },
+  {
+    "id": "jharkhand-daahc jharkhand-crop-guard-kamdar-",
+    "title": "DAAHC Jharkhand Recruitment 2026 – Crop Guard (Kamdar) Posts",
+    "shortInfo": "DAAHC Jharkhand has announced notification for Crop Guard (Kamdar) posts. Required qualification: 10TH. Last date to apply: 14-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "8",
+    "lastDate": "14-11-26",
+    "officialWebsite": "https://cdn.s3waas.gov.in/s3b337e84de8752b27eda3a12363109e80/uploads/2026/10/17932644369405.pdf",
+    "notificationLink": "https://cdn.s3waas.gov.in/s3b337e84de8752b27eda3a12363109e80/uploads/2026/10/17932644369405.pdf",
+    "applyOnlineLink": "https://cdn.s3waas.gov.in/s3b337e84de8752b27eda3a12363109e80/uploads/2026/10/17932644369405.pdf",
+    "state": "Jharkhand",
+    "stateCode": "jharkhand",
+    "scrapedAt": "2026-10-31"
+  },
+  {
+    "id": "jharkhand-jsbccl-assistant-manager-electrical-",
+    "title": "JSBCCL Recruitment 2026 – Assistant Manager (Electrical) Posts",
+    "shortInfo": "JSBCCL has announced notification for Assistant Manager (Electrical) posts. Required qualification: B.Tech/B.E. Last date to apply: 30-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "30-10-26",
+    "officialWebsite": "https://jsbccl.jharkhand.gov.in/assets/admin/uploads/career/Asst_Manager_(ST).pdf",
+    "notificationLink": "https://jsbccl.jharkhand.gov.in/assets/admin/uploads/career/Asst_Manager_(ST).pdf",
+    "applyOnlineLink": "https://jsbccl.jharkhand.gov.in/assets/admin/uploads/career/Asst_Manager_(ST).pdf",
+    "state": "Jharkhand",
+    "stateCode": "jharkhand",
+    "scrapedAt": "2026-10-31"
+  },
+  {
+    "id": "jharkhand-esic ranchi-associate-professor-professor-more-walk-in-",
+    "title": "ESIC Ranchi Recruitment 2026 – Associate Professor, Professor, More (walk-in) Posts",
+    "shortInfo": "ESIC Ranchi has announced notification for Associate Professor, Professor, More (walk-in) posts. Required qualification: MS/MD, MBBS, DNB. Last date to apply: 02-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "87",
+    "lastDate": "02-11-26",
+    "officialWebsite": "https://esic.gov.in/recruitments",
+    "notificationLink": "https://esic.gov.in/attachments/recruitmentfile/Recruitment_of_Teaching_Faculty_Professor_Associate_Professor_Assistant_Professor_Senior_Residents_on_a_contract_basis_at_ESIC_Medical_College_and_Hospital_Ranchi_Jharkhand_1793247072.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/esic-ranchi-faculty-senior-resident-2026/",
+    "state": "Jharkhand",
+    "stateCode": "jharkhand",
+    "scrapedAt": "2026-10-31",
+    "fees": [
+      {
+        "category": "SC/ST/Female Candidate/Defence Ex-servicemen/PH Candidate",
+        "fee": "Nil"
+      },
+      {
+        "category": "All Other Categories",
+        "fee": "Rs. 500/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "27/10/2026"
+      },
+      {
+        "event": "Last Date to Submit Application",
+        "date": "02/11/2026"
+      },
+      {
+        "event": "Tentative Interview Date (5th/6th November, 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Professor",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must fill the application form in the prescribed format only.",
+      "Application should be submitted for each post separately.",
+      "Applications can be submitted through Speed Post, by Hand, or by Email to deanranchi.jh@esic.gov.in.",
+      "It is advisable to submit applications through Email for speedy delivery.",
+      "Attach self-attested copies of all required documents with the application form.",
+      "Attach Demand Draft (if applicable) along with the application form.",
+      "Application must reach the office by 02-11-2026.",
+      "Applications submitted after the last date will not be entertained."
+    ]
+  },
+  {
+    "id": "jharkhand-iit(ism) dhanbad-deputy-registrar",
+    "title": "IIT(ISM) Dhanbad Recruitment 2026 – Deputy Registrar Posts",
+    "shortInfo": "IIT(ISM) Dhanbad has announced notification for Deputy Registrar posts. Required qualification: Post Graduate. Last date to apply: 11-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "11-12-26",
+    "officialWebsite": "https://iitism.ac.in/storage/notice-documents/notice_6ae1f4c77b7381793193159.pdf",
+    "notificationLink": "https://iitism.ac.in/storage/notice-documents/notice_6ae1f4c77b7381793193159.pdf",
+    "applyOnlineLink": "https://iitism.ac.in/storage/notice-documents/notice_6ae1f4c77b7381793193159.pdf",
+    "state": "Jharkhand",
+    "stateCode": "jharkhand",
+    "scrapedAt": "2026-10-31"
+  },
+  {
     "id": "jharkhand-jrhms-community-health-officer-cho-",
     "title": "JRHMS Recruitment 2026 – Community Health Officer (CHO) Posts",
     "shortInfo": "JRHMS has announced notification for Community Health Officer (CHO) posts. Required qualification: B.Sc. (Nursing), Post Basic B.Sc. (Nursing). Last date to apply: 22-11-26.",
@@ -14,7 +391,7 @@
     "applyOnlineLink": "https://recruitment.jharkhand.gov.in/",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "Fee",
@@ -65,7 +442,7 @@
     "applyOnlineLink": "https://iitism.ac.in/storage/notice-documents/notice_6ae1f4c77b7381793193159.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "jharkhand-jbvnl-second-member",
@@ -82,7 +459,7 @@
     "applyOnlineLink": "https://jbvnl.co.in/notice/careers/Advertisement%20No.%20012026%20(VUSNF)%20%E2%80%93%20Notice%20for%20Requirement281026.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "jharkhand-kv meghahatuburu-post-graduate-teacher-history-",
@@ -99,7 +476,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3kv056c97ca5f37995f5e921ace70ec78/uploads/2026/10/2026102854.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "jharkhand-jhalsa-permanent-lok-adalat-chairman",
@@ -116,7 +493,7 @@
     "applyOnlineLink": "https://jhalsa.org/pdfs/notice_15-10-2026.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "jharkhand-sail-consultant-specialist-and-gdmo-",
@@ -133,7 +510,7 @@
     "applyOnlineLink": "https://aima-web-images.s3.ap-south-1.amazonaws.com/sailcareers.com/Downloads/BSP_News%20&#038;%20Jobs_28102026_095823.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "jharkhand-jrhms-legal-retainer-advocate",
@@ -150,7 +527,7 @@
     "applyOnlineLink": "https://jrhms.jharkhand.gov.in/uploads/reports/9cd4a6e4-ffd7-4297-b229-96aed535953c.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "jharkhand-jhalsa-permanent-lok-adalat-chairman",
@@ -167,7 +544,7 @@
     "applyOnlineLink": "https://jhalsa.org/pdfs/notice_15-10-2026.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "jharkhand-dppo dumka-fasal-rakshak-crop-protector-",
@@ -184,7 +561,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s363538fe6ef330c13a05a3ed7e599d5f7/uploads/2026/10/17928331283465.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "jharkhand-dlsa palamu-driver",
@@ -201,7 +578,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec05845f3cb43a07259b2e4724dfa5c5/uploads/2026/10/2026102482.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "jharkhand-nit jamshedpur-junior-research-fellow",
@@ -218,7 +595,7 @@
     "applyOnlineLink": "https://nitjsr.ac.in/backend/uploads/recruitments/10969710-6e79-49fd-a9ca-914a854f885e-Advertisement%20for%20Recruitment%20of%20JRF_%20ANRF%20funded%20project%20in%20EE%20Deptt.-ANRFARG2025010608ENS.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "jharkhand-sainik school tilaiya-tgt-music-teacher-more",
@@ -235,7 +612,7 @@
     "applyOnlineLink": "https://www.sainikschooltilaiya.org/wp-content/uploads/2026/04/Vacancy-Advertisement.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "jharkhand-civil surgeon office dhanbad-dentist-specialist-medical-officer",
@@ -252,7 +629,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s337f0e884fbad9667e38940169d0a3c95/uploads/17928278216167.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "jharkhand-dlsa palamau-driver",
@@ -269,7 +646,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec05845f3cb43a07259b2e4724dfa5c5/uploads/2026/10/2026102240.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "jharkhand-cmpdi-advocates",
@@ -286,7 +663,7 @@
     "applyOnlineLink": "https://www.cmpdi.co.in/sites/default/files/2026-10/Advertisement_Eligibility_Criteria.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "jharkhand-hurl-additional-chief-manager-manager-and-more-posts",
@@ -303,7 +680,7 @@
     "applyOnlineLink": "https://hrms.hurl.net.in/files/E-05-2026.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "jharkhand-lic hfl-apprentice",
@@ -320,7 +697,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "Scheduled Caste (SC) / Scheduled Tribe (ST) candidates",
@@ -392,7 +769,7 @@
     "applyOnlineLink": "https://iimranchi.ac.in/media/2026/10/Advertisement.docx",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "jharkhand-department of agriculture animal husbandry and co-operative west singhbhum-crop-guard",
@@ -409,7 +786,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s32bb232c0b13c774965ef8558f0fbd615/uploads/2026/10/17920645652660.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "jharkhand-iit (ism) dhanbad-anrf-junior-research-fellow",
@@ -426,7 +803,7 @@
     "applyOnlineLink": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/1640/Project%20JRF_2026-10-15_16-42-48.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "jharkhand-nit jamshedpur-project-intern",
@@ -443,7 +820,7 @@
     "applyOnlineLink": "https://nitjsr.ac.in/backend/uploads/recruitments/53d35db9-21dd-4aa5-b9e6-14e59b0430f9-Project%20post-1.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "jharkhand-uco bank-apprentice",
@@ -460,7 +837,7 @@
     "applyOnlineLink": "https://beep.bfsissc.com/",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "SC/ST candidates",
@@ -532,7 +909,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec05f095cedd23b99f1696fc8caecbcf/uploads/2026/10/2026101380.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "jharkhand-wcdss jharkhand-outreach-worker",
@@ -549,7 +926,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s30fcbc61acd0479dc77e3cccc0f5ffca7/uploads/2026/10/17917911491174.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "jharkhand-jepc-programmer-and-more-manager",
@@ -566,7 +943,7 @@
     "applyOnlineLink": "https://jepc.jharkhand.gov.in/recruitment",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "General/UR/EWS/BC-I/BC-II (Table A Sl.No.1-5, Table B Sl.No.06, Table D Sl.No.10)",
@@ -725,7 +1102,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0511338326597d14a1f7c745853f4d/uploads/2026/09/2026093044.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "jharkhand-dlsa dumka-member-pla",
@@ -742,7 +1119,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec051ea97de85eb634d580161c603422/uploads/2026/10/2026100851.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "jharkhand-csb btsso-sericulture-assistant",
@@ -759,7 +1136,7 @@
     "applyOnlineLink": "https://csb.gov.in/sites/default/files/2026-10/csb-btsso-SA.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "jharkhand-jsac-junior-project-assistant-research-associate",
@@ -776,7 +1153,7 @@
     "applyOnlineLink": "https://jsac.jharkhand.gov.in/recent_notice/Advertisment%202026_07.10.2026.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "jharkhand-mecon-assistant-manager-deputy-manager-manager-senior-ma",
@@ -793,7 +1170,7 @@
     "applyOnlineLink": "https://recruitment.meconlimited.co.in/",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "UR / EWS / OBC (Non-Creamy Layer)",
@@ -877,7 +1254,7 @@
     "applyOnlineLink": "https://recruitment.jharkhand.gov.in/",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [],
     "dates": [
       {
@@ -930,7 +1307,7 @@
     "applyOnlineLink": "https://recruitment.jharkhand.gov.in/",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "Fee",
@@ -985,6 +1362,6 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   }
 ]

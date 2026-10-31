@@ -1,5 +1,285 @@
 [
   {
+    "id": "tamilnadu-aees-principal-pgt-prt-tgt-balvatika-teacher-librarian-",
+    "title": "AEES Recruitment 2026 – Principal, PGT, PRT, TGT, Balvatika Teacher, Librarian &amp; Other Posts",
+    "shortInfo": "AEES has announced notification for Principal, PGT, PRT, TGT, Balvatika Teacher, Librarian &amp; Other posts. Required qualification: Relevant degree, B.Ed, CTET. Last date to apply: 22-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "254",
+    "lastDate": "22-11-26",
+    "officialWebsite": "https://aees.gov.in",
+    "notificationLink": "https://www.aees.gov.in/DOCUMENTS/rv/2.(%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%80%20%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%B5%E0%A4%BE%E0%A4%A6)%20AEES_Recruitment_Notice_01_2026_29.10.2026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/aees-teacher-recruitment-2026/",
+    "state": "Tamil Nadu",
+    "stateCode": "tamilnadu",
+    "scrapedAt": "2026-10-31",
+    "fees": [
+      {
+        "category": "General/OBC/EWS (Application Fee + Processing Fee)",
+        "fee": "Rs. 750 + Rs. 250 = Rs. 1000 (plus GST)"
+      },
+      {
+        "category": "Women/SC/ST/PwBD/Ex-Servicemen (Processing Fee only)",
+        "fee": "Rs. 250 (plus GST)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening of online application process and payment of Application fee",
+        "date": "02/11/2026"
+      },
+      {
+        "event": "Last date of online submission of applications",
+        "date": "22/11/2026"
+      },
+      {
+        "event": "Last date for payment of application fee",
+        "date": "22/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Principal",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Vice-Principal",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "PGT English",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "PGT Mathematics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "PGT Biology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "PGT Chemistry",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "PGT Physics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "PGT Computer Science",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "PGT Commerce",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "PGT Economics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "PGT History",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT English",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT Social Studies",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT Hindi-Sanskrit",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT Mathematics-Physics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT Chemistry-Biology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT Computer Science",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT P&HE (Male)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT P&HE (Female)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT Art Education",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT Marathi",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Librarian",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Primary Teacher (PRT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Primary Teacher (Music)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Balvatika Teacher",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Online Application Portal of AEES at https://aees.onlineregistrationforms.com",
+      "Register and create a valid account using a personal email ID and mobile number.",
+      "Fill in the online application form carefully with correct details (name, date of birth, category, etc. as per Class X certificate).",
+      "Upload scanned copies of required documents (photograph, signature, certificates, etc.) using a proper scanner.",
+      "Select the post(s) for which you wish to apply. Within PGTs, apply for only one subject; within TGTs, apply for only one subject.",
+      "Pay the application fee and processing fee online via Debit Card/Credit Card/Net Banking.",
+      "Submit the application form and generate the Confirmation Page. Keep a printout for future reference.",
+      "Do NOT send the printout to AEES by post. Bring it at the time of Skill Test/Interview along with self-attested copies of certificates."
+    ]
+  },
+  {
+    "id": "tamilnadu-india post-staff-car-driver-ordinary-grade-",
+    "title": "India Post Recruitment 2026 – Staff Car Driver (Ordinary Grade) Posts",
+    "shortInfo": "India Post has announced notification for Staff Car Driver (Ordinary Grade) posts. Required qualification: 10th, Valid driving license, Knowledge of Motor Mechanism, Experience. Last date to apply: 30-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "24",
+    "lastDate": "30-11-26",
+    "officialWebsite": "https://www.indiapost.gov.in",
+    "notificationLink": "https://www.indiapost.gov.in/api/documents/file/100aafo2s64m0fy8p35t6z0iqrq3bvgv0sj5u0eiq33cu8h3a0kc0fh8h35s2f",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/india-post-staff-car-driver-recruitment-2026/",
+    "state": "Tamil Nadu",
+    "stateCode": "tamilnadu",
+    "scrapedAt": "2026-10-31",
+    "fees": [
+      {
+        "category": "General/OBC/EWS (Male)",
+        "fee": "Rs. 100/-"
+      },
+      {
+        "category": "Women/SC/ST",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date for Receipt of Application",
+        "date": "30/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Staff Car Driver (Ordinary Grade)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the application form from the official website www.indiapost.gov.in or https://tamilnadupost.nic.in.",
+      "Fill in the application in prescribed format in Hindi / English / Tamil completely without corrections and duly signed.",
+      "Affix one recent passport size photograph at the designated place on the application form and self-attest it.",
+      "Pay the application fee of Rs. 100/- through e-payment at any computerized post office using Challan Form (E-Biller Name: Senior Manager, MMS Chennai, CPMG Tamilnadu Circle, E-Biller ID: 1000099022) by 30.11.2026. Fee is exempted for Women/SC/ST applicants.",
+      "Paste the original receipt generated by the post office on the application form.",
+      "Attach self-attested photocopies of: Age proof, Educational qualification certificate, Community certificate (for reserved categories), EWS Income &amp; Asset certificate (if applicable, for year 2025-2026), Valid driving licence with full details, Experience certificate issued by a Gazetted officer or Head of Registered Firm/Company.",
+      "Enclose two recent photographs (one affixed on application, one additional).",
+      "Send the completed application through Speed Post only to: ‘The Senior Manager, Mail Motor Service, No.37, Greams Road, Chennai – 600 006’ on or before 30.11.2026 by 1700 Hours."
+    ]
+  },
+  {
     "id": "tamilnadu-tnpdcl-diploma-technician-apprentices",
     "title": "TNPDCL Recruitment 2026 – Diploma (Technician) Apprentices Posts",
     "shortInfo": "TNPDCL has announced notification for Diploma (Technician) Apprentices posts. Required qualification: Diploma in Engineering or Technology. Last date to apply: 28-11-26.",
@@ -14,7 +294,7 @@
     "applyOnlineLink": "https://nats.education.gov.in",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "Fee",
@@ -73,6 +353,176 @@
     ]
   },
   {
+    "id": "tamilnadu-ibtrd-watchman-cum-gardener-post-faculty-post",
+    "title": "IBTRD Recruitment 2026 – Watchman Cum Gardener Post, Faculty Post Posts",
+    "shortInfo": "IBTRD has announced notification for Watchman Cum Gardener Post, Faculty Post posts. Required qualification: BSW, 7th, MSW, B.Ed, B.Sc, B.A, Graduate, B.Com, 10TH. Last date to apply: 11-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "4",
+    "lastDate": "11-11-26",
+    "officialWebsite": "https://indianbank.bank.in/documents/20117/34414/Contract%20Basis%20at%20Indseti-%20Thirupathur2026_10_27_13_00_10.pdf/b1fab1e8-1a66-37e0-85c8-7e8171b1caa8",
+    "notificationLink": "https://indianbank.bank.in/documents/20117/34414/Contract%20Basis%20at%20Indseti-%20Thirupathur2026_10_27_13_00_10.pdf/b1fab1e8-1a66-37e0-85c8-7e8171b1caa8",
+    "applyOnlineLink": "https://indianbank.bank.in/documents/20117/34414/Contract%20Basis%20at%20Indseti-%20Thirupathur2026_10_27_13_00_10.pdf/b1fab1e8-1a66-37e0-85c8-7e8171b1caa8",
+    "state": "Tamil Nadu",
+    "stateCode": "tamilnadu",
+    "scrapedAt": "2026-10-31"
+  },
+  {
+    "id": "tamilnadu-tmb bank-manager-generalist-",
+    "title": "TMB Bank Recruitment 2026 – Manager (Generalist) Posts",
+    "shortInfo": "TMB Bank has announced notification for Manager (Generalist) posts. Required qualification: Graduate, Post Graduate. Last date to apply: 10-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "-",
+    "lastDate": "10-11-26",
+    "officialWebsite": "https://www.ib.tmbonline.bank.in/tmb_careers/doc/ADV_MRG20262701.pdf",
+    "notificationLink": "https://www.ib.tmbonline.bank.in/tmb_careers/doc/ADV_MRG20262701.pdf",
+    "applyOnlineLink": "https://www.ib.tmbonline.bank.in/tmb_careers/doc/ADV_MRG20262701.pdf",
+    "state": "Tamil Nadu",
+    "stateCode": "tamilnadu",
+    "scrapedAt": "2026-10-31"
+  },
+  {
+    "id": "tamilnadu-iit madras-principal-project-officer",
+    "title": "IIT Madras Recruitment 2026 – Principal Project Officer Posts",
+    "shortInfo": "IIT Madras has announced notification for Principal Project Officer posts. Required qualification: M.Phil/Ph.D. Last date to apply: 12-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "12-11-26",
+    "officialWebsite": "https://icandsr.iitm.ac.in/careers/admin/download_announcement.php?file=announce_1793275242.pdf",
+    "notificationLink": "https://icandsr.iitm.ac.in/careers/admin/download_announcement.php?file=announce_1793275242.pdf",
+    "applyOnlineLink": "https://icandsr.iitm.ac.in/careers/admin/download_announcement.php?file=announce_1793275242.pdf",
+    "state": "Tamil Nadu",
+    "stateCode": "tamilnadu",
+    "scrapedAt": "2026-10-31"
+  },
+  {
+    "id": "tamilnadu-dmil-technician",
+    "title": "DMIL Recruitment 2026 – Technician Posts",
+    "shortInfo": "DMIL has announced notification for Technician posts. Required qualification: ITI, 12TH, 10TH. Last date to apply: 23-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "23-11-26",
+    "officialWebsite": "https://backend.delhimetrorail.com/documents/12066/TECHNICIAN-2026-DMIL-HR-Rectt.-CMRL-PHASE-II-TECH-2026.pdf",
+    "notificationLink": "https://backend.delhimetrorail.com/documents/12066/TECHNICIAN-2026-DMIL-HR-Rectt.-CMRL-PHASE-II-TECH-2026.pdf",
+    "applyOnlineLink": "https://backend.delhimetrorail.com/documents/12066/TECHNICIAN-2026-DMIL-HR-Rectt.-CMRL-PHASE-II-TECH-2026.pdf",
+    "state": "Tamil Nadu",
+    "stateCode": "tamilnadu",
+    "scrapedAt": "2026-10-31"
+  },
+  {
+    "id": "tamilnadu-district child protection unit-supervisor",
+    "title": "District Child Protection Unit Recruitment 2026 – Supervisor Posts",
+    "shortInfo": "District Child Protection Unit has announced notification for Supervisor posts. Required qualification: Graduate, B.A. Last date to apply: 15-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "15-11-26",
+    "officialWebsite": "https://cdn.s3waas.gov.in/s3d9fc5b73a8d78fad3d6dffe419384e70/uploads/2026/10/17932744743330.pdf",
+    "notificationLink": "https://cdn.s3waas.gov.in/s3d9fc5b73a8d78fad3d6dffe419384e70/uploads/2026/10/17932744743330.pdf",
+    "applyOnlineLink": "https://cdn.s3waas.gov.in/s3d9fc5b73a8d78fad3d6dffe419384e70/uploads/2026/10/17932744743330.pdf",
+    "state": "Tamil Nadu",
+    "stateCode": "tamilnadu",
+    "scrapedAt": "2026-10-31"
+  },
+  {
+    "id": "tamilnadu-sivagangai district-radiographer",
+    "title": "Sivagangai District Recruitment 2026 – Radiographer Posts",
+    "shortInfo": "Sivagangai District has announced notification for Radiographer posts. Required qualification: B.Sc, Diploma. Last date to apply: 10-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "10-11-26",
+    "officialWebsite": "https://cdn.s3waas.gov.in/s31a5b1e4daae265b790965a275b53ae50/uploads/2026/10/17932596846588.pdf",
+    "notificationLink": "https://cdn.s3waas.gov.in/s31a5b1e4daae265b790965a275b53ae50/uploads/2026/10/17932596846588.pdf",
+    "applyOnlineLink": "https://cdn.s3waas.gov.in/s31a5b1e4daae265b790965a275b53ae50/uploads/2026/10/17932596846588.pdf",
+    "state": "Tamil Nadu",
+    "stateCode": "tamilnadu",
+    "scrapedAt": "2026-10-31"
+  },
+  {
+    "id": "tamilnadu-tnjfu-assistant-professor-contractual-",
+    "title": "TNJFU Recruitment 2026 – Assistant Professor (Contractual) Posts",
+    "shortInfo": "TNJFU has announced notification for Assistant Professor (Contractual) posts. Required qualification: MFSc, M.Phil/Ph.D. Last date to apply: 16-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "16-11-26",
+    "officialWebsite": "https://tnjfu.ac.in/downloads/career-pdf/fcri-ea.pdf",
+    "notificationLink": "https://tnjfu.ac.in/downloads/career-pdf/fcri-ea.pdf",
+    "applyOnlineLink": "https://tnjfu.ac.in/downloads/career-pdf/fcri-ea.pdf",
+    "state": "Tamil Nadu",
+    "stateCode": "tamilnadu",
+    "scrapedAt": "2026-10-31"
+  },
+  {
+    "id": "tamilnadu-dccm tiruvallur-technical-assistant",
+    "title": "DCCM Tiruvallur Recruitment 2026 – Technical Assistant Posts",
+    "shortInfo": "DCCM Tiruvallur has announced notification for Technical Assistant posts. Required qualification: Graduate. Last date to apply: 10-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "10-11-26",
+    "officialWebsite": "https://cdn.s3waas.gov.in/s39431c87f273e507e6040fcb07dcb4509/uploads/2026/10/17932545939675.pdf",
+    "notificationLink": "https://cdn.s3waas.gov.in/s39431c87f273e507e6040fcb07dcb4509/uploads/2026/10/17932545939675.pdf",
+    "applyOnlineLink": "https://cdn.s3waas.gov.in/s39431c87f273e507e6040fcb07dcb4509/uploads/2026/10/17932545939675.pdf",
+    "state": "Tamil Nadu",
+    "stateCode": "tamilnadu",
+    "scrapedAt": "2026-10-31"
+  },
+  {
+    "id": "tamilnadu-gmch ramanathapuram-radiographer",
+    "title": "GMCH Ramanathapuram Recruitment 2026 – Radiographer Posts",
+    "shortInfo": "GMCH Ramanathapuram has announced notification for Radiographer posts. Required qualification: Diploma, B.Sc. Last date to apply: 11-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "11-11-26",
+    "officialWebsite": "https://cdn.s3waas.gov.in/s3f9b902fc3289af4dd08de5d1de54f68f/uploads/2026/10/17932018807903.pdf",
+    "notificationLink": "https://cdn.s3waas.gov.in/s3f9b902fc3289af4dd08de5d1de54f68f/uploads/2026/10/17932018807903.pdf",
+    "applyOnlineLink": "https://cdn.s3waas.gov.in/s3f9b902fc3289af4dd08de5d1de54f68f/uploads/2026/10/17932018807903.pdf",
+    "state": "Tamil Nadu",
+    "stateCode": "tamilnadu",
+    "scrapedAt": "2026-10-31"
+  },
+  {
+    "id": "tamilnadu-tnjjmfau-temporary-faculty",
+    "title": "TNJJMFAU Recruitment 2026 – Temporary Faculty Posts",
+    "shortInfo": "TNJJMFAU has announced notification for Temporary Faculty posts. Required qualification: Diploma. Last date to apply: 10-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "-",
+    "lastDate": "10-11-26",
+    "officialWebsite": "https://tnjjmfau.in/images/pdf/2026/Villupattu_application_2026.pdf",
+    "notificationLink": "https://tnjjmfau.in/images/pdf/2026/Villupattu_application_2026.pdf",
+    "applyOnlineLink": "https://tnjjmfau.in/images/pdf/2026/Villupattu_application_2026.pdf",
+    "state": "Tamil Nadu",
+    "stateCode": "tamilnadu",
+    "scrapedAt": "2026-10-31"
+  },
+  {
     "id": "tamilnadu-tamil nadu dr. j. jayalalithaa music and fine arts university-villupattu-temporary-faculty",
     "title": "Tamil Nadu Dr. J. Jayalalithaa Music and Fine Arts University Recruitment 2026 – Villupattu Temporary Faculty Posts",
     "shortInfo": "Tamil Nadu Dr. J. Jayalalithaa Music and Fine Arts University has announced notification for Villupattu Temporary Faculty posts. Required qualification: . Last date to apply: 10-11-26.",
@@ -87,7 +537,7 @@
     "applyOnlineLink": "https://tnjjmfau.in/images/pdf/2026/Villupattu_application_2026.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-nit tiruchirappalli-consultant-internal-audit-",
@@ -104,7 +554,7 @@
     "applyOnlineLink": "https://nitt.edu/home/other/jobs/Engagement_of_Consultant-InternalAudit-2026.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-avnl-consultant-business-development",
@@ -121,7 +571,7 @@
     "applyOnlineLink": "https://avnl.co.in/files/careers-vacancies-document/07Adv.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-dccm ariyalur-technical-assistant",
@@ -138,7 +588,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s319f3cd308f1455b3fa09a282e0d496f4/uploads/2026/10/17930101358443.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-dll-technician-diesel-",
@@ -155,7 +605,7 @@
     "applyOnlineLink": "https://dgll.nic.in/sites/default/files/2026-10/Technician%20(Diesel)%202nd%20Extension%20Dept%20website.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-niepmd-deputy-registrar-lecturer",
@@ -172,7 +622,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s33837a451cd0abc5ce4069304c5442c87/uploads/2026/10/202610281285330049.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-cipet-consultant-f-amp-a-",
@@ -189,7 +639,7 @@
     "applyOnlineLink": "https://www.cipet.gov.in/job-opportunities/downloads/26-10-2026-001/Advertisement.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-iit madras-project-consultant",
@@ -206,7 +656,7 @@
     "applyOnlineLink": "https://icandsr.iitm.ac.in/careers/admin/download_announcement.php?file=announce_1793016896.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-tdfc-programmer-project-manager-and-more",
@@ -223,7 +673,7 @@
     "applyOnlineLink": "https://www.tdfc.in/TDFC-ADVT-1-2026.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-csmcari-library-assistant-hindi-assistant-office-assistant",
@@ -240,7 +690,7 @@
     "applyOnlineLink": "https://ccras.nic.in/wp-content/uploads/2026/10/27102026-Advertisement-No.-03-2026.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-vellore district-typist",
@@ -257,7 +707,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s31651cf0d2f737d7adeab84d339dbabd3/uploads/2026/10/17931651527079.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-amrita vishwa vidyapeetham-postdoctoral-research-fellow",
@@ -274,7 +724,7 @@
     "applyOnlineLink": "https://www.amrita.edu/job/postdoctoral-research-fellow-environmental-science-sustainability/",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-bel-probationary-engineer",
@@ -291,7 +741,7 @@
     "applyOnlineLink": "https://g06.tcsion.com/EForms/configuredHtml/33192/103061/uPVtXzjwivanf3RWlN/Index.html",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "General (UR)",
@@ -366,7 +816,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s31651cf0d2f737d7adeab84d339dbabd3/uploads/2026/10/17930940204845.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-district climate change mission-technical-assistant",
@@ -383,7 +833,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s31543843a4723ed2ab08e18053ae6dc5b/uploads/2026/10/17931041806502.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-rgniyd-more-training-associate-junior-assistant",
@@ -400,7 +850,7 @@
     "applyOnlineLink": "https://www.rgniyd.gov.in/sites/default/files/pdfs/advt/2026/ta_advt.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-csmcari-hindi-assistant-library-assistant-consultant-offic",
@@ -417,7 +867,7 @@
     "applyOnlineLink": "https://ccras.nic.in/wp-content/uploads/2026/10/27102026-Advertisement-No.-03-2026.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-dlsa chennai-para-legal-volunteer",
@@ -434,7 +884,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s313f3cf8c531952d72e5847c4183e6910/uploads/2026/10/17930191066720.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-district social welfare office, pudukottai-counsellor",
@@ -451,7 +901,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s342e7aaa88b48137a16a1acd04ed91125/uploads/2026/10/17930982908081.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-dhew ramanathapuram-coordinator",
@@ -468,7 +918,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3f9b902fc3289af4dd08de5d1de54f68f/uploads/2026/10/17929953773343.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-vmrf-junior-research-fellow",
@@ -485,7 +935,7 @@
     "applyOnlineLink": "https://www.vmrfdu.edu.in/adminpanel/news/cdb4001bddb8d411bea8189a5278998e.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-ariyalur district forest office-technical-assistant",
@@ -502,7 +952,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s319f3cd308f1455b3fa09a282e0d496f4/uploads/2026/10/17930101358443.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-district administration ramanathapuram-support-person",
@@ -519,7 +969,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3f9b902fc3289af4dd08de5d1de54f68f/uploads/2026/10/17930893004522.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-iit madras-project-consultant",
@@ -536,7 +986,7 @@
     "applyOnlineLink": "https://icandsr.iitm.ac.in/careers/admin/download_announcement.php?file=announce_1793016896.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-cipet-consultant-f-amp-a-",
@@ -553,7 +1003,7 @@
     "applyOnlineLink": "https://www.cipet.gov.in/job-opportunities/downloads/26-10-2026-001/Advertisement.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-cuddalore district-counsellor",
@@ -570,7 +1020,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3a96b65a721e561e1e3de768ac819ffbb/uploads/2026/10/17930147665370.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-tnsrlm karur-manager-accountant",
@@ -587,7 +1037,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3bbf94b34eb32268ada57a3be5062fe7d/uploads/2026/10/17930107339668.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-district collectorate theni-assistant-receptionist",
@@ -604,7 +1054,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s39a96876e2f8f3dc4f3cf45f02c61c0c1/uploads/2026/10/17930160639683.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-government iti pudukkottai-office-assistant",
@@ -621,7 +1071,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s342e7aaa88b48137a16a1acd04ed91125/uploads/2026/10/17930955555230.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-kalakshetra foundation-professor-bharatanatyam-",
@@ -638,7 +1088,7 @@
     "applyOnlineLink": "https://kalakshetra.in/wp-content/uploads/2026/10/Advt-to-the-post-of-Assistant-Professor-Bharatanatyam-on-Deputation-or-Short-term-contract.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-kalakshetra foundation-library-attendant",
@@ -655,7 +1105,7 @@
     "applyOnlineLink": "https://kalakshetra.in/wp-content/uploads/2026/10/Advt-for-Direct-Recruitment-to-the-post-of-Library-Attendant.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-kalakshetra foundation-semi-skilled-worker",
@@ -672,7 +1122,7 @@
     "applyOnlineLink": "https://kalakshetra.in/wp-content/uploads/2026/10/Advt-for-Direct-Recruitment-to-the-post-of-Semi-Skilled-Worker-Direct-Recruitment.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-kalakshetra foundation-faculty",
@@ -689,7 +1139,7 @@
     "applyOnlineLink": "https://kalakshetra.in/wp-content/uploads/2026/10/Guest-Faculty_Bharatanatyam_Oct_26-.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-dhs erode-deo-security-guard",
@@ -706,7 +1156,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3bca82e41ee7b0833588399b1fcd177c7/uploads/2026/10/17930202622460.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-nitttr chennai-technical-assistant-and-more-junior-secretariat-as",
@@ -723,7 +1173,7 @@
     "applyOnlineLink": "https://nitttrc.ac.in/nitttr_updated/rec_staff.php",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "General / EWS / OBC",
@@ -847,7 +1297,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2026/10/17930089563578.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-iit madras-junior-research-fellow",
@@ -864,7 +1314,7 @@
     "applyOnlineLink": "https://icandsr.iitm.ac.in/careers/admin/download_announcement.php?file=announce_1793013918.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-rgniyd-training-associate-more-junior-assistant",
@@ -881,7 +1331,7 @@
     "applyOnlineLink": "https://www.rgniyd.gov.in/sites/default/files/pdfs/advt/2026/ta_advt.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-mayiladuthurai district-science-graduate-teacher",
@@ -898,7 +1348,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s33871bd64012152bfb53fdf04b401193f/uploads/2026/10/17929982136689.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-nlc india-iti-and-graduate-apprentice",
@@ -915,7 +1365,7 @@
     "applyOnlineLink": "https://web.nlcindia.in/ldcappexiti/",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "Fee",
@@ -1115,7 +1565,7 @@
     "applyOnlineLink": "https://mepz.gov.in/wp-content/uploads/2026/10/Vacancy-Circular-Asst.-JTO-Steno-UDC-English-and-Hindi.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-dcpo salem-support-person",
@@ -1132,7 +1582,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3c81e728d9d4c2f636f067f89cc14862c/uploads/2026/10/17921456981494.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-tmb-mobile-inspector",
@@ -1149,7 +1599,7 @@
     "applyOnlineLink": "https://www.ib.tmbonline.bank.in/tmb_careers/doc/ADV_MBT20262701.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-tmb-customer-service-executive",
@@ -1166,7 +1616,7 @@
     "applyOnlineLink": "https://careers.tmbankhr.com/drives/cse",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-tmb bank-deputy-chief-financial-officer",
@@ -1183,7 +1633,7 @@
     "applyOnlineLink": "https://www.ib.tmbonline.bank.in/tmb_careers/doc/ADV_DTF20262701.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-niepmd-lecturer-tutor-and-more",
@@ -1200,7 +1650,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s33837a451cd0abc5ce4069304c5442c87/uploads/2026/09/20261023592034308.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-iit madras-project-research-scientist-project-technical-suppo",
@@ -1217,7 +1667,7 @@
     "applyOnlineLink": "https://icandsr.iitm.ac.in/careers/admin/download_announcement.php?file=announce_1792752505.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-niepmd-assistant-professor-ear-mould-technician",
@@ -1234,7 +1684,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s33837a451cd0abc5ce4069304c5442c87/uploads/2026/09/20260916716488798.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-tiruppur district-case-worker-security-and-mpw",
@@ -1251,7 +1701,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3d1f255a373a3cef72e03aa9d980c7eca/uploads/2026/10/17927489399596.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-tanuvas-young-professional",
@@ -1268,7 +1718,7 @@
     "applyOnlineLink": "https://tanuvas.ac.in/admin/uploads/vacancies/1792668471.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-social welfare and women empowerment department karur-multi-purpose-helper-it-worker",
@@ -1285,7 +1735,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3bbf94b34eb32268ada57a3be5062fe7d/uploads/2026/10/17926618735379.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-dcil-trainee-marine-engineer-trainee-electrical-officer",
@@ -1302,7 +1752,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/dcil-trainee-recruitment-2026/",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "Fee",
@@ -1371,7 +1821,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3d9fc5b73a8d78fad3d6dffe419384e70/uploads/2026/10/17926644991537.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-iiitdm kancheepuram-project-technical-support-iii",
@@ -1388,7 +1838,7 @@
     "applyOnlineLink": "http://old.iiitdm.ac.in/img/Recruitment/2026/Advt_SRIC_Uttam%20Mrinal_Project_Tech_Support_III.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-cutn-counsellor",
@@ -1405,7 +1855,7 @@
     "applyOnlineLink": "https://cutn.ac.in/wp-content/uploads/2026/10/CUTN_Counsellor_Notification_Applied_Psychology_21102026.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-iim trichy-it-support-engineer-editorial-assistant",
@@ -1422,7 +1872,7 @@
     "applyOnlineLink": "https://www.iimtrichy.ac.in/sites/default/files/upload/21Oct2026194925_Contract_Engagement_Non_Teachingfinal21.10.2026.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-dccm erode-technical-assistant",
@@ -1439,7 +1889,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3bca82e41ee7b0833588399b1fcd177c7/uploads/2026/10/17925875414937.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-cpcl-office-assistant-intern-human-resource-intern-and-",
@@ -1456,7 +1906,7 @@
     "applyOnlineLink": "https://www.cpcl.co.in/wp-content/uploads/2026/10/Notification-for-Engagement-of-Interns-under-The-Prime-Minister-Internship-Scheme-PMIS.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-lic hfl-apprentice",
@@ -1473,7 +1923,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "Scheduled Caste (SC) / Scheduled Tribe (ST) candidates",
@@ -1545,7 +1995,7 @@
     "applyOnlineLink": "https://tnpl.com/wp-content/uploads/2026/10/Advt-design-norms-18.10.2026.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-cmrl-general-manager-additional-general-manager-manager",
@@ -1562,7 +2012,7 @@
     "applyOnlineLink": "https://chennaimetrorail.org/wp-content/uploads/2026/10/Detailed-Employment-Notification-No.-CMRL-HR-CON-DEP-06-2026-dated-14-10-2026-for-the-posts-of-GM-ST-AGM-Safety-OM-other-posts-Last-Date-03-11-2026.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-bhel-fitter-welder-turner-machinist-electrician-electro",
@@ -1579,7 +2029,7 @@
     "applyOnlineLink": "https://cdn.digialm.com/EForms/configuredHtml/33192/102813/o0zKIYO3CqWa8uMPmN/login.html",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "UR/EWS/OBC",
@@ -1682,7 +2132,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/irel-tradesman-trainee-recruitment-2026/",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "UR / EWS / OBC (NCL) candidates",
@@ -1761,7 +2211,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s39778d5d219c5080b9a6a17bef029331c/uploads/2026/10/17921360708439.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-esic hospital, tiruppur-full-time-specialist-amp-senior-resident-walk-in-",
@@ -1778,7 +2228,7 @@
     "applyOnlineLink": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_Interview_for_Engagement_of_Full_Time_Specialists_and_Senior_Residents_on_Contract_Basis_ndash_1792143253.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-tamil university-guest-assistant-professor",
@@ -1795,7 +2245,7 @@
     "applyOnlineLink": "https://www.tamiluniversity.ac.in/english/wp-content/uploads/2026/10/Applicaton-for-the-post-of-Guest-Lecturers.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-dccm tiruppur-technical-assistant",
@@ -1812,7 +2262,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3d1f255a373a3cef72e03aa9d980c7eca/uploads/2026/10/17921275338864.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-dcpu dindigul-outreach-worker",
@@ -1829,7 +2279,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3f74909ace68e51891440e4da0b65a70c/uploads/2026/10/17921278468125.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-district collectorate madurai-support-person",
@@ -1846,7 +2296,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3f5f8590cd58a54e94377e6ae2eded4d9/uploads/2026/10/17920670361159.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-cuddalore district-translator-and-more-support-person",
@@ -1863,7 +2313,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3a96b65a721e561e1e3de768ac819ffbb/uploads/2026/10/17920653107599.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-iit madras-teaching-program-coordinator",
@@ -1880,7 +2330,7 @@
     "applyOnlineLink": "https://icandsr.iitm.ac.in/careers/admin/download_announcement.php?file=announce_1792061394.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-district social welfare office ramanathapuram-centre-coordinator",
@@ -1897,7 +2347,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3f9b902fc3289af4dd08de5d1de54f68f/uploads/2026/10/17919994559893.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-juvenile justice board madurai-office-assistant-junior-assistant-cum-record-clerk",
@@ -1914,7 +2364,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3f5f8590cd58a54e94377e6ae2eded4d9/uploads/2026/10/17919801589231.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-dcpu chengalpattu-outreach-worker",
@@ -1931,7 +2381,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s39778d5d219c5080b9a6a17bef029331c/uploads/2026/10/17919629641305.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-uco bank-apprentice",
@@ -1948,7 +2398,7 @@
     "applyOnlineLink": "https://beep.bfsissc.com/",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "SC/ST candidates",
@@ -2020,7 +2470,7 @@
     "applyOnlineLink": "https://www.tndalu.ac.in/storage/cms/6acdbaeacf39b.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-etdc cfr-non-technical-consultant",
@@ -2037,7 +2487,7 @@
     "applyOnlineLink": "https://stqc.gov.in/sites/default/files/vacancy/Consultant%20(Level-6)-2026_removed%20(1).pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-tndalu-registrar-controller-of-examinations",
@@ -2054,7 +2504,7 @@
     "applyOnlineLink": "https://tndalu.ac.in/storage/block/6acaf6ed220d7.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-ordnance factory tiruchirappalli-specialist",
@@ -2071,7 +2521,7 @@
     "applyOnlineLink": "https://aweil.in/download/recruitment/2026/OFT-Experts-Specialists-Advertisement-2026.pdf?v=1.4.99",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-ordnance factory tiruchirappalli-jr-translator-hindi-typist",
@@ -2088,7 +2538,7 @@
     "applyOnlineLink": "https://aweil.in/download/recruitment/2026/OFT-JTO-Hindi-Typist-Advertisement-2026.pdf?v=1.4.99",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-chennai port authority-senior-deputy-chief-medical-officer",
@@ -2105,7 +2555,7 @@
     "applyOnlineLink": "https://onlinevacancy.shipmin.nic.in/home/dwnld_advt/655",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-chennai port authority-executive-engineer",
@@ -2122,7 +2572,7 @@
     "applyOnlineLink": "https://onlinevacancy.shipmin.nic.in/home/dwnld_advt/656",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-iim tiruchirappalli-corporate-engagement-executive",
@@ -2139,7 +2589,7 @@
     "applyOnlineLink": "https://www.iimtrichy.ac.in/sites/default/files/upload/09Oct2026203922_09.10_18.55_DetailedNotification_CorporateExecutives_Finalver..pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-ddawo theni-assistant-receptionist",
@@ -2156,7 +2606,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s39a96876e2f8f3dc4f3cf45f02c61c0c1/uploads/2026/10/17915450084356.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-chennai port authority-ps-to-chairman",
@@ -2173,7 +2623,7 @@
     "applyOnlineLink": "https://onlinevacancy.shipmin.nic.in/home/dwnld_advt/652",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-icmr-scientist-c-scientist-d-scientist-b",
@@ -2190,7 +2640,7 @@
     "applyOnlineLink": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791381044_icmr-ninadvertisementscientist-bcd.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-ucsl-assistant-manager-finance-",
@@ -2207,7 +2657,7 @@
     "applyOnlineLink": "https://cochinshipyard.in/uploads/career/7f019c958720db56c0ae79bb47ba1212.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-tnpsc-village-administrative-officer-junior-assistant-ty",
@@ -2224,7 +2674,7 @@
     "applyOnlineLink": "https://apply.tnpscexams.in/secure?app_id=UElZMDAwMDAwMQ==",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "General / Others",
@@ -2601,7 +3051,7 @@
       "Upload a recent passport-size photograph (taken on or after the date of notification) and signature as per specified dimensions and format.",
       "Select post options (e.g., Forest Guard with Driving Licence / Forest Watcher or other posts) as applicable.",
       "Pay the examination fee of Rs.100/- online via Net Banking / Credit Card / Debit Card / UPI before the last date.",
-      "Preview the application, make corrections if needed, and click ‘SUBMIT’ to finally submit the application.",
+      "Preview the application, make corrections if needed, and click ‘SUBMIT�� to finally submit the application.",
       "Note the Application Number/ID generated after successful payment for future reference.",
       "Application Correction Window is available from 09.11.2026 to 11.11.2026 for editing submitted applications."
     ]
@@ -2621,7 +3071,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s37eacb532570ff6858afd2723755ff790/uploads/2026/10/17912924817381.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-aai-associate-consultant-and-more-consultant-last-date",
@@ -2638,7 +3088,7 @@
     "applyOnlineLink": "https://www.aai.aero/en/careers/recruitment",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "Fee",
@@ -2771,7 +3221,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s32723d092b63885e0d7c260cc007e8b9d/uploads/2026/10/17912699245985.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-rrc southern railway-classical-dance-and-mridangam",
@@ -2788,7 +3238,7 @@
     "applyOnlineLink": "https://iroams.com/rrc_sr_cultural2026/pdfs/400_477831.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-imsc-fellow-and-reader",
@@ -2805,7 +3255,7 @@
     "applyOnlineLink": "https://www.imsc.res.in/~office/jobs/2026/Advertisement_Faculty_Positions-04-R-IMSc-2026.pdf",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-mrpl-retail-engineer-terminal-operation-engineer-retail",
@@ -2822,7 +3272,7 @@
     "applyOnlineLink": "https://www.mrpl.co.in/hi/careers?prophazecheck=1",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "General / OBC (NCL) / EWS",
@@ -2889,7 +3339,7 @@
     "applyOnlineLink": "https://www.amrita.edu/job/lab-assistant-lab-instructor-chennai/",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-south zone cultural centre-assistant-engineer-assistant",
@@ -2906,7 +3356,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/south-zone-cultural-centre-szcc-recruitment-2026/",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "tamilnadu-npcil-stipendiary-trainee-technician-postponed-",
@@ -2923,6 +3373,6 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/npcil-stipendiary-trainee-technician-recruitment-2026/",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   }
 ]

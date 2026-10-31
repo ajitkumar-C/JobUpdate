@@ -1,5 +1,318 @@
 [
   {
+    "id": "andhra-aees-principal-pgt-prt-tgt-balvatika-teacher-librarian-",
+    "title": "AEES Recruitment 2026 – Principal, PGT, PRT, TGT, Balvatika Teacher, Librarian &amp; Other Posts",
+    "shortInfo": "AEES has announced notification for Principal, PGT, PRT, TGT, Balvatika Teacher, Librarian &amp; Other posts. Required qualification: Relevant degree, B.Ed, CTET. Last date to apply: 22-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "254",
+    "lastDate": "22-11-26",
+    "officialWebsite": "https://aees.gov.in",
+    "notificationLink": "https://www.aees.gov.in/DOCUMENTS/rv/2.(%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%80%20%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%B5%E0%A4%BE%E0%A4%A6)%20AEES_Recruitment_Notice_01_2026_29.10.2026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/aees-teacher-recruitment-2026/",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-10-31",
+    "fees": [
+      {
+        "category": "General/OBC/EWS (Application Fee + Processing Fee)",
+        "fee": "Rs. 750 + Rs. 250 = Rs. 1000 (plus GST)"
+      },
+      {
+        "category": "Women/SC/ST/PwBD/Ex-Servicemen (Processing Fee only)",
+        "fee": "Rs. 250 (plus GST)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening of online application process and payment of Application fee",
+        "date": "02/11/2026"
+      },
+      {
+        "event": "Last date of online submission of applications",
+        "date": "22/11/2026"
+      },
+      {
+        "event": "Last date for payment of application fee",
+        "date": "22/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Principal",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Vice-Principal",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "PGT English",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "PGT Mathematics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "PGT Biology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "PGT Chemistry",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "PGT Physics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "PGT Computer Science",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "PGT Commerce",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "PGT Economics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "PGT History",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT English",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT Social Studies",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT Hindi-Sanskrit",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT Mathematics-Physics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT Chemistry-Biology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT Computer Science",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT P&HE (Male)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT P&HE (Female)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT Art Education",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "TGT Marathi",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Librarian",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Primary Teacher (PRT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Primary Teacher (Music)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Balvatika Teacher",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Online Application Portal of AEES at https://aees.onlineregistrationforms.com",
+      "Register and create a valid account using a personal email ID and mobile number.",
+      "Fill in the online application form carefully with correct details (name, date of birth, category, etc. as per Class X certificate).",
+      "Upload scanned copies of required documents (photograph, signature, certificates, etc.) using a proper scanner.",
+      "Select the post(s) for which you wish to apply. Within PGTs, apply for only one subject; within TGTs, apply for only one subject.",
+      "Pay the application fee and processing fee online via Debit Card/Credit Card/Net Banking.",
+      "Submit the application form and generate the Confirmation Page. Keep a printout for future reference.",
+      "Do NOT send the printout to AEES by post. Bring it at the time of Skill Test/Interview along with self-attested copies of certificates."
+    ]
+  },
+  {
+    "id": "andhra-district legal services authority, kurnool-typist-cum-assistant",
+    "title": "District Legal Services Authority, Kurnool Recruitment 2026 – Typist-cum-Assistant Posts",
+    "shortInfo": "District Legal Services Authority, Kurnool has announced notification for Typist-cum-Assistant posts. Required qualification: Graduate. Last date to apply: 20-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "20-11-26",
+    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3ec030b6ace9e8971cf36f1782aa982a7/uploads/2026/10/2026102965.pdf",
+    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec030b6ace9e8971cf36f1782aa982a7/uploads/2026/10/2026102965.pdf",
+    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec030b6ace9e8971cf36f1782aa982a7/uploads/2026/10/2026102965.pdf",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-10-31"
+  },
+  {
+    "id": "andhra-district court kurnool-court-attendant",
+    "title": "District Court Kurnool Recruitment 2026 – Court Attendant Posts",
+    "shortInfo": "District Court Kurnool has announced notification for Court Attendant posts. Required qualification: 7th. Last date to apply: 30-10-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "30-10-26",
+    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3ec030b6ace9e8971cf36f1782aa982a7/uploads/2026/10/2026100936.pdf",
+    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec030b6ace9e8971cf36f1782aa982a7/uploads/2026/10/2026100936.pdf",
+    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec030b6ace9e8971cf36f1782aa982a7/uploads/2026/10/2026100936.pdf",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-10-31"
+  },
+  {
+    "id": "andhra-amrita vishwa vidyapeetham-administrative-officer",
+    "title": "Amrita Vishwa Vidyapeetham Recruitment 2026 – Administrative Officer Posts",
+    "shortInfo": "Amrita Vishwa Vidyapeetham has announced notification for Administrative Officer posts. Required qualification: Graduate. Last date to apply: 31-10-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "31-10-26",
+    "officialWebsite": "https://www.amrita.edu/job/administrative-officer-amaravati/",
+    "notificationLink": "https://www.amrita.edu/job/administrative-officer-amaravati/",
+    "applyOnlineLink": "https://www.amrita.edu/job/administrative-officer-amaravati/",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-10-31"
+  },
+  {
+    "id": "andhra-tmc-clinical-trial-coordinator",
+    "title": "TMC Recruitment 2026 – Clinical Trial Coordinator Posts",
+    "shortInfo": "TMC has announced notification for Clinical Trial Coordinator posts. Required qualification: M.Pharma, Diploma, B.Pharma, PG Diploma, M.Sc, Any Masters Degree. Last date to apply: 04-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "04-11-26",
+    "officialWebsite": "https://tmc.gov.in/postmaster/ViewFile.aspx?FileId=nDRXw3HqlBR2oV4fCzvT5A==",
+    "notificationLink": "https://tmc.gov.in/postmaster/ViewFile.aspx?FileId=nDRXw3HqlBR2oV4fCzvT5A==",
+    "applyOnlineLink": "https://tmc.gov.in/postmaster/ViewFile.aspx?FileId=nDRXw3HqlBR2oV4fCzvT5A==",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-10-31"
+  },
+  {
+    "id": "andhra-iit tirupati-junior-multimedia-specialist-communication-and-ana",
+    "title": "IIT Tirupati Recruitment 2026 – Junior Multimedia Specialist, Communication and Analytics Manager Posts",
+    "shortInfo": "IIT Tirupati has announced notification for Junior Multimedia Specialist, Communication and Analytics Manager posts. Required qualification: M.A, B.Sc, MBA/PGDM, B.Tech/B.E, Post Graduate, B.A, M.Sc, M.E/M.Tech, Graduate, Diploma. Last date to apply: 18-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "18-11-26",
+    "officialWebsite": "https://files.iittp.ac.in/2026/recruitment/project/AdvtIITTCDO2026-27024.pdf",
+    "notificationLink": "https://files.iittp.ac.in/2026/recruitment/project/AdvtIITTCDO2026-27024.pdf",
+    "applyOnlineLink": "https://files.iittp.ac.in/2026/recruitment/project/AdvtIITTCDO2026-27024.pdf",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-10-31"
+  },
+  {
     "id": "andhra-iit tirupati-communication-and-analytics-manager",
     "title": "IIT Tirupati Recruitment 2026 – Communication and Analytics Manager Posts",
     "shortInfo": "IIT Tirupati has announced notification for Communication and Analytics Manager posts. Required qualification: B.Tech/B.E, M.Sc, Post Graduate, MBA/PGDM, Graduate, M.A, M.E/M.Tech, Diploma. Last date to apply: 18-11-26.",
@@ -14,7 +327,7 @@
     "applyOnlineLink": "https://files.iittp.ac.in/2026/recruitment/project/AdvtIITTCDO2026-27024.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "andhra-amrita vishwa vidyapeetham-resident-staff-nurse-male",
@@ -31,7 +344,7 @@
     "applyOnlineLink": "https://www.amrita.edu/job/resident-staff-nurse-male-amaravati/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "andhra-bel-probationary-engineer",
@@ -48,7 +361,7 @@
     "applyOnlineLink": "https://g06.tcsion.com/EForms/configuredHtml/33192/103061/uPVtXzjwivanf3RWlN/Index.html",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "General (UR)",
@@ -123,7 +436,7 @@
     "applyOnlineLink": "https://www.amrita.edu/job/assistant-associate-professor-ds-ai-amaravati/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "andhra-amrita vishwa vidyapeetham-resident-staff-nurse-male",
@@ -140,7 +453,7 @@
     "applyOnlineLink": "https://www.amrita.edu/job/resident-staff-nurse-male-amaravati/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "andhra-district court machilipatnam-stenographer-head-clerk",
@@ -157,7 +470,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec015a01f0597ac4bdf35c24846734ee/uploads/2026/10/2026102664.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "andhra-iiit sri city-junior-research-fellow",
@@ -174,7 +487,7 @@
     "applyOnlineLink": "https://iiits.ac.in/iiits-content/uploads/2026/10/RESPOND-ISRO-JRF-Advertisement_Oct-2026.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "andhra-aiims mangalagiri-physiotherapist",
@@ -191,7 +504,7 @@
     "applyOnlineLink": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/10/Interview-Adv.-@Nov-12th-2026.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "andhra-dcil-trainee-marine-engineer-trainee-electrical-officer",
@@ -208,7 +521,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/dcil-trainee-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "Fee",
@@ -277,7 +590,7 @@
     "applyOnlineLink": "https://onlinevacancy.shipmin.nic.in/home/dwnld_advt/658",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "andhra-amrita vishwa vidyapeetham-robotics-engineer-and-more-research-trainee",
@@ -294,7 +607,7 @@
     "applyOnlineLink": "https://www.amrita.edu/jobs/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "andhra-amrita vishwa vidyapeetham-robotics-engineer-research-trainee",
@@ -311,7 +624,7 @@
     "applyOnlineLink": "https://www.amrita.edu/jobs/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "andhra-amrita vishwa vidyapeetham-assistant-professor-and-more-resident-staff-nurse",
@@ -328,7 +641,7 @@
     "applyOnlineLink": "https://www.amrita.edu/jobs/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "andhra-tmc-senior-resident-walk-in-",
@@ -345,7 +658,7 @@
     "applyOnlineLink": "https://tmc.gov.in/postmaster/Details.aspx?adv=TQKhQ1G1eHlutGWC7gZUNQ==",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "andhra-ccrh-senior-research-fellow",
@@ -362,7 +675,7 @@
     "applyOnlineLink": "https://ccrhindia.ayush.gov.in/sites/default/files/2026-10/CCRH%20Engagement%20of%20Senior%20Research%20Fellow%20(Homoeo)%20on%20contract%20basis.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "andhra-lic hfl-apprentice",
@@ -379,7 +692,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "Scheduled Caste (SC) / Scheduled Tribe (ST) candidates",
@@ -451,7 +764,7 @@
     "applyOnlineLink": "https://apps.shar.gov.in/Recruitment/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "Post Codes 07–15 (Women/SC/ST/PwBD/Ex-Servicemen – Exempted, Full Refund)",
@@ -680,7 +993,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3kv01c5b35a864eb1b4cd4b82cd4e7d90/uploads/2026/10/2026101960.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "andhra-bhel-fitter-welder-turner-machinist-electrician-electro",
@@ -697,7 +1010,7 @@
     "applyOnlineLink": "https://cdn.digialm.com/EForms/configuredHtml/33192/102813/o0zKIYO3CqWa8uMPmN/login.html",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "UR/EWS/OBC",
@@ -800,7 +1113,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/irel-tradesman-trainee-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "UR / EWS / OBC (NCL) candidates",
@@ -879,7 +1192,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-diet-lecturer-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [],
     "dates": [
       {
@@ -941,7 +1254,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-group-2-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "Fee",
@@ -1072,7 +1385,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-aee-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "Fee",
@@ -1167,7 +1480,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/ap-dsc-teacher-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [],
     "dates": [
       {
@@ -1269,7 +1582,7 @@
     "applyOnlineLink": "https://beep.bfsissc.com/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "SC/ST candidates",
@@ -1341,7 +1654,7 @@
     "applyOnlineLink": "https://csb.gov.in/sites/default/files/2026-10/csb-btsso-SA.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "andhra-iim visakhapatnam-research-associate-data-science-",
@@ -1358,7 +1671,7 @@
     "applyOnlineLink": "https://iimv.ac.in/storage/CareerDocument/Career_1791284192_1.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "andhra-aiims mangalagiri-faculty-group-a-associate-professor",
@@ -1375,7 +1688,7 @@
     "applyOnlineLink": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/09/ADVERTISEMENT-FOR-DIRECT-RECRUITMENT-OF-FACULTY-POSTS-GROUP-%E2%80%98A-IN-VARIOUS-DEPARTMENTS-OF-AIIMS-MANGALAGIRI-.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "andhra-visakhapatnam port authority-fire-officer",
@@ -1392,7 +1705,7 @@
     "applyOnlineLink": "https://vpt.shipping.gov.in/admin_assets/uploads/1790680209_Fire_Officer_Notification00129092026.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "andhra-mrpl-retail-engineer-terminal-operation-engineer-retail",
@@ -1409,7 +1722,7 @@
     "applyOnlineLink": "https://www.mrpl.co.in/hi/careers?prophazecheck=1",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "General / OBC (NCL) / EWS",
@@ -1476,7 +1789,7 @@
     "applyOnlineLink": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/09/Recruitment-SR-1.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30"
+    "scrapedAt": "2026-10-31"
   },
   {
     "id": "andhra-appsc-hostel-welfare-officer-grade-ii",
@@ -1493,7 +1806,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [],
     "dates": [
       {
@@ -1555,7 +1868,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/slprb-ap-police-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "OC (incl. EWS) & BC - SI/Scientific Assistant posts",
@@ -1724,7 +2037,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "Fee",
@@ -1778,7 +2091,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [],
     "dates": [
       {
@@ -2000,7 +2313,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "Fee",
@@ -2053,7 +2366,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "Fee",
@@ -2107,7 +2420,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "Application Processing Fee (All Candidates)",
@@ -2177,7 +2490,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "Fee",
@@ -2232,7 +2545,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "Fee",
@@ -2285,7 +2598,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-10-30",
+    "scrapedAt": "2026-10-31",
     "fees": [
       {
         "category": "Fee",

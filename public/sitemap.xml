@@ -307,6 +307,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sarkariavedan.info/job/admit-card-ssc-junior-engineer-je-admit-card</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sarkariavedan.info/job/admit-card-railway-rrb-alp-admit-card-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -327,17 +332,12 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/admit-card-ssc-junior-engineer-je-admit-card</loc>
+    <loc>https://sarkariavedan.info/job/latest-jobs-lic-hfl-apprentice-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-armed-forces-afms-ssc-medical-officer</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-bihar-bceceb-sr-resident-tutor-phase</loc>
+    <loc>https://sarkariavedan.info/job/latest-jobs-rrb-ntpc-10-2-ug-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -347,17 +347,17 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-csjmu-kanpur-teaching-2026</loc>
+    <loc>https://sarkariavedan.info/job/latest-jobs-armed-forces-afms-ssc-medical-officer</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-upessc-up-tgt-2026</loc>
+    <loc>https://sarkariavedan.info/job/latest-jobs-rrb-ntpc-graduate-level-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-upessc-prt-assistant-teacher-2026</loc>
+    <loc>https://sarkariavedan.info/job/latest-jobs-bpsc-school-teacher-tre-4-0</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -422,21 +422,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/admission-nta-ugc-net-jrf-december-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/admission-bihar-library-eligibility-test-blet-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/admission-clat-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sarkariavedan.info/job/admission-nta-jee-mains-session-i-2027</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -452,22 +437,62 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sarkariavedan.info/job/admission-nta-swayam-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admission-bihar-bseb-deled-spot-2025-27</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admission-bcece-mop-up-revised-counselling-schedule</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-bihar-bceceb-sr-resident-tutor-phase</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-csjmu-kanpur-teaching-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-upessc-up-tgt-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-upessc-prt-assistant-teacher-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admission-nta-ugc-net-jrf-december-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admission-bihar-library-eligibility-test-blet-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admission-clat-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sarkariavedan.info/job/latest-jobs-nta-jee-mains-session-i-2027</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/latest-jobs-bihar-bssc-field-assistant-mains-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-rrb-ntpc-10-2-ug-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-bpsc-school-teacher-tre-4-0</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -488,11 +513,6 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/latest-jobs-uppsc-ro-aro-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/admission-nta-swayam-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -688,11 +708,6 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/latest-jobs-upessc-up-headmaster-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-rrb-ntpc-graduate-level-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

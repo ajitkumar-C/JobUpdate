@@ -5836,12 +5836,114 @@
     "district": "State Level",
     "vacancies": "60",
     "lastDate": "2nd",
-    "officialWebsite": "https://govtjobguru.in/jobs/lnh-senior-resident-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/lnh-senior-resident-recruitment-2026/",
+    "officialWebsite": "https://lnh.delhi.gov.in",
+    "notificationLink": "https://lnjp.delhi.gov.in/sites/default/files/lnjp/universal/advertisement_sr_on_ad-hoc_basis.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/lnh-senior-resident-recruitment-2026/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-11-02"
+    "scrapedAt": "2026-11-02",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Walk-in Interview (2nd Tuesday of every month)",
+        "date": ""
+      },
+      {
+        "event": "Walk-in Interview (Last Tuesday of every month)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Senior Resident - Medicine",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident - Biochemistry",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident - General Surgery",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident - Burns & Plastic",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident - Pediatrics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident - Neonatology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident - Radiotherapy",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident - Neurosurgery",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident - Neuro-Anesthesia",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident - Anesthesia",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident - Medical Genetics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Check the availability of vacant posts for your specialization on the official website of Lok Nayak Hospital or the notice board of AMS(A) (updated on 1st and 3rd week of every month).",
+      "Appear in the Walk-in Interview on the 2nd Tuesday and Last Tuesday of every month at 10:30 AM.",
+      "Report to the Conference Hall, Medical Director, LNH, New Delhi-110002.",
+      "If the scheduled interview date falls on a holiday, attend on the next working day.",
+      "Bring all relevant documents, certificates, and application at the time of interview."
+    ]
   },
   {
     "id": "delhi-iiit delhi-chief-medical-officer",
@@ -6031,12 +6133,75 @@
     "district": "State Level",
     "vacancies": "23",
     "lastDate": "30-10-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/bee-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/bee-recruitment-2026/",
+    "officialWebsite": "https://beeindia.gov.in",
+    "notificationLink": "https://beeindia.gov.in/WriteReadData/RTF1984/RTF-PDF-03f8e843bb28fecf_1790836004.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/bee-recruitment-2026/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-11-02"
+    "scrapedAt": "2026-11-02",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date to Apply (Within 30 Days from the date of publication of this Employment News",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Joint Director (Technical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Joint Director (Non-Technical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Director (Technical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Director (Non-Technical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Director (Finance)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Director (HR)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Interested applicants may forward their applications in the prescribed proforma (Annexure-I) through proper channel.",
+      "Attach two passport size photographs along with the application.",
+      "Applications should be accompanied by complete ACRs of last 5 years, Vigilance Clearance and major/minor penalty statement of last ten years.",
+      "Send the application within 30 days of publication of this advertisement in the Employment News to: Secretary, Bureau of Energy Efficiency, Ministry of Power, Govt. of India, 4th Floor, Sewa Bhawan, R. K. Puram, New Delhi – 110066.",
+      "Candidates who have already applied in response to the earlier advertisement dated 06.06.2026 need not apply afresh. Their earlier applications will be considered along with the applications received against the present advertisement."
+    ]
   },
   {
     "id": "delhi-nia-stenographer-accountant-lower-division-clerk-udc-a",

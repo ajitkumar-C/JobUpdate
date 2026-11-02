@@ -3589,12 +3589,146 @@
     "district": "State Level",
     "vacancies": "25",
     "lastDate": "03-11-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/south-zone-cultural-centre-szcc-recruitment-2026/",
-    "notificationLink": "https://govtjobguru.in/jobs/south-zone-cultural-centre-szcc-recruitment-2026/",
+    "officialWebsite": "https://szccindia.org",
+    "notificationLink": "https://szccindia.org/images/Advertisement_inviting_applications_for_filling_the_Vacant_Posts_by_Direct_Recruitment__Short_term_Contract__Deputation_Last_date_for_submission_of_application__is_within_45_days_from_the_date_of_publication_of_the_ad.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/south-zone-cultural-centre-szcc-recruitment-2026/",
     "state": "Tamil Nadu",
     "stateCode": "tamilnadu",
-    "scrapedAt": "2026-11-02"
+    "scrapedAt": "2026-11-02",
+    "fees": [
+      {
+        "category": "General/OBC/EWS",
+        "fee": "Rs. 100/- (non-refundable)"
+      },
+      {
+        "category": "SC/ST/Female Candidates",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date to Apply (within45days from the date of publication of the advertisement in Employment News / RozgarSamachar.)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Deputy Director (Admin & Accounts)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Director (Programme)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Director (Programme)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Director (Admin & Accounts)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Stenographer Grade-I",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Programme Executive",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Engineer (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Engineer (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Documentation Officer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Hindi Translator",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Programme Executive",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Exhibition Assistant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Assistant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Stenographer Grade-II",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the application form from the official website: www.szccindia.org",
+      "Fill in the application form in CAPITAL LETTERS (BLOCK LETTERS) for clarity and legibility.",
+      "Attach a Demand Draft of Rs. 100/- (non-refundable) as application fee payable at Thanjavur in favour of Director, South Zone Cultural Centre, Thanjavur (SC/ST and Female candidates are exempted from the fee).",
+      "Attach self-attested photocopies of all relevant documents (Educational Qualification, Experience, Age, Community Certificate, APAR Dossier, Vigilance Certificate for Deputation candidates, etc.).",
+      "Send a separate application for each post applied for, with a separate application fee for each post.",
+      "Superscribe the envelope with “Application for the Post of ………………”",
+      "Send the completed application to: The Director, South Zone Cultural Centre, ‘Dakshini’, Medical College Road, Thanjavur – 613 004, Tamil Nadu.",
+      "The application must reach the office within 45 days from the date of publication of the advertisement in Employment News / Rozgar Samachar.",
+      "Applications received after the closing date or incomplete applications will be summarily rejected."
+    ]
   },
   {
     "id": "tamilnadu-npcil-stipendiary-trainee-technician-postponed-",

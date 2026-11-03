@@ -1,5 +1,22 @@
 [
   {
+    "id": "jk-echs-nursing-assistant-more-clerk",
+    "title": "ECHS Recruitment 2026 – Nursing Assistant, More, Clerk Posts",
+    "shortInfo": "ECHS has announced notification for Nursing Assistant, More, Clerk posts. Required qualification: Diploma, B.Pharma, BDS, 12TH, B.Sc, 10TH, Graduate, BMLT, MBBS, 8TH. Last date to apply: 20-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "10",
+    "lastDate": "20-11-26",
+    "officialWebsite": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Stn%20HQ%20Leh%20on%2020%20Nov.pdf",
+    "notificationLink": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Stn%20HQ%20Leh%20on%2020%20Nov.pdf",
+    "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Stn%20HQ%20Leh%20on%2020%20Nov.pdf",
+    "state": "Jammu & Kashmir",
+    "stateCode": "jk",
+    "scrapedAt": "2026-11-03"
+  },
+  {
     "id": "jk-dao budgam-krishi-udyami-agricultural-entrepreneur-",
     "title": "DAO Budgam Recruitment 2026 – Krishi Udyami (Agricultural Entrepreneur) Posts",
     "shortInfo": "DAO Budgam has announced notification for Krishi Udyami (Agricultural Entrepreneur) posts. Required qualification: Diploma, BVSC, B.Sc, Any Graduate. Last date to apply: 05-11-26.",
@@ -252,12 +269,201 @@
     "district": "State Level",
     "vacancies": "22",
     "lastDate": "21-11-26",
-    "officialWebsite": "https://www.cusrinagar.edu.in/foldermanager/notification/c57984ba332c426cb8226e8af66bb39d.pdf",
+    "officialWebsite": "https://www.cusrinagar.edu.in",
     "notificationLink": "https://www.cusrinagar.edu.in/foldermanager/notification/c57984ba332c426cb8226e8af66bb39d.pdf",
-    "applyOnlineLink": "https://www.cusrinagar.edu.in/foldermanager/notification/c57984ba332c426cb8226e8af66bb39d.pdf",
+    "applyOnlineLink": "https://cusrinagarrec.samarth.edu.in/",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-11-03"
+    "scrapedAt": "2026-11-03",
+    "fees": [
+      {
+        "category": "General (UR/OM)",
+        "fee": "Rs. 2000/-"
+      },
+      {
+        "category": "Reserved Categories",
+        "fee": "Rs. 1500/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Date of availability of online application",
+        "date": "01/11/2026"
+      },
+      {
+        "event": "Last date for submission of online application",
+        "date": "21/11/2026"
+      },
+      {
+        "event": "Last date of submission of hard copies of online applications",
+        "date": "27/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Associate Professor - Artificial Intelligence & Machine Learning (UR/OM)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Artificial Intelligence & Machine Learning (UR/OM)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor - Biochemistry (SC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor - Botany (UR/OM)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Botany (SC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor - Chemistry (ST-1)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Chemistry (UR/OM)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor - Commerce (ST-2)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor - Computer Applications (UR/OM)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor - Data Science (RBA)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Data Science (ST-1)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor - Economics (OBC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor - Education (EWS/UR)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - English (ST-2)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor - Environmental Sciences (UR/OM)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Environmental Sciences (UR/OM)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor - Geography (UR/OM)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor - History (LAC/IB)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor - Information Technology (UR/OM)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Political Science (RBA)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor - Zoology (ST-1)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor - Zoology (OBC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit http://www.cusrinagar.edu.in and click on Jobs/Recruitment link. Read the advertisement notification in detail before applying.",
+      "Register yourself by clicking on the ‘Register as an Applicant’ link. Note your Username and Password. Use a valid Email ID and mobile number during registration.",
+      "After successful registration, login using your Username and Password.",
+      "Enter personal details, educational qualifications, experience, etc. Preview the form. If details are correct, click Submit. No editing is allowed after submission. Note the Form No. for future reference.",
+      "Select payment option and deposit the Application Fee through online mode only via the payment-gateway link on the university website (www.cusrinagar.edu.in).",
+      "Take a printout of the submitted online application form (Hard Copy) along with self-attested copies of all relevant documents and proof of payment of application fee.",
+      "Submit the Hard Copy either in person or through Registered Post/Speed Post to: Assistant Registrar (Establishment &amp; Recruitment), Cluster University of Srinagar, Gogji-Bagh, Srinagar – 190008, on or before 27th November 2026 (Up to 04:30 PM)."
+    ]
   },
   {
     "id": "jk-iit jammu-project-officer",
@@ -933,12 +1139,52 @@
     "district": "State Level",
     "vacancies": "127",
     "lastDate": "15-12-26",
-    "officialWebsite": "https://jkssb.nic.in/Pdf/Advt_notification_10OF2026_21102026.pdf",
+    "officialWebsite": "https://jkssb.nic.in/",
     "notificationLink": "https://jkssb.nic.in/Pdf/Advt_notification_10OF2026_21102026.pdf",
-    "applyOnlineLink": "https://jkssb.nic.in/Pdf/Advt_notification_10OF2026_21102026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/jkssb-je-mechanical-recruitment-2026/",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-11-03"
+    "scrapedAt": "2026-11-03",
+    "fees": [
+      {
+        "category": "General (OM/OBC/RBA/ALC-IB/ESM)",
+        "fee": "Rs. 600/-"
+      },
+      {
+        "category": "SC / ST-1 / ST-2 / EWS / PwBD",
+        "fee": "Rs. 500/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Commencement of Online Application Submission",
+        "date": "16/11/2026"
+      },
+      {
+        "event": "Last Date for Submission of Online Application Forms",
+        "date": "15/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Junior Engineer (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website of JKSSB at www.jkssb.nic.in.",
+      "Read the Advertisement Notification No. 10 of 2026 carefully before applying.",
+      "Fill the Online Application Form with all required details including Name, Date of Birth, Father’s Name, Mother’s Name (as per Matriculation Certificate), Email ID, and Mobile Number.",
+      "Upload a live photograph, signature (Size: 10 KB to 20 KB), Category Certificate (Max size: 200 KB in PDF format), and Qualification/Experience Certificates (self-attested, Max size: 200 KB in PDF format) as required.",
+      "Pay the application fee online through Net Banking, Credit Card, or Debit Card (Rs. 600/- for General; Rs. 500/- for SC, ST-1, ST-2, EWS, and PwBD candidates).",
+      "Submit the Online Application Form before the last date i.e. 15.12.2026.",
+      "Take a printout of the submitted application form for future reference and for submission at the time of Document Verification.",
+      "Do not submit hard copies of the online application form to the JKSSB office either in person or by post/email.",
+      "In-service candidates must submit the printout of the filled online application form through proper channel (Head of Department/Designated Authority) to the Office of the Secretary, JKSSB, by or before the last date of Document Verification."
+    ]
   },
   {
     "id": "jk-lic hfl-apprentice",
@@ -1056,12 +1302,554 @@
     "district": "State Level",
     "vacancies": "76",
     "lastDate": "13-11-26",
-    "officialWebsite": "https://www.aiimsjammu.edu.in/wp-content/uploads/2026/10/Advertisement-Faculty-Recruitent-2026-2.pdf",
+    "officialWebsite": "https://www.aiimsjammu.edu.in",
     "notificationLink": "https://www.aiimsjammu.edu.in/wp-content/uploads/2026/10/Advertisement-Faculty-Recruitent-2026-2.pdf",
-    "applyOnlineLink": "https://www.aiimsjammu.edu.in/wp-content/uploads/2026/10/Advertisement-Faculty-Recruitent-2026-2.pdf",
+    "applyOnlineLink": "https://recruitment.aiimsjammu.edu.in/login",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-11-03"
+    "scrapedAt": "2026-11-03",
+    "fees": [
+      {
+        "category": "General/OBC Candidates",
+        "fee": "Rs. 3000"
+      },
+      {
+        "category": "EWS Candidates",
+        "fee": "Rs. 2400"
+      },
+      {
+        "category": "SC/ST Candidates",
+        "fee": "Rs. 2400"
+      },
+      {
+        "category": "PwBD Candidates",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening of Online Application Form",
+        "date": "14/10/2026"
+      },
+      {
+        "event": "Closing of Online Application Form",
+        "date": "13/11/2026"
+      },
+      {
+        "event": "Last date to submit Hard Copy of Application Form",
+        "date": "18/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Professor – Anaesthesiology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor – Biochemistry",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor – Cardiology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor – Dermatology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor – E.N.T.",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor – Forensic Medicine & Toxicology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor – General Medicine",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor – General Surgery",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor – Hospital Administration",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor – Medical Oncology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor – Microbiology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor – Neonatology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor – Neurology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor – Nuclear Medicine",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor – Ophthalmology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor – Pathology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor – Pharmacology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor – Physiology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor – Psychiatry",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor – Pulmonary Medicine",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor – Radio Diagnosis",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor – Transfusion Medicine & Blood Bank",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Additional Professor – Biochemistry",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Additional Professor – General Surgery",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Additional Professor – Medical Oncology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Additional Professor – Microbiology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Additional Professor – Neonatology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Additional Professor – Pathology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Additional Professor – Physiology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Additional Professor – Psychiatry",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Additional Professor – Radio Diagnosis",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor – Anaesthesiology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor – Cardiology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor – Dermatology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor – E.N.T.",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor – Forensic Medicine & Toxicology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor – General Medicine",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor – General Surgery",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor – Medical Oncology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor – Microbiology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor – Neonatology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor – Neurology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor – Nuclear Medicine",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor – Ophthalmology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor – Pathology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor – Physiology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor – Psychiatry",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor – Pulmonary Medicine",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor – Radio Diagnosis",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor – Anatomy",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor – Biochemistry",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor – Burns & Plastic Surgery",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor – Gastroenterology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor – General Medicine",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor – General Surgery",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor – Medical Oncology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor – Microbiology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor – Nephrology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor – Obstetrics & Gynecology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor – Orthopaedics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor – Pediatric Surgery",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor – Pediatrics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor – Pathology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor – Pharmacology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor – Physical Medicine & Rehabilitation",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor – Physiology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor – Psychiatry",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor – Pulmonary Medicine",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor – Surgical Oncology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor – Transfusion Medicine & Blood Bank",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor – Urology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website https://www.aiimsjammu.edu.in from 14.10.2026 to 13.11.2026 up to 5:00 PM.",
+      "Register and fill the online application form in the prescribed format.",
+      "Upload all required documents/certificates in PDF/JPEG format (scanned at 200 dpi grey scale) including Date of Birth proof, Experience certificates, Essential qualifications, Caste/EWS/PwBD certificate as applicable.",
+      "Pay the application fee online (excluding bank transaction charges).",
+      "Submit the online application form before the closing date.",
+      "Take a printout of the submitted online application form.",
+      "Send the hard copy of the application along with self-attested copies of all relevant certificates (Age proof, Qualification, Experience, Payment receipt, Caste/EWS/PwBD certificate, NOC, and other testimonials) to: Registrar, Academic Block, 6th Floor, All India Institute of Medical Sciences, Vijaypur, Jammu – 181134, so as to reach on or before 18.11.2026 (Wednesday).",
+      "Candidates applying for more than one post must submit separate applications and fees for each post.",
+      "Candidates currently employed in Government/Semi-Government/Autonomous institutions must upload NOC from present employer along with application or produce it at the time of interview."
+    ]
   },
   {
     "id": "jk-jk high court-district-judge-entry-level-last-date-extended-",

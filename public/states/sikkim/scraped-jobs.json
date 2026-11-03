@@ -14,7 +14,7 @@
     "applyOnlineLink": "https://cus.ac.in/images/content/dynamic/noti/2026/Oct/Advt_Oct%2026_ICSSR.pdf",
     "state": "Sikkim",
     "stateCode": "sikkim",
-    "scrapedAt": "2026-11-02"
+    "scrapedAt": "2026-11-03"
   },
   {
     "id": "sikkim-nmhs-junior-research-fellow",
@@ -31,7 +31,7 @@
     "applyOnlineLink": "https://cus.ac.in/images/content/dynamic/noti/2026/Oct/NHMS_SU_ATREE-2025_Agroforestry_Advertisement%20for%20GIS%20Position.pdf",
     "state": "Sikkim",
     "stateCode": "sikkim",
-    "scrapedAt": "2026-11-02"
+    "scrapedAt": "2026-11-03"
   },
   {
     "id": "sikkim-sikkim high court-developer-and-more-it-assistant",
@@ -48,96 +48,7 @@
     "applyOnlineLink": "https://hcs.gov.in/hcs/sites/default/files/Notification/31_4.pdf",
     "state": "Sikkim",
     "stateCode": "sikkim",
-    "scrapedAt": "2026-11-02"
-  },
-  {
-    "id": "sikkim-uco bank-apprentice",
-    "title": "UCO Bank Recruitment 2026 – Apprentice Posts",
-    "shortInfo": "UCO Bank has announced notification for Apprentice posts. Required qualification: Graduate degree from recognized University. Last date to apply: 29-10-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "530",
-    "lastDate": "29-10-26",
-    "officialWebsite": "https://www.uco.bank.in",
-    "notificationLink": "https://uco.bank.in/documents/20120/0/Final+Advertisement+Apprenticeship+Engagement+2026-27.pdf/b7a52d0a-0aa2-2f0e-e266-e0038dd28a71?t=1791908189791",
-    "applyOnlineLink": "https://beep.bfsissc.com/",
-    "state": "Sikkim",
-    "stateCode": "sikkim",
-    "scrapedAt": "2026-11-02",
-    "fees": [
-      {
-        "category": "SC/ST candidates",
-        "fee": "Rs. 200/- plus GST"
-      },
-      {
-        "category": "Person with Benchmark Disability (PwBD) candidates",
-        "fee": "Rs. 200/- plus GST"
-      },
-      {
-        "category": "General, EWS and OBC - Male candidates",
-        "fee": "Rs. 800/- plus GST"
-      },
-      {
-        "category": "General, EWS and OBC - Female/Transgender candidates",
-        "fee": "Rs. 600/- plus GST"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Advertisement Date",
-        "date": "13/10/2026"
-      },
-      {
-        "event": "Online Registration Start Date",
-        "date": "14/10/2026"
-      },
-      {
-        "event": "Online Registration & Fee Payment Last Date",
-        "date": "29/10/2026"
-      },
-      {
-        "event": "Online Entrance Examination Date",
-        "date": "07/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Apprentice",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Candidates must first register on the NATS portal (https://nats.education.gov.in) under the ‘Student Register/Login’ section.",
-      "After registering on NATS, apply for the UCO Bank Apprenticeship Program on the NATS portal.",
-      "Candidates will receive an email from BFSI SSC (info@bfsissc.com) inviting them to fill in detailed application information and make payment for the Online Examination at https://beep.bfsissc.com.",
-      "Pay the requisite non-refundable Application/Examination fee through ONLINE mode only from 14-10-2026 to 29-10-2026.",
-      "Appear for the Online Entrance Examination conducted by BFSI SSC on 07-11-2026 at 11 AM.",
-      "Candidates can apply for engagement in ONE State/UT only.",
-      "Keep the NATS Enrolment ID safe for all future correspondence.",
-      "No hard copy of application or documents is to be sent to the Bank’s office."
-    ]
-  },
-  {
-    "id": "sikkim-snlu-assistant-professor",
-    "title": "SNLU Recruitment 2026 – Assistant Professor Posts",
-    "shortInfo": "SNLU has announced notification for Assistant Professor posts. Required qualification: Any Post Graduate, LLM. Last date to apply: 30-10-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "5",
-    "lastDate": "30-10-26",
-    "officialWebsite": "https://sikkimnlu.ac.in/sites/default/files/2026-10/SNLU%20Recruitment%20Ad%202026-4.pdf",
-    "notificationLink": "https://sikkimnlu.ac.in/sites/default/files/2026-10/SNLU%20Recruitment%20Ad%202026-4.pdf",
-    "applyOnlineLink": "https://sikkimnlu.ac.in/sites/default/files/2026-10/SNLU%20Recruitment%20Ad%202026-4.pdf",
-    "state": "Sikkim",
-    "stateCode": "sikkim",
-    "scrapedAt": "2026-11-02"
+    "scrapedAt": "2026-11-03"
   },
   {
     "id": "sikkim-aai-graduate-apprentice-diploma-apprentice-iti-apprent",
@@ -154,7 +65,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
     "state": "Sikkim",
     "stateCode": "sikkim",
-    "scrapedAt": "2026-11-02",
+    "scrapedAt": "2026-11-03",
     "fees": [],
     "dates": [
       {

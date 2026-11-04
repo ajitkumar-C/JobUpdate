@@ -272,6 +272,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sarkariavedan.info/job/result-ssc-cgl-tier-i-answer-key</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/result-rbi-bank-office-attendant-cutoff-score</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sarkariavedan.info/job/result-bsf-hc-ro-rm-answer-key</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -288,16 +298,6 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/result-upsssc-pet-answer-key-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/result-upsc-cds-i-final-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/result-upsc-geo-scientist-marks-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -332,6 +332,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-uppsc-various-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sarkariavedan.info/job/latest-jobs-rajasthan-safai-karmchari-correction-edit-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -342,22 +347,22 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-iocl-wr-apprentice-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sarkariavedan.info/job/latest-jobs-dsssb-delhi-district-court-various-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-upsssc-sports-directorate-2026</loc>
+    <loc>https://sarkariavedan.info/job/latest-jobs-rrb-ntpc-10-2-ug-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-rrb-ntpc-10-2-ug-2026</loc>
+    <loc>https://sarkariavedan.info/job/latest-jobs-railway-rrc-cr-apprentice-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/answer-key-ssc-cgl-tier-i-answer-key</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -383,11 +388,6 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/answer-key-rrb-section-controller-answer-key-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/answer-key-railway-rrb-technician-answer-key-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -448,6 +448,31 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/admission-nta-swayam-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/result-upsc-cds-i-final-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/result-upsc-geo-scientist-marks-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-iocl-wr-apprentice-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-upsssc-sports-directorate-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/answer-key-railway-rrb-technician-answer-key-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

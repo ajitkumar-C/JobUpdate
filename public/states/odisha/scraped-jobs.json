@@ -418,11 +418,20 @@
     "lastDate": "05-12-26",
     "officialWebsite": "https://www.osssc.gov.in/Public/OSSSC/Default.aspx",
     "notificationLink": "https://govtjobguru.in/wp-content/uploads/2026/10/OSSSC-Ophthalmic-Officer-Recruitment-2026.png",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/osssc-ophthalmic-officer-recruitment-2026/",
+    "applyOnlineLink": "https://www.osssc.gov.in/Public/OSSSC/Default.aspx",
     "state": "Odisha",
     "stateCode": "odisha",
     "scrapedAt": "2026-11-05",
-    "fees": [],
+    "fees": [
+      {
+        "category": "General/OBC/Other Categories",
+        "fee": "₹500/-"
+      },
+      {
+        "category": "SC/ST/Persons with Disabilities (PwDs)",
+        "fee": "Nil (Exempted)"
+      }
+    ],
     "dates": [
       {
         "event": "Online Registration/Re-registration Start",
@@ -447,11 +456,14 @@
       }
     ],
     "howToApply": [
-      "Visit the official OSSSC web portal at www.osssc.gov.in.",
-      "Register/Re-register online between 05.11.2026 and 29.11.2026.",
-      "Submit the online application between 05.11.2026 and 05.12.2026.",
-      "Check the detailed advertisement on the portal for district-wise, category-wise vacancies, eligibility, and other terms &amp; conditions.",
-      "Applications will be received through online mode only."
+      "Visit the official OSSSC website: www.osssc.gov.in",
+      "Fresh candidates (New User) click on ‘Apply Online’ on the Home page to register. Candidates already registered (Registered User) must login and re-register for this post by selecting the ‘Re-registration’ option.",
+      "Complete Registration/Re-registration by providing required details and uploading scanned photograph (jpg/jpeg/png, 20kb-100kb) and signature (jpg/jpeg/png, 20kb-50kb).",
+      "After Registration/Re-registration, login and fill up the Online Application Form with all required details and documents.",
+      "Pay the Examination Fee of Rs. 500/- (if applicable) via Net Banking/Credit Card/Debit Card/UPI through the Payment Gateway.",
+      "Submit the Online Application Form and print the Confirmation Page after successful payment.",
+      "Keep all original certificates and documents ready for Document Verification at a later stage.",
+      ""
     ]
   },
   {

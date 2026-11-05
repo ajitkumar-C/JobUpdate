@@ -272,6 +272,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sarkariavedan.info/job/result-ssc-jht-frta-cutoff-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sarkariavedan.info/job/result-bpsc-district-sports-officer-dso-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -297,7 +302,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/result-bsf-hc-ro-rm-answer-key</loc>
+    <loc>https://sarkariavedan.info/job/admit-card-rrb-alp-cbat-re-city-details</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -327,7 +332,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/admit-card-rrb-ntpc-10-2-ug-cbtst</loc>
+    <loc>https://sarkariavedan.info/job/latest-jobs-isro-sdsc-shar-apprentice-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -353,11 +358,6 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/latest-jobs-rrb-ntpc-graduate-level-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-afcat-01-2027-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -448,6 +448,21 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/admission-nta-swayam-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/result-bsf-hc-ro-rm-answer-key</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-rrb-ntpc-10-2-ug-cbtst</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-afcat-01-2027-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

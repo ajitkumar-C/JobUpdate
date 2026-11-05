@@ -1,5 +1,58 @@
 [
   {
+    "id": "result-ssc-jht-frta-cutoff-2026",
+    "title": "SSC JHT FRTA Result / Cutoff 2026",
+    "category": "Result",
+    "postDate": "2026-11-05",
+    "shortInfo": "SSC JHT FRTA Result / Cutoff 2026. Read notification for detailed information.",
+    "applicationStart": "05 June 2025",
+    "applicationLastDate": "26 June 2025",
+    "feeLastDate": "26 June 2025",
+    "examDate": "You can check the exam date by opening the official SSC FRTA Result / Cutoff PDF available in the Latest Updates section.",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "Exempted / Not Applicable",
+      "scStPh": "Exempted / Not Applicable",
+      "female": "₹ 0/-",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "min": "18 Years",
+      "max": "30 Years",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "SSC JHT FRTA Result / Cutoff 2026",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://ssc.gov.in/candidate-portal/one-time-registration/home-page",
+      "downloadNotification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_cht_2025.pdf.pdf",
+      "officialWebsite": "https://ssc.nic.in/",
+      "admitCardUrl": "https://ssc.gov.in/login",
+      "resultUrl": "https://ssc.gov.in/"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Written / CBT Preliminary Examination",
+      "Mains / Secondary Stage Examination",
+      "Document Verification & Final Merit List"
+    ],
+    "howToApply": [
+      "Click on the direct \"Check Result / Download Merit List\" link below.",
+      "Open the PDF or enter your Roll Number / Registration Number and DOB on the result portal.",
+      "Search for your Roll Number / Name in the qualified candidates list (using Ctrl + F on PC).",
+      "Check category-wise cut-off marks and your qualifying score.",
+      "Download and save a copy of the Scorecard / Merit List for subsequent stages."
+    ],
+    "jobLocation": "All India (Central Govt)",
+    "totalVacanciesCount": "Refer to Notification"
+  },
+  {
     "id": "result-bpsc-district-sports-officer-dso-2026",
     "title": "BPSC District Sports Officer DSO Result 2026",
     "category": "Result",
@@ -277,62 +330,55 @@
     "totalVacanciesCount": "572 Posts"
   },
   {
-    "id": "result-bsf-hc-ro-rm-answer-key",
-    "title": "BSF HC RO / RM Answer Key 2026",
-    "category": "Result",
+    "id": "admit-card-rrb-alp-cbat-re-city-details",
+    "title": "RRB ALP CBAT Re-Exam City Details 2026",
+    "category": "Admit Card",
     "postDate": "2026-11-05",
-    "shortInfo": "BSF HC RO / RM Answer Key 2026. Read notification for detailed information.",
-    "applicationStart": "Available soon",
-    "applicationLastDate": "Refer to notification",
-    "feeLastDate": "Refer to notification",
-    "examDate": "02 November 2026",
+    "shortInfo": "RRB ALP CBAT Re-Exam City Details 2026. Read notification for detailed information.",
+    "applicationStart": "12 April 2025",
+    "applicationLastDate": "19 May 2025",
+    "feeLastDate": "19 May 2025",
+    "examDate": "12 November 2026",
     "admitCardDate": "To be announced",
     "fees": {
-      "generalObc": "₹ 100/-",
-      "scStPh": "₹ 00/-",
-      "female": "₹ 00/-",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:"
+      "generalObc": "Exempted / Not Applicable",
+      "scStPh": "Exempted / Not Applicable",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
     },
     "ageLimit": {
-      "min": "18 Years.",
-      "max": "30 Years. (SC/ ST)",
+      "min": "18 Years",
+      "max": "30 Years",
       "relaxationText": "Age relaxation applies as per rules."
     },
     "vacancies": [
       {
-        "postName": "Head Constable (RO)",
-        "totalPost": "910",
-        "eligibility": "Refer to official notification details"
-      },
-      {
-        "postName": "Head Constable (RM)",
-        "totalPost": "211",
-        "eligibility": "Refer to official notification details"
+        "postName": "RRB ALP CBAT Re-Exam City Details 2026",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
       }
     ],
     "importantLinks": {
-      "applyOnline": "https://rectt.bsf.gov.in/registration/basic-details?guid=55c6c141-5288-11f0-8331-0a1dcac2b80f",
-      "downloadNotification": "https://rectt.bsf.gov.in/static/bsf/pdf/55c6c141-5288-11f0-8331-0a1dcac2b80f.pdf?rel=2025082302",
-      "officialWebsite": "https://www.bsf.gov.in/",
-      "admitCardUrl": "https://rectt.bsf.gov.in/auth/login",
-      "resultUrl": "https://www.bsf.gov.in/result.html"
+      "applyOnline": "https://www.rrbapply.gov.in/#/auth/landing",
+      "downloadNotification": "https://www.rrbkolkata.gov.in/file/Revised_CEN_01-2025_ALP.pdf",
+      "officialWebsite": "https://www.rrbapply.gov.in/#/auth/landing",
+      "admitCardUrl": "https://rrb.digialm.com//EForms/configuredHtml/33128/97789/login.html"
     },
     "status": "active",
     "salary": "As per Government Rules / Pay Matrix",
     "selectionProcess": [
-      "Written / CBT Preliminary Examination",
-      "Mains / Secondary Stage Examination",
-      "Document Verification & Final Merit List"
+      "Download Online Admit Card / Hall Ticket",
+      "Appear for Written / Online Computer Based Test (CBT)",
+      "Check Answer Key & Result"
     ],
     "howToApply": [
-      "Click on the direct \"Check Result / Download Merit List\" link below.",
-      "Open the PDF or enter your Roll Number / Registration Number and DOB on the result portal.",
-      "Search for your Roll Number / Name in the qualified candidates list (using Ctrl + F on PC).",
-      "Check category-wise cut-off marks and your qualifying score.",
-      "Download and save a copy of the Scorecard / Merit List for subsequent stages."
+      "Click on the direct \"Download Admit Card / Hall Ticket\" link provided below.",
+      "Enter your Registration Number / Roll Number and Date of Birth (DOB) or Password.",
+      "Click on \"Submit\" or \"Login\" to view your Hall Ticket on screen.",
+      "Check all details thoroughly: Exam Center, Reporting Time, Shift, and Roll Number.",
+      "Download and print at least 2 clear copies of the Admit Card along with the official instructions."
     ],
     "jobLocation": "All India (Central Govt)",
-    "totalVacanciesCount": "1,121 Posts"
+    "totalVacanciesCount": "Refer to Notification"
   },
   {
     "id": "admit-card-upsssc-junior-assistant-typing-test-admit",
@@ -597,58 +643,80 @@
     "totalVacanciesCount": "Refer to Notification"
   },
   {
-    "id": "admit-card-rrb-ntpc-10-2-ug-cbtst",
-    "title": "RRB NTPC 10+2 UG CBTST Date 2026",
-    "category": "Admit Card",
+    "id": "latest-jobs-isro-sdsc-shar-apprentice-2026",
+    "title": "ISRO SDSC SHAR Apprentice Recruitment 2026",
+    "category": "Latest Jobs",
     "postDate": "2026-11-05",
-    "shortInfo": "RRB NTPC 10+2 UG CBTST Date 2026. Read notification for detailed information.",
-    "applicationStart": "28 October 2025",
-    "applicationLastDate": "04 December 2025",
-    "feeLastDate": "04 December 2025",
-    "examDate": "The result is expected to be available after the exam date.",
+    "shortInfo": "ISRO SDSC SHAR Apprentice Recruitment 2026. Read notification for detailed information.",
+    "applicationStart": "06 November 2026",
+    "applicationLastDate": "26 November 2026",
+    "feeLastDate": "26 November 2026",
+    "examDate": "Notify Later",
     "admitCardDate": "To be announced",
     "fees": {
-      "generalObc": "Exempted / Not Applicable",
-      "scStPh": "Pass Only.",
-      "female": "₹ 250/-",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+      "generalObc": "Rs. 00/-",
+      "scStPh": "Rs. 00/-",
+      "paymentMode": "Online payment mode"
     },
     "ageLimit": {
-      "min": "18 Years",
-      "max": "30 Years",
       "relaxationText": "Age relaxation applies as per rules."
     },
     "vacancies": [
       {
-        "postName": "RRB NTPC 10+2 UG CBTST Date 2026",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
+        "postName": "Engineering Graduate Apprentice",
+        "totalPost": "50",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Non-Engineering Graduate Apprentice",
+        "totalPost": "60",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Technician Apprentice (Diploma)",
+        "totalPost": "35",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Diploma (DCCP)",
+        "totalPost": "60",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Trade Apprentice",
+        "totalPost": "180",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Vocational Apprentice",
+        "totalPost": "15",
+        "eligibility": "Refer to official notification details"
       }
     ],
     "importantLinks": {
-      "applyOnline": "https://www.rrbapply.gov.in/#/auth/landing",
-      "downloadNotification": "https://www.rrbchennai.gov.in/downloads/CEN-07-2025-NTPC-UnderGraduate-English.pdf",
-      "officialWebsite": "https://indianrailways.gov.in/",
-      "syllabusUrl": "http://sarkariresult.com.cm/wp-content/uploads/2025/10/CEN-07-2025-NTPC-UnderGraduate-English-19-20.pdf",
-      "admitCardUrl": "https://rrb.digialm.com//EForms/configuredHtml/33128/100181/login.html",
-      "resultUrl": "https://whatsapp.com/channel/0029VaAbQf01NCrYADMLt00L"
+      "applyOnline": "https://web.umang.gov.in/landing/",
+      "downloadNotification": "https://apps.shar.gov.in/sdscshar/apprentice/Apprenticeship2026.pdf",
+      "officialWebsite": "https://apps.shar.gov.in/",
+      "resultUrl": "https://sarkariresult.com.cm/"
     },
     "status": "active",
     "salary": "As per Government Rules / Pay Matrix",
     "selectionProcess": [
-      "Download Online Admit Card / Hall Ticket",
-      "Appear for Written / Online Computer Based Test (CBT)",
-      "Check Answer Key & Result"
+      "Written Examination (CBT / OMR)",
+      "Skill / Trade Test (if applicable)",
+      "Document Verification (DV)",
+      "Medical Examination (As per Rules)"
     ],
     "howToApply": [
-      "Click on the direct \"Download Admit Card / Hall Ticket\" link provided below.",
-      "Enter your Registration Number / Roll Number and Date of Birth (DOB) or Password.",
-      "Click on \"Submit\" or \"Login\" to view your Hall Ticket on screen.",
-      "Check all details thoroughly: Exam Center, Reporting Time, Shift, and Roll Number.",
-      "Download and print at least 2 clear copies of the Admit Card along with the official instructions."
+      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
+      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
+      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
+      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
+      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
+      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
     ],
-    "jobLocation": "All India (Central Govt)",
-    "totalVacanciesCount": "Refer to Notification"
+    "jobLocation": "All India / State-Wise",
+    "totalVacanciesCount": "400 Posts"
   },
   {
     "id": "latest-jobs-railway-rrb-isolated-categories-2026",
@@ -969,59 +1037,6 @@
     ],
     "jobLocation": "All India (Central Govt)",
     "totalVacanciesCount": "3,548 Posts"
-  },
-  {
-    "id": "latest-jobs-afcat-01-2027-2026",
-    "title": "AFCAT 01/2027 Recruitment 2026",
-    "category": "Latest Jobs",
-    "postDate": "2026-11-05",
-    "shortInfo": "AFCAT 01/2027 Recruitment 2026. Read notification for detailed information.",
-    "applicationStart": "12 November 2026",
-    "applicationLastDate": "11 December 2026",
-    "feeLastDate": "11 December 2026",
-    "examDate": "Notify Later",
-    "admitCardDate": "To be announced",
-    "fees": {
-      "generalObc": "Refer to Notification",
-      "scStPh": "Refer to Notification",
-      "female": "Minimum height – 152 cm",
-      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
-    },
-    "ageLimit": {
-      "min": "20 Years",
-      "max": "26 Years",
-      "relaxationText": "Age relaxation applies as per rules."
-    },
-    "vacancies": [
-      {
-        "postName": "AFCAT 01/2027",
-        "totalPost": "Refer to Notification",
-        "eligibility": "See official guidelines"
-      }
-    ],
-    "importantLinks": {
-      "applyOnline": "https://whatsapp.com/channel/0029VaAbQf01NCrYADMLt00L",
-      "downloadNotification": "https://whatsapp.com/channel/0029VaAbQf01NCrYADMLt00L",
-      "officialWebsite": "https://afcat.cdac.in/AFCAT/"
-    },
-    "status": "active",
-    "salary": "As per Government Rules / Pay Matrix",
-    "selectionProcess": [
-      "Written Examination (CBT / OMR)",
-      "Skill / Trade Test (if applicable)",
-      "Document Verification (DV)",
-      "Medical Examination (As per Rules)"
-    ],
-    "howToApply": [
-      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
-      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
-      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
-      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
-      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
-      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
-    ],
-    "jobLocation": "All India / State-Wise",
-    "totalVacanciesCount": "Refer to Notification"
   },
   {
     "id": "answer-key-ssc-cgl-tier-i-answer-key",
@@ -1973,6 +1988,171 @@
       "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
     ],
     "jobLocation": "All India (Central Govt)",
+    "totalVacanciesCount": "Refer to Notification"
+  },
+  {
+    "id": "result-bsf-hc-ro-rm-answer-key",
+    "title": "BSF HC RO / RM Answer Key 2026",
+    "category": "Result",
+    "postDate": "2026-11-05",
+    "shortInfo": "BSF HC RO / RM Answer Key 2026. Read notification for detailed information.",
+    "applicationStart": "Available soon",
+    "applicationLastDate": "Refer to notification",
+    "feeLastDate": "Refer to notification",
+    "examDate": "02 November 2026",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "₹ 100/-",
+      "scStPh": "₹ 00/-",
+      "female": "₹ 00/-",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:"
+    },
+    "ageLimit": {
+      "min": "18 Years.",
+      "max": "30 Years. (SC/ ST)",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "Head Constable (RO)",
+        "totalPost": "910",
+        "eligibility": "Refer to official notification details"
+      },
+      {
+        "postName": "Head Constable (RM)",
+        "totalPost": "211",
+        "eligibility": "Refer to official notification details"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://rectt.bsf.gov.in/registration/basic-details?guid=55c6c141-5288-11f0-8331-0a1dcac2b80f",
+      "downloadNotification": "https://rectt.bsf.gov.in/static/bsf/pdf/55c6c141-5288-11f0-8331-0a1dcac2b80f.pdf?rel=2025082302",
+      "officialWebsite": "https://www.bsf.gov.in/",
+      "admitCardUrl": "https://rectt.bsf.gov.in/auth/login",
+      "resultUrl": "https://www.bsf.gov.in/result.html"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Written / CBT Preliminary Examination",
+      "Mains / Secondary Stage Examination",
+      "Document Verification & Final Merit List"
+    ],
+    "howToApply": [
+      "Click on the direct \"Check Result / Download Merit List\" link below.",
+      "Open the PDF or enter your Roll Number / Registration Number and DOB on the result portal.",
+      "Search for your Roll Number / Name in the qualified candidates list (using Ctrl + F on PC).",
+      "Check category-wise cut-off marks and your qualifying score.",
+      "Download and save a copy of the Scorecard / Merit List for subsequent stages."
+    ],
+    "jobLocation": "All India (Central Govt)",
+    "totalVacanciesCount": "1,121 Posts"
+  },
+  {
+    "id": "admit-card-rrb-ntpc-10-2-ug-cbtst",
+    "title": "RRB NTPC 10+2 UG CBTST Date 2026",
+    "category": "Admit Card",
+    "postDate": "2026-11-05",
+    "shortInfo": "RRB NTPC 10+2 UG CBTST Date 2026. Read notification for detailed information.",
+    "applicationStart": "28 October 2025",
+    "applicationLastDate": "04 December 2025",
+    "feeLastDate": "04 December 2025",
+    "examDate": "The result is expected to be available after the exam date.",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "Exempted / Not Applicable",
+      "scStPh": "Pass Only.",
+      "female": "₹ 250/-",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "min": "18 Years",
+      "max": "30 Years",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "RRB NTPC 10+2 UG CBTST Date 2026",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://www.rrbapply.gov.in/#/auth/landing",
+      "downloadNotification": "https://www.rrbchennai.gov.in/downloads/CEN-07-2025-NTPC-UnderGraduate-English.pdf",
+      "officialWebsite": "https://indianrailways.gov.in/",
+      "syllabusUrl": "http://sarkariresult.com.cm/wp-content/uploads/2025/10/CEN-07-2025-NTPC-UnderGraduate-English-19-20.pdf",
+      "admitCardUrl": "https://rrb.digialm.com//EForms/configuredHtml/33128/100181/login.html",
+      "resultUrl": "https://whatsapp.com/channel/0029VaAbQf01NCrYADMLt00L"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Download Online Admit Card / Hall Ticket",
+      "Appear for Written / Online Computer Based Test (CBT)",
+      "Check Answer Key & Result"
+    ],
+    "howToApply": [
+      "Click on the direct \"Download Admit Card / Hall Ticket\" link provided below.",
+      "Enter your Registration Number / Roll Number and Date of Birth (DOB) or Password.",
+      "Click on \"Submit\" or \"Login\" to view your Hall Ticket on screen.",
+      "Check all details thoroughly: Exam Center, Reporting Time, Shift, and Roll Number.",
+      "Download and print at least 2 clear copies of the Admit Card along with the official instructions."
+    ],
+    "jobLocation": "All India (Central Govt)",
+    "totalVacanciesCount": "Refer to Notification"
+  },
+  {
+    "id": "latest-jobs-afcat-01-2027-2026",
+    "title": "AFCAT 01/2027 Recruitment 2026",
+    "category": "Latest Jobs",
+    "postDate": "2026-11-05",
+    "shortInfo": "AFCAT 01/2027 Recruitment 2026. Read notification for detailed information.",
+    "applicationStart": "12 November 2026",
+    "applicationLastDate": "11 December 2026",
+    "feeLastDate": "11 December 2026",
+    "examDate": "Notify Later",
+    "admitCardDate": "To be announced",
+    "fees": {
+      "generalObc": "Refer to Notification",
+      "scStPh": "Refer to Notification",
+      "female": "Minimum height – 152 cm",
+      "paymentMode": "Payment Mode (Online): You can make the payment using the following methods:\n\nDebit Card\nCredit Card\nInternet Banking\nIMPS\nCash Card / Mobile Wallet"
+    },
+    "ageLimit": {
+      "min": "20 Years",
+      "max": "26 Years",
+      "relaxationText": "Age relaxation applies as per rules."
+    },
+    "vacancies": [
+      {
+        "postName": "AFCAT 01/2027",
+        "totalPost": "Refer to Notification",
+        "eligibility": "See official guidelines"
+      }
+    ],
+    "importantLinks": {
+      "applyOnline": "https://whatsapp.com/channel/0029VaAbQf01NCrYADMLt00L",
+      "downloadNotification": "https://whatsapp.com/channel/0029VaAbQf01NCrYADMLt00L",
+      "officialWebsite": "https://afcat.cdac.in/AFCAT/"
+    },
+    "status": "active",
+    "salary": "As per Government Rules / Pay Matrix",
+    "selectionProcess": [
+      "Written Examination (CBT / OMR)",
+      "Skill / Trade Test (if applicable)",
+      "Document Verification (DV)",
+      "Medical Examination (As per Rules)"
+    ],
+    "howToApply": [
+      "Check your eligibility, educational qualifications, and age criteria from the official notification.",
+      "Visit the official website and complete One-Time Registration (OTR) if you are a new applicant.",
+      "Carefully fill in your personal details, educational qualifications, and address in the online form.",
+      "Upload required scanned documents, recent passport-size photograph, and signature in specified sizes.",
+      "Pay the prescribed examination fee through Net Banking, Debit/Credit Card, or UPI (if applicable).",
+      "Review the filled application form preview, submit, and take a printout of the final confirmation receipt."
+    ],
+    "jobLocation": "All India / State-Wise",
     "totalVacanciesCount": "Refer to Notification"
   },
   {

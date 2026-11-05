@@ -1,5 +1,63 @@
 [
   {
+    "id": "puducherry-indian bank-apprentice",
+    "title": "Indian Bank Recruitment 2026 – Apprentice Posts",
+    "shortInfo": "Indian Bank has announced notification for Apprentice posts. Required qualification: Graduate degree in any discipline. Last date to apply: 25-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1500",
+    "lastDate": "25-11-26",
+    "officialWebsite": "https://www.indianbank.bank.in/c/",
+    "notificationLink": "https://indianbank.bank.in/documents/20117/34414/FINAL%20UPDATED%20ADVERTISEMENT%20FOR%20ENGAGEMENT%20OF%20APPRENTICES%20FOR%20FY%202026-27%20-%2004.11.20262026_11_04_04_14_20.pdf/451450a2-0501-51ba-e37c-db63b9c27425",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/inbraoct26/",
+    "state": "Puducherry",
+    "stateCode": "puducherry",
+    "scrapedAt": "2026-11-05",
+    "fees": [
+      {
+        "category": "General/OBC/EWS candidates",
+        "fee": "₹800/- plus GST"
+      },
+      {
+        "category": "SC/ST/PwBD candidates",
+        "fee": "₹175/- plus GST"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date for Online Registration & Payment of Application Fees",
+        "date": "05/11/2026"
+      },
+      {
+        "event": "Closing Date for Online Registration & Payment of Application Fees",
+        "date": "25/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Apprentice (Graduate Apprentice under Apprentices Act, 1961)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Register on the NATS 2.0 Portal (www.nats.education.gov.in) before applying. Only candidates who passed graduation on or after 1st April 2022 need to register here. Ensure 100% complete profile on the portal.",
+      "Note down the Enrolment ID generated in NATS 2.0 Portal for future correspondence.",
+      "Visit the Bank’s website www.indianbank.bank.in and click on the Careers page or visit https://www.nats.education.gov.in and click on ‘Engagement of Apprentices in Indian Bank – 2026’.",
+      "Click on ‘Click here for New Registration’, enter Name, contact details and email ID. Note the Provisional Registration Number and Password generated.",
+      "Fill in the application form. Use ‘SAVE AND NEXT’ to save data if unable to complete in one go.",
+      "Upload scanned photograph (4.5cm x 3.5cm, 20KB–50KB), signature (black ink on white paper, 10KB–20KB), left thumb impression (20KB–50KB), and handwritten declaration (50KB–100KB) as per specifications in Annexure-II.",
+      "Preview and verify all details before clicking ‘COMPLETE REGISTRATION’.",
+      "Proceed to the ‘Payment’ tab and pay the application fee online using Debit/Credit Card or Internet Banking.",
+      "On successful payment, an e-Receipt will be generated. Take a printout of the e-Receipt and online application form for future reference.",
+      "Do NOT send the printout to the Bank."
+    ]
+  },
+  {
     "id": "puducherry-rites-senior-technical-assistant",
     "title": "RITES Recruitment 2026 – Senior Technical Assistant Posts",
     "shortInfo": "RITES has announced notification for Senior Technical Assistant posts. Required qualification: Full-Time Diploma in Civil Engineering. Last date to apply: 22-11-26.",
@@ -14,7 +72,7 @@
     "applyOnlineLink": "https://recruit.rites.com/frmRegistration.aspx",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-11-04",
+    "scrapedAt": "2026-11-05",
     "fees": [
       {
         "category": "General/OBC Candidates",
@@ -76,7 +134,7 @@
     "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/ZAPBL%20Study_Advertisment%20for%20PTS%20-II%20%26%20Project%20Nurse%20-%20III.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "puducherry-jipmer-senior-resident",
@@ -93,7 +151,7 @@
     "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/Advertisement%20November%20-%202026.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "puducherry-jipmer-project-technical-support-and-more-project-researc",
@@ -110,7 +168,7 @@
     "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/Advertisement%20&#038;%20Application%20Form.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "puducherry-jipmer-project-nurse-project-technical-support",
@@ -127,7 +185,7 @@
     "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/Advertisement%20for%20Recruitment%20to%20Project%20Posts%20(on%20Contract).pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "puducherry-jipmer-project-research-scientist-i",
@@ -144,7 +202,7 @@
     "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/Recruitment_PRS1_SAFEFEEDTrial_Neonatology.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "puducherry-jipmer-project-technical-support-project-nurse",
@@ -161,7 +219,7 @@
     "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/Recruitment_Project_staffs_ICMR_PreMI_Study.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "puducherry-pondicherry university-research-associate-project-technical-support",
@@ -178,7 +236,7 @@
     "applyOnlineLink": "https://www.pondiuni.edu.in/wp-content/uploads/2026/10/Advt_CARMA-PROJECT-DeptofMicrobiology21102026.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "puducherry-dat puducherry-store-superintendent",
@@ -195,7 +253,7 @@
     "applyOnlineLink": "https://dat.py.gov.in/sites/default/files/sspostfillserpart.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "puducherry-jipmer-financial-advisor",
@@ -212,7 +270,7 @@
     "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/Website%20Advertisement_10.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "puducherry-jipmer-financial-advisor",
@@ -229,7 +287,7 @@
     "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/Website%20Advertisement_10.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "puducherry-jipmer-consultant-consultant-legal-consultant-internal-au",
@@ -246,7 +304,7 @@
     "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/Advertisement_41.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "puducherry-jipmer-consultant",
@@ -263,7 +321,7 @@
     "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/Advertisement_41.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "puducherry-jipmer-clinical-trial-coordinator",
@@ -280,6 +338,6 @@
     "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/Vacancy%20notification%20Losartan%20PROJECT.pdf",
     "state": "Puducherry",
     "stateCode": "puducherry",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   }
 ]

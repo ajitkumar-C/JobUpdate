@@ -1,5 +1,63 @@
 [
   {
+    "id": "hp-indian bank-apprentice",
+    "title": "Indian Bank Recruitment 2026 – Apprentice Posts",
+    "shortInfo": "Indian Bank has announced notification for Apprentice posts. Required qualification: Graduate degree in any discipline. Last date to apply: 25-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1500",
+    "lastDate": "25-11-26",
+    "officialWebsite": "https://www.indianbank.bank.in/c/",
+    "notificationLink": "https://indianbank.bank.in/documents/20117/34414/FINAL%20UPDATED%20ADVERTISEMENT%20FOR%20ENGAGEMENT%20OF%20APPRENTICES%20FOR%20FY%202026-27%20-%2004.11.20262026_11_04_04_14_20.pdf/451450a2-0501-51ba-e37c-db63b9c27425",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/inbraoct26/",
+    "state": "Himachal Pradesh",
+    "stateCode": "hp",
+    "scrapedAt": "2026-11-05",
+    "fees": [
+      {
+        "category": "General/OBC/EWS candidates",
+        "fee": "₹800/- plus GST"
+      },
+      {
+        "category": "SC/ST/PwBD candidates",
+        "fee": "₹175/- plus GST"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date for Online Registration & Payment of Application Fees",
+        "date": "05/11/2026"
+      },
+      {
+        "event": "Closing Date for Online Registration & Payment of Application Fees",
+        "date": "25/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Apprentice (Graduate Apprentice under Apprentices Act, 1961)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Register on the NATS 2.0 Portal (www.nats.education.gov.in) before applying. Only candidates who passed graduation on or after 1st April 2022 need to register here. Ensure 100% complete profile on the portal.",
+      "Note down the Enrolment ID generated in NATS 2.0 Portal for future correspondence.",
+      "Visit the Bank’s website www.indianbank.bank.in and click on the Careers page or visit https://www.nats.education.gov.in and click on ‘Engagement of Apprentices in Indian Bank – 2026’.",
+      "Click on ‘Click here for New Registration’, enter Name, contact details and email ID. Note the Provisional Registration Number and Password generated.",
+      "Fill in the application form. Use ‘SAVE AND NEXT’ to save data if unable to complete in one go.",
+      "Upload scanned photograph (4.5cm x 3.5cm, 20KB–50KB), signature (black ink on white paper, 10KB–20KB), left thumb impression (20KB–50KB), and handwritten declaration (50KB–100KB) as per specifications in Annexure-II.",
+      "Preview and verify all details before clicking ‘COMPLETE REGISTRATION’.",
+      "Proceed to the ‘Payment’ tab and pay the application fee online using Debit/Credit Card or Internet Banking.",
+      "On successful payment, an e-Receipt will be generated. Take a printout of the e-Receipt and online application form for future reference.",
+      "Do NOT send the printout to the Bank."
+    ]
+  },
+  {
     "id": "hp-hprca-radiographer-job-trainee-",
     "title": "HPRCA Recruitment 2026 – Radiographer (Job Trainee) Posts",
     "shortInfo": "HPRCA has announced notification for Radiographer (Job Trainee) posts. Required qualification: 10+2 in Science, B.Sc. in Medical Technology. Last date to apply: 07-12-26.",
@@ -14,7 +72,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/hprca-radiographer-recruitment-2026/",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-04",
+    "scrapedAt": "2026-11-05",
     "fees": [
       {
         "category": "All Categories (Examination Fee + Processing Fee)",
@@ -56,10 +114,10 @@
       }
     ],
     "howToApply": [
-      "Visit the official website https://hprca.hp.gov.in and click ‘Sign Up’ to create a username and password.",
+      "Visit the official website https://hprca.hp.gov.in and click &#8216;Sign Up&#8217; to create a username and password.",
       "Complete the One-Time Registration (OTR) by providing personal information, educational qualifications, work experience (if any), and uploading a recent photograph, signature, and supporting documents.",
       "Complete/update your profile before applying for any post.",
-      "Log in and click ‘Apply’ against the post of Radiographer (Job Trainee) (Post Code: 26061).",
+      "Log in and click &#8216;Apply&#8217; against the post of Radiographer (Job Trainee) (Post Code: 26061).",
       "Select your preferred exam district from the dropdown menu.",
       "Review the auto-filled application details from your profile.",
       "Pay the application fee online via Credit Card/Debit Card/Net Banking through the payment gateway.",
@@ -82,7 +140,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/hprca-teacher-2026/",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-04",
+    "scrapedAt": "2026-11-05",
     "fees": [
       {
         "category": "All Categories (Examination Fee + Processing Fee)",
@@ -248,7 +306,7 @@
     "applyOnlineLink": "https://aiimsbilaspur.edu.in/sites/default/files/2026-10/Advertisement%2001.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "hp-hpjsv-para-fitter-multi-purpose-workers",
@@ -265,7 +323,7 @@
     "applyOnlineLink": "https://jsv.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1yTV49xNU6QBk0f+D9rWV0VhZ+dahwEOncXXlmc34oR/PcisPcfSvHhoDoX/CxwsAsmTL9C/VnROhUT/WDBT/xG5xX9KjhOItXqJiyUsMDgAyZoJ9F1py1MbtCxOuL8s2E=",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "hp-nit hamirpur-project-assistant",
@@ -282,7 +340,7 @@
     "applyOnlineLink": "https://nith.ac.in/uploads/files/oct26/ad-project.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "hp-echs kasauli-dental-hygienist-oic-echs-polyclinic-medical-offic",
@@ -299,7 +357,7 @@
     "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Stn%20HQ%20Kasauli%2002%20Nov.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "hp-iit mandi-associate-professor",
@@ -316,7 +374,7 @@
     "applyOnlineLink": "https://iitmandi.ac.in/recruitment/Advertisement_2026_Associate%20Professor_IKSHMA.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "hp-uhf-senior-research-fellow-young-professional",
@@ -333,7 +391,7 @@
     "applyOnlineLink": "https://uhf.ac.in/storage/uploads/docs/1793186055.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "hp-cskhpkv-field-cum-lab-helper",
@@ -350,7 +408,7 @@
     "applyOnlineLink": "https://www.hillagric.ac.in/info/jobs_advt/2026/2026-10-28-FN-548-60.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "hp-cskhpkv palampur-assistant-professor",
@@ -367,7 +425,7 @@
     "applyOnlineLink": "https://www.hillagric.ac.in/info/jobs_advt/2026/2026-10-24-Circular-7187-7286.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "hp-himachal pradesh jal shakti vibhag-para-cook-para-helper",
@@ -384,7 +442,7 @@
     "applyOnlineLink": "https://jsv.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1yTV49xNU6QBk0f+D9rWV0VhZ+dahwEOncXXlmc34oR/PcisPcfSvHhoDoX/CxwsAsmTL9C/VnROgCSojmIGYo3jML+G3u2I0hWKUA2VT6PHb6AtFCZ2XopnPzf4ATzgwk=",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "hp-jal shakti vibhag, himachal pradesh-mpw-para-pump-operator-and-more",
@@ -401,7 +459,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/jsv-hp-multi-purpose-worker-recruitment-2026/",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-04",
+    "scrapedAt": "2026-11-05",
     "fees": [],
     "dates": [
       {
@@ -456,7 +514,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s38d7d8ee069cb0cbbf816bbb65d56947e/uploads/2026/10/17927432757000.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "hp-hpnlu-professor-of-law",
@@ -473,7 +531,7 @@
     "applyOnlineLink": "https://www.hpnlu.ac.in/PDF/62a7ab49-2c81-44fc-97f4-970965ef2224.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "hp-lic hfl-apprentice",
@@ -490,7 +548,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-04",
+    "scrapedAt": "2026-11-05",
     "fees": [
       {
         "category": "Scheduled Caste (SC) / Scheduled Tribe (ST) candidates",
@@ -562,7 +620,7 @@
     "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Solan%20Bilasapur%20Ghumarwin%2020%20Nov.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "hp-hppsc-scientific-officer-group-b-job-trainee-",
@@ -579,7 +637,7 @@
     "applyOnlineLink": "https://hppsconline.hp.gov.in/HPPSC/ApplicantRegistration/Home/Login",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-04",
+    "scrapedAt": "2026-11-05",
     "fees": [
       {
         "category": "All Candidates (irrespective of category or gender)",
@@ -637,7 +695,7 @@
     "applyOnlineLink": "https://www.hphcrecruitment.in/static/dist/pdf/69.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "hp-hppsc-assistant-director",
@@ -654,7 +712,7 @@
     "applyOnlineLink": "https://hppsc.hp.gov.in/CommonControls/CMSFileView?qs=oeMK915q2HkdpWSZ%2B0aaIFmLDoF0cTjGvKykbXugJ5FH4sUacllacTF%2B5RqdIHDUaLjGjYE8mOeHqj0VR%2FB5RoAFuG6TC47917zNkNFr8Dw%3D",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "hp-hppsc-agriculture-development-officer-ado-group-a-job-tr",
@@ -671,7 +729,7 @@
     "applyOnlineLink": "https://hppsconline.hp.gov.in/HPPSC/ApplicantRegistration/Home/Login",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-04",
+    "scrapedAt": "2026-11-05",
     "fees": [
       {
         "category": "All Candidates (irrespective of category or gender)",

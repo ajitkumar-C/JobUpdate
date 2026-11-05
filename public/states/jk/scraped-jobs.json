@@ -1,5 +1,80 @@
 [
   {
+    "id": "jk-indian bank-apprentice",
+    "title": "Indian Bank Recruitment 2026 – Apprentice Posts",
+    "shortInfo": "Indian Bank has announced notification for Apprentice posts. Required qualification: Graduate degree in any discipline. Last date to apply: 25-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1500",
+    "lastDate": "25-11-26",
+    "officialWebsite": "https://www.indianbank.bank.in/c/",
+    "notificationLink": "https://indianbank.bank.in/documents/20117/34414/FINAL%20UPDATED%20ADVERTISEMENT%20FOR%20ENGAGEMENT%20OF%20APPRENTICES%20FOR%20FY%202026-27%20-%2004.11.20262026_11_04_04_14_20.pdf/451450a2-0501-51ba-e37c-db63b9c27425",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/inbraoct26/",
+    "state": "Jammu & Kashmir",
+    "stateCode": "jk",
+    "scrapedAt": "2026-11-05",
+    "fees": [
+      {
+        "category": "General/OBC/EWS candidates",
+        "fee": "₹800/- plus GST"
+      },
+      {
+        "category": "SC/ST/PwBD candidates",
+        "fee": "₹175/- plus GST"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date for Online Registration & Payment of Application Fees",
+        "date": "05/11/2026"
+      },
+      {
+        "event": "Closing Date for Online Registration & Payment of Application Fees",
+        "date": "25/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Apprentice (Graduate Apprentice under Apprentices Act, 1961)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Register on the NATS 2.0 Portal (www.nats.education.gov.in) before applying. Only candidates who passed graduation on or after 1st April 2022 need to register here. Ensure 100% complete profile on the portal.",
+      "Note down the Enrolment ID generated in NATS 2.0 Portal for future correspondence.",
+      "Visit the Bank’s website www.indianbank.bank.in and click on the Careers page or visit https://www.nats.education.gov.in and click on ‘Engagement of Apprentices in Indian Bank – 2026’.",
+      "Click on ‘Click here for New Registration’, enter Name, contact details and email ID. Note the Provisional Registration Number and Password generated.",
+      "Fill in the application form. Use ‘SAVE AND NEXT’ to save data if unable to complete in one go.",
+      "Upload scanned photograph (4.5cm x 3.5cm, 20KB–50KB), signature (black ink on white paper, 10KB–20KB), left thumb impression (20KB–50KB), and handwritten declaration (50KB–100KB) as per specifications in Annexure-II.",
+      "Preview and verify all details before clicking ‘COMPLETE REGISTRATION’.",
+      "Proceed to the ‘Payment’ tab and pay the application fee online using Debit/Credit Card or Internet Banking.",
+      "On successful payment, an e-Receipt will be generated. Take a printout of the e-Receipt and online application form for future reference.",
+      "Do NOT send the printout to the Bank."
+    ]
+  },
+  {
+    "id": "jk-csir iiim-administrative-officer",
+    "title": "CSIR IIIM Recruitment 2026 – Administrative Officer Posts",
+    "shortInfo": "CSIR IIIM has announced notification for Administrative Officer posts. Required qualification: MBA/PGDM, M.Sc. Last date to apply: 13-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "13-11-26",
+    "officialWebsite": "https://iiim.res.in/wp-content/uploads/2026/11/updated-advt-42-2026.pdf",
+    "notificationLink": "https://iiim.res.in/wp-content/uploads/2026/11/updated-advt-42-2026.pdf",
+    "applyOnlineLink": "https://iiim.res.in/wp-content/uploads/2026/11/updated-advt-42-2026.pdf",
+    "state": "Jammu & Kashmir",
+    "stateCode": "jk",
+    "scrapedAt": "2026-11-05"
+  },
+  {
     "id": "jk-echs-nursing-assistant-more-clerk",
     "title": "ECHS Recruitment 2026 – Nursing Assistant, More, Clerk Posts",
     "shortInfo": "ECHS has announced notification for Nursing Assistant, More, Clerk posts. Required qualification: Diploma, B.Pharma, BDS, 12TH, B.Sc, 10TH, Graduate, BMLT, MBBS, 8TH. Last date to apply: 20-11-26.",
@@ -14,7 +89,7 @@
     "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Stn%20HQ%20Leh%20on%2020%20Nov.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "jk-dao budgam-krishi-udyami-agricultural-entrepreneur-",
@@ -31,7 +106,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s31141938ba2c2b13f5505d7c424ebae5f/uploads/2026/10/17928209402748.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "jk-nit srinagar-temporary-teaching-staff",
@@ -48,7 +123,7 @@
     "applyOnlineLink": "https://nitsri.ac.in/uploaded_files/Notice_for_Interview.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "jk-iust-assistant-professor",
@@ -65,7 +140,7 @@
     "applyOnlineLink": "https://recruitment.iust.ac.in/",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-11-04",
+    "scrapedAt": "2026-11-05",
     "fees": [
       {
         "category": "General/All Candidates",
@@ -257,7 +332,7 @@
     "applyOnlineLink": "https://nitsri.ac.in/uploaded_files/Notice_for_Interview.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "jk-cus-associate-professor-professor",
@@ -274,7 +349,7 @@
     "applyOnlineLink": "https://cusrinagarrec.samarth.edu.in/",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-11-04",
+    "scrapedAt": "2026-11-05",
     "fees": [
       {
         "category": "General (UR/OM)",
@@ -480,7 +555,7 @@
     "applyOnlineLink": "https://www.iitjammu.ac.in/Advertisements/Contract/2026/Outsource%20HR-%2080.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "jk-jkssb-junior-engineer-civil-",
@@ -497,7 +572,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/jkssb-je-civil-recruitment-2026/",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-11-04",
+    "scrapedAt": "2026-11-05",
     "fees": [
       {
         "category": "General (OM/OBC/RBA/ALC-IB/ESM)",
@@ -565,7 +640,7 @@
     "applyOnlineLink": "https://www.kashmiruniversity.net/jobs/3117.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "jk-krcl-sse-sta-s-amp-t-",
@@ -582,7 +657,7 @@
     "applyOnlineLink": "https://konkanrailway.com/sites/default/files/2026-10/1JKNOTIFICATION.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "jk-lahdc ssrb-laboratory-assistant-driver-class-iv-technician-at",
@@ -599,7 +674,7 @@
     "applyOnlineLink": "https://www.dssrbkargil.in/register.aspx",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-11-04",
+    "scrapedAt": "2026-11-05",
     "fees": [
       {
         "category": "Unreserved (General/UR)",
@@ -793,7 +868,7 @@
     "applyOnlineLink": "https://cujammu.ac.in/media/homepage/jobs/UNIV/221026_Readvertisement_for_JRF_ICE_CRUNCH_final_2115_1792654054.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "jk-ladakh police-junior-assistant-computer-assistant",
@@ -810,7 +885,7 @@
     "applyOnlineLink": "https://prison.lpssrb2026.apply-gov.in/",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-11-04",
+    "scrapedAt": "2026-11-05",
     "fees": [
       {
         "category": "Assistant Superintendent Jail - UR/EWS",
@@ -950,7 +1025,7 @@
     "applyOnlineLink": "https://www.dssrbkargil.in/register.aspx",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-11-04",
+    "scrapedAt": "2026-11-05",
     "fees": [
       {
         "category": "Unreserved (General/UR)",
@@ -1144,7 +1219,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/jkssb-je-mechanical-recruitment-2026/",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-11-04",
+    "scrapedAt": "2026-11-05",
     "fees": [
       {
         "category": "General (OM/OBC/RBA/ALC-IB/ESM)",
@@ -1201,7 +1276,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-11-04",
+    "scrapedAt": "2026-11-05",
     "fees": [
       {
         "category": "Scheduled Caste (SC) / Scheduled Tribe (ST) candidates",
@@ -1273,7 +1348,7 @@
     "applyOnlineLink": "https://nitsri.ac.in/uploaded_files/Advertisement_for_one_post_of_JPF_under_DST_JKSTIC-sponsored_project.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "jk-echs-nursing-assistant-and-more-clerk",
@@ -1290,7 +1365,7 @@
     "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Leh%2020%20Nov.pdf",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "jk-aiims jammu-assistant-professor-and-more-professor",
@@ -1307,7 +1382,7 @@
     "applyOnlineLink": "https://recruitment.aiimsjammu.edu.in/login",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-11-04",
+    "scrapedAt": "2026-11-05",
     "fees": [
       {
         "category": "General/OBC Candidates",
@@ -1866,7 +1941,7 @@
     "applyOnlineLink": "https://exams.jklhc.in/",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-11-04",
+    "scrapedAt": "2026-11-05",
     "fees": [
       {
         "category": "All Candidates",
@@ -1921,7 +1996,7 @@
     "applyOnlineLink": "https://jkssb.nic.in/dynamic-jkssb-test/pages/login.aspx",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-11-04",
+    "scrapedAt": "2026-11-05",
     "fees": [
       {
         "category": "General/OM/OBC/RBA/ALC-IB/ESM",
@@ -2027,6 +2102,6 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/jkssb-warder-recruitment-2026/",
     "state": "Jammu & Kashmir",
     "stateCode": "jk",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   }
 ]

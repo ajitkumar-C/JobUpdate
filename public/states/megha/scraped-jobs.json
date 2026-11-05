@@ -1,5 +1,63 @@
 [
   {
+    "id": "megha-indian bank-apprentice",
+    "title": "Indian Bank Recruitment 2026 – Apprentice Posts",
+    "shortInfo": "Indian Bank has announced notification for Apprentice posts. Required qualification: Graduate degree in any discipline. Last date to apply: 25-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1500",
+    "lastDate": "25-11-26",
+    "officialWebsite": "https://www.indianbank.bank.in/c/",
+    "notificationLink": "https://indianbank.bank.in/documents/20117/34414/FINAL%20UPDATED%20ADVERTISEMENT%20FOR%20ENGAGEMENT%20OF%20APPRENTICES%20FOR%20FY%202026-27%20-%2004.11.20262026_11_04_04_14_20.pdf/451450a2-0501-51ba-e37c-db63b9c27425",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/inbraoct26/",
+    "state": "Meghalaya",
+    "stateCode": "megha",
+    "scrapedAt": "2026-11-05",
+    "fees": [
+      {
+        "category": "General/OBC/EWS candidates",
+        "fee": "₹800/- plus GST"
+      },
+      {
+        "category": "SC/ST/PwBD candidates",
+        "fee": "₹175/- plus GST"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date for Online Registration & Payment of Application Fees",
+        "date": "05/11/2026"
+      },
+      {
+        "event": "Closing Date for Online Registration & Payment of Application Fees",
+        "date": "25/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Apprentice (Graduate Apprentice under Apprentices Act, 1961)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Register on the NATS 2.0 Portal (www.nats.education.gov.in) before applying. Only candidates who passed graduation on or after 1st April 2022 need to register here. Ensure 100% complete profile on the portal.",
+      "Note down the Enrolment ID generated in NATS 2.0 Portal for future correspondence.",
+      "Visit the Bank’s website www.indianbank.bank.in and click on the Careers page or visit https://www.nats.education.gov.in and click on ‘Engagement of Apprentices in Indian Bank – 2026’.",
+      "Click on ‘Click here for New Registration’, enter Name, contact details and email ID. Note the Provisional Registration Number and Password generated.",
+      "Fill in the application form. Use ‘SAVE AND NEXT’ to save data if unable to complete in one go.",
+      "Upload scanned photograph (4.5cm x 3.5cm, 20KB–50KB), signature (black ink on white paper, 10KB–20KB), left thumb impression (20KB–50KB), and handwritten declaration (50KB–100KB) as per specifications in Annexure-II.",
+      "Preview and verify all details before clicking ‘COMPLETE REGISTRATION’.",
+      "Proceed to the ‘Payment’ tab and pay the application fee online using Debit/Credit Card or Internet Banking.",
+      "On successful payment, an e-Receipt will be generated. Take a printout of the e-Receipt and online application form for future reference.",
+      "Do NOT send the printout to the Bank."
+    ]
+  },
+  {
     "id": "megha-mmdsl-icu-technician-regional-coordinator",
     "title": "MMDSL Recruitment 2026 – ICU Technician, Regional Coordinator Posts",
     "shortInfo": "MMDSL has announced notification for ICU Technician, Regional Coordinator posts. Required qualification: MBA/PGDM, Post Graduate, Diploma, B.Tech/B.E, B.Sc. Last date to apply: 10-11-26.",
@@ -14,7 +72,7 @@
     "applyOnlineLink": "https://meghealth.gov.in/news/AD_TOR_Eqpt_RegCood_ICU.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "megha-nehu-project-associate-i",
@@ -31,7 +89,7 @@
     "applyOnlineLink": "https://nehu.ac.in/public/assets/files/advertisements/20261030062832_Advertisement_and_Form_Project_Staff_ECE_.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "megha-cau-young-professional-i",
@@ -48,7 +106,7 @@
     "applyOnlineLink": "https://cau.ac.in/wp-content/uploads/2026/10/YP-Advertisment.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "megha-mmdsl-regional-coordinator-icu-technician",
@@ -65,7 +123,7 @@
     "applyOnlineLink": "https://meghealth.gov.in/news/AD_TOR_Eqpt_RegCood_ICU.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "megha-nehu-project-associate-i",
@@ -82,7 +140,7 @@
     "applyOnlineLink": "https://nehu.ac.in/public/assets/files/advertisements/20261030062832_Advertisement_and_Form_Project_Staff_ECE_.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "megha-cau-young-professional-i",
@@ -99,7 +157,7 @@
     "applyOnlineLink": "https://cau.ac.in/wp-content/uploads/2026/10/YP-Advertisment.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "megha-neiah-residential-medical-officer-biostatistician",
@@ -116,7 +174,7 @@
     "applyOnlineLink": "https://neiah.nic.in/pdf/30-10-26/advt30.10.26.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "megha-nehu-project-associate-field-assistant",
@@ -133,7 +191,7 @@
     "applyOnlineLink": "https://nehu.ac.in/public/assets/files/advertisements/20261028030201_Walk-in-interview.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "megha-neiah-deputy-director-nursing-officer-assistant-administ",
@@ -150,7 +208,7 @@
     "applyOnlineLink": "https://neiah.nic.in/pdf/26-10-26/VN.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "megha-msdma-assistant-structural-engineer-structural-mitigatio",
@@ -167,7 +225,7 @@
     "applyOnlineLink": "https://msdma.gov.in/docs/Advertisement23oct2026.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "megha-nec-research-officer",
@@ -184,6 +242,6 @@
     "applyOnlineLink": "https://necouncil.gov.in/sites/default/files/document-663.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   }
 ]

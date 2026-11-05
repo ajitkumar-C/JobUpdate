@@ -1,5 +1,80 @@
 [
   {
+    "id": "goa-indian bank-apprentice",
+    "title": "Indian Bank Recruitment 2026 – Apprentice Posts",
+    "shortInfo": "Indian Bank has announced notification for Apprentice posts. Required qualification: Graduate degree in any discipline. Last date to apply: 25-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1500",
+    "lastDate": "25-11-26",
+    "officialWebsite": "https://www.indianbank.bank.in/c/",
+    "notificationLink": "https://indianbank.bank.in/documents/20117/34414/FINAL%20UPDATED%20ADVERTISEMENT%20FOR%20ENGAGEMENT%20OF%20APPRENTICES%20FOR%20FY%202026-27%20-%2004.11.20262026_11_04_04_14_20.pdf/451450a2-0501-51ba-e37c-db63b9c27425",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/inbraoct26/",
+    "state": "Goa",
+    "stateCode": "goa",
+    "scrapedAt": "2026-11-05",
+    "fees": [
+      {
+        "category": "General/OBC/EWS candidates",
+        "fee": "₹800/- plus GST"
+      },
+      {
+        "category": "SC/ST/PwBD candidates",
+        "fee": "₹175/- plus GST"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date for Online Registration & Payment of Application Fees",
+        "date": "05/11/2026"
+      },
+      {
+        "event": "Closing Date for Online Registration & Payment of Application Fees",
+        "date": "25/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Apprentice (Graduate Apprentice under Apprentices Act, 1961)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Register on the NATS 2.0 Portal (www.nats.education.gov.in) before applying. Only candidates who passed graduation on or after 1st April 2022 need to register here. Ensure 100% complete profile on the portal.",
+      "Note down the Enrolment ID generated in NATS 2.0 Portal for future correspondence.",
+      "Visit the Bank’s website www.indianbank.bank.in and click on the Careers page or visit https://www.nats.education.gov.in and click on ‘Engagement of Apprentices in Indian Bank – 2026’.",
+      "Click on ‘Click here for New Registration’, enter Name, contact details and email ID. Note the Provisional Registration Number and Password generated.",
+      "Fill in the application form. Use ‘SAVE AND NEXT’ to save data if unable to complete in one go.",
+      "Upload scanned photograph (4.5cm x 3.5cm, 20KB–50KB), signature (black ink on white paper, 10KB–20KB), left thumb impression (20KB–50KB), and handwritten declaration (50KB–100KB) as per specifications in Annexure-II.",
+      "Preview and verify all details before clicking ‘COMPLETE REGISTRATION’.",
+      "Proceed to the ‘Payment’ tab and pay the application fee online using Debit/Credit Card or Internet Banking.",
+      "On successful payment, an e-Receipt will be generated. Take a printout of the e-Receipt and online application form for future reference.",
+      "Do NOT send the printout to the Bank."
+    ]
+  },
+  {
+    "id": "goa-goa samagra shiksha-instructor-nsqf-sectors-",
+    "title": "Goa Samagra Shiksha Recruitment 2026 – Instructor (NSQF Sectors) Posts",
+    "shortInfo": "Goa Samagra Shiksha has announced notification for Instructor (NSQF Sectors) posts. Required qualification: Graduate, BHMS, BAMS, MBA/PGDM, MBBS, Diploma, Post Graduate, B.Sc, 12TH, M.E/M.Tech, B.Tech/B.E, B.Com, M.Phil/Ph.D, GNM, M.Sc. Last date to apply: 06-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "41",
+    "lastDate": "06-11-26",
+    "officialWebsite": "https://scert.goa.gov.in/wp-content/uploads/2026/10/GSS-Advt-30.10.2026.pdf",
+    "notificationLink": "https://scert.goa.gov.in/wp-content/uploads/2026/10/GSS-Advt-30.10.2026.pdf",
+    "applyOnlineLink": "https://scert.goa.gov.in/wp-content/uploads/2026/10/GSS-Advt-30.10.2026.pdf",
+    "state": "Goa",
+    "stateCode": "goa",
+    "scrapedAt": "2026-11-05"
+  },
+  {
     "id": "goa-goa samagra shiksha-instructor-nsqf-sectors-",
     "title": "Goa Samagra Shiksha Recruitment 2026 – Instructor (NSQF Sectors) Posts",
     "shortInfo": "Goa Samagra Shiksha has announced notification for Instructor (NSQF Sectors) posts. Required qualification: M.Sc, MBA/PGDM, Other, GNM, Diploma, M.E/M.Tech, Graduate, 12TH, Post Graduate, BAMS, BHMS, M.Phil/Ph.D, B.Sc, B.Com, B.Tech/B.E, MBBS. Last date to apply: 06-11-26.",
@@ -14,7 +89,7 @@
     "applyOnlineLink": "https://scert.goa.gov.in/wp-content/uploads/2026/10/GSS-Advt-30.10.2026.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "goa-gtdc-technical-assistant-civil-",
@@ -31,7 +106,7 @@
     "applyOnlineLink": "https://www.goa.gov.in/wp-content/uploads/2026/10/Advertisment-for-the-post-of-TA-Civil.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "goa-dll-technician-electronics-",
@@ -48,7 +123,7 @@
     "applyOnlineLink": "https://dgll.nic.in/sites/default/files/2026-10/Tech%20(Electronics)_0.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "goa-dfs goa-scientific-assistant-searcher",
@@ -65,7 +140,7 @@
     "applyOnlineLink": "https://www.goa.gov.in/wp-content/uploads/2026/10/Directorate-of-Forensic-Sciences-Advertisment-Form.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "goa-gsl-technical-assistant-eot-crane-operator",
@@ -82,7 +157,7 @@
     "applyOnlineLink": "https://goashipyard.ibtexamination.com/App09Gsl2026VeR4/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-11-04",
+    "scrapedAt": "2026-11-05",
     "fees": [
       {
         "category": "General/OBC/EWS",
@@ -277,7 +352,7 @@
     "applyOnlineLink": "https://goashipyard.in/storage/clients_logo/Advt.%20No.%2008-2026.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "goa-bits pilani-project-research-scientist-i",
@@ -294,7 +369,7 @@
     "applyOnlineLink": "https://www.bits-pilani.ac.in/wp-content/uploads/Advertisement-Format-for-Project-Res-Sci-I.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "goa-goa university-post-doctoral-fellow-phd-fellow",
@@ -311,7 +386,7 @@
     "applyOnlineLink": "https://webassets.unigoa.ac.in/uploads/confg_docs/20261023.154623~Vacancy_PhD_Fellow_PD_26.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "goa-mormugao port authority-dy-chief-vigilance-officer",
@@ -328,7 +403,7 @@
     "applyOnlineLink": "https://mormugaoport.gov.in/careers_doc/view/1792674622860546.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "goa-mormugao port authority-deputy-chief-mechanical-engineer",
@@ -345,7 +420,7 @@
     "applyOnlineLink": "https://onlinevacancy.shipmin.nic.in/home/dwnld_advt/659",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "goa-gsl-consultant",
@@ -362,7 +437,7 @@
     "applyOnlineLink": "https://goashipyard.in/storage/clients_logo/1792643520.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "goa-aai-consultant-short-service-commission-officers-last-",
@@ -379,7 +454,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-ssco-consultant-recruitment-2026/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-11-04",
+    "scrapedAt": "2026-11-05",
     "fees": [
       {
         "category": "Fee",
@@ -465,7 +540,7 @@
     "applyOnlineLink": "https://goashipyard.in/storage/clients_logo/1792555837.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "goa-directorate of vigilance goa-technical-examiner",
@@ -482,7 +557,7 @@
     "applyOnlineLink": "https://cbes.goa.gov.in/advertisement?id=b3245ab3686e41a5029f96092196f226",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "goa-lic hfl-apprentice",
@@ -499,7 +574,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-11-04",
+    "scrapedAt": "2026-11-05",
     "fees": [
       {
         "category": "Scheduled Caste (SC) / Scheduled Tribe (ST) candidates",
@@ -571,7 +646,7 @@
     "applyOnlineLink": "https://www.goa.gov.in/wp-content/uploads/2026/10/AdvertIsement-Manager-legal-and-driver.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "goa-mormugao port authority-chief-engineer",
@@ -588,7 +663,7 @@
     "applyOnlineLink": "https://onlinevacancy.shipmin.nic.in/home/dwnld_advt/657",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "goa-sainik school goalpara-tgt-pgt-ldc",
@@ -605,7 +680,7 @@
     "applyOnlineLink": "https://sainikschoolgoalpara.org/wp-content/uploads/2026/10/Advt-Recruitment_03_2026_03Oct-26.pdf",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-11-04"
+    "scrapedAt": "2026-11-05"
   },
   {
     "id": "goa-iocl western region-trade-apprentice-technician-apprentice-graduate-ap",
@@ -622,7 +697,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/iocl-wr-apprentice-recruitment-2026/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-11-04",
+    "scrapedAt": "2026-11-05",
     "fees": [
       {
         "category": "Fee",
@@ -695,7 +770,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/konkan-railway-recruitment-2026-apply-online-for-201-je-alp-technician-other-posts/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-11-04",
+    "scrapedAt": "2026-11-05",
     "fees": [
       {
         "category": "General/UR/OBC-NCL/EWS (Male)",

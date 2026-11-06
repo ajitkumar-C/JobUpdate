@@ -1,5 +1,776 @@
 [
   {
+    "id": "wb-ongc-apprentices",
+    "title": "ONGC Recruitment 2026 – Apprentices Posts",
+    "shortInfo": "ONGC has announced notification for Apprentices posts. Required qualification: 10th Pass, 12th Pass, ITI, Diploma, B.Sc, B.Com, B.B.A, Any Graduate, B.E, B.Tech. Last date to apply: 20-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "3047",
+    "lastDate": "20-11-26",
+    "officialWebsite": "https://ongcindia.com/",
+    "notificationLink": "https://ongcindia.com/documents/77751/2660534/Advertisement-engagement-Apprentices2026-27.pdf/e926a825-c08b-6403-60f1-ea0232bcaab8",
+    "applyOnlineLink": "https://nats.education.gov.in",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-11-06",
+    "fees": [],
+    "dates": [
+      {
+        "event": "Issue of Advertisement & Opening of Online Application Portal",
+        "date": "29/10/2026"
+      },
+      {
+        "event": "Last Date for Receipt of Applications",
+        "date": "20/11/2026"
+      },
+      {
+        "event": "Date of Result/Selection",
+        "date": "15/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Computer Operator and Programming Assistant (COPA)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electrician",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electronics Mechanic",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Fitter",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Lab Chemist/Analyst - Petroleum Products",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Secretarial Office Assistant – Oil & Gas",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Accounts Executive",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Civil Executive (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Civil Executive (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Petroleum Executive",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Fire Safety Technician (Oil & Gas)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Executive HR – Oil & Gas",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Draughtsman (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Instrument Mechanic",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Mechanic Diesel",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Mechanical Executive (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Mechanic Refrigeration and Air Conditioning",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Welder (Gas & Electric)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Instrumentation Executive (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electronics Executive (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electrical Executive (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Store Keeper (Petroleum Products)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Stenographer (English)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Machinist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Mechanic Repair & Maintenance of Vehicles",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Surveyor",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Library Assistant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medical Laboratory Technician (Pathology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Computer Science Executive (Oil & Gas)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electrical Executive (Oil & Gas)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electronics & Telecom Executive (Oil & Gas)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Mechanical Executive (Oil & Gas)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Instrumentation Executive (Oil & Gas)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Computer Science Executive (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electronics Executive (NATS Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Civil Executive (NATS Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Instrumentation Executive (NATS Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electronics Executive (Graduate - NATS)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Executive Finance (Oil & Gas)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Fire Safety Supervisor (Oil & Gas)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electronics and Telecommunications Executive (Oil & Gas)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Computer Science Executive (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electronics & Telecommunication Executive (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electrical Executive (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Check eligibility criteria carefully including educational qualification, age, and domicile/district requirements as per Annexure-1.",
+      "For NAPS trades: Register and apply through the National Apprenticeship Promotion Scheme portal at https://apprenticeshipindia.gov.in (available from 29.10.2026).",
+      "For NATS trades: Register and apply through the National Apprenticeship Training Scheme portal at https://nats.education.gov.in (available from 29.10.2026).",
+      "Ensure all registration details, educational qualifications, and other particulars are correctly entered before submitting the application.",
+      "A candidate can apply for only one trade and one work centre. If applications are submitted for more than one work centre/trade, apprenticeship will be allocated at one centre and for one trade only at management’s discretion.",
+      "Regularly monitor the official ONGC website (www.ongcapprentices.ongc.co.in) and the respective NAPS/NATS portals for updates.",
+      "Last date for receipt of applications: 20.11.2026."
+    ]
+  },
+  {
+    "id": "wb-dvc-executive-trainee",
+    "title": "DVC Recruitment 2026 – Executive Trainee Posts",
+    "shortInfo": "DVC has announced notification for Executive Trainee posts. Required qualification: B.Tech/B.E. Last date to apply: 06-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "108",
+    "lastDate": "06-12-26",
+    "officialWebsite": "https://www.dvc.gov.in",
+    "notificationLink": "https://www.dvc.gov.in/storage/app/notice_qr/notice_5819639c38e595d23131b6afea0d29f2295.pdf",
+    "applyOnlineLink": "https://www.dvc.gov.in/cms-web/recruitment_dvc",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-11-06",
+    "fees": [
+      {
+        "category": "General/OBC(NCL)/EWS",
+        "fee": "Rs. 300/- (Non-refundable)"
+      },
+      {
+        "category": "SC/ST/PwBD/Ex-SM/DVC Departmental Candidates",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date of Online Application",
+        "date": "06/11/2026"
+      },
+      {
+        "event": "Closing Date of Online Application",
+        "date": "06/12/2026"
+      },
+      {
+        "event": "Last Date for Payment of Application Fee",
+        "date": "06/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Executive Trainee (Mechanical) - Post No. 2026/07",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Executive Trainee (Electrical) - Post No. 2026/08",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Executive Trainee (Civil) - Post No. 2026/09",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Executive Trainee (C&I) - Post No. 2026/10",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Executive Trainee (Mining) - Post No. 2026/11",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the DVC website www.dvc.gov.in and go to Career Section → Recruitment Notices.",
+      "Click on the ‘APPLY ONLINE’ link available on the website.",
+      "Step 1: Fill in all the particulars in the Online Application Form. After filling in the details, candidates can edit and update the data.",
+      "Step 2: Upload the photograph (3.5cm x 3.5cm, png/jpg/jpeg, max 2MB), signature, and other relevant documents/certificates (Class Xth/XIIth certificate or marksheet, essential qualification certificate, GATE scorecard, etc. in PDF, max 2MB).",
+      "Step 3: Preview the application form carefully.",
+      "Step 4: Submit the application. Once submitted, the application cannot be edited.",
+      "After submission, a Unique Application Number will be generated. Take a printout of the submitted application for future reference.",
+      "Pay the non-refundable application fee of Rs. 300/- online (if applicable). SC/ST/PwBD/Ex-SM/Departmental candidates are exempted from fee payment.",
+      "Download the e-receipt after fee payment and retain it for future reference and submission at the time of Document Verification (DV).",
+      "A candidate can apply for one post/discipline only."
+    ]
+  },
+  {
+    "id": "wb-iocl-trade-apprentice-and-more-technician-apprentice",
+    "title": "IOCL Recruitment 2026 – Trade Apprentice and More, Technician Apprentice Posts",
+    "shortInfo": "IOCL has announced notification for Trade Apprentice and More, Technician Apprentice posts. Required qualification: Graduate, ITI, 12TH, Diploma. Last date to apply: 05-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "500",
+    "lastDate": "05-12-26",
+    "officialWebsite": "https://iocl.com/",
+    "notificationLink": "https://iocl.com/admin/img/Apprenticeships/Files/c1ee9de273284203b8546936356b9787.pdf",
+    "applyOnlineLink": "https://plapps.indianoilpipelines.in/PLApprentice/user/main?adv_no=MTQ=&Digest=qOLTAc7VxS7RbGmNVXuktQ",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-11-06",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Date of Opening of Online Application",
+        "date": "06/11/2026"
+      },
+      {
+        "event": "Last Date of Submission of Online Application",
+        "date": "05/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Technician Apprentice (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice (Telecommunication & Instrumentation)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice (Assistant-Human Resource)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice (Accountant)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Data Entry Operator (Fresher Apprentices)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Domestic Data Entry Operator (Skill Certificate Holders)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must first register on the respective NAPS/NATS Portal based on their trade: For Trade Apprentice (DEO/DDEO): https://www.apprenticeshipindia.gov.in; For Technician Apprentice and Trade Apprentice (HR/Accountant): https://nats.education.gov.in/student_register.php",
+      "Login to the respective NATS/NAPS Portal using User ID/Email ID and apply for the apprenticeship openings using the Establishment ID of Indian Oil Corporation Limited (Pipelines Division) for the relevant region.",
+      "After applying on NAPS/NATS Portal, visit the Indian Oil Pipelines portal at https://plapps.indianoilpipelines.in/ and complete Part-I registration by filling basic details (name, category, etc.) and creating a password. Note the system-generated registration number sent to your email/SMS.",
+      "Login again with the registration number and password to complete Part-II registration: upload scanned colour photograph (20-50 KB, JPG) and signature in black ink (10-30 KB, JPG), and furnish educational qualification and experience details.",
+      "Submit the application. After final submission, details cannot be changed. Take a printout of the filled-in online application for future reference.",
+      "Ensure the same e-mail ID and mobile number used in NAPS/NATS Portal are used in the Indian Oil Pipelines portal.",
+      "The application window is from 06.11.2026 to 05.12.2026. No other mode of application will be accepted."
+    ]
+  },
+  {
+    "id": "wb-aiims kalyani-multi-tasking-staff",
+    "title": "AIIMS Kalyani Recruitment 2026 – Multi Tasking Staff Posts",
+    "shortInfo": "AIIMS Kalyani has announced notification for Multi Tasking Staff posts. Required qualification: MLT, 10TH, Diploma, ITI, DMLT. Last date to apply: 21-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "21-11-26",
+    "officialWebsite": "https://aiimskalyani.edu.in/aiimsapi/uploads/documents/general/advertisement_final_20261106_182148_dc9dc59b.pdf",
+    "notificationLink": "https://aiimskalyani.edu.in/aiimsapi/uploads/documents/general/advertisement_final_20261106_182148_dc9dc59b.pdf",
+    "applyOnlineLink": "https://aiimskalyani.edu.in/aiimsapi/uploads/documents/general/advertisement_final_20261106_182148_dc9dc59b.pdf",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "wb-ipgme&amp;r-sskm-house-staff",
+    "title": "IPGME&amp;R-SSKM Recruitment 2026 – House Staff Posts",
+    "shortInfo": "IPGME&amp;R-SSKM has announced notification for House Staff posts. Required qualification: MBBS. Last date to apply: 13-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "9",
+    "lastDate": "13-11-26",
+    "officialWebsite": "https://ipgmer.gov.in/pdf/notice/notice-06112026-10864.pdf",
+    "notificationLink": "https://ipgmer.gov.in/pdf/notice/notice-06112026-10864.pdf",
+    "applyOnlineLink": "https://ipgmer.gov.in/pdf/notice/notice-06112026-10864.pdf",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "wb-wbpsc-industrial-development-officer-ido-",
+    "title": "WBPSC Recruitment 2026 – Industrial Development Officer (IDO) Posts",
+    "shortInfo": "WBPSC has announced notification for Industrial Development Officer (IDO) posts. Required qualification: Any Graduate, Diploma. Last date to apply: 26-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "247",
+    "lastDate": "26-11-26",
+    "officialWebsite": "https://psc.wb.gov.in",
+    "notificationLink": "https://psc.wb.gov.in/Download?param1=Cur_20261105212424_DetailedAdvtIDO152024.pdf&param2=advertisement",
+    "applyOnlineLink": "https://psc.wb.gov.in",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-11-06",
+    "fees": [
+      {
+        "category": "General/OBC/EWS/MSP",
+        "fee": "Rs. 160/- plus applicable service charges"
+      },
+      {
+        "category": "SC/ST of West Bengal & PwBD (40% and above)",
+        "fee": "No Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Commencement of Online Submission of Applications",
+        "date": "06/11/2026"
+      },
+      {
+        "event": "Closing Date for Submission of Online Applications",
+        "date": "26/11/2026"
+      },
+      {
+        "event": "Last Date of Payment of Fees (Online)",
+        "date": "26/11/2026"
+      },
+      {
+        "event": "Edit Window Start",
+        "date": "27/11/2026"
+      },
+      {
+        "event": "Edit Window End",
+        "date": "02/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Industrial Development Officer (IDO)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website at https://psc.wb.gov.in",
+      "Read the advertisement thoroughly before applying.",
+      "Submit the application through online mode only. Submission of more than one application is strictly forbidden.",
+      "Pay the application fee online (Rs. 160/- plus applicable service charges). SC/ST candidates of West Bengal and PwBD candidates (40% and above disability) are exempted from fee.",
+      "Upload requisite documents as mentioned in the advertisement during the Edit Window period (27.11.2026 to 02.12.2026 up to 3 p.m.).",
+      "Take a printout of the submitted application form for future reference.",
+      "Candidates must carry the same Photo ID card in original at the examination venue."
+    ]
+  },
+  {
+    "id": "wb-dvc bpscl-management-trainee",
+    "title": "DVC BPSCL Recruitment 2026 – Management Trainee Posts",
+    "shortInfo": "DVC BPSCL has announced notification for Management Trainee posts. Required qualification: B.Tech/B.E. Last date to apply: 06-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "18",
+    "lastDate": "06-12-26",
+    "officialWebsite": "https://www.dvc.gov.in/storage/app/notice_qr/notice_581d946b281235ef94f3db2fdeb55f2ec7f.pdf",
+    "notificationLink": "https://www.dvc.gov.in/storage/app/notice_qr/notice_581d946b281235ef94f3db2fdeb55f2ec7f.pdf",
+    "applyOnlineLink": "https://www.dvc.gov.in/storage/app/notice_qr/notice_581d946b281235ef94f3db2fdeb55f2ec7f.pdf",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "wb-jadavpur university-domain-expert",
+    "title": "Jadavpur University Recruitment 2026 – Domain Expert Posts",
+    "shortInfo": "Jadavpur University has announced notification for Domain Expert posts. Required qualification: Post Graduate, PG Diploma. Last date to apply: 27-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "27-11-26",
+    "officialWebsite": "https://jadavpuruniversity.in/storage/2026/11/EAP-1949-Walkin-interview.pdf",
+    "notificationLink": "https://jadavpuruniversity.in/storage/2026/11/EAP-1949-Walkin-interview.pdf",
+    "applyOnlineLink": "https://jadavpuruniversity.in/storage/2026/11/EAP-1949-Walkin-interview.pdf",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "wb-iit kharagpur-project-scientist-i-research",
+    "title": "IIT Kharagpur Recruitment 2026 – Project Scientist - I - Research Posts",
+    "shortInfo": "IIT Kharagpur has announced notification for Project Scientist - I - Research posts. Required qualification: Post Graduate. Last date to apply: 20-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "4",
+    "lastDate": "20-11-26",
+    "officialWebsite": "https://erp.iitkgp.ac.in/SricWeb/showAdvtFilePdf.htm?ref_no=IIT/SRIC/R/IND/2026/104",
+    "notificationLink": "https://erp.iitkgp.ac.in/SricWeb/showAdvtFilePdf.htm?ref_no=IIT/SRIC/R/IND/2026/104",
+    "applyOnlineLink": "https://erp.iitkgp.ac.in/SricWeb/showAdvtFilePdf.htm?ref_no=IIT/SRIC/R/IND/2026/104",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "wb-iit kharagpur-project-scientist-ii-research",
+    "title": "IIT Kharagpur Recruitment 2026 – Project Scientist II - Research Posts",
+    "shortInfo": "IIT Kharagpur has announced notification for Project Scientist II - Research posts. Required qualification: M.Phil/Ph.D. Last date to apply: 20-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "20-11-26",
+    "officialWebsite": "https://erp.iitkgp.ac.in/SricWeb/showAdvtFilePdf.htm?ref_no=IIT/SRIC/R/IND/2026/105",
+    "notificationLink": "https://erp.iitkgp.ac.in/SricWeb/showAdvtFilePdf.htm?ref_no=IIT/SRIC/R/IND/2026/105",
+    "applyOnlineLink": "https://erp.iitkgp.ac.in/SricWeb/showAdvtFilePdf.htm?ref_no=IIT/SRIC/R/IND/2026/105",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "wb-presidency university-project-fellow",
+    "title": "Presidency University Recruitment 2026 – Project Fellow Posts",
+    "shortInfo": "Presidency University has announced notification for Project Fellow posts. Required qualification: M.Sc. Last date to apply: 15-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "15-11-26",
+    "officialWebsite": "https://www.presiuniv.ac.in/web/DHR_TRANS-MAP_Project_Fellow_Advertisement%20Final.pdf",
+    "notificationLink": "https://www.presiuniv.ac.in/web/DHR_TRANS-MAP_Project_Fellow_Advertisement%20Final.pdf",
+    "applyOnlineLink": "https://www.presiuniv.ac.in/web/DHR_TRANS-MAP_Project_Fellow_Advertisement%20Final.pdf",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "wb-bckv-senior-research-fellow",
+    "title": "BCKV Recruitment 2026 – Senior Research Fellow Posts",
+    "shortInfo": "BCKV has announced notification for Senior Research Fellow posts. Required qualification: M.Sc. Last date to apply: 09-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "09-11-26",
+    "officialWebsite": "https://www.bckv.edu.in//images/contentfiles/1793875669_df_1579.pdf",
+    "notificationLink": "https://www.bckv.edu.in//images/contentfiles/1793875669_df_1579.pdf",
+    "applyOnlineLink": "https://www.bckv.edu.in//images/contentfiles/1793875669_df_1579.pdf",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "wb-dhfws birbhum-medical-officer-gdmo-staff-nurse-and-more",
+    "title": "DHFWS Birbhum Recruitment 2026 – Medical Officer GDMO, Staff Nurse and More Posts",
+    "shortInfo": "DHFWS Birbhum has announced notification for Medical Officer GDMO, Staff Nurse and More posts. Required qualification: MBA/PGDM, BMLT, ANM, GNM, DMLT, MBBS, Graduate, Diploma, MSW, Post Graduate. Last date to apply: 27-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "47",
+    "lastDate": "27-11-26",
+    "officialWebsite": "https://hr.wbhealth.gov.in/Files/Recruitment%20Notice%20under%20NHM%20-2026_000402.pdf",
+    "notificationLink": "https://hr.wbhealth.gov.in/Files/Recruitment%20Notice%20under%20NHM%20-2026_000402.pdf",
+    "applyOnlineLink": "https://hr.wbhealth.gov.in/Files/Recruitment%20Notice%20under%20NHM%20-2026_000402.pdf",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "wb-iit kharagpur-project-associate-i-research",
+    "title": "IIT Kharagpur Recruitment 2026 – Project Associate-I - Research Posts",
+    "shortInfo": "IIT Kharagpur has announced notification for Project Associate-I - Research posts. Required qualification: BVSC, Post Graduate, Graduate. Last date to apply: 20-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "20-11-26",
+    "officialWebsite": "https://erp.iitkgp.ac.in/SricWeb/showAdvtFilePdf.htm?ref_no=IIT/SRIC/R/IND/2026/103",
+    "notificationLink": "https://erp.iitkgp.ac.in/SricWeb/showAdvtFilePdf.htm?ref_no=IIT/SRIC/R/IND/2026/103",
+    "applyOnlineLink": "https://erp.iitkgp.ac.in/SricWeb/showAdvtFilePdf.htm?ref_no=IIT/SRIC/R/IND/2026/103",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-11-06"
+  },
+  {
     "id": "wb-sameer-project-engineer-project-scientific-assistant-a-el",
     "title": "SAMEER Recruitment 2026 – Project Engineer, Project Scientific Assistant (A) - Electronics, Project Scientific Assistant (A) - Mechanical, Project Technical Assistant (A) - Electronics Mechanic, Project Technical Assistant (A) - Fitter, Project Technical Assistant (A) - Machinist, Project Executive, Project Executive Assistant (A) Posts",
     "shortInfo": "SAMEER has announced notification for Project Engineer, Project Scientific Assistant (A) - Electronics, Project Scientific Assistant (A) - Mechanical, Project Technical Assistant (A) - Electronics Mechanic, Project Technical Assistant (A) - Fitter, Project Technical Assistant (A) - Machinist, Project Executive, Project Executive Assistant (A) posts. Required qualification: B.E., B.Tech, M.Sc, M.Tech, Ph.D, Diploma, B.Sc, ITI. Last date to apply: 15-11-26.",
@@ -109,6 +880,159 @@
       "The Application Form should NOT be sent by post.",
       "Ensure submission before 23:59 Hours on 15th November 2026."
     ]
+  },
+  {
+    "id": "wb-iprcl-agm-civil-e6-jgm-civil-e5",
+    "title": "IPRCL Recruitment 2026 – AGM (Civil)-E6 / JGM (Civil)-E5 Posts",
+    "shortInfo": "IPRCL has announced notification for AGM (Civil)-E6 / JGM (Civil)-E5 posts. Required qualification: B.Tech/B.E. Last date to apply: 04-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "04-12-26",
+    "officialWebsite": "https://iprcl.in/uploads/vacancies/1793799927_VC_No_09-2026_-_AGM-JGM_(Civil)_2_Posts_at_01-Visakhapatnam_and_01-Chennai_or_Kolkata.pdf",
+    "notificationLink": "https://iprcl.in/uploads/vacancies/1793799927_VC_No_09-2026_-_AGM-JGM_(Civil)_2_Posts_at_01-Visakhapatnam_and_01-Chennai_or_Kolkata.pdf",
+    "applyOnlineLink": "https://iprcl.in/uploads/vacancies/1793799927_VC_No_09-2026_-_AGM-JGM_(Civil)_2_Posts_at_01-Visakhapatnam_and_01-Chennai_or_Kolkata.pdf",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "wb-iit kharagpur-junior-research-fellow-jrf-research",
+    "title": "IIT Kharagpur Recruitment 2026 – Junior Research Fellow (JRF) - Research Posts",
+    "shortInfo": "IIT Kharagpur has announced notification for Junior Research Fellow (JRF) - Research posts. Required qualification: Post Graduate. Last date to apply: 19-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "19-11-26",
+    "officialWebsite": "https://erp.iitkgp.ac.in/SricWeb/showAdvtFilePdf.htm?ref_no=IIT/SRIC/R/QTM/2026/102",
+    "notificationLink": "https://erp.iitkgp.ac.in/SricWeb/showAdvtFilePdf.htm?ref_no=IIT/SRIC/R/QTM/2026/102",
+    "applyOnlineLink": "https://erp.iitkgp.ac.in/SricWeb/showAdvtFilePdf.htm?ref_no=IIT/SRIC/R/QTM/2026/102",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "wb-smpa-senior-deputy-manager",
+    "title": "SMPA Recruitment 2026 – Senior Deputy Manager Posts",
+    "shortInfo": "SMPA has announced notification for Senior Deputy Manager posts. Required qualification: B.Tech/B.E. Last date to apply: 05-12-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "05-12-26",
+    "officialWebsite": "https://onlinevacancy.shipmin.nic.in/home/dwnld_advt/665",
+    "notificationLink": "https://onlinevacancy.shipmin.nic.in/home/dwnld_advt/665",
+    "applyOnlineLink": "https://onlinevacancy.shipmin.nic.in/home/dwnld_advt/665",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "wb-sainik school purulia-tgt-more-art-master",
+    "title": "Sainik School Purulia Recruitment 2026 – TGT, More, Art Master Posts",
+    "shortInfo": "Sainik School Purulia has announced notification for TGT, More, Art Master posts. Required qualification: B.Ed, Graduate, B.A, Diploma. Last date to apply: 23-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "3",
+    "lastDate": "23-11-26",
+    "officialWebsite": "https://res.cloudinary.com/dqjcpan6g/image/upload/v1793789208/ssp-admin-uploads/Document_449-1793789208401.pdf",
+    "notificationLink": "https://res.cloudinary.com/dqjcpan6g/image/upload/v1793789208/ssp-admin-uploads/Document_449-1793789208401.pdf",
+    "applyOnlineLink": "https://res.cloudinary.com/dqjcpan6g/image/upload/v1793789208/ssp-admin-uploads/Document_449-1793789208401.pdf",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "wb-cmoh purulia-multipurpose-worker-mpw-ayush-doctor",
+    "title": "CMOH Purulia Recruitment 2026 – Multipurpose Worker (MPW), Ayush Doctor Posts",
+    "shortInfo": "CMOH Purulia has announced notification for Multipurpose Worker (MPW), Ayush Doctor posts. Required qualification: 10TH, Graduate, B.Tech/B.E, BCA, BHMS, B.B.A, B.Sc, Diploma. Last date to apply: 19-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "8",
+    "lastDate": "19-11-26",
+    "officialWebsite": "https://hr.wbhealth.gov.in/Files/Recruitment%20Notice%20AYUSH%201%202026.pdf",
+    "notificationLink": "https://hr.wbhealth.gov.in/Files/Recruitment%20Notice%20AYUSH%201%202026.pdf",
+    "applyOnlineLink": "https://hr.wbhealth.gov.in/Files/Recruitment%20Notice%20AYUSH%201%202026.pdf",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "wb-district registrar office malda-temporary-muslim-marriage-registrar-mmr-",
+    "title": "District Registrar Office Malda Recruitment 2026 – Temporary Muslim Marriage Registrar (MMR) Posts",
+    "shortInfo": "District Registrar Office Malda has announced notification for Temporary Muslim Marriage Registrar (MMR) posts. Required qualification: Not specified. Last date to apply: 11-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "11-12-26",
+    "officialWebsite": "https://cdn.s3waas.gov.in/s349ae49a23f67c759bf4fc791ba842aa2/uploads/2026/11/17937770265754.pdf",
+    "notificationLink": "https://cdn.s3waas.gov.in/s349ae49a23f67c759bf4fc791ba842aa2/uploads/2026/11/17937770265754.pdf",
+    "applyOnlineLink": "https://cdn.s3waas.gov.in/s349ae49a23f67c759bf4fc791ba842aa2/uploads/2026/11/17937770265754.pdf",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "wb-visva-bharati-pgt-guest-teacher-",
+    "title": "Visva-Bharati Recruitment 2026 – PGT (Guest Teacher) Posts",
+    "shortInfo": "Visva-Bharati has announced notification for PGT (Guest Teacher) posts. Required qualification: B.Ed, Post Graduate. Last date to apply: 19-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "19-11-26",
+    "officialWebsite": "https://www.visvabharati.ac.in/files/231051126_SCAN_20261103_123248947.pdf",
+    "notificationLink": "https://www.visvabharati.ac.in/files/231051126_SCAN_20261103_123248947.pdf",
+    "applyOnlineLink": "https://www.visvabharati.ac.in/files/231051126_SCAN_20261103_123248947.pdf",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "wb-csl-assistant-engineer",
+    "title": "CSL Recruitment 2026 – Assistant Engineer Posts",
+    "shortInfo": "CSL has announced notification for Assistant Engineer posts. Required qualification: Diploma. Last date to apply: 27-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "27-11-26",
+    "officialWebsite": "https://cochinshipyard.in/uploads/career/4a21023cfcf5ee043913e89aab3aac54.pdf",
+    "notificationLink": "https://cochinshipyard.in/uploads/career/4a21023cfcf5ee043913e89aab3aac54.pdf",
+    "applyOnlineLink": "https://cochinshipyard.in/uploads/career/4a21023cfcf5ee043913e89aab3aac54.pdf",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "wb-wbpsc-industrial-development-officer",
+    "title": "WBPSC Recruitment 2026 – Industrial Development Officer Posts",
+    "shortInfo": "WBPSC has announced notification for Industrial Development Officer posts. Required qualification: Any Graduate, Diploma. Last date to apply: N/A.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "-",
+    "lastDate": "N/A",
+    "officialWebsite": "https://psc.wb.gov.in/Download?param1=An_20241224163128_Indicative_IDO.pdf&#038;param2=advertisement",
+    "notificationLink": "https://psc.wb.gov.in/Download?param1=An_20241224163128_Indicative_IDO.pdf&#038;param2=advertisement",
+    "applyOnlineLink": "https://psc.wb.gov.in/Download?param1=An_20241224163128_Indicative_IDO.pdf&#038;param2=advertisement",
+    "state": "West Bengal",
+    "stateCode": "wb",
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "wb-nicl-graduate-apprentice",
@@ -539,23 +1463,6 @@
     "officialWebsite": "https://s3.ap-south-1.amazonaws.com/caluniv/news/Personel-Zoology-2026.pdf",
     "notificationLink": "https://s3.ap-south-1.amazonaws.com/caluniv/news/Personel-Zoology-2026.pdf",
     "applyOnlineLink": "https://s3.ap-south-1.amazonaws.com/caluniv/news/Personel-Zoology-2026.pdf",
-    "state": "West Bengal",
-    "stateCode": "wb",
-    "scrapedAt": "2026-11-06"
-  },
-  {
-    "id": "wb-bmc-senior-resident",
-    "title": "BMC Recruitment 2026 – Senior Resident Posts",
-    "shortInfo": "BMC has announced notification for Senior Resident posts. Required qualification: MS/MD. Last date to apply: 04-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "2",
-    "lastDate": "04-11-26",
-    "officialWebsite": "https://cdn.s3waas.gov.in/s3cf67355a3333e6e143439161adc2d82e/uploads/2026/11/17936194748198.pdf",
-    "notificationLink": "https://cdn.s3waas.gov.in/s3cf67355a3333e6e143439161adc2d82e/uploads/2026/11/17936194748198.pdf",
-    "applyOnlineLink": "https://cdn.s3waas.gov.in/s3cf67355a3333e6e143439161adc2d82e/uploads/2026/11/17936194748198.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
     "scrapedAt": "2026-11-06"
@@ -1088,23 +1995,6 @@
     "scrapedAt": "2026-11-06"
   },
   {
-    "id": "wb-wb police-driver",
-    "title": "WB Police Recruitment 2026 – Driver Posts",
-    "shortInfo": "WB Police has announced notification for Driver posts. Required qualification: 8TH. Last date to apply: 05-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "70",
-    "lastDate": "05-11-26",
-    "officialWebsite": "https://wbpolice.gov.in/WBP/Common/WBP_RecruitmentNew.aspx",
-    "notificationLink": "https://wbpolice.gov.in/WBP/Common/WBP_RecruitmentNew.aspx",
-    "applyOnlineLink": "https://wbpolice.gov.in/WBP/Common/WBP_RecruitmentNew.aspx",
-    "state": "West Bengal",
-    "stateCode": "wb",
-    "scrapedAt": "2026-11-06"
-  },
-  {
     "id": "wb-iim calcutta-doctor",
     "title": "IIM Calcutta Recruitment 2026 – Doctor Posts",
     "shortInfo": "IIM Calcutta has announced notification for Doctor posts. Required qualification: MBBS. Last date to apply: 08-11-26.",
@@ -1117,23 +2007,6 @@
     "officialWebsite": "https://www.iimcal.ac.in/advertisement-for-position-of-doctors-on-call",
     "notificationLink": "https://www.iimcal.ac.in/advertisement-for-position-of-doctors-on-call",
     "applyOnlineLink": "https://www.iimcal.ac.in/advertisement-for-position-of-doctors-on-call",
-    "state": "West Bengal",
-    "stateCode": "wb",
-    "scrapedAt": "2026-11-06"
-  },
-  {
-    "id": "wb-iit kharagpur-project-engineer",
-    "title": "IIT Kharagpur Recruitment 2026 – Project Engineer Posts",
-    "shortInfo": "IIT Kharagpur has announced notification for Project Engineer posts. Required qualification: B.Tech/B.E, M.E/M.Tech. Last date to apply: 05-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "05-11-26",
-    "officialWebsite": "https://erp.iitkgp.ac.in/SricWeb/showAdvtFilePdf.htm?ref_no=IIT/SRIC/R/GEA/2026/109",
-    "notificationLink": "https://erp.iitkgp.ac.in/SricWeb/showAdvtFilePdf.htm?ref_no=IIT/SRIC/R/GEA/2026/109",
-    "applyOnlineLink": "https://erp.iitkgp.ac.in/SricWeb/showAdvtFilePdf.htm?ref_no=IIT/SRIC/R/GEA/2026/109",
     "state": "West Bengal",
     "stateCode": "wb",
     "scrapedAt": "2026-11-06"
@@ -1271,23 +2144,6 @@
     "officialWebsite": "https://www.imu.edu.in/imunew///uploads/files/recruitments/2026/JRF-Advertisement-IMU-KC-Oct12.pdf",
     "notificationLink": "https://www.imu.edu.in/imunew///uploads/files/recruitments/2026/JRF-Advertisement-IMU-KC-Oct12.pdf",
     "applyOnlineLink": "https://www.imu.edu.in/imunew///uploads/files/recruitments/2026/JRF-Advertisement-IMU-KC-Oct12.pdf",
-    "state": "West Bengal",
-    "stateCode": "wb",
-    "scrapedAt": "2026-11-06"
-  },
-  {
-    "id": "wb-visva-bharati-project-research-scientist-i",
-    "title": "Visva-Bharati Recruitment 2026 – Project Research Scientist - I Posts",
-    "shortInfo": "Visva-Bharati has announced notification for Project Research Scientist - I posts. Required qualification: Any Post Graduate. Last date to apply: 05-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "2",
-    "lastDate": "05-11-26",
-    "officialWebsite": "https://www.visvabharati.ac.in/home/wp-content/uploads/2026/10/BIOTECH_PROJ_SCIENTIST.pdf",
-    "notificationLink": "https://www.visvabharati.ac.in/home/wp-content/uploads/2026/10/BIOTECH_PROJ_SCIENTIST.pdf",
-    "applyOnlineLink": "https://www.visvabharati.ac.in/home/wp-content/uploads/2026/10/BIOTECH_PROJ_SCIENTIST.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
     "scrapedAt": "2026-11-06"
@@ -1475,23 +2331,6 @@
     "officialWebsite": "https://csb.gov.in/sites/default/files/2026-10/csb-btsso-SA.pdf",
     "notificationLink": "https://csb.gov.in/sites/default/files/2026-10/csb-btsso-SA.pdf",
     "applyOnlineLink": "https://csb.gov.in/sites/default/files/2026-10/csb-btsso-SA.pdf",
-    "state": "West Bengal",
-    "stateCode": "wb",
-    "scrapedAt": "2026-11-06"
-  },
-  {
-    "id": "wb-smp kolkata-dy-materials-manager-gr-i",
-    "title": "SMP Kolkata Recruitment 2026 – Dy Materials Manager Gr-I Posts",
-    "shortInfo": "SMP Kolkata has announced notification for Dy Materials Manager Gr-I posts. Required qualification: B.Tech/B.E. Last date to apply: 05-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "2",
-    "lastDate": "05-11-26",
-    "officialWebsite": "https://smportkolkata.shipping.gov.in/smpk/wp-content/uploads/2026/10/Filling-up-of-02-posts-of-Dy.-MM-Gr-I-by-Deputation-Absorption-basis-under-KDS-of-SMPA-1.pdf",
-    "notificationLink": "https://smportkolkata.shipping.gov.in/smpk/wp-content/uploads/2026/10/Filling-up-of-02-posts-of-Dy.-MM-Gr-I-by-Deputation-Absorption-basis-under-KDS-of-SMPA-1.pdf",
-    "applyOnlineLink": "https://smportkolkata.shipping.gov.in/smpk/wp-content/uploads/2026/10/Filling-up-of-02-posts-of-Dy.-MM-Gr-I-by-Deputation-Absorption-basis-under-KDS-of-SMPA-1.pdf",
     "state": "West Bengal",
     "stateCode": "wb",
     "scrapedAt": "2026-11-06"

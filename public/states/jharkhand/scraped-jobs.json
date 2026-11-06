@@ -1,5 +1,568 @@
 [
   {
+    "id": "jharkhand-ongc-apprentices",
+    "title": "ONGC Recruitment 2026 – Apprentices Posts",
+    "shortInfo": "ONGC has announced notification for Apprentices posts. Required qualification: 10th Pass, 12th Pass, ITI, Diploma, B.Sc, B.Com, B.B.A, Any Graduate, B.E, B.Tech. Last date to apply: 20-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "3047",
+    "lastDate": "20-11-26",
+    "officialWebsite": "https://ongcindia.com/",
+    "notificationLink": "https://ongcindia.com/documents/77751/2660534/Advertisement-engagement-Apprentices2026-27.pdf/e926a825-c08b-6403-60f1-ea0232bcaab8",
+    "applyOnlineLink": "https://nats.education.gov.in",
+    "state": "Jharkhand",
+    "stateCode": "jharkhand",
+    "scrapedAt": "2026-11-06",
+    "fees": [],
+    "dates": [
+      {
+        "event": "Issue of Advertisement & Opening of Online Application Portal",
+        "date": "29/10/2026"
+      },
+      {
+        "event": "Last Date for Receipt of Applications",
+        "date": "20/11/2026"
+      },
+      {
+        "event": "Date of Result/Selection",
+        "date": "15/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Computer Operator and Programming Assistant (COPA)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electrician",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electronics Mechanic",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Fitter",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Lab Chemist/Analyst - Petroleum Products",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Secretarial Office Assistant – Oil & Gas",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Accounts Executive",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Civil Executive (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Civil Executive (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Petroleum Executive",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Fire Safety Technician (Oil & Gas)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Executive HR – Oil & Gas",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Draughtsman (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Instrument Mechanic",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Mechanic Diesel",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Mechanical Executive (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Mechanic Refrigeration and Air Conditioning",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Welder (Gas & Electric)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Instrumentation Executive (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electronics Executive (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electrical Executive (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Store Keeper (Petroleum Products)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Stenographer (English)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Machinist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Mechanic Repair & Maintenance of Vehicles",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Surveyor",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Library Assistant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medical Laboratory Technician (Pathology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Computer Science Executive (Oil & Gas)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electrical Executive (Oil & Gas)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electronics & Telecom Executive (Oil & Gas)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Mechanical Executive (Oil & Gas)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Instrumentation Executive (Oil & Gas)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Computer Science Executive (Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electronics Executive (NATS Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Civil Executive (NATS Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Instrumentation Executive (NATS Graduate)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electronics Executive (Graduate - NATS)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Executive Finance (Oil & Gas)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Fire Safety Supervisor (Oil & Gas)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electronics and Telecommunications Executive (Oil & Gas)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Computer Science Executive (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electronics & Telecommunication Executive (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electrical Executive (Diploma)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Check eligibility criteria carefully including educational qualification, age, and domicile/district requirements as per Annexure-1.",
+      "For NAPS trades: Register and apply through the National Apprenticeship Promotion Scheme portal at https://apprenticeshipindia.gov.in (available from 29.10.2026).",
+      "For NATS trades: Register and apply through the National Apprenticeship Training Scheme portal at https://nats.education.gov.in (available from 29.10.2026).",
+      "Ensure all registration details, educational qualifications, and other particulars are correctly entered before submitting the application.",
+      "A candidate can apply for only one trade and one work centre. If applications are submitted for more than one work centre/trade, apprenticeship will be allocated at one centre and for one trade only at management’s discretion.",
+      "Regularly monitor the official ONGC website (www.ongcapprentices.ongc.co.in) and the respective NAPS/NATS portals for updates.",
+      "Last date for receipt of applications: 20.11.2026."
+    ]
+  },
+  {
+    "id": "jharkhand-hll-operations-manager-and-more-chief-manager",
+    "title": "HLL Recruitment 2026 – Operations Manager and More, Chief Manager Posts",
+    "shortInfo": "HLL has announced notification for Operations Manager and More, Chief Manager posts. Required qualification: . Last date to apply: 18-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "10",
+    "lastDate": "18-11-26",
+    "officialWebsite": "http://www.lifecarehll.com/careers/view/reference/801c14f07f9724229175b8ef8b4585a8hYCFgA",
+    "notificationLink": "http://www.lifecarehll.com/careers/view/reference/801c14f07f9724229175b8ef8b4585a8hYCFgA",
+    "applyOnlineLink": "http://www.lifecarehll.com/careers/view/reference/801c14f07f9724229175b8ef8b4585a8hYCFgA",
+    "state": "Jharkhand",
+    "stateCode": "jharkhand",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "jharkhand-iocl-trade-apprentice-and-more-technician-apprentice",
+    "title": "IOCL Recruitment 2026 – Trade Apprentice and More, Technician Apprentice Posts",
+    "shortInfo": "IOCL has announced notification for Trade Apprentice and More, Technician Apprentice posts. Required qualification: Graduate, ITI, 12TH, Diploma. Last date to apply: 05-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "500",
+    "lastDate": "05-12-26",
+    "officialWebsite": "https://iocl.com/",
+    "notificationLink": "https://iocl.com/admin/img/Apprenticeships/Files/c1ee9de273284203b8546936356b9787.pdf",
+    "applyOnlineLink": "https://plapps.indianoilpipelines.in/PLApprentice/user/main?adv_no=MTQ=&Digest=qOLTAc7VxS7RbGmNVXuktQ",
+    "state": "Jharkhand",
+    "stateCode": "jharkhand",
+    "scrapedAt": "2026-11-06",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Date of Opening of Online Application",
+        "date": "06/11/2026"
+      },
+      {
+        "event": "Last Date of Submission of Online Application",
+        "date": "05/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Technician Apprentice (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice (Telecommunication & Instrumentation)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice (Assistant-Human Resource)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice (Accountant)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Data Entry Operator (Fresher Apprentices)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Domestic Data Entry Operator (Skill Certificate Holders)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must first register on the respective NAPS/NATS Portal based on their trade: For Trade Apprentice (DEO/DDEO): https://www.apprenticeshipindia.gov.in; For Technician Apprentice and Trade Apprentice (HR/Accountant): https://nats.education.gov.in/student_register.php",
+      "Login to the respective NATS/NAPS Portal using User ID/Email ID and apply for the apprenticeship openings using the Establishment ID of Indian Oil Corporation Limited (Pipelines Division) for the relevant region.",
+      "After applying on NAPS/NATS Portal, visit the Indian Oil Pipelines portal at https://plapps.indianoilpipelines.in/ and complete Part-I registration by filling basic details (name, category, etc.) and creating a password. Note the system-generated registration number sent to your email/SMS.",
+      "Login again with the registration number and password to complete Part-II registration: upload scanned colour photograph (20-50 KB, JPG) and signature in black ink (10-30 KB, JPG), and furnish educational qualification and experience details.",
+      "Submit the application. After final submission, details cannot be changed. Take a printout of the filled-in online application for future reference.",
+      "Ensure the same e-mail ID and mobile number used in NAPS/NATS Portal are used in the Indian Oil Pipelines portal.",
+      "The application window is from 06.11.2026 to 05.12.2026. No other mode of application will be accepted."
+    ]
+  },
+  {
+    "id": "jharkhand-district employment office chatra-apprentice",
+    "title": "District Employment Office Chatra Recruitment 2026 – Apprentice Posts",
+    "shortInfo": "District Employment Office Chatra has announced notification for Apprentice posts. Required qualification: Graduate, B.Tech/B.E, 5th, ITI, Diploma. Last date to apply: 10-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "10-11-26",
+    "officialWebsite": "https://cdn.s3waas.gov.in/s3ff4d5fbbafdf976cfdc032e3bde78de5/uploads/2026/11/17939523754915.pdf",
+    "notificationLink": "https://cdn.s3waas.gov.in/s3ff4d5fbbafdf976cfdc032e3bde78de5/uploads/2026/11/17939523754915.pdf",
+    "applyOnlineLink": "https://cdn.s3waas.gov.in/s3ff4d5fbbafdf976cfdc032e3bde78de5/uploads/2026/11/17939523754915.pdf",
+    "state": "Jharkhand",
+    "stateCode": "jharkhand",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "jharkhand-jharkhand agriculture department-crop-protectors",
+    "title": "Jharkhand Agriculture Department Recruitment 2026 – Crop Protectors Posts",
+    "shortInfo": "Jharkhand Agriculture Department has announced notification for Crop Protectors posts. Required qualification: 10TH. Last date to apply: 30-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "7",
+    "lastDate": "30-11-26",
+    "officialWebsite": "https://cdn.s3waas.gov.in/s369421f032498c97020180038fddb8e24/uploads/2026/11/17939536158683.pdf",
+    "notificationLink": "https://cdn.s3waas.gov.in/s369421f032498c97020180038fddb8e24/uploads/2026/11/17939536158683.pdf",
+    "applyOnlineLink": "https://cdn.s3waas.gov.in/s369421f032498c97020180038fddb8e24/uploads/2026/11/17939536158683.pdf",
+    "state": "Jharkhand",
+    "stateCode": "jharkhand",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "jharkhand-texmin-project-associate-ii-project-associate-i",
+    "title": "TEXMiN Recruitment 2026 – Project Associate-II, Project Associate-I Posts",
+    "shortInfo": "TEXMiN has announced notification for Project Associate-II, Project Associate-I posts. Required qualification: Any Bachelors Degree. Last date to apply: 21-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "3",
+    "lastDate": "21-11-26",
+    "officialWebsite": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/810/Project%20Associate_2026-11-06_11-48-36.pdf",
+    "notificationLink": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/810/Project%20Associate_2026-11-06_11-48-36.pdf",
+    "applyOnlineLink": "https://people.iitism.ac.in/~download/projectOpening//uploads/pdfprj/810/Project%20Associate_2026-11-06_11-48-36.pdf",
+    "state": "Jharkhand",
+    "stateCode": "jharkhand",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "jharkhand-nit jamshedpur-project-research-scientist-i-non-medical-",
+    "title": "NIT Jamshedpur Recruitment 2026 – Project Research Scientist – I (non-medical) Posts",
+    "shortInfo": "NIT Jamshedpur has announced notification for Project Research Scientist – I (non-medical) posts. Required qualification: Post Graduate, B.Tech/B.E. Last date to apply: 23-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "23-11-26",
+    "officialWebsite": "https://nitjsr.ac.in/backend/uploads/recruitments/57788347-596c-4d95-9213-2026aa9d9898-Advertisement_and_Application_Form_Project_research_scientist-I.pdf",
+    "notificationLink": "https://nitjsr.ac.in/backend/uploads/recruitments/57788347-596c-4d95-9213-2026aa9d9898-Advertisement_and_Application_Form_Project_research_scientist-I.pdf",
+    "applyOnlineLink": "https://nitjsr.ac.in/backend/uploads/recruitments/57788347-596c-4d95-9213-2026aa9d9898-Advertisement_and_Application_Form_Project_research_scientist-I.pdf",
+    "state": "Jharkhand",
+    "stateCode": "jharkhand",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "jharkhand-office of conservator of forest, plantation, research &amp; evaluation, jharkhand-senior-research-associate",
+    "title": "Office of Conservator of Forest, Plantation, Research &amp; Evaluation, Jharkhand Recruitment 2026 – Senior Research Associate Posts",
+    "shortInfo": "Office of Conservator of Forest, Plantation, Research &amp; Evaluation, Jharkhand has announced notification for Senior Research Associate posts. Required qualification: M.Sc. Last date to apply: 21-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "21-11-26",
+    "officialWebsite": "https://forest.jharkhand.gov.in/admin/deptorders/departmental-orders_279.pdf",
+    "notificationLink": "https://forest.jharkhand.gov.in/admin/deptorders/departmental-orders_279.pdf",
+    "applyOnlineLink": "https://forest.jharkhand.gov.in/admin/deptorders/departmental-orders_279.pdf",
+    "state": "Jharkhand",
+    "stateCode": "jharkhand",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "jharkhand-dhs ramgarh-more-staff-nurse-pharmacist",
+    "title": "DHS Ramgarh Recruitment 2026 – More, Staff Nurse, Pharmacist Posts",
+    "shortInfo": "DHS Ramgarh has announced notification for More, Staff Nurse, Pharmacist posts. Required qualification: PG Diploma, GNM, Post Graduate, B.Sc, ANM, M.Phil/Ph.D, BCA, 12TH, Diploma, Graduate. Last date to apply: 27-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "32",
+    "lastDate": "27-11-26",
+    "officialWebsite": "https://cdn.s3waas.gov.in/s3e165421110ba03099a1c0393373c5b43/uploads/2026/11/17938706374462.pdf",
+    "notificationLink": "https://cdn.s3waas.gov.in/s3e165421110ba03099a1c0393373c5b43/uploads/2026/11/17938706374462.pdf",
+    "applyOnlineLink": "https://cdn.s3waas.gov.in/s3e165421110ba03099a1c0393373c5b43/uploads/2026/11/17938706374462.pdf",
+    "state": "Jharkhand",
+    "stateCode": "jharkhand",
+    "scrapedAt": "2026-11-06"
+  },
+  {
     "id": "jharkhand-nlc-graduate-executive-trainee",
     "title": "NLC Recruitment 2026 – Graduate Executive Trainee Posts",
     "shortInfo": "NLC has announced notification for Graduate Executive Trainee posts. Required qualification: B.E/B.Tech in Mechanical/Electrical/Civil/Mining. Last date to apply: 14-12-26.",
@@ -1046,23 +1609,6 @@
     "scrapedAt": "2026-11-06"
   },
   {
-    "id": "jharkhand-kv meghahatuburu-post-graduate-teacher-history-",
-    "title": "KV Meghahatuburu Recruitment 2026 – Post Graduate Teacher (History) Posts",
-    "shortInfo": "KV Meghahatuburu has announced notification for Post Graduate Teacher (History) posts. Required qualification: M.Ed, B.Ed. Last date to apply: 04-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "04-11-26",
-    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3kv056c97ca5f37995f5e921ace70ec78/uploads/2026/10/2026102854.pdf",
-    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3kv056c97ca5f37995f5e921ace70ec78/uploads/2026/10/2026102854.pdf",
-    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3kv056c97ca5f37995f5e921ace70ec78/uploads/2026/10/2026102854.pdf",
-    "state": "Jharkhand",
-    "stateCode": "jharkhand",
-    "scrapedAt": "2026-11-06"
-  },
-  {
     "id": "jharkhand-jhalsa-permanent-lok-adalat-chairman",
     "title": "JHALSA Recruitment 2026 – Permanent Lok Adalat, Chairman Posts",
     "shortInfo": "JHALSA has announced notification for Permanent Lok Adalat, Chairman posts. Required qualification: Retired Staff. Last date to apply: 04-01-27.",
@@ -1194,23 +1740,6 @@
     "officialWebsite": "https://www.sainikschooltilaiya.org/wp-content/uploads/2026/04/Vacancy-Advertisement.pdf",
     "notificationLink": "https://www.sainikschooltilaiya.org/wp-content/uploads/2026/04/Vacancy-Advertisement.pdf",
     "applyOnlineLink": "https://www.sainikschooltilaiya.org/wp-content/uploads/2026/04/Vacancy-Advertisement.pdf",
-    "state": "Jharkhand",
-    "stateCode": "jharkhand",
-    "scrapedAt": "2026-11-06"
-  },
-  {
-    "id": "jharkhand-civil surgeon office dhanbad-dentist-specialist-medical-officer",
-    "title": "Civil Surgeon Office Dhanbad Recruitment 2026 – Dentist, Specialist Medical Officer Posts",
-    "shortInfo": "Civil Surgeon Office Dhanbad has announced notification for Dentist, Specialist Medical Officer posts. Required qualification: BDS, Diploma, MS/MD, MBBS. Last date to apply: 04-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "6",
-    "lastDate": "04-11-26",
-    "officialWebsite": "https://cdn.s3waas.gov.in/s337f0e884fbad9667e38940169d0a3c95/uploads/17928278216167.pdf",
-    "notificationLink": "https://cdn.s3waas.gov.in/s337f0e884fbad9667e38940169d0a3c95/uploads/17928278216167.pdf",
-    "applyOnlineLink": "https://cdn.s3waas.gov.in/s337f0e884fbad9667e38940169d0a3c95/uploads/17928278216167.pdf",
     "state": "Jharkhand",
     "stateCode": "jharkhand",
     "scrapedAt": "2026-11-06"

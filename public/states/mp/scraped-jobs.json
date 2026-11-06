@@ -14,7 +14,7 @@
     "applyOnlineLink": "https://hindustancopper.com/ITIApplicationmcp/Login/145",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "Fee",
@@ -200,7 +200,7 @@
     "applyOnlineLink": "https://nats.education.gov.in/index.php",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "Fee",
@@ -252,7 +252,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/inbraoct26/",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General/OBC/EWS candidates",
@@ -296,21 +296,72 @@
     ]
   },
   {
-    "id": "mp-kv agar malwa-tgt-vocational-instructor-primary-teacher",
-    "title": "KV Agar Malwa Recruitment 2026 – TGT, Vocational Instructor, Primary Teacher Posts",
-    "shortInfo": "KV Agar Malwa has announced notification for TGT, Vocational Instructor, Primary Teacher posts. Required qualification: 12TH, B.Sc, B.Tech/B.E, Graduate, M.E/M.Tech, Intermediate. Last date to apply: 04-11-26.",
+    "id": "mp-district legal services authority, jhabua-para-legal-volunteer",
+    "title": "District Legal Services Authority, Jhabua Recruitment 2026 – Para Legal Volunteer Posts",
+    "shortInfo": "District Legal Services Authority, Jhabua has announced notification for Para Legal Volunteer posts. Required qualification: 12TH. Last date to apply: 25-11-26.",
     "category": "Others",
     "categoryIcon": "🏢",
     "categoryMarathi": "Others",
     "district": "State Level",
-    "vacancies": "3",
-    "lastDate": "04-11-26",
-    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3kv0332bf150958c9cc137338a00c322d/uploads/2026/11/2026110229.pdf",
-    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3kv0332bf150958c9cc137338a00c322d/uploads/2026/11/2026110229.pdf",
-    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3kv0332bf150958c9cc137338a00c322d/uploads/2026/11/2026110229.pdf",
+    "vacancies": "1",
+    "lastDate": "25-11-26",
+    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3ec052b346a0aa375a07f5a90a344a614/uploads/2026/11/2026110454.pdf",
+    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec052b346a0aa375a07f5a90a344a614/uploads/2026/11/2026110454.pdf",
+    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec052b346a0aa375a07f5a90a344a614/uploads/2026/11/2026110454.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "mp-iiser bhopal-project-scientist",
+    "title": "IISER Bhopal Recruitment 2026 – Project Scientist Posts",
+    "shortInfo": "IISER Bhopal has announced notification for Project Scientist posts. Required qualification: M.Phil/Ph.D. Last date to apply: 10-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "10-11-26",
+    "officialWebsite": "https://www.iiserb.ac.in/assets_external/vacancy/r&#038;d/04f67f429b3a69cb25aa2752f64ddba5.docx",
+    "notificationLink": "https://www.iiserb.ac.in/assets_external/vacancy/r&#038;d/04f67f429b3a69cb25aa2752f64ddba5.docx",
+    "applyOnlineLink": "https://www.iiserb.ac.in/assets_external/vacancy/r&#038;d/04f67f429b3a69cb25aa2752f64ddba5.docx",
+    "state": "Madhya Pradesh",
+    "stateCode": "mp",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "mp-abv-iiitm-efpdf-and-ipdf",
+    "title": "ABV-IIITM Recruitment 2026 – EFPDF and IPDF Posts",
+    "shortInfo": "ABV-IIITM has announced notification for EFPDF and IPDF posts. Required qualification: M.Phil/Ph.D, Graduate. Last date to apply: 14-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "14-12-26",
+    "officialWebsite": "https://iiitm.ac.in/public/recruitments/attachments/dLY6EDcpRncpUvUsZf1sdyo8fXvQKoowB7KTNiEe.pdf",
+    "notificationLink": "https://iiitm.ac.in/public/recruitments/attachments/dLY6EDcpRncpUvUsZf1sdyo8fXvQKoowB7KTNiEe.pdf",
+    "applyOnlineLink": "https://iiitm.ac.in/public/recruitments/attachments/dLY6EDcpRncpUvUsZf1sdyo8fXvQKoowB7KTNiEe.pdf",
+    "state": "Madhya Pradesh",
+    "stateCode": "mp",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "mp-echs-ayurveda-pharmacist-ayurveda-doctor",
+    "title": "ECHS Recruitment 2026 – Ayurveda Pharmacist, Ayurveda Doctor Posts",
+    "shortInfo": "ECHS has announced notification for Ayurveda Pharmacist, Ayurveda Doctor posts. Required qualification: Diploma, BAMS, B.Pharma, D.Pharm. Last date to apply: 14-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "14-11-26",
+    "officialWebsite": "https://www.echs.gov.in/assets/advertisement/Advt%20of%20stn%20hq%20bhopal.pdf",
+    "notificationLink": "https://www.echs.gov.in/assets/advertisement/Advt%20of%20stn%20hq%20bhopal.pdf",
+    "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/Advt%20of%20stn%20hq%20bhopal.pdf",
+    "state": "Madhya Pradesh",
+    "stateCode": "mp",
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-igntu-field-investigator",
@@ -327,7 +378,7 @@
     "applyOnlineLink": "https://portal.igntu.ac.in/upload/notices/Recruitment_Notice/e7ab6e06-50c9-4d21-875e-80573e4e75f2.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-abv-iiitm-research-assistant-intern",
@@ -344,7 +395,7 @@
     "applyOnlineLink": "https://iiitm.ac.in/public/recruitments/attachments/rnEpZ6iGgBYjtRWllSqvbKBAPBS1vbohGvkBzdvJ.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-iit indore-assistant-general-manager-chief-manager-engagement",
@@ -361,7 +412,7 @@
     "applyOnlineLink": "https://www.iiti.ac.in/uploads/career/2026/Nov/b2014364e4483250c14f728e96807436.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-kvs morena-yoga-teacher-special-educator-tgt",
@@ -378,7 +429,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3kv036e74da7ea2cc4d3f7a5536fd2a60/uploads/2026/11/2026110120.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-iit indore-junior-research-fellow",
@@ -395,7 +446,7 @@
     "applyOnlineLink": "https://vikramuniv.ac.in/uploads/gallery/media/1793463852-6017100206ae6162c7ead9!jrf%20adv%2030%20oct%20(1)%20(1).pdf?1793463852=",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-abv-iiitm-junior-assistant-junior-technician",
@@ -412,7 +463,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/abv-iiitm-gwalior-non-teaching-recruitment-2026/",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General/OBC/EWS",
@@ -475,7 +526,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aees-teacher-recruitment-2026/",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General/OBC/EWS (Application Fee + Processing Fee)",
@@ -689,23 +740,6 @@
     ]
   },
   {
-    "id": "mp-rcil-cyber-security-expert-walk-in-",
-    "title": "RCIL Recruitment 2026 – Cyber Security Expert (Walk-in) Posts",
-    "shortInfo": "RCIL has announced notification for Cyber Security Expert (Walk-in) posts. Required qualification: MCA, B.Tech/B.E. Last date to apply: 04-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "04-11-26",
-    "officialWebsite": "https://www.railtel.in/images/careers/Vacancy%20Notification%20Dt-22.10.2026.pdf",
-    "notificationLink": "https://www.railtel.in/images/careers/Vacancy%20Notification%20Dt-22.10.2026.pdf",
-    "applyOnlineLink": "https://www.railtel.in/images/careers/Vacancy%20Notification%20Dt-22.10.2026.pdf",
-    "state": "Madhya Pradesh",
-    "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
-  },
-  {
     "id": "mp-aiims bhopal-project-research-scientist-i-non-medical-",
     "title": "AIIMS Bhopal Recruitment 2026 – Project Research Scientist-I (Non-Medical) Posts",
     "shortInfo": "AIIMS Bhopal has announced notification for Project Research Scientist-I (Non-Medical) posts. Required qualification: M.Phil/Ph.D, Post Graduate. Last date to apply: 16-11-26.",
@@ -720,7 +754,7 @@
     "applyOnlineLink": "https://www.aiimsbhopal.edu.in/AIIMSFiles/career/jonUnderProject/Download/Ad_TB-HIV_merged.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-aiims bhopal-senior-resident-non-academic-",
@@ -737,7 +771,7 @@
     "applyOnlineLink": "https://www.aiimsbhopal.edu.in/AIIMSFiles/career/Download/Advertisement_details31102026.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-davv-visiting-faculty",
@@ -754,7 +788,7 @@
     "applyOnlineLink": "https://www.dauniv.ac.in/public/frontassets/notices/VF-Advt-30-10-26.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-dhgsv-curator",
@@ -771,7 +805,7 @@
     "applyOnlineLink": "https://dhsgsu.edu.in/images/2026/October-26/30/Advertisement-Curator---2026-Final.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-iiitm gwalior-junior-technician-junior-assistant",
@@ -788,7 +822,7 @@
     "applyOnlineLink": "https://iiitm.ac.in/public/recruitments/attachments/o5auhsxYdOjfVjfCknuU6YmrvmZc7Lj5xfvwrlLs.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-aiims bhopal-project-technical-support-and-more-office-helper",
@@ -805,7 +839,7 @@
     "applyOnlineLink": "https://www.aiimsbhopal.edu.in/AIIMSFiles/career/jonUnderProject/Download/Advertisement_for_Zoonotic_Staff.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-mppgcl-fitter-and-more-electrician",
@@ -822,7 +856,7 @@
     "applyOnlineLink": "https://mppgcl.mp.gov.in/CAREER/ITI_APPRENTICE_ADVT_ATPS_MPPGCL_CHACHAI_441_21102026.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-rvskvv-senior-scientist-and-more-chief-scientist",
@@ -839,7 +873,7 @@
     "applyOnlineLink": "https://rvskvv.net/images/Vacancies/Advt.%20No%2040-%20AICRP.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-nitttr bhopal-post-doctoral-fellow",
@@ -856,7 +890,7 @@
     "applyOnlineLink": "https://nitttrbpl.ac.in/vacancy26_27/advertisement%20for%20the%20Postdoctoral%20Fellowships%20in%20Bhartiy%20Gyan%20Parampra.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-mppgcl-civil-engineer-equivalent-to-ee-civil-",
@@ -873,7 +907,7 @@
     "applyOnlineLink": "https://mppgcl.mp.gov.in/CAREER/EOI_EXPERT_CIVIL_ENGG_CEC_05.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-aiims bhopal-multitasking-staff",
@@ -890,7 +924,7 @@
     "applyOnlineLink": "https://www.aiimsbhopal.edu.in/AIIMSFiles/career/jonUnderProject/Download/PRIMED_-Advt-MTS-V1.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-aiims bhopal-multitasking-staff",
@@ -907,7 +941,7 @@
     "applyOnlineLink": "https://www.aiimsbhopal.edu.in/AIIMSFiles/career/jonUnderProject/Download/PRIMED_-Advt-MTS-V1.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-aiims bhopal-junior-resident",
@@ -924,7 +958,7 @@
     "applyOnlineLink": "https://www.aiimsbhopal.edu.in/AIIMSFiles/career/Download/Advertisement_JR_27102026.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-dlsa barwani-part-time-sweeper",
@@ -941,7 +975,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec05a8166da05c5a094f7dc03724b418/uploads/2026/10/2026102652.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-iit indore-project-executive",
@@ -958,7 +992,7 @@
     "applyOnlineLink": "https://www.iiti.ac.in/uploads/career/2026/Oct/7b965e7d1ad8830b1c4ccfcc3558139e.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-iiitdm jabalpur-project-assistant",
@@ -975,7 +1009,7 @@
     "applyOnlineLink": "https://www.iiitdmj.ac.in/jobs/download/JRF/Project_Assistant.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-aiims bhopal-project-technical-assistant",
@@ -992,7 +1026,7 @@
     "applyOnlineLink": "https://www.aiimsbhopal.edu.in/AIIMSFiles/career/jonUnderProject/Download/DHR_HTA_AMS_IPC_Dr._Sagar_26_Oct_2026_.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-igntu-field-investigator-research-assistant",
@@ -1009,7 +1043,7 @@
     "applyOnlineLink": "https://portal.igntu.ac.in/upload/notices/Recruitment_Notice/73e316b9-1ff5-4f5c-a1c0-31fccb796fc1.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-icmr nithr-project-nurse-lab-technician-and-more-walk-in-",
@@ -1026,7 +1060,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/icmr-nithr-recruitment-2026/",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "Fee",
@@ -1168,7 +1202,7 @@
     "applyOnlineLink": "https://ghconline.gov.in/Recruitment/Notification-22-10-2026-1.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-iifm-stenographer-grade-ii",
@@ -1185,7 +1219,7 @@
     "applyOnlineLink": "https://iifm.ac.in/uploads/files/ADVTSTENO.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-iifm-assistant-manager-assistant",
@@ -1202,7 +1236,7 @@
     "applyOnlineLink": "https://iifm.ac.in/uploads/files/ADVTDEPU.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-rvnl-executive-director",
@@ -1219,7 +1253,7 @@
     "applyOnlineLink": "https://rvnl.org/RVNL_cms/uploads/careers/64_civil.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-abvtcds-accountant",
@@ -1236,96 +1270,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ee8fe9093fbbb687bef15a38facc44d2/uploads/2024/12/20241212553878328.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "mp-manit-junior-research-fellow",
-    "title": "MANIT Recruitment 2026 – Junior Research Fellow Posts",
-    "shortInfo": "MANIT has announced notification for Junior Research Fellow posts. Required qualification: B.Tech/B.E. Last date to apply: 03-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "03-11-26",
-    "officialWebsite": "https://www.manit.ac.in/sites/default/files/documents/MANIT_MPCST_JRF_0.pdf",
-    "notificationLink": "https://www.manit.ac.in/sites/default/files/documents/MANIT_MPCST_JRF_0.pdf",
-    "applyOnlineLink": "https://www.manit.ac.in/sites/default/files/documents/MANIT_MPCST_JRF_0.pdf",
-    "state": "Madhya Pradesh",
-    "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "mp-lic hfl-apprentice",
-    "title": "LIC HFL Recruitment 2026 – Apprentice Posts",
-    "shortInfo": "LIC HFL has announced notification for Apprentice posts. Required qualification: Graduation in any stream. Last date to apply: 01-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "232",
-    "lastDate": "01-11-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
-    "notificationLink": "https://cdn.lichousing.com/2026/10/Apprentecis-Advertisement-Notification-Batch-10.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
-    "state": "Madhya Pradesh",
-    "stateCode": "mp",
-    "scrapedAt": "2026-11-05",
-    "fees": [
-      {
-        "category": "Scheduled Caste (SC) / Scheduled Tribe (ST) candidates",
-        "fee": "Rs. 200/- plus GST"
-      },
-      {
-        "category": "Person with Benchmark Disability (PwBD) candidates",
-        "fee": "Rs. 200/- plus GST"
-      },
-      {
-        "category": "General, EWS and Other Backward Class (OBC) - Male candidates",
-        "fee": "Rs. 800/- plus GST"
-      },
-      {
-        "category": "General, EWS and Other Backward Class (OBC) - Female / Transgender candidates",
-        "fee": "Rs. 600/- plus GST"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Application Start Date",
-        "date": "20/10/2026"
-      },
-      {
-        "event": "Last Date to Apply & Pay Examination Fee",
-        "date": "01/11/2026"
-      },
-      {
-        "event": "Entrance Examination Date",
-        "date": "07/11/2026"
-      },
-      {
-        "event": "Document Verification & Personal Interview",
-        "date": "15/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Apprentice",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Candidates must first mandatorily register themselves on the NATS portal (https://nats.education.gov.in) by navigating to the ‘Student Register/Login’ section.",
-      "After registration, candidates will receive an email from BFSI SSC inviting them to fill up a detailed application and make payment for the Online Examination for ‘LIC HFL Apprenticeship Program’.",
-      "Visit https://beep.bfsissc.com to submit additional information and make the examination fee payment before 01-Nov-2026.",
-      "Note your Enrolment ID issued by the NATS portal for all future correspondence.",
-      "All eligible applicants who have paid the examination fee will receive an online examination link and login credentials from BFSI SSC on the day before the examination date.",
-      "Appear for the online remote proctored examination on 07-Nov-2026 from home using a camera-enabled device with good internet connectivity.",
-      "Shortlisted candidates will be invited for Document Verification &amp; Personal Interview at LIC HFL offices on 15-Nov-2026.",
-      "Final selected candidates will receive engagement letters from LIC HFL tentatively in the 3rd week of November."
-    ]
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-davv-visiting-faculty",
@@ -1342,7 +1287,7 @@
     "applyOnlineLink": "https://www.dauniv.ac.in/public/frontassets/notices/visiting-faculty-physics.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-bhel-fitter-welder-turner-machinist-electrician-electro",
@@ -1359,7 +1304,7 @@
     "applyOnlineLink": "https://cdn.digialm.com/EForms/configuredHtml/33192/102813/o0zKIYO3CqWa8uMPmN/login.html",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "UR/EWS/OBC",
@@ -1462,7 +1407,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/irel-tradesman-trainee-recruitment-2026/",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "UR / EWS / OBC (NCL) candidates",
@@ -1541,58 +1486,7 @@
     "applyOnlineLink": "https://iforms.mponline.gov.in/Form/ViewDocs?rt=RuleBooks/285",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "mp-mpbou-ombudsperson",
-    "title": "MPBOU Recruitment 2026 – Ombudsperson Posts",
-    "shortInfo": "MPBOU has announced notification for Ombudsperson posts. Required qualification: Retired Staff. Last date to apply: 03-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "03-11-26",
-    "officialWebsite": "https://mpbou.edu.in/uploads/documents/Form_Lokpal_MPBOU_2026%20(1)_f3d178917f3b4e2b90ff00b35041df05.pdf",
-    "notificationLink": "https://mpbou.edu.in/uploads/documents/Form_Lokpal_MPBOU_2026%20(1)_f3d178917f3b4e2b90ff00b35041df05.pdf",
-    "applyOnlineLink": "https://mpbou.edu.in/uploads/documents/Form_Lokpal_MPBOU_2026%20(1)_f3d178917f3b4e2b90ff00b35041df05.pdf",
-    "state": "Madhya Pradesh",
-    "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "mp-aiims bhopal-project-research-scientist-ii-project-technical-su",
-    "title": "AIIMS Bhopal Recruitment 2026 – Project Research Scientist II, Project Technical Support III Posts",
-    "shortInfo": "AIIMS Bhopal has announced notification for Project Research Scientist II, Project Technical Support III posts. Required qualification: Any Graduate, B.Tech/B.E. Last date to apply: 03-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "2",
-    "lastDate": "03-11-26",
-    "officialWebsite": "https://www.aiimsbhopal.edu.in/AIIMSFiles/career/jonUnderProject/Download/Advertisement_For_ICMR_AI-ML_Project_.pdf",
-    "notificationLink": "https://www.aiimsbhopal.edu.in/AIIMSFiles/career/jonUnderProject/Download/Advertisement_For_ICMR_AI-ML_Project_.pdf",
-    "applyOnlineLink": "https://www.aiimsbhopal.edu.in/AIIMSFiles/career/jonUnderProject/Download/Advertisement_For_ICMR_AI-ML_Project_.pdf",
-    "state": "Madhya Pradesh",
-    "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "mp-iiitdm jabalpur-junior-research-fellow",
-    "title": "IIITDM Jabalpur Recruitment 2026 – Junior Research Fellow Posts",
-    "shortInfo": "IIITDM Jabalpur has announced notification for Junior Research Fellow posts. Required qualification: M.E/M.Tech, B.Tech/B.E. Last date to apply: 02-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "02-11-26",
-    "officialWebsite": "https://www.iiitdmj.ac.in/jobs/download/JRF/Advertisement-Oct-2026_PMECRG-SKT-12102026.pdf",
-    "notificationLink": "https://www.iiitdmj.ac.in/jobs/download/JRF/Advertisement-Oct-2026_PMECRG-SKT-12102026.pdf",
-    "applyOnlineLink": "https://www.iiitdmj.ac.in/jobs/download/JRF/Advertisement-Oct-2026_PMECRG-SKT-12102026.pdf",
-    "state": "Madhya Pradesh",
-    "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-mppsc-law-officer",
@@ -1609,24 +1503,7 @@
     "applyOnlineLink": "https://mppsc.mp.gov.in/uploads/advertisement/Advt_Law_Officer_Exam_2026_Dated_08_10_2026.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "mp-manit bhopal-professor-of-practice-visiting-professor",
-    "title": "MANIT Bhopal Recruitment 2026 – Professor of Practice, Visiting Professor Posts",
-    "shortInfo": "MANIT Bhopal has announced notification for Professor of Practice, Visiting Professor posts. Required qualification: M.Phil/Ph.D. Last date to apply: 02-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "02-11-26",
-    "officialWebsite": "https://www.manit.ac.in/sites/default/files/documents/PoP_ad.pdf",
-    "notificationLink": "https://www.manit.ac.in/sites/default/files/documents/PoP_ad.pdf",
-    "applyOnlineLink": "https://www.manit.ac.in/sites/default/files/documents/PoP_ad.pdf",
-    "state": "Madhya Pradesh",
-    "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-csir ampri-technical-officer-security-officer-security-assist",
@@ -1643,7 +1520,7 @@
     "applyOnlineLink": "https://ampri.res.in/en/?page_id=12066",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General/OBC/EWS (per post code)",
@@ -1787,7 +1664,7 @@
     "applyOnlineLink": "https://mppgcl.mp.gov.in/CAREER/APPRENTICE_ADVT_GSHPS_MPPGCL_872_DATED_29092026.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "mp-iit indore-research-associate",
@@ -1804,113 +1681,6 @@
     "applyOnlineLink": "https://www.iiti.ac.in/uploads/career/2026/Oct/263022d3fbd6ffcbf2d66b4cdbd9c320.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "mp-iocl western region-trade-apprentice-technician-apprentice-graduate-ap",
-    "title": "IOCL Western Region Recruitment 2026 – Trade Apprentice, Technician Apprentice, Graduate Apprentice Posts",
-    "shortInfo": "IOCL Western Region has announced notification for Trade Apprentice, Technician Apprentice, Graduate Apprentice posts. Required qualification: Diploma, ITI, Graduate, 12th. Last date to apply: 04-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "335",
-    "lastDate": "04-11-26",
-    "officialWebsite": "https://www.iocl.com/apprenticeships",
-    "notificationLink": "https://iocl.com/admin/img/Apprenticeships/Files/9a19f255f8db433b8e3b10a3bced73e1.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/iocl-wr-apprentice-recruitment-2026/",
-    "state": "Madhya Pradesh",
-    "stateCode": "mp",
-    "scrapedAt": "2026-11-05",
-    "fees": [
-      {
-        "category": "Fee",
-        "fee": "Not Mentioned"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Online Application Start",
-        "date": "05/10/2026"
-      },
-      {
-        "event": "Last Date to Apply",
-        "date": "04/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Technician Apprentice (Diploma)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Graduate Apprentice",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Trade Apprentice (ITI)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Trade Apprentice – Data Entry Operator",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Candidates must register on NAPS/NATS portal as per their trade: Trade Apprentice (ITI/Data Entry Operator) at https://www.apprenticeshipindia.gov.in/ | Technician Apprentice (Diploma) and Graduate Apprentice at https://nats.education.gov.in/student_register.php",
-      "Login to the respective NATS/NAPS portal using User ID/Email ID and apply for the apprenticeship openings with Establishment ID: NATS – WMHMCC000053 | NAPS – E01172700332",
-      "Ensure your profile is 100% complete (Personal Details, Educational Details, Category, etc.).",
-      "Apply for ANY ONE DISCIPLINE CODE ONLY. Applying for more than one discipline code will result in rejection.",
-      "Apply only against vacancies notified under the states of Western Region (Maharashtra, Gujarat, Goa, Madhya Pradesh, Chhattisgarh, UT of Daman &amp; Diu, UT of Dadra &amp; Nagar Haveli).",
-      "Online application window: 05.10.2026 (10:00 AM) to 04.11.2026 (5:00 PM).",
-      "Ensure active email ID and mobile number are provided and maintained throughout the process.",
-      "Keep scanned copies of educational qualification certificates, PAN Card, Aadhaar Card, and Bank Account details ready."
-    ]
-  },
-  {
-    "id": "mp-iiser bhopal-junior-research-fellow-j-r-f-",
-    "title": "IISER Bhopal Recruitment 2026 – Junior Research Fellow (J.R.F.) Posts",
-    "shortInfo": "IISER Bhopal has announced notification for Junior Research Fellow (J.R.F.) posts. Required qualification: Any Post Graduate. Last date to apply: 04-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "2",
-    "lastDate": "04-11-26",
-    "officialWebsite": "https://www.iiserb.ac.in/assets_external/vacancy/r&#038;d/4889fe3b73894e9ba933f42bc408362d.pdf",
-    "notificationLink": "https://www.iiserb.ac.in/assets_external/vacancy/r&#038;d/4889fe3b73894e9ba933f42bc408362d.pdf",
-    "applyOnlineLink": "https://www.iiserb.ac.in/assets_external/vacancy/r&#038;d/4889fe3b73894e9ba933f42bc408362d.pdf",
-    "state": "Madhya Pradesh",
-    "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "mp-trai-assistant",
-    "title": "TRAI Recruitment 2026 – Assistant Posts",
-    "shortInfo": "TRAI has announced notification for Assistant posts. Required qualification: Not Specified. Last date to apply: 03-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "03-11-26",
-    "officialWebsite": "https://trai.gov.in/sites/default/files/2026-09/Vacancy_Asst_25092026.pdf",
-    "notificationLink": "https://trai.gov.in/sites/default/files/2026-09/Vacancy_Asst_25092026.pdf",
-    "applyOnlineLink": "https://trai.gov.in/sites/default/files/2026-09/Vacancy_Asst_25092026.pdf",
-    "state": "Madhya Pradesh",
-    "stateCode": "mp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   }
 ]

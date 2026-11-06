@@ -1,5 +1,413 @@
 [
   {
+    "id": "andhra-sdsc shar-apprentice-engineering-graduate-non-engineering-gr",
+    "title": "SDSC SHAR Recruitment 2026 – Apprentice (Engineering Graduate, Non-Engineering Graduate, Technician, Diploma DCCP, Trade, Vocational) Posts",
+    "shortInfo": "SDSC SHAR has announced notification for Apprentice (Engineering Graduate, Non-Engineering Graduate, Technician, Diploma DCCP, Trade, Vocational) posts. Required qualification: B.E./B.Tech/B.Sc/B.Com/B.A, Diploma, SSLC/SSC+ITI/NTC, Vocational Certificate. Last date to apply: 26-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "400",
+    "lastDate": "26-11-26",
+    "officialWebsite": "https://www.shar.gov.in/sdscshar/index.jsp",
+    "notificationLink": "https://apps.shar.gov.in/sdscshar/apprentice/Apprenticeship2026.pdf",
+    "applyOnlineLink": "https://apps.shar.gov.in/sdscshar/result1.jsp",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-11-06",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening Date for Online Registration",
+        "date": "06/11/2026"
+      },
+      {
+        "event": "Closing Date for Online Registration",
+        "date": "26/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Engineering Graduate Apprentice - Mechanical/Aerospace/Production/Industrial Engineering",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Engineering Graduate Apprentice - Electronics (ECE/EIE/ICE/ETE)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Engineering Graduate Apprentice - Electrical/EEE",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Engineering Graduate Apprentice - Computer Science (CSE/IT/AI&ML/DS/CS)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Engineering Graduate Apprentice - Civil",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Engineering Graduate Apprentice - Chemical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Non-Engineering Graduate Apprentice - Science",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Non-Engineering Graduate Apprentice - Commerce",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Non-Engineering Graduate Apprentice - Arts",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice (Diploma) - Mechanical/Aerospace",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice (Diploma) - Electronics (ECE/EIE/ICE/ETE)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice (Diploma) - Electrical & Electronics (EEE)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice (Diploma) - Computer Science (CSE/IT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice (Diploma) - Civil",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice (Diploma) - Chemical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice (Diploma) - Automobile",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice (Diploma) - Photography",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Diploma (DCCP) - Commercial & Computer Practice",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Fitter",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Electrician",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Electronic Mechanic",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Chemical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Refrigeration & Air Conditioning",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Plumber/POCM",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Diesel Mechanic",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Machinist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Turner",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Welder",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Draughtsman (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Draughtsman (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Motor Mechanic",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Vocational Apprentice - Multipurpose Health Worker (MPHW)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Vocational Apprentice - Medical Lab Technician (MLT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Vocational Apprentice - Construction Engineering Technology (CET)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Register on the National Apprenticeship Training Scheme (NATS) portal at https://nats.education.gov.in or National Apprenticeship Promotion Scheme Portal at www.apprenticeship.gov.in.",
+      "While registering, upload soft copies of the Degree/Diploma Certificate (as applicable) and valid government-issued IDs. An Enrolment Number/Apprenticeship Registration No. will be allotted after successful registration.",
+      "Ensure your Aadhar number is seeded with your bank account and enabled for DBT.",
+      "After registering on NATS portal, fill the online application for SDSC SHAR Apprenticeship on UMANG portal at https://web.umang.gov.in/landing/",
+      "Register &amp; Login on UMANG portal &gt;&gt; Search for SDSC SHAR Apprenticeship &gt;&gt; Apply for position &gt;&gt; Fill all required details &gt;&gt; Submit the application.",
+      "Upload relevant supporting documents (10th/SSC, Intermediate, ITI, Diploma, Graduation certificates) in JPG/JPEG/PNG format (not exceeding 1MB).",
+      "Upload scanned copies of photograph and signature as per the format and size mentioned in UMANG portal.",
+      "Applicants belonging to SC/ST/OBC must upload the latest caste certificate issued by the Competent Authority.",
+      "PwBD applicants must upload the disability certificate issued by the Competent Authority.",
+      "Retain a copy of the submitted application for future reference."
+    ]
+  },
+  {
+    "id": "andhra-ap dsc-school-assistant-sa-secondary-grade-teacher-sgt-sa",
+    "title": "AP DSC Recruitment 2026 – School Assistant (SA), Secondary Grade Teacher (SGT), SA (Special Education), SGT (Special Education), Principal, Post Graduate Teacher (PGT), Trained Graduate Teacher (TGT), Physical Director (PD), Physical Education Teacher (PET) Posts",
+    "shortInfo": "AP DSC has announced notification for School Assistant (SA), Secondary Grade Teacher (SGT), SA (Special Education), SGT (Special Education), Principal, Post Graduate Teacher (PGT), Trained Graduate Teacher (TGT), Physical Director (PD), Physical Education Teacher (PET) posts. Required qualification: Intermediate pass, CTET, Graduation, BA.B.ED, B.Sc/B.Ed, BCA, BE/B.Tech, Post Graduation. Last date to apply: 30-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "2721",
+    "lastDate": "30-11-26",
+    "officialWebsite": "https://tet2dsc.apcfss.in",
+    "notificationLink": "https://tet2dsc.apcfss.in/DSC2026/notifications/Societies%20Notification.pdf",
+    "applyOnlineLink": "https://tet2dsc.apcfss.in/DSC2026/DSC_2026%20Suggestive%20Syllabus.pdf",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-11-06",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "₹1000/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Date of Issuing of Notification and Publishing of Information Bulletin DSC-2026",
+        "date": "05/11/2026"
+      },
+      {
+        "event": "Starting Date for Apply Online",
+        "date": "11/11/2026"
+      },
+      {
+        "event": "Closing Date for Apply Online",
+        "date": "30/11/2026"
+      },
+      {
+        "event": "Last Date Payment of Fee",
+        "date": "30/11/2026"
+      },
+      {
+        "event": "Online Mock Test availability for DSC-2026",
+        "date": "05/12/2026"
+      },
+      {
+        "event": "Download of Hall Tickets for DSC-2026",
+        "date": "14/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "School Assistant (SA) - General Schools",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Secondary Grade Teacher (SGT) - General Schools",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "School Assistant - Special Education (SA SE)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Secondary Grade Teacher - Special Education (SGT SE)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Principal - Societies & Other Managements",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Post Graduate Teacher (PGT) - Societies & Other Managements",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trained Graduate Teacher (TGT) - Societies & Other Managements",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Physical Director (PD) - Societies & Other Managements",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Physical Education Teacher (PET) - Societies & Other Managements",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website: https://tet2dsc.apcfss.in",
+      "Read the Detailed Notification (available on or before 03.11.2026) carefully before applying.",
+      "Applications are allowed only through online mode.",
+      "Fill in the online application form with required details.",
+      "Upload necessary documents as specified in the Detailed Notification.",
+      "Pay the application fee (if applicable) as per instructions in the Detailed Notification.",
+      "Submit the application and take a printout for future reference."
+    ]
+  },
+  {
     "id": "andhra-indian bank-apprentice",
     "title": "Indian Bank Recruitment 2026 – Apprentice Posts",
     "shortInfo": "Indian Bank has announced notification for Apprentice posts. Required qualification: Graduate degree in any discipline. Last date to apply: 25-11-26.",
@@ -14,7 +422,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/inbraoct26/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General/OBC/EWS candidates",
@@ -58,6 +466,57 @@
     ]
   },
   {
+    "id": "andhra-iprcl-chief-general-manager-projects-electrical-s-amp-t-",
+    "title": "IPRCL Recruitment 2026 – Chief General Manager (Projects / Electrical / S&amp;T / Mechanical) Posts",
+    "shortInfo": "IPRCL has announced notification for Chief General Manager (Projects / Electrical / S&amp;T / Mechanical) posts. Required qualification: B.Tech/B.E. Last date to apply: 04-12-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "8",
+    "lastDate": "04-12-26",
+    "officialWebsite": "https://iprcl.in/uploads/vacancies/1793800161_VC_No_08-2026_-_CGM_(Projects)_5_Posts,_01-CGM_(Elect),_01-CGM(ST)_and_01-CGM(Mech).pdf",
+    "notificationLink": "https://iprcl.in/uploads/vacancies/1793800161_VC_No_08-2026_-_CGM_(Projects)_5_Posts,_01-CGM_(Elect),_01-CGM(ST)_and_01-CGM(Mech).pdf",
+    "applyOnlineLink": "https://iprcl.in/uploads/vacancies/1793800161_VC_No_08-2026_-_CGM_(Projects)_5_Posts,_01-CGM_(Elect),_01-CGM(ST)_and_01-CGM(Mech).pdf",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "andhra-angrau-medical-officer",
+    "title": "ANGRAU Recruitment 2026 – Medical Officer Posts",
+    "shortInfo": "ANGRAU has announced notification for Medical Officer posts. Required qualification: MBBS. Last date to apply: 12-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "12-11-26",
+    "officialWebsite": "https://angrau.ac.in/UPLOADS/CareersPDFs/MedicalOfficer_WII_CCS.pdf",
+    "notificationLink": "https://angrau.ac.in/UPLOADS/CareersPDFs/MedicalOfficer_WII_CCS.pdf",
+    "applyOnlineLink": "https://angrau.ac.in/UPLOADS/CareersPDFs/MedicalOfficer_WII_CCS.pdf",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "andhra-icar cmfri-young-professional-i",
+    "title": "ICAR CMFRI Recruitment 2026 – Young Professional-I Posts",
+    "shortInfo": "ICAR CMFRI has announced notification for Young Professional-I posts. Required qualification: B.B.A, B.A, B.Sc, Graduate, B.Com. Last date to apply: 25-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "25-11-26",
+    "officialWebsite": "https://cmfri.org.in/uploads/jobs/career_6aeaba1ea20d9.pdf",
+    "notificationLink": "https://cmfri.org.in/uploads/jobs/career_6aeaba1ea20d9.pdf",
+    "applyOnlineLink": "https://cmfri.org.in/uploads/jobs/career_6aeaba1ea20d9.pdf",
+    "state": "Andhra Pradesh",
+    "stateCode": "andhra",
+    "scrapedAt": "2026-11-06"
+  },
+  {
     "id": "andhra-appsc-hostel-welfare-officer-grade-ii-last-date-extended",
     "title": "APPSC Recruitment 2026 – Hostel Welfare Officer Grade-II (Last Date Extended) Posts",
     "shortInfo": "APPSC has announced notification for Hostel Welfare Officer Grade-II (Last Date Extended) posts. Required qualification: Degree Standard. Last date to apply: 09-11-26.",
@@ -72,7 +531,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [],
     "dates": [
       {
@@ -134,7 +593,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "Fee",
@@ -188,7 +647,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "Fee",
@@ -241,7 +700,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General/OC Candidates (Application Fee + Processing Fee)",
@@ -391,7 +850,7 @@
     "applyOnlineLink": "https://apgenco.gov.in/asset/docs/file1/reservoirupload_261103_1e65040d77567934e4ffed55c656a3cc.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "andhra-rites-senior-technical-assistant",
@@ -408,7 +867,7 @@
     "applyOnlineLink": "https://recruit.rites.com/frmRegistration.aspx",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General/OBC Candidates",
@@ -470,7 +929,7 @@
     "applyOnlineLink": "https://vizagport.com/Template/navigateTemplate/gnt/Q2FyZWVycw==",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "andhra-aees-principal-pgt-prt-tgt-balvatika-teacher-librarian-",
@@ -487,7 +946,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aees-teacher-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General/OBC/EWS (Application Fee + Processing Fee)",
@@ -715,7 +1174,7 @@
     "applyOnlineLink": "https://tmc.gov.in/postmaster/DownloadFile.aspx?FileId=2539",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "andhra-aiims mangalagiri-senior-resident-senior-demonstrator",
@@ -732,7 +1191,7 @@
     "applyOnlineLink": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/10/Advertisement-for-recruitment-of-Senior-Residents-Senior-Demonstrators-at-AIIMS-Mangalagiri-Oct-2026-1.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "andhra-aiims mangalagiri-tutor-demonstrator",
@@ -749,7 +1208,7 @@
     "applyOnlineLink": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/10/Advertisement-for-recruitment-of-Tutors.-Demonstrators-on-contractual-basis-October-2026.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "andhra-dlsa krishna-driver",
@@ -766,24 +1225,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec015a01f0597ac4bdf35c24846734ee/uploads/2026/10/2026103072.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "andhra-prakasam dccb-medical-officer",
-    "title": "Prakasam DCCB Recruitment 2026 – Medical Officer Posts",
-    "shortInfo": "Prakasam DCCB has announced notification for Medical Officer posts. Required qualification: MBBS. Last date to apply: 02-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "-",
-    "lastDate": "02-11-26",
-    "officialWebsite": "https://prakasamdccb.bank.in/wp-content/uploads/2026/10/medical-officer.pdf",
-    "notificationLink": "https://prakasamdccb.bank.in/wp-content/uploads/2026/10/medical-officer.pdf",
-    "applyOnlineLink": "https://prakasamdccb.bank.in/wp-content/uploads/2026/10/medical-officer.pdf",
-    "state": "Andhra Pradesh",
-    "stateCode": "andhra",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "andhra-vpa-dy-chief-vigilance-officer-cl-i-",
@@ -800,7 +1242,7 @@
     "applyOnlineLink": "https://vpt.shipping.gov.in/admin_assets/uploads/1793357416_Notification_Dt_30102026_of_DCVO.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "andhra-aiims mangalagiri-anatomy-pharmacology",
@@ -817,7 +1259,7 @@
     "applyOnlineLink": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/10/Advertisement-for-recruitment-of-Tutors.-Demonstrators-on-contractual-basis-October-2026.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "andhra-spa vijayawada-assistant-professor",
@@ -834,7 +1276,7 @@
     "applyOnlineLink": "https://spav.ac.in/2026/recruit/Engagement%20of%20Contractual%20Faculty%20for%20Architecture%20Department.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "andhra-district legal services authority, kurnool-typist-cum-assistant",
@@ -851,24 +1293,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec030b6ace9e8971cf36f1782aa982a7/uploads/2026/10/2026102965.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "andhra-tmc-clinical-trial-coordinator",
-    "title": "TMC Recruitment 2026 – Clinical Trial Coordinator Posts",
-    "shortInfo": "TMC has announced notification for Clinical Trial Coordinator posts. Required qualification: M.Pharma, Diploma, B.Pharma, PG Diploma, M.Sc, Any Masters Degree. Last date to apply: 04-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "04-11-26",
-    "officialWebsite": "https://tmc.gov.in/postmaster/ViewFile.aspx?FileId=nDRXw3HqlBR2oV4fCzvT5A==",
-    "notificationLink": "https://tmc.gov.in/postmaster/ViewFile.aspx?FileId=nDRXw3HqlBR2oV4fCzvT5A==",
-    "applyOnlineLink": "https://tmc.gov.in/postmaster/ViewFile.aspx?FileId=nDRXw3HqlBR2oV4fCzvT5A==",
-    "state": "Andhra Pradesh",
-    "stateCode": "andhra",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "andhra-iit tirupati-junior-multimedia-specialist-communication-and-ana",
@@ -885,7 +1310,7 @@
     "applyOnlineLink": "https://files.iittp.ac.in/2026/recruitment/project/AdvtIITTCDO2026-27024.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "andhra-iit tirupati-communication-and-analytics-manager",
@@ -902,7 +1327,7 @@
     "applyOnlineLink": "https://files.iittp.ac.in/2026/recruitment/project/AdvtIITTCDO2026-27024.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "andhra-bel-probationary-engineer",
@@ -919,7 +1344,7 @@
     "applyOnlineLink": "https://g06.tcsion.com/EForms/configuredHtml/33192/103061/uPVtXzjwivanf3RWlN/Index.html",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General (UR)",
@@ -994,7 +1419,7 @@
     "applyOnlineLink": "https://www.amrita.edu/job/assistant-associate-professor-ds-ai-amaravati/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "andhra-district court machilipatnam-stenographer-head-clerk",
@@ -1011,24 +1436,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec015a01f0597ac4bdf35c24846734ee/uploads/2026/10/2026102664.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "andhra-iiit sri city-junior-research-fellow",
-    "title": "IIIT Sri City Recruitment 2026 – Junior Research Fellow Posts",
-    "shortInfo": "IIIT Sri City has announced notification for Junior Research Fellow posts. Required qualification: B.Tech/B.E, M.E/M.Tech. Last date to apply: 01-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "01-11-26",
-    "officialWebsite": "https://iiits.ac.in/iiits-content/uploads/2026/10/RESPOND-ISRO-JRF-Advertisement_Oct-2026.pdf",
-    "notificationLink": "https://iiits.ac.in/iiits-content/uploads/2026/10/RESPOND-ISRO-JRF-Advertisement_Oct-2026.pdf",
-    "applyOnlineLink": "https://iiits.ac.in/iiits-content/uploads/2026/10/RESPOND-ISRO-JRF-Advertisement_Oct-2026.pdf",
-    "state": "Andhra Pradesh",
-    "stateCode": "andhra",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "andhra-aiims mangalagiri-physiotherapist",
@@ -1045,76 +1453,7 @@
     "applyOnlineLink": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/10/Interview-Adv.-@Nov-12th-2026.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "andhra-dcil-trainee-marine-engineer-trainee-electrical-officer",
-    "title": "DCIL Recruitment 2026 – Trainee Marine Engineer, Trainee Electrical Officer, NCVT (Walk-in) Posts",
-    "shortInfo": "DCIL has announced notification for Trainee Marine Engineer, Trainee Electrical Officer, NCVT (Walk-in) posts. Required qualification: Degree, 10th. Last date to apply: 03-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "28",
-    "lastDate": "03-11-26",
-    "officialWebsite": "https://dredge-india.com/",
-    "notificationLink": "https://dredge-india.com/files/WebsiteAdvNo042026.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/dcil-trainee-recruitment-2026/",
-    "state": "Andhra Pradesh",
-    "stateCode": "andhra",
-    "scrapedAt": "2026-11-05",
-    "fees": [
-      {
-        "category": "Fee",
-        "fee": "Not Mentioned"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Last date to send CV (Internal floating staff) to recruitfs@dcil.co.in",
-        "date": "03/11/2026"
-      },
-      {
-        "event": "Walk-in-Interview for Fleet Personnel",
-        "date": "05/11/2026"
-      },
-      {
-        "event": "Walk-in-Interview for Trainee Marine Engineer / Trainee Electrical Officer / NCV(T)s",
-        "date": "06/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Trainee Marine Engineer (TME)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Trainee Electrical Officer (TELO)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "NCV Trainee (NCV(T))",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Download the Bio-data/Application format from DCI website: https://www.dredge-india.com/career or use the prescribed format given in the advertisement.",
-      "Fill in the Bio-data/Application form completely with all required details.",
-      "Collect all original certificates and one set of self-attested photocopies (educational qualifications, caste certificate, COC/CDC/Passport/INDOS/STCW certificates, etc.).",
-      "Appear for the Walk-in-Interview on the scheduled date and time at the respective venue (Visakhapatnam, Kolkata, Chennai, or Kochi).",
-      "Internal floating staff not signed off may appear through online VC mode with the Master’s recommendation and must send their CV with requisite documents to recruitfs@dcil.co.in by 03.11.2026 15:00 Hrs.",
-      "Candidates attending the Walk-in-Interview need NOT apply online.",
-      "Candidates belonging to SC/ST/OBC/EWS must bring the relevant caste/income certificate in the prescribed format."
-    ]
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "andhra-visakhapatnam port authority-senior-deputy-secretary",
@@ -1131,7 +1470,7 @@
     "applyOnlineLink": "https://onlinevacancy.shipmin.nic.in/home/dwnld_advt/658",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "andhra-tmc-senior-resident-walk-in-",
@@ -1148,79 +1487,7 @@
     "applyOnlineLink": "https://tmc.gov.in/postmaster/Details.aspx?adv=TQKhQ1G1eHlutGWC7gZUNQ==",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "andhra-lic hfl-apprentice",
-    "title": "LIC HFL Recruitment 2026 – Apprentice Posts",
-    "shortInfo": "LIC HFL has announced notification for Apprentice posts. Required qualification: Graduation in any stream. Last date to apply: 01-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "232",
-    "lastDate": "01-11-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
-    "notificationLink": "https://cdn.lichousing.com/2026/10/Apprentecis-Advertisement-Notification-Batch-10.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
-    "state": "Andhra Pradesh",
-    "stateCode": "andhra",
-    "scrapedAt": "2026-11-05",
-    "fees": [
-      {
-        "category": "Scheduled Caste (SC) / Scheduled Tribe (ST) candidates",
-        "fee": "Rs. 200/- plus GST"
-      },
-      {
-        "category": "Person with Benchmark Disability (PwBD) candidates",
-        "fee": "Rs. 200/- plus GST"
-      },
-      {
-        "category": "General, EWS and Other Backward Class (OBC) - Male candidates",
-        "fee": "Rs. 800/- plus GST"
-      },
-      {
-        "category": "General, EWS and Other Backward Class (OBC) - Female / Transgender candidates",
-        "fee": "Rs. 600/- plus GST"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Application Start Date",
-        "date": "20/10/2026"
-      },
-      {
-        "event": "Last Date to Apply & Pay Examination Fee",
-        "date": "01/11/2026"
-      },
-      {
-        "event": "Entrance Examination Date",
-        "date": "07/11/2026"
-      },
-      {
-        "event": "Document Verification & Personal Interview",
-        "date": "15/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Apprentice",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Candidates must first mandatorily register themselves on the NATS portal (https://nats.education.gov.in) by navigating to the ‘Student Register/Login’ section.",
-      "After registration, candidates will receive an email from BFSI SSC inviting them to fill up a detailed application and make payment for the Online Examination for ‘LIC HFL Apprenticeship Program’.",
-      "Visit https://beep.bfsissc.com to submit additional information and make the examination fee payment before 01-Nov-2026.",
-      "Note your Enrolment ID issued by the NATS portal for all future correspondence.",
-      "All eligible applicants who have paid the examination fee will receive an online examination link and login credentials from BFSI SSC on the day before the examination date.",
-      "Appear for the online remote proctored examination on 07-Nov-2026 from home using a camera-enabled device with good internet connectivity.",
-      "Shortlisted candidates will be invited for Document Verification &amp; Personal Interview at LIC HFL offices on 15-Nov-2026.",
-      "Final selected candidates will receive engagement letters from LIC HFL tentatively in the 3rd week of November."
-    ]
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "andhra-isro sdsc shar-heavy-vehicle-driver-and-more-mts",
@@ -1237,7 +1504,7 @@
     "applyOnlineLink": "https://apps.shar.gov.in/Recruitment/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "Post Codes 07–15 (Women/SC/ST/PwBD/Ex-Servicemen – Exempted, Full Refund)",
@@ -1466,7 +1733,7 @@
     "applyOnlineLink": "https://cdn.digialm.com/EForms/configuredHtml/33192/102813/o0zKIYO3CqWa8uMPmN/login.html",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "UR/EWS/OBC",
@@ -1569,7 +1836,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/irel-tradesman-trainee-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "UR / EWS / OBC (NCL) candidates",
@@ -1648,7 +1915,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-diet-lecturer-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [],
     "dates": [
       {
@@ -1710,7 +1977,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-group-2-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "Fee",
@@ -1841,7 +2108,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "Fee",
@@ -1922,129 +2189,6 @@
     ]
   },
   {
-    "id": "andhra-ap dsc-school-assistant-sa-secondary-grade-teacher-sgt-sa",
-    "title": "AP DSC Recruitment 2026 – School Assistant (SA), Secondary Grade Teacher (SGT), SA (Special Education), SGT (Special Education), Principal, Post Graduate Teacher (PGT), Trained Graduate Teacher (TGT), Physical Director (PD), Physical Education Teacher (PET) Posts",
-    "shortInfo": "AP DSC has announced notification for School Assistant (SA), Secondary Grade Teacher (SGT), SA (Special Education), SGT (Special Education), Principal, Post Graduate Teacher (PGT), Trained Graduate Teacher (TGT), Physical Director (PD), Physical Education Teacher (PET) posts. Required qualification: As per prescribed educational and professional qualifications. Last date to apply: Update.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "2721",
-    "lastDate": "Update",
-    "officialWebsite": "https://tet2dsc.apcfss.in",
-    "notificationLink": "https://tet2dsc.apcfss.in/DSC2026/notifications/Societies%20Notification.pdf",
-    "applyOnlineLink": "https://tet2dsc.apcfss.in/DSC2026/DSC_2026%20Suggestive%20Syllabus.pdf",
-    "state": "Andhra Pradesh",
-    "stateCode": "andhra",
-    "scrapedAt": "2026-11-05",
-    "fees": [
-      {
-        "category": "Fee",
-        "fee": "₹1000/-"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Date of Issuing of Notification and Publishing of Information Bulletin DSC-2026",
-        "date": "05/11/2026"
-      },
-      {
-        "event": "Starting Date for Apply Online",
-        "date": "11/11/2026"
-      },
-      {
-        "event": "Closing Date for Apply Online",
-        "date": "30/11/2026"
-      },
-      {
-        "event": "Last Date Payment of Fee",
-        "date": "30/11/2026"
-      },
-      {
-        "event": "Online Mock Test availability for DSC-2026",
-        "date": "05/12/2026"
-      },
-      {
-        "event": "Download of Hall Tickets for DSC-2026",
-        "date": "14/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "School Assistant (SA) - General Schools",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Secondary Grade Teacher (SGT) - General Schools",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "School Assistant - Special Education (SA SE)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Secondary Grade Teacher - Special Education (SGT SE)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Principal - Societies & Other Managements",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Post Graduate Teacher (PGT) - Societies & Other Managements",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Trained Graduate Teacher (TGT) - Societies & Other Managements",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Physical Director (PD) - Societies & Other Managements",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Physical Education Teacher (PET) - Societies & Other Managements",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the official website: https://tet2dsc.apcfss.in",
-      "Read the Detailed Notification (available on or before 03.11.2026) carefully before applying.",
-      "Applications are allowed only through online mode.",
-      "Fill in the online application form with required details.",
-      "Upload necessary documents as specified in the Detailed Notification.",
-      "Pay the application fee (if applicable) as per instructions in the Detailed Notification.",
-      "Submit the application and take a printout for future reference."
-    ]
-  },
-  {
     "id": "andhra-csb btsso-sericulture-assistant",
     "title": "CSB BTSSO Recruitment 2026 – Sericulture Assistant Posts",
     "shortInfo": "CSB BTSSO has announced notification for Sericulture Assistant posts. Required qualification: B.Sc, PG Diploma. Last date to apply: 06-11-26.",
@@ -2059,24 +2203,7 @@
     "applyOnlineLink": "https://csb.gov.in/sites/default/files/2026-10/csb-btsso-SA.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "andhra-aiims mangalagiri-faculty-group-a-associate-professor",
-    "title": "AIIMS Mangalagiri Recruitment 2026 – Faculty (Group - A) - Associate Professor Posts",
-    "shortInfo": "AIIMS Mangalagiri has announced notification for Faculty (Group - A) - Associate Professor posts. Required qualification: MBBS, DM, MS/MD, M.Ch. Last date to apply: 02-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "2",
-    "lastDate": "02-11-26",
-    "officialWebsite": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/09/ADVERTISEMENT-FOR-DIRECT-RECRUITMENT-OF-FACULTY-POSTS-GROUP-%E2%80%98A-IN-VARIOUS-DEPARTMENTS-OF-AIIMS-MANGALAGIRI-.pdf",
-    "notificationLink": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/09/ADVERTISEMENT-FOR-DIRECT-RECRUITMENT-OF-FACULTY-POSTS-GROUP-%E2%80%98A-IN-VARIOUS-DEPARTMENTS-OF-AIIMS-MANGALAGIRI-.pdf",
-    "applyOnlineLink": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/09/ADVERTISEMENT-FOR-DIRECT-RECRUITMENT-OF-FACULTY-POSTS-GROUP-%E2%80%98A-IN-VARIOUS-DEPARTMENTS-OF-AIIMS-MANGALAGIRI-.pdf",
-    "state": "Andhra Pradesh",
-    "stateCode": "andhra",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "andhra-aiims mangalagiri-senior-resident-consultant",
@@ -2093,7 +2220,7 @@
     "applyOnlineLink": "https://www.aiimsmangalagiri.edu.in/wp-content/uploads/2026/09/Recruitment-SR-1.pdf",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "andhra-slprb ap police-sct-police-constable-fireman-state-disaster-respon",
@@ -2110,7 +2237,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/slprb-ap-police-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "OC (incl. EWS) & BC - SI/Scientific Assistant posts",
@@ -2279,7 +2406,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "Fee",
@@ -2333,7 +2460,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/appsc-recruitment-2026/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [],
     "dates": [
       {
@@ -2527,7 +2654,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "Fee",
@@ -2580,7 +2707,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "Fee",
@@ -2634,7 +2761,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "Application Processing Fee (All Candidates)",
@@ -2700,7 +2827,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "Fee",
@@ -2755,7 +2882,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "Fee",
@@ -2808,7 +2935,7 @@
     "applyOnlineLink": "https://applications-psc.ap.gov.in/",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "Fee",

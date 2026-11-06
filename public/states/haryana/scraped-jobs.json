@@ -14,7 +14,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/inbraoct26/",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General/OBC/EWS candidates",
@@ -58,6 +58,74 @@
     ]
   },
   {
+    "id": "haryana-rcb-senior-research-fellow-field-worker",
+    "title": "RCB Recruitment 2026 – Senior Research Fellow, Field Worker Posts",
+    "shortInfo": "RCB has announced notification for Senior Research Fellow, Field Worker posts. Required qualification: Post Graduate, Graduate. Last date to apply: 16-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "16-11-26",
+    "officialWebsite": "https://rcb.res.in/files/advertisement-files/advt._no._42_project_2026_hr_0.docx",
+    "notificationLink": "https://rcb.res.in/files/advertisement-files/advt._no._42_project_2026_hr_0.docx",
+    "applyOnlineLink": "https://rcb.res.in/files/advertisement-files/advt._no._42_project_2026_hr_0.docx",
+    "state": "Haryana",
+    "stateCode": "haryana",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "haryana-niftem-research-associate",
+    "title": "NIFTEM Recruitment 2026 – Research Associate Posts",
+    "shortInfo": "NIFTEM has announced notification for Research Associate posts. Required qualification: M.Phil/Ph.D. Last date to apply: 10-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "10-11-26",
+    "officialWebsite": "https://niftem.ac.in/storage/careers/openings/llStcjBHjF1302mpJpdL0ltwN8T6KjKl5w7GAtB1.pdf",
+    "notificationLink": "https://niftem.ac.in/storage/careers/openings/llStcjBHjF1302mpJpdL0ltwN8T6KjKl5w7GAtB1.pdf",
+    "applyOnlineLink": "https://niftem.ac.in/storage/careers/openings/llStcjBHjF1302mpJpdL0ltwN8T6KjKl5w7GAtB1.pdf",
+    "state": "Haryana",
+    "stateCode": "haryana",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "haryana-niftem-senior-accountant",
+    "title": "NIFTEM Recruitment 2026 – Senior Accountant Posts",
+    "shortInfo": "NIFTEM has announced notification for Senior Accountant posts. Required qualification: MBA/PGDM, M.Com, B.Com, Post Graduate. Last date to apply: 12-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "12-11-26",
+    "officialWebsite": "https://niftem.ac.in/storage/careers/openings/CK7ii3MBMjY7xqaPtwrZIrz9ZLhQYKKUkRVHiRhB.pdf",
+    "notificationLink": "https://niftem.ac.in/storage/careers/openings/CK7ii3MBMjY7xqaPtwrZIrz9ZLhQYKKUkRVHiRhB.pdf",
+    "applyOnlineLink": "https://niftem.ac.in/storage/careers/openings/CK7ii3MBMjY7xqaPtwrZIrz9ZLhQYKKUkRVHiRhB.pdf",
+    "state": "Haryana",
+    "stateCode": "haryana",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "haryana-aiims jhajjar-project-technical-staff-iii",
+    "title": "AIIMS Jhajjar Recruitment 2026 – Project Technical Staff III Posts",
+    "shortInfo": "AIIMS Jhajjar has announced notification for Project Technical Staff III posts. Required qualification: Post Graduate, Graduate. Last date to apply: 18-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "18-11-26",
+    "officialWebsite": "https://www.aiims.edu/images/pdf/recruitment/advertisement/NCI-3-11-26.pdf",
+    "notificationLink": "https://www.aiims.edu/images/pdf/recruitment/advertisement/NCI-3-11-26.pdf",
+    "applyOnlineLink": "https://www.aiims.edu/images/pdf/recruitment/advertisement/NCI-3-11-26.pdf",
+    "state": "Haryana",
+    "stateCode": "haryana",
+    "scrapedAt": "2026-11-06"
+  },
+  {
     "id": "haryana-c.r. college of education-principal-general-",
     "title": "C.R. College of Education Recruitment 2026 – Principal (General) Posts",
     "shortInfo": "C.R. College of Education has announced notification for Principal (General) posts. Required qualification: M.Phil/Ph.D. Last date to apply: 23-11-26.",
@@ -72,7 +140,7 @@
     "applyOnlineLink": "https://mdu.ac.in/UpFiles/UpPdfFiles/2026/Nov/4_11-03-2026_16-05-45_JES-G.CRCE-103%20dt.%2002.11.2026%20To%20Dir.%20UCC%20MDU.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-aiims jhajjar-project-technical-staff-iii",
@@ -89,7 +157,7 @@
     "applyOnlineLink": "https://www.aiims.edu/images/pdf/recruitment/advertisement/NCI-3-11-26.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-nit kurukshetra-adjunct-faculty",
@@ -106,7 +174,7 @@
     "applyOnlineLink": "https://nitkkr.ac.in/wp-content/uploads/2026/10/Detailed-Information-Sheet-Advt.35-2026.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-esic gurugram-full-time-contractual-specialist-and-senior-reside",
@@ -123,7 +191,7 @@
     "applyOnlineLink": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_interview_on_13_11_2026_for_the_appointment_of_Full_Time_Contractual_Specialists_and_Senior_Resident_on_Contractual_basis_at_ESIC_Model_Hospital_Gurugram_Haryana_1793595097.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-esic faridabad-junior-resident-and-tutor-demonstrator-walk-in-",
@@ -140,7 +208,7 @@
     "applyOnlineLink": "https://c/attachments/recruitmentfile/ADVERTISEMENT_FORRECRUITMENTOFJUNIORRESIDENTAND_TUTOR_DEMONSTRATOR_ONCONTRACTUALBASIS_1793604550.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-recpdcl-senior-consultant-renewable-energy-",
@@ -157,7 +225,7 @@
     "applyOnlineLink": "https://www.recpdcl.in/assets/data/vacancy/EoI_Engagement_of_01_Consultant_RE_29102026.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-iica-program-executive-chief-program-executive",
@@ -174,7 +242,7 @@
     "applyOnlineLink": "https://iica.nic.in/Images/Vacancy-2026/VACANCY-CIRCULAR.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-iica-project-assistant-chief-program-executive",
@@ -191,7 +259,7 @@
     "applyOnlineLink": "https://iica.nic.in/Images/Vacancy-2026/Vacancy-Circular-CoEin-CSR-CC-29.10.2026.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-iica-research-associate",
@@ -208,7 +276,7 @@
     "applyOnlineLink": "https://iica.nic.in/Images/Vacancy-2026/Vacancy-Circular-CoEin-CSR-CC-30.10.2026.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-gurugram university, gurugram-adjunct-faculty",
@@ -225,7 +293,7 @@
     "applyOnlineLink": "https://gurugramuniversity.ac.in/Notice/AdvtNo._AFT-3_2026.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-punjab and haryana high court chandigarh-chowkidar",
@@ -242,7 +310,7 @@
     "applyOnlineLink": "https://phconapp.formflix.org/chowkidar/",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General",
@@ -317,7 +385,7 @@
     "applyOnlineLink": "http://npcc.gov.in/writereaddata/others/Advertisement%20Final301026.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-jc bose ust-senior-research-fellow",
@@ -334,7 +402,7 @@
     "applyOnlineLink": "https://jcboseust.ac.in/assets/files/Advertisement_for_Senior_Research_Fellow_for_research_proj_NHYG1Nc._of_CSA_Funded_by_HSHEC.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-nbrc-research-associate-i",
@@ -351,7 +419,7 @@
     "applyOnlineLink": "https://www.nbrc.ac.in/newweb/wp-content/uploads/2026/10/Dr-Dhananjay-Research-Associate-I-Advt.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-svsu-skill-instructor",
@@ -368,7 +436,7 @@
     "applyOnlineLink": "https://svsu.ac.in/wp-content/uploads/2026/10/Advt%20for%20Skill%20Instructor.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-nit kurukshetra-adjunct-faculty",
@@ -385,7 +453,7 @@
     "applyOnlineLink": "https://nitkkr.ac.in/wp-content/uploads/2026/10/Detailed-Information-Sheet-Advt.35-2026.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-npcc-manager-general-manager-dy-manager",
@@ -402,7 +470,7 @@
     "applyOnlineLink": "http://npcc.gov.in/writereaddata/others/Advertisement%20Final301026.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-jc bose ust-senior-research-fellow",
@@ -419,7 +487,7 @@
     "applyOnlineLink": "https://jcboseust.ac.in/assets/files/Advertisement_for_Senior_Research_Fellow_for_research_proj_NHYG1Nc._of_CSA_Funded_by_HSHEC.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-ppqs-consultant-legal-",
@@ -436,7 +504,7 @@
     "applyOnlineLink": "https://ppqs.gov.in/sites/default/files/consultantlegal.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-nbrc-research-associate-i",
@@ -453,7 +521,7 @@
     "applyOnlineLink": "https://www.nbrc.ac.in/newweb/wp-content/uploads/2026/10/Dr-Dhananjay-Research-Associate-I-Advt.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-thsti-staff-nurse",
@@ -470,7 +538,7 @@
     "applyOnlineLink": "https://recruitment.thsti.in/public/upload/job_pdf/179333643126advt-RN-02-10-II-walkin.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-thsti-data-manager-project-research-scientist",
@@ -487,7 +555,7 @@
     "applyOnlineLink": "https://recruitment.thsti.in/public/upload/job_pdf/Project%20Post_JD%20(1).pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-jerc-principal-private-secretary",
@@ -504,7 +572,7 @@
     "applyOnlineLink": "https://jercuts.gov.in/wp-content/uploads/2026/10/final-website-pps_merged.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-thsti-project-research-scientist-lab-technician-more",
@@ -521,7 +589,7 @@
     "applyOnlineLink": "https://recruitment.thsti.in/public/upload/job_pdf/179292768678web-advt-RN-22.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-national financial reporting authority (nfra)-full-time-member",
@@ -538,7 +606,7 @@
     "applyOnlineLink": "https://csharyana.gov.in/wp-content/uploads/2026/10/NFRA.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-jerc-principal-private-secretary",
@@ -555,7 +623,7 @@
     "applyOnlineLink": "https://jercuts.gov.in/wp-content/uploads/2026/10/final-website-pps_merged.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-cuh-technical-assistant-computer-",
@@ -572,7 +640,7 @@
     "applyOnlineLink": "https://file.cuh.ac.in/recruitment/advt_no_6ae316df2b1e9.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-recpdcl-senior-executive-deputy-executive-assistant-execut",
@@ -589,7 +657,7 @@
     "applyOnlineLink": "https://www.erprecpdcl.in/jobs",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "Fee",
@@ -699,7 +767,7 @@
     "applyOnlineLink": "https://csharyana.gov.in/wp-content/uploads/2026/10/PGIMER.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-nbrc-project-associate-i",
@@ -716,7 +784,7 @@
     "applyOnlineLink": "https://www.nbrc.ac.in/newweb/wp-content/uploads/2026/10/Dr-Dhananjay-lab-Project-Associate-28-10-26.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-gug-assistant-registrar-clerk-cum-deo",
@@ -733,7 +801,7 @@
     "applyOnlineLink": "https://gurugramuniversity.ac.in/Notice/Advertisement%20for%20the%20post%20of%20Assistant%20Registrar%20and%20Clerk-cum-D.E.O.%20(on%20deputation)_compressed.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-bbmb-lineman-apprentice",
@@ -750,7 +818,7 @@
     "applyOnlineLink": "https://bbmb.gov.in/writereaddata/Portal/JobOpening/129_1_Apprenticeship_Training_Dhulkote_2026-27.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-gjus&amp;t-field-staff",
@@ -767,7 +835,7 @@
     "applyOnlineLink": "https://gjust.ac.in/portal/upload/DocScanner%20Oct%2027,%202026%204-48%20PM_27October2026_16-50-06-25.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-bel-probationary-engineer",
@@ -784,7 +852,7 @@
     "applyOnlineLink": "https://g06.tcsion.com/EForms/configuredHtml/33192/103061/uPVtXzjwivanf3RWlN/Index.html",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General (UR)",
@@ -859,7 +927,7 @@
     "applyOnlineLink": "https://gjust.ac.in/portal/upload/DocScanner%20Oct%2027,%202026%204-48%20PM_27October2026_16-50-06-25.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-gug-assistant-registrar-clerk-cum-deo",
@@ -876,7 +944,7 @@
     "applyOnlineLink": "https://gurugramuniversity.ac.in/Notice/Advertisement%20for%20the%20post%20of%20Assistant%20Registrar%20and%20Clerk-cum-D.E.O.%20(on%20deputation)_compressed.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-nhpc-consultant-safety-",
@@ -893,7 +961,7 @@
     "applyOnlineLink": "https://www.nhpcindia.com/assests/pzi_public/job/details_1793084987_4256.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-fsl haryana-senior-scientific-officer-dna-senior-scientific-as",
@@ -910,7 +978,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/fsl-haryana-recruitment-2026/",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "All Categories",
@@ -981,23 +1049,6 @@
     ]
   },
   {
-    "id": "haryana-thsti-project-research-scientist-more-lab-technician",
-    "title": "THSTI Recruitment 2026 – Project Research Scientist, More, Lab Technician Posts",
-    "shortInfo": "THSTI has announced notification for Project Research Scientist, More, Lab Technician posts. Required qualification: B.Sc, DMLT, Any Post Graduate, Diploma, MLT. Last date to apply: 04-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "7",
-    "lastDate": "04-11-26",
-    "officialWebsite": "https://recruitment.thsti.in/public/upload/job_pdf/179292768678web-advt-RN-22.pdf",
-    "notificationLink": "https://recruitment.thsti.in/public/upload/job_pdf/179292768678web-advt-RN-22.pdf",
-    "applyOnlineLink": "https://recruitment.thsti.in/public/upload/job_pdf/179292768678web-advt-RN-22.pdf",
-    "state": "Haryana",
-    "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
-  },
-  {
     "id": "haryana-niftem-assistant-professor",
     "title": "NIFTEM Recruitment 2026 – Assistant Professor Posts",
     "shortInfo": "NIFTEM has announced notification for Assistant Professor posts. Required qualification: Any Post Graduate, M.Phil/Ph.D. Last date to apply: 12-11-26.",
@@ -1012,7 +1063,7 @@
     "applyOnlineLink": "https://niftem.ac.in/storage/careers/openings/NUDzF9gUYTpsDtfoB1uAx4uigRvuotsBEg5dCN8v.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-iiit sonepat-associate-professor-assistant-professor",
@@ -1029,41 +1080,7 @@
     "applyOnlineLink": "https://iiitsonepat.ac.in/uploads/bfcd1036a2ce66443c61ebd557d9a0ea.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "haryana-thsti-unskilled-lab-attendant-",
-    "title": "THSTI Recruitment 2026 – Unskilled (Lab Attendant) Posts",
-    "shortInfo": "THSTI has announced notification for Unskilled (Lab Attendant) posts. Required qualification: 12TH. Last date to apply: 03-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "03-11-26",
-    "officialWebsite": "https://recruitment.thsti.in/public/upload/job_pdf/Advertisement%20Dr.%20Amit%20Awasthi%20Oct%202026.pdf",
-    "notificationLink": "https://recruitment.thsti.in/public/upload/job_pdf/Advertisement%20Dr.%20Amit%20Awasthi%20Oct%202026.pdf",
-    "applyOnlineLink": "https://recruitment.thsti.in/public/upload/job_pdf/Advertisement%20Dr.%20Amit%20Awasthi%20Oct%202026.pdf",
-    "state": "Haryana",
-    "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "haryana-dfccil-mechanical-department-employees-wlak-in-",
-    "title": "DFCCIL Recruitment 2026 – Mechanical Department Employees (Wlak-in) Posts",
-    "shortInfo": "DFCCIL has announced notification for Mechanical Department Employees (Wlak-in) posts. Required qualification: Retired Staff. Last date to apply: 03-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "10",
-    "lastDate": "03-11-26",
-    "officialWebsite": "https://dfccil.com/upload/Static-one_merged-(18)_7GSG.pdf",
-    "notificationLink": "https://dfccil.com/upload/Static-one_merged-(18)_7GSG.pdf",
-    "applyOnlineLink": "https://dfccil.com/upload/Static-one_merged-(18)_7GSG.pdf",
-    "state": "Haryana",
-    "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-rites-group-general-manager-general-manager-civil-",
@@ -1080,7 +1097,7 @@
     "applyOnlineLink": "https://www.rites.com/Upload/Career/GGM-GM(Civil)_pdf-2026-Oct-19-12-34-58.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-luvas-field-artificial-insemination-a-i-worker-cum-data-",
@@ -1097,7 +1114,7 @@
     "applyOnlineLink": "https://luvas.edu.in/downloads/files/n6ad899a7f31c5.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-luvas-project-assistant",
@@ -1114,79 +1131,7 @@
     "applyOnlineLink": "https://luvas.edu.in/downloads/files/n6ad899c206791.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "haryana-lic hfl-apprentice",
-    "title": "LIC HFL Recruitment 2026 – Apprentice Posts",
-    "shortInfo": "LIC HFL has announced notification for Apprentice posts. Required qualification: Graduation in any stream. Last date to apply: 01-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "232",
-    "lastDate": "01-11-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
-    "notificationLink": "https://cdn.lichousing.com/2026/10/Apprentecis-Advertisement-Notification-Batch-10.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
-    "state": "Haryana",
-    "stateCode": "haryana",
-    "scrapedAt": "2026-11-05",
-    "fees": [
-      {
-        "category": "Scheduled Caste (SC) / Scheduled Tribe (ST) candidates",
-        "fee": "Rs. 200/- plus GST"
-      },
-      {
-        "category": "Person with Benchmark Disability (PwBD) candidates",
-        "fee": "Rs. 200/- plus GST"
-      },
-      {
-        "category": "General, EWS and Other Backward Class (OBC) - Male candidates",
-        "fee": "Rs. 800/- plus GST"
-      },
-      {
-        "category": "General, EWS and Other Backward Class (OBC) - Female / Transgender candidates",
-        "fee": "Rs. 600/- plus GST"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Application Start Date",
-        "date": "20/10/2026"
-      },
-      {
-        "event": "Last Date to Apply & Pay Examination Fee",
-        "date": "01/11/2026"
-      },
-      {
-        "event": "Entrance Examination Date",
-        "date": "07/11/2026"
-      },
-      {
-        "event": "Document Verification & Personal Interview",
-        "date": "15/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Apprentice",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Candidates must first mandatorily register themselves on the NATS portal (https://nats.education.gov.in) by navigating to the ‘Student Register/Login’ section.",
-      "After registration, candidates will receive an email from BFSI SSC inviting them to fill up a detailed application and make payment for the Online Examination for ‘LIC HFL Apprenticeship Program’.",
-      "Visit https://beep.bfsissc.com to submit additional information and make the examination fee payment before 01-Nov-2026.",
-      "Note your Enrolment ID issued by the NATS portal for all future correspondence.",
-      "All eligible applicants who have paid the examination fee will receive an online examination link and login credentials from BFSI SSC on the day before the examination date.",
-      "Appear for the online remote proctored examination on 07-Nov-2026 from home using a camera-enabled device with good internet connectivity.",
-      "Shortlisted candidates will be invited for Document Verification &amp; Personal Interview at LIC HFL offices on 15-Nov-2026.",
-      "Final selected candidates will receive engagement letters from LIC HFL tentatively in the 3rd week of November."
-    ]
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-haryana police-special-police-officer",
@@ -1203,7 +1148,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/haryana-police-telecom-spo-recruitment-2026/",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "Fee",
@@ -1252,7 +1197,7 @@
     "applyOnlineLink": "https://ssrw.org/wp-content/uploads/2026/10/Website-Advertisement-Oct-2026.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-luvas-teaching-associate",
@@ -1269,7 +1214,7 @@
     "applyOnlineLink": "https://luvas.edu.in/downloads/files/n6ad0b9adc3e73.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-rites-individual-consultant",
@@ -1286,7 +1231,7 @@
     "applyOnlineLink": "https://recruit.rites.com/frmRegistration.aspx",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "All Categories",
@@ -1524,89 +1469,7 @@
     "applyOnlineLink": "https://aiimsrewari.edu.in/assets/img/jobs/ADVT_%20Faculty_02_2026.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "haryana-rites-senior-manager-mech-",
-    "title": "RITES Recruitment 2026 – Senior Manager (Mech) Posts",
-    "shortInfo": "RITES has announced notification for Senior Manager (Mech) posts. Required qualification: B.Tech/B.E. Last date to apply: 02-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "02-11-26",
-    "officialWebsite": "https://rites.com/Upload/Career/Final_adv_(1)_pdf-2026-Oct-06-15-22-22.pdf",
-    "notificationLink": "https://rites.com/Upload/Career/Final_adv_(1)_pdf-2026-Oct-06-15-22-22.pdf",
-    "applyOnlineLink": "https://rites.com/Upload/Career/Final_adv_(1)_pdf-2026-Oct-06-15-22-22.pdf",
-    "state": "Haryana",
-    "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "haryana-punjab and haryana high court-clerk",
-    "title": "Punjab and Haryana High Court Recruitment 2026 – Clerk Posts",
-    "shortInfo": "Punjab and Haryana High Court has announced notification for Clerk posts. Required qualification: B.A/B.Sc, Matriculation with Punjabi, Computer Proficiency. Last date to apply: 04-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1270",
-    "lastDate": "04-11-26",
-    "officialWebsite": "https://www.sssc.gov.in",
-    "notificationLink": "https://sssc.gov.in/storage/notices/Advt%20dated%2003.10.2026%20Pb%20Clerk.pdf",
-    "applyOnlineLink": "https://cdn3.digialm.com/EForms/configuredHtml/32046/100408/8QbduJv6oSbKw2p7dK/Index.html",
-    "state": "Haryana",
-    "stateCode": "haryana",
-    "scrapedAt": "2026-11-05",
-    "fees": [
-      {
-        "category": "SC/BC/OBC/ESM/EWS of Punjab",
-        "fee": "₹710/- (Online Facilitation Charges ₹550/- + Examination Fee ₹160/-)"
-      },
-      {
-        "category": "Persons with Benchmark Disabilities (PwBD) of Punjab",
-        "fee": "₹875/- (Online Facilitation Charges ₹550/- + Examination Fee ₹325/-)"
-      },
-      {
-        "category": "All other categories",
-        "fee": "₹1200/- (Online Facilitation Charges ₹550/- + Examination Fee ₹650/-)"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Advertisement Date",
-        "date": "03/10/2026"
-      },
-      {
-        "event": "Opening Date for Online Applications",
-        "date": "07/10/2026"
-      },
-      {
-        "event": "Closing Date for Online Applications",
-        "date": "04/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Clerk",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the official website of S.S.S.C. at www.sssc.gov.in.",
-      "Click on the link for ‘Clerk District Courts of Punjab’ under the Online Application section.",
-      "Fill in the Registration Form with personal and educational details.",
-      "Upload a real-time photograph (not more than one month old) and scanned signature.",
-      "Fill in the Application Form carefully, including category and sub-category details.",
-      "Pay the applicable examination fee online via Internet Banking, Debit Card, Credit Card, or UPI.",
-      "Submit the Online Application Form after verifying all details.",
-      "Take a printout/screenshot of the submitted application for future reference.",
-      "Download E-Admit Card from the website using Registration ID and password when available."
-    ]
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "haryana-old civil hospital ambala-radiation-therapy-technologist-medical-physicist-c",
@@ -1623,6 +1486,6 @@
     "applyOnlineLink": "https://nhmharyana.gov.in/Writereaddata/userfiles/file/pdfs/AMB_%20ADVERTISEMNENT09072026.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   }
 ]

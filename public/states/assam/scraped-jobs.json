@@ -14,7 +14,7 @@
     "applyOnlineLink": "https://nats.education.gov.in/index.php",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "Fee",
@@ -66,7 +66,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/inbraoct26/",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General/OBC/EWS candidates",
@@ -110,6 +110,142 @@
     ]
   },
   {
+    "id": "assam-crcsre-lecturer-audiology-guest-faculty",
+    "title": "CRCSRE Recruitment 2026 – Lecturer Audiology, Guest Faculty Posts",
+    "shortInfo": "CRCSRE has announced notification for Lecturer Audiology, Guest Faculty posts. Required qualification: . Last date to apply: 20-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "20-11-26",
+    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s37b66b4fd401a271a1c7224027ce111bc/uploads/2026/11/202611041274945773.pdf",
+    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s37b66b4fd401a271a1c7224027ce111bc/uploads/2026/11/202611041274945773.pdf",
+    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s37b66b4fd401a271a1c7224027ce111bc/uploads/2026/11/202611041274945773.pdf",
+    "state": "Assam",
+    "stateCode": "assam",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "assam-lgbrimh-senior-resident-psychiatry-",
+    "title": "LGBRIMH Recruitment 2026 – Senior Resident (Psychiatry) Posts",
+    "shortInfo": "LGBRIMH has announced notification for Senior Resident (Psychiatry) posts. Required qualification: MBBS, DNB, Diploma, MS/MD. Last date to apply: 20-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "4",
+    "lastDate": "20-11-26",
+    "officialWebsite": "https://lgbrimh.gov.in/resources/2026/advertisement/Advertisement_HEADs.pdf",
+    "notificationLink": "https://lgbrimh.gov.in/resources/2026/advertisement/Advertisement_HEADs.pdf",
+    "applyOnlineLink": "https://lgbrimh.gov.in/resources/2026/advertisement/Advertisement_HEADs.pdf",
+    "state": "Assam",
+    "stateCode": "assam",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "assam-muc-assistant-professor-internal-auditor",
+    "title": "MUC Recruitment 2026 – Assistant Professor, Internal Auditor Posts",
+    "shortInfo": "MUC has announced notification for Assistant Professor, Internal Auditor posts. Required qualification: M.Phil/Ph.D, Graduate, Post Graduate. Last date to apply: 25-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "25-11-26",
+    "officialWebsite": "https://www.muoc.ac.in/storage/announcements/documents/luMTCHy8JwTKlj2TAqUlL8nDQht311CJDGeAZwvM.pdf",
+    "notificationLink": "https://www.muoc.ac.in/storage/announcements/documents/luMTCHy8JwTKlj2TAqUlL8nDQht311CJDGeAZwvM.pdf",
+    "applyOnlineLink": "https://www.muoc.ac.in/storage/announcements/documents/luMTCHy8JwTKlj2TAqUlL8nDQht311CJDGeAZwvM.pdf",
+    "state": "Assam",
+    "stateCode": "assam",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "assam-gauhati high court-usher",
+    "title": "Gauhati High Court Recruitment 2026 – Usher Posts",
+    "shortInfo": "Gauhati High Court has announced notification for Usher posts. Required qualification: . Last date to apply: 17-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "17-11-26",
+    "officialWebsite": "https://ghconline.gov.in/General/Notification-04-11-2026.pdf",
+    "notificationLink": "https://ghconline.gov.in/General/Notification-04-11-2026.pdf",
+    "applyOnlineLink": "https://ghconline.gov.in/General/Notification-04-11-2026.pdf",
+    "state": "Assam",
+    "stateCode": "assam",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "assam-cmaaa society assam-chief-minister-s-fellow",
+    "title": "CMAAA Society Assam Recruitment 2026 – Chief Minister’s Fellow Posts",
+    "shortInfo": "CMAAA Society Assam has announced notification for Chief Minister’s Fellow posts. Required qualification: MBA/PGDM. Last date to apply: 14-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "-",
+    "lastDate": "14-11-26",
+    "officialWebsite": "https://niyukti.assam.gov.in/cand_payment/file_display/NWI4Y2ViMTYyMDg4MzQzZGI3M2E2ZDIzZWFhYjQ0ZTkxYmUwZmZjNTFiOTE4ZjUzZDhlZDFlNDYwNTRjZjIwNGZjNzEyNDQ4ZjllNThmZTI1MmMyM2Y0NzRhNjFiNDVlZTQ3YmI3NjQ5ZTlkZjQ0MzhkMjg2MWFjNGE2YWM1ZTVOaEV0NGhRbDhod1c4TXNFaXY4Y1p6WmlyU0ltVTBpRnlKb1BlTlpIL3lUWHlFcVdnS25mbUtuZ3p6eXE0c29vUjhPS2tSb01EeGplejU5cXJlZXAzUT09",
+    "notificationLink": "https://niyukti.assam.gov.in/cand_payment/file_display/NWI4Y2ViMTYyMDg4MzQzZGI3M2E2ZDIzZWFhYjQ0ZTkxYmUwZmZjNTFiOTE4ZjUzZDhlZDFlNDYwNTRjZjIwNGZjNzEyNDQ4ZjllNThmZTI1MmMyM2Y0NzRhNjFiNDVlZTQ3YmI3NjQ5ZTlkZjQ0MzhkMjg2MWFjNGE2YWM1ZTVOaEV0NGhRbDhod1c4TXNFaXY4Y1p6WmlyU0ltVTBpRnlKb1BlTlpIL3lUWHlFcVdnS25mbUtuZ3p6eXE0c29vUjhPS2tSb01EeGplejU5cXJlZXAzUT09",
+    "applyOnlineLink": "https://niyukti.assam.gov.in/cand_payment/file_display/NWI4Y2ViMTYyMDg4MzQzZGI3M2E2ZDIzZWFhYjQ0ZTkxYmUwZmZjNTFiOTE4ZjUzZDhlZDFlNDYwNTRjZjIwNGZjNzEyNDQ4ZjllNThmZTI1MmMyM2Y0NzRhNjFiNDVlZTQ3YmI3NjQ5ZTlkZjQ0MzhkMjg2MWFjNGE2YWM1ZTVOaEV0NGhRbDhod1c4TXNFaXY4Y1p6WmlyU0ltVTBpRnlKb1BlTlpIL3lUWHlFcVdnS25mbUtuZ3p6eXE0c29vUjhPS2tSb01EeGplejU5cXJlZXAzUT09",
+    "state": "Assam",
+    "stateCode": "assam",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "assam-echs missamari-medical-officer-nursing-assistant",
+    "title": "ECHS Missamari Recruitment 2026 – Medical Officer, Nursing Assistant Posts",
+    "shortInfo": "ECHS Missamari has announced notification for Medical Officer, Nursing Assistant posts. Required qualification: MBBS, Diploma, GNM. Last date to apply: 19-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "19-11-26",
+    "officialWebsite": "https://www.echs.gov.in/assets/advertisement/Advt%20of%20Echs%20stn%20hq%20missamari.pdf",
+    "notificationLink": "https://www.echs.gov.in/assets/advertisement/Advt%20of%20Echs%20stn%20hq%20missamari.pdf",
+    "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/Advt%20of%20Echs%20stn%20hq%20missamari.pdf",
+    "state": "Assam",
+    "stateCode": "assam",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "assam-oil-contractual-geologist",
+    "title": "OIL Recruitment 2026 – Contractual Geologist Posts",
+    "shortInfo": "OIL has announced notification for Contractual Geologist posts. Required qualification: M.Sc, M.E/M.Tech, M.Phil/Ph.D. Last date to apply: 03-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "3",
+    "lastDate": "03-12-26",
+    "officialWebsite": "https://www.oil-india.com/download-advertisement-document?detail=NlVTMw==",
+    "notificationLink": "https://www.oil-india.com/download-advertisement-document?detail=NlVTMw==",
+    "applyOnlineLink": "https://www.oil-india.com/download-advertisement-document?detail=NlVTMw==",
+    "state": "Assam",
+    "stateCode": "assam",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "assam-asu-guest-faculty",
+    "title": "ASU Recruitment 2026 – Guest Faculty Posts",
+    "shortInfo": "ASU has announced notification for Guest Faculty posts. Required qualification: M.Voc, M.E/M.Tech, M.Sc. Last date to apply: 13-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "13-11-26",
+    "officialWebsite": "https://asu.ac.in/asu_files/news/food-technology-guest-faculty-6aea2412d3de8.pdf",
+    "notificationLink": "https://asu.ac.in/asu_files/news/food-technology-guest-faculty-6aea2412d3de8.pdf",
+    "applyOnlineLink": "https://asu.ac.in/asu_files/news/food-technology-guest-faculty-6aea2412d3de8.pdf",
+    "state": "Assam",
+    "stateCode": "assam",
+    "scrapedAt": "2026-11-06"
+  },
+  {
     "id": "assam-west karbi anglong-mis-assistant-assistant-fra-co-ordinator-fra",
     "title": "West Karbi Anglong Recruitment 2026 – MIS Assistant /Assistant FRA, Co-ordinator FRA Posts",
     "shortInfo": "West Karbi Anglong has announced notification for MIS Assistant /Assistant FRA, Co-ordinator FRA posts. Required qualification: Diploma, Graduate, MSW. Last date to apply: 07-11-26.",
@@ -124,7 +260,7 @@
     "applyOnlineLink": "https://westkarbianglong.assam.gov.in/sites/default/files/public_utility/Advertisement.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-nedfl-deputy-manager-assistant-manager",
@@ -141,7 +277,7 @@
     "applyOnlineLink": "https://recruitment.purabi.coop/files/TOR%20AM%20DM%20S&#038;D%20-Frozen%20Segment.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-eamul-graduate-apprentice",
@@ -158,7 +294,7 @@
     "applyOnlineLink": "https://recruitment.purabi.coop/files/REOI%20Apprenticeship%20%20(2)68d637.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-icfre-rfri-junior-project-fellow-project-assistant",
@@ -175,7 +311,7 @@
     "applyOnlineLink": "https://rfri.icfre.gov.in/jobs/vacancy229.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-amch-medical-officer",
@@ -192,7 +328,7 @@
     "applyOnlineLink": "https://amch-dibrugarh.assam.gov.in/sites/default/files/public_utility/Image_032.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-wamul-supervisor-deputy-manager-executive",
@@ -209,7 +345,7 @@
     "applyOnlineLink": "https://recruitment.purabi.coop/files/REOI99721d.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-dci-project-manager-hydrographic-surveyor-walk-in-",
@@ -226,7 +362,7 @@
     "applyOnlineLink": "http://dredge-india.com/files/Advtno052026.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-wamul-deputy-manager-executive-supervisor",
@@ -243,7 +379,7 @@
     "applyOnlineLink": "https://recruitment.purabi.coop/files/REOI99721d.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-okdiscd-field-investigator-walk-in-",
@@ -260,7 +396,7 @@
     "applyOnlineLink": "https://okd.in/assets/downloads/news/57_OKDISCD.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-iit guwahati-project-research-scientist-1",
@@ -277,7 +413,7 @@
     "applyOnlineLink": "https://www.iitg.ac.in/pdf/ae2206ef4211d9ffb6b7edce9e656d6c.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-asbb-consultant-project-associate",
@@ -294,7 +430,7 @@
     "applyOnlineLink": "https://www.asbb.gov.in/pdf/whats_new/281026/Advertisement_%20SWIFT%20Project%20%20Staff%20of%20ASBB_29_10_2026.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-amch-technical-coordinator",
@@ -311,7 +447,7 @@
     "applyOnlineLink": "https://amch-dibrugarh.assam.gov.in/sites/default/files/public_utility/Walk%20In%20Interview%20COE.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-amch-technical-coordinator-walk-in-",
@@ -328,41 +464,7 @@
     "applyOnlineLink": "https://amch-dibrugarh.assam.gov.in/sites/default/files/public_utility/Walk%20In%20Interview%20COE.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "assam-iit guwahati-plant-operator-lab-assistant-and-more",
-    "title": "IIT Guwahati Recruitment 2026 – Plant Operator, Lab Assistant and More Posts",
-    "shortInfo": "IIT Guwahati has announced notification for Plant Operator, Lab Assistant and More posts. Required qualification: Diploma, 10TH, M.Sc, B.Tech/B.E, Post Graduate, ITI, M.E/M.Tech, M.Phil/Ph.D, 12TH. Last date to apply: 04-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "7",
-    "lastDate": "04-11-26",
-    "officialWebsite": "https://www.iitg.ac.in/pdf/4d4197fecfaffa97da0713a62700759d.pdf",
-    "notificationLink": "https://www.iitg.ac.in/pdf/4d4197fecfaffa97da0713a62700759d.pdf",
-    "applyOnlineLink": "https://www.iitg.ac.in/pdf/4d4197fecfaffa97da0713a62700759d.pdf",
-    "state": "Assam",
-    "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "assam-iit guwahati-assistant-project-engineer",
-    "title": "IIT Guwahati Recruitment 2026 – Assistant Project Engineer Posts",
-    "shortInfo": "IIT Guwahati has announced notification for Assistant Project Engineer posts. Required qualification: B.Tech/B.E, M.E/M.Tech. Last date to apply: 02-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "02-11-26",
-    "officialWebsite": "https://www.iitg.ac.in/pdf/98dfc2f5daed52c0800a5794d02b8abf.pdf",
-    "notificationLink": "https://www.iitg.ac.in/pdf/98dfc2f5daed52c0800a5794d02b8abf.pdf",
-    "applyOnlineLink": "https://www.iitg.ac.in/pdf/98dfc2f5daed52c0800a5794d02b8abf.pdf",
-    "state": "Assam",
-    "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-eamul-graduate-apprentice",
@@ -379,7 +481,7 @@
     "applyOnlineLink": "https://recruitment.purabi.coop/files/REOI%20Apprenticeship%20%20(2)68d637.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-gurucharan university-assistant-professor-controller-of-examination",
@@ -396,24 +498,7 @@
     "applyOnlineLink": "https://www.gurucharanuniversity.ac.in/notice/Advertisment_Teaching_and_CoE%20-%20Google%20Docs.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "assam-iit guwahati-senior-research-fellow",
-    "title": "IIT Guwahati Recruitment 2026 – Senior Research Fellow Posts",
-    "shortInfo": "IIT Guwahati has announced notification for Senior Research Fellow posts. Required qualification: Post Graduate. Last date to apply: 03-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "03-11-26",
-    "officialWebsite": "https://www.iitg.ac.in/pdf/75d6c68ba1c1420ce3eb16cd8d73136b.pdf",
-    "notificationLink": "https://www.iitg.ac.in/pdf/75d6c68ba1c1420ce3eb16cd8d73136b.pdf",
-    "applyOnlineLink": "https://www.iitg.ac.in/pdf/75d6c68ba1c1420ce3eb16cd8d73136b.pdf",
-    "state": "Assam",
-    "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-iit guwahati-housekeeping",
@@ -430,7 +515,7 @@
     "applyOnlineLink": "https://www.iitg.ac.in/pdf/f4601844bffd540f6f43bb41938f71cb.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-asbb-project-assistant-project-associate",
@@ -447,7 +532,7 @@
     "applyOnlineLink": "https://www.asbb.gov.in/pdf/whats_new/281026/Advertisement_%20Project%20%20Staff%20of%20ASBB_27_10_2026.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-ircon-manager-walk-in-",
@@ -464,7 +549,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/ircon-manager-recruitment-2026/",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "Fee",
@@ -523,24 +608,7 @@
     "applyOnlineLink": "https://nagaonuniversity.ac.in/ngu_files/news/advertisement-for-the-post-of-registrar-with-application-form-1-6ae02f3911c2a.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "assam-iit guwahati-junior-research-fellow-gate-",
-    "title": "IIT Guwahati Recruitment 2026 – Junior Research Fellow (GATE) Posts",
-    "shortInfo": "IIT Guwahati has announced notification for Junior Research Fellow (GATE) posts. Required qualification: B.Tech/B.E, Any Post Graduate, Any Graduate. Last date to apply: 02-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "02-11-26",
-    "officialWebsite": "https://www.iitg.ac.in/pdf/b41c8d364b7d3288da4971d1bbf2910f.pdf",
-    "notificationLink": "https://www.iitg.ac.in/pdf/b41c8d364b7d3288da4971d1bbf2910f.pdf",
-    "applyOnlineLink": "https://www.iitg.ac.in/pdf/b41c8d364b7d3288da4971d1bbf2910f.pdf",
-    "state": "Assam",
-    "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-dlsa west karbi anglong-para-legal-volunteer",
@@ -557,7 +625,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0562e7f2e090fe150ef8deb4466fdc/uploads/2026/10/2026101333.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-iit guwahati-project-research-scientist-i",
@@ -574,7 +642,7 @@
     "applyOnlineLink": "https://www.iitg.ac.in/pdf/8a1711e455495dc58875461c6c728bd9.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-gauhati high court-group-d-mts-",
@@ -591,7 +659,7 @@
     "applyOnlineLink": "https://ghconline.gov.in/Recruitment/Notification-16-10-2026-AZL.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-nrl-advisor",
@@ -608,7 +676,7 @@
     "applyOnlineLink": "https://portal2.nrl.co.in/onlineapp/Home/DownloadFile?fileId=553&#038;f=1",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-oil-retainer-doctor-on-contract-walk-in-",
@@ -625,79 +693,7 @@
     "applyOnlineLink": "https://www.oil-india.com/download-advertisement-document?detail=NlVXLw==",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "assam-lic hfl-apprentice",
-    "title": "LIC HFL Recruitment 2026 – Apprentice Posts",
-    "shortInfo": "LIC HFL has announced notification for Apprentice posts. Required qualification: Graduation in any stream. Last date to apply: 01-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "232",
-    "lastDate": "01-11-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
-    "notificationLink": "https://cdn.lichousing.com/2026/10/Apprentecis-Advertisement-Notification-Batch-10.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
-    "state": "Assam",
-    "stateCode": "assam",
-    "scrapedAt": "2026-11-05",
-    "fees": [
-      {
-        "category": "Scheduled Caste (SC) / Scheduled Tribe (ST) candidates",
-        "fee": "Rs. 200/- plus GST"
-      },
-      {
-        "category": "Person with Benchmark Disability (PwBD) candidates",
-        "fee": "Rs. 200/- plus GST"
-      },
-      {
-        "category": "General, EWS and Other Backward Class (OBC) - Male candidates",
-        "fee": "Rs. 800/- plus GST"
-      },
-      {
-        "category": "General, EWS and Other Backward Class (OBC) - Female / Transgender candidates",
-        "fee": "Rs. 600/- plus GST"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Application Start Date",
-        "date": "20/10/2026"
-      },
-      {
-        "event": "Last Date to Apply & Pay Examination Fee",
-        "date": "01/11/2026"
-      },
-      {
-        "event": "Entrance Examination Date",
-        "date": "07/11/2026"
-      },
-      {
-        "event": "Document Verification & Personal Interview",
-        "date": "15/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Apprentice",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Candidates must first mandatorily register themselves on the NATS portal (https://nats.education.gov.in) by navigating to the ‘Student Register/Login’ section.",
-      "After registration, candidates will receive an email from BFSI SSC inviting them to fill up a detailed application and make payment for the Online Examination for ‘LIC HFL Apprenticeship Program’.",
-      "Visit https://beep.bfsissc.com to submit additional information and make the examination fee payment before 01-Nov-2026.",
-      "Note your Enrolment ID issued by the NATS portal for all future correspondence.",
-      "All eligible applicants who have paid the examination fee will receive an online examination link and login credentials from BFSI SSC on the day before the examination date.",
-      "Appear for the online remote proctored examination on 07-Nov-2026 from home using a camera-enabled device with good internet connectivity.",
-      "Shortlisted candidates will be invited for Document Verification &amp; Personal Interview at LIC HFL offices on 15-Nov-2026.",
-      "Final selected candidates will receive engagement letters from LIC HFL tentatively in the 3rd week of November."
-    ]
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-wamul-assistant",
@@ -714,7 +710,7 @@
     "applyOnlineLink": "https://recruitment.purabi.coop/files/REOI4b36f3.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-ongc assam asset-junior-consultant-associate-consultant",
@@ -731,7 +727,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/ongc-associate-consultant-recruitment-2026/",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "Fee",
@@ -783,7 +779,7 @@
     "applyOnlineLink": "https://nidj.ac.in/wp-content/uploads/2026/10/RecAdvtSrAsstFA14102026.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-sivasagar district administration-revenue-sheristadar",
@@ -800,7 +796,7 @@
     "applyOnlineLink": "https://sivasagar.assam.gov.in/sites/default/files/public_utility/RS%20Advertisement.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-nid assam-technical-instructor-and-more-design-instructor",
@@ -817,7 +813,7 @@
     "applyOnlineLink": "https://nidj.ac.in/wp-content/uploads/2026/10/RecAdvtTechnicalPosts15102026-1.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-assam university-vice-chancellor",
@@ -834,7 +830,7 @@
     "applyOnlineLink": "https://www.aus.ac.in/wp-content/uploads/2026/10/Approved-Advt-Bilingual.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-oil india-senior-officer-superintending-research-scientist",
@@ -851,7 +847,7 @@
     "applyOnlineLink": "https://cdn.digialm.com/EForms/configuredHtml/1258/101869/cLS13NVBAyZXSMfBYd/Index.html",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General / OBC (NCL)",
@@ -946,7 +942,7 @@
     "applyOnlineLink": "https://csb.gov.in/sites/default/files/what_s_new/files/Deputation%20advt.%20CSB_01_2026.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-slrc assam-field-assistant-statistics-enumerator",
@@ -963,7 +959,7 @@
     "applyOnlineLink": "https://formsrec.in/SLRC_III_FASE/WebPages/instruction.php",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "All Categories",
@@ -1055,7 +1051,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0562e7f2e090fe150ef8deb4466fdc/uploads/2026/10/2026101333.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-rabindranath thakur vishwavidyalaya-assistant-professor",
@@ -1072,7 +1068,7 @@
     "applyOnlineLink": "https://rtuassam.ac.in/upload/recruitment/1791886682.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-concor-general-manager-c-amp-o-senior-general-manager-c-a",
@@ -1089,7 +1085,7 @@
     "applyOnlineLink": "https://cms.concorindia.co.in:8000/uploads/cms/pdf/N0o59dO7FVXRIWf_VacancyNotice10of2026.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-tiss-deputy-librarian-and-more-deputy-registrar",
@@ -1106,273 +1102,7 @@
     "applyOnlineLink": "https://tiss.ac.in/uploads/files/Final_Advertisement_dtd_07.10.2026_Non-Teaching_Positions.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "assam-aau-assistant-professor",
-    "title": "AAU Recruitment 2026 – Assistant Professor Posts",
-    "shortInfo": "AAU has announced notification for Assistant Professor posts. Required qualification: Any Graduate, M.Phil/Ph.D. Last date to apply: 04-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "60",
-    "lastDate": "04-11-26",
-    "officialWebsite": "https://www.aau.ac.in",
-    "notificationLink": "https://www.aau.ac.in/document_viewer/aHR0cHM6Ly9jZG1zLmFhdS5hYy5pbi9kYXRhL3JlY3J1aXRtZW50L0FkdnRfNF8yMDI2LnBkZg==",
-    "applyOnlineLink": "https://appl.aau.ac.in/aau-recruitment-2026",
-    "state": "Assam",
-    "stateCode": "assam",
-    "scrapedAt": "2026-11-05",
-    "fees": [
-      {
-        "category": "General/OBC",
-        "fee": "Rs.1000/-"
-      },
-      {
-        "category": "SC/ST/PWD",
-        "fee": "Rs.500/-"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Notification Date",
-        "date": "29/09/2026"
-      },
-      {
-        "event": "Starting Date for Apply Online",
-        "date": "05/10/2026"
-      },
-      {
-        "event": "Closing Date to Fill Application Form",
-        "date": "04/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Soil Science",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Agronomy",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Biochemistry",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Plant Breeding & Genetics",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Seed Science & Technology",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Fruit Science",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Vegetable Science",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Floriculture",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Post Harvest Management",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Food Science & Technology",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Agricultural Economics",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Agril. Business Management",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Agril Extension Education",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Agril. Engineering",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Agril. Statistics",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Entomology",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Nematology",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Plant Pathology",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Agro-meteorology",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Animal Husbandry & Dairying",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Tea Husbandry & Technology",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Cocoon Crop Production",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Host Plant Production",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Sericulture Crop Improvement",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Silk Product Science",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Computer Science",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Extension Education and Communication Management",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Human Development and Family Studies",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Apparel and Textile Science",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Food & Nutrition",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Resource Management and Consumer Science",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the official website at www.aau.ac.in.",
-      "Fill the application form in the prescribed format.",
-      "Deposit the application fee through online mode.",
-      "Submit the application form before 4th Nov 2026 (4:00 PM)."
-    ]
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "assam-dahv assam-field-assistant-enumerator",
@@ -1389,6 +1119,6 @@
     "applyOnlineLink": "https://animalhusbandry.assam.gov.in/sites/default/files/swf_utility_folder/departments/ahvetdept_webcomindia_org_oid_3/menu/right_menu/right_menu/advertisement_for_the_post_of_field_assistant_statistics-enumerator.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   }
 ]

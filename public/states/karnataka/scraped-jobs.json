@@ -14,7 +14,7 @@
     "applyOnlineLink": "https://cetonline.karnataka.gov.in/kea/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General / OBC (2A, 2B, 3A, 3B)",
@@ -80,7 +80,7 @@
     "applyOnlineLink": "https://nats.education.gov.in/index.php",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "Fee",
@@ -132,7 +132,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/inbraoct26/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General/OBC/EWS candidates",
@@ -176,6 +176,108 @@
     ]
   },
   {
+    "id": "karnataka-icar-cmfri-young-professional-i",
+    "title": "ICAR-CMFRI Recruitment 2026 – Young Professional-I Posts",
+    "shortInfo": "ICAR-CMFRI has announced notification for Young Professional-I posts. Required qualification: Graduate. Last date to apply: 20-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "20-11-26",
+    "officialWebsite": "https://cmfri.org.in/uploads/jobs/career_6aeb1c8421e5d.pdf",
+    "notificationLink": "https://cmfri.org.in/uploads/jobs/career_6aeb1c8421e5d.pdf",
+    "applyOnlineLink": "https://cmfri.org.in/uploads/jobs/career_6aeb1c8421e5d.pdf",
+    "state": "Karnataka",
+    "stateCode": "karnataka",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "karnataka-cari-senior-research-fellow",
+    "title": "CARI Recruitment 2026 – Senior Research Fellow Posts",
+    "shortInfo": "CARI has announced notification for Senior Research Fellow posts. Required qualification: BAMS, MCA, B.Tech/B.E. Last date to apply: 18-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "3",
+    "lastDate": "18-11-26",
+    "officialWebsite": "https://ccras.nic.in/wp-content/uploads/2026/11/04112026-Advertisement-CARI-Bengaluru.pdf",
+    "notificationLink": "https://ccras.nic.in/wp-content/uploads/2026/11/04112026-Advertisement-CARI-Bengaluru.pdf",
+    "applyOnlineLink": "https://ccras.nic.in/wp-content/uploads/2026/11/04112026-Advertisement-CARI-Bengaluru.pdf",
+    "state": "Karnataka",
+    "stateCode": "karnataka",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "karnataka-prc jss ier-stenographer",
+    "title": "PRC JSS IER Recruitment 2026 – Stenographer Posts",
+    "shortInfo": "PRC JSS IER has announced notification for Stenographer posts. Required qualification: Diploma, 12TH. Last date to apply: 30-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "30-11-26",
+    "officialWebsite": "https://mohfw-dohfw.gov.in/static/uploads/2026/11/79a1af2cecfd10647d7e539bf7f8dd41.pdf",
+    "notificationLink": "https://mohfw-dohfw.gov.in/static/uploads/2026/11/79a1af2cecfd10647d7e539bf7f8dd41.pdf",
+    "applyOnlineLink": "https://mohfw-dohfw.gov.in/static/uploads/2026/11/79a1af2cecfd10647d7e539bf7f8dd41.pdf",
+    "state": "Karnataka",
+    "stateCode": "karnataka",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "karnataka-beei-teacher-and-more-special-educator",
+    "title": "BEEI Recruitment 2026 – Teacher and More, Special Educator Posts",
+    "shortInfo": "BEEI has announced notification for Teacher and More, Special Educator posts. Required qualification: M.A, M.Phil/Ph.D. Last date to apply: 24-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "10",
+    "lastDate": "24-11-26",
+    "officialWebsite": "https://bel-india.in/wp-content/uploads/2026/11/BEEI-Recruitment-Fixed-Tenure-Teachers-Job-Description.pdf",
+    "notificationLink": "https://bel-india.in/wp-content/uploads/2026/11/BEEI-Recruitment-Fixed-Tenure-Teachers-Job-Description.pdf",
+    "applyOnlineLink": "https://bel-india.in/wp-content/uploads/2026/11/BEEI-Recruitment-Fixed-Tenure-Teachers-Job-Description.pdf",
+    "state": "Karnataka",
+    "stateCode": "karnataka",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "karnataka-iisc-junior-program-manager",
+    "title": "IISc Recruitment 2026 – Junior Program Manager Posts",
+    "shortInfo": "IISc has announced notification for Junior Program Manager posts. Required qualification: MBA/PGDM, B.Tech/B.E. Last date to apply: 21-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "21-11-26",
+    "officialWebsite": "https://www.iisc.ac.in/wp-content/uploads/2026/11/AMRIT-Job-posting-Junior-Program-Manager.pdf",
+    "notificationLink": "https://www.iisc.ac.in/wp-content/uploads/2026/11/AMRIT-Job-posting-Junior-Program-Manager.pdf",
+    "applyOnlineLink": "https://www.iisc.ac.in/wp-content/uploads/2026/11/AMRIT-Job-posting-Junior-Program-Manager.pdf",
+    "state": "Karnataka",
+    "stateCode": "karnataka",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "karnataka-iisc bengaluru-research-associate-i-postdoctoral-researcher-",
+    "title": "IISc Bengaluru Recruitment 2026 – Research Associate – I (Postdoctoral Researcher) Posts",
+    "shortInfo": "IISc Bengaluru has announced notification for Research Associate – I (Postdoctoral Researcher) posts. Required qualification: M.Phil/Ph.D. Last date to apply: 17-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "17-11-26",
+    "officialWebsite": "https://www.iisc.ac.in/wp-content/uploads/2026/11/ICED-DRIP-Civil-IISc.pdf",
+    "notificationLink": "https://www.iisc.ac.in/wp-content/uploads/2026/11/ICED-DRIP-Civil-IISc.pdf",
+    "applyOnlineLink": "https://www.iisc.ac.in/wp-content/uploads/2026/11/ICED-DRIP-Civil-IISc.pdf",
+    "state": "Karnataka",
+    "stateCode": "karnataka",
+    "scrapedAt": "2026-11-06"
+  },
+  {
     "id": "karnataka-crs-sr-inspector-technical-",
     "title": "CRS Recruitment 2026 – Sr. Inspector (Technical) Posts",
     "shortInfo": "CRS has announced notification for Sr. Inspector (Technical) posts. Required qualification: Graduate. Last date to apply: 23-12-26.",
@@ -190,7 +292,7 @@
     "applyOnlineLink": "https://www.civilaviation.gov.in/sites/default/files/2026-11/request-to-upload-for-vacancy-circular-letter.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-dhs yadgiri-x-ray-technician-radiographers",
@@ -207,7 +309,7 @@
     "applyOnlineLink": "https://zpyadgiri.karnataka.gov.in/uploads/media_to_upload1793681022.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-uas dharwad-young-professional-ii",
@@ -224,7 +326,7 @@
     "applyOnlineLink": "https://drive.google.com/uc?export=download&#038;id=1Q2Sl7TDt2zubU-9PJ11Sdgl--D6UUnHZ",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-iiitb-admin-associate",
@@ -241,7 +343,7 @@
     "applyOnlineLink": "https://www.iiitb.ac.in/includefiles/userfiles/files/job%20posting%20Admin%20Associate%20_CPE.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-jncasr-research-associate",
@@ -258,7 +360,7 @@
     "applyOnlineLink": "https://www.jncasr.ac.in/sites/default/files/Join_Us/Opportunities/2026-11/NCU-Centre-181.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-mit manipal-research-associate",
@@ -275,7 +377,7 @@
     "applyOnlineLink": "https://www.manipal.edu/career/faculty-positions-collection/research-associate",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-chitradurga district health department-pharmacy-officer",
@@ -292,7 +394,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3a8ecbabae151abacba7dbde04f761c37/uploads/2026/11/17936856003882.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-kshrc-additional-registrar-registrar",
@@ -309,7 +411,7 @@
     "applyOnlineLink": "https://kshrc.karnataka.gov.in/uploads/Kannada_Notification_0001_1793600399.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-iit dharwad-project-associate-i",
@@ -326,7 +428,7 @@
     "applyOnlineLink": "https://www.iitdh.ac.in/sites/default/files/2026-11/Final%20Advertisement%20PA-I%20NLTM-LID.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-rites-senior-technical-assistant",
@@ -343,7 +445,7 @@
     "applyOnlineLink": "https://recruit.rites.com/frmRegistration.aspx",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General/OBC Candidates",
@@ -405,7 +507,7 @@
     "applyOnlineLink": "https://www.bmrc.co.in:8282/Kannada/uploads/career/kannada//fileuploads/BMRCL_HR_0007_PRJ_2026%20.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-uas dharwad-junior-research-fellow",
@@ -422,7 +524,7 @@
     "applyOnlineLink": "https://drive.google.com/uc?export=download&#038;id=1hTCqkn0WdsSW3ZjokOeLDkAoDIGm-oU6",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-uas dharwad-project-assistant",
@@ -439,7 +541,7 @@
     "applyOnlineLink": "https://drive.google.com/uc?export=download&#038;id=1houciQV4WD3M0ISWfcqU-f8xBAN9Gzos",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-kvk haveri-senior-research-fellow-on-temporary-basis-",
@@ -456,7 +558,7 @@
     "applyOnlineLink": "https://drive.google.com/uc?export=download&#038;id=1Tq2k7kpbaoe6ki5zr5ThQtQRMkJwtWFG",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-kea-draftsman-assistant-town-planner-junior-engineer",
@@ -473,7 +575,7 @@
     "applyOnlineLink": "https://cetonline.karnataka.gov.in/keawebentry456/gpcjecivilrpc2026/20261031183143_RPCkannada.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-kea-junior-engineer-assistant-town-planner",
@@ -490,7 +592,7 @@
     "applyOnlineLink": "https://cetonline.karnataka.gov.in/keawebentry456/gpcjecivilkk2026/20261031183044_KKkannada.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-aees-principal-pgt-prt-tgt-balvatika-teacher-librarian-",
@@ -507,7 +609,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aees-teacher-recruitment-2026/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General/OBC/EWS (Application Fee + Processing Fee)",
@@ -735,7 +837,7 @@
     "applyOnlineLink": "https://bnu.karnataka.gov.in/uploads/super%20skilled%20english%20notf%2026-27_0001_0001_1793442776.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-iiit bangalore-physics-laboratory-in-charge",
@@ -752,7 +854,7 @@
     "applyOnlineLink": "https://www.iiitb.ac.in/includefiles/userfiles/files/job%20posting%20Physics%20Laboratory_v2(1).pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-district court ramanagara-stenographer-grade-iii",
@@ -769,7 +871,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec01ffbd6cbb019a1413183c8d08f292/uploads/2026/10/2026102885.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-uasd-senior-research-fellow",
@@ -786,7 +888,7 @@
     "applyOnlineLink": "https://drive.google.com/uc?export=download&#038;id=1aWkV1aDPOSe10pWv4wCHfbw6CTbQ3aNq",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-uas dharwad-assistant-professor",
@@ -803,7 +905,7 @@
     "applyOnlineLink": "https://drive.google.com/uc?export=download&#038;id=1w95uO49MV9nuyVUS8MxcW32Eeq2KTOEb",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-nrlm karnataka-block-technical-coordinator-enterprise-promotion-o",
@@ -820,7 +922,7 @@
     "applyOnlineLink": "https://jobsksrlps.karnataka.gov.in/RecentJobs/Details/qlDIooe4L9CvucD8eo8QvQ",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-kea-first-division-assistant-fda-second-division-assis",
@@ -837,7 +939,7 @@
     "applyOnlineLink": "https://cetonline.karnataka.gov.in/kea/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General Merit and Applicable Non-Concessional Categories",
@@ -935,7 +1037,7 @@
     "applyOnlineLink": "https://www.iiitb.ac.in/includefiles/userfiles/files/job%20posting%20Physics%20Laboratory_v2(1).pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-nrlm karnataka-block-manager-and-more-deo-mis-coordinator",
@@ -952,7 +1054,7 @@
     "applyOnlineLink": "https://jobsksrlps.karnataka.gov.in/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-jncasr-medical-officer",
@@ -969,7 +1071,7 @@
     "applyOnlineLink": "https://www.jncasr.ac.in/sites/default/files/Join_Us/Opportunities/2026-10/ADVT%20MO%202026-2_0.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-iisc-library-and-information-management-lim-project-tra",
@@ -986,7 +1088,7 @@
     "applyOnlineLink": "https://www.iisc.ac.in/wp-content/uploads/2026/10/2.-Advertisement.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-iim bangalore-open-programmes-marketing",
@@ -1003,7 +1105,7 @@
     "applyOnlineLink": "https://www.iimb.ac.in/sites/default/files/inline-files/JD-Open-Programme-Marketing-2026_0.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-bnu-physical-education-director",
@@ -1020,7 +1122,7 @@
     "applyOnlineLink": "https://bnu.karnataka.gov.in/uploads/Physical%20education%20Director_1793258926.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-aiish mysore-senior-research-fellow-and-more-junior-research-fe",
@@ -1037,7 +1139,7 @@
     "applyOnlineLink": "https://aiishmysore.in/storage/files/advtno222026.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-ucsl-manager-deputy-manager",
@@ -1054,7 +1156,7 @@
     "applyOnlineLink": "https://cochinshipyard.in/uploads/career/439f2e9946f25d2b1a15791a4210c382.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-ucsl-supervisor",
@@ -1071,7 +1173,7 @@
     "applyOnlineLink": "https://cochinshipyard.in/uploads/career/84ce66e6357a4290a3291fce8f61bbaf.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-nccs-junior-engineer-ldc-amp-more",
@@ -1088,7 +1190,7 @@
     "applyOnlineLink": "https://nccs.gov.in/public/latest_updates/Deputation%20Vacancy%20Circular.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-rrc swr-goods-train-manager-junior-engineer-je-",
@@ -1105,7 +1207,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/rrc-swr-goods-train-manager-recruitment-2026/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "All Candidates",
@@ -1190,7 +1292,7 @@
     "applyOnlineLink": "https://nccs.gov.in/public/latest_updates/Deputation%20Vacancy%20Circular.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-sjmu-physical-education-director",
@@ -1207,7 +1309,7 @@
     "applyOnlineLink": "https://sjmu.edu.in/rms/openings/SJMU_RECRUITMENT_NOTIFICATION_2026_10_28.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-nmpa-assistant-manager-mw-",
@@ -1224,7 +1326,7 @@
     "applyOnlineLink": "https://newmangaloreport.gov.in/index.php/sites/default/files/2026-10/Assistant%20Manager%20%28MW%29.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-jncasr-arf-scientific-instrumentation-specialist",
@@ -1241,7 +1343,7 @@
     "applyOnlineLink": "https://www.jncasr.ac.in/sites/default/files/Join_Us/Opportunities/2026-10/Advertisement_0.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-nlsiu-department-of-revenue-chair-and-more-assistant-pro",
@@ -1258,7 +1360,7 @@
     "applyOnlineLink": "https://www.nls.ac.in/wp-content/uploads/2026/10/Notification-No.-20-Assistant-Professor-Law.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-aic stpinext initiatives-marketing-amp-project-coordinator-administrative-e",
@@ -1275,7 +1377,7 @@
     "applyOnlineLink": "https://bhubaneswar.stpi.in/sites/default/files/career-documents/aicnotice_0.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-bel-probationary-engineer",
@@ -1292,7 +1394,7 @@
     "applyOnlineLink": "https://g06.tcsion.com/EForms/configuredHtml/33192/103061/uPVtXzjwivanf3RWlN/Index.html",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General (UR)",
@@ -1367,7 +1469,7 @@
     "applyOnlineLink": "https://www.iimb.ac.in/sites/default/files/inline-files/JD-AA-Public_Policy-Area-2026.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-jncasr-arf-scientific-instrumentation-specialist-instrume",
@@ -1384,7 +1486,7 @@
     "applyOnlineLink": "https://www.jncasr.ac.in/sites/default/files/Join_Us/Opportunities/2026-10/RAdvt.%20-%20NMR%20facility,%20NCU.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-nmpa-graduate-apprentice-in-mechanical-graduate-apprent",
@@ -1401,7 +1503,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/nmpa-apprentice-recruitment-2026/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "Fee",
@@ -1514,24 +1616,7 @@
     "applyOnlineLink": "https://www.jncasr.ac.in/sites/default/files/Join_Us/Opportunities/2026-10/Advertisement_0.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "karnataka-hmt-senior-adviser",
-    "title": "HMT Recruitment 2026 – Senior Adviser Posts",
-    "shortInfo": "HMT has announced notification for Senior Adviser posts. Required qualification: B.Tech/B.E, MBA/PGDM. Last date to apply: 03-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "5",
-    "lastDate": "03-11-26",
-    "officialWebsite": "https://www.hmtindia.com/wp-content/uploads/2026/09/Senior-Adviser-MTL-Units.pdf",
-    "notificationLink": "https://www.hmtindia.com/wp-content/uploads/2026/09/Senior-Adviser-MTL-Units.pdf",
-    "applyOnlineLink": "https://www.hmtindia.com/wp-content/uploads/2026/09/Senior-Adviser-MTL-Units.pdf",
-    "state": "Karnataka",
-    "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-isro dos-accounts-officer-finance-",
@@ -1548,7 +1633,7 @@
     "applyOnlineLink": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Oct/Accounts_Officer_Finance_26102026.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-sainik school kodagu-pgt-more-tgt-nursing-sister",
@@ -1565,7 +1650,7 @@
     "applyOnlineLink": "https://drive.google.com/file/d/1ZYwoc5hEciARQvHR74sFKmM4k0P1QI64/view",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-aps belagavi-science-laboratory-attendant",
@@ -1582,7 +1667,7 @@
     "applyOnlineLink": "https://apsbelagavi.in/storage/uploads/careers/pdf/careers_6adc385d54e8f4.84301884.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-aps belagavi-science-laboratory-attendant",
@@ -1599,7 +1684,7 @@
     "applyOnlineLink": "https://apsbelagavi.in/storage/uploads/careers/pdf/careers_6adc385d54e8f4.84301884.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-isro nsil-chief-manager",
@@ -1616,7 +1701,7 @@
     "applyOnlineLink": "https://www.nsilindia.co.in/sites/default/files/Advertisement_NSIL_2026_01.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-rwf-junior-engineer-control-group-",
@@ -1633,7 +1718,7 @@
     "applyOnlineLink": "https://rwf.indianrailways.gov.in/uploads/uploads/Re-engagement_ele(1).pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-rwf-supervisors",
@@ -1650,7 +1735,7 @@
     "applyOnlineLink": "https://rwf.indianrailways.gov.in/uploads/uploads/Re-engagement_mech(1).pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-nmpa-senior-assistant-secretary",
@@ -1667,7 +1752,7 @@
     "applyOnlineLink": "https://newmangaloreport.gov.in/sites/default/files/2026-10/Letter%20Dtd.22.10.2026.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-isro ursc-technician-b-driver-staff-car-driver",
@@ -1684,7 +1769,7 @@
     "applyOnlineLink": "https://cdn.digialm.com/EForms/configuredHtml/1258/102567/istcBOtjGQvBFFaOvU/Index.html",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General/OBC/EWS (Non-refundable portion)",
@@ -1827,96 +1912,7 @@
     "applyOnlineLink": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1792579269_notificationyp-ii.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "karnataka-iimb-research-manager",
-    "title": "IIMB Recruitment 2026 – Research Manager Posts",
-    "shortInfo": "IIMB has announced notification for Research Manager posts. Required qualification: M.Phil/Ph.D, MBA/PGDM. Last date to apply: 03-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "03-11-26",
-    "officialWebsite": "https://www.iimb.ac.in/sites/default/files/inline-files/Research_Manager-consultant_Health-2026.pdf",
-    "notificationLink": "https://www.iimb.ac.in/sites/default/files/inline-files/Research_Manager-consultant_Health-2026.pdf",
-    "applyOnlineLink": "https://www.iimb.ac.in/sites/default/files/inline-files/Research_Manager-consultant_Health-2026.pdf",
-    "state": "Karnataka",
-    "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "karnataka-lic hfl-apprentice",
-    "title": "LIC HFL Recruitment 2026 – Apprentice Posts",
-    "shortInfo": "LIC HFL has announced notification for Apprentice posts. Required qualification: Graduation in any stream. Last date to apply: 01-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "232",
-    "lastDate": "01-11-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
-    "notificationLink": "https://cdn.lichousing.com/2026/10/Apprentecis-Advertisement-Notification-Batch-10.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
-    "state": "Karnataka",
-    "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05",
-    "fees": [
-      {
-        "category": "Scheduled Caste (SC) / Scheduled Tribe (ST) candidates",
-        "fee": "Rs. 200/- plus GST"
-      },
-      {
-        "category": "Person with Benchmark Disability (PwBD) candidates",
-        "fee": "Rs. 200/- plus GST"
-      },
-      {
-        "category": "General, EWS and Other Backward Class (OBC) - Male candidates",
-        "fee": "Rs. 800/- plus GST"
-      },
-      {
-        "category": "General, EWS and Other Backward Class (OBC) - Female / Transgender candidates",
-        "fee": "Rs. 600/- plus GST"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Application Start Date",
-        "date": "20/10/2026"
-      },
-      {
-        "event": "Last Date to Apply & Pay Examination Fee",
-        "date": "01/11/2026"
-      },
-      {
-        "event": "Entrance Examination Date",
-        "date": "07/11/2026"
-      },
-      {
-        "event": "Document Verification & Personal Interview",
-        "date": "15/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Apprentice",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Candidates must first mandatorily register themselves on the NATS portal (https://nats.education.gov.in) by navigating to the ‘Student Register/Login’ section.",
-      "After registration, candidates will receive an email from BFSI SSC inviting them to fill up a detailed application and make payment for the Online Examination for ‘LIC HFL Apprenticeship Program’.",
-      "Visit https://beep.bfsissc.com to submit additional information and make the examination fee payment before 01-Nov-2026.",
-      "Note your Enrolment ID issued by the NATS portal for all future correspondence.",
-      "All eligible applicants who have paid the examination fee will receive an online examination link and login credentials from BFSI SSC on the day before the examination date.",
-      "Appear for the online remote proctored examination on 07-Nov-2026 from home using a camera-enabled device with good internet connectivity.",
-      "Shortlisted candidates will be invited for Document Verification &amp; Personal Interview at LIC HFL offices on 15-Nov-2026.",
-      "Final selected candidates will receive engagement letters from LIC HFL tentatively in the 3rd week of November."
-    ]
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-nlsiu-library-trainee",
@@ -1933,7 +1929,7 @@
     "applyOnlineLink": "https://www.nls.ac.in/news-events/call-for-applications-library-trainee-01-position/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-cstri-project-associate",
@@ -1950,7 +1946,7 @@
     "applyOnlineLink": "https://csb.gov.in/sites/default/files/2026-10/PA_STSC%20Dharwad.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-dhfws hassan-masseurs-and-more-pharmacists",
@@ -1967,7 +1963,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s386b122d4358357d834a87ce618a55de0/uploads/2026/10/17924063592703.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-bhel-fitter-welder-turner-machinist-electrician-electro",
@@ -1984,7 +1980,7 @@
     "applyOnlineLink": "https://cdn.digialm.com/EForms/configuredHtml/33192/102813/o0zKIYO3CqWa8uMPmN/login.html",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "UR/EWS/OBC",
@@ -2087,7 +2083,7 @@
     "applyOnlineLink": "https://career.uidai.gov.in/en/opportunities",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-csir cftri-technician",
@@ -2104,7 +2100,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/csir-cftri-technician-recruitment-2026/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General/OBC/EWS (Male)",
@@ -2251,7 +2247,7 @@
     "applyOnlineLink": "https://bel-india.in/wp-content/uploads/2026/10/Director-RD-Advertisement.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-isro dos-assistant-section-officer-under-secretary-sr-audit",
@@ -2268,7 +2264,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/isro-dos-group-a-b-recruitment-2026/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "Fee",
@@ -2419,7 +2415,7 @@
     "applyOnlineLink": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtLRDE_Cons15102026.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-iimb-academic-associate",
@@ -2436,7 +2432,7 @@
     "applyOnlineLink": "https://www.iimb.ac.in/sites/default/files/inline-files/JD-AA-Decision-Sciences-Area-2026.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-indian coast guard-chargeman",
@@ -2453,7 +2449,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/icg-chargeman-recruitment-2026/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "Fee",
@@ -2490,23 +2486,6 @@
     ]
   },
   {
-    "id": "karnataka-echs bangalore-clerk-driver-and-more-peon",
-    "title": "ECHS Bangalore Recruitment 2026 – Clerk, Driver and More, Peon Posts",
-    "shortInfo": "ECHS Bangalore has announced notification for Clerk, Driver and More, Peon posts. Required qualification: GNM, 10TH, 8TH, BDS, Diploma, MBBS, B.Pharma, D.Pharm, Any Graduate. Last date to apply: 02-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "35",
-    "lastDate": "02-11-26",
-    "officialWebsite": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Banglore%2002%20Nov.pdf",
-    "notificationLink": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Banglore%2002%20Nov.pdf",
-    "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Banglore%2002%20Nov.pdf",
-    "state": "Karnataka",
-    "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
-  },
-  {
     "id": "karnataka-isro hsfc-medical-officer-sd",
     "title": "ISRO HSFC Recruitment 2026 – Medical Officer SD Posts",
     "shortInfo": "ISRO HSFC has announced notification for Medical Officer SD posts. Required qualification: DNB, MS/MD. Last date to apply: 08-11-26.",
@@ -2521,7 +2500,7 @@
     "applyOnlineLink": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Oct/HSFC_DETAILED_ADVERTISEMENT_09102026.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-csb-young-professional",
@@ -2538,7 +2517,7 @@
     "applyOnlineLink": "https://csb.gov.in/sites/default/files/2026-10/YP%20Advertisement.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-mrpl-fire-officer",
@@ -2555,7 +2534,7 @@
     "applyOnlineLink": "https://mrplregistration.ibtexamination.com/App04MrpL2026/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General / OBC (NCL) / EWS",
@@ -2616,7 +2595,7 @@
     "applyOnlineLink": "https://iiitdwdnt.samarth.edu.in/index.php/site/login",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "All Candidates",
@@ -2702,7 +2681,7 @@
     "applyOnlineLink": "https://csb.gov.in/sites/default/files/2026-10/Detailed%20Advertisement%20for%20SA%20%2C%20CSB-ISBR%20updated%20to%2006-11-2026.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "karnataka-bengaluru rural district court-typist-copyist-peon-process-server-typist",
@@ -2719,7 +2698,7 @@
     "applyOnlineLink": "https://bengalururural.dcourts.gov.in/notice-category/recruitments/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General Merit Candidates",
@@ -2795,58 +2774,6 @@
     ]
   },
   {
-    "id": "karnataka-indian coast guard-foreman-of-stores",
-    "title": "Indian Coast Guard Recruitment 2026 – Foreman of Stores Posts",
-    "shortInfo": "Indian Coast Guard has announced notification for Foreman of Stores posts. Required qualification: Master Degree, Bachelor Degree, Diploma. Last date to apply: 03-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "4",
-    "lastDate": "03-11-26",
-    "officialWebsite": "https://indiancoastguard.gov.in/",
-    "notificationLink": "https://indiancoastguard.gov.in/sites/default/files/English%20advertisement%20for%20FOS_0.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/indian-coast-guard-foreman-recruitment-2026/",
-    "state": "Karnataka",
-    "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05",
-    "fees": [
-      {
-        "category": "Fee",
-        "fee": "Not Mentioned"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Application Start Date",
-        "date": "19/09/2026"
-      },
-      {
-        "event": "Last Date of Receiving Applications",
-        "date": "03/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Foreman of Stores (General Central Service, Group 'B', Non-Gazetted, Non-ministerial)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Download the application form from the prescribed format given at Annexure-I in the official notification.",
-      "Fill the application form in English or Hindi as per the prescribed format.",
-      "Affix a self-attested colour passport size photograph on the application form.",
-      "Attach self-attested photocopies of the following documents: Aadhaar card, Matriculation/equivalent mark sheet and certificate, UG/PG/Diploma mark sheet and certificate, Latest Category Certificate (ST/EWS) if applicable, Experience Certificate, NOC from employer (if applicable), and two latest passport size colour photographs.",
-      "Enclose a separate blank envelope with Rs. 50/- postal stamp pasted on it, addressed to yourself.",
-      "Super-scribe the envelope in BOLD letters: ‘APPLICATION FOR THE POST OF FOREMAN OF STORES’ along with the category applied for.",
-      "Send the duly filled application with all attachments by ordinary post only to: The Director General, {For PD (Rectt)}, Coast Guard Headquarters, Directorate of Recruitment, C-1, Phase II, Industrial Area, Sector-62, Noida, U.P. – 201309.",
-      "The application must reach by 03 Nov 2026. Applications sent by hand or courier will not be accepted."
-    ]
-  },
-  {
     "id": "karnataka-krcl-junior-engineer-civil-alp-station-master-technicia",
     "title": "KRCL Recruitment 2026 – Junior Engineer (Civil), ALP, Station Master, Technician &amp; Other Posts Posts",
     "shortInfo": "KRCL has announced notification for Junior Engineer (Civil), ALP, Station Master, Technician &amp; Other Posts posts. Required qualification: 10th Pass, ITI, Diploma, Graduation, B.E., B.Tech. Last date to apply: Update.",
@@ -2861,7 +2788,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/konkan-railway-recruitment-2026-apply-online-for-201-je-alp-technician-other-posts/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General/UR/OBC-NCL/EWS (Male)",

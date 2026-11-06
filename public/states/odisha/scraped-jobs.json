@@ -1,5 +1,138 @@
 [
   {
+    "id": "odisha-opsc-assistant-section-officer-aso",
+    "title": "OPSC Recruitment 2026 – Assistant Section Officer - ASO Posts",
+    "shortInfo": "OPSC has announced notification for Assistant Section Officer - ASO posts. Required qualification: Bachelor's Degree, Computer Application. Last date to apply: 30-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "340",
+    "lastDate": "30-11-26",
+    "officialWebsite": "https://www.opsc.gov.in",
+    "notificationLink": "https://govtjobguru.in/wp-content/uploads/2026/11/OPSC-ASO-Recruitment-2026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/opsc-aso-recruitment-2026/",
+    "state": "Odisha",
+    "stateCode": "odisha",
+    "scrapedAt": "2026-11-06",
+    "fees": [
+      {
+        "category": "General/OBC/SEBC (Non-SC/ST/PWD)",
+        "fee": "Rs. 700/-"
+      },
+      {
+        "category": "SC/ST/PWD",
+        "fee": "Nil"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Application Start Date",
+        "date": "09/11/2026"
+      },
+      {
+        "event": "Application Last Date",
+        "date": "30/11/2026"
+      },
+      {
+        "event": "Date of Written Examination",
+        "date": "17/01/2027"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Assistant Section Officer (Group-B) - UR",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Section Officer (Group-B) - SEBC",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Section Officer (Group-B) - SC",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Section Officer (Group-B) - ST",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official OPSC website at https://www.opsc.gov.in.",
+      "Register and create a PPSAN (Permanent Public Service Account Number) account.",
+      "Fill in the online application form carefully with accurate information.",
+      "Upload scanned copies of required documents including passport size photograph, full signature, and Left-hand Thumb Impression (LTI).",
+      "Pay the examination fee of Rs. 700/- online (not applicable for SC/ST/PWD candidates).",
+      "Submit the online application form before 30.11.2026 (05:00 PM).",
+      "Take a printout of the finally submitted online application form for future reference.",
+      "Do not submit more than one online application form through multiple PPSAN accounts."
+    ]
+  },
+  {
+    "id": "odisha-orissa high court-civil-judge-senior-division-",
+    "title": "Orissa High Court Recruitment 2026 – Civil Judge (Senior Division) Posts",
+    "shortInfo": "Orissa High Court has announced notification for Civil Judge (Senior Division) posts. Required qualification: Serving Judicial Officer, Civil Judge (Junior Division). Last date to apply: 25-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "30",
+    "lastDate": "25-11-26",
+    "officialWebsite": "https://orissahighcourt.nic.in",
+    "notificationLink": "https://orissahighcourt.nic.in/uploads/recruitment/recruitment-1793857620.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/orissa-high-court-civil-judge-recruitment-2026/",
+    "state": "Odisha",
+    "stateCode": "odisha",
+    "scrapedAt": "2026-11-06",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Application Start Date",
+        "date": "09/11/2026"
+      },
+      {
+        "event": "Online Application Last Date",
+        "date": "25/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Civil Judge (Senior Division)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website of High Court of Orissa: www.orissahighcourt.nic.in",
+      "Navigate to Recruitment Corner → Examination Portal → LIMITED DEPARTMENTAL COMPETITIVE EXAMINATION FOR RECRUITMENT TO THE POSTS IN THE CADRE OF CIVIL JUDGE (SENIOR DIVISION), 2026",
+      "Read the advertisement and instructions carefully before filling the application form.",
+      "Fill in the Online Application Form with accurate details.",
+      "Upload recent passport size colour photograph and full signature with proper orientation on white background.",
+      "Submit the application form online within the stipulated date and time (09.11.2026 10:00 AM to 25.11.2026 11:59 PM).",
+      "Inform the concerned Controlling Authority after submission.",
+      "If more than one application is submitted, only the latest application with the higher Acknowledgement Number will be considered."
+    ]
+  },
+  {
     "id": "odisha-nlc-graduate-executive-trainee",
     "title": "NLC Recruitment 2026 – Graduate Executive Trainee Posts",
     "shortInfo": "NLC has announced notification for Graduate Executive Trainee posts. Required qualification: B.E/B.Tech in Mechanical/Electrical/Civil/Mining. Last date to apply: 14-12-26.",
@@ -14,7 +147,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/nlc-get-recruitment-2026-through-gate-2025/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "UR / EWS / OBC (NCL) Candidates",
@@ -101,7 +234,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/inbraoct26/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General/OBC/EWS candidates",
@@ -145,6 +278,91 @@
     ]
   },
   {
+    "id": "odisha-iprcl-joint-general-manager-electrical-e5",
+    "title": "IPRCL Recruitment 2026 – Joint General Manager (Electrical) - E5 Posts",
+    "shortInfo": "IPRCL has announced notification for Joint General Manager (Electrical) - E5 posts. Required qualification: B.Tech/B.E. Last date to apply: 04-12-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "04-12-26",
+    "officialWebsite": "https://iprcl.in/uploads/vacancies/1793799725_VC_No_10-2026_-_JGM_(Electrical)_2_Posts_at_Mumbai_Bhubaneswar.pdf",
+    "notificationLink": "https://iprcl.in/uploads/vacancies/1793799725_VC_No_10-2026_-_JGM_(Electrical)_2_Posts_at_Mumbai_Bhubaneswar.pdf",
+    "applyOnlineLink": "https://iprcl.in/uploads/vacancies/1793799725_VC_No_10-2026_-_JGM_(Electrical)_2_Posts_at_Mumbai_Bhubaneswar.pdf",
+    "state": "Odisha",
+    "stateCode": "odisha",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "odisha-iprcl-chief-general-manager-projects-electrical-s-amp-t-",
+    "title": "IPRCL Recruitment 2026 – Chief General Manager (Projects / Electrical / S&amp;T / Mechanical) Posts",
+    "shortInfo": "IPRCL has announced notification for Chief General Manager (Projects / Electrical / S&amp;T / Mechanical) posts. Required qualification: B.Tech/B.E. Last date to apply: 04-12-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "8",
+    "lastDate": "04-12-26",
+    "officialWebsite": "https://iprcl.in/uploads/vacancies/1793800161_VC_No_08-2026_-_CGM_(Projects)_5_Posts,_01-CGM_(Elect),_01-CGM(ST)_and_01-CGM(Mech).pdf",
+    "notificationLink": "https://iprcl.in/uploads/vacancies/1793800161_VC_No_08-2026_-_CGM_(Projects)_5_Posts,_01-CGM_(Elect),_01-CGM(ST)_and_01-CGM(Mech).pdf",
+    "applyOnlineLink": "https://iprcl.in/uploads/vacancies/1793800161_VC_No_08-2026_-_CGM_(Projects)_5_Posts,_01-CGM_(Elect),_01-CGM(ST)_and_01-CGM(Mech).pdf",
+    "state": "Odisha",
+    "stateCode": "odisha",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "odisha-balangir district court-group-d-employees-daily-wage-",
+    "title": "Balangir District Court Recruitment 2026 – Group-D Employees (Daily Wage) Posts",
+    "shortInfo": "Balangir District Court has announced notification for Group-D Employees (Daily Wage) posts. Required qualification: 8TH. Last date to apply: 18-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "30",
+    "lastDate": "18-11-26",
+    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3ec03bdd8817990ef209f0fb6b049f2d2/uploads/2026/11/2026110452.pdf",
+    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec03bdd8817990ef209f0fb6b049f2d2/uploads/2026/11/2026110452.pdf",
+    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec03bdd8817990ef209f0fb6b049f2d2/uploads/2026/11/2026110452.pdf",
+    "state": "Odisha",
+    "stateCode": "odisha",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "odisha-tmc-project-assistant-staff-nurse",
+    "title": "TMC Recruitment 2026 – Project Assistant, Staff Nurse Posts",
+    "shortInfo": "TMC has announced notification for Project Assistant, Staff Nurse posts. Required qualification: Diploma, Graduate, B.Sc. Last date to apply: 18-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "3",
+    "lastDate": "18-11-26",
+    "officialWebsite": "https://tmc.gov.in/postmaster/DownloadFile.aspx?FileId=2554",
+    "notificationLink": "https://tmc.gov.in/postmaster/DownloadFile.aspx?FileId=2554",
+    "applyOnlineLink": "https://tmc.gov.in/postmaster/DownloadFile.aspx?FileId=2554",
+    "state": "Odisha",
+    "stateCode": "odisha",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "odisha-samagra shiksha bhadrak-warden",
+    "title": "Samagra Shiksha Bhadrak Recruitment 2026 – Warden Posts",
+    "shortInfo": "Samagra Shiksha Bhadrak has announced notification for Warden posts. Required qualification: B.Sc, 10TH, B.Ed, B.A, Graduate. Last date to apply: 13-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "13-11-26",
+    "officialWebsite": "https://bhadrak.odisha.gov.in/sites/default/files/2026-11/Warden_KGBV_Bdk.pdf",
+    "notificationLink": "https://bhadrak.odisha.gov.in/sites/default/files/2026-11/Warden_KGBV_Bdk.pdf",
+    "applyOnlineLink": "https://bhadrak.odisha.gov.in/sites/default/files/2026-11/Warden_KGBV_Bdk.pdf",
+    "state": "Odisha",
+    "stateCode": "odisha",
+    "scrapedAt": "2026-11-06"
+  },
+  {
     "id": "odisha-nhm balangir-mo-physician-consultant",
     "title": "NHM Balangir Recruitment 2026 – MO, Physician/ Consultant Posts",
     "shortInfo": "NHM Balangir has announced notification for MO, Physician/ Consultant posts. Required qualification: PG Diploma, MS/MD, Diploma, MBBS. Last date to apply: 10-11-26.",
@@ -159,7 +377,7 @@
     "applyOnlineLink": "https://balangir.odisha.gov.in/sites/default/files/2026-11/3398.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "odisha-ouat-assistant-professor-associate-professor",
@@ -176,7 +394,7 @@
     "applyOnlineLink": "https://ouat.ac.in/wp-content/uploads/2026/10/17387-2026.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "odisha-aees-principal-pgt-prt-tgt-balvatika-teacher-librarian-",
@@ -193,7 +411,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aees-teacher-recruitment-2026/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General/OBC/EWS (Application Fee + Processing Fee)",
@@ -409,7 +627,7 @@
   {
     "id": "odisha-osssc-ophthalmic-officer",
     "title": "OSSSC Recruitment 2026 – Ophthalmic Officer Posts",
-    "shortInfo": "OSSSC has announced notification for Ophthalmic Officer posts. Required qualification: Graduate. Last date to apply: 05-12-26.",
+    "shortInfo": "OSSSC has announced notification for Ophthalmic Officer posts. Required qualification: 12th. Last date to apply: 05-12-26.",
     "category": "Latest Jobs",
     "categoryIcon": "📚",
     "categoryMarathi": "Latest Jobs",
@@ -421,7 +639,7 @@
     "applyOnlineLink": "https://www.osssc.gov.in/Public/OSSSC/Default.aspx",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General/OBC/Other Categories",
@@ -481,7 +699,7 @@
     "applyOnlineLink": "https://ouat.ac.in/wp-content/uploads/2026/10/2890-291026.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "odisha-nit rourkela-project-fellow",
@@ -498,7 +716,7 @@
     "applyOnlineLink": "https://nitrkl.ac.in/docs/Career/ProjectFelow/2026/30102026175734513.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "odisha-ohpc-managing-director",
@@ -515,7 +733,7 @@
     "applyOnlineLink": "https://www.ohpc.co.in/wp-content/uploads/2026/10/9853-dtd-30.10.2026.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "odisha-ouat-junior-research-fellow",
@@ -532,7 +750,7 @@
     "applyOnlineLink": "https://ouat.ac.in/wp-content/uploads/2026/10/2890-291026.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "odisha-berhampur university-senior-research-fellow",
@@ -549,7 +767,7 @@
     "applyOnlineLink": "https://buodisha.edu.in/wp-content/uploads/2026/10/Advt-26_ISRO-Project_MSC_BU_Oct2026-Signed.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "odisha-iop-scientific-assistant-b-electronics-",
@@ -566,7 +784,7 @@
     "applyOnlineLink": "https://www.iopb.res.in/wp-content/uploads/2026/10/IOP_Scientific_Assistant_B_Electronics_Advertisement_2026.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "odisha-opsc-scientific-officer",
@@ -583,7 +801,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/opsc-scientific-officer-recruitment-2026/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General/OBC/Others",
@@ -708,7 +926,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/esic-bhubaneswar-faculty-senior-resident-recruitment-2026/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "SC/ST/ESIC Regular Employees/Female Candidates/Defence Ex-Servicemen & PH Candidates",
@@ -773,23 +991,6 @@
     ]
   },
   {
-    "id": "odisha-iit bhubaneswar-x-ray-technician",
-    "title": "IIT Bhubaneswar Recruitment 2026 – X-ray Technician Posts",
-    "shortInfo": "IIT Bhubaneswar has announced notification for X-ray Technician posts. Required qualification: B.Sc. Last date to apply: 02-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "02-11-26",
-    "officialWebsite": "https://www.iitbbs.ac.in/wp-content/uploads/2026/10/Web-Advt.-X-ray-Technician.pdf",
-    "notificationLink": "https://www.iitbbs.ac.in/wp-content/uploads/2026/10/Web-Advt.-X-ray-Technician.pdf",
-    "applyOnlineLink": "https://www.iitbbs.ac.in/wp-content/uploads/2026/10/Web-Advt.-X-ray-Technician.pdf",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
-  },
-  {
     "id": "odisha-hal-physician-general-medicine-",
     "title": "HAL Recruitment 2026 – Physician (General Medicine) Posts",
     "shortInfo": "HAL has announced notification for Physician (General Medicine) posts. Required qualification: DNB, MBBS, PG Diploma, Diploma, Post Graduate. Last date to apply: 12-11-26.",
@@ -804,7 +1005,7 @@
     "applyOnlineLink": "https://hal-india.co.in/backend//wp-content/uploads/career/Notification_for_Physician_(General_Medicine)%20alongwith%20Application%20Format_1793176635.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "odisha-opgc-senior-general-manager",
@@ -821,24 +1022,7 @@
     "applyOnlineLink": "https://career.opgc.co.in/pdf/OPGC_Detailed_Adv_OPGC_CO_HR_04_2026.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "odisha-ohvf-business-development-manager",
-    "title": "OHVF Recruitment 2026 – Business Development Manager Posts",
-    "shortInfo": "OHVF has announced notification for Business Development Manager posts. Required qualification: Graduate, MBA/PGDM, B.Com, M.Sc, B.Tech/B.E, Other. Last date to apply: 03-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "03-11-26",
-    "officialWebsite": "https://www.iitbbs.ac.in/wp-content/uploads/2026/10/ohvf-Advt.-for-BDM.pdf",
-    "notificationLink": "https://www.iitbbs.ac.in/wp-content/uploads/2026/10/ohvf-Advt.-for-BDM.pdf",
-    "applyOnlineLink": "https://www.iitbbs.ac.in/wp-content/uploads/2026/10/ohvf-Advt.-for-BDM.pdf",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "odisha-cari-consultant-and-more-young-professional",
@@ -855,7 +1039,7 @@
     "applyOnlineLink": "https://ccras.nic.in/wp-content/uploads/2026/10/27102026-CARI-BHU_VAC.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "odisha-iiser berhampur-post-doctoral-research-fellow",
@@ -872,7 +1056,7 @@
     "applyOnlineLink": "https://iiserbpr.ac.in/webcontrol/uploads/job/IISERBPR_ADV_PDRF_PHY_2026_01Advt.%20for%20the%20position%20of%20PDRF%20in%20the%20Deptt.%20of%20Physical%20Sciences%20under%20the%20guidance%20of%20Dr.%20Bikas%20Chandra%20Das_20261026143907_4380.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "odisha-aiims bhubaneswar-project-research-scientist-i-project-technical-sup",
@@ -889,7 +1073,7 @@
     "applyOnlineLink": "https://aiimsbhubaneswar.nic.in/wp-content/uploads/2026/10/f16762f0-449c-41b7-9496-6a557f017889.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "odisha-iop bhubaneswar-research-associate",
@@ -906,7 +1090,7 @@
     "applyOnlineLink": "https://www.iopb.res.in/wp-content/uploads/2026/10/Advertisement-for-Research-Associate-_-Manmath-Badapanda-DAE-RRC.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "odisha-iiser berhampur-junior-research-fellow",
@@ -923,7 +1107,7 @@
     "applyOnlineLink": "https://www.iiserbpr.ac.in/webcontrol/uploads/job/IISERBPR_MTH_ANRF_120625_TSHyb_084_JRF%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Advertisement%20for%20Junior%20Research%20Fellow%20(JRF)-ANRF%20084_20261026112824_5682.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "odisha-zilla swasthya samiti subarnapur-medical-officer-optometrist",
@@ -940,7 +1124,7 @@
     "applyOnlineLink": "https://subarnapur.odisha.gov.in/sites/default/files/2026-10/Advertisement%20of%20in%20house%20recruitment%20under,%20NHM,%20Subarnapur.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "odisha-ousssc-constable-civil-constable-communication-constable-",
@@ -957,7 +1141,7 @@
     "applyOnlineLink": "https://ousssceabedana.odisha.gov.in/#/auth/landing",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "SC/ST Candidates",
@@ -1051,95 +1235,6 @@
     ]
   },
   {
-    "id": "odisha-csir immt-technical-amp-business-development-consultant",
-    "title": "CSIR IMMT Recruitment 2026 – Technical &amp; Business Development Consultant Posts",
-    "shortInfo": "CSIR IMMT has announced notification for Technical &amp; Business Development Consultant posts. Required qualification: M.Phil/Ph.D. Last date to apply: 04-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "04-11-26",
-    "officialWebsite": "https://www.immt.res.in/webroot/upload/admin/announcement/2026-10-21_announcement_img_1792580835.pdf",
-    "notificationLink": "https://www.immt.res.in/webroot/upload/admin/announcement/2026-10-21_announcement_img_1792580835.pdf",
-    "applyOnlineLink": "https://www.immt.res.in/webroot/upload/admin/announcement/2026-10-21_announcement_img_1792580835.pdf",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "odisha-lic hfl-apprentice",
-    "title": "LIC HFL Recruitment 2026 – Apprentice Posts",
-    "shortInfo": "LIC HFL has announced notification for Apprentice posts. Required qualification: Graduation in any stream. Last date to apply: 01-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "232",
-    "lastDate": "01-11-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
-    "notificationLink": "https://cdn.lichousing.com/2026/10/Apprentecis-Advertisement-Notification-Batch-10.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-05",
-    "fees": [
-      {
-        "category": "Scheduled Caste (SC) / Scheduled Tribe (ST) candidates",
-        "fee": "Rs. 200/- plus GST"
-      },
-      {
-        "category": "Person with Benchmark Disability (PwBD) candidates",
-        "fee": "Rs. 200/- plus GST"
-      },
-      {
-        "category": "General, EWS and Other Backward Class (OBC) - Male candidates",
-        "fee": "Rs. 800/- plus GST"
-      },
-      {
-        "category": "General, EWS and Other Backward Class (OBC) - Female / Transgender candidates",
-        "fee": "Rs. 600/- plus GST"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Application Start Date",
-        "date": "20/10/2026"
-      },
-      {
-        "event": "Last Date to Apply & Pay Examination Fee",
-        "date": "01/11/2026"
-      },
-      {
-        "event": "Entrance Examination Date",
-        "date": "07/11/2026"
-      },
-      {
-        "event": "Document Verification & Personal Interview",
-        "date": "15/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Apprentice",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Candidates must first mandatorily register themselves on the NATS portal (https://nats.education.gov.in) by navigating to the ‘Student Register/Login’ section.",
-      "After registration, candidates will receive an email from BFSI SSC inviting them to fill up a detailed application and make payment for the Online Examination for ‘LIC HFL Apprenticeship Program’.",
-      "Visit https://beep.bfsissc.com to submit additional information and make the examination fee payment before 01-Nov-2026.",
-      "Note your Enrolment ID issued by the NATS portal for all future correspondence.",
-      "All eligible applicants who have paid the examination fee will receive an online examination link and login credentials from BFSI SSC on the day before the examination date.",
-      "Appear for the online remote proctored examination on 07-Nov-2026 from home using a camera-enabled device with good internet connectivity.",
-      "Shortlisted candidates will be invited for Document Verification &amp; Personal Interview at LIC HFL offices on 15-Nov-2026.",
-      "Final selected candidates will receive engagement letters from LIC HFL tentatively in the 3rd week of November."
-    ]
-  },
-  {
     "id": "odisha-isro sdsc shar-heavy-vehicle-driver-and-more-mts",
     "title": "ISRO SDSC SHAR Recruitment 2026 – Heavy Vehicle Driver and More, MTS Posts",
     "shortInfo": "ISRO SDSC SHAR has announced notification for Heavy Vehicle Driver and More, MTS posts. Required qualification: Any Graduate, 10TH, ITI, Diploma. Last date to apply: 09-11-26.",
@@ -1154,7 +1249,7 @@
     "applyOnlineLink": "https://apps.shar.gov.in/Recruitment/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "Post Codes 07–15 (Women/SC/ST/PwBD/Ex-Servicemen – Exempted, Full Refund)",
@@ -1383,7 +1478,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/irel-tradesman-trainee-recruitment-2026/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "UR / EWS / OBC (NCL) candidates",
@@ -1448,23 +1543,6 @@
     ]
   },
   {
-    "id": "odisha-city health society brahmapur-medical-officer",
-    "title": "City Health Society Brahmapur Recruitment 2026 – Medical Officer Posts",
-    "shortInfo": "City Health Society Brahmapur has announced notification for Medical Officer posts. Required qualification: MBBS. Last date to apply: 03-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "03-11-26",
-    "officialWebsite": "https://ganjam.odisha.gov.in/sites/default/files/2026-10/Advertisement_MO%20UAAM%20Brahmapur_1.pdf",
-    "notificationLink": "https://ganjam.odisha.gov.in/sites/default/files/2026-10/Advertisement_MO%20UAAM%20Brahmapur_1.pdf",
-    "applyOnlineLink": "https://ganjam.odisha.gov.in/sites/default/files/2026-10/Advertisement_MO%20UAAM%20Brahmapur_1.pdf",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
-  },
-  {
     "id": "odisha-omc-director",
     "title": "OMC Recruitment 2026 – Director Posts",
     "shortInfo": "OMC has announced notification for Director posts. Required qualification: CA, Any Graduate, ICWA, PGDM, MBA/PGDM, PG Diploma, B.Tech/B.E, Any Post Graduate. Last date to apply: 30-11-26.",
@@ -1479,7 +1557,7 @@
     "applyOnlineLink": "https://dg1ya6cdc7ief.cloudfront.net/Upload/career_post/94938a91f0a44fabb770a446cf304463_20261015130153242.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "odisha-sail cmlo-specialist-and-gdmo-walk-in-",
@@ -1496,24 +1574,7 @@
     "applyOnlineLink": "https://aima-web-images.s3.ap-south-1.amazonaws.com/sailcareers.com/Downloads/RSP_News%20&amp;%20Jobs_15102026_093310.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "odisha-nilachal seva pratisthan-cook-and-more-ayah",
-    "title": "Nilachal Seva Pratisthan Recruitment 2026 – Cook and More, Ayah Posts",
-    "shortInfo": "Nilachal Seva Pratisthan has announced notification for Cook and More, Ayah posts. Required qualification: M.P.Ed, 12TH, Any Graduate, 8TH, BPEd, 10TH. Last date to apply: 03-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "8",
-    "lastDate": "03-11-26",
-    "officialWebsite": "https://nsp.org.in/nsp-api/public/assets/upload_6ac76b82a73ac5.74682271.pdf",
-    "notificationLink": "https://nsp.org.in/nsp-api/public/assets/upload_6ac76b82a73ac5.74682271.pdf",
-    "applyOnlineLink": "https://nsp.org.in/nsp-api/public/assets/upload_6ac76b82a73ac5.74682271.pdf",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "odisha-ocpl-manager-medical-officer",
@@ -1530,7 +1591,7 @@
     "applyOnlineLink": "https://ocpl.org.in/Detailed_Advertisement_OCPL_HR_26_01.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "odisha-icar crri-young-professional-ii",
@@ -1547,76 +1608,7 @@
     "applyOnlineLink": "https://icar-crri.in/wp-content/uploads/2026/10/EAP-482.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "odisha-icar crri-agricultural-field-operator-young-professional-wal",
-    "title": "ICAR CRRI Recruitment 2026 – Agricultural Field Operator, Young Professional (Walk-in) Posts",
-    "shortInfo": "ICAR CRRI has announced notification for Agricultural Field Operator, Young Professional (Walk-in) posts. Required qualification: B.Sc, M.Sc, 12TH. Last date to apply: 02.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "24",
-    "lastDate": "02",
-    "officialWebsite": "https://icar-crri.in/",
-    "notificationLink": "https://icar-crri.in/wp-content/uploads/2026/10/EAP-485.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/icar-crri-afo-yp-recruitment-2026/",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-05",
-    "fees": [
-      {
-        "category": "Fee",
-        "fee": "Not Mentioned"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Walk-in Interview for Young Professional-II (YP-II)",
-        "date": "02/11/2026"
-      },
-      {
-        "event": "Walk-in Interview for Young Professional-I (YP-I)",
-        "date": "02/11/2026"
-      },
-      {
-        "event": "Walk-in Interview for Agricultural Field Operator (AFO)",
-        "date": "03/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Young Professional-II (YP-II)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Young Professional-I (YP-I)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Agricultural Field Operator (AFO)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Download the Biodata form from the official website of ICAR-CRRI.",
-      "Bring one recent passport size photograph.",
-      "Bring original educational certificates from matriculation onwards (even if available on Digilocker) along with Xerox copies.",
-      "Bring experience certificate in the relevant subject as per advertisement.",
-      "Candidates currently employed or pursuing studies must furnish a No Objection Certificate (NOC) from their respective employer/institution.",
-      "Appear for the Walk-in-Interview on the scheduled date, time, and place as mentioned in the advertisement.",
-      "Report strictly before the scheduled reporting time."
-    ]
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "odisha-bric ils-junior-research-fellow",
@@ -1633,7 +1625,7 @@
     "applyOnlineLink": "https://www.ils.res.in/wp-content/uploads/2026/10/AdvPhD-JRF-Dec-2026-12-10-2026.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "odisha-nluo-deputy-warden",
@@ -1650,7 +1642,7 @@
     "applyOnlineLink": "https://docs.google.com/forms/d/e/1FAIpQLSecipUL6xu2tQZXPPOnNR3a_9JXkkrMPDyA8RyvfntJzrri4Q/viewform",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "Fee",
@@ -1699,24 +1691,7 @@
     "applyOnlineLink": "https://nluo.ac.in/wp-content/uploads/2026/10/NLUO-Cuttack.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "odisha-prasar bharati-casual-broadcast-assistant",
-    "title": "Prasar Bharati Recruitment 2026 – Casual Broadcast Assistant Posts",
-    "shortInfo": "Prasar Bharati has announced notification for Casual Broadcast Assistant posts. Required qualification: Diploma, Any Graduate. Last date to apply: 03-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "03-11-26",
-    "officialWebsite": "https://newsonair.gov.in/wp-content/uploads/2026/10/Advertisement-Sambalpur.pdf",
-    "notificationLink": "https://newsonair.gov.in/wp-content/uploads/2026/10/Advertisement-Sambalpur.pdf",
-    "applyOnlineLink": "https://newsonair.gov.in/wp-content/uploads/2026/10/Advertisement-Sambalpur.pdf",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "odisha-odisha research centre-senior-amp-junior-research-internship-programme",
@@ -1733,7 +1708,7 @@
     "applyOnlineLink": "https://kuu.ac.in/wp-content/uploads/2026/10/Call-for-applications.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "odisha-opsc-assistant-executive-engineer-civil-assistant-execu",
@@ -1750,7 +1725,7 @@
     "applyOnlineLink": "https://opscechayan.in/#/auth/landing",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "All Categories",
@@ -1811,24 +1786,7 @@
     "applyOnlineLink": "https://ouat.ac.in/wp-content/uploads/2026/10/16218.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "odisha-itr drdo-graduate-and-technician-apprentice",
-    "title": "ITR DRDO Recruitment 2026 – Graduate and Technician Apprentice Posts",
-    "shortInfo": "ITR DRDO has announced notification for Graduate and Technician Apprentice posts. Required qualification: Diploma, B.Com, B.B.A, B.Tech/B.E, B.Lib. Last date to apply: 02-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "54",
-    "lastDate": "02-11-26",
-    "officialWebsite": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtITR09102026.pdf",
-    "notificationLink": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtITR09102026.pdf",
-    "applyOnlineLink": "https://drdo.gov.in/drdo/sites/default/files/vacancy/advtITR09102026.pdf",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "odisha-central university of odisha-registrar-controller-of-examinations",
@@ -1845,7 +1803,7 @@
     "applyOnlineLink": "https://cuo.ac.in/Recruitment/2026/Advt-Notification_Registrar-CoE-07102026.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "odisha-iopb-tradesman",
@@ -1862,7 +1820,7 @@
     "applyOnlineLink": "https://www.iopb.res.in/wp-content/uploads/2026/10/IOP_TADESMAN-A_Recruitment_Advertisement_2026__FINAL.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "odisha-csb btsso-sericulture-assistant",
@@ -1879,7 +1837,7 @@
     "applyOnlineLink": "https://csb.gov.in/sites/default/files/2026-10/csb-btsso-SA.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "odisha-ssb odisha-laboratory-assistant-cum-storekeeper",
@@ -1896,7 +1854,7 @@
     "applyOnlineLink": "https://ssbodisha.site/las26/public/advertisement.php",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "SC/ST/PwD Candidates",
@@ -1961,7 +1919,7 @@
     "applyOnlineLink": "https://oav.edu.in/online-application.php",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "UR & SEBC candidates (Principal)",
@@ -2126,58 +2084,6 @@
     ]
   },
   {
-    "id": "odisha-indian coast guard-foreman-of-stores",
-    "title": "Indian Coast Guard Recruitment 2026 – Foreman of Stores Posts",
-    "shortInfo": "Indian Coast Guard has announced notification for Foreman of Stores posts. Required qualification: Master Degree, Bachelor Degree, Diploma. Last date to apply: 03-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "4",
-    "lastDate": "03-11-26",
-    "officialWebsite": "https://indiancoastguard.gov.in/",
-    "notificationLink": "https://indiancoastguard.gov.in/sites/default/files/English%20advertisement%20for%20FOS_0.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/indian-coast-guard-foreman-recruitment-2026/",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-05",
-    "fees": [
-      {
-        "category": "Fee",
-        "fee": "Not Mentioned"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Application Start Date",
-        "date": "19/09/2026"
-      },
-      {
-        "event": "Last Date of Receiving Applications",
-        "date": "03/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Foreman of Stores (General Central Service, Group 'B', Non-Gazetted, Non-ministerial)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Download the application form from the prescribed format given at Annexure-I in the official notification.",
-      "Fill the application form in English or Hindi as per the prescribed format.",
-      "Affix a self-attested colour passport size photograph on the application form.",
-      "Attach self-attested photocopies of the following documents: Aadhaar card, Matriculation/equivalent mark sheet and certificate, UG/PG/Diploma mark sheet and certificate, Latest Category Certificate (ST/EWS) if applicable, Experience Certificate, NOC from employer (if applicable), and two latest passport size colour photographs.",
-      "Enclose a separate blank envelope with Rs. 50/- postal stamp pasted on it, addressed to yourself.",
-      "Super-scribe the envelope in BOLD letters: ‘APPLICATION FOR THE POST OF FOREMAN OF STORES’ along with the category applied for.",
-      "Send the duly filled application with all attachments by ordinary post only to: The Director General, {For PD (Rectt)}, Coast Guard Headquarters, Directorate of Recruitment, C-1, Phase II, Industrial Area, Sector-62, Noida, U.P. – 201309.",
-      "The application must reach by 03 Nov 2026. Applications sent by hand or courier will not be accepted."
-    ]
-  },
-  {
     "id": "odisha-aai-graduate-apprentice-diploma-apprentice-iti-apprent",
     "title": "AAI Recruitment 2026 – Graduate Apprentice, Diploma Apprentice, ITI Apprentice Posts",
     "shortInfo": "AAI has announced notification for Graduate Apprentice, Diploma Apprentice, ITI Apprentice posts. Required qualification: Graduate Degree / Diploma / ITI. Last date to apply: Update.",
@@ -2192,7 +2098,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [],
     "dates": [
       {

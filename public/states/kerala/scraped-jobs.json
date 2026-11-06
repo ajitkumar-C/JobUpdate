@@ -14,7 +14,7 @@
     "applyOnlineLink": "https://nats.education.gov.in/index.php",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "Fee",
@@ -66,7 +66,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/inbraoct26/",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General/OBC/EWS candidates",
@@ -110,38 +110,293 @@
     ]
   },
   {
-    "id": "kerala-tmb bank-global-nri-centre-head-gnc-",
-    "title": "TMB Bank Recruitment 2026 – Global NRI Centre Head (GNC) Posts",
-    "shortInfo": "TMB Bank has announced notification for Global NRI Centre Head (GNC) posts. Required qualification: Graduate, Post Graduate. Last date to apply: 11-11-26.",
+    "id": "kerala-vkidft-teaching-assistant",
+    "title": "VKIDFT Recruitment 2026 – Teaching Assistant Posts",
+    "shortInfo": "VKIDFT has announced notification for Teaching Assistant posts. Required qualification: B.Tech/B.E, M.Phil/Ph.D, M.E/M.Tech. Last date to apply: 20-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "20-11-26",
+    "officialWebsite": "https://www.kvasu.ac.in/files/1793791006_CS_30102026115346.PDF",
+    "notificationLink": "https://www.kvasu.ac.in/files/1793791006_CS_30102026115346.PDF",
+    "applyOnlineLink": "https://www.kvasu.ac.in/files/1793791006_CS_30102026115346.PDF",
+    "state": "Kerala",
+    "stateCode": "kerala",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "kerala-kerala university-kitchen-helper-residential-cook",
+    "title": "Kerala University Recruitment 2026 – Kitchen Helper, Residential Cook Posts",
+    "shortInfo": "Kerala University has announced notification for Kitchen Helper, Residential Cook posts. Required qualification: . Last date to apply: 13-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "13-11-26",
+    "officialWebsite": "https://keralauniversity.ac.in/pdfs/jobNoti/JobNotificationKitchenHelper1793791853.pdf",
+    "notificationLink": "https://keralauniversity.ac.in/pdfs/jobNoti/JobNotificationKitchenHelper1793791853.pdf",
+    "applyOnlineLink": "https://keralauniversity.ac.in/pdfs/jobNoti/JobNotificationKitchenHelper1793791853.pdf",
+    "state": "Kerala",
+    "stateCode": "kerala",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "kerala-kvasu-teaching-assistant",
+    "title": "KVASU Recruitment 2026 – Teaching Assistant Posts",
+    "shortInfo": "KVASU has announced notification for Teaching Assistant posts. Required qualification: Post Graduate. Last date to apply: 18-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "18-11-26",
+    "officialWebsite": "https://www.kvasu.ac.in/files/1793790911_walk+in+interview.pdf",
+    "notificationLink": "https://www.kvasu.ac.in/files/1793790911_walk+in+interview.pdf",
+    "applyOnlineLink": "https://www.kvasu.ac.in/files/1793790911_walk+in+interview.pdf",
+    "state": "Kerala",
+    "stateCode": "kerala",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "kerala-amrita vishwa vidyapeetham-post-doctoral-fellow",
+    "title": "Amrita Vishwa Vidyapeetham Recruitment 2026 – Post-Doctoral Fellow Posts",
+    "shortInfo": "Amrita Vishwa Vidyapeetham has announced notification for Post-Doctoral Fellow posts. Required qualification: M.Phil/Ph.D. Last date to apply: 05-12-26.",
     "category": "Others",
     "categoryIcon": "🏢",
     "categoryMarathi": "Others",
     "district": "State Level",
     "vacancies": "1",
-    "lastDate": "11-11-26",
-    "officialWebsite": "https://www.ib.tmbonline.bank.in/tmb_careers/doc/ADV_GLN20262701.pdf",
-    "notificationLink": "https://www.ib.tmbonline.bank.in/tmb_careers/doc/ADV_GLN20262701.pdf",
-    "applyOnlineLink": "https://www.ib.tmbonline.bank.in/tmb_careers/doc/ADV_GLN20262701.pdf",
+    "lastDate": "05-12-26",
+    "officialWebsite": "https://www.amrita.edu/job/post-doctoral-fellow-metallurgy-materials-science-amritapuri/",
+    "notificationLink": "https://www.amrita.edu/job/post-doctoral-fellow-metallurgy-materials-science-amritapuri/",
+    "applyOnlineLink": "https://www.amrita.edu/job/post-doctoral-fellow-metallurgy-materials-science-amritapuri/",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
-    "id": "kerala-college of engineering chengannur-tradesman-demonstrator",
-    "title": "College of Engineering Chengannur Recruitment 2026 – Tradesman, Demonstrator Posts",
-    "shortInfo": "College of Engineering Chengannur has announced notification for Tradesman, Demonstrator posts. Required qualification: Diploma, 10TH, B.Sc. Last date to apply: 05-11-26.",
+    "id": "kerala-kfri-project-fellow",
+    "title": "KFRI Recruitment 2026 – Project Fellow Posts",
+    "shortInfo": "KFRI has announced notification for Project Fellow posts. Required qualification: M.Sc. Last date to apply: 19-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "19-11-26",
+    "officialWebsite": "https://www.kfri.res.in/noticeboard/opportunities.asp?ID=2643",
+    "notificationLink": "https://www.kfri.res.in/noticeboard/opportunities.asp?ID=2643",
+    "applyOnlineLink": "https://www.kfri.res.in/noticeboard/opportunities.asp?ID=2643",
+    "state": "Kerala",
+    "stateCode": "kerala",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "kerala-kscste kfri-project-fellow",
+    "title": "KSCSTE KFRI Recruitment 2026 – Project Fellow Posts",
+    "shortInfo": "KSCSTE KFRI has announced notification for Project Fellow posts. Required qualification: M.Sc. Last date to apply: 19-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "19-11-26",
+    "officialWebsite": "https://www.kfri.res.in/noticeboard/opportunities.asp?ID=2644",
+    "notificationLink": "https://www.kfri.res.in/noticeboard/opportunities.asp?ID=2644",
+    "applyOnlineLink": "https://www.kfri.res.in/noticeboard/opportunities.asp?ID=2644",
+    "state": "Kerala",
+    "stateCode": "kerala",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "kerala-malayalam mission-driver-cum-office-attender-office-attendant-and-mo",
+    "title": "Malayalam Mission Recruitment 2026 – Driver cum Office Attender, Office Attendant and More Posts",
+    "shortInfo": "Malayalam Mission has announced notification for Driver cum Office Attender, Office Attendant and More posts. Required qualification: 10TH, 7th. Last date to apply: 10-11-26.",
     "category": "Others",
     "categoryIcon": "🏢",
     "categoryMarathi": "Others",
     "district": "State Level",
     "vacancies": "3",
-    "lastDate": "05-11-26",
-    "officialWebsite": "https://ceconline.edu/wpdata/csinterview.pdf",
-    "notificationLink": "https://ceconline.edu/wpdata/csinterview.pdf",
-    "applyOnlineLink": "https://ceconline.edu/wpdata/csinterview.pdf",
+    "lastDate": "10-11-26",
+    "officialWebsite": "https://api.mm.kerala.gov.in/uploads/newsletters/Ug1qWBGcp81zXPJltALMTq5RAxRzqNkYo7jSdqGe.pdf",
+    "notificationLink": "https://api.mm.kerala.gov.in/uploads/newsletters/Ug1qWBGcp81zXPJltALMTq5RAxRzqNkYo7jSdqGe.pdf",
+    "applyOnlineLink": "https://api.mm.kerala.gov.in/uploads/newsletters/Ug1qWBGcp81zXPJltALMTq5RAxRzqNkYo7jSdqGe.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "kerala-kfri-project-associate",
+    "title": "KFRI Recruitment 2026 – Project Associate Posts",
+    "shortInfo": "KFRI has announced notification for Project Associate posts. Required qualification: M.Phil/Ph.D, M.Sc. Last date to apply: 16-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "16-11-26",
+    "officialWebsite": "https://www.kfri.res.in/noticeboard/opportunities.asp?ID=2642",
+    "notificationLink": "https://www.kfri.res.in/noticeboard/opportunities.asp?ID=2642",
+    "applyOnlineLink": "https://www.kfri.res.in/noticeboard/opportunities.asp?ID=2642",
+    "state": "Kerala",
+    "stateCode": "kerala",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "kerala-mgu-overseer-grade-ii-civil-",
+    "title": "MGU Recruitment 2026 – Overseer Grade II (Civil) Posts",
+    "shortInfo": "MGU has announced notification for Overseer Grade II (Civil) posts. Required qualification: 10TH, Diploma, ITI. Last date to apply: 17-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "17-11-26",
+    "officialWebsite": "https://www.mgu.ac.in/uploads/2026/11/86143-AD_A4-1-2024-_-_-_4-1.pdf?x44203=",
+    "notificationLink": "https://www.mgu.ac.in/uploads/2026/11/86143-AD_A4-1-2024-_-_-_4-1.pdf?x44203=",
+    "applyOnlineLink": "https://www.mgu.ac.in/uploads/2026/11/86143-AD_A4-1-2024-_-_-_4-1.pdf?x44203=",
+    "state": "Kerala",
+    "stateCode": "kerala",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "kerala-hll-diploma-trainee-sslc-trainees",
+    "title": "HLL Recruitment 2026 – Diploma Trainee, SSLC Trainees Posts",
+    "shortInfo": "HLL has announced notification for Diploma Trainee, SSLC Trainees posts. Required qualification: B.Tech/B.E, BCA, Diploma, B.Com, B.A, 12TH, ITI, B.Sc, Graduate, 10TH. Last date to apply: 10-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "9",
+    "lastDate": "10-11-26",
+    "officialWebsite": "https://www.lifecarehll.com/file/download/reference/039b598aac0db8cf2c78f97f06efbdaahYSLenc",
+    "notificationLink": "https://www.lifecarehll.com/file/download/reference/039b598aac0db8cf2c78f97f06efbdaahYSLenc",
+    "applyOnlineLink": "https://www.lifecarehll.com/file/download/reference/039b598aac0db8cf2c78f97f06efbdaahYSLenc",
+    "state": "Kerala",
+    "stateCode": "kerala",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "kerala-cet-students-counsellor",
+    "title": "CET Recruitment 2026 – Students Counsellor Posts",
+    "shortInfo": "CET has announced notification for Students Counsellor posts. Required qualification: M.Sc, M.A, MSW. Last date to apply: 10-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "10-11-26",
+    "officialWebsite": "https://www.cet.ac.in/wp-content/uploads/2026/11/counsellor2026.pdf",
+    "notificationLink": "https://www.cet.ac.in/wp-content/uploads/2026/11/counsellor2026.pdf",
+    "applyOnlineLink": "https://www.cet.ac.in/wp-content/uploads/2026/11/counsellor2026.pdf",
+    "state": "Kerala",
+    "stateCode": "kerala",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "kerala-amrita vishwa vidyapeetham-post-doctoral-fellow",
+    "title": "Amrita Vishwa Vidyapeetham Recruitment 2026 – Post-Doctoral Fellow Posts",
+    "shortInfo": "Amrita Vishwa Vidyapeetham has announced notification for Post-Doctoral Fellow posts. Required qualification: M.Phil/Ph.D. Last date to apply: 05-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "05-11-26",
+    "officialWebsite": "https://www.amrita.edu/job/post-doctoral-fellow-additive-manufacturing-polymer-composites-amritapuri/",
+    "notificationLink": "https://www.amrita.edu/job/post-doctoral-fellow-additive-manufacturing-polymer-composites-amritapuri/",
+    "applyOnlineLink": "https://www.amrita.edu/job/post-doctoral-fellow-additive-manufacturing-polymer-composites-amritapuri/",
+    "state": "Kerala",
+    "stateCode": "kerala",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "kerala-amrita-junior-research-fellow",
+    "title": "Amrita Recruitment 2026 – Junior Research Fellow Posts",
+    "shortInfo": "Amrita has announced notification for Junior Research Fellow posts. Required qualification: M.Phil/Ph.D, M.E/M.Tech. Last date to apply: 06-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "06-11-26",
+    "officialWebsite": "https://www.amrita.edu/job/jrf-amritapuri/",
+    "notificationLink": "https://www.amrita.edu/job/jrf-amritapuri/",
+    "applyOnlineLink": "https://www.amrita.edu/job/jrf-amritapuri/",
+    "state": "Kerala",
+    "stateCode": "kerala",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "kerala-kasrs-assistant-professor",
+    "title": "KASRS Recruitment 2026 – Assistant Professor Posts",
+    "shortInfo": "KASRS has announced notification for Assistant Professor posts. Required qualification: M.Phil/Ph.D, M.A. Last date to apply: 03-12-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "03-12-26",
+    "officialWebsite": "https://cmd.kerala.gov.in/wp-content/uploads/2026/11/Notification-KASRS.pdf",
+    "notificationLink": "https://cmd.kerala.gov.in/wp-content/uploads/2026/11/Notification-KASRS.pdf",
+    "applyOnlineLink": "https://cmd.kerala.gov.in/wp-content/uploads/2026/11/Notification-KASRS.pdf",
+    "state": "Kerala",
+    "stateCode": "kerala",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "kerala-amrita-research-trainee",
+    "title": "Amrita Recruitment 2026 – Research Trainee Posts",
+    "shortInfo": "Amrita has announced notification for Research Trainee posts. Required qualification: Post Graduate. Last date to apply: 14-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "14-11-26",
+    "officialWebsite": "https://www.amrita.edu/job/research-trainee-at-amritapuri/",
+    "notificationLink": "https://www.amrita.edu/job/research-trainee-at-amritapuri/",
+    "applyOnlineLink": "https://www.amrita.edu/job/research-trainee-at-amritapuri/",
+    "state": "Kerala",
+    "stateCode": "kerala",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "kerala-si-met-assistant-professor-lecturer",
+    "title": "SI-MET Recruitment 2026 – Assistant Professor, Lecturer Posts",
+    "shortInfo": "SI-MET has announced notification for Assistant Professor, Lecturer posts. Required qualification: M.Sc. Last date to apply: 18-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "19",
+    "lastDate": "18-11-26",
+    "officialWebsite": "https://simet.in/storage/2026/11/ilovepdf_merged-14.pdf",
+    "notificationLink": "https://simet.in/storage/2026/11/ilovepdf_merged-14.pdf",
+    "applyOnlineLink": "https://simet.in/storage/2026/11/ilovepdf_merged-14.pdf",
+    "state": "Kerala",
+    "stateCode": "kerala",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "kerala-si-met-assistant-professor-lecturer",
+    "title": "SI-MET Recruitment 2026 – Assistant Professor, Lecturer Posts",
+    "shortInfo": "SI-MET has announced notification for Assistant Professor, Lecturer posts. Required qualification: M.Sc. Last date to apply: 18-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "9",
+    "lastDate": "18-11-26",
+    "officialWebsite": "https://simet.in/storage/2026/11/ilovepdf_merged-13.pdf",
+    "notificationLink": "https://simet.in/storage/2026/11/ilovepdf_merged-13.pdf",
+    "applyOnlineLink": "https://simet.in/storage/2026/11/ilovepdf_merged-13.pdf",
+    "state": "Kerala",
+    "stateCode": "kerala",
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-calicut university-women-security-guard",
@@ -158,7 +413,7 @@
     "applyOnlineLink": "https://docs.uoc.ac.in/website/vacancies/2026-11-03%2016:58:26_vac2135.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-iimk-office-attendant",
@@ -175,7 +430,75 @@
     "applyOnlineLink": "https://webapps.iimk.ac.in/jobportal/notifications/Notif_1793704937.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "kerala-tmb bank-global-nri-centre-head-gnc-",
+    "title": "TMB Bank Recruitment 2026 – Global NRI Centre Head (GNC) Posts",
+    "shortInfo": "TMB Bank has announced notification for Global NRI Centre Head (GNC) posts. Required qualification: Graduate, Post Graduate. Last date to apply: 11-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "11-11-26",
+    "officialWebsite": "https://www.ib.tmbonline.bank.in/tmb_careers/doc/ADV_GLN20262701.pdf",
+    "notificationLink": "https://www.ib.tmbonline.bank.in/tmb_careers/doc/ADV_GLN20262701.pdf",
+    "applyOnlineLink": "https://www.ib.tmbonline.bank.in/tmb_careers/doc/ADV_GLN20262701.pdf",
+    "state": "Kerala",
+    "stateCode": "kerala",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "kerala-college of engineering chengannur-tradesman-demonstrator",
+    "title": "College of Engineering Chengannur Recruitment 2026 – Tradesman, Demonstrator Posts",
+    "shortInfo": "College of Engineering Chengannur has announced notification for Tradesman, Demonstrator posts. Required qualification: Diploma, 10TH, B.Sc. Last date to apply: 05-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "3",
+    "lastDate": "05-11-26",
+    "officialWebsite": "https://ceconline.edu/wpdata/csinterview.pdf",
+    "notificationLink": "https://ceconline.edu/wpdata/csinterview.pdf",
+    "applyOnlineLink": "https://ceconline.edu/wpdata/csinterview.pdf",
+    "state": "Kerala",
+    "stateCode": "kerala",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "kerala-calicut university-women-security-guard",
+    "title": "Calicut University Recruitment 2026 – Women Security Guard Posts",
+    "shortInfo": "Calicut University has announced notification for Women Security Guard posts. Required qualification: Graduate. Last date to apply: 21-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "21-11-26",
+    "officialWebsite": "https://docs.uoc.ac.in/website/vacancies/2026-11-03%2016:58:26_vac2135.pdf",
+    "notificationLink": "https://docs.uoc.ac.in/website/vacancies/2026-11-03%2016:58:26_vac2135.pdf",
+    "applyOnlineLink": "https://docs.uoc.ac.in/website/vacancies/2026-11-03%2016:58:26_vac2135.pdf",
+    "state": "Kerala",
+    "stateCode": "kerala",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "kerala-iimk-office-attendant",
+    "title": "IIMK Recruitment 2026 – Office Attendant Posts",
+    "shortInfo": "IIMK has announced notification for Office Attendant posts. Required qualification: 12TH. Last date to apply: 23-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "23-11-26",
+    "officialWebsite": "https://webapps.iimk.ac.in/jobportal/notifications/Notif_1793704937.pdf",
+    "notificationLink": "https://webapps.iimk.ac.in/jobportal/notifications/Notif_1793704937.pdf",
+    "applyOnlineLink": "https://webapps.iimk.ac.in/jobportal/notifications/Notif_1793704937.pdf",
+    "state": "Kerala",
+    "stateCode": "kerala",
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-iim kozhikode-public-relations-executive",
@@ -192,7 +515,7 @@
     "applyOnlineLink": "https://webapps.iimk.ac.in/jobportal/notifications/Notif_1793703808.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-malappuram collectorate-administrative-assistant",
@@ -209,7 +532,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s382aa4b0af34c2313a562076992e50aa3/uploads/2026/11/17936894217535.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-nhm thiruvananthapuram-public-relations-officer",
@@ -226,7 +549,7 @@
     "applyOnlineLink": "https://arogyakeralam.gov.in/wp-content/uploads/2020/04/PRO-Notification-Nov-2026-.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-sctimst-graduate-apprentice",
@@ -243,7 +566,7 @@
     "applyOnlineLink": "https://www.sctimst.ac.in/Recruitment/RESOURCES/H_2026-27_2418.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-kannur university-overseer-grade-ii-electrical-electrical-helper",
@@ -260,24 +583,7 @@
     "applyOnlineLink": "https://www.kannuruniversity.ac.in/media/documents/PressReleaseNotification_OverseerEHelper-WalkinInterview.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "kerala-district court alappuzha-computer-assistant-office-attendant-confidential-a",
-    "title": "District Court Alappuzha Recruitment 2026 – Computer Assistant, Office Attendant, Confidential Assistant Posts",
-    "shortInfo": "District Court Alappuzha has announced notification for Computer Assistant, Office Attendant, Confidential Assistant posts. Required qualification: Retired Staff. Last date to apply: 03-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "4",
-    "lastDate": "03-11-26",
-    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3ec0379514e888b8f2acacc68738d0cbb/uploads/2026/10/2026103194.pdf",
-    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec0379514e888b8f2acacc68738d0cbb/uploads/2026/10/2026103194.pdf",
-    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0379514e888b8f2acacc68738d0cbb/uploads/2026/10/2026103194.pdf",
-    "state": "Kerala",
-    "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-kv pattom-primary-teacher-prt-",
@@ -294,7 +600,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3kv0204a1305ee80a7ef1efc2ff91297c/uploads/2026/11/2026110298.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-life mission-engineering-interns",
@@ -311,7 +617,7 @@
     "applyOnlineLink": "https://asapkerala.gov.in/job/internship-vacancy-notification-life-mission/",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-rites-senior-technical-assistant",
@@ -328,7 +634,7 @@
     "applyOnlineLink": "https://recruit.rites.com/frmRegistration.aspx",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General/OBC Candidates",
@@ -390,7 +696,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3kv0204a1305ee80a7ef1efc2ff91297c/uploads/2026/11/2026110298.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-life mission-engineering-interns",
@@ -407,41 +713,7 @@
     "applyOnlineLink": "https://asapkerala.gov.in/job/internship-vacancy-notification-life-mission/",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "kerala-cec-security-guard",
-    "title": "CEC Recruitment 2026 – Security Guard Posts",
-    "shortInfo": "CEC has announced notification for Security Guard posts. Required qualification: Other. Last date to apply: 04-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "04-11-26",
-    "officialWebsite": "https://ceconline.edu/wpdata/security.pdf",
-    "notificationLink": "https://ceconline.edu/wpdata/security.pdf",
-    "applyOnlineLink": "https://ceconline.edu/wpdata/security.pdf",
-    "state": "Kerala",
-    "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "kerala-kannur university-lab-assistant",
-    "title": "Kannur University Recruitment 2026 – Lab Assistant Posts",
-    "shortInfo": "Kannur University has announced notification for Lab Assistant posts. Required qualification: Graduate, B.Sc. Last date to apply: 04-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "04-11-26",
-    "officialWebsite": "https://www.kannuruniversity.ac.in/media/documents/interview-notification_2026_3.pdf",
-    "notificationLink": "https://www.kannuruniversity.ac.in/media/documents/interview-notification_2026_3.pdf",
-    "applyOnlineLink": "https://www.kannuruniversity.ac.in/media/documents/interview-notification_2026_3.pdf",
-    "state": "Kerala",
-    "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-prd kerala-reporter",
@@ -458,7 +730,7 @@
     "applyOnlineLink": "https://prd.kerala.gov.in/sites/default/files/pdf/Reporter%20notification.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-duk-more-cybersecurity-solutions-architect-lead-audito",
@@ -475,7 +747,7 @@
     "applyOnlineLink": "https://duk.ac.in/data/2026/11/Notification-KSAAC-KUDSIT-587-AD_AIII-2025.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-kerala high court-research-assistant",
@@ -492,24 +764,7 @@
     "applyOnlineLink": "https://hckrecruitment.keralacourts.in/hckrecruitment//Recruitment/viewPdfNotificationFile?token=bm90aWZpY2F0aW9uXzU3LnBkZg==",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "kerala-district court alappuzha-office-attendant-confidential-assistant-computer-a",
-    "title": "District Court Alappuzha Recruitment 2026 – Office Attendant, Confidential Assistant, Computer Assistant Posts",
-    "shortInfo": "District Court Alappuzha has announced notification for Office Attendant, Confidential Assistant, Computer Assistant posts. Required qualification: Retired Staff. Last date to apply: 03-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "4",
-    "lastDate": "03-11-26",
-    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3ec0379514e888b8f2acacc68738d0cbb/uploads/2026/10/2026103194.pdf",
-    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec0379514e888b8f2acacc68738d0cbb/uploads/2026/10/2026103194.pdf",
-    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0379514e888b8f2acacc68738d0cbb/uploads/2026/10/2026103194.pdf",
-    "state": "Kerala",
-    "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-amrita vishwa vidyapeetham-verbal-and-communication-trainer",
@@ -526,7 +781,7 @@
     "applyOnlineLink": "https://www.amrita.edu/job/verbal-and-communication-trainer-kochi-arts-and-sciences/",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-tmb bank-global-nri-centre-head-gnc-",
@@ -543,24 +798,7 @@
     "applyOnlineLink": "https://www.ib.tmbonline.bank.in/tmb_careers/doc/ADV_GLN20262701.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "kerala-district court alappuzha-confidential-assistant-computer-assistant-office-a",
-    "title": "District Court Alappuzha Recruitment 2026 – Confidential Assistant, Computer Assistant, Office Attendant Posts",
-    "shortInfo": "District Court Alappuzha has announced notification for Confidential Assistant, Computer Assistant, Office Attendant posts. Required qualification: . Last date to apply: 03-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "4",
-    "lastDate": "03-11-26",
-    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3ec0379514e888b8f2acacc68738d0cbb/uploads/2026/10/2026103194.pdf",
-    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec0379514e888b8f2acacc68738d0cbb/uploads/2026/10/2026103194.pdf",
-    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0379514e888b8f2acacc68738d0cbb/uploads/2026/10/2026103194.pdf",
-    "state": "Kerala",
-    "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-kau-skilled-assistant",
@@ -577,7 +815,7 @@
     "applyOnlineLink": "https://www.kau.in/sites/default/files/announcements/notification_20261030_0001.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-amrita vishwa vidyapeetham-research-assistant",
@@ -594,7 +832,7 @@
     "applyOnlineLink": "https://www.amrita.edu/job/research-assistant/",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-calicut university-security-guard",
@@ -611,7 +849,7 @@
     "applyOnlineLink": "https://docs.uoc.ac.in/website/vacancies/2026-10-31%2014:40:30_vac2133.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-visl-general-manager-environment-",
@@ -628,7 +866,7 @@
     "applyOnlineLink": "https://cmd.kerala.gov.in/wp-content/uploads/2026/10/VISL-Notification-3.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-kerala psc-attender-and-more-police-constable",
@@ -645,7 +883,7 @@
     "applyOnlineLink": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-30102026",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-cmd kerala-project-engineer-civil-",
@@ -662,7 +900,7 @@
     "applyOnlineLink": "https://cmd.kerala.gov.in/wp-content/uploads/2026/10/Notification-30.10.2026.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-nit calicut-project-associate-i",
@@ -679,7 +917,7 @@
     "applyOnlineLink": "https://nitc.ac.in/imgserver/uploads/attachments/Ed__893d2f1b-72b4-445d-83de-2c6188ab2720_.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-nhm keralam-deo-lab-technician-and-more",
@@ -696,7 +934,7 @@
     "applyOnlineLink": "https://arogyakeralam.gov.in/wp-content/uploads/2026/10/document-7.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-ihmct-lower-division-clerk",
@@ -713,7 +951,7 @@
     "applyOnlineLink": "https://cmd.kerala.gov.in/wp-content/uploads/2026/10/IHMCT-LDC-RECRUITMENT-NOTIFICATION.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-scert-guest-house-manager-plumber-office-attendant-drive",
@@ -730,7 +968,7 @@
     "applyOnlineLink": "https://drive.google.com/uc?export=download&#038;id=1sqMtVzU8gK9VtJgIQ80YVfrwt1WauI5V",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-iiser thiruvananthapuram-project-assistant",
@@ -747,7 +985,7 @@
     "applyOnlineLink": "https://www.iisertvm.ac.in/openings/read/openings-recruitment-for-the-post-of-project-assistant-in-an-externally-funded-project-modulation-of-gene-expression-by-replication-transcription-collisions-in-bacteria-cis-regulatory-adaptation-by-replication-transcription-collisions-in-bacteria",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-nam-multi-purpose-health-worker",
@@ -764,24 +1002,7 @@
     "applyOnlineLink": "https://www.nam.kerala.gov.in/images/careers/1793359859514.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "kerala-college of engineering chengannur-demonstrator-workshop-instructor-electronics-",
-    "title": "College of Engineering Chengannur Recruitment 2026 – Demonstrator/Workshop Instructor (Electronics) Posts",
-    "shortInfo": "College of Engineering Chengannur has announced notification for Demonstrator/Workshop Instructor (Electronics) posts. Required qualification: Diploma. Last date to apply: 04-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "04-11-26",
-    "officialWebsite": "https://ceconline.edu/wpdata/ElectronicsDemoInterview.pdf",
-    "notificationLink": "https://ceconline.edu/wpdata/ElectronicsDemoInterview.pdf",
-    "applyOnlineLink": "https://ceconline.edu/wpdata/ElectronicsDemoInterview.pdf",
-    "state": "Kerala",
-    "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-iav-project-associate-i",
@@ -798,7 +1019,7 @@
     "applyOnlineLink": "https://iav.res.in/wp-content/uploads/2026/10/notification-PAI-1.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-nit calicut-project-associate-i",
@@ -815,7 +1036,7 @@
     "applyOnlineLink": "https://nitc.ac.in/imgserver/uploads/attachments/Ed__893d2f1b-72b4-445d-83de-2c6188ab2720_.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-amrita-assistant-professor-research-",
@@ -832,7 +1053,7 @@
     "applyOnlineLink": "https://www.amrita.edu/job/assistant-professor-research-amritapuri/",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-ctcri-young-professional-ii-walk-in-",
@@ -849,7 +1070,7 @@
     "applyOnlineLink": "https://www.ctcri.org/public/pdf/2026-10/recruitment-of-yp-ii-notification.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-kudsit-project-intern",
@@ -866,7 +1087,7 @@
     "applyOnlineLink": "https://duk.ac.in/data/2026/10/Notification-Project-Intern-SEC-KUDSIT-465-AD_AIII-2026.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-nit calicut-apprentice-trainees",
@@ -883,7 +1104,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/nit-calicut-apprentice-recruitment-2026/",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "Fee",
@@ -1004,7 +1225,7 @@
     "applyOnlineLink": "https://www.kannuruniversity.ac.in/media/documents/Notification-Security_Officer.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-rgcb-research-associate-i",
@@ -1021,7 +1242,7 @@
     "applyOnlineLink": "https://rgcb.res.in/adv-2026-20",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-sctimst-project-assistant",
@@ -1038,7 +1259,7 @@
     "applyOnlineLink": "https://www.sctimst.ac.in/Recruitment/RESOURCES/B_2026-27_2350.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-sctimst-senior-project-engineer",
@@ -1055,7 +1276,7 @@
     "applyOnlineLink": "https://www.sctimst.ac.in/Recruitment/RESOURCES/B_2026-27_2351.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-nitc-office-assistant-support-engineer-gym-trainer",
@@ -1072,7 +1293,7 @@
     "applyOnlineLink": "https://nitc.ac.in/imgserver/uploads/attachments/examination-and-interview-notice-for-various-posts-to-be-recruited-through-manpower-agency_ee0ed1e0-14df-4b2f-bef9-5e7a6466eda3_0.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-iim kozhikode-research-assistant",
@@ -1089,7 +1310,7 @@
     "applyOnlineLink": "https://webapps.iimk.ac.in/jobportal/notifications/Notif_1793190200.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-calicut university-technician-music-",
@@ -1106,7 +1327,7 @@
     "applyOnlineLink": "https://docs.uoc.ac.in/website/vacancies/2026-10-29%2011:23:48_vac2131.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-iimk-associate-study-resources",
@@ -1123,7 +1344,7 @@
     "applyOnlineLink": "https://webapps.iimk.ac.in/jobportal/notifications/Notif_1793189974.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-rgcb-laboratory-technologist-intern",
@@ -1140,7 +1361,7 @@
     "applyOnlineLink": "https://rgcb.res.in/adv-2026-mls-23",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-calicut university-programmer",
@@ -1157,7 +1378,7 @@
     "applyOnlineLink": "https://docs.uoc.ac.in/website/vacancies/2026-10-27%2012:43:10_vac2130.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-kvasu-assistant-production-manager",
@@ -1174,7 +1395,7 @@
     "applyOnlineLink": "https://www.kvasu.ac.in/files/1793166903_APM+Notification.PDF",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-nam thiruvananthapuram-yoga-instructor",
@@ -1191,7 +1412,7 @@
     "applyOnlineLink": "https://www.nam.kerala.gov.in/images/careers/1793100513119.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-rgcb-technical-officer-technical-assistant",
@@ -1208,7 +1429,7 @@
     "applyOnlineLink": "https://rgcb.res.in/positions/",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-sctimst-project-technical-support-ii",
@@ -1225,7 +1446,7 @@
     "applyOnlineLink": "https://www.sctimst.ac.in/Recruitment/RESOURCES/B_2026-27_2332.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-cmfri-field-assistant",
@@ -1242,7 +1463,7 @@
     "applyOnlineLink": "https://cmfri.org.in/uploads/jobs/career_6ae09799cc6f2.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-cmfri-young-professional-i",
@@ -1259,7 +1480,7 @@
     "applyOnlineLink": "https://cmfri.org.in/uploads/jobs/career_6ae09749791ff.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-amrita-assistant-professor",
@@ -1276,7 +1497,7 @@
     "applyOnlineLink": "https://www.amrita.edu/job/assistant-professor-research-bioinformatics-amritapuri/",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-calicut university-programmer",
@@ -1293,7 +1514,7 @@
     "applyOnlineLink": "https://docs.uoc.ac.in/website/vacancies/2026-10-27%2012:43:10_vac2130.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-iim kozhikode-software-engineer-net-",
@@ -1310,7 +1531,7 @@
     "applyOnlineLink": "https://webapps.iimk.ac.in/jobportal/notifications/Notif_1793074331.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-cochin port authority-master-tugs-class-i-",
@@ -1327,7 +1548,7 @@
     "applyOnlineLink": "https://cochinport.gov.in/uploads/tenders_attachments/career_1208_1793007662_997.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-district court, pathanamthitta-confidential-assistant-office-attendant",
@@ -1344,7 +1565,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec037a4bf9ba2bd774068ad50351fb89/uploads/2026/10/2026102638.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-kannur university-registrar",
@@ -1361,7 +1582,7 @@
     "applyOnlineLink": "https://www.kannuruniversity.ac.in/media/documents/ADMIN-AD-A2-19156-2026.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-iim kozhikode-video-editor",
@@ -1378,7 +1599,7 @@
     "applyOnlineLink": "https://webapps.iimk.ac.in/jobportal/notifications/Notif_1793013885.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-kssm-staff-nurse",
@@ -1395,24 +1616,7 @@
     "applyOnlineLink": "https://socialsecuritymission.gov.in/wp-content/uploads/2026/10/notification_with_application_form_SN.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "kerala-ksrtc swift-front-office-manager-housekeeping-staff-and-more",
-    "title": "KSRTC SWIFT Recruitment 2026 – Front Office Manager, Housekeeping Staff and More Posts",
-    "shortInfo": "KSRTC SWIFT has announced notification for Front Office Manager, Housekeeping Staff and More posts. Required qualification: ITI, 12TH, 7th. Last date to apply: 02-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "5",
-    "lastDate": "02-11-26",
-    "officialWebsite": "https://cmd.kerala.gov.in/wp-content/uploads/2026/10/FINAL-NOTIFICATION_K-SWIFT.pdf",
-    "notificationLink": "https://cmd.kerala.gov.in/wp-content/uploads/2026/10/FINAL-NOTIFICATION_K-SWIFT.pdf",
-    "applyOnlineLink": "https://cmd.kerala.gov.in/wp-content/uploads/2026/10/FINAL-NOTIFICATION_K-SWIFT.pdf",
-    "state": "Kerala",
-    "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-ksrtc-public-relations-officer-executive-engineer",
@@ -1429,7 +1633,7 @@
     "applyOnlineLink": "https://cmd.kerala.gov.in/wp-content/uploads/2026/10/KSRTC-PRO-EE-Notification.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-kudumbashree district mission, kollam-ifc-anchor-senior-crp",
@@ -1446,7 +1650,7 @@
     "applyOnlineLink": "https://www.kudumbashree.org/storage//files/pngnj_vacancy-notification-ifc_anchor-senior_crp-kudumbashree-kollam-district-mission.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-ksmha-medical-practitioner-psychiatrist",
@@ -1463,7 +1667,7 @@
     "applyOnlineLink": "https://arogyakeralam.gov.in/wp-content/uploads/2026/10/Notification-letter.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-coconut development board-driver",
@@ -1480,7 +1684,7 @@
     "applyOnlineLink": "https://coconutboard.gov.in/docs/vacancycirculardriver.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-kudsit-project-scientist-ai-engineer",
@@ -1497,7 +1701,7 @@
     "applyOnlineLink": "https://duk.ac.in/data/2026/10/Notification-CDTC-KUDSIT-821-RO_1-2022.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-iiser tvm-library-superintendent-office-assistant",
@@ -1514,24 +1718,7 @@
     "applyOnlineLink": "https://www.iisertvm.ac.in/files/read/opening-admin-002-2026-10-22",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "kerala-sctimst-project-research-scientist-ii",
-    "title": "SCTIMST Recruitment 2026 – Project Research Scientist II Posts",
-    "shortInfo": "SCTIMST has announced notification for Project Research Scientist II posts. Required qualification: M.Sc. Last date to apply: 04-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "04-11-26",
-    "officialWebsite": "https://www.sctimst.ac.in/Recruitment/RESOURCES/B_2026-27_2279.pdf",
-    "notificationLink": "https://www.sctimst.ac.in/Recruitment/RESOURCES/B_2026-27_2279.pdf",
-    "applyOnlineLink": "https://www.sctimst.ac.in/Recruitment/RESOURCES/B_2026-27_2279.pdf",
-    "state": "Kerala",
-    "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-sctimst-project-research-scientist-i",
@@ -1548,41 +1735,7 @@
     "applyOnlineLink": "https://www.sctimst.ac.in/Recruitment/RESOURCES/B_2026-27_2278.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "kerala-rgcb-project-research-scientist-ii",
-    "title": "RGCB Recruitment 2026 – Project Research Scientist II Posts",
-    "shortInfo": "RGCB has announced notification for Project Research Scientist II posts. Required qualification: M.Phil/Ph.D. Last date to apply: 01-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "01-11-26",
-    "officialWebsite": "https://rgcb.res.in/adv-2026-14",
-    "notificationLink": "https://rgcb.res.in/adv-2026-14",
-    "applyOnlineLink": "https://rgcb.res.in/adv-2026-14",
-    "state": "Kerala",
-    "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "kerala-istc-personal-secretary-trainee-",
-    "title": "ISTC Recruitment 2026 – Personal Secretary (Trainee) Posts",
-    "shortInfo": "ISTC has announced notification for Personal Secretary (Trainee) posts. Required qualification: Any Graduate. Last date to apply: 04-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "2",
-    "lastDate": "04-11-26",
-    "officialWebsite": "https://cochinshipyard.in/uploads/career/7d1ca329a50c3a08f32ee483f9e38afe.pdf",
-    "notificationLink": "https://cochinshipyard.in/uploads/career/7d1ca329a50c3a08f32ee483f9e38afe.pdf",
-    "applyOnlineLink": "https://cochinshipyard.in/uploads/career/7d1ca329a50c3a08f32ee483f9e38afe.pdf",
-    "state": "Kerala",
-    "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-cochin port authority-marine-engineering-superintendent",
@@ -1599,7 +1752,7 @@
     "applyOnlineLink": "https://cochinport.gov.in/uploads/tenders_attachments/career_1207_1792668560_589.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-iiser thiruvananthapuram-adhoc-faculty",
@@ -1616,76 +1769,7 @@
     "applyOnlineLink": "https://www.iisertvm.ac.in/openings/read/openings-adhoc-faculty-for-teaching-courses-in-humanities-2026",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "kerala-dcil-trainee-marine-engineer-trainee-electrical-officer",
-    "title": "DCIL Recruitment 2026 – Trainee Marine Engineer, Trainee Electrical Officer, NCVT (Walk-in) Posts",
-    "shortInfo": "DCIL has announced notification for Trainee Marine Engineer, Trainee Electrical Officer, NCVT (Walk-in) posts. Required qualification: Degree, 10th. Last date to apply: 03-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "28",
-    "lastDate": "03-11-26",
-    "officialWebsite": "https://dredge-india.com/",
-    "notificationLink": "https://dredge-india.com/files/WebsiteAdvNo042026.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/dcil-trainee-recruitment-2026/",
-    "state": "Kerala",
-    "stateCode": "kerala",
-    "scrapedAt": "2026-11-05",
-    "fees": [
-      {
-        "category": "Fee",
-        "fee": "Not Mentioned"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Last date to send CV (Internal floating staff) to recruitfs@dcil.co.in",
-        "date": "03/11/2026"
-      },
-      {
-        "event": "Walk-in-Interview for Fleet Personnel",
-        "date": "05/11/2026"
-      },
-      {
-        "event": "Walk-in-Interview for Trainee Marine Engineer / Trainee Electrical Officer / NCV(T)s",
-        "date": "06/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Trainee Marine Engineer (TME)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Trainee Electrical Officer (TELO)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "NCV Trainee (NCV(T))",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Download the Bio-data/Application format from DCI website: https://www.dredge-india.com/career or use the prescribed format given in the advertisement.",
-      "Fill in the Bio-data/Application form completely with all required details.",
-      "Collect all original certificates and one set of self-attested photocopies (educational qualifications, caste certificate, COC/CDC/Passport/INDOS/STCW certificates, etc.).",
-      "Appear for the Walk-in-Interview on the scheduled date and time at the respective venue (Visakhapatnam, Kolkata, Chennai, or Kochi).",
-      "Internal floating staff not signed off may appear through online VC mode with the Master’s recommendation and must send their CV with requisite documents to recruitfs@dcil.co.in by 03.11.2026 15:00 Hrs.",
-      "Candidates attending the Walk-in-Interview need NOT apply online.",
-      "Candidates belonging to SC/ST/OBC/EWS must bring the relevant caste/income certificate in the prescribed format."
-    ]
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-sctimst-project-scientist-professional-",
@@ -1702,7 +1786,7 @@
     "applyOnlineLink": "https://www.sctimst.ac.in/Recruitment/RESOURCES/B_2026-27_2266.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-cmd kerala-company-secretary-assistant-manager",
@@ -1719,7 +1803,7 @@
     "applyOnlineLink": "https://cmd.kerala.gov.in/wp-content/uploads/2026/10/Notification-Final.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-rcc thiruvananthapuram-manufacturing-chemist",
@@ -1736,79 +1820,7 @@
     "applyOnlineLink": "https://rcctvm.gov.in/uploads/Downloadtemsuppy/Notification%20-%20Manufacturing%20chemist-179240520146733294.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "kerala-lic hfl-apprentice",
-    "title": "LIC HFL Recruitment 2026 – Apprentice Posts",
-    "shortInfo": "LIC HFL has announced notification for Apprentice posts. Required qualification: Graduation in any stream. Last date to apply: 01-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "232",
-    "lastDate": "01-11-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
-    "notificationLink": "https://cdn.lichousing.com/2026/10/Apprentecis-Advertisement-Notification-Batch-10.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
-    "state": "Kerala",
-    "stateCode": "kerala",
-    "scrapedAt": "2026-11-05",
-    "fees": [
-      {
-        "category": "Scheduled Caste (SC) / Scheduled Tribe (ST) candidates",
-        "fee": "Rs. 200/- plus GST"
-      },
-      {
-        "category": "Person with Benchmark Disability (PwBD) candidates",
-        "fee": "Rs. 200/- plus GST"
-      },
-      {
-        "category": "General, EWS and Other Backward Class (OBC) - Male candidates",
-        "fee": "Rs. 800/- plus GST"
-      },
-      {
-        "category": "General, EWS and Other Backward Class (OBC) - Female / Transgender candidates",
-        "fee": "Rs. 600/- plus GST"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Application Start Date",
-        "date": "20/10/2026"
-      },
-      {
-        "event": "Last Date to Apply & Pay Examination Fee",
-        "date": "01/11/2026"
-      },
-      {
-        "event": "Entrance Examination Date",
-        "date": "07/11/2026"
-      },
-      {
-        "event": "Document Verification & Personal Interview",
-        "date": "15/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Apprentice",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Candidates must first mandatorily register themselves on the NATS portal (https://nats.education.gov.in) by navigating to the ‘Student Register/Login’ section.",
-      "After registration, candidates will receive an email from BFSI SSC inviting them to fill up a detailed application and make payment for the Online Examination for ‘LIC HFL Apprenticeship Program’.",
-      "Visit https://beep.bfsissc.com to submit additional information and make the examination fee payment before 01-Nov-2026.",
-      "Note your Enrolment ID issued by the NATS portal for all future correspondence.",
-      "All eligible applicants who have paid the examination fee will receive an online examination link and login credentials from BFSI SSC on the day before the examination date.",
-      "Appear for the online remote proctored examination on 07-Nov-2026 from home using a camera-enabled device with good internet connectivity.",
-      "Shortlisted candidates will be invited for Document Verification &amp; Personal Interview at LIC HFL offices on 15-Nov-2026.",
-      "Final selected candidates will receive engagement letters from LIC HFL tentatively in the 3rd week of November."
-    ]
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-irel-tradesman-trainee-fitter-tradesman-trainee-electri",
@@ -1825,7 +1837,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/irel-tradesman-trainee-recruitment-2026/",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "UR / EWS / OBC (NCL) candidates",
@@ -1904,7 +1916,7 @@
     "applyOnlineLink": "https://kochimetro.org/careers/site_media/notifications/217.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-kerala high court-telephone-operator",
@@ -1921,7 +1933,7 @@
     "applyOnlineLink": "https://hckrecruitment.keralacourts.in/hckrecruitment//Recruitment/viewPdfNotificationFile?token=bm90aWZpY2F0aW9uXzU2LnBkZg==",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-kerala high court-senior-software-developer",
@@ -1938,7 +1950,7 @@
     "applyOnlineLink": "https://hckrecruitment.keralacourts.in/hckrecruitment//Recruitment/viewPdfNotificationFile?token=bm90aWZpY2F0aW9uXzU1LnBkZg==",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-kerala high court-telephone-operator",
@@ -1955,7 +1967,7 @@
     "applyOnlineLink": "https://hckrecruitment.keralacourts.in/hckrecruitment/Recruitment/viewFile?token=Mzg2",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-iim kozhikode-assistant-junior-assistant-and-more",
@@ -1972,7 +1984,7 @@
     "applyOnlineLink": "https://webapps.iimk.ac.in/jobportal/notifications/Notif_1792055800.pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-sgou-assistant-professor",
@@ -1989,7 +2001,7 @@
     "applyOnlineLink": "https://content.sgou.ac.in/rp/public/uploads/documents/JobNotification/1791799884_file_pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-iiser thiruvananthapuram-project-scientist-1",
@@ -2006,7 +2018,7 @@
     "applyOnlineLink": "https://www.iisertvm.ac.in/files/read/opening-ps1-prof-deepshikha-20261009",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-ksrtc swift-driver-conductor-driver-cum-conductor",
@@ -2023,7 +2035,7 @@
     "applyOnlineLink": "https://recruitopen.com/cmd/kswift22.html",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "All Candidates",
@@ -2088,7 +2100,7 @@
     "applyOnlineLink": "https://content.sgou.ac.in/rp/public/uploads/documents/JobNotification/1791457973_file_pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-sgou-software-developer-more-software-tester",
@@ -2105,24 +2117,7 @@
     "applyOnlineLink": "https://content.sgou.ac.in/rp/public/uploads/documents/JobNotification/1791387189_file_pdf",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "kerala-kerala psc-peon-watchman-draftsman-and-more",
-    "title": "Kerala PSC Recruitment 2026 – Peon/Watchman, Draftsman and More Posts",
-    "shortInfo": "Kerala PSC has announced notification for Peon/Watchman, Draftsman and More posts. Required qualification: Diploma, 10TH, 6th, 12TH, Any Masters Degree. Last date to apply: 04-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "74",
-    "lastDate": "04-11-26",
-    "officialWebsite": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-30092026",
-    "notificationLink": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-30092026",
-    "applyOnlineLink": "https://www.keralapsc.gov.in/extra-ordinary-gazette-date-30092026",
-    "state": "Kerala",
-    "stateCode": "kerala",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "kerala-csl-interns-under-prime-minister-internship-scheme-pmi",
@@ -2139,7 +2134,7 @@
     "applyOnlineLink": "https://pminternship.mca.gov.in/login/",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "All Candidates",

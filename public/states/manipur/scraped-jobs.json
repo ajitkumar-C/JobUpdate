@@ -14,7 +14,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/inbraoct26/",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General/OBC/EWS candidates",
@@ -60,6 +60,23 @@
   {
     "id": "manipur-rims-junior-resident",
     "title": "RIMS Recruitment 2026 – Junior Resident Posts",
+    "shortInfo": "RIMS has announced notification for Junior Resident posts. Required qualification: BDS, Graduate. Last date to apply: 23-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "4",
+    "lastDate": "23-11-26",
+    "officialWebsite": "https://rims.edu.in/rimsman/wp-content/uploads/Notice-JR-Dental-03-11-2026.pdf",
+    "notificationLink": "https://rims.edu.in/rimsman/wp-content/uploads/Notice-JR-Dental-03-11-2026.pdf",
+    "applyOnlineLink": "https://rims.edu.in/rimsman/wp-content/uploads/Notice-JR-Dental-03-11-2026.pdf",
+    "state": "Manipur",
+    "stateCode": "manipur",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "manipur-rims-junior-resident",
+    "title": "RIMS Recruitment 2026 – Junior Resident Posts",
     "shortInfo": "RIMS has announced notification for Junior Resident posts. Required qualification: Graduate, BDS. Last date to apply: 23-11-26.",
     "category": "Others",
     "categoryIcon": "🏢",
@@ -72,7 +89,7 @@
     "applyOnlineLink": "https://rims.edu.in/rimsman/wp-content/uploads/Notice-JR-Dental-03-11-2026.pdf",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "manipur-one stop centre jiribam-psycho-social-counsellor-para-legal-personnel-lawy",
@@ -89,24 +106,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s33b3dbaf68507998acd6a5a5254ab2d76/uploads/2026/11/17936295246771.pdf",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "manipur-dhanamanjuri university-lab-cum-field-attendant",
-    "title": "Dhanamanjuri University Recruitment 2026 – Lab Cum Field Attendant Posts",
-    "shortInfo": "Dhanamanjuri University has announced notification for Lab Cum Field Attendant posts. Required qualification: 12TH. Last date to apply: 02-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "02-11-26",
-    "officialWebsite": "https://dmu.ac.in/storage/pdfs/SNlmgRQJm62QaGGUU8MzJQGH8PrupHKIaCBVeNi0.pdf",
-    "notificationLink": "https://dmu.ac.in/storage/pdfs/SNlmgRQJm62QaGGUU8MzJQGH8PrupHKIaCBVeNi0.pdf",
-    "applyOnlineLink": "https://dmu.ac.in/storage/pdfs/SNlmgRQJm62QaGGUU8MzJQGH8PrupHKIaCBVeNi0.pdf",
-    "state": "Manipur",
-    "stateCode": "manipur",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "manipur-rims-assistant-professor",
@@ -123,6 +123,6 @@
     "applyOnlineLink": "https://rims.edu.in/rimsman/wp-content/uploads/Advt-AP-22-10-2026.pdf",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   }
 ]

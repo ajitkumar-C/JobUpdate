@@ -14,7 +14,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/inbraoct26/",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "General/OBC/EWS candidates",
@@ -58,6 +58,40 @@
     ]
   },
   {
+    "id": "hp-hpnlu-counsellor",
+    "title": "HPNLU Recruitment 2026 – Counsellor Posts",
+    "shortInfo": "HPNLU has announced notification for Counsellor posts. Required qualification: Post Graduate, M.Sc, Diploma, M.A. Last date to apply: 27-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "27-11-26",
+    "officialWebsite": "https://www.hpnlu.ac.in/PDF/5e22a4fe-6897-447e-9a73-4fe8713be41e.pdf",
+    "notificationLink": "https://www.hpnlu.ac.in/PDF/5e22a4fe-6897-447e-9a73-4fe8713be41e.pdf",
+    "applyOnlineLink": "https://www.hpnlu.ac.in/PDF/5e22a4fe-6897-447e-9a73-4fe8713be41e.pdf",
+    "state": "Himachal Pradesh",
+    "stateCode": "hp",
+    "scrapedAt": "2026-11-06"
+  },
+  {
+    "id": "hp-jngec-graduate-apprentice-trainee",
+    "title": "JNGEC Recruitment 2026 – Graduate Apprentice Trainee Posts",
+    "shortInfo": "JNGEC has announced notification for Graduate Apprentice Trainee posts. Required qualification: B.Tech/B.E. Last date to apply: 10-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "10-11-26",
+    "officialWebsite": "http://jngec.ac.in/downloads/Scroll/TEMP/Engagement%20of%20Graduate%20Apprentice%20Trainees%20in%20Civil%20Engineering.pdf",
+    "notificationLink": "http://jngec.ac.in/downloads/Scroll/TEMP/Engagement%20of%20Graduate%20Apprentice%20Trainees%20in%20Civil%20Engineering.pdf",
+    "applyOnlineLink": "http://jngec.ac.in/downloads/Scroll/TEMP/Engagement%20of%20Graduate%20Apprentice%20Trainees%20in%20Civil%20Engineering.pdf",
+    "state": "Himachal Pradesh",
+    "stateCode": "hp",
+    "scrapedAt": "2026-11-06"
+  },
+  {
     "id": "hp-hprca-radiographer-job-trainee-",
     "title": "HPRCA Recruitment 2026 – Radiographer (Job Trainee) Posts",
     "shortInfo": "HPRCA has announced notification for Radiographer (Job Trainee) posts. Required qualification: 10+2 in Science, B.Sc. in Medical Technology. Last date to apply: 07-12-26.",
@@ -72,7 +106,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/hprca-radiographer-recruitment-2026/",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "All Categories (Examination Fee + Processing Fee)",
@@ -114,10 +148,10 @@
       }
     ],
     "howToApply": [
-      "Visit the official website https://hprca.hp.gov.in and click &#8216;Sign Up&#8217; to create a username and password.",
+      "Visit the official website https://hprca.hp.gov.in and click ‘Sign Up’ to create a username and password.",
       "Complete the One-Time Registration (OTR) by providing personal information, educational qualifications, work experience (if any), and uploading a recent photograph, signature, and supporting documents.",
       "Complete/update your profile before applying for any post.",
-      "Log in and click &#8216;Apply&#8217; against the post of Radiographer (Job Trainee) (Post Code: 26061).",
+      "Log in and click ‘Apply’ against the post of Radiographer (Job Trainee) (Post Code: 26061).",
       "Select your preferred exam district from the dropdown menu.",
       "Review the auto-filled application details from your profile.",
       "Pay the application fee online via Credit Card/Debit Card/Net Banking through the payment gateway.",
@@ -140,7 +174,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/hprca-teacher-2026/",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "All Categories (Examination Fee + Processing Fee)",
@@ -306,7 +340,7 @@
     "applyOnlineLink": "https://aiimsbilaspur.edu.in/sites/default/files/2026-10/Advertisement%2001.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "hp-hpjsv-para-fitter-multi-purpose-workers",
@@ -323,7 +357,7 @@
     "applyOnlineLink": "https://jsv.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1yTV49xNU6QBk0f+D9rWV0VhZ+dahwEOncXXlmc34oR/PcisPcfSvHhoDoX/CxwsAsmTL9C/VnROhUT/WDBT/xG5xX9KjhOItXqJiyUsMDgAyZoJ9F1py1MbtCxOuL8s2E=",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "hp-nit hamirpur-project-assistant",
@@ -340,24 +374,7 @@
     "applyOnlineLink": "https://nith.ac.in/uploads/files/oct26/ad-project.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "hp-echs kasauli-dental-hygienist-oic-echs-polyclinic-medical-offic",
-    "title": "ECHS Kasauli Recruitment 2026 – Dental Hygienist, OIC ECHS Polyclinic, Medical Officer, Driver Posts",
-    "shortInfo": "ECHS Kasauli has announced notification for Dental Hygienist, OIC ECHS Polyclinic, Medical Officer, Driver posts. Required qualification: Diploma, Graduate, MBBS. Last date to apply: 02-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "7",
-    "lastDate": "02-11-26",
-    "officialWebsite": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Stn%20HQ%20Kasauli%2002%20Nov.pdf",
-    "notificationLink": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Stn%20HQ%20Kasauli%2002%20Nov.pdf",
-    "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Stn%20HQ%20Kasauli%2002%20Nov.pdf",
-    "state": "Himachal Pradesh",
-    "stateCode": "hp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "hp-iit mandi-associate-professor",
@@ -374,7 +391,7 @@
     "applyOnlineLink": "https://iitmandi.ac.in/recruitment/Advertisement_2026_Associate%20Professor_IKSHMA.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "hp-uhf-senior-research-fellow-young-professional",
@@ -391,7 +408,7 @@
     "applyOnlineLink": "https://uhf.ac.in/storage/uploads/docs/1793186055.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "hp-cskhpkv-field-cum-lab-helper",
@@ -408,24 +425,7 @@
     "applyOnlineLink": "https://www.hillagric.ac.in/info/jobs_advt/2026/2026-10-28-FN-548-60.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "hp-cskhpkv palampur-assistant-professor",
-    "title": "CSKHPKV Palampur Recruitment 2026 – Assistant Professor Posts",
-    "shortInfo": "CSKHPKV Palampur has announced notification for Assistant Professor posts. Required qualification: M.Phil/Ph.D, Any Post Graduate. Last date to apply: 03-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "2",
-    "lastDate": "03-11-26",
-    "officialWebsite": "https://www.hillagric.ac.in/info/jobs_advt/2026/2026-10-24-Circular-7187-7286.pdf",
-    "notificationLink": "https://www.hillagric.ac.in/info/jobs_advt/2026/2026-10-24-Circular-7187-7286.pdf",
-    "applyOnlineLink": "https://www.hillagric.ac.in/info/jobs_advt/2026/2026-10-24-Circular-7187-7286.pdf",
-    "state": "Himachal Pradesh",
-    "stateCode": "hp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "hp-himachal pradesh jal shakti vibhag-para-cook-para-helper",
@@ -442,7 +442,7 @@
     "applyOnlineLink": "https://jsv.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1yTV49xNU6QBk0f+D9rWV0VhZ+dahwEOncXXlmc34oR/PcisPcfSvHhoDoX/CxwsAsmTL9C/VnROgCSojmIGYo3jML+G3u2I0hWKUA2VT6PHb6AtFCZ2XopnPzf4ATzgwk=",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "hp-jal shakti vibhag, himachal pradesh-mpw-para-pump-operator-and-more",
@@ -459,7 +459,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/jsv-hp-multi-purpose-worker-recruitment-2026/",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [],
     "dates": [
       {
@@ -514,7 +514,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s38d7d8ee069cb0cbbf816bbb65d56947e/uploads/2026/10/17927432757000.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "hp-hpnlu-professor-of-law",
@@ -531,154 +531,7 @@
     "applyOnlineLink": "https://www.hpnlu.ac.in/PDF/62a7ab49-2c81-44fc-97f4-970965ef2224.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "hp-lic hfl-apprentice",
-    "title": "LIC HFL Recruitment 2026 – Apprentice Posts",
-    "shortInfo": "LIC HFL has announced notification for Apprentice posts. Required qualification: Graduation in any stream. Last date to apply: 01-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "232",
-    "lastDate": "01-11-26",
-    "officialWebsite": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
-    "notificationLink": "https://cdn.lichousing.com/2026/10/Apprentecis-Advertisement-Notification-Batch-10.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/lic-hfl-apprentice-recruitment-2026/",
-    "state": "Himachal Pradesh",
-    "stateCode": "hp",
-    "scrapedAt": "2026-11-05",
-    "fees": [
-      {
-        "category": "Scheduled Caste (SC) / Scheduled Tribe (ST) candidates",
-        "fee": "Rs. 200/- plus GST"
-      },
-      {
-        "category": "Person with Benchmark Disability (PwBD) candidates",
-        "fee": "Rs. 200/- plus GST"
-      },
-      {
-        "category": "General, EWS and Other Backward Class (OBC) - Male candidates",
-        "fee": "Rs. 800/- plus GST"
-      },
-      {
-        "category": "General, EWS and Other Backward Class (OBC) - Female / Transgender candidates",
-        "fee": "Rs. 600/- plus GST"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Application Start Date",
-        "date": "20/10/2026"
-      },
-      {
-        "event": "Last Date to Apply & Pay Examination Fee",
-        "date": "01/11/2026"
-      },
-      {
-        "event": "Entrance Examination Date",
-        "date": "07/11/2026"
-      },
-      {
-        "event": "Document Verification & Personal Interview",
-        "date": "15/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Apprentice",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Candidates must first mandatorily register themselves on the NATS portal (https://nats.education.gov.in) by navigating to the ‘Student Register/Login’ section.",
-      "After registration, candidates will receive an email from BFSI SSC inviting them to fill up a detailed application and make payment for the Online Examination for ‘LIC HFL Apprenticeship Program’.",
-      "Visit https://beep.bfsissc.com to submit additional information and make the examination fee payment before 01-Nov-2026.",
-      "Note your Enrolment ID issued by the NATS portal for all future correspondence.",
-      "All eligible applicants who have paid the examination fee will receive an online examination link and login credentials from BFSI SSC on the day before the examination date.",
-      "Appear for the online remote proctored examination on 07-Nov-2026 from home using a camera-enabled device with good internet connectivity.",
-      "Shortlisted candidates will be invited for Document Verification &amp; Personal Interview at LIC HFL offices on 15-Nov-2026.",
-      "Final selected candidates will receive engagement letters from LIC HFL tentatively in the 3rd week of November."
-    ]
-  },
-  {
-    "id": "hp-echs solan bilasapur-driver-medical-officer",
-    "title": "ECHS Solan Bilasapur Recruitment 2026 – Driver, Medical Officer Posts",
-    "shortInfo": "ECHS Solan Bilasapur has announced notification for Driver, Medical Officer posts. Required qualification: Diploma, MBBS, Any Graduate. Last date to apply: 02-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "7",
-    "lastDate": "02-11-26",
-    "officialWebsite": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Solan%20Bilasapur%20Ghumarwin%2020%20Nov.pdf",
-    "notificationLink": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Solan%20Bilasapur%20Ghumarwin%2020%20Nov.pdf",
-    "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Solan%20Bilasapur%20Ghumarwin%2020%20Nov.pdf",
-    "state": "Himachal Pradesh",
-    "stateCode": "hp",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "hp-hppsc-scientific-officer-group-b-job-trainee-",
-    "title": "HPPSC Recruitment 2026 – Scientific Officer, Group-B (Job Trainee) Posts",
-    "shortInfo": "HPPSC has announced notification for Scientific Officer, Group-B (Job Trainee) posts. Required qualification: M.Sc. in Forensic Science, Chemistry, Bio-Chemistry, Pharmacy, M.S.(Pharm.), M.Pharm.. Last date to apply: 03-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "3",
-    "lastDate": "03-11-26",
-    "officialWebsite": "http://www.hppsc.hp.gov.in/hppsc",
-    "notificationLink": "https://hppsc.hp.gov.in/CommonControls/ViewCMSFile?qs=KI3gZ53zz1wSGo29lXLTBfw1DHezN8KfEg%2BrikZhi%2FLLqiZME0%2BQRfdkGlH8WWhtnVHn6J2gtnnmhCAM8hkE0znHI96vZqDegEyEU6ATaFY%3D",
-    "applyOnlineLink": "https://hppsconline.hp.gov.in/HPPSC/ApplicantRegistration/Home/Login",
-    "state": "Himachal Pradesh",
-    "stateCode": "hp",
-    "scrapedAt": "2026-11-05",
-    "fees": [
-      {
-        "category": "All Candidates (irrespective of category or gender)",
-        "fee": "Rs. 600/-"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Advertisement Date",
-        "date": "07/10/2026"
-      },
-      {
-        "event": "Last Date for Application Submission",
-        "date": "03/11/2026"
-      },
-      {
-        "event": "Last Date for Fee Payment",
-        "date": "03/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Scientific Officer, Group-B (Job Trainee)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the official website of HPPSC at http://www.hppsc.hp.gov.in/hppsc.",
-      "Click on the link ‘Apply Online’ on the Home Page.",
-      "Click on ‘One Time Registration (OTR) for Examinations’ and register/create your profile by clicking ‘New Registration’ if not already registered.",
-      "Log into your OTR account and select the relevant advertisement from the dashboard.",
-      "Fill in all required details carefully in the Online Recruitment Application (ORA).",
-      "Upload all requisite documents including Matriculation certificate, degree certificates, experience certificates, category certificates, and Bonafide Himachali certificate as applicable.",
-      "Give an undertaking/declaration that uploaded documents are legible and true.",
-      "Pay the examination fee of Rs. 600/- through online mode (Debit Card/Credit Card/UPI or any other online digital mode) on or before 03/11/2026 by 11:59 PM.",
-      "Submit the application. No corrections/modifications will be allowed after submission.",
-      "Download and save the application for future reference."
-    ]
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "hp-hp high court-stenographer",
@@ -695,24 +548,7 @@
     "applyOnlineLink": "https://www.hphcrecruitment.in/static/dist/pdf/69.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-05"
-  },
-  {
-    "id": "hp-hppsc-assistant-director",
-    "title": "HPPSC Recruitment 2026 – Assistant Director Posts",
-    "shortInfo": "HPPSC has announced notification for Assistant Director posts. Required qualification: M.Sc. Last date to apply: 03-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "3",
-    "lastDate": "03-11-26",
-    "officialWebsite": "https://hppsc.hp.gov.in/CommonControls/CMSFileView?qs=oeMK915q2HkdpWSZ%2B0aaIFmLDoF0cTjGvKykbXugJ5FH4sUacllacTF%2B5RqdIHDUaLjGjYE8mOeHqj0VR%2FB5RoAFuG6TC47917zNkNFr8Dw%3D",
-    "notificationLink": "https://hppsc.hp.gov.in/CommonControls/CMSFileView?qs=oeMK915q2HkdpWSZ%2B0aaIFmLDoF0cTjGvKykbXugJ5FH4sUacllacTF%2B5RqdIHDUaLjGjYE8mOeHqj0VR%2FB5RoAFuG6TC47917zNkNFr8Dw%3D",
-    "applyOnlineLink": "https://hppsc.hp.gov.in/CommonControls/CMSFileView?qs=oeMK915q2HkdpWSZ%2B0aaIFmLDoF0cTjGvKykbXugJ5FH4sUacllacTF%2B5RqdIHDUaLjGjYE8mOeHqj0VR%2FB5RoAFuG6TC47917zNkNFr8Dw%3D",
-    "state": "Himachal Pradesh",
-    "stateCode": "hp",
-    "scrapedAt": "2026-11-05"
+    "scrapedAt": "2026-11-06"
   },
   {
     "id": "hp-hppsc-agriculture-development-officer-ado-group-a-job-tr",
@@ -729,7 +565,7 @@
     "applyOnlineLink": "https://hppsconline.hp.gov.in/HPPSC/ApplicantRegistration/Home/Login",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-05",
+    "scrapedAt": "2026-11-06",
     "fees": [
       {
         "category": "All Candidates (irrespective of category or gender)",

@@ -332,11 +332,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-railway-rrc-nr-apprentice-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sarkariavedan.info/job/latest-jobs-rrb-ntpc-10-2-ug-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -347,17 +342,22 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-upessc-prt-assistant-teacher-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sarkariavedan.info/job/latest-jobs-rrb-ntpc-graduate-level-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-ukpsc-lower-pcs-2026</loc>
+    <loc>https://sarkariavedan.info/job/latest-jobs-bihar-vidhan-sabha-office-attendant-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-bihar-vidhan-sabha-junior-secretariat-assistant</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-railway-rrc-nr-apprentice-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -448,6 +448,16 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/admission-nta-swayam-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-upessc-prt-assistant-teacher-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-ukpsc-lower-pcs-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

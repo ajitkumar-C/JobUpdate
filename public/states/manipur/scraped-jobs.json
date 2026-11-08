@@ -1,5 +1,73 @@
 [
   {
+    "id": "manipur-manipur agriculture department-block-technology-manager-btm-assistant-technology-",
+    "title": "Manipur Agriculture Department Recruitment 2026 – Block Technology Manager (BTM), Assistant Technology Manager (ATM) Posts",
+    "shortInfo": "Manipur Agriculture Department has announced notification for Block Technology Manager (BTM), Assistant Technology Manager (ATM) posts. Required qualification: Graduate/Post Graduate in Agriculture or Allied Sector with computer skills. Last date to apply: 26-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "138",
+    "lastDate": "26-11-26",
+    "officialWebsite": "https://agrimanipur.mn.gov.in",
+    "notificationLink": "https://agrimanipur.mn.gov.in/wp-content/uploads/2026/11/Recruitment.pdf",
+    "applyOnlineLink": "https://agrimanipurrecruitment.com/",
+    "state": "Manipur",
+    "stateCode": "manipur",
+    "scrapedAt": "2026-11-08",
+    "fees": [
+      {
+        "category": "UR Candidates",
+        "fee": "Rs. 800"
+      },
+      {
+        "category": "ST/SC/OBC Candidates",
+        "fee": "Rs. 500"
+      },
+      {
+        "category": "PwD Candidates",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Date of Notification",
+        "date": "05/11/2026"
+      },
+      {
+        "event": "Date of Issue of Online Form",
+        "date": "06/11/2026"
+      },
+      {
+        "event": "Last Date of Submission of Online Form",
+        "date": "26/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Block Technology Manager (BTM)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Technology Manager (ATM)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website of the Department of Agriculture, Government of Manipur.",
+      "Fill in the online application form in the prescribed format within the stipulated period.",
+      "Pay the prescribed processing fee online: Rs. 800 for UR candidates, Rs. 500 for ST/SC/OBC candidates. PwD candidates are exempted from the fee.",
+      "Submit the application form online before the last date i.e., 26th November 2026.",
+      "Keep a copy of the submitted application for future reference."
+    ]
+  },
+  {
     "id": "manipur-manipur agriculture department-assistant-technology-manager-atm-block-technology-",
     "title": "Manipur Agriculture Department Recruitment 2026 – Assistant Technology Manager (ATM), Block Technology Manager (BTM) Posts",
     "shortInfo": "Manipur Agriculture Department has announced notification for Assistant Technology Manager (ATM), Block Technology Manager (BTM) posts. Required qualification: Graduate, Post Graduate. Last date to apply: 26-11-26.",
@@ -14,7 +82,7 @@
     "applyOnlineLink": "https://agrimanipur.mn.gov.in/wp-content/uploads/2026/11/Recruitment.pdf",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-07"
+    "scrapedAt": "2026-11-08"
   },
   {
     "id": "manipur-manipur agriculture department-assistant-technology-manager-atm-block-technology-",
@@ -31,7 +99,7 @@
     "applyOnlineLink": "https://agrimanipurrecruitment.com/",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-07"
+    "scrapedAt": "2026-11-08"
   },
   {
     "id": "manipur-rims-junior-auditor-accountant",
@@ -48,7 +116,7 @@
     "applyOnlineLink": "https://rims.edu.in/rimsman/wp-content/uploads/Accountant04-11-2026.pdf",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-07"
+    "scrapedAt": "2026-11-08"
   },
   {
     "id": "manipur-indian bank-apprentice",
@@ -65,7 +133,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/inbraoct26/",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-07",
+    "scrapedAt": "2026-11-08",
     "fees": [
       {
         "category": "General/OBC/EWS candidates",
@@ -123,7 +191,7 @@
     "applyOnlineLink": "https://rims.edu.in/rimsman/wp-content/uploads/Notice-JR-Dental-03-11-2026.pdf",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-07"
+    "scrapedAt": "2026-11-08"
   },
   {
     "id": "manipur-rims-junior-resident",
@@ -140,7 +208,7 @@
     "applyOnlineLink": "https://rims.edu.in/rimsman/wp-content/uploads/Notice-JR-Dental-03-11-2026.pdf",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-07"
+    "scrapedAt": "2026-11-08"
   },
   {
     "id": "manipur-one stop centre jiribam-psycho-social-counsellor-para-legal-personnel-lawy",
@@ -157,7 +225,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s33b3dbaf68507998acd6a5a5254ab2d76/uploads/2026/11/17936295246771.pdf",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-07"
+    "scrapedAt": "2026-11-08"
   },
   {
     "id": "manipur-rims-assistant-professor",
@@ -174,6 +242,6 @@
     "applyOnlineLink": "https://rims.edu.in/rimsman/wp-content/uploads/Advt-AP-22-10-2026.pdf",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-07"
+    "scrapedAt": "2026-11-08"
   }
 ]

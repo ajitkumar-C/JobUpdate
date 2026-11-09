@@ -1,5 +1,129 @@
 [
   {
+    "id": "jk-jk bank-banking-associate",
+    "title": "JK Bank Recruitment 2026 – Banking Associate Posts",
+    "shortInfo": "JK Bank has announced notification for Banking Associate posts. Required qualification: Graduate in any discipline. Last date to apply: 26-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "21",
+    "lastDate": "26-11-26",
+    "officialWebsite": "https://jkb.bank.in/",
+    "notificationLink": "https://jkb.bank.in/sites/default/files/2026-11/Ladakh%20Detailed%20Notification%20Banking%20Associate.pdf",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/jkbvpocto26/",
+    "state": "Jammu & Kashmir",
+    "stateCode": "jk",
+    "scrapedAt": "2026-11-09",
+    "fees": [
+      {
+        "category": "SC/ST/SEBC/PwBD/ESM candidates",
+        "fee": "Rs. 600/- (excluding GST)"
+      },
+      {
+        "category": "All Others",
+        "fee": "Rs. 800/- (excluding GST)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Submission of Online Application (Start)",
+        "date": "07/11/2026"
+      },
+      {
+        "event": "Submission of Online Application (End)",
+        "date": "26/11/2026"
+      },
+      {
+        "event": "Payment of Application Fee (End)",
+        "date": "26/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Banking Associate",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the Bank’s official website https://jkb.bank.in/ and navigate to the ‘Careers’ tab.",
+      "Click on the relevant notification and select ‘APPLY ONLINE’ to open the registration screen.",
+      "Choose ‘Click here for New Registration’ and enter Name, Contact details, and Email ID. Note the Provisional Registration Number and Password generated.",
+      "Fill in the application form carefully. Use ‘SAVE AND NEXT’ to save data and verify details before final submission.",
+      "Upload scanned photograph (4.5cm × 3.5cm), signature (black ink on white paper), left thumb impression, and hand-written declaration as per specified guidelines.",
+      "Upload required documents in PDF format: 10th Certificate, Graduation Certificate, Apprenticeship Completion Certificate (if applicable), Ex-Servicemen Certificate (if applicable), Disability Certificate (if applicable), Sportsperson Certificate (if applicable).",
+      "Preview the entire application form before clicking ‘COMPLETE REGISTRATION’.",
+      "Proceed to the ‘Payment’ tab and pay the application fee online using Debit Card, Credit Card, Internet Banking, IMPS, Cash Cards, or Mobile Wallets.",
+      "On successful payment, an e-Receipt will be generated. Take a printout of the e-Receipt and online Application Form.",
+      "Click ‘Submit’ to complete the registration process."
+    ]
+  },
+  {
+    "id": "jk-jk bank-probationary-officer-po",
+    "title": "JK Bank Recruitment 2026 – Probationary Officer PO Posts",
+    "shortInfo": "JK Bank has announced notification for Probationary Officer PO posts. Required qualification: Graduate in any discipline. Last date to apply: 26-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "323",
+    "lastDate": "26-11-26",
+    "officialWebsite": "https://jkb.bank.in/",
+    "notificationLink": "https://jkb.bank.in/sites/default/files/2026-11/J&K%20Detailed%20Notification%20Probationary%20Officer.pdf",
+    "applyOnlineLink": "https://ibpsreg.ibps.in/jkbvpocto26/",
+    "state": "Jammu & Kashmir",
+    "stateCode": "jk",
+    "scrapedAt": "2026-11-09",
+    "fees": [
+      {
+        "category": "SC/ST/SEBC/PwBD candidates",
+        "fee": "Rs. 1000/- (excluding GST)"
+      },
+      {
+        "category": "All Others (General/EWS/OBC etc.)",
+        "fee": "Rs. 1200/- (excluding GST)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Application Start Date",
+        "date": "07/11/2026"
+      },
+      {
+        "event": "Online Application End Date",
+        "date": "26/11/2026"
+      },
+      {
+        "event": "Payment of Application Fee End Date",
+        "date": "26/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Probationary Officer (PO)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website https://jkb.bank.in/ and navigate to the ‘Careers’ tab.",
+      "Click on the relevant notification and select ‘APPLY ONLINE’.",
+      "Choose ‘Click here for New Registration’ and enter Name, Contact details, and Email ID to generate a Provisional Registration Number and Password.",
+      "Fill in the online application form carefully. Use ‘SAVE AND NEXT’ to save progress.",
+      "Upload scanned photograph (4.5cm × 3.5cm), signature (black ink on white paper), left thumb impression, and hand-written declaration as per specified guidelines.",
+      "Upload required documents in PDF format (10th Certificate, Graduation Certificate, category certificates, disability certificates if applicable, etc.).",
+      "Preview the application form and verify all details before clicking ‘COMPLETE REGISTRATION’.",
+      "Proceed to payment and pay the application fee online using Debit Card, Credit Card, Internet Banking, IMPS, Cash Cards, or Mobile Wallets.",
+      "Download and save the e-Receipt generated after successful payment.",
+      "Take a printout of the system-generated online application form for future reference."
+    ]
+  },
+  {
     "id": "jk-skims-project-technical-support-and-more-project-researc",
     "title": "SKIMS Recruitment 2026 – Project Technical Support and More, Project Research Scientist Posts",
     "shortInfo": "SKIMS has announced notification for Project Technical Support and More, Project Research Scientist posts. Required qualification: DMLT, Post Graduate, MLT, GNM, M.Phil / Ph.D, 12TH, Diploma. Last date to apply: 10-11-26.",
@@ -64,12 +188,12 @@
     "howToApply": [
       "Register on the NATS 2.0 Portal (www.nats.education.gov.in) before applying. Only candidates who passed graduation on or after 1st April 2022 need to register here. Ensure 100% complete profile on the portal.",
       "Note down the Enrolment ID generated in NATS 2.0 Portal for future correspondence.",
-      "Visit the Bank&#8217;s website www.indianbank.bank.in and click on the Careers page or visit https://www.nats.education.gov.in and click on &#8216;Engagement of Apprentices in Indian Bank – 2026&#8217;.",
-      "Click on &#8216;Click here for New Registration&#8217;, enter Name, contact details and email ID. Note the Provisional Registration Number and Password generated.",
-      "Fill in the application form. Use &#8216;SAVE AND NEXT&#8217; to save data if unable to complete in one go.",
+      "Visit the Bank’s website www.indianbank.bank.in and click on the Careers page or visit https://www.nats.education.gov.in and click on ‘Engagement of Apprentices in Indian Bank – 2026’.",
+      "Click on ‘Click here for New Registration’, enter Name, contact details and email ID. Note the Provisional Registration Number and Password generated.",
+      "Fill in the application form. Use ‘SAVE AND NEXT’ to save data if unable to complete in one go.",
       "Upload scanned photograph (4.5cm x 3.5cm, 20KB–50KB), signature (black ink on white paper, 10KB–20KB), left thumb impression (20KB–50KB), and handwritten declaration (50KB–100KB) as per specifications in Annexure-II.",
-      "Preview and verify all details before clicking &#8216;COMPLETE REGISTRATION&#8217;.",
-      "Proceed to the &#8216;Payment&#8217; tab and pay the application fee online using Debit/Credit Card or Internet Banking.",
+      "Preview and verify all details before clicking ‘COMPLETE REGISTRATION’.",
+      "Proceed to the ‘Payment’ tab and pay the application fee online using Debit/Credit Card or Internet Banking.",
       "On successful payment, an e-Receipt will be generated. Take a printout of the e-Receipt and online application form for future reference.",
       "Do NOT send the printout to the Bank."
     ]
@@ -905,146 +1029,6 @@
     "scrapedAt": "2026-11-09"
   },
   {
-    "id": "jk-ladakh police-junior-assistant-computer-assistant",
-    "title": "Ladakh Police Recruitment 2026 – Junior Assistant, Computer Assistant Posts",
-    "shortInfo": "Ladakh Police has announced notification for Junior Assistant, Computer Assistant posts. Required qualification: Any Graduate, Any Post Graduate, 10TH. Last date to apply: 08-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "12",
-    "lastDate": "08-11-26",
-    "officialWebsite": "https://police.ladakh.gov.in",
-    "notificationLink": "https://cdn.s3waas.gov.in/s3291597a100aadd814d197af4f4bab3a7/uploads/2026/10/17926539972961.pdf",
-    "applyOnlineLink": "https://prison.lpssrb2026.apply-gov.in/",
-    "state": "Jammu & Kashmir",
-    "stateCode": "jk",
-    "scrapedAt": "2026-11-09",
-    "fees": [
-      {
-        "category": "Assistant Superintendent Jail - UR/EWS",
-        "fee": "₹700/-"
-      },
-      {
-        "category": "Assistant Superintendent Jail - SC/ST/ALC",
-        "fee": "₹600/-"
-      },
-      {
-        "category": "Warder - UR/EWS",
-        "fee": "₹600/-"
-      },
-      {
-        "category": "Warder - SC/ST/ALC",
-        "fee": "₹500/-"
-      },
-      {
-        "category": "Computer Assistant - UR/EWS",
-        "fee": "₹600/-"
-      },
-      {
-        "category": "Computer Assistant - SC/ST/ALC",
-        "fee": "₹500/-"
-      },
-      {
-        "category": "Junior Assistant - UR/EWS",
-        "fee": "₹600/-"
-      },
-      {
-        "category": "Junior Assistant - SC/ST/ALC",
-        "fee": "₹500/-"
-      },
-      {
-        "category": "Orderly - UR/EWS",
-        "fee": "₹450/-"
-      },
-      {
-        "category": "Orderly - SC/ST/ALC",
-        "fee": "₹400/-"
-      },
-      {
-        "category": "Barber - UR/EWS",
-        "fee": "₹450/-"
-      },
-      {
-        "category": "Barber - SC/ST/ALC",
-        "fee": "₹400/-"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Start Date for Submission of Online Application Forms",
-        "date": "16/10/2026"
-      },
-      {
-        "event": "Last Date for Submission of Online Application Forms",
-        "date": "08/11/2026"
-      },
-      {
-        "event": "Start Date for Downloading of Admit Cards",
-        "date": "14/11/2026"
-      },
-      {
-        "event": "Commencement of PST/PET",
-        "date": "20/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Assistant Superintendent Jail",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Warder",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Computer Assistant",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Assistant",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Orderly",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Barber",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the official website of Ladakh Police at https://police.ladakh.gov.in.",
-      "Click on the designated link for submission of online application form (active from 16-10-2026).",
-      "Fill in all required details carefully including name, date of birth, category, domicile and other eligibility particulars.",
-      "Upload a scanned colour passport-size photograph in JPG/JPEG format (up to 500 KB) with white background, not older than three months.",
-      "Pay the prescribed application fee online via Net Banking, Credit/Debit Cards, or UPI on the Recruitment Application Software (RAS).",
-      "Submit the application form before the last date i.e. 08-11-2026.",
-      "After submission, take a printout/PDF copy of the application form for future reference.",
-      "Candidates already in Government service must submit a No Objection Certificate (NOC) from the concerned Head of Department along with the application.",
-      "Download Admit Card from the official website of Ladakh Police from 14-11-2026 onwards."
-    ]
-  },
-  {
     "id": "jk-lahdc kssrb-junior-assistant-class-iv-and-more",
     "title": "LAHDC KSSRB Recruitment 2026 – Junior Assistant, Class-IV and More Posts",
     "shortInfo": "LAHDC KSSRB has announced notification for Junior Assistant, Class-IV and More posts. Required qualification: Diploma, B.Lib, Any Graduate, B.Des, 10TH, 12TH. Last date to apply: 27-11-26.",
@@ -1294,23 +1278,6 @@
       "Do not submit hard copies of the online application form to the JKSSB office either in person or by post/email.",
       "In-service candidates must submit the printout of the filled online application form through proper channel (Head of Department/Designated Authority) to the Office of the Secretary, JKSSB, by or before the last date of Document Verification."
     ]
-  },
-  {
-    "id": "jk-nit srinagar-junior-research-fellow",
-    "title": "NIT Srinagar Recruitment 2026 – Junior Research Fellow Posts",
-    "shortInfo": "NIT Srinagar has announced notification for Junior Research Fellow posts. Required qualification: M.E / M.Tech, B.Tech / B.E. Last date to apply: 08-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "08-11-26",
-    "officialWebsite": "https://nitsri.ac.in/uploaded_files/Advertisement_for_one_post_of_JPF_under_DST_JKSTIC-sponsored_project.pdf",
-    "notificationLink": "https://nitsri.ac.in/uploaded_files/Advertisement_for_one_post_of_JPF_under_DST_JKSTIC-sponsored_project.pdf",
-    "applyOnlineLink": "https://nitsri.ac.in/uploaded_files/Advertisement_for_one_post_of_JPF_under_DST_JKSTIC-sponsored_project.pdf",
-    "state": "Jammu & Kashmir",
-    "stateCode": "jk",
-    "scrapedAt": "2026-11-09"
   },
   {
     "id": "jk-echs-nursing-assistant-and-more-clerk",

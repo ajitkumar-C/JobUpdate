@@ -1832,12 +1832,52 @@
     "district": "State Level",
     "vacancies": "78",
     "lastDate": "20-11-26",
-    "officialWebsite": "https://gsssb.gujarat.gov.in/ViewFile?fileName=4naZ%E2%9C%BF8wS64TzwZ61AZrbMP4tvDBt3Mj8UPSd1xKcshs1XDH5l2Vm1j7r6YbszVh4fxQTTEi%E2%9C%BFTLry2z6Q6FdLsa3nodgLBxBAOQweZEC8sJ26DpX%E2%9C%A40XyLMzu%E2%9C%BFfMtn8H7l6TKjYKke92q4vR8r32T%E2%9C%BF7Q%E2%99%AC%E2%99%AC",
+    "officialWebsite": "https://gsssb.gujarat.gov.in",
     "notificationLink": "https://gsssb.gujarat.gov.in/ViewFile?fileName=4naZ%E2%9C%BF8wS64TzwZ61AZrbMP4tvDBt3Mj8UPSd1xKcshs1XDH5l2Vm1j7r6YbszVh4fxQTTEi%E2%9C%BFTLry2z6Q6FdLsa3nodgLBxBAOQweZEC8sJ26DpX%E2%9C%A40XyLMzu%E2%9C%BFfMtn8H7l6TKjYKke92q4vR8r32T%E2%9C%BF7Q%E2%99%AC%E2%99%AC",
-    "applyOnlineLink": "https://gsssb.gujarat.gov.in/ViewFile?fileName=4naZ%E2%9C%BF8wS64TzwZ61AZrbMP4tvDBt3Mj8UPSd1xKcshs1XDH5l2Vm1j7r6YbszVh4fxQTTEi%E2%9C%BFTLry2z6Q6FdLsa3nodgLBxBAOQweZEC8sJ26DpX%E2%9C%A40XyLMzu%E2%9C%BFfMtn8H7l6TKjYKke92q4vR8r32T%E2%9C%BF7Q%E2%99%AC%E2%99%AC",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/gsssb-surveyor-2026/",
     "state": "Gujarat",
     "stateCode": "gujarat",
-    "scrapedAt": "2026-11-10"
+    "scrapedAt": "2026-11-10",
+    "fees": [
+      {
+        "category": "Unreserved (General) Category",
+        "fee": "Rs. 500/-"
+      },
+      {
+        "category": "Reserved Categories (All category women, SEBC, SC, ST, EWS, Divyang, Ex-Servicemen)",
+        "fee": "Rs. 400/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Application Start Date",
+        "date": "30/10/2026"
+      },
+      {
+        "event": "Online Application Last Date",
+        "date": "20/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Surveyor, Class-3",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website: https://ojas.gujarat.gov.in",
+      "Click on ‘Online Application’ and select GSSSB.",
+      "Click on the advertisement for Surveyor Class-3 (Advertisement No. 467/202627) and click ‘Apply Now’.",
+      "Complete OTR (One Time Registration) if not already done.",
+      "Fill in Personal Details, SSC details, Bank Account details, and Educational Details carefully.",
+      "Upload photograph (5 cm height x 3.6 cm width) and signature (2.5 cm height x 7.5 cm width) in JPG format (max 15 KB each).",
+      "Review all details and click ‘Confirm Application’ to generate a Confirmation Number. No changes can be made after confirmation.",
+      "Pay the examination fee online (Debit Card, Internet Banking, UPI, or Wallets) by 23/11/2026 (23:59 hours).",
+      "Download and print the application form for future reference."
+    ]
   },
   {
     "id": "gujarat-vnsgu-office-superintendent",

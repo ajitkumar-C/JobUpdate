@@ -1,5 +1,39 @@
 [
   {
+    "id": "arunachal-cihcs-director",
+    "title": "CIHCS Recruitment 2026 – Director Posts",
+    "shortInfo": "CIHCS has announced notification for Director posts. Required qualification: M.Phil/Ph.D. Last date to apply: 08-01-27.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "08-01-27",
+    "officialWebsite": "https://culture.gov.in/files/vacancies_documents/Advertisement_for_the_Post_of_Director_CIHCS.pdf",
+    "notificationLink": "https://culture.gov.in/files/vacancies_documents/Advertisement_for_the_Post_of_Director_CIHCS.pdf",
+    "applyOnlineLink": "https://culture.gov.in/files/vacancies_documents/Advertisement_for_the_Post_of_Director_CIHCS.pdf",
+    "state": "Arunachal Pradesh",
+    "stateCode": "arunachal",
+    "scrapedAt": "2026-11-10"
+  },
+  {
+    "id": "arunachal-chf cau-project-associate-i-pat-i-",
+    "title": "CHF CAU Recruitment 2026 – Project Associate-I (PAT-I) Posts",
+    "shortInfo": "CHF CAU has announced notification for Project Associate-I (PAT-I) posts. Required qualification: M.Sc. Last date to apply: 16-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "16-11-26",
+    "officialWebsite": "https://cau.ac.in/wp-content/uploads/2026/11/Walk-in-Interview-Project-Associate.pdf",
+    "notificationLink": "https://cau.ac.in/wp-content/uploads/2026/11/Walk-in-Interview-Project-Associate.pdf",
+    "applyOnlineLink": "https://cau.ac.in/wp-content/uploads/2026/11/Walk-in-Interview-Project-Associate.pdf",
+    "state": "Arunachal Pradesh",
+    "stateCode": "arunachal",
+    "scrapedAt": "2026-11-10"
+  },
+  {
     "id": "arunachal-rgu-internal-audit-officer-executive-engineer",
     "title": "RGU Recruitment 2026 – Internal Audit Officer, Executive Engineer Posts",
     "shortInfo": "RGU has announced notification for Internal Audit Officer, Executive Engineer posts. Required qualification: Graduate, B.Tech / B.E. Last date to apply: 04-12-26.",
@@ -165,22 +199,5 @@
       "Submit the application before the closing date 23-11-2026 (03:00 PM).",
       "Applications received through any other mode shall be rejected."
     ]
-  },
-  {
-    "id": "arunachal-appsc-assistant-motor-vehicle-inspector-lab-assistant",
-    "title": "APPSC Recruitment 2026 – Assistant Motor Vehicle Inspector, Lab Assistant Posts",
-    "shortInfo": "APPSC has announced notification for Assistant Motor Vehicle Inspector, Lab Assistant posts. Required qualification: B.Sc, B.Tech / B.E, Diploma. Last date to apply: 26-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "106",
-    "lastDate": "26-11-26",
-    "officialWebsite": "https://psc.ap.gov.in/Documents/NotificationDocuments/Lab_Asst_Mines_342026.pdf",
-    "notificationLink": "https://psc.ap.gov.in/Documents/NotificationDocuments/Lab_Asst_Mines_342026.pdf",
-    "applyOnlineLink": "https://psc.ap.gov.in/Documents/NotificationDocuments/Lab_Asst_Mines_342026.pdf",
-    "state": "Arunachal Pradesh",
-    "stateCode": "arunachal",
-    "scrapedAt": "2026-11-10"
   }
 ]

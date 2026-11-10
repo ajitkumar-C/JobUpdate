@@ -1,5 +1,22 @@
 [
   {
+    "id": "jk-iit jammu-research-associate",
+    "title": "IIT Jammu Recruitment 2026 – Research Associate Posts",
+    "shortInfo": "IIT Jammu has announced notification for Research Associate posts. Required qualification: M.Phil / Ph.D. Last date to apply: 22-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "22-11-26",
+    "officialWebsite": "https://apply.iitjammu.ac.in/#/home",
+    "notificationLink": "https://apply.iitjammu.ac.in/#/home",
+    "applyOnlineLink": "https://apply.iitjammu.ac.in/#/home",
+    "state": "Jammu & Kashmir",
+    "stateCode": "jk",
+    "scrapedAt": "2026-11-10"
+  },
+  {
     "id": "jk-jk bank-banking-associate",
     "title": "JK Bank Recruitment 2026 – Banking Associate Posts",
     "shortInfo": "JK Bank has announced notification for Banking Associate posts. Required qualification: Graduate in any discipline. Last date to apply: 26-11-26.",
@@ -122,6 +139,23 @@
       "Download and save the e-Receipt generated after successful payment.",
       "Take a printout of the system-generated online application form for future reference."
     ]
+  },
+  {
+    "id": "jk-nhpc-medical-officer",
+    "title": "NHPC Recruitment 2026 – Medical Officer Posts",
+    "shortInfo": "NHPC has announced notification for Medical Officer posts. Required qualification: MBBS. Last date to apply: 18-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "18-11-26",
+    "officialWebsite": "https://www.nhpcindia.com/assests/pzi_public/job/details_1794205368_1148.pdf",
+    "notificationLink": "https://www.nhpcindia.com/assests/pzi_public/job/details_1794205368_1148.pdf",
+    "applyOnlineLink": "https://www.nhpcindia.com/assests/pzi_public/job/details_1794205368_1148.pdf",
+    "state": "Jammu & Kashmir",
+    "stateCode": "jk",
+    "scrapedAt": "2026-11-10"
   },
   {
     "id": "jk-skims-project-technical-support-and-more-project-researc",

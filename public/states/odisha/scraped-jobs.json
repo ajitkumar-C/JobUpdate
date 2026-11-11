@@ -1,5 +1,56 @@
 [
   {
+    "id": "odisha-cast-ahl-drivers-ahl-assistants-and-more",
+    "title": "CAST Recruitment 2026 – AHL Drivers, AHL Assistants and More Posts",
+    "shortInfo": "CAST has announced notification for AHL Drivers, AHL Assistants and More posts. Required qualification: Diploma, 12TH, 10TH. Last date to apply: 24-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "7",
+    "lastDate": "24-11-26",
+    "officialWebsite": "https://rayagada.odisha.gov.in/sites/default/files/2026-11/Advertisement%20for%20AHL%20Doctors,%20Assistants,%20Attendants%20and%20Drivers%20for%20CDVO,%20Rayagada.pdf",
+    "notificationLink": "https://rayagada.odisha.gov.in/sites/default/files/2026-11/Advertisement%20for%20AHL%20Doctors,%20Assistants,%20Attendants%20and%20Drivers%20for%20CDVO,%20Rayagada.pdf",
+    "applyOnlineLink": "https://rayagada.odisha.gov.in/sites/default/files/2026-11/Advertisement%20for%20AHL%20Doctors,%20Assistants,%20Attendants%20and%20Drivers%20for%20CDVO,%20Rayagada.pdf",
+    "state": "Odisha",
+    "stateCode": "odisha",
+    "scrapedAt": "2026-11-11"
+  },
+  {
+    "id": "odisha-ouat-assistant-professor",
+    "title": "OUAT Recruitment 2026 – Assistant Professor Posts",
+    "shortInfo": "OUAT has announced notification for Assistant Professor posts. Required qualification: PG, M.Phil / Ph.D. Last date to apply: 07-12-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "10",
+    "lastDate": "07-12-26",
+    "officialWebsite": "https://ouat.ac.in/wp-content/uploads/2026/11/Asst.-Prof.-equivalent.pdf",
+    "notificationLink": "https://ouat.ac.in/wp-content/uploads/2026/11/Asst.-Prof.-equivalent.pdf",
+    "applyOnlineLink": "https://ouat.ac.in/wp-content/uploads/2026/11/Asst.-Prof.-equivalent.pdf",
+    "state": "Odisha",
+    "stateCode": "odisha",
+    "scrapedAt": "2026-11-11"
+  },
+  {
+    "id": "odisha-malkangiri forest division-wildlife-veterinary-assistant",
+    "title": "Malkangiri Forest Division Recruitment 2026 – Wildlife Veterinary Assistant Posts",
+    "shortInfo": "Malkangiri Forest Division has announced notification for Wildlife Veterinary Assistant posts. Required qualification: MVSC, BVSC. Last date to apply: 16-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "16-11-26",
+    "officialWebsite": "https://malkangiri.odisha.gov.in/sites/default/files/2026-10/5380.pdf",
+    "notificationLink": "https://malkangiri.odisha.gov.in/sites/default/files/2026-10/5380.pdf",
+    "applyOnlineLink": "https://malkangiri.odisha.gov.in/sites/default/files/2026-10/5380.pdf",
+    "state": "Odisha",
+    "stateCode": "odisha",
+    "scrapedAt": "2026-11-11"
+  },
+  {
     "id": "odisha-odisha police-special-police-officer",
     "title": "Odisha Police Recruitment 2026 – Special Police Officer Posts",
     "shortInfo": "Odisha Police has announced notification for Special Police Officer posts. Required qualification: Retired Staff. Last date to apply: 16-11-26.",
@@ -9,12 +60,86 @@
     "district": "State Level",
     "vacancies": "126",
     "lastDate": "16-11-26",
-    "officialWebsite": "https://police.odisha.gov.in/storage/recruitment//1794227851_PublicationofadvertisementforengagementofRetiredASISIInspectorKhordhaPuriKatakaNayagadaKendrapadaJajpurJagatsinghpurDistrictsunderCentralRangeKataka.pdf",
+    "officialWebsite": "https://police.odisha.gov.in",
     "notificationLink": "https://police.odisha.gov.in/storage/recruitment//1794227851_PublicationofadvertisementforengagementofRetiredASISIInspectorKhordhaPuriKatakaNayagadaKendrapadaJajpurJagatsinghpurDistrictsunderCentralRangeKataka.pdf",
-    "applyOnlineLink": "https://police.odisha.gov.in/storage/recruitment//1794227851_PublicationofadvertisementforengagementofRetiredASISIInspectorKhordhaPuriKatakaNayagadaKendrapadaJajpurJagatsinghpurDistrictsunderCentralRangeKataka.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/odisha-police-126-special-police-officers-spo-recruitment-2026/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-11"
+    "scrapedAt": "2026-11-11",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date to Submit Application",
+        "date": "16/11/2026"
+      },
+      {
+        "event": "Selection Test Date",
+        "date": "30/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Special Police Officer (SPO) - Khordha",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Special Police Officer (SPO) - Puri",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Special Police Officer (SPO) - Kataka",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Special Police Officer (SPO) - Kendrapada",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Special Police Officer (SPO) - Nayagada",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Special Police Officer (SPO) - Jajpur",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Special Police Officer (SPO) - Jagatsinghpur",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Obtain the prescribed application form from the Odisha Police website: Police.Odisha.Gov.in.",
+      "Fill in the application form completely with all required details.",
+      "Submit the completed application to the Inspector General of Police, Central Range, Kataka.",
+      "Ensure the application reaches O/O the I.G. of Police, Central Range, Kataka on or before 16.11.2026 at 6:30 PM.",
+      "Incomplete applications or applications received after the last date will be summarily rejected."
+    ]
   },
   {
     "id": "odisha-dcpu balangir-more-helper-cook",
@@ -284,23 +409,6 @@
     "officialWebsite": "https://www.iiserbpr.ac.in/webcontrol/uploads/job/IISERBPR_EES_BRNS_051026_3758_103_Technical%20Assistant%20%20%20%20%20%20%20%20Advertisement%20for%20Technical%20Assistant%20(TA)-BRNS103%20_20261106104603_6737.pdf",
     "notificationLink": "https://www.iiserbpr.ac.in/webcontrol/uploads/job/IISERBPR_EES_BRNS_051026_3758_103_Technical%20Assistant%20%20%20%20%20%20%20%20Advertisement%20for%20Technical%20Assistant%20(TA)-BRNS103%20_20261106104603_6737.pdf",
     "applyOnlineLink": "https://www.iiserbpr.ac.in/webcontrol/uploads/job/IISERBPR_EES_BRNS_051026_3758_103_Technical%20Assistant%20%20%20%20%20%20%20%20Advertisement%20for%20Technical%20Assistant%20(TA)-BRNS103%20_20261106104603_6737.pdf",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-11"
-  },
-  {
-    "id": "odisha-govt hss telgam-guest-faculty",
-    "title": "Govt HSS Telgam Recruitment 2026 – Guest Faculty Posts",
-    "shortInfo": "Govt HSS Telgam has announced notification for Guest Faculty posts. Required qualification: B.Ed, Post Graduate. Last date to apply: 10-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "10-11-26",
-    "officialWebsite": "https://nabarangpur.odisha.gov.in/sites/default/files/2026-11/Guest%20Faculty%20engagement%20notification%20of%20GOVT%20HIGHER%20SECONDARY%20SCHOOL%20TELGAM.pdf",
-    "notificationLink": "https://nabarangpur.odisha.gov.in/sites/default/files/2026-11/Guest%20Faculty%20engagement%20notification%20of%20GOVT%20HIGHER%20SECONDARY%20SCHOOL%20TELGAM.pdf",
-    "applyOnlineLink": "https://nabarangpur.odisha.gov.in/sites/default/files/2026-11/Guest%20Faculty%20engagement%20notification%20of%20GOVT%20HIGHER%20SECONDARY%20SCHOOL%20TELGAM.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
     "scrapedAt": "2026-11-11"
@@ -1221,23 +1329,6 @@
     "scrapedAt": "2026-11-11"
   },
   {
-    "id": "odisha-pm shri govt. u.g. high school, bakoda-guest-faculty",
-    "title": "PM SHRI Govt. U.G. High School, Bakoda Recruitment 2026 – Guest Faculty Posts",
-    "shortInfo": "PM SHRI Govt. U.G. High School, Bakoda has announced notification for Guest Faculty posts. Required qualification: Post Graduate, M.Phil / Ph.D, B.Ed. Last date to apply: 10-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "10-11-26",
-    "officialWebsite": "https://nabarangpur.odisha.gov.in/sites/default/files/2026-11/New%20Doc%2011-04-2026%2019.30%20(2).pdf",
-    "notificationLink": "https://nabarangpur.odisha.gov.in/sites/default/files/2026-11/New%20Doc%2011-04-2026%2019.30%20(2).pdf",
-    "applyOnlineLink": "https://nabarangpur.odisha.gov.in/sites/default/files/2026-11/New%20Doc%2011-04-2026%2019.30%20(2).pdf",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-11"
-  },
-  {
     "id": "odisha-oav sansole-assistant-cook",
     "title": "OAV Sansole Recruitment 2026 – Assistant Cook Posts",
     "shortInfo": "OAV Sansole has announced notification for Assistant Cook posts. Required qualification: Graduate. Last date to apply: 25-11-26.",
@@ -1301,40 +1392,6 @@
     "officialWebsite": "https://buodisha.edu.in/wp-content/uploads/2026/11/OSFD_Blackbuck_Project_Advt05112026.pdf",
     "notificationLink": "https://buodisha.edu.in/wp-content/uploads/2026/11/OSFD_Blackbuck_Project_Advt05112026.pdf",
     "applyOnlineLink": "https://buodisha.edu.in/wp-content/uploads/2026/11/OSFD_Blackbuck_Project_Advt05112026.pdf",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-11"
-  },
-  {
-    "id": "odisha-ghss sanamada-guest-faculty-arts-stream-",
-    "title": "GHSS Sanamada Recruitment 2026 – Guest Faculty (Arts stream) Posts",
-    "shortInfo": "GHSS Sanamada has announced notification for Guest Faculty (Arts stream) posts. Required qualification: B.Ed, Post Graduate. Last date to apply: 10-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "10-11-26",
-    "officialWebsite": "https://nabarangpur.odisha.gov.in/sites/default/files/2026-11/Advertisement%20for%20Guest%20Faculty.pdf",
-    "notificationLink": "https://nabarangpur.odisha.gov.in/sites/default/files/2026-11/Advertisement%20for%20Guest%20Faculty.pdf",
-    "applyOnlineLink": "https://nabarangpur.odisha.gov.in/sites/default/files/2026-11/Advertisement%20for%20Guest%20Faculty.pdf",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-11"
-  },
-  {
-    "id": "odisha-ghss majhidhanua-guest-faculty",
-    "title": "GHSS Majhidhanua Recruitment 2026 – Guest Faculty Posts",
-    "shortInfo": "GHSS Majhidhanua has announced notification for Guest Faculty posts. Required qualification: B.Ed, Post Graduate. Last date to apply: 10-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "6",
-    "lastDate": "10-11-26",
-    "officialWebsite": "https://nabarangpur.odisha.gov.in/sites/default/files/2026-11/Advertisement.%20HSS.%20Majhidhanua.pdf",
-    "notificationLink": "https://nabarangpur.odisha.gov.in/sites/default/files/2026-11/Advertisement.%20HSS.%20Majhidhanua.pdf",
-    "applyOnlineLink": "https://nabarangpur.odisha.gov.in/sites/default/files/2026-11/Advertisement.%20HSS.%20Majhidhanua.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
     "scrapedAt": "2026-11-11"
@@ -1783,23 +1840,6 @@
     "officialWebsite": "https://bhadrak.odisha.gov.in/sites/default/files/2026-11/Warden_KGBV_Bdk.pdf",
     "notificationLink": "https://bhadrak.odisha.gov.in/sites/default/files/2026-11/Warden_KGBV_Bdk.pdf",
     "applyOnlineLink": "https://bhadrak.odisha.gov.in/sites/default/files/2026-11/Warden_KGBV_Bdk.pdf",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-11"
-  },
-  {
-    "id": "odisha-nhm balangir-mo-physician-consultant",
-    "title": "NHM Balangir Recruitment 2026 – MO, Physician / Consultant Posts",
-    "shortInfo": "NHM Balangir has announced notification for MO, Physician / Consultant posts. Required qualification: PG Diploma, MS / MD, Diploma, MBBS. Last date to apply: 10-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "2",
-    "lastDate": "10-11-26",
-    "officialWebsite": "https://balangir.odisha.gov.in/sites/default/files/2026-11/3398.pdf",
-    "notificationLink": "https://balangir.odisha.gov.in/sites/default/files/2026-11/3398.pdf",
-    "applyOnlineLink": "https://balangir.odisha.gov.in/sites/default/files/2026-11/3398.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
     "scrapedAt": "2026-11-11"
@@ -2467,23 +2507,6 @@
     "scrapedAt": "2026-11-11"
   },
   {
-    "id": "odisha-iiser berhampur-junior-research-fellow",
-    "title": "IISER Berhampur Recruitment 2026 – Junior Research Fellow Posts",
-    "shortInfo": "IISER Berhampur has announced notification for Junior Research Fellow posts. Required qualification: M.Sc. Last date to apply: 10-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "10-11-26",
-    "officialWebsite": "https://www.iiserbpr.ac.in/webcontrol/uploads/job/IISERBPR_MTH_ANRF_120625_TSHyb_084_JRF%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Advertisement%20for%20Junior%20Research%20Fellow%20(JRF)-ANRF%20084_20261026112824_5682.pdf",
-    "notificationLink": "https://www.iiserbpr.ac.in/webcontrol/uploads/job/IISERBPR_MTH_ANRF_120625_TSHyb_084_JRF%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Advertisement%20for%20Junior%20Research%20Fellow%20(JRF)-ANRF%20084_20261026112824_5682.pdf",
-    "applyOnlineLink": "https://www.iiserbpr.ac.in/webcontrol/uploads/job/IISERBPR_MTH_ANRF_120625_TSHyb_084_JRF%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Advertisement%20for%20Junior%20Research%20Fellow%20(JRF)-ANRF%20084_20261026112824_5682.pdf",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-11"
-  },
-  {
     "id": "odisha-ousssc-constable-civil-constable-communication-constable-",
     "title": "OUSSSC Recruitment 2026 – Constable (Civil), Constable (Communication), Constable OISF, Firefighter, Firefighting Driver, Driver PMT, Traffic Constable Posts",
     "shortInfo": "OUSSSC has announced notification for Constable (Civil), Constable (Communication), Constable OISF, Firefighter, Firefighting Driver, Driver PMT, Traffic Constable posts. Required qualification: 10th / Matriculation or Higher Secondary (+2). Last date to apply: 12-11-26.",
@@ -2592,314 +2615,6 @@
     ]
   },
   {
-    "id": "odisha-isro sdsc shar-heavy-vehicle-driver-and-more-mts",
-    "title": "ISRO SDSC SHAR Recruitment 2026 – Heavy Vehicle Driver and More, MTS Posts",
-    "shortInfo": "ISRO SDSC SHAR has announced notification for Heavy Vehicle Driver and More, MTS posts. Required qualification: Any Graduate, 10TH, ITI, Diploma. Last date to apply: 09-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "97",
-    "lastDate": "09-11-26",
-    "officialWebsite": "https://www.isro.gov.in",
-    "notificationLink": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2026/Oct/Final_Advt_No_03_2026_19102026.pdf",
-    "applyOnlineLink": "https://apps.shar.gov.in/Recruitment/",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-11",
-    "fees": [
-      {
-        "category": "Post Codes 07–15 (Women/SC/ST/PwBD/Ex-Servicemen – Exempted, Full Refund)",
-        "fee": "Rs. 750/- (Processing Fee; Rs. 750/- refunded on appearing in Written Test)"
-      },
-      {
-        "category": "Post Codes 07–15 (All Other Candidates – Rs. 250/- deducted, Rs. 500/- refunded)",
-        "fee": "Rs. 750/- (Processing Fee; Rs. 500/- refunded after deducting Rs. 250/- Application Fee)"
-      },
-      {
-        "category": "Post Codes 16–30 (Women/SC/ST/PwBD/Ex-Servicemen – Exempted, Full Refund)",
-        "fee": "Rs. 500/- (Processing Fee; Rs. 500/- refunded on appearing in Written Test)"
-      },
-      {
-        "category": "Post Codes 16–30 (All Other Candidates – Rs. 100/- deducted, Rs. 400/- refunded)",
-        "fee": "Rs. 500/- (Processing Fee; Rs. 400/- refunded after deducting Rs. 100/- Application Fee)"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Opening Date for Online Registration",
-        "date": "19/10/2026"
-      },
-      {
-        "event": "Closing Date for Online Registration (including payment)",
-        "date": "09/11/2026"
-      },
-      {
-        "event": "Age Limit Cut-off Date",
-        "date": "09/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Technical Assistant (Mechanical Engineering) – Post Code 07",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Technical Assistant (Electrical Engineering / Electrical & Electronics Engineering) – Post Code 08",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Technical Assistant (Computer Science & Engineering) – Post Code 09",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Technical Assistant (Electronics & Communication Engineering) – Post Code 10",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Technical Assistant (Civil Engineering) – Post Code 11",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Scientific Assistant (Physics) – Post Code 12",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Scientific Assistant (Fine Arts Photography / Visual Arts Cinematography) – Post Code 13",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Library Assistant 'A' – Post Code 14",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Nurse 'B' – Post Code 15",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Technician 'B' (Electrician) – Post Code 16",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Technician 'B' (Chemical) – Post Code 17",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Technician 'B' (Fitter) – Post Code 18",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Technician 'B' (Electronic Mechanic) – Post Code 19",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Technician 'B' (Boiler Attendant – PCR Rasayani) – Post Code 20",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Technician 'B' (Turner) – Post Code 21",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Technician 'B' (Refrigeration and Air Conditioning) – Post Code 22",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Technician 'B' (Civil Engineering Assistant) – Post Code 23",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Technician 'B' (Photography / Digital Photography) – Post Code 24",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Draughtsman 'B' (Civil) – Post Code 25",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Fireman 'A' – Post Code 26",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Light Vehicle Driver 'A' (LVD 'A') – Post Code 27",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Heavy Vehicle Driver 'A' (HVD 'A') – Post Code 28",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Multi-Tasking Staff (MTS) – Post Code 29",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Light Vehicle Driver 'A' (LVD 'A') ADRIN – Post Code 30",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the official SDSC SHAR website at http://www.shar.gov.in or https://apps.shar.gov.in.",
-      "Register your online application between 19.10.2026 (10:00 Hrs) and 09.11.2026 (23:59 Hrs).",
-      "Fill in all required details including E-mail ID and Mobile Number correctly and compulsorily.",
-      "Upload clear scanned copies/images of: recent colour passport size photograph (.jpg, up to 40 KB, 110×140 pixels), signature (.jpg, up to 20 KB, 200×50 pixels), SC/ST/Disability/Ex-servicemen certificate (if applicable), documents pertaining to essential qualifications (up to 1 MB), and No Objection Certificate (if applicable).",
-      "Pay the processing fee online (no other mode accepted). Post Codes 07–15: Rs. 750/-; Post Codes 16–30: Rs. 500/-.",
-      "Submit the application before the closing date including payment.",
-      "After submission, download the personalized registration confirmation form containing name, Registration No., Advertisement No., and Post Code for future reference.",
-      "Submit separate applications for each Post Code with separate fee payment."
-    ]
-  },
-  {
-    "id": "odisha-irel-tradesman-trainee-fitter-tradesman-trainee-electri",
-    "title": "IREL Recruitment 2026 – Tradesman Trainee (Fitter), Tradesman Trainee (Electrician), Tradesman Trainee (Instrumentation), Tradesman Trainee (Attendant Operator Chemical Plant) Posts",
-    "shortInfo": "IREL has announced notification for Tradesman Trainee (Fitter), Tradesman Trainee (Electrician), Tradesman Trainee (Instrumentation), Tradesman Trainee (Attendant Operator Chemical Plant) posts. Required qualification: ITI / NAC in relevant trade. Last date to apply: 09-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "131",
-    "lastDate": "09-11-26",
-    "officialWebsite": "http://www.irel.co.in",
-    "notificationLink": "https://www.irel.co.in/documents/20126/167125/Annx-2_Draft+Full+Advt.+-+36-2026+-+Final.pdf/aa710432-dc42-38a5-f664-4db075fbafb5?t=1792152369809",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/irel-tradesman-trainee-recruitment-2026/",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-11",
-    "fees": [
-      {
-        "category": "UR / EWS / OBC (NCL) candidates",
-        "fee": "INR 826/- (inclusive of GST) [Application Fee: Rs.472/- + Processing Fee: Rs.354/-]"
-      },
-      {
-        "category": "SC / ST / PwBD / ESM / Women / IREL Internal candidates",
-        "fee": "INR 354/- (inclusive of GST) [Processing Fee only; Application Fee exempted]"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Opening Date for Online Registration of Application",
-        "date": "19/10/2026"
-      },
-      {
-        "event": "Last Date of Submission of Online Application with Fee",
-        "date": "09/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Tradesman Trainee (Fitter)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Tradesman Trainee (Electrician)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Tradesman Trainee (Instrumentation)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Tradesman Trainee (Attendant Operator Chemical Plant)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit IREL official website: www.irel.co.in and navigate to the recruitment portal.",
-      "Click on ‘Click here’ to register for Online Application of IREL (India) Limited.",
-      "Step-I: Fill in Personal Details and Contact Details, then click ‘Generate OTP’. Enter OTPs received on Mobile and Email to verify.",
-      "Agree to terms &amp; conditions, re-verify details, and click ‘Submit’ to complete registration. Note down the Application Sequence Number (User ID) and Password received on registered email/mobile.",
-      "Step-II: Re-login and complete Personal Details, Additional Details, Communication Details, Qualification Details, Declaration, and upload relevant documents including photograph and signature.",
-      "Upload scanned passport-size photograph (JPG/JPEG, min 100KB max 200KB, 3.5cm x 4.5cm, white background, not older than 3 months) and signature (JPG/JPEG, min 80KB max 150KB, black ink on white paper).",
-      "Preview the application form and verify all details. Edit if required before final submission.",
-      "Submit the application and pay the applicable application fee online via Payment Gateway (Debit/Credit Card/Net Banking/Wallets/UPI).",
-      "Print and retain the submitted Application Form and Payment Acknowledgement Slip for future reference.",
-      "Internal candidates must forward printout of online application form to Recruitment Section, Corporate Office, Mumbai through proper channel."
-    ]
-  },
-  {
     "id": "odisha-omc-director",
     "title": "OMC Recruitment 2026 – Director Posts",
     "shortInfo": "OMC has announced notification for Director posts. Required qualification: CA, Any Graduate, ICWA, PGDM, MBA / PGDM, PG Diploma, B.Tech / B.E, Any Post Graduate. Last date to apply: 30-11-26.",
@@ -2917,23 +2632,6 @@
     "scrapedAt": "2026-11-11"
   },
   {
-    "id": "odisha-sail cmlo-specialist-and-gdmo-walk-in-",
-    "title": "SAIL CMLO Recruitment 2026 – Specialist and GDMO (Walk-in) Posts",
-    "shortInfo": "SAIL CMLO has announced notification for Specialist and GDMO (Walk-in) posts. Required qualification: MBBS with PG Degree / DNB. Last date to apply: 10-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "12",
-    "lastDate": "10-11-26",
-    "officialWebsite": "https://aima-web-images.s3.ap-south-1.amazonaws.com/sailcareers.com/Downloads/RSP_News%20&amp;%20Jobs_15102026_093310.pdf",
-    "notificationLink": "https://aima-web-images.s3.ap-south-1.amazonaws.com/sailcareers.com/Downloads/RSP_News%20&amp;%20Jobs_15102026_093310.pdf",
-    "applyOnlineLink": "https://aima-web-images.s3.ap-south-1.amazonaws.com/sailcareers.com/Downloads/RSP_News%20&amp;%20Jobs_15102026_093310.pdf",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-11"
-  },
-  {
     "id": "odisha-ocpl-manager-medical-officer",
     "title": "OCPL Recruitment 2026 – Manager, Medical Officer Posts",
     "shortInfo": "OCPL has announced notification for Manager, Medical Officer posts. Required qualification: Member of ICAI, B.Tech / B.E, M.Sc, Diploma, M.E / M.Tech, MBBS. Last date to apply: 14-11-26.",
@@ -2946,89 +2644,6 @@
     "officialWebsite": "https://ocpl.org.in/Detailed_Advertisement_OCPL_HR_26_01.pdf",
     "notificationLink": "https://ocpl.org.in/Detailed_Advertisement_OCPL_HR_26_01.pdf",
     "applyOnlineLink": "https://ocpl.org.in/Detailed_Advertisement_OCPL_HR_26_01.pdf",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-11"
-  },
-  {
-    "id": "odisha-bric ils-junior-research-fellow",
-    "title": "BRIC ILS Recruitment 2026 – Junior Research Fellow Posts",
-    "shortInfo": "BRIC ILS has announced notification for Junior Research Fellow posts. Required qualification: M.E / M.Tech, M.Pharma, M.Phil / Ph.D, M.Sc, MVSC. Last date to apply: 09-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "17",
-    "lastDate": "09-11-26",
-    "officialWebsite": "https://www.ils.res.in/wp-content/uploads/2026/10/AdvPhD-JRF-Dec-2026-12-10-2026.pdf",
-    "notificationLink": "https://www.ils.res.in/wp-content/uploads/2026/10/AdvPhD-JRF-Dec-2026-12-10-2026.pdf",
-    "applyOnlineLink": "https://www.ils.res.in/wp-content/uploads/2026/10/AdvPhD-JRF-Dec-2026-12-10-2026.pdf",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-11"
-  },
-  {
-    "id": "odisha-nluo-deputy-warden",
-    "title": "NLUO Recruitment 2026 – Deputy Warden Posts",
-    "shortInfo": "NLUO has announced notification for Deputy Warden posts. Required qualification: Bachelor Degree. Last date to apply: 10-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "02",
-    "lastDate": "10-11-26",
-    "officialWebsite": "https://nluo.ac.in",
-    "notificationLink": "https://nluo.ac.in/wp-content/uploads/2026/10/NLUO-Cuttack.pdf",
-    "applyOnlineLink": "https://docs.google.com/forms/d/e/1FAIpQLSecipUL6xu2tQZXPPOnNR3a_9JXkkrMPDyA8RyvfntJzrri4Q/viewform",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-11",
-    "fees": [
-      {
-        "category": "Fee",
-        "fee": "Not Mentioned"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Advertisement Date",
-        "date": "13/10/2026"
-      },
-      {
-        "event": "Last Date to Apply",
-        "date": "10/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Deputy Warden",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the Career section of the University website: www.nluo.ac.in.",
-      "Fill in the prescribed Google Form available on the website.",
-      "Submit the duly filled-in Google Form along with all supporting documents/proof of qualifications and experience to the Registrar, National Law University Odisha, Naraj Road, Sector-13, CDA, Cuttack-753015, Odisha on or before 10.11.2026 by 5:00 PM.",
-      "Only short-listed candidates will be called for Interview.",
-      "No TA/DA will be given for attending the Interview."
-    ]
-  },
-  {
-    "id": "odisha-nluo-deputy-warden",
-    "title": "NLUO Recruitment 2026 – Deputy Warden Posts",
-    "shortInfo": "NLUO has announced notification for Deputy Warden posts. Required qualification: Any Bachelor's Degree. Last date to apply: 10-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "2",
-    "lastDate": "10-11-26",
-    "officialWebsite": "https://nluo.ac.in/wp-content/uploads/2026/10/NLUO-Cuttack.pdf",
-    "notificationLink": "https://nluo.ac.in/wp-content/uploads/2026/10/NLUO-Cuttack.pdf",
-    "applyOnlineLink": "https://nluo.ac.in/wp-content/uploads/2026/10/NLUO-Cuttack.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
     "scrapedAt": "2026-11-11"
@@ -3146,23 +2761,6 @@
     "scrapedAt": "2026-11-11"
   },
   {
-    "id": "odisha-iopb-tradesman",
-    "title": "IOPB Recruitment 2026 – Tradesman Posts",
-    "shortInfo": "IOPB has announced notification for Tradesman posts. Required qualification: ITI, 12TH, 10TH. Last date to apply: 10-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "5",
-    "lastDate": "10-11-26",
-    "officialWebsite": "https://www.iopb.res.in/wp-content/uploads/2026/10/IOP_TADESMAN-A_Recruitment_Advertisement_2026__FINAL.pdf",
-    "notificationLink": "https://www.iopb.res.in/wp-content/uploads/2026/10/IOP_TADESMAN-A_Recruitment_Advertisement_2026__FINAL.pdf",
-    "applyOnlineLink": "https://www.iopb.res.in/wp-content/uploads/2026/10/IOP_TADESMAN-A_Recruitment_Advertisement_2026__FINAL.pdf",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-11"
-  },
-  {
     "id": "odisha-ssb odisha-laboratory-assistant-cum-storekeeper",
     "title": "SSB Odisha Recruitment 2026 – Laboratory Assistant - cum - Storekeeper Posts",
     "shortInfo": "SSB Odisha has announced notification for Laboratory Assistant - cum - Storekeeper posts. Required qualification: Bachelor Degree with Honours. Last date to apply: 16-11-26.",
@@ -3239,7 +2837,7 @@
     "lastDate": "11-11-26",
     "officialWebsite": "https://oav.edu.in/#",
     "notificationLink": "https://oav.edu.in/uploads/OAVS/recruitment-12102026/detailed-modalities-for-invitation-of-applications.pdf",
-    "applyOnlineLink": "https://oav.edu.in/online-application.php",
+    "applyOnlineLink": "https://cdn.digialm.com/EForms/configuredHtml/1258/101464/Vkovb8ovwTThA367lS/Index.html",
     "state": "Odisha",
     "stateCode": "odisha",
     "scrapedAt": "2026-11-11",

@@ -1,70 +1,71 @@
 [
   {
-    "id": "karnataka-kea-principal-last-date-extended-",
-    "title": "KEA Recruitment 2026 – Principal (Last Date Extended) Posts",
-    "shortInfo": "KEA has announced notification for Principal (Last Date Extended) posts. Required qualification: Serving Lecturer in Government Pre-University Colleges. Last date to apply: 10-11-26.",
+    "id": "karnataka-uas dharwad-assistant-professor-walk-in-",
+    "title": "UAS Dharwad Recruitment 2026 – Assistant Professor (Walk-in) Posts",
+    "shortInfo": "UAS Dharwad has announced notification for Assistant Professor (Walk-in) posts. Required qualification: PG, M.Phil / Ph.D. Last date to apply: 25-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "7",
+    "lastDate": "25-11-26",
+    "officialWebsite": "https://drive.google.com/uc?export=download&#038;id=1qcBqczF-G3tU-OBOdpS_bKct-B9oSari",
+    "notificationLink": "https://drive.google.com/uc?export=download&#038;id=1qcBqczF-G3tU-OBOdpS_bKct-B9oSari",
+    "applyOnlineLink": "https://drive.google.com/uc?export=download&#038;id=1qcBqczF-G3tU-OBOdpS_bKct-B9oSari",
+    "state": "Karnataka",
+    "stateCode": "karnataka",
+    "scrapedAt": "2026-11-11"
+  },
+  {
+    "id": "karnataka-iiit bangalore-postdoctoral-and-research-staff",
+    "title": "IIIT Bangalore Recruitment 2026 – Postdoctoral and Research Staff Posts",
+    "shortInfo": "IIIT Bangalore has announced notification for Postdoctoral and Research Staff posts. Required qualification: As per Post. Last date to apply: 30-11-26.",
     "category": "Others",
     "categoryIcon": "🏢",
     "categoryMarathi": "Others",
     "district": "State Level",
-    "vacancies": "247",
-    "lastDate": "10-11-26",
-    "officialWebsite": "https://cetonline.karnataka.gov.in/kea/",
-    "notificationLink": "https://cetonline.karnataka.gov.in/keawebentry456/purechk2026/pucrecruitmentkkkannada.pdf",
-    "applyOnlineLink": "https://cetonline.karnataka.gov.in/keaprinci_inservice/login",
+    "vacancies": "1",
+    "lastDate": "30-11-26",
+    "officialWebsite": "https://www.iiitb.ac.in/includefiles/userfiles/files/job%20posting_post%20doc.pdf",
+    "notificationLink": "https://www.iiitb.ac.in/includefiles/userfiles/files/job%20posting_post%20doc.pdf",
+    "applyOnlineLink": "https://www.iiitb.ac.in/includefiles/userfiles/files/job%20posting_post%20doc.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-11",
-    "fees": [
-      {
-        "category": "General Merit and other categories (2A / 2B / 3A / 3B)",
-        "fee": "Rs. 1,500/-"
-      },
-      {
-        "category": "SC / ST / Category-1 / Ex-servicemen / Third Gender",
-        "fee": "Rs. 1,000/-"
-      },
-      {
-        "category": "Persons with Disabilities (Special Category)",
-        "fee": "Rs. 500/-"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Online Application Start Date",
-        "date": "07/09/2026"
-      },
-      {
-        "event": "Online Application Last Date (Extended Upto)",
-        "date": "10/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Principal – Kalyana-Karnataka (KK) Local Cadre",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Principal – Residual Parent Cadre (RPC)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the official KEA website: https://cetonline.karnataka.gov.in/kea/",
-      "Click on the online application link for the relevant Principal Recruitment notification (KK or RPC, as applicable).",
-      "Register and fill in personal, educational, and service details carefully.",
-      "Upload the photograph and signature as per the specified format and size.",
-      "Upload the required certificates and supporting documents.",
-      "Pay the prescribed application fee online.",
-      "Verify all entered details before final submission – no correction or modification is allowed after submission.",
-      "Download and retain a copy of the submitted application and the fee payment receipt."
-    ]
+    "scrapedAt": "2026-11-11"
+  },
+  {
+    "id": "karnataka-icar-nbair-senior-research-fellow-srf-young-professional-i-yp",
+    "title": "ICAR-NBAIR Recruitment 2026 – Senior Research Fellow (SRF), Young Professional I (YP-I) Posts",
+    "shortInfo": "ICAR-NBAIR has announced notification for Senior Research Fellow (SRF), Young Professional I (YP-I) posts. Required qualification: B.Sc, M.Sc. Last date to apply: 23-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "23-11-26",
+    "officialWebsite": "https://nbair.res.in/sites/default/files/2026-11/Interview%20SRF%20%26%20YP.pdf",
+    "notificationLink": "https://nbair.res.in/sites/default/files/2026-11/Interview%20SRF%20%26%20YP.pdf",
+    "applyOnlineLink": "https://nbair.res.in/sites/default/files/2026-11/Interview%20SRF%20%26%20YP.pdf",
+    "state": "Karnataka",
+    "stateCode": "karnataka",
+    "scrapedAt": "2026-11-11"
+  },
+  {
+    "id": "karnataka-kvs-trained-graduate-teacher-primary-teacher",
+    "title": "KVS Recruitment 2026 – Trained Graduate Teacher, Primary Teacher Posts",
+    "shortInfo": "KVS has announced notification for Trained Graduate Teacher, Primary Teacher posts. Required qualification: B.A, B.Sc, B.Ed. Last date to apply: 12-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "4",
+    "lastDate": "12-11-26",
+    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3kv0133cb8694491c4f924da4dd98b956/uploads/2026/11/2026111049.pdf",
+    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3kv0133cb8694491c4f924da4dd98b956/uploads/2026/11/2026111049.pdf",
+    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3kv0133cb8694491c4f924da4dd98b956/uploads/2026/11/2026111049.pdf",
+    "state": "Karnataka",
+    "stateCode": "karnataka",
+    "scrapedAt": "2026-11-11"
   },
   {
     "id": "karnataka-iia-research-trainee-observations-",
@@ -1630,23 +1631,6 @@
     "scrapedAt": "2026-11-11"
   },
   {
-    "id": "karnataka-jncasr-medical-officer",
-    "title": "JNCASR Recruitment 2026 – Medical Officer Posts",
-    "shortInfo": "JNCASR has announced notification for Medical Officer posts. Required qualification: MBBS. Last date to apply: 10-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "2",
-    "lastDate": "10-11-26",
-    "officialWebsite": "https://www.jncasr.ac.in/sites/default/files/Join_Us/Opportunities/2026-10/ADVT%20MO%202026-2_0.pdf",
-    "notificationLink": "https://www.jncasr.ac.in/sites/default/files/Join_Us/Opportunities/2026-10/ADVT%20MO%202026-2_0.pdf",
-    "applyOnlineLink": "https://www.jncasr.ac.in/sites/default/files/Join_Us/Opportunities/2026-10/ADVT%20MO%202026-2_0.pdf",
-    "state": "Karnataka",
-    "stateCode": "karnataka",
-    "scrapedAt": "2026-11-11"
-  },
-  {
     "id": "karnataka-iisc-library-and-information-management-lim-project-tra",
     "title": "IISc Recruitment 2026 – Library and Information Management (LIM) Project Trainee Posts",
     "shortInfo": "IISc has announced notification for Library and Information Management (LIM) Project Trainee posts. Required qualification: M.Lib, B.Lib. Last date to apply: 19-11-26.",
@@ -1693,40 +1677,6 @@
     "officialWebsite": "https://bnu.karnataka.gov.in/uploads/Physical%20education%20Director_1793258926.pdf",
     "notificationLink": "https://bnu.karnataka.gov.in/uploads/Physical%20education%20Director_1793258926.pdf",
     "applyOnlineLink": "https://bnu.karnataka.gov.in/uploads/Physical%20education%20Director_1793258926.pdf",
-    "state": "Karnataka",
-    "stateCode": "karnataka",
-    "scrapedAt": "2026-11-11"
-  },
-  {
-    "id": "karnataka-ucsl-manager-deputy-manager",
-    "title": "UCSL Recruitment 2026 – Manager, Deputy Manager Posts",
-    "shortInfo": "UCSL has announced notification for Manager, Deputy Manager posts. Required qualification: B.Tech / B.E, Diploma. Last date to apply: 09-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "5",
-    "lastDate": "09-11-26",
-    "officialWebsite": "https://cochinshipyard.in/uploads/career/439f2e9946f25d2b1a15791a4210c382.pdf",
-    "notificationLink": "https://cochinshipyard.in/uploads/career/439f2e9946f25d2b1a15791a4210c382.pdf",
-    "applyOnlineLink": "https://cochinshipyard.in/uploads/career/439f2e9946f25d2b1a15791a4210c382.pdf",
-    "state": "Karnataka",
-    "stateCode": "karnataka",
-    "scrapedAt": "2026-11-11"
-  },
-  {
-    "id": "karnataka-ucsl-supervisor",
-    "title": "UCSL Recruitment 2026 – Supervisor Posts",
-    "shortInfo": "UCSL has announced notification for Supervisor posts. Required qualification: Diploma. Last date to apply: 09-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "2",
-    "lastDate": "09-11-26",
-    "officialWebsite": "https://cochinshipyard.in/uploads/career/84ce66e6357a4290a3291fce8f61bbaf.pdf",
-    "notificationLink": "https://cochinshipyard.in/uploads/career/84ce66e6357a4290a3291fce8f61bbaf.pdf",
-    "applyOnlineLink": "https://cochinshipyard.in/uploads/career/84ce66e6357a4290a3291fce8f61bbaf.pdf",
     "state": "Karnataka",
     "stateCode": "karnataka",
     "scrapedAt": "2026-11-11"
@@ -1977,40 +1927,6 @@
     ]
   },
   {
-    "id": "karnataka-iimb-academic-associate-public-policy-area",
-    "title": "IIMB Recruitment 2026 – Academic Associate - Public Policy Area Posts",
-    "shortInfo": "IIMB has announced notification for Academic Associate - Public Policy Area posts. Required qualification: Other, M.Phil / Ph.D, Post Graduate. Last date to apply: 10-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "10-11-26",
-    "officialWebsite": "https://www.iimb.ac.in/sites/default/files/inline-files/JD-AA-Public_Policy-Area-2026.pdf",
-    "notificationLink": "https://www.iimb.ac.in/sites/default/files/inline-files/JD-AA-Public_Policy-Area-2026.pdf",
-    "applyOnlineLink": "https://www.iimb.ac.in/sites/default/files/inline-files/JD-AA-Public_Policy-Area-2026.pdf",
-    "state": "Karnataka",
-    "stateCode": "karnataka",
-    "scrapedAt": "2026-11-11"
-  },
-  {
-    "id": "karnataka-jncasr-arf-scientific-instrumentation-specialist-instrume",
-    "title": "JNCASR Recruitment 2026 – ARF Scientific Instrumentation Specialist / Instrument Scientist Posts",
-    "shortInfo": "JNCASR has announced notification for ARF Scientific Instrumentation Specialist / Instrument Scientist posts. Required qualification: M.Phil / Ph.D, M.Sc. Last date to apply: 10-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "10-11-26",
-    "officialWebsite": "https://www.jncasr.ac.in/sites/default/files/Join_Us/Opportunities/2026-10/RAdvt.%20-%20NMR%20facility,%20NCU.pdf",
-    "notificationLink": "https://www.jncasr.ac.in/sites/default/files/Join_Us/Opportunities/2026-10/RAdvt.%20-%20NMR%20facility,%20NCU.pdf",
-    "applyOnlineLink": "https://www.jncasr.ac.in/sites/default/files/Join_Us/Opportunities/2026-10/RAdvt.%20-%20NMR%20facility,%20NCU.pdf",
-    "state": "Karnataka",
-    "stateCode": "karnataka",
-    "scrapedAt": "2026-11-11"
-  },
-  {
     "id": "karnataka-isro dos-accounts-officer-finance-",
     "title": "ISRO DOS Recruitment 2026 – Accounts Officer (Finance) Posts",
     "shortInfo": "ISRO DOS has announced notification for Accounts Officer (Finance) posts. Required qualification: Any Graduate. Last date to apply: 25-11-26.",
@@ -2251,23 +2167,6 @@
     "officialWebsite": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1792579269_notificationyp-ii.pdf",
     "notificationLink": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1792579269_notificationyp-ii.pdf",
     "applyOnlineLink": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1792579269_notificationyp-ii.pdf",
-    "state": "Karnataka",
-    "stateCode": "karnataka",
-    "scrapedAt": "2026-11-11"
-  },
-  {
-    "id": "karnataka-nlsiu-library-trainee",
-    "title": "NLSIU Recruitment 2026 – Library Trainee Posts",
-    "shortInfo": "NLSIU has announced notification for Library Trainee posts. Required qualification: M.Phil / Ph.D. Last date to apply: 09-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "09-11-26",
-    "officialWebsite": "https://www.nls.ac.in/news-events/call-for-applications-library-trainee-01-position/",
-    "notificationLink": "https://www.nls.ac.in/news-events/call-for-applications-library-trainee-01-position/",
-    "applyOnlineLink": "https://www.nls.ac.in/news-events/call-for-applications-library-trainee-01-position/",
     "state": "Karnataka",
     "stateCode": "karnataka",
     "scrapedAt": "2026-11-11"
@@ -2773,92 +2672,6 @@
       "Super-scribe the envelope in BOLD letters: “APPLICATION FOR THE POST OF CHARGEMAN” along with the category applied for.",
       "Send the duly filled application with all attachments by ordinary post only to: The Director General, {For PD (Rectt)}, Coast Guard Headquarters, Directorate of Recruitment, C-1, Phase II, Industrial Area, Sector-62, Noida, U.P. – 201309.",
       "Applications must reach by 24 Nov 26. Applications sent by hand or courier will not be considered."
-    ]
-  },
-  {
-    "id": "karnataka-iiit dharwad-junior-engineer-junior-assistant-and-more",
-    "title": "IIIT Dharwad Recruitment 2026 – Junior Engineer, Junior Assistant and More Posts",
-    "shortInfo": "IIIT Dharwad has announced notification for Junior Engineer, Junior Assistant and More posts. Required qualification: Diploma, ITI, BPEd, B.Tech / B.E, Any Bachelor's Degree. Last date to apply: 09-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "10",
-    "lastDate": "09-11-26",
-    "officialWebsite": "https://www.iiitdwd.ac.in",
-    "notificationLink": "https://assets.iiitdwd.ac.in/docs/Adv_Non-Teaching_Recruitment_2026_Final.pdf",
-    "applyOnlineLink": "https://iiitdwdnt.samarth.edu.in/index.php/site/login",
-    "state": "Karnataka",
-    "stateCode": "karnataka",
-    "scrapedAt": "2026-11-11",
-    "fees": [
-      {
-        "category": "All Candidates",
-        "fee": "No Application Fee"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Advertisement Date",
-        "date": "05/10/2026"
-      },
-      {
-        "event": "Opening of Online Portal",
-        "date": "07/10/2026"
-      },
-      {
-        "event": "Last Date for Online Application",
-        "date": "09/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Junior Engineer (Civil)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Engineer (Electrical)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Physical Training Instructor",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Assistant",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Technician",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the official website: https://iiitdwd.ac.in/careers/staff/",
-      "Read the advertisement carefully and ensure eligibility for the post applied for.",
-      "Fill in the online application form with complete and accurate information.",
-      "Upload all required documents including educational certificates, experience certificates, category certificates (if applicable), and photograph.",
-      "Candidates applying for more than one post must submit a separate application for each post.",
-      "Candidates employed in Government/Autonomous Bodies/PSUs must upload NOC and Vigilance Clearance Certificate from their current employer.",
-      "Submit the online application before November 09, 2026, by 23:55 hrs.",
-      "Note down the Registration Number and Password for future reference.",
-      "No hard copy of the application needs to be sent by post.",
-      "For clarifications, email: recruitment.nt@iiitdwd.ac.in"
     ]
   }
 ]

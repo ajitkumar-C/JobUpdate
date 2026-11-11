@@ -1,5 +1,56 @@
 [
   {
+    "id": "mp-iit indore-assistant-professor",
+    "title": "IIT Indore Recruitment 2026 – Assistant Professor Posts",
+    "shortInfo": "IIT Indore has announced notification for Assistant Professor posts. Required qualification: M.Phil / Ph.D. Last date to apply: 26-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "8",
+    "lastDate": "26-11-26",
+    "officialWebsite": "https://www.iiti.ac.in/uploads/career/2026/Nov/9d4126c187c4b37eeae12fcd80dd9e7a.pdf",
+    "notificationLink": "https://www.iiti.ac.in/uploads/career/2026/Nov/9d4126c187c4b37eeae12fcd80dd9e7a.pdf",
+    "applyOnlineLink": "https://www.iiti.ac.in/uploads/career/2026/Nov/9d4126c187c4b37eeae12fcd80dd9e7a.pdf",
+    "state": "Madhya Pradesh",
+    "stateCode": "mp",
+    "scrapedAt": "2026-11-11"
+  },
+  {
+    "id": "mp-iiser bhopal-institute-post-doctoral-fellow",
+    "title": "IISER Bhopal Recruitment 2026 – Institute Post-Doctoral Fellow Posts",
+    "shortInfo": "IISER Bhopal has announced notification for Institute Post-Doctoral Fellow posts. Required qualification: M.Phil / Ph.D. Last date to apply: 25-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "25-11-26",
+    "officialWebsite": "https://www.iiserb.ac.in/assets_external/dofa/11_Nov_2026_09_45_45_Advt__Bio_IPDF.pdf",
+    "notificationLink": "https://www.iiserb.ac.in/assets_external/dofa/11_Nov_2026_09_45_45_Advt__Bio_IPDF.pdf",
+    "applyOnlineLink": "https://www.iiserb.ac.in/assets_external/dofa/11_Nov_2026_09_45_45_Advt__Bio_IPDF.pdf",
+    "state": "Madhya Pradesh",
+    "stateCode": "mp",
+    "scrapedAt": "2026-11-11"
+  },
+  {
+    "id": "mp-iim indore-deputy-general-manager-client-relations-",
+    "title": "IIM Indore Recruitment 2026 – Deputy General Manager (Client Relations) Posts",
+    "shortInfo": "IIM Indore has announced notification for Deputy General Manager (Client Relations) posts. Required qualification: Graduate. Last date to apply: 30-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "30-11-26",
+    "officialWebsite": "https://iimidr.ac.in/careers/manpower-agency-vacancies/advertisement-for-the-post-of-deputy-general-manager-client-relations/",
+    "notificationLink": "https://iimidr.ac.in/careers/manpower-agency-vacancies/advertisement-for-the-post-of-deputy-general-manager-client-relations/",
+    "applyOnlineLink": "https://iimidr.ac.in/careers/manpower-agency-vacancies/advertisement-for-the-post-of-deputy-general-manager-client-relations/",
+    "state": "Madhya Pradesh",
+    "stateCode": "mp",
+    "scrapedAt": "2026-11-11"
+  },
+  {
     "id": "mp-central bank of india-counselor-flc-",
     "title": "Central Bank of India Recruitment 2026 – Counselor (FLC) Posts",
     "shortInfo": "Central Bank of India has announced notification for Counselor (FLC) posts. Required qualification: Graduate. Last date to apply: 15-11-26.",
@@ -128,12 +179,86 @@
     "district": "State Level",
     "vacancies": "79",
     "lastDate": "15-11-26",
-    "officialWebsite": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_interview_for_Recruitment_of_Teaching_Faculty_and_Senior_Residents_on_contract_basis_at_ESIC_Medical_College_amp_Hospital_Indore_M_P_1793981135.pdf",
+    "officialWebsite": "https://www.esic.gov.in",
     "notificationLink": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_interview_for_Recruitment_of_Teaching_Faculty_and_Senior_Residents_on_contract_basis_at_ESIC_Medical_College_amp_Hospital_Indore_M_P_1793981135.pdf",
-    "applyOnlineLink": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_interview_for_Recruitment_of_Teaching_Faculty_and_Senior_Residents_on_contract_basis_at_ESIC_Medical_College_amp_Hospital_Indore_M_P_1793981135.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/esic-walk-in-interview-2026-recruitment-for-professor-associate-professor-other-posts/",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-11"
+    "scrapedAt": "2026-11-11",
+    "fees": [
+      {
+        "category": "SC/ST/ESIC Regular Employee/Defence Ex-servicemen/Woman Candidates/PwD (Divyangjan)",
+        "fee": "Nil"
+      },
+      {
+        "category": "All Other Categories",
+        "fee": "Rs. 500/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification/Advertisement Date",
+        "date": "06/11/2026"
+      },
+      {
+        "event": "Publication of Vacancy Details on Website",
+        "date": "01/11/2026"
+      },
+      {
+        "event": "Last Date to Submit Application via Email",
+        "date": "15/11/2026"
+      },
+      {
+        "event": "Last Date to Submit Original Documents by Post",
+        "date": "17/11/2026"
+      },
+      {
+        "event": "Walk-in Interview Date (November 2026)",
+        "date": "18/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Professor",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the ESIC official website www.esic.gov.in/recruitments between 1st to 7th of every month to check vacancy details.",
+      "Fill the application form in BLOCK letters using black/blue ink as per the prescribed format.",
+      "Prepare a Demand Draft (if applicable) of Rs. 500/- in favour of ‘ESI Fund A/c No.-1’, payable at Indore.",
+      "Scan the completed application form, Demand Draft, and all required/supporting self-attested documents (including research publications and conference papers, if any) into a single compiled PDF file.",
+      "Send the single PDF file via email to dean-indore.mp@esic.gov.in latest by 04:00 PM of 15th of every month. Write your Name, Post, and Department in the email subject line.",
+      "Send the original application form with self-attested supporting documents and original Demand Draft (if applicable) by post/courier to: The Dean, ESIC Medical College &amp; Hospital, Nanda Nagar, Indore (M.P.) – 452011, to reach on or before 17th of every month.",
+      "Write on the envelope: ‘Recruitment of Teaching Faculty/Senior Residents on contract basis’ with Name of Post and Department.",
+      "Report for the Walk-in Interview on 18th of every month (or the next working day if 18th is a holiday) at 09:00 AM. No candidate will be allowed after 9:00 AM.",
+      "Bring original documents for verification before the interview.",
+      "A walk-in-interview will be conducted for the month of November-2026 on the 18/11/2026 (Reporting Time : 09:00 AM. No candidate will be allowed after 9:00AM) and subsequently on 18th of every month. If the 18th happens to be a holiday, the interview will instead be held on the immediately following next date or as notified from time to time."
+    ]
   },
   {
     "id": "mp-iocl-trade-apprentice-and-more-technician-apprentice",
@@ -309,23 +434,6 @@
     "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3ec052b346a0aa375a07f5a90a344a614/uploads/2026/11/2026110454.pdf",
     "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec052b346a0aa375a07f5a90a344a614/uploads/2026/11/2026110454.pdf",
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec052b346a0aa375a07f5a90a344a614/uploads/2026/11/2026110454.pdf",
-    "state": "Madhya Pradesh",
-    "stateCode": "mp",
-    "scrapedAt": "2026-11-11"
-  },
-  {
-    "id": "mp-iiser bhopal-project-scientist",
-    "title": "IISER Bhopal Recruitment 2026 – Project Scientist Posts",
-    "shortInfo": "IISER Bhopal has announced notification for Project Scientist posts. Required qualification: M.Phil / Ph.D. Last date to apply: 10-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "10-11-26",
-    "officialWebsite": "https://www.iiserb.ac.in/assets_external/vacancy/r&#038;d/04f67f429b3a69cb25aa2752f64ddba5.docx",
-    "notificationLink": "https://www.iiserb.ac.in/assets_external/vacancy/r&#038;d/04f67f429b3a69cb25aa2752f64ddba5.docx",
-    "applyOnlineLink": "https://www.iiserb.ac.in/assets_external/vacancy/r&#038;d/04f67f429b3a69cb25aa2752f64ddba5.docx",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
     "scrapedAt": "2026-11-11"
@@ -644,23 +752,6 @@
     "scrapedAt": "2026-11-11"
   },
   {
-    "id": "mp-iiser bhopal-project-scientist",
-    "title": "IISER Bhopal Recruitment 2026 – Project Scientist Posts",
-    "shortInfo": "IISER Bhopal has announced notification for Project Scientist posts. Required qualification: M.Phil / Ph.D. Last date to apply: 10-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "10-11-26",
-    "officialWebsite": "https://www.iiserb.ac.in/assets_external/vacancy/r&#038;d/04f67f429b3a69cb25aa2752f64ddba5.docx",
-    "notificationLink": "https://www.iiserb.ac.in/assets_external/vacancy/r&#038;d/04f67f429b3a69cb25aa2752f64ddba5.docx",
-    "applyOnlineLink": "https://www.iiserb.ac.in/assets_external/vacancy/r&#038;d/04f67f429b3a69cb25aa2752f64ddba5.docx",
-    "state": "Madhya Pradesh",
-    "stateCode": "mp",
-    "scrapedAt": "2026-11-11"
-  },
-  {
     "id": "mp-abv-iiitm-efpdf-and-ipdf",
     "title": "ABV-IIITM Recruitment 2026 – EFPDF and IPDF Posts",
     "shortInfo": "ABV-IIITM has announced notification for EFPDF and IPDF posts. Required qualification: M.Phil / Ph.D, Graduate. Last date to apply: 14-12-26.",
@@ -712,23 +803,6 @@
     "scrapedAt": "2026-11-11"
   },
   {
-    "id": "mp-abv-iiitm-research-assistant-intern",
-    "title": "ABV-IIITM Recruitment 2026 – Research Assistant / Intern Posts",
-    "shortInfo": "ABV-IIITM has announced notification for Research Assistant / Intern posts. Required qualification: B.Tech / B.E. Last date to apply: 10-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "10-11-26",
-    "officialWebsite": "https://iiitm.ac.in/public/recruitments/attachments/rnEpZ6iGgBYjtRWllSqvbKBAPBS1vbohGvkBzdvJ.pdf",
-    "notificationLink": "https://iiitm.ac.in/public/recruitments/attachments/rnEpZ6iGgBYjtRWllSqvbKBAPBS1vbohGvkBzdvJ.pdf",
-    "applyOnlineLink": "https://iiitm.ac.in/public/recruitments/attachments/rnEpZ6iGgBYjtRWllSqvbKBAPBS1vbohGvkBzdvJ.pdf",
-    "state": "Madhya Pradesh",
-    "stateCode": "mp",
-    "scrapedAt": "2026-11-11"
-  },
-  {
     "id": "mp-iit indore-assistant-general-manager-chief-manager-engagement",
     "title": "IIT Indore Recruitment 2026 – Assistant General Manager / Chief Manager (Engagement), Senior Manager (Operations) Posts",
     "shortInfo": "IIT Indore has announced notification for Assistant General Manager / Chief Manager (Engagement), Senior Manager (Operations) posts. Required qualification: B.Tech / B.E, MBA / PGDM, Post Graduate. Last date to apply: 15-11-26.",
@@ -741,23 +815,6 @@
     "officialWebsite": "https://www.iiti.ac.in/uploads/career/2026/Nov/b2014364e4483250c14f728e96807436.pdf",
     "notificationLink": "https://www.iiti.ac.in/uploads/career/2026/Nov/b2014364e4483250c14f728e96807436.pdf",
     "applyOnlineLink": "https://www.iiti.ac.in/uploads/career/2026/Nov/b2014364e4483250c14f728e96807436.pdf",
-    "state": "Madhya Pradesh",
-    "stateCode": "mp",
-    "scrapedAt": "2026-11-11"
-  },
-  {
-    "id": "mp-iit indore-junior-research-fellow",
-    "title": "IIT Indore Recruitment 2026 – Junior Research Fellow Posts",
-    "shortInfo": "IIT Indore has announced notification for Junior Research Fellow posts. Required qualification: M.Pharma, M.E / M.Tech, M.Sc. Last date to apply: 10-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "5",
-    "lastDate": "10-11-26",
-    "officialWebsite": "https://vikramuniv.ac.in/uploads/gallery/media/1793463852-6017100206ae6162c7ead9!jrf%20adv%2030%20oct%20(1)%20(1).pdf?1793463852=",
-    "notificationLink": "https://vikramuniv.ac.in/uploads/gallery/media/1793463852-6017100206ae6162c7ead9!jrf%20adv%2030%20oct%20(1)%20(1).pdf?1793463852=",
-    "applyOnlineLink": "https://vikramuniv.ac.in/uploads/gallery/media/1793463852-6017100206ae6162c7ead9!jrf%20adv%2030%20oct%20(1)%20(1).pdf?1793463852=",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
     "scrapedAt": "2026-11-11"
@@ -1080,12 +1137,65 @@
     "district": "State Level",
     "vacancies": "92",
     "lastDate": "15-11-26",
-    "officialWebsite": "https://www.aiimsbhopal.edu.in/AIIMSFiles/career/Download/Advertisement_details31102026.pdf",
+    "officialWebsite": "http://www.aiimsbhopal.edu.in",
     "notificationLink": "https://www.aiimsbhopal.edu.in/AIIMSFiles/career/Download/Advertisement_details31102026.pdf",
-    "applyOnlineLink": "https://www.aiimsbhopal.edu.in/AIIMSFiles/career/Download/Advertisement_details31102026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/aiims-bhopal-recruitment-2026-apply-online-for-senior-residents-non-academic-posts/",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
-    "scrapedAt": "2026-11-11"
+    "scrapedAt": "2026-11-11",
+    "fees": [
+      {
+        "category": "General/OBC/EWS",
+        "fee": "Rs. 1500/-"
+      },
+      {
+        "category": "SC/ST/PwBD/Women",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Advertisement/Notification Date",
+        "date": "30/10/2026"
+      },
+      {
+        "event": "Opening Date for Online Application",
+        "date": "30/10/2026"
+      },
+      {
+        "event": "Closing Date for Online Application",
+        "date": "15/11/2026"
+      },
+      {
+        "event": "Interview (Tentative)",
+        "date": "01/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Senior Residents (Non-Academic) - Regular Departments",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Residents (Non-Academic) - Sl. No. 27 to 40 (Annexure IV)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official AIIMS Bhopal website: http://www.aiimsbhopal.edu.in",
+      "Fill the ONLINE APPLICATION as per the schedule available on the website.",
+      "Pay the application fee via Demand Draft drawn in favour of &#8220;Executive Director, AIIMS, Bhopal&#8221;.",
+      "Retain a copy of the online filled application form and bring the print-out at the time of interview.",
+      "Candidates already in government service must submit their application through proper channel with a No Objection Certificate (NOC).",
+      "If applying for more than one department, submit a separate application fee for each post.",
+      "Candidates who miss the online deadline may appear directly on the interview day with all requisite certificates and a duly filled offline application form available at the Registrar&#8217;s office."
+    ]
   },
   {
     "id": "mp-davv-visiting-faculty",
@@ -1190,23 +1300,6 @@
     "scrapedAt": "2026-11-11"
   },
   {
-    "id": "mp-nitttr bhopal-post-doctoral-fellow",
-    "title": "NITTTR Bhopal Recruitment 2026 – Post Doctoral Fellow Posts",
-    "shortInfo": "NITTTR Bhopal has announced notification for Post Doctoral Fellow posts. Required qualification: M.Phil / Ph.D, Other. Last date to apply: 10-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "10-11-26",
-    "officialWebsite": "https://nitttrbpl.ac.in/vacancy26_27/advertisement%20for%20the%20Postdoctoral%20Fellowships%20in%20Bhartiy%20Gyan%20Parampra.pdf",
-    "notificationLink": "https://nitttrbpl.ac.in/vacancy26_27/advertisement%20for%20the%20Postdoctoral%20Fellowships%20in%20Bhartiy%20Gyan%20Parampra.pdf",
-    "applyOnlineLink": "https://nitttrbpl.ac.in/vacancy26_27/advertisement%20for%20the%20Postdoctoral%20Fellowships%20in%20Bhartiy%20Gyan%20Parampra.pdf",
-    "state": "Madhya Pradesh",
-    "stateCode": "mp",
-    "scrapedAt": "2026-11-11"
-  },
-  {
     "id": "mp-mppgcl-civil-engineer-equivalent-to-ee-civil-",
     "title": "MPPGCL Recruitment 2026 – Civil Engineer Equivalent to EE (Civil) Posts",
     "shortInfo": "MPPGCL has announced notification for Civil Engineer Equivalent to EE (Civil) posts. Required qualification: B.Tech / B.E, Diploma. Last date to apply: 18-11-26.",
@@ -1287,40 +1380,6 @@
     "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3ec05a8166da05c5a094f7dc03724b418/uploads/2026/10/2026102652.pdf",
     "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec05a8166da05c5a094f7dc03724b418/uploads/2026/10/2026102652.pdf",
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec05a8166da05c5a094f7dc03724b418/uploads/2026/10/2026102652.pdf",
-    "state": "Madhya Pradesh",
-    "stateCode": "mp",
-    "scrapedAt": "2026-11-11"
-  },
-  {
-    "id": "mp-iit indore-project-executive",
-    "title": "IIT Indore Recruitment 2026 – Project Executive Posts",
-    "shortInfo": "IIT Indore has announced notification for Project Executive posts. Required qualification: Post Graduate. Last date to apply: 10-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "10-11-26",
-    "officialWebsite": "https://www.iiti.ac.in/uploads/career/2026/Oct/7b965e7d1ad8830b1c4ccfcc3558139e.pdf",
-    "notificationLink": "https://www.iiti.ac.in/uploads/career/2026/Oct/7b965e7d1ad8830b1c4ccfcc3558139e.pdf",
-    "applyOnlineLink": "https://www.iiti.ac.in/uploads/career/2026/Oct/7b965e7d1ad8830b1c4ccfcc3558139e.pdf",
-    "state": "Madhya Pradesh",
-    "stateCode": "mp",
-    "scrapedAt": "2026-11-11"
-  },
-  {
-    "id": "mp-aiims bhopal-project-technical-assistant",
-    "title": "AIIMS Bhopal Recruitment 2026 – Project Technical Assistant Posts",
-    "shortInfo": "AIIMS Bhopal has announced notification for Project Technical Assistant posts. Required qualification: M.Phil / Ph.D, Any Post Graduate. Last date to apply: 10-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "2",
-    "lastDate": "10-11-26",
-    "officialWebsite": "https://www.aiimsbhopal.edu.in/AIIMSFiles/career/jonUnderProject/Download/DHR_HTA_AMS_IPC_Dr._Sagar_26_Oct_2026_.pdf",
-    "notificationLink": "https://www.aiimsbhopal.edu.in/AIIMSFiles/career/jonUnderProject/Download/DHR_HTA_AMS_IPC_Dr._Sagar_26_Oct_2026_.pdf",
-    "applyOnlineLink": "https://www.aiimsbhopal.edu.in/AIIMSFiles/career/jonUnderProject/Download/DHR_HTA_AMS_IPC_Dr._Sagar_26_Oct_2026_.pdf",
     "state": "Madhya Pradesh",
     "stateCode": "mp",
     "scrapedAt": "2026-11-11"
@@ -1545,85 +1604,6 @@
       "Submit the application form successfully and note the transaction/reference number.",
       "Retain a valid e-mail ID active for at least one year for all future communications from BHEL.",
       "In case of multiple submissions, only the last submitted application shall be considered final."
-    ]
-  },
-  {
-    "id": "mp-irel-tradesman-trainee-fitter-tradesman-trainee-electri",
-    "title": "IREL Recruitment 2026 – Tradesman Trainee (Fitter), Tradesman Trainee (Electrician), Tradesman Trainee (Instrumentation), Tradesman Trainee (Attendant Operator Chemical Plant) Posts",
-    "shortInfo": "IREL has announced notification for Tradesman Trainee (Fitter), Tradesman Trainee (Electrician), Tradesman Trainee (Instrumentation), Tradesman Trainee (Attendant Operator Chemical Plant) posts. Required qualification: ITI / NAC in relevant trade. Last date to apply: 09-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "131",
-    "lastDate": "09-11-26",
-    "officialWebsite": "http://www.irel.co.in",
-    "notificationLink": "https://www.irel.co.in/documents/20126/167125/Annx-2_Draft+Full+Advt.+-+36-2026+-+Final.pdf/aa710432-dc42-38a5-f664-4db075fbafb5?t=1792152369809",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/irel-tradesman-trainee-recruitment-2026/",
-    "state": "Madhya Pradesh",
-    "stateCode": "mp",
-    "scrapedAt": "2026-11-11",
-    "fees": [
-      {
-        "category": "UR / EWS / OBC (NCL) candidates",
-        "fee": "INR 826/- (inclusive of GST) [Application Fee: Rs.472/- + Processing Fee: Rs.354/-]"
-      },
-      {
-        "category": "SC / ST / PwBD / ESM / Women / IREL Internal candidates",
-        "fee": "INR 354/- (inclusive of GST) [Processing Fee only; Application Fee exempted]"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Opening Date for Online Registration of Application",
-        "date": "19/10/2026"
-      },
-      {
-        "event": "Last Date of Submission of Online Application with Fee",
-        "date": "09/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Tradesman Trainee (Fitter)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Tradesman Trainee (Electrician)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Tradesman Trainee (Instrumentation)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Tradesman Trainee (Attendant Operator Chemical Plant)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit IREL official website: www.irel.co.in and navigate to the recruitment portal.",
-      "Click on ‘Click here’ to register for Online Application of IREL (India) Limited.",
-      "Step-I: Fill in Personal Details and Contact Details, then click ‘Generate OTP’. Enter OTPs received on Mobile and Email to verify.",
-      "Agree to terms &amp; conditions, re-verify details, and click ‘Submit’ to complete registration. Note down the Application Sequence Number (User ID) and Password received on registered email/mobile.",
-      "Step-II: Re-login and complete Personal Details, Additional Details, Communication Details, Qualification Details, Declaration, and upload relevant documents including photograph and signature.",
-      "Upload scanned passport-size photograph (JPG/JPEG, min 100KB max 200KB, 3.5cm x 4.5cm, white background, not older than 3 months) and signature (JPG/JPEG, min 80KB max 150KB, black ink on white paper).",
-      "Preview the application form and verify all details. Edit if required before final submission.",
-      "Submit the application and pay the applicable application fee online via Payment Gateway (Debit/Credit Card/Net Banking/Wallets/UPI).",
-      "Print and retain the submitted Application Form and Payment Acknowledgement Slip for future reference.",
-      "Internal candidates must forward printout of online application form to Recruitment Section, Corporate Office, Mumbai through proper channel."
     ]
   },
   {

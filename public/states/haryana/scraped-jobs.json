@@ -1,5 +1,39 @@
 [
   {
+    "id": "haryana-department of official language-administrative-officer",
+    "title": "Department of Official Language Recruitment 2026 – Administrative Officer Posts",
+    "shortInfo": "Department of Official Language has announced notification for Administrative Officer posts. Required qualification: Graduate. Last date to apply: 01-01-27.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "01-01-27",
+    "officialWebsite": "https://csharyana.gov.in/wp-content/uploads/2026/11/Hindi-Trainig.pdf",
+    "notificationLink": "https://csharyana.gov.in/wp-content/uploads/2026/11/Hindi-Trainig.pdf",
+    "applyOnlineLink": "https://csharyana.gov.in/wp-content/uploads/2026/11/Hindi-Trainig.pdf",
+    "state": "Haryana",
+    "stateCode": "haryana",
+    "scrapedAt": "2026-11-11"
+  },
+  {
+    "id": "haryana-nhpc-industrial-trainee",
+    "title": "NHPC Recruitment 2026 – Industrial Trainee Posts",
+    "shortInfo": "NHPC has announced notification for Industrial Trainee posts. Required qualification: CS, ICSI, ICMAI. Last date to apply: 20-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "23",
+    "lastDate": "20-11-26",
+    "officialWebsite": "https://www.nhpcindia.com/assests/pzi_public/job/details_1794372385_5815.pdf",
+    "notificationLink": "https://www.nhpcindia.com/assests/pzi_public/job/details_1794372385_5815.pdf",
+    "applyOnlineLink": "https://www.nhpcindia.com/assests/pzi_public/job/details_1794372385_5815.pdf",
+    "state": "Haryana",
+    "stateCode": "haryana",
+    "scrapedAt": "2026-11-11"
+  },
+  {
     "id": "haryana-hsacs-counsellor-care-coordinator-plhiv-",
     "title": "HSACS Recruitment 2026 – Counsellor, Care Coordinator (PLHIV) Posts",
     "shortInfo": "HSACS has announced notification for Counsellor, Care Coordinator (PLHIV) posts. Required qualification: 12th. Last date to apply: 20-11-26.",
@@ -26,12 +60,589 @@
     "district": "State Level",
     "vacancies": "92",
     "lastDate": "07-12-26",
-    "officialWebsite": "https://hau.ac.in/public/notification-documents/5832/1794121240.pdf",
+    "officialWebsite": "https://hau.ac.in",
     "notificationLink": "https://hau.ac.in/public/notification-documents/5832/1794121240.pdf",
-    "applyOnlineLink": "https://hau.ac.in/public/notification-documents/5832/1794121240.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/ccs-hau-teaching-recruitment-2026-92-vacancies-announced/",
     "state": "Haryana",
     "stateCode": "haryana",
-    "scrapedAt": "2026-11-11"
+    "scrapedAt": "2026-11-11",
+    "fees": [
+      {
+        "category": "General/Unreserved",
+        "fee": "Rs. 1200/- (inclusive GST)"
+      },
+      {
+        "category": "OSC/DSC/BCA/BCB/EWS of Haryana Domicile",
+        "fee": "Rs. 300/- (inclusive GST)"
+      },
+      {
+        "category": "Female of Haryana Domicile (General)",
+        "fee": "Rs. 600/- (inclusive GST)"
+      },
+      {
+        "category": "Female of Haryana Domicile (OSC/DSC/BCA/BCB/EWS)",
+        "fee": "Rs. 150/- (inclusive GST)"
+      },
+      {
+        "category": "Persons with Disabilities (Haryana Domicile)",
+        "fee": "Exempted"
+      },
+      {
+        "category": "ESM of Haryana Domicile",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Application Start Date",
+        "date": "07/11/2026"
+      },
+      {
+        "event": "Online Application Last Date",
+        "date": "07/12/2026"
+      },
+      {
+        "event": "Hard Copy Submission Last Date",
+        "date": "14/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Dean, College of Biotechnology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Dean, College of Fisheries Science",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Director, Human Resource Management",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Plant Breeding)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Genetics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Genetics & Plant Breeding)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Agronomy)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Soil Science)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Plant Pathology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Entomology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Agricultural Economics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Extension Education)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Zoology & Aquaculture)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Textile & Apparel Designing)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Molecular Biology & Biotechnology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Agricultural Biotechnology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Scientist (GPB)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Scientist (Soil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Scientist (Agron)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Plant Pathologist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Entomologist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Biochemist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Entomology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Agronomy)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Agril. Meteorology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (LPM)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Sociology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Botany)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Chemistry)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Mathematics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (English)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Physics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Textile & Apparel Designing)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Human Development & Family Studies)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Extension Education & Communication Management)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Civil Engineering)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Renewable and Bio-Energy Engineering)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Soil and Water Engineering)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Aquaculture/Fish Genetics & Breeding)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (FsRM)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (FPT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (AAHM)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (AEM)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Industrial Biotechnology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Bioinformatics & Computational Biology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Bio-Nanotechnology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Scientist (Ento.)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Scientist (Plant Pathology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Scientist (Nematology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Scientist (Agronomy)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Scientist (Soil Science)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Scientist (Agril. Meteorology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Scientist (GPB)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Scientist (Plant Breeding)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Scientist (SST)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Scientist (Horticulture)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Scientist (Vegetable Science)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Scientist (Extension Education)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Scientist (Microbiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Scientist (Biochemistry)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Scientist (Computer)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Scientist (Plant Physiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Scientist (Foods & Nutrition)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Scientist (Agril. Engg.)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Scientist (Aquaculture)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Scientist (FPT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Scientist (Fishing Technology/FE)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Scientist (Animal Science)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Plant Pathologist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Agronomist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Rice Breeder",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Horticulturist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Residue Chemist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Botanist-cum-Supdt. Botanical Garden",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Programmer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the University online portal at https://hau.ac.in or https://recruitmentccshau.in.",
+      "Register and fill in the online application form with all required personal and academic details.",
+      "Upload all required documents including qualification certificates, category certificates (OSC/DSC/BCA/BCB/EWS/PWD/ESM as applicable), and other relevant documents.",
+      "Pay the application processing fee online through the payment gateway after successful submission of the application form.",
+      "Submit the online application before 07.12.2026 midnight.",
+      "Take a printout of the submitted online application form.",
+      "Send a self-attested copy of the submitted online application form along with all uploaded documents to the office of Registrar (Recruitment Branch), CCS HAU, Hisar – 125 004 by hand or through speed post/registered post upto 14.12.2026 at 4.30 PM. Failure to do so will result in the online application not being considered for further processing.",
+      "Candidates already in service must send the application through proper channel or produce a No Objection Certificate."
+    ]
   },
   {
     "id": "haryana-iica-senior-consultant-estate-management-",
@@ -60,9 +671,9 @@
     "district": "State Level",
     "vacancies": "4651",
     "lastDate": "11-12-26",
-    "officialWebsite": "https://www.rrcnr.org",
+    "officialWebsite": "https://rrcnr.org/",
     "notificationLink": "https://rrcnr.org/downloads/Notification_Act_Appretice_2026.pdf",
-    "applyOnlineLink": "https://www.rrcnr.org/",
+    "applyOnlineLink": "https://app.rrcnr.org/",
     "state": "Haryana",
     "stateCode": "haryana",
     "scrapedAt": "2026-11-11",
@@ -406,23 +1017,6 @@
     "scrapedAt": "2026-11-11"
   },
   {
-    "id": "haryana-niftem-kundli-senior-research-fellow",
-    "title": "NIFTEM-Kundli Recruitment 2026 – Senior Research Fellow Posts",
-    "shortInfo": "NIFTEM-Kundli has announced notification for Senior Research Fellow posts. Required qualification: Post Graduate. Last date to apply: 09-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "09-11-26",
-    "officialWebsite": "https://niftem.ac.in/storage/careers/openings/j12iBSj8pcKiKWUBYv87PikyM4M2oyeklDhsfYlf.pdf",
-    "notificationLink": "https://niftem.ac.in/storage/careers/openings/j12iBSj8pcKiKWUBYv87PikyM4M2oyeklDhsfYlf.pdf",
-    "applyOnlineLink": "https://niftem.ac.in/storage/careers/openings/j12iBSj8pcKiKWUBYv87PikyM4M2oyeklDhsfYlf.pdf",
-    "state": "Haryana",
-    "stateCode": "haryana",
-    "scrapedAt": "2026-11-11"
-  },
-  {
     "id": "haryana-indian bank-apprentice",
     "title": "Indian Bank Recruitment 2026 – Apprentice Posts",
     "shortInfo": "Indian Bank has announced notification for Apprentice posts. Required qualification: Graduate (Any Discipline). Last date to apply: 25-11-26.",
@@ -493,23 +1087,6 @@
     "officialWebsite": "https://rcb.res.in/files/advertisement-files/advt._no._42_project_2026_hr_0.docx",
     "notificationLink": "https://rcb.res.in/files/advertisement-files/advt._no._42_project_2026_hr_0.docx",
     "applyOnlineLink": "https://rcb.res.in/files/advertisement-files/advt._no._42_project_2026_hr_0.docx",
-    "state": "Haryana",
-    "stateCode": "haryana",
-    "scrapedAt": "2026-11-11"
-  },
-  {
-    "id": "haryana-niftem-research-associate",
-    "title": "NIFTEM Recruitment 2026 – Research Associate Posts",
-    "shortInfo": "NIFTEM has announced notification for Research Associate posts. Required qualification: M.Phil / Ph.D. Last date to apply: 10-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "10-11-26",
-    "officialWebsite": "https://niftem.ac.in/storage/careers/openings/llStcjBHjF1302mpJpdL0ltwN8T6KjKl5w7GAtB1.pdf",
-    "notificationLink": "https://niftem.ac.in/storage/careers/openings/llStcjBHjF1302mpJpdL0ltwN8T6KjKl5w7GAtB1.pdf",
-    "applyOnlineLink": "https://niftem.ac.in/storage/careers/openings/llStcjBHjF1302mpJpdL0ltwN8T6KjKl5w7GAtB1.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
     "scrapedAt": "2026-11-11"
@@ -760,23 +1337,6 @@
     "scrapedAt": "2026-11-11"
   },
   {
-    "id": "haryana-jc bose ust-senior-research-fellow",
-    "title": "JC Bose UST Recruitment 2026 – Senior Research Fellow Posts",
-    "shortInfo": "JC Bose UST has announced notification for Senior Research Fellow posts. Required qualification: Post Graduate. Last date to apply: 10-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "10-11-26",
-    "officialWebsite": "https://jcboseust.ac.in/assets/files/Advertisement_for_Senior_Research_Fellow_for_research_proj_NHYG1Nc._of_CSA_Funded_by_HSHEC.pdf",
-    "notificationLink": "https://jcboseust.ac.in/assets/files/Advertisement_for_Senior_Research_Fellow_for_research_proj_NHYG1Nc._of_CSA_Funded_by_HSHEC.pdf",
-    "applyOnlineLink": "https://jcboseust.ac.in/assets/files/Advertisement_for_Senior_Research_Fellow_for_research_proj_NHYG1Nc._of_CSA_Funded_by_HSHEC.pdf",
-    "state": "Haryana",
-    "stateCode": "haryana",
-    "scrapedAt": "2026-11-11"
-  },
-  {
     "id": "haryana-nbrc-research-associate-i",
     "title": "NBRC Recruitment 2026 – Research Associate-I Posts",
     "shortInfo": "NBRC has announced notification for Research Associate-I posts. Required qualification: MS / MD, M.Phil / Ph.D. Last date to apply: 22-11-26.",
@@ -823,40 +1383,6 @@
     "officialWebsite": "http://npcc.gov.in/writereaddata/others/Advertisement%20Final301026.pdf",
     "notificationLink": "http://npcc.gov.in/writereaddata/others/Advertisement%20Final301026.pdf",
     "applyOnlineLink": "http://npcc.gov.in/writereaddata/others/Advertisement%20Final301026.pdf",
-    "state": "Haryana",
-    "stateCode": "haryana",
-    "scrapedAt": "2026-11-11"
-  },
-  {
-    "id": "haryana-jc bose ust-senior-research-fellow",
-    "title": "JC Bose UST Recruitment 2026 – Senior Research Fellow Posts",
-    "shortInfo": "JC Bose UST has announced notification for Senior Research Fellow posts. Required qualification: Post Graduate, M.Phil / Ph.D. Last date to apply: 10-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "10-11-26",
-    "officialWebsite": "https://jcboseust.ac.in/assets/files/Advertisement_for_Senior_Research_Fellow_for_research_proj_NHYG1Nc._of_CSA_Funded_by_HSHEC.pdf",
-    "notificationLink": "https://jcboseust.ac.in/assets/files/Advertisement_for_Senior_Research_Fellow_for_research_proj_NHYG1Nc._of_CSA_Funded_by_HSHEC.pdf",
-    "applyOnlineLink": "https://jcboseust.ac.in/assets/files/Advertisement_for_Senior_Research_Fellow_for_research_proj_NHYG1Nc._of_CSA_Funded_by_HSHEC.pdf",
-    "state": "Haryana",
-    "stateCode": "haryana",
-    "scrapedAt": "2026-11-11"
-  },
-  {
-    "id": "haryana-ppqs-consultant-legal-",
-    "title": "PPQS Recruitment 2026 – Consultant (Legal) Posts",
-    "shortInfo": "PPQS has announced notification for Consultant (Legal) posts. Required qualification: Graduate. Last date to apply: 09-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "09-11-26",
-    "officialWebsite": "https://ppqs.gov.in/sites/default/files/consultantlegal.pdf",
-    "notificationLink": "https://ppqs.gov.in/sites/default/files/consultantlegal.pdf",
-    "applyOnlineLink": "https://ppqs.gov.in/sites/default/files/consultantlegal.pdf",
     "state": "Haryana",
     "stateCode": "haryana",
     "scrapedAt": "2026-11-11"
@@ -1176,23 +1702,6 @@
     "scrapedAt": "2026-11-11"
   },
   {
-    "id": "haryana-gjus&amp;t-field-staff",
-    "title": "GJUS&amp;T Recruitment 2026 – Field Staff Posts",
-    "shortInfo": "GJUS&amp;T has announced notification for Field Staff posts. Required qualification: B.Sc. Last date to apply: 10-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "10-11-26",
-    "officialWebsite": "https://gjust.ac.in/portal/upload/DocScanner%20Oct%2027,%202026%204-48%20PM_27October2026_16-50-06-25.pdf",
-    "notificationLink": "https://gjust.ac.in/portal/upload/DocScanner%20Oct%2027,%202026%204-48%20PM_27October2026_16-50-06-25.pdf",
-    "applyOnlineLink": "https://gjust.ac.in/portal/upload/DocScanner%20Oct%2027,%202026%204-48%20PM_27October2026_16-50-06-25.pdf",
-    "state": "Haryana",
-    "stateCode": "haryana",
-    "scrapedAt": "2026-11-11"
-  },
-  {
     "id": "haryana-bel-probationary-engineer",
     "title": "BEL Recruitment 2026 – Probationary Engineer Posts",
     "shortInfo": "BEL has announced notification for Probationary Engineer posts. Required qualification: B.Sc, B.Tech / B.E. Last date to apply: 18-11-26.",
@@ -1268,23 +1777,6 @@
     ]
   },
   {
-    "id": "haryana-gjus&amp;t-field-staff",
-    "title": "GJUS&amp;T Recruitment 2026 – Field Staff Posts",
-    "shortInfo": "GJUS&amp;T has announced notification for Field Staff posts. Required qualification: Graduate. Last date to apply: 10-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "10-11-26",
-    "officialWebsite": "https://gjust.ac.in/portal/upload/DocScanner%20Oct%2027,%202026%204-48%20PM_27October2026_16-50-06-25.pdf",
-    "notificationLink": "https://gjust.ac.in/portal/upload/DocScanner%20Oct%2027,%202026%204-48%20PM_27October2026_16-50-06-25.pdf",
-    "applyOnlineLink": "https://gjust.ac.in/portal/upload/DocScanner%20Oct%2027,%202026%204-48%20PM_27October2026_16-50-06-25.pdf",
-    "state": "Haryana",
-    "stateCode": "haryana",
-    "scrapedAt": "2026-11-11"
-  },
-  {
     "id": "haryana-gug-assistant-registrar-clerk-cum-deo",
     "title": "GUG Recruitment 2026 – Assistant Registrar, Clerk - cum - DEO Posts",
     "shortInfo": "GUG has announced notification for Assistant Registrar, Clerk - cum - DEO posts. Required qualification: Post Graduate, Graduate, 10TH, 12TH, LLB. Last date to apply: 12-11-26.",
@@ -1317,91 +1809,6 @@
     "state": "Haryana",
     "stateCode": "haryana",
     "scrapedAt": "2026-11-11"
-  },
-  {
-    "id": "haryana-fsl haryana-senior-scientific-officer-dna-senior-scientific-as",
-    "title": "FSL Haryana Recruitment 2026 – Senior Scientific Officer (DNA), Senior Scientific Assistant (DNA), Scientific Assistant (DNA), Lab Attendant Posts",
-    "shortInfo": "FSL Haryana has announced notification for Senior Scientific Officer (DNA), Senior Scientific Assistant (DNA), Scientific Assistant (DNA), Lab Attendant posts. Required qualification: M.Sc. / Ph.D., 10th. Last date to apply: 10-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "20",
-    "lastDate": "10-11-26",
-    "officialWebsite": "https://www.haryanapolice.gov.in",
-    "notificationLink": "https://haryanapolice.gov.in/pdf/Engagement%20of%20scientific%20and%20support%20staff%20on%20purely%20contractual%20basis%20in%20the%20DNA%20division%20of%20Haryana%20FSL,%20Madhuban.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/fsl-haryana-recruitment-2026/",
-    "state": "Haryana",
-    "stateCode": "haryana",
-    "scrapedAt": "2026-11-11",
-    "fees": [
-      {
-        "category": "All Categories",
-        "fee": "No Fee"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Date of Publication of Advertisement",
-        "date": "25/10/2026"
-      },
-      {
-        "event": "Commencement of Receipt of Applications",
-        "date": "27/10/2026"
-      },
-      {
-        "event": "Last Date and Time for Receipt of Applications",
-        "date": "10/11/2026"
-      },
-      {
-        "event": "Display of Shortlist on Notice Board and Website",
-        "date": "01/12/2026"
-      },
-      {
-        "event": "Interview (Tentative) (08/12/2026 to 09/12/2026)",
-        "date": ""
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Senior Scientific Officer (DNA)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Scientific Assistant (DNA)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Scientific Assistant (DNA)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Lab Attendant (Support Staff, DNA Division)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Applications must be submitted strictly in the prescribed format at Annexure-I, duly filled in, signed, with a recent passport-size photograph pasted in the space provided.",
-      "A separate application, with a separate complete set of enclosures, must be submitted for each post. A single application for more than one post shall be summarily rejected.",
-      "The completed application, along with self-attested copies of all supporting documents, must reach The Director, Forensic Science Laboratory, Haryana, Madhuban, Karnal – 132 037 either by Registered/Speed Post or by delivery in person during office hours, on or before 10/11/2026 up to 05:00 P.M.",
-      "The envelope containing the application must be superscribed in bold letters: “APPLICATION FOR THE POST OF ___ (CONTRACTUAL) — DNA DIVISION”.",
-      "Applications received after the prescribed date and time, and applications sent by e-mail or fax, shall NOT be accepted, irrespective of the date of posting or any postal delay.",
-      "No application fee is payable.",
-      "Enclose self-attested copies of all required documents as listed in Section 6 of the advertisement.",
-      "Candidates already in Government service must apply through proper channel or produce a No Objection Certificate from their present employer at the time of interview."
-    ]
   },
   {
     "id": "haryana-niftem-assistant-professor",

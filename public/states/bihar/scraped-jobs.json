@@ -1,5 +1,22 @@
 [
   {
+    "id": "bihar-aiims patna-project-technical-support-iii",
+    "title": "AIIMS Patna Recruitment 2026 – Project Technical Support-III Posts",
+    "shortInfo": "AIIMS Patna has announced notification for Project Technical Support-III posts. Required qualification: Graduate, B.Sc. Last date to apply: 18-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "18-11-26",
+    "officialWebsite": "https://api.aiimspatna.edu.in/advertisement/advt-Neo-projTechSuppIII-4th-november2026,.pdf",
+    "notificationLink": "https://api.aiimspatna.edu.in/advertisement/advt-Neo-projTechSuppIII-4th-november2026,.pdf",
+    "applyOnlineLink": "https://api.aiimspatna.edu.in/advertisement/advt-Neo-projTechSuppIII-4th-november2026,.pdf",
+    "state": "Bihar",
+    "stateCode": "bihar",
+    "scrapedAt": "2026-11-11"
+  },
+  {
     "id": "bihar-igims-more-junior-engineer-administrative-officer",
     "title": "IGIMS Recruitment 2026 – More, Junior Engineer, Administrative Officer Posts",
     "shortInfo": "IGIMS has announced notification for More, Junior Engineer, Administrative Officer posts. Required qualification: Graduate, B.Tech / B.E, 7th, PG Diploma, PG. Last date to apply: 03-12-26.",
@@ -622,23 +639,6 @@
     "scrapedAt": "2026-11-11"
   },
   {
-    "id": "bihar-sbc exports-technician-biomedical-scientific-assistant-biomedi",
-    "title": "SBC Exports Recruitment 2026 – Technician (Biomedical), Scientific Assistant (Biomedical) Posts",
-    "shortInfo": "SBC Exports has announced notification for Technician (Biomedical), Scientific Assistant (Biomedical) posts. Required qualification: B.Tech / B.E, Diploma. Last date to apply: 10-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "3",
-    "lastDate": "10-11-26",
-    "officialWebsite": "https://tmc.gov.in/postmaster/DownloadFile.aspx?FileId=2557",
-    "notificationLink": "https://tmc.gov.in/postmaster/DownloadFile.aspx?FileId=2557",
-    "applyOnlineLink": "https://tmc.gov.in/postmaster/DownloadFile.aspx?FileId=2557",
-    "state": "Bihar",
-    "stateCode": "bihar",
-    "scrapedAt": "2026-11-11"
-  },
-  {
     "id": "bihar-rpcau-young-professional-i",
     "title": "RPCAU Recruitment 2026 – Young Professional-I Posts",
     "shortInfo": "RPCAU has announced notification for Young Professional-I posts. Required qualification: M.Sc. Last date to apply: 27-11-26.",
@@ -682,12 +682,42 @@
     "district": "State Level",
     "vacancies": "100",
     "lastDate": "21-11-26",
-    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3ec05d8c9d05ec6e86d5bbad7a2f88a17/uploads/2026/11/2026110599.pdf",
+    "officialWebsite": "https://lakhisarai.dcourts.gov.in/",
     "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec05d8c9d05ec6e86d5bbad7a2f88a17/uploads/2026/11/2026110599.pdf",
-    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec05d8c9d05ec6e86d5bbad7a2f88a17/uploads/2026/11/2026110599.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/dlsa-lakhisarai-plv-recruitment-2026/",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-11-11"
+    "scrapedAt": "2026-11-11",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date to Apply",
+        "date": "21/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Para Legal Volunteer (PLV / पारा विधिक स्वयं सेवक)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Obtain the application form (Proforma-A) from the notice board of District Legal Services Authority, Lakhisarai or as per the advertisement.",
+      "Fill in the application form completely in the prescribed format.",
+      "Attach self-attested photocopies of all educational and qualification certificates.",
+      "Attach a self-addressed envelope with Rs. 55/- postage stamp affixed for interview call letter.",
+      "Attach a copy of Aadhaar Card.",
+      "Send the completed application by Registered Post only to: Secretary, District Legal Services Authority, Civil Court Area, Lakhisarai, Pin – 811311.",
+      "Applications must reach before 21.11.2026 by 5:00 PM. Late applications will not be accepted."
+    ]
   },
   {
     "id": "bihar-indian bank-apprentice",
@@ -774,12 +804,58 @@
     "district": "State Level",
     "vacancies": "5",
     "lastDate": "06-12-26",
-    "officialWebsite": "https://vidhansabha.bihar.gov.in/pdf/recruitment/2026/Advertisment/Advertisemnt%20No-02-2026%20(Office%20Attendent).pdf",
-    "notificationLink": "https://vidhansabha.bihar.gov.in/pdf/recruitment/2026/Advertisment/Advertisemnt%20No-02-2026%20(Office%20Attendent).pdf",
-    "applyOnlineLink": "https://vidhansabha.bihar.gov.in/pdf/recruitment/2026/Advertisment/Advertisemnt%20No-02-2026%20(Office%20Attendent).pdf",
+    "officialWebsite": "https://vidhansabha.bihar.gov.in/",
+    "notificationLink": "https://blasrecruit.in/assets/adv/26_02N.pdf",
+    "applyOnlineLink": "https://blasrecruit.in/",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-11-11"
+    "scrapedAt": "2026-11-11",
+    "fees": [
+      {
+        "category": "General (Unreserved) Male / OBC / EBC / Candidates from outside Bihar (Male & Female)",
+        "fee": "Rs. 400 (Four Hundred)"
+      },
+      {
+        "category": "SC / ST / 40% or more Divyang of Bihar / All category Women candidates of Bihar",
+        "fee": "Rs. 100 (One Hundred)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Registration & Application Start Date",
+        "date": "07/11/2026"
+      },
+      {
+        "event": "Last Date for Online Application",
+        "date": "06/12/2026"
+      },
+      {
+        "event": "Last Date for Fee Payment",
+        "date": "06/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Office Attendant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website: https://vidhansabha.bihar.gov.in/",
+      "Click on &#8216;Apply Online&#8217; link available on the website.",
+      "Register and fill in the online application form carefully with all required details.",
+      "Upload scanned copies of educational qualification certificates, reservation-related certificates, recent photograph, and signature at the designated places.",
+      "Pay the application fee online through Net Banking/Credit Card/Debit Card.",
+      "Submit the application form online.",
+      "After submission, login again and download the filled application from the Dashboard under &#8216;Download Filled Application Section&#8217;.",
+      "Print two copies of the downloaded application and keep them safe.",
+      "Ensure that the downloaded hard copy has Bar Code and Application Number on each page.",
+      "Keep the bank receipt of online payment safely.",
+      "Keep at least five additional copies of the photograph uploaded in the application form."
+    ]
   },
   {
     "id": "bihar-bihar vidhan sabha-junior-secretariat-assistant",
@@ -791,12 +867,55 @@
     "district": "State Level",
     "vacancies": "15",
     "lastDate": "06-12-26",
-    "officialWebsite": "https://vidhansabha.bihar.gov.in/pdf/recruitment/2026/Advertisment/Advertisemnt%20No-01-2026%20(Junior%20Secretariat%20Assistant).pdf",
-    "notificationLink": "https://vidhansabha.bihar.gov.in/pdf/recruitment/2026/Advertisment/Advertisemnt%20No-01-2026%20(Junior%20Secretariat%20Assistant).pdf",
-    "applyOnlineLink": "https://vidhansabha.bihar.gov.in/pdf/recruitment/2026/Advertisment/Advertisemnt%20No-01-2026%20(Junior%20Secretariat%20Assistant).pdf",
+    "officialWebsite": "https://vidhansabha.bihar.gov.in/",
+    "notificationLink": "https://blasrecruit.in/assets/adv/26_01N.pdf",
+    "applyOnlineLink": "https://blasrecruit.in/welcome",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-11-11"
+    "scrapedAt": "2026-11-11",
+    "fees": [
+      {
+        "category": "General/Unreserved (Male) / OBC / EWS (Male) / Candidates from outside Bihar (Any Category)",
+        "fee": "Rs. 600 (Six Hundred)"
+      },
+      {
+        "category": "SC / ST / 40% or more Divyang / All Female Candidates (Bihar Domicile)",
+        "fee": "Rs. 150 (One Hundred Fifty)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Registration Start Date",
+        "date": "07/11/2026"
+      },
+      {
+        "event": "Last Date for Online Application",
+        "date": "06/12/2026"
+      },
+      {
+        "event": "Last Date for Fee Payment",
+        "date": "06/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Junior Secretariat Assistant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website: https://vidhansabha.bihar.gov.in/",
+      "Click on ‘Apply Online’ link available on the website.",
+      "Register and fill in the online application form carefully with all required details.",
+      "Upload scanned copies of educational qualification certificates, reservation-related certificates, recent photograph, and signature.",
+      "Pay the application fee online via Net Banking / Credit Card / Debit Card.",
+      "Submit the application form and download the filled application from the dashboard.",
+      "Print at least two copies of the submitted application and keep them safe along with all related documents.",
+      "Ensure that each page of the downloaded hard copy has Bar Code and Application Number printed on it."
+    ]
   },
   {
     "id": "bihar-bspp-advocate",
@@ -1266,12 +1385,41 @@
     "district": "State Level",
     "vacancies": "100",
     "lastDate": "30-11-26",
-    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3ec0407211688a0869d995947a8fb11b2/uploads/2026/10/2026101655.pdf",
+    "officialWebsite": "https://sheohar.dcourts.gov.in/",
     "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec0407211688a0869d995947a8fb11b2/uploads/2026/10/2026101655.pdf",
-    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0407211688a0869d995947a8fb11b2/uploads/2026/10/2026101655.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/dlsa-sheohar-plv-recruitment-2026/",
     "state": "Bihar",
     "stateCode": "bihar",
-    "scrapedAt": "2026-11-11"
+    "scrapedAt": "2026-11-11",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date to Submit Application",
+        "date": "30/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Para Legal Volunteer (Para Vidhik Swayam Sevak)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the application form from the Civil Court Sheohar website (https://sheohar.dcourts.gov.in/) or collect it from the office.",
+      "Fill in the prescribed application form completely.",
+      "Attach self-attested photocopies of educational and other qualification certificates.",
+      "Mention your contact number and email ID on the application form.",
+      "Attach a self-addressed envelope with registered postage stamp.",
+      "Send the application by registered post to: Secretary, District Legal Services Authority, ADR Building, Sheohar OR submit in person at the office between 10:00 AM to 05:00 PM on or before 30/11/2026."
+    ]
   },
   {
     "id": "bihar-aai-consultant-short-service-commission-officers-last-",
@@ -1358,23 +1506,6 @@
       "Application through any other mode will NOT be accepted.",
       "Ensure that the email ID provided in the application is maintained active for further communication."
     ]
-  },
-  {
-    "id": "bihar-dlsa sheohar-para-legal-volunteer",
-    "title": "DLSA Sheohar Recruitment 2026 – Para Legal Volunteer Posts",
-    "shortInfo": "DLSA Sheohar has announced notification for Para Legal Volunteer posts. Required qualification: 10TH. Last date to apply: 30-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "100",
-    "lastDate": "30-11-26",
-    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3ec0407211688a0869d995947a8fb11b2/uploads/2026/10/2026101655.pdf",
-    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec0407211688a0869d995947a8fb11b2/uploads/2026/10/2026101655.pdf",
-    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0407211688a0869d995947a8fb11b2/uploads/2026/10/2026101655.pdf",
-    "state": "Bihar",
-    "stateCode": "bihar",
-    "scrapedAt": "2026-11-11"
   },
   {
     "id": "bihar-icds buxar-lady-supervisor",

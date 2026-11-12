@@ -14,7 +14,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0109d37c08f7b129e9627738875753/uploads/2026/11/2026111126.pdf",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-11-11"
+    "scrapedAt": "2026-11-12"
   },
   {
     "id": "tripura-nit agartala-medical-officer-campus-doctor",
@@ -31,7 +31,7 @@
     "applyOnlineLink": "https://nita.ac.in/MO_10-11-2026_CampusDoctor-Nov26_admin.pdf",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-11-11"
+    "scrapedAt": "2026-11-12"
   },
   {
     "id": "tripura-nit agartala-library-professional-trainee",
@@ -48,7 +48,7 @@
     "applyOnlineLink": "https://nita.ac.in/MO_06-11-2026_Notice-LibraryTrainee-Nov26_admin.pdf",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-11-11"
+    "scrapedAt": "2026-11-12"
   },
   {
     "id": "tripura-ongc-apprentices",
@@ -65,7 +65,7 @@
     "applyOnlineLink": "https://nats.education.gov.in",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-11-11",
+    "scrapedAt": "2026-11-12",
     "fees": [],
     "dates": [
       {
@@ -416,7 +416,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/inbraoct26/",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-11-11",
+    "scrapedAt": "2026-11-12",
     "fees": [
       {
         "category": "General/OBC/EWS candidates",
@@ -474,7 +474,7 @@
     "applyOnlineLink": "https://recruitment.industriestripura.in/",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-11-11",
+    "scrapedAt": "2026-11-12",
     "fees": [
       {
         "category": "All Candidates",
@@ -540,7 +540,7 @@
     "applyOnlineLink": "https://tsecl.in/sites/default/files/2026-10/Advertisement%20for%20the%20post%20of%20General%20Manager%20(Human%20Resource)%20in%20TPGL.pdf",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-11-11"
+    "scrapedAt": "2026-11-12"
   },
   {
     "id": "tripura-tripura employees state insurance society-laboratory-technician-more-accountant",
@@ -557,6 +557,6 @@
     "applyOnlineLink": "https://tripura.gov.in/sites/default/files/EOI,2026.pdf",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-11-11"
+    "scrapedAt": "2026-11-12"
   }
 ]

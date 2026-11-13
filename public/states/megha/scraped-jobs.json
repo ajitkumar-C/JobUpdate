@@ -1,5 +1,393 @@
 [
   {
+    "id": "megha-iocl eastern region-technician-apprentice-trade-apprentice-other-posts",
+    "title": "IOCL Eastern Region Recruitment 2026 – Technician Apprentice, Trade Apprentice, Other Posts Posts",
+    "shortInfo": "IOCL Eastern Region has announced notification for Technician Apprentice, Trade Apprentice, Other Posts posts. Required qualification: Matric with ITI, Diploma, 12th, Graduation. Last date to apply: 12-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "409",
+    "lastDate": "12-12-26",
+    "officialWebsite": "https://www.iocl.com/apprenticeships",
+    "notificationLink": "https://iocl.com/admin/img/Apprenticeships/Files/63db2afaa13e47c28e10030d5da6b525.pdf",
+    "applyOnlineLink": "https://nats.education.gov.in/student_register.php",
+    "state": "Meghalaya",
+    "stateCode": "megha",
+    "scrapedAt": "2026-11-13",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening of Online Application",
+        "date": "13/11/2026"
+      },
+      {
+        "event": "Last Date of Submission of Online Application",
+        "date": "12/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Technician Apprentice (Mechanical, Electrical, Instrumentation, Civil, Electrical & Electronics, Electronics) - West Bengal",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice (Fitter, Electrician, Electronics Mechanic, Instrument Mechanic, Machinist) - West Bengal",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Bihar",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Bihar",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Odisha",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Odisha",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Jharkhand",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Jharkhand",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Assam",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Assam",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Sikkim",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Sikkim",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Tripura",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Tripura",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Nagaland",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Nagaland",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Mizoram",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Mizoram",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Meghalaya",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Meghalaya",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Manipur",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Manipur",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Arunachal Pradesh",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Arunachal Pradesh",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Andaman & Nicobar Island",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Andaman & Nicobar Island",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - West Bengal",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Bihar",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Odisha",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Jharkhand",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Assam",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Manipur",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Andaman & Nicobar Island",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator Fresher - West Bengal",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator Fresher - Bihar",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator Fresher - Odisha",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator Fresher - Jharkhand",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator Fresher - Assam",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator Skill Certificate Holders - West Bengal",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator Skill Certificate Holders - Bihar",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator Skill Certificate Holders - Odisha",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator Skill Certificate Holders - Assam",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must register on the NAPS/NATS portal as per their trade: Trade Apprentice (ITI/Data Entry Operator) at https://www.apprenticeshipindia.gov.in/; Technician Apprentice (Diploma) and Graduate Apprentice at https://nats.education.gov.in/student_register.php",
+      "Login to the respective NATS/NAPS portal using User ID/Email ID and apply for the apprenticeship openings with Establishment ID: NATS – EWBKOC000077 / NAPS – E05201900011",
+      "After applying on NATS/NAPS portal, candidates MUST also furnish required details including choice of 3 training locations through Microsoft Form at https://forms.cloud.microsoft/r/5nNkU44Cuc latest by 12.12.2026.",
+      "Ensure all profile details (Caste, Educational background, Personal credentials, aggregate percentage) are correctly appearing in the application before submission.",
+      "Application window: 13th November 2026 (10:00 AM) to 12th December 2026 (5:00 PM).",
+      "Candidates applying for more than one discipline code will be summarily rejected. Apply for ANY ONE DISCIPLINE CODE ONLY."
+    ]
+  },
+  {
+    "id": "megha-nec-superintending-engineer-civil-",
+    "title": "NEC Recruitment 2026 – Superintending Engineer (Civil) Posts",
+    "shortInfo": "NEC has announced notification for Superintending Engineer (Civil) posts. Required qualification: Graduate, B.Tech / B.E, PG. Last date to apply: 12-01-27.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "12-01-27",
+    "officialWebsite": "https://necouncil.gov.in/sites/default/files/document-688.pdf",
+    "notificationLink": "https://necouncil.gov.in/sites/default/files/document-688.pdf",
+    "applyOnlineLink": "https://necouncil.gov.in/sites/default/files/document-688.pdf",
+    "state": "Meghalaya",
+    "stateCode": "megha",
+    "scrapedAt": "2026-11-13"
+  },
+  {
+    "id": "megha-khadc-land-recording-officer",
+    "title": "KHADC Recruitment 2026 – Land Recording Officer Posts",
+    "shortInfo": "KHADC has announced notification for Land Recording Officer posts. Required qualification: Graduate. Last date to apply: 15-12-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "15-12-26",
+    "officialWebsite": "https://khadc.nic.in/acts_rules_regulations_bills/Notification_update/land_recording_officer.pdf",
+    "notificationLink": "https://khadc.nic.in/acts_rules_regulations_bills/Notification_update/land_recording_officer.pdf",
+    "applyOnlineLink": "https://khadc.nic.in/acts_rules_regulations_bills/Notification_update/land_recording_officer.pdf",
+    "state": "Meghalaya",
+    "stateCode": "megha",
+    "scrapedAt": "2026-11-13"
+  },
+  {
+    "id": "megha-meghalaya mssds-program-associate",
+    "title": "Meghalaya MSSDS Recruitment 2026 – Program Associate Posts",
+    "shortInfo": "Meghalaya MSSDS has announced notification for Program Associate posts. Required qualification: B.Com. Last date to apply: 25-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "25-11-26",
+    "officialWebsite": "https://mssds.nic.in/doc/Advertisement_PA_Accounts.pdf",
+    "notificationLink": "https://mssds.nic.in/doc/Advertisement_PA_Accounts.pdf",
+    "applyOnlineLink": "https://mssds.nic.in/doc/Advertisement_PA_Accounts.pdf",
+    "state": "Meghalaya",
+    "stateCode": "megha",
+    "scrapedAt": "2026-11-13"
+  },
+  {
     "id": "megha-district ayush society ri-bhoi-ayush-medical-officer-cum-cho-yoga-professionals",
     "title": "District AYUSH Society Ri-Bhoi Recruitment 2026 – AYUSH Medical Officer cum CHO, Yoga Professionals Posts",
     "shortInfo": "District AYUSH Society Ri-Bhoi has announced notification for AYUSH Medical Officer cum CHO, Yoga Professionals posts. Required qualification: Graduate, BAMS. Last date to apply: 30-11-26.",

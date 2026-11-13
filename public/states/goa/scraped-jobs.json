@@ -1,5 +1,138 @@
 [
   {
+    "id": "goa-gpsc-assistant-professor-assistant-public-prosecutor-mo",
+    "title": "GPSC Recruitment 2026 – Assistant Professor, Assistant Public Prosecutor, More Posts",
+    "shortInfo": "GPSC has announced notification for Assistant Professor, Assistant Public Prosecutor, More posts. Required qualification: B.Tech / B.E, M.Sc, M.Phil / Ph.D, LLB, M.E / M.Tech, B.Sc, PG. Last date to apply: 27-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "48",
+    "lastDate": "27-11-26",
+    "officialWebsite": "https://gpsc.goa.gov.in/wp-content/uploads/2026/11/GPSC112026.pdf",
+    "notificationLink": "https://gpsc.goa.gov.in/wp-content/uploads/2026/11/GPSC112026.pdf",
+    "applyOnlineLink": "https://gpsc.goa.gov.in/wp-content/uploads/2026/11/GPSC112026.pdf",
+    "state": "Goa",
+    "stateCode": "goa",
+    "scrapedAt": "2026-11-13"
+  },
+  {
+    "id": "goa-gssc-deputy-manager",
+    "title": "GSSC Recruitment 2026 – Deputy Manager Posts",
+    "shortInfo": "GSSC has announced notification for Deputy Manager posts. Required qualification: PG, B.Tech / B.E. Last date to apply: 04-12-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "04-12-26",
+    "officialWebsite": "https://gssc.goa.gov.in/docs/whats-new/vacancy-circular.pdf",
+    "notificationLink": "https://gssc.goa.gov.in/docs/whats-new/vacancy-circular.pdf",
+    "applyOnlineLink": "https://gssc.goa.gov.in/docs/whats-new/vacancy-circular.pdf",
+    "state": "Goa",
+    "stateCode": "goa",
+    "scrapedAt": "2026-11-13"
+  },
+  {
+    "id": "goa-north and south goa collectorate-ldc-udc-and-more",
+    "title": "North and South Goa Collectorate Recruitment 2026 – LDC, UDC and More Posts",
+    "shortInfo": "North and South Goa Collectorate has announced notification for LDC, UDC and More posts. Required qualification: ITI, Graduate, 12th. Last date to apply: 27-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "94",
+    "lastDate": "27-11-26",
+    "officialWebsite": "https://www.goa.gov.in",
+    "notificationLink": "https://www.goa.gov.in/wp-content/uploads/2026/11/Advertisement-1.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/goa-collectorate-udc-ldc-mts-recruitment-2026/",
+    "state": "Goa",
+    "stateCode": "goa",
+    "scrapedAt": "2026-11-13",
+    "fees": [
+      {
+        "category": "UR",
+        "fee": "₹600"
+      },
+      {
+        "category": "SC/ST",
+        "fee": "₹200"
+      },
+      {
+        "category": "OBC",
+        "fee": "₹300"
+      },
+      {
+        "category": "PwD",
+        "fee": "Nil"
+      },
+      {
+        "category": "EWS",
+        "fee": "₹300"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "10/11/2026"
+      },
+      {
+        "event": "Last Date to Apply Online",
+        "date": "27/11/2026"
+      },
+      {
+        "event": "Syllabus Download Available By",
+        "date": "16/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Upper Division Clerk (UDC) - Collectorate of North Goa",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Lower Division Clerk (LDC) - Collectorate of North Goa",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Lower Division Clerk (LDC) - Collectorate of South Goa",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Multi Tasking Staff (MTS) - Collectorate of North Goa",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Multi Tasking Staff (MTS) - Collectorate of South Goa",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates shall fill the application form through online mode only on the website/portal https://itggoa.formsubmit.in.",
+      "The candidate shall apply for the post within the time limit prescribed (last date: 27/11/2026).",
+      "Read all general instructions available on the website/portal carefully before filling the application.",
+      "Upload a recent passport-size photograph while submitting the online application.",
+      "Pay the application fee online through Internet Banking/Debit Card/Credit Card/UPI. No physical payments will be allowed.",
+      "Candidates applying for more than one category of posts must fill a separate application for each category.",
+      "Ensure possession of all required documents: educational qualification, valid 15-year residence certificate, Employment Exchange registration, Birth certificate, Caste/Social Status certificate, Disabilities certificate, EWS Certificate, Experience Certificate, Ex-Servicemen Certificate, Diploma/Course Certificate in Computer, etc."
+    ]
+  },
+  {
     "id": "goa-goa srlm-office-assistant-more-district-manager",
     "title": "Goa SRLM Recruitment 2026 – Office Assistant, More, District Manager Posts",
     "shortInfo": "Goa SRLM has announced notification for Office Assistant, More, District Manager posts. Required qualification: B.Com, B.A, PG, B.Tech / B.E, MBA / PGDM, B.B.A, Diploma, Graduate, 12th, B.Sc. Last date to apply: 28-11-26.",
@@ -504,23 +637,6 @@
     ]
   },
   {
-    "id": "goa-goa samagra shiksha-technical-assistant-mis-",
-    "title": "Goa Samagra Shiksha Recruitment 2026 – Technical Assistant (MIS) Posts",
-    "shortInfo": "Goa Samagra Shiksha has announced notification for Technical Assistant (MIS) posts. Required qualification: M.Sc, B.Sc, MCA, B.Tech / B.E. Last date to apply: 12-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "12-11-26",
-    "officialWebsite": "https://scert.goa.gov.in/wp-content/uploads/2026/11/Advt-For-MIS-2026.pdf",
-    "notificationLink": "https://scert.goa.gov.in/wp-content/uploads/2026/11/Advt-For-MIS-2026.pdf",
-    "applyOnlineLink": "https://scert.goa.gov.in/wp-content/uploads/2026/11/Advt-For-MIS-2026.pdf",
-    "state": "Goa",
-    "stateCode": "goa",
-    "scrapedAt": "2026-11-13"
-  },
-  {
     "id": "goa-kala academy goa-mts-technical-assistant-and-more",
     "title": "Kala Academy Goa Recruitment 2026 – MTS, Technical Assistant and More Posts",
     "shortInfo": "Kala Academy Goa has announced notification for MTS, Technical Assistant and More posts. Required qualification: 10TH, ITI, Diploma. Last date to apply: 23-11-26.",
@@ -876,40 +992,6 @@
     ]
   },
   {
-    "id": "goa-gsl-expert-specialist",
-    "title": "GSL Recruitment 2026 – Expert / Specialist Posts",
-    "shortInfo": "GSL has announced notification for Expert / Specialist posts. Required qualification: Any Graduate, Diploma. Last date to apply: 12-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "14",
-    "lastDate": "12-11-26",
-    "officialWebsite": "https://goashipyard.in/storage/clients_logo/Advt.%20No.%2008-2026.pdf",
-    "notificationLink": "https://goashipyard.in/storage/clients_logo/Advt.%20No.%2008-2026.pdf",
-    "applyOnlineLink": "https://goashipyard.in/storage/clients_logo/Advt.%20No.%2008-2026.pdf",
-    "state": "Goa",
-    "stateCode": "goa",
-    "scrapedAt": "2026-11-13"
-  },
-  {
-    "id": "goa-goa university-post-doctoral-fellow-phd-fellow",
-    "title": "Goa University Recruitment 2026 – Post-Doctoral Fellow, PhD Fellow Posts",
-    "shortInfo": "Goa University has announced notification for Post-Doctoral Fellow, PhD Fellow posts. Required qualification: M.Phil / Ph.D, M.A. Last date to apply: 12-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "2",
-    "lastDate": "12-11-26",
-    "officialWebsite": "https://webassets.unigoa.ac.in/uploads/confg_docs/20261023.154623~Vacancy_PhD_Fellow_PD_26.pdf",
-    "notificationLink": "https://webassets.unigoa.ac.in/uploads/confg_docs/20261023.154623~Vacancy_PhD_Fellow_PD_26.pdf",
-    "applyOnlineLink": "https://webassets.unigoa.ac.in/uploads/confg_docs/20261023.154623~Vacancy_PhD_Fellow_PD_26.pdf",
-    "state": "Goa",
-    "stateCode": "goa",
-    "scrapedAt": "2026-11-13"
-  },
-  {
     "id": "goa-mormugao port authority-dy-chief-vigilance-officer",
     "title": "Mormugao Port Authority Recruitment 2026 – Dy. Chief Vigilance Officer Posts",
     "shortInfo": "Mormugao Port Authority has announced notification for Dy. Chief Vigilance Officer posts. Required qualification: Other. Last date to apply: 04-12-26.",
@@ -944,92 +1026,6 @@
     "scrapedAt": "2026-11-13"
   },
   {
-    "id": "goa-aai-consultant-short-service-commission-officers-last-",
-    "title": "AAI Recruitment 2026 – Consultant (Short Service Commission Officers) (Last Date Extended) Posts",
-    "shortInfo": "AAI has announced notification for Consultant (Short Service Commission Officers) (Last Date Extended) posts. Required qualification: Graduate (Any Discipline), ATC / ATM / GCA Course. Last date to apply: 11-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "39",
-    "lastDate": "11-11-26",
-    "officialWebsite": "https://www.aai.aero",
-    "notificationLink": "https://www.aai.aero/sites/default/files/examdashboard_advertisement/Advt%20No%2014-2026-CHQ-SSCOs%20for%20engagement%20of%20Short%20Service%20Commission%20Officers%20in%20AAI.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/aai-ssco-consultant-recruitment-2026/",
-    "state": "Goa",
-    "stateCode": "goa",
-    "scrapedAt": "2026-11-13",
-    "fees": [
-      {
-        "category": "Fee",
-        "fee": "Not Mentioned"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Opening Date for Submission of Applications by Email",
-        "date": "17/09/2026"
-      },
-      {
-        "event": "Last Date for Submission of Application (Extended Upto)",
-        "date": "11/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Consultant (SSCOs) - Pune Airport (SMC)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Consultant (SSCOs) - Kanpur Airport",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Consultant (SSCOs) - Purnea Airport",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Consultant (SSCOs) - Goa (Dabolim) Airport (SMC + ATC)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Consultant (SSCOs) - Port Blair Airport (SMC)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Consultant (SSCOs) - Darbhanga Airport",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Download the prescribed application form (Annexure-1) from the advertisement.",
-      "Fill in the application form completely with all required details.",
-      "Attach self-attested copies of all necessary supporting documents, Educational Qualifications and Work Experience.",
-      "Combine the duly filled application and all self-attested supporting documents into a single PDF file (size not exceeding 5 MB).",
-      "Send the PDF file to the email ID: chqrectt@aai.aero on or before the closing date, i.e., 01.10.2026.",
-      "Application through any other mode will NOT be accepted.",
-      "Ensure that the email ID provided in the application is maintained active for further communication."
-    ]
-  },
-  {
     "id": "goa-gsl-junior-manager-manager-and-more",
     "title": "GSL Recruitment 2026 – Junior Manager, Manager and More Posts",
     "shortInfo": "GSL has announced notification for Junior Manager, Manager and More posts. Required qualification: B.Tech / B.E, LLB, MBA / PGDM, Diploma, CA, Any Graduate. Last date to apply: 22-11-26.",
@@ -1059,40 +1055,6 @@
     "officialWebsite": "https://cbes.goa.gov.in/advertisement?id=b3245ab3686e41a5029f96092196f226",
     "notificationLink": "https://cbes.goa.gov.in/advertisement?id=b3245ab3686e41a5029f96092196f226",
     "applyOnlineLink": "https://cbes.goa.gov.in/advertisement?id=b3245ab3686e41a5029f96092196f226",
-    "state": "Goa",
-    "stateCode": "goa",
-    "scrapedAt": "2026-11-13"
-  },
-  {
-    "id": "goa-mormugao port authority-chief-engineer",
-    "title": "Mormugao Port Authority Recruitment 2026 – Chief Engineer Posts",
-    "shortInfo": "Mormugao Port Authority has announced notification for Chief Engineer posts. Required qualification: B.Tech / B.E. Last date to apply: 12-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "12-11-26",
-    "officialWebsite": "https://onlinevacancy.shipmin.nic.in/home/dwnld_advt/657",
-    "notificationLink": "https://onlinevacancy.shipmin.nic.in/home/dwnld_advt/657",
-    "applyOnlineLink": "https://onlinevacancy.shipmin.nic.in/home/dwnld_advt/657",
-    "state": "Goa",
-    "stateCode": "goa",
-    "scrapedAt": "2026-11-13"
-  },
-  {
-    "id": "goa-sainik school goalpara-tgt-pgt-ldc",
-    "title": "Sainik School Goalpara Recruitment 2026 – TGT, PGT, LDC Posts",
-    "shortInfo": "Sainik School Goalpara has announced notification for TGT, PGT, LDC posts. Required qualification: Diploma, B.Sc, BCA, B.Ed, Any Post Graduate, 10TH, B.Com, B.Tech / B.E, B.A, Any Graduate. Last date to apply: 12-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "13",
-    "lastDate": "12-11-26",
-    "officialWebsite": "https://sainikschoolgoalpara.org/wp-content/uploads/2026/10/Advt-Recruitment_03_2026_03Oct-26.pdf",
-    "notificationLink": "https://sainikschoolgoalpara.org/wp-content/uploads/2026/10/Advt-Recruitment_03_2026_03Oct-26.pdf",
-    "applyOnlineLink": "https://sainikschoolgoalpara.org/wp-content/uploads/2026/10/Advt-Recruitment_03_2026_03Oct-26.pdf",
     "state": "Goa",
     "stateCode": "goa",
     "scrapedAt": "2026-11-13"

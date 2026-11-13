@@ -1,5 +1,427 @@
 [
   {
+    "id": "assam-iocl eastern region-technician-apprentice-trade-apprentice-other-posts",
+    "title": "IOCL Eastern Region Recruitment 2026 – Technician Apprentice, Trade Apprentice, Other Posts Posts",
+    "shortInfo": "IOCL Eastern Region has announced notification for Technician Apprentice, Trade Apprentice, Other Posts posts. Required qualification: Matric with ITI, Diploma, 12th, Graduation. Last date to apply: 12-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "409",
+    "lastDate": "12-12-26",
+    "officialWebsite": "https://www.iocl.com/apprenticeships",
+    "notificationLink": "https://iocl.com/admin/img/Apprenticeships/Files/63db2afaa13e47c28e10030d5da6b525.pdf",
+    "applyOnlineLink": "https://nats.education.gov.in/student_register.php",
+    "state": "Assam",
+    "stateCode": "assam",
+    "scrapedAt": "2026-11-13",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Opening of Online Application",
+        "date": "13/11/2026"
+      },
+      {
+        "event": "Last Date of Submission of Online Application",
+        "date": "12/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Technician Apprentice (Mechanical, Electrical, Instrumentation, Civil, Electrical & Electronics, Electronics) - West Bengal",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice (Fitter, Electrician, Electronics Mechanic, Instrument Mechanic, Machinist) - West Bengal",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Bihar",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Bihar",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Odisha",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Odisha",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Jharkhand",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Jharkhand",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Assam",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Assam",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Sikkim",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Sikkim",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Tripura",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Tripura",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Nagaland",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Nagaland",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Mizoram",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Mizoram",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Meghalaya",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Meghalaya",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Manipur",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Manipur",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Arunachal Pradesh",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Arunachal Pradesh",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Andaman & Nicobar Island",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Andaman & Nicobar Island",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - West Bengal",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Bihar",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Odisha",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Jharkhand",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Assam",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Manipur",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Andaman & Nicobar Island",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator Fresher - West Bengal",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator Fresher - Bihar",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator Fresher - Odisha",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator Fresher - Jharkhand",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator Fresher - Assam",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator Skill Certificate Holders - West Bengal",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator Skill Certificate Holders - Bihar",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator Skill Certificate Holders - Odisha",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator Skill Certificate Holders - Assam",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must register on the NAPS/NATS portal as per their trade: Trade Apprentice (ITI/Data Entry Operator) at https://www.apprenticeshipindia.gov.in/; Technician Apprentice (Diploma) and Graduate Apprentice at https://nats.education.gov.in/student_register.php",
+      "Login to the respective NATS/NAPS portal using User ID/Email ID and apply for the apprenticeship openings with Establishment ID: NATS – EWBKOC000077 / NAPS – E05201900011",
+      "After applying on NATS/NAPS portal, candidates MUST also furnish required details including choice of 3 training locations through Microsoft Form at https://forms.cloud.microsoft/r/5nNkU44Cuc latest by 12.12.2026.",
+      "Ensure all profile details (Caste, Educational background, Personal credentials, aggregate percentage) are correctly appearing in the application before submission.",
+      "Application window: 13th November 2026 (10:00 AM) to 12th December 2026 (5:00 PM).",
+      "Candidates applying for more than one discipline code will be summarily rejected. Apply for ANY ONE DISCIPLINE CODE ONLY."
+    ]
+  },
+  {
+    "id": "assam-kvs tinsukia-vocational-instructor-atl-instructor",
+    "title": "KVS Tinsukia Recruitment 2026 – Vocational Instructor, ATL Instructor Posts",
+    "shortInfo": "KVS Tinsukia has announced notification for Vocational Instructor, ATL Instructor posts. Required qualification: B.Tech / B.E, M.E / M.Tech. Last date to apply: 21-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "15",
+    "lastDate": "21-11-26",
+    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3kv032eea8b56d3b1ef59946fa60b0b43/uploads/2026/11/2026111319.pdf",
+    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3kv032eea8b56d3b1ef59946fa60b0b43/uploads/2026/11/2026111319.pdf",
+    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3kv032eea8b56d3b1ef59946fa60b0b43/uploads/2026/11/2026111319.pdf",
+    "state": "Assam",
+    "stateCode": "assam",
+    "scrapedAt": "2026-11-13"
+  },
+  {
+    "id": "assam-bhattadev university-associate-professor-dietician",
+    "title": "Bhattadev University Recruitment 2026 – Associate Professor, Dietician Posts",
+    "shortInfo": "Bhattadev University has announced notification for Associate Professor, Dietician posts. Required qualification: Diploma, M.P.Ed, M.Phil / Ph.D, Graduate. Last date to apply: 16-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "16-11-26",
+    "officialWebsite": "https://www.bhattadevuniversity.ac.in/docs/notifications/Advertisement_Department_Physical_Education_&#038;_Sports_BU_8770.pdf",
+    "notificationLink": "https://www.bhattadevuniversity.ac.in/docs/notifications/Advertisement_Department_Physical_Education_&#038;_Sports_BU_8770.pdf",
+    "applyOnlineLink": "https://www.bhattadevuniversity.ac.in/docs/notifications/Advertisement_Department_Physical_Education_&#038;_Sports_BU_8770.pdf",
+    "state": "Assam",
+    "stateCode": "assam",
+    "scrapedAt": "2026-11-13"
+  },
+  {
+    "id": "assam-nit silchar-junior-research-fellow",
+    "title": "NIT Silchar Recruitment 2026 – Junior Research Fellow Posts",
+    "shortInfo": "NIT Silchar has announced notification for Junior Research Fellow posts. Required qualification: M.E / M.Tech, B.Tech / B.E. Last date to apply: 27-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "27-11-26",
+    "officialWebsite": "https://www.nits.ac.in/storage/CareerDocument/Career_6af5bd9f25c3d.pdf",
+    "notificationLink": "https://www.nits.ac.in/storage/CareerDocument/Career_6af5bd9f25c3d.pdf",
+    "applyOnlineLink": "https://www.nits.ac.in/storage/CareerDocument/Career_6af5bd9f25c3d.pdf",
+    "state": "Assam",
+    "stateCode": "assam",
+    "scrapedAt": "2026-11-13"
+  },
+  {
+    "id": "assam-avfu-skilled-worker",
+    "title": "AVFU Recruitment 2026 – Skilled Worker Posts",
+    "shortInfo": "AVFU has announced notification for Skilled Worker posts. Required qualification: Diploma, Graduate. Last date to apply: 18-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "18-11-26",
+    "officialWebsite": "https://avfu.ac.in/notices/recruitment/sw_dean.pdf",
+    "notificationLink": "https://avfu.ac.in/notices/recruitment/sw_dean.pdf",
+    "applyOnlineLink": "https://avfu.ac.in/notices/recruitment/sw_dean.pdf",
+    "state": "Assam",
+    "stateCode": "assam",
+    "scrapedAt": "2026-11-13"
+  },
+  {
+    "id": "assam-rfri-junior-project-fellow-project-assistant",
+    "title": "RFRI Recruitment 2026 – Junior Project Fellow, Project Assistant Posts",
+    "shortInfo": "RFRI has announced notification for Junior Project Fellow, Project Assistant posts. Required qualification: Graduate, PG. Last date to apply: 26-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "26-11-26",
+    "officialWebsite": "https://rfri.icfre.gov.in/jobs/vacancy231.pdf",
+    "notificationLink": "https://rfri.icfre.gov.in/jobs/vacancy231.pdf",
+    "applyOnlineLink": "https://rfri.icfre.gov.in/jobs/vacancy231.pdf",
+    "state": "Assam",
+    "stateCode": "assam",
+    "scrapedAt": "2026-11-13"
+  },
+  {
     "id": "assam-assam btc-graduate-teacher-post-graduate-teacher",
     "title": "Assam BTC Recruitment 2026 – Graduate Teacher, Post Graduate Teacher Posts",
     "shortInfo": "Assam BTC has announced notification for Graduate Teacher, Post Graduate Teacher posts. Required qualification: Graduation/Post Graduation, B.Ed.. Last date to apply: 19-11-26.",
@@ -95,6 +517,23 @@
       "Submit the application and download the confirmation page.",
       "Keep the generated unique application number and printout for future reference."
     ]
+  },
+  {
+    "id": "assam-iit guwahati-field-engineer",
+    "title": "IIT Guwahati Recruitment 2026 – Field Engineer Posts",
+    "shortInfo": "IIT Guwahati has announced notification for Field Engineer posts. Required qualification: Graduate. Last date to apply: 19-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "19-11-26",
+    "officialWebsite": "https://www.iitg.ac.in/pdf/587b43f8be0d2b90b5b9d7e764d4ce44.pdf",
+    "notificationLink": "https://www.iitg.ac.in/pdf/587b43f8be0d2b90b5b9d7e764d4ce44.pdf",
+    "applyOnlineLink": "https://www.iitg.ac.in/pdf/587b43f8be0d2b90b5b9d7e764d4ce44.pdf",
+    "state": "Assam",
+    "stateCode": "assam",
+    "scrapedAt": "2026-11-13"
   },
   {
     "id": "assam-aau-assistant-technology-manager-block-technology-mana",
@@ -1445,75 +1884,6 @@
     "scrapedAt": "2026-11-13"
   },
   {
-    "id": "assam-nrl-advisor",
-    "title": "NRL Recruitment 2026 – Advisor Posts",
-    "shortInfo": "NRL has announced notification for Advisor posts. Required qualification: B.Tech / B.E, Diploma, B.Sc. Last date to apply: 12-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "5",
-    "lastDate": "12-11-26",
-    "officialWebsite": "https://portal2.nrl.co.in/onlineapp/Home/DownloadFile?fileId=553&#038;f=1",
-    "notificationLink": "https://portal2.nrl.co.in/onlineapp/Home/DownloadFile?fileId=553&#038;f=1",
-    "applyOnlineLink": "https://portal2.nrl.co.in/onlineapp/Home/DownloadFile?fileId=553&#038;f=1",
-    "state": "Assam",
-    "stateCode": "assam",
-    "scrapedAt": "2026-11-13"
-  },
-  {
-    "id": "assam-ongc assam asset-junior-consultant-associate-consultant",
-    "title": "ONGC Assam Asset Recruitment 2026 – Junior Consultant, Associate Consultant Posts",
-    "shortInfo": "ONGC Assam Asset has announced notification for Junior Consultant, Associate Consultant posts. Required qualification: Retired Staff. Last date to apply: 12-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "20",
-    "lastDate": "12-11-26",
-    "officialWebsite": "https://ongc.co.in",
-    "notificationLink": "https://ongcindia.com/documents/77751/2660534/AdvetisementFormat_ONGCPortals2026.pdf/019de7df-e026-b81e-a130-ba0653abe9e1",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/ongc-associate-consultant-recruitment-2026/",
-    "state": "Assam",
-    "stateCode": "assam",
-    "scrapedAt": "2026-11-13",
-    "fees": [
-      {
-        "category": "Fee",
-        "fee": "Not Mentioned"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Last Date of Receipt of Application",
-        "date": "12/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Associate Consultant",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Consultant",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Download the application form (Bio Data Form) from the advertisement.",
-      "Fill in all required details including post applied for, personal information, ONGC CPF No., designation at retirement, discipline (Production/Drilling), service details, and educational qualifications.",
-      "Attach relevant documents as enclosures.",
-      "Send the completed application to the email address: assam_hws@ongc.co.in",
-      "Last date of receipt of application: 12.11.2026 (Thursday) at 16:30 hrs."
-    ]
-  },
-  {
     "id": "assam-nid assam-senior-assistant-finance-amp-accounts-",
     "title": "NID Assam Recruitment 2026 – Senior Assistant (Finance &amp; Accounts) Posts",
     "shortInfo": "NID Assam has announced notification for Senior Assistant (Finance &amp; Accounts) posts. Required qualification: B.Com. Last date to apply: 15-11-26.",
@@ -1658,23 +2028,6 @@
       "Ensure your e-mail ID and mobile number remain valid throughout the recruitment process.",
       "For technical queries, contact Help Desk at Phone No: 9513253397 (Monday to Friday, 10 AM to 5 PM)."
     ]
-  },
-  {
-    "id": "assam-central silk board-assistant-engineer-joint-secretary-and-more",
-    "title": "Central Silk Board Recruitment 2026 – Assistant Engineer, Joint Secretary and More Posts",
-    "shortInfo": "Central Silk Board has announced notification for Assistant Engineer, Joint Secretary and More posts. Required qualification: Any Bachelor's Degree, MBA / PGDM, M.Com, CS, B.Sc, B.Tech / B.E, CA, Any Master's Degree. Last date to apply: 11-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "17",
-    "lastDate": "11-11-26",
-    "officialWebsite": "https://csb.gov.in/sites/default/files/what_s_new/files/Deputation%20advt.%20CSB_01_2026.pdf",
-    "notificationLink": "https://csb.gov.in/sites/default/files/what_s_new/files/Deputation%20advt.%20CSB_01_2026.pdf",
-    "applyOnlineLink": "https://csb.gov.in/sites/default/files/what_s_new/files/Deputation%20advt.%20CSB_01_2026.pdf",
-    "state": "Assam",
-    "stateCode": "assam",
-    "scrapedAt": "2026-11-13"
   },
   {
     "id": "assam-slrc assam-field-assistant-statistics-enumerator",

@@ -272,6 +272,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sarkariavedan.info/job/result-uttarakhand-tet-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sarkariavedan.info/job/result-railway-rrb-group-d-cbt-i</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -297,37 +302,32 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/result-upsssc-pet-answer-key-objection-2026</loc>
+    <loc>https://sarkariavedan.info/job/admit-card-ssc-cpo-si-capf-paper-i</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/admit-card-allahabad-hc-private-secretary-gr-i</loc>
+    <loc>https://sarkariavedan.info/job/admit-card-cisf-constable-tradesmen-date-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/admit-card-rrb-paramedical-staff-application-status-2026</loc>
+    <loc>https://sarkariavedan.info/job/admit-card-cisf-constable-fire-date-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/admit-card-rssb-teaching-associate-admit-card-2026</loc>
+    <loc>https://sarkariavedan.info/job/admit-card-cisf-constable-driver-date-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/admit-card-rpsc-protection-officer-admit-card-2026</loc>
+    <loc>https://sarkariavedan.info/job/admit-card-upsc-civil-services-ifs-mains-admit</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/admit-card-upsssc-moharir-mains-fee-payment-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/admit-card-upsssc-cane-supervisor-mains-fee-payment</loc>
+    <loc>https://sarkariavedan.info/job/admit-card-ukpsc-upper-pcs-pre-admit-card</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -347,7 +347,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-dsssb-mts-je-2026</loc>
+    <loc>https://sarkariavedan.info/job/latest-jobs-railway-rrb-station-master-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -357,7 +357,12 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-railway-rrb-station-master-2026</loc>
+    <loc>https://sarkariavedan.info/job/latest-jobs-exim-bank-management-trainee-manager-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/answer-key-upsssc-lower-pcs-revised-answer-key</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -383,11 +388,6 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/answer-key-upsssc-pet-answer-key-objection-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/answer-key-rajasthan-state-eligibility-test-set-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -448,6 +448,51 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/admission-bihar-iti-cat-2025-mop-up</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/result-upsssc-pet-answer-key-objection-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-allahabad-hc-private-secretary-gr-i</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-rrb-paramedical-staff-application-status-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-rssb-teaching-associate-admit-card-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-rpsc-protection-officer-admit-card-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-upsssc-moharir-mains-fee-payment-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-upsssc-cane-supervisor-mains-fee-payment</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-dsssb-mts-je-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/answer-key-rajasthan-state-eligibility-test-set-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1073,21 +1118,6 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/result-isro-assistant-junior-personal-assistant-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/admit-card-cisf-constable-fire-date-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/admit-card-cisf-constable-driver-date-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/admit-card-cisf-constable-tradesmen-date-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

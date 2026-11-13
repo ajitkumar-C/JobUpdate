@@ -1,17 +1,17 @@
 [
   {
-    "id": "an-aai-consultant-short-service-commission-officers-last-",
-    "title": "AAI Recruitment 2026 – Consultant (Short Service Commission Officers) (Last Date Extended) Posts",
-    "shortInfo": "AAI has announced notification for Consultant (Short Service Commission Officers) (Last Date Extended) posts. Required qualification: Graduate (Any Discipline), ATC / ATM / GCA Course. Last date to apply: 11-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
+    "id": "an-iocl eastern region-technician-apprentice-trade-apprentice-other-posts",
+    "title": "IOCL Eastern Region Recruitment 2026 – Technician Apprentice, Trade Apprentice, Other Posts Posts",
+    "shortInfo": "IOCL Eastern Region has announced notification for Technician Apprentice, Trade Apprentice, Other Posts posts. Required qualification: Matric with ITI, Diploma, 12th, Graduation. Last date to apply: 12-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
     "district": "State Level",
-    "vacancies": "39",
-    "lastDate": "11-11-26",
-    "officialWebsite": "https://www.aai.aero",
-    "notificationLink": "https://www.aai.aero/sites/default/files/examdashboard_advertisement/Advt%20No%2014-2026-CHQ-SSCOs%20for%20engagement%20of%20Short%20Service%20Commission%20Officers%20in%20AAI.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/aai-ssco-consultant-recruitment-2026/",
+    "vacancies": "409",
+    "lastDate": "12-12-26",
+    "officialWebsite": "https://www.iocl.com/apprenticeships",
+    "notificationLink": "https://iocl.com/admin/img/Apprenticeships/Files/63db2afaa13e47c28e10030d5da6b525.pdf",
+    "applyOnlineLink": "https://nats.education.gov.in/student_register.php",
     "state": "Andaman & Nicobar",
     "stateCode": "an",
     "scrapedAt": "2026-11-13",
@@ -23,52 +23,304 @@
     ],
     "dates": [
       {
-        "event": "Opening Date for Submission of Applications by Email",
-        "date": "17/09/2026"
+        "event": "Opening of Online Application",
+        "date": "13/11/2026"
       },
       {
-        "event": "Last Date for Submission of Application (Extended Upto)",
-        "date": "11/11/2026"
+        "event": "Last Date of Submission of Online Application",
+        "date": "12/12/2026"
       }
     ],
     "vacancyList": [
       {
-        "postName": "Consultant (SSCOs) - Pune Airport (SMC)",
+        "postName": "Technician Apprentice (Mechanical, Electrical, Instrumentation, Civil, Electrical & Electronics, Electronics) - West Bengal",
         "count": "",
         "qualification": "",
         "ageLimit": "",
         "payScale": ""
       },
       {
-        "postName": "Consultant (SSCOs) - Kanpur Airport",
+        "postName": "Trade Apprentice (Fitter, Electrician, Electronics Mechanic, Instrument Mechanic, Machinist) - West Bengal",
         "count": "",
         "qualification": "",
         "ageLimit": "",
         "payScale": ""
       },
       {
-        "postName": "Consultant (SSCOs) - Purnea Airport",
+        "postName": "Technician Apprentice - Bihar",
         "count": "",
         "qualification": "",
         "ageLimit": "",
         "payScale": ""
       },
       {
-        "postName": "Consultant (SSCOs) - Goa (Dabolim) Airport (SMC + ATC)",
+        "postName": "Trade Apprentice - Bihar",
         "count": "",
         "qualification": "",
         "ageLimit": "",
         "payScale": ""
       },
       {
-        "postName": "Consultant (SSCOs) - Port Blair Airport (SMC)",
+        "postName": "Technician Apprentice - Odisha",
         "count": "",
         "qualification": "",
         "ageLimit": "",
         "payScale": ""
       },
       {
-        "postName": "Consultant (SSCOs) - Darbhanga Airport",
+        "postName": "Trade Apprentice - Odisha",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Jharkhand",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Jharkhand",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Assam",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Assam",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Sikkim",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Sikkim",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Tripura",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Tripura",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Nagaland",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Nagaland",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Mizoram",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Mizoram",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Meghalaya",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Meghalaya",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Manipur",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Manipur",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Arunachal Pradesh",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Arunachal Pradesh",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician Apprentice - Andaman & Nicobar Island",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Andaman & Nicobar Island",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - West Bengal",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Bihar",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Odisha",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Jharkhand",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Assam",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Manipur",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice - Andaman & Nicobar Island",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator Fresher - West Bengal",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator Fresher - Bihar",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator Fresher - Odisha",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator Fresher - Jharkhand",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator Fresher - Assam",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator Skill Certificate Holders - West Bengal",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator Skill Certificate Holders - Bihar",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator Skill Certificate Holders - Odisha",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Trade Apprentice - Data Entry Operator Skill Certificate Holders - Assam",
         "count": "",
         "qualification": "",
         "ageLimit": "",
@@ -76,14 +328,30 @@
       }
     ],
     "howToApply": [
-      "Download the prescribed application form (Annexure-1) from the advertisement.",
-      "Fill in the application form completely with all required details.",
-      "Attach self-attested copies of all necessary supporting documents, Educational Qualifications and Work Experience.",
-      "Combine the duly filled application and all self-attested supporting documents into a single PDF file (size not exceeding 5 MB).",
-      "Send the PDF file to the email ID: chqrectt@aai.aero on or before the closing date, i.e., 01.10.2026.",
-      "Application through any other mode will NOT be accepted.",
-      "Ensure that the email ID provided in the application is maintained active for further communication."
+      "Candidates must register on the NAPS/NATS portal as per their trade: Trade Apprentice (ITI/Data Entry Operator) at https://www.apprenticeshipindia.gov.in/; Technician Apprentice (Diploma) and Graduate Apprentice at https://nats.education.gov.in/student_register.php",
+      "Login to the respective NATS/NAPS portal using User ID/Email ID and apply for the apprenticeship openings with Establishment ID: NATS – EWBKOC000077 / NAPS – E05201900011",
+      "After applying on NATS/NAPS portal, candidates MUST also furnish required details including choice of 3 training locations through Microsoft Form at https://forms.cloud.microsoft/r/5nNkU44Cuc latest by 12.12.2026.",
+      "Ensure all profile details (Caste, Educational background, Personal credentials, aggregate percentage) are correctly appearing in the application before submission.",
+      "Application window: 13th November 2026 (10:00 AM) to 12th December 2026 (5:00 PM).",
+      "Candidates applying for more than one discipline code will be summarily rejected. Apply for ANY ONE DISCIPLINE CODE ONLY."
     ]
+  },
+  {
+    "id": "an-apwd-executive-engineer-civil-",
+    "title": "APWD Recruitment 2026 – Executive Engineer (Civil) Posts",
+    "shortInfo": "APWD has announced notification for Executive Engineer (Civil) posts. Required qualification: B.Tech / B.E. Last date to apply: 01-01-27.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "3",
+    "lastDate": "01-01-27",
+    "officialWebsite": "https://apwd.and.nic.in/Admin/Uploads/1229.pdf",
+    "notificationLink": "https://apwd.and.nic.in/Admin/Uploads/1229.pdf",
+    "applyOnlineLink": "https://apwd.and.nic.in/Admin/Uploads/1229.pdf",
+    "state": "Andaman & Nicobar",
+    "stateCode": "an",
+    "scrapedAt": "2026-11-13"
   },
   {
     "id": "an-indian coast guard-chargeman",

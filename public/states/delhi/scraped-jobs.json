@@ -1,5 +1,396 @@
 [
   {
+    "id": "delhi-ucms-assistant-professor-last-date-extended-",
+    "title": "UCMS Recruitment 2026 – Assistant Professor (Last Date Extended) Posts",
+    "shortInfo": "UCMS has announced notification for Assistant Professor (Last Date Extended) posts. Required qualification: Postgraduate Medical Qualification. Last date to apply: 28-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "54",
+    "lastDate": "28-11-26",
+    "officialWebsite": "https://www.ucms.ac.in",
+    "notificationLink": "https://ucms-bucket-mumbai.s3.ap-south-1.amazonaws.com/recruitment/2/194/8L8eLYl9Jg7GmQsAEX0STafQLXoopH5rDJ5FfGDA.pdf",
+    "applyOnlineLink": "https://www.ucms.ac.in/ucmsTeachingPosts2026/index.html",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-11-14",
+    "fees": [
+      {
+        "category": "General/OBC/EWS",
+        "fee": "Rs.2000/-"
+      },
+      {
+        "category": "SC/ST/PwBD/Women",
+        "fee": "No Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date for Apply Online (Extended Upto)",
+        "date": "28/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Assistant Professor (Anatomy)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Biochemistry)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Community Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Emergency Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (General Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (General Surgery)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website of the College.",
+      "Click Careers and read the details about the positions.",
+      "Submit the online application form with complete and correct information.",
+      "Upload the required documents.",
+      "Pay the application fee if applicable.",
+      "Complete the submission before 13th Nov 2026."
+    ]
+  },
+  {
+    "id": "delhi-burari hospital-senior-resident-orthopedics-walk-in-",
+    "title": "Burari Hospital Recruitment 2026 – Senior Resident (Orthopedics) (Walk-in) Posts",
+    "shortInfo": "Burari Hospital has announced notification for Senior Resident (Orthopedics) (Walk-in) posts. Required qualification: DNB, Diploma, M.Phil / Ph.D, MBBS. Last date to apply: 23-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "5",
+    "lastDate": "23-11-26",
+    "officialWebsite": "https://burari.delhi.gov.in/sites/default/files/burari/universal/bh_resident_advt_14_sr_10_2026.pdf",
+    "notificationLink": "https://burari.delhi.gov.in/sites/default/files/burari/universal/bh_resident_advt_14_sr_10_2026.pdf",
+    "applyOnlineLink": "https://burari.delhi.gov.in/sites/default/files/burari/universal/bh_resident_advt_14_sr_10_2026.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-11-14"
+  },
+  {
+    "id": "delhi-burari hospital-senior-resident-walk-in-",
+    "title": "Burari Hospital Recruitment 2026 – Senior Resident (Walk-in) Posts",
+    "shortInfo": "Burari Hospital has announced notification for Senior Resident (Walk-in) posts. Required qualification: PG Diploma, DNB, M.Phil / Ph.D, MBBS. Last date to apply: 16-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "7",
+    "lastDate": "16-11-26",
+    "officialWebsite": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wbur_29.pdf",
+    "notificationLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wbur_29.pdf",
+    "applyOnlineLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wbur_29.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-11-14"
+  },
+  {
+    "id": "delhi-burari hospital-senior-resident-walk-in-",
+    "title": "Burari Hospital Recruitment 2026 – Senior Resident (Walk-in) Posts",
+    "shortInfo": "Burari Hospital has announced notification for Senior Resident (Walk-in) posts. Required qualification: DNB, MS / MD, Diploma, MBBS. Last date to apply: 11-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "5",
+    "lastDate": "11-12-26",
+    "officialWebsite": "https://burari.delhi.gov.in/sites/default/files/burari/universal/bh_resident_advt_16_sr_11_2026.pdf",
+    "notificationLink": "https://burari.delhi.gov.in/sites/default/files/burari/universal/bh_resident_advt_16_sr_11_2026.pdf",
+    "applyOnlineLink": "https://burari.delhi.gov.in/sites/default/files/burari/universal/bh_resident_advt_16_sr_11_2026.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-11-14"
+  },
+  {
+    "id": "delhi-aiims-project-research-scientist-i-non-medical-",
+    "title": "AIIMS Recruitment 2026 – Project Research Scientist-I (Non-Medical) Posts",
+    "shortInfo": "AIIMS has announced notification for Project Research Scientist-I (Non-Medical) posts. Required qualification: M.Sc, M.A. Last date to apply: 30-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "30-11-26",
+    "officialWebsite": "https://www.aiims.edu/images/pdf/recruitment/advertisement/nmr-14-11-26.pdf",
+    "notificationLink": "https://www.aiims.edu/images/pdf/recruitment/advertisement/nmr-14-11-26.pdf",
+    "applyOnlineLink": "https://www.aiims.edu/images/pdf/recruitment/advertisement/nmr-14-11-26.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-11-14"
+  },
+  {
+    "id": "delhi-aiims delhi-project-assistant",
+    "title": "AIIMS Delhi Recruitment 2026 – Project Assistant Posts",
+    "shortInfo": "AIIMS Delhi has announced notification for Project Assistant posts. Required qualification: M.Sc. Last date to apply: 25-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "25-11-26",
+    "officialWebsite": "https://www.aiims.edu/images/pdf/recruitment/advertisement/jpnatc-14-11-26.pdf",
+    "notificationLink": "https://www.aiims.edu/images/pdf/recruitment/advertisement/jpnatc-14-11-26.pdf",
+    "applyOnlineLink": "https://www.aiims.edu/images/pdf/recruitment/advertisement/jpnatc-14-11-26.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-11-14"
+  },
+  {
+    "id": "delhi-ilbs-instructor-research-",
+    "title": "ILBS Recruitment 2026 – Instructor (Research) Posts",
+    "shortInfo": "ILBS has announced notification for Instructor (Research) posts. Required qualification: Other. Last date to apply: 20-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "20-11-26",
+    "officialWebsite": "https://www.ilbs.in/images/media/Inviting_applications_Instructor_Research14112026.pdf",
+    "notificationLink": "https://www.ilbs.in/images/media/Inviting_applications_Instructor_Research14112026.pdf",
+    "applyOnlineLink": "https://www.ilbs.in/images/media/Inviting_applications_Instructor_Research14112026.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-11-14"
+  },
+  {
+    "id": "delhi-rmlnlu-training-assistant-more-deo",
+    "title": "RMLNLU Recruitment 2026 – Training Assistant, More, DEO Posts",
+    "shortInfo": "RMLNLU has announced notification for Training Assistant, More, DEO posts. Required qualification: BSW, CS, B.B.A, M.Sc, B.Tech / B.E, BCA, Diploma, B.Ed, PGDCA, M.E / M.Tech, MCA. Last date to apply: 06-12-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "6",
+    "lastDate": "06-12-26",
+    "officialWebsite": "https://upati.gov.in/MediaGallery/Documents/Detailsofpost.pdf",
+    "notificationLink": "https://upati.gov.in/MediaGallery/Documents/Detailsofpost.pdf",
+    "applyOnlineLink": "https://upati.gov.in/MediaGallery/Documents/Detailsofpost.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-11-14"
+  },
+  {
+    "id": "delhi-jamia hamdard-assistant-professor",
+    "title": "Jamia Hamdard Recruitment 2026 – Assistant Professor Posts",
+    "shortInfo": "Jamia Hamdard has announced notification for Assistant Professor posts. Required qualification: BUMS. Last date to apply: 26-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "26-11-26",
+    "officialWebsite": "https://www.jamiahamdard.ac.in/uploads/FR-18_2026-_Ilmul_Jarahat.pdf",
+    "notificationLink": "https://www.jamiahamdard.ac.in/uploads/FR-18_2026-_Ilmul_Jarahat.pdf",
+    "applyOnlineLink": "https://www.jamiahamdard.ac.in/uploads/FR-18_2026-_Ilmul_Jarahat.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-11-14"
+  },
+  {
+    "id": "delhi-maids-project-scientist-i",
+    "title": "MAIDS Recruitment 2026 – Project Scientist-I Posts",
+    "shortInfo": "MAIDS has announced notification for Project Scientist-I posts. Required qualification: B.Tech / B.E. Last date to apply: 27-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "27-11-26",
+    "officialWebsite": "https://maids.delhi.gov.in/sites/default/files/maids/circulars-orders/advertisement_project_scientist_i-dst.pdf",
+    "notificationLink": "https://maids.delhi.gov.in/sites/default/files/maids/circulars-orders/advertisement_project_scientist_i-dst.pdf",
+    "applyOnlineLink": "https://maids.delhi.gov.in/sites/default/files/maids/circulars-orders/advertisement_project_scientist_i-dst.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-11-14"
+  },
+  {
+    "id": "delhi-maids-project-research-scientist-i-medical-",
+    "title": "MAIDS Recruitment 2026 – Project Research Scientist-I (Medical) Posts",
+    "shortInfo": "MAIDS has announced notification for Project Research Scientist-I (Medical) posts. Required qualification: Master of Dental Surgery. Last date to apply: 20-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "20-11-26",
+    "officialWebsite": "https://maids.delhi.gov.in/sites/default/files/maids/circulars-orders/interview_13-11-26.pdf",
+    "notificationLink": "https://maids.delhi.gov.in/sites/default/files/maids/circulars-orders/interview_13-11-26.pdf",
+    "applyOnlineLink": "https://maids.delhi.gov.in/sites/default/files/maids/circulars-orders/interview_13-11-26.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-11-14"
+  },
+  {
+    "id": "delhi-aiims delhi-senior-project-assistant",
+    "title": "AIIMS Delhi Recruitment 2026 – Senior Project Assistant Posts",
+    "shortInfo": "AIIMS Delhi has announced notification for Senior Project Assistant posts. Required qualification: Graduate. Last date to apply: 21-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "21-11-26",
+    "officialWebsite": "https://www.aiims.edu/images/pdf/recruitment/advertisement/biochem-14-11-26.pdf",
+    "notificationLink": "https://www.aiims.edu/images/pdf/recruitment/advertisement/biochem-14-11-26.pdf",
+    "applyOnlineLink": "https://www.aiims.edu/images/pdf/recruitment/advertisement/biochem-14-11-26.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-11-14"
+  },
+  {
+    "id": "delhi-jpch-junior-resident-mbbs-walk-in-",
+    "title": "JPCH Recruitment 2026 – Junior Resident (MBBS) (Walk-in) Posts",
+    "shortInfo": "JPCH has announced notification for Junior Resident (MBBS) (Walk-in) posts. Required qualification: MBBS. Last date to apply: 17-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "17-11-26",
+    "officialWebsite": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wjpch_11.pdf",
+    "notificationLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wjpch_11.pdf",
+    "applyOnlineLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wjpch_11.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-11-14"
+  },
+  {
+    "id": "delhi-bee-deputy-director-joint-director-more",
+    "title": "BEE Recruitment 2026 – Deputy Director, Joint Director, More Posts",
+    "shortInfo": "BEE has announced notification for Deputy Director, Joint Director, More posts. Required qualification: M.A, B.Tech / B.E, MBA / PGDM, M.Sc. Last date to apply: 23-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "23",
+    "lastDate": "23-11-26",
+    "officialWebsite": "https://beeindia.gov.in/WriteReadData/RTF1984/RTF-PDF-03f8e843bb28fecf_1790836004.pdf",
+    "notificationLink": "https://beeindia.gov.in/WriteReadData/RTF1984/RTF-PDF-03f8e843bb28fecf_1790836004.pdf",
+    "applyOnlineLink": "https://beeindia.gov.in/WriteReadData/RTF1984/RTF-PDF-03f8e843bb28fecf_1790836004.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-11-14"
+  },
+  {
+    "id": "delhi-jpch-senior-resident-walk-in-",
+    "title": "JPCH Recruitment 2026 – Senior Resident (Walk-in) Posts",
+    "shortInfo": "JPCH has announced notification for Senior Resident (Walk-in) posts. Required qualification: MS / MD, DNB, Diploma, MBBS. Last date to apply: 18-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "7",
+    "lastDate": "18-11-26",
+    "officialWebsite": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wjpcs_4.pdf",
+    "notificationLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wjpcs_4.pdf",
+    "applyOnlineLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wjpcs_4.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-11-14"
+  },
+  {
+    "id": "delhi-spmcil-chief-general-manager",
+    "title": "SPMCIL Recruitment 2026 – Chief General Manager Posts",
+    "shortInfo": "SPMCIL has announced notification for Chief General Manager posts. Required qualification: B.Tech / B.E. Last date to apply: 07-12-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "4",
+    "lastDate": "07-12-26",
+    "officialWebsite": "https://www.spmcil.com/wp-content/uploads/2026/10/Advt.-for-the-post-of-Chief-General-Managers_2026.pdf",
+    "notificationLink": "https://www.spmcil.com/wp-content/uploads/2026/10/Advt.-for-the-post-of-Chief-General-Managers_2026.pdf",
+    "applyOnlineLink": "https://www.spmcil.com/wp-content/uploads/2026/10/Advt.-for-the-post-of-Chief-General-Managers_2026.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-11-14"
+  },
+  {
+    "id": "delhi-jamia hamdard-assistant-professor",
+    "title": "Jamia Hamdard Recruitment 2026 – Assistant Professor Posts",
+    "shortInfo": "Jamia Hamdard has announced notification for Assistant Professor posts. Required qualification: Graduate. Last date to apply: 23-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "23-11-26",
+    "officialWebsite": "https://www.jamiahamdard.ac.in/uploads/FR-16_2026-_Tashreehul_Badan.pdf",
+    "notificationLink": "https://www.jamiahamdard.ac.in/uploads/FR-16_2026-_Tashreehul_Badan.pdf",
+    "applyOnlineLink": "https://www.jamiahamdard.ac.in/uploads/FR-16_2026-_Tashreehul_Badan.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-11-14"
+  },
+  {
+    "id": "delhi-jamia hamdard-associate-professor",
+    "title": "Jamia Hamdard Recruitment 2026 – Associate Professor Posts",
+    "shortInfo": "Jamia Hamdard has announced notification for Associate Professor posts. Required qualification: Graduate. Last date to apply: 25-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "25-11-26",
+    "officialWebsite": "https://www.jamiahamdard.ac.in/uploads/FR-17_2026-_Mahiyatul_Amraz.pdf",
+    "notificationLink": "https://www.jamiahamdard.ac.in/uploads/FR-17_2026-_Mahiyatul_Amraz.pdf",
+    "applyOnlineLink": "https://www.jamiahamdard.ac.in/uploads/FR-17_2026-_Mahiyatul_Amraz.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-11-14"
+  },
+  {
+    "id": "delhi-nlu delhi-data-repository-associate",
+    "title": "NLU Delhi Recruitment 2026 – Data Repository Associate Posts",
+    "shortInfo": "NLU Delhi has announced notification for Data Repository Associate posts. Required qualification: MCA, B.Tech / B.E. Last date to apply: 30-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "30-11-26",
+    "officialWebsite": "https://nludelhi.ac.in/wp-content/uploads/2026/11/Call-for-Data-Repository-Associate.pdf",
+    "notificationLink": "https://nludelhi.ac.in/wp-content/uploads/2026/11/Call-for-Data-Repository-Associate.pdf",
+    "applyOnlineLink": "https://nludelhi.ac.in/wp-content/uploads/2026/11/Call-for-Data-Repository-Associate.pdf",
+    "state": "Delhi",
+    "stateCode": "delhi",
+    "scrapedAt": "2026-11-14"
+  },
+  {
     "id": "delhi-csir-npl-multi-tasking-staff",
     "title": "CSIR-NPL Recruitment 2026 – Multi Tasking Staff Posts",
     "shortInfo": "CSIR-NPL has announced notification for Multi Tasking Staff posts. Required qualification: Intermediate, 10TH, 12TH. Last date to apply: 23-12-26.",
@@ -9,12 +400,43 @@
     "district": "State Level",
     "vacancies": "25",
     "lastDate": "23-12-26",
-    "officialWebsite": "https://www.nplindia.in/wp-content/uploads/2026/11/advt_MTS_2026.pdf",
+    "officialWebsite": "https://nplindia.in",
     "notificationLink": "https://www.nplindia.in/wp-content/uploads/2026/11/advt_MTS_2026.pdf",
-    "applyOnlineLink": "https://www.nplindia.in/wp-content/uploads/2026/11/advt_MTS_2026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/csir-npl-mts-recruitment-2026/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-11-14"
+    "scrapedAt": "2026-11-14",
+    "fees": [
+      {
+        "category": "General/OBC",
+        "fee": "Rs.500/-"
+      },
+      {
+        "category": "SC/ST/PwBD/Women",
+        "fee": "No Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date for Receipt of Application",
+        "date": "23/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Multi Tasking Staff",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the application form from the NPL website.",
+      "Complete the form with the required details and attach self-attested copies of certificates and photographs.",
+      "Attach a Demand Draft/Pay Order of Rs. 500/- if applicable.",
+      "Send the application in an envelope superscribed ‘APPLICATION FOR THE POST OF MTS’ by post to ‘Senior Controller of Administration, CSIR-National Physical Laboratory, Dr. K.S. Krishnan Marg, New Delhi-110012.’"
+    ]
   },
   {
     "id": "delhi-powergrid-trainee-engineer-electronics-",
@@ -26,12 +448,53 @@
     "district": "State Level",
     "vacancies": "33",
     "lastDate": "27-11-26",
-    "officialWebsite": "https://www.powergrid.in/sites/default/files/job_opportunities_document/Detailed%20Advt%20Trainee%20Engineer%20through%20GATE%202026_0.pdf",
+    "officialWebsite": "https://www.powergrid.in",
     "notificationLink": "https://www.powergrid.in/sites/default/files/job_opportunities_document/Detailed%20Advt%20Trainee%20Engineer%20through%20GATE%202026_0.pdf",
-    "applyOnlineLink": "https://www.powergrid.in/sites/default/files/job_opportunities_document/Detailed%20Advt%20Trainee%20Engineer%20through%20GATE%202026_0.pdf",
+    "applyOnlineLink": "https://careers.powergrid.in/recruitment-nextgen/h/login.aspx",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-11-14"
+    "scrapedAt": "2026-11-14",
+    "fees": [
+      {
+        "category": "General/OBC(NCL)/EWS",
+        "fee": "Rs.500/-"
+      },
+      {
+        "category": "SC/ST/PwBD",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Commencement of Online Submission of Application and online payment of application fee",
+        "date": "13/11/2026"
+      },
+      {
+        "event": "Last Date of receipt of online application and online payment of application fee",
+        "date": "27/11/2026"
+      },
+      {
+        "event": "Cut-off date for eligibility criteria",
+        "date": "27/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Trainee Engineer (Electronics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit POWERGRID website https://www.powergrid.in.",
+      "Register online using GATE-2026 Application No and Registration number.",
+      "Enter details exactly as per GATE-2026 Admit Card.",
+      "Pay application fee of Rs. 500/- online (if applicable).",
+      "Submit the application before the last date.",
+      "Take a printout of the completed application."
+    ]
   },
   {
     "id": "delhi-dio-ideal-internship-program",
@@ -691,12 +1154,224 @@
     "district": "State Level",
     "vacancies": "50",
     "lastDate": "26-11-26",
-    "officialWebsite": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_interview_for_recruitment_of_Senior_Resident_Senior_Resident_Contractual_against_GDMO_Full_Time_Contractual_Specialists_amp_Part_Time_Contractual_Super_Specialists_1794478877.pdf",
+    "officialWebsite": "https://esic.gov.in",
     "notificationLink": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_interview_for_recruitment_of_Senior_Resident_Senior_Resident_Contractual_against_GDMO_Full_Time_Contractual_Specialists_amp_Part_Time_Contractual_Super_Specialists_1794478877.pdf",
-    "applyOnlineLink": "https://esic.gov.in/attachments/recruitmentfile/Walk_in_interview_for_recruitment_of_Senior_Resident_Senior_Resident_Contractual_against_GDMO_Full_Time_Contractual_Specialists_amp_Part_Time_Contractual_Super_Specialists_1794478877.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/esic-delhi-senior-resident-specialist-recruitment-2026/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-11-14"
+    "scrapedAt": "2026-11-14",
+    "fees": [
+      {
+        "category": "SC/ST/Female Candidates/Ex-Servicemen & PH Candidates",
+        "fee": "Nil"
+      },
+      {
+        "category": "All Other Categories",
+        "fee": "Rs.500/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Walk-in-Interview Dates (25 & 26 November 2026)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Senior Resident (Anesthesia)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident (Chest)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident (Dermatology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident (Eye)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident (Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident (Obstetrics & Gynaecology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident (Orthopaedics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident (Paediatrics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident (Surgery)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident (ICU)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Resident (NICU)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Contractual Specialist (Anesthesia)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Contractual Specialist (Chest)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Contractual Specialist (Dermatology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Contractual Specialist (Obstetrics & Gynaecology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Contractual Specialist (Orthopaedics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Contractual Specialist (ICU)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Contractual Specialist (Radiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Contractual Specialist (Surgery)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Contractual Specialist (Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Super Specialist (Cardiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Super Specialist (Medical Oncology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Super Specialist (Nephrology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Super Specialist (Neurology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Super Specialist (Endocrinology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Super Specialist (Urology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Super Specialist (Gastroenterology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Appear for the walk-in-interview on specified dates.",
+      "Bring self-attested photocopies of certificates and original documents for verification.",
+      "Carry two recent passport size photographs."
+    ]
   },
   {
     "id": "delhi-ncst-assistant-director",
@@ -2493,23 +3168,6 @@
     "scrapedAt": "2026-11-14"
   },
   {
-    "id": "delhi-mohfw-consultant",
-    "title": "MoHFW Recruitment 2026 – Consultant Posts",
-    "shortInfo": "MoHFW has announced notification for Consultant posts. Required qualification: Retired Staff. Last date to apply: 13-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "5",
-    "lastDate": "13-11-26",
-    "officialWebsite": "https://mohfw-dohfw.gov.in/static/uploads/2026/10/aad0ba4f0071f6e0b60a7a586e22649c.pdf",
-    "notificationLink": "https://mohfw-dohfw.gov.in/static/uploads/2026/10/aad0ba4f0071f6e0b60a7a586e22649c.pdf",
-    "applyOnlineLink": "https://mohfw-dohfw.gov.in/static/uploads/2026/10/aad0ba4f0071f6e0b60a7a586e22649c.pdf",
-    "state": "Delhi",
-    "stateCode": "delhi",
-    "scrapedAt": "2026-11-14"
-  },
-  {
     "id": "delhi-jssh-senior-resident",
     "title": "JSSH Recruitment 2026 – Senior Resident Posts",
     "shortInfo": "JSSH has announced notification for Senior Resident posts. Required qualification: DM, MS/MD, MBBS, Diploma, Post Graduate, DNB. Last date to apply: 08-12-26.",
@@ -4213,12 +4871,12 @@
     "howToApply": [
       "Register on the NATS 2.0 Portal (www.nats.education.gov.in) before applying. Only candidates who passed graduation on or after 1st April 2022 need to register here. Ensure 100% complete profile on the portal.",
       "Note down the Enrolment ID generated in NATS 2.0 Portal for future correspondence.",
-      "Visit the Bank’s website www.indianbank.bank.in and click on the Careers page or visit https://www.nats.education.gov.in and click on ‘Engagement of Apprentices in Indian Bank – 2026’.",
-      "Click on ‘Click here for New Registration’, enter Name, contact details and email ID. Note the Provisional Registration Number and Password generated.",
-      "Fill in the application form. Use ‘SAVE AND NEXT’ to save data if unable to complete in one go.",
+      "Visit the Bank&#8217;s website www.indianbank.bank.in and click on the Careers page or visit https://www.nats.education.gov.in and click on &#8216;Engagement of Apprentices in Indian Bank – 2026&#8217;.",
+      "Click on &#8216;Click here for New Registration&#8217;, enter Name, contact details and email ID. Note the Provisional Registration Number and Password generated.",
+      "Fill in the application form. Use &#8216;SAVE AND NEXT&#8217; to save data if unable to complete in one go.",
       "Upload scanned photograph (4.5cm x 3.5cm, 20KB–50KB), signature (black ink on white paper, 10KB–20KB), left thumb impression (20KB–50KB), and handwritten declaration (50KB–100KB) as per specifications in Annexure-II.",
-      "Preview and verify all details before clicking ‘COMPLETE REGISTRATION’.",
-      "Proceed to the ‘Payment’ tab and pay the application fee online using Debit/Credit Card or Internet Banking.",
+      "Preview and verify all details before clicking &#8216;COMPLETE REGISTRATION&#8217;.",
+      "Proceed to the &#8216;Payment&#8217; tab and pay the application fee online using Debit/Credit Card or Internet Banking.",
       "On successful payment, an e-Receipt will be generated. Take a printout of the e-Receipt and online application form for future reference.",
       "Do NOT send the printout to the Bank."
     ]
@@ -4287,23 +4945,6 @@
     "officialWebsite": "https://www.jalshakti-dowr.gov.in/static/uploads/2026/11/eaae9db68fe697eab65ade76e851fc92.pdf",
     "notificationLink": "https://www.jalshakti-dowr.gov.in/static/uploads/2026/11/eaae9db68fe697eab65ade76e851fc92.pdf",
     "applyOnlineLink": "https://www.jalshakti-dowr.gov.in/static/uploads/2026/11/eaae9db68fe697eab65ade76e851fc92.pdf",
-    "state": "Delhi",
-    "stateCode": "delhi",
-    "scrapedAt": "2026-11-14"
-  },
-  {
-    "id": "delhi-icsil-mts-assistant-grade-i",
-    "title": "ICSIL Recruitment 2026 – MTS, Assistant Grade-I Posts",
-    "shortInfo": "ICSIL has announced notification for MTS, Assistant Grade-I posts. Required qualification: 10TH, 12TH. Last date to apply: 13-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "4",
-    "lastDate": "13-11-26",
-    "officialWebsite": "https://icsil.in/sites/default/files/2026-11/DSCSC%20Asstt%20GRADE%201%20and%20MTS%202026.pdf",
-    "notificationLink": "https://icsil.in/sites/default/files/2026-11/DSCSC%20Asstt%20GRADE%201%20and%20MTS%202026.pdf",
-    "applyOnlineLink": "https://icsil.in/sites/default/files/2026-11/DSCSC%20Asstt%20GRADE%201%20and%20MTS%202026.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
     "scrapedAt": "2026-11-14"
@@ -4627,23 +5268,6 @@
     "officialWebsite": "https://www.aiims.edu/images/pdf/recruitment/advertisement/irch-3-11-26.pdf",
     "notificationLink": "https://www.aiims.edu/images/pdf/recruitment/advertisement/irch-3-11-26.pdf",
     "applyOnlineLink": "https://www.aiims.edu/images/pdf/recruitment/advertisement/irch-3-11-26.pdf",
-    "state": "Delhi",
-    "stateCode": "delhi",
-    "scrapedAt": "2026-11-14"
-  },
-  {
-    "id": "delhi-bric-nipgr-field-worker-project-assistant-research-associate-",
-    "title": "BRIC-NIPGR Recruitment 2026 – Field Worker, Project Assistant, Research Associate-I Posts",
-    "shortInfo": "BRIC-NIPGR has announced notification for Field Worker, Project Assistant, Research Associate-I posts. Required qualification: B.Sc, Diploma, M.Phil / Ph.D, Graduate. Last date to apply: 13-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "3",
-    "lastDate": "13-11-26",
-    "officialWebsite": "https://nipgr.ac.in/nipgrv4/wp-content/uploads/2026/11/Advt_-Dr._-Jagadis_Gupta_Kapuganti_03-11-2026.pdf",
-    "notificationLink": "https://nipgr.ac.in/nipgrv4/wp-content/uploads/2026/11/Advt_-Dr._-Jagadis_Gupta_Kapuganti_03-11-2026.pdf",
-    "applyOnlineLink": "https://nipgr.ac.in/nipgrv4/wp-content/uploads/2026/11/Advt_-Dr._-Jagadis_Gupta_Kapuganti_03-11-2026.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
     "scrapedAt": "2026-11-14"
@@ -5160,23 +5784,6 @@
     "scrapedAt": "2026-11-14"
   },
   {
-    "id": "delhi-maids-project-scientist-i",
-    "title": "MAIDS Recruitment 2026 – Project Scientist-I Posts",
-    "shortInfo": "MAIDS has announced notification for Project Scientist-I posts. Required qualification: B.Tech / B.E. Last date to apply: 13-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "13-11-26",
-    "officialWebsite": "https://maids.delhi.gov.in/sites/default/files/maids/circulars-orders/dst_project_scientist_i.pdf",
-    "notificationLink": "https://maids.delhi.gov.in/sites/default/files/maids/circulars-orders/dst_project_scientist_i.pdf",
-    "applyOnlineLink": "https://maids.delhi.gov.in/sites/default/files/maids/circulars-orders/dst_project_scientist_i.pdf",
-    "state": "Delhi",
-    "stateCode": "delhi",
-    "scrapedAt": "2026-11-14"
-  },
-  {
     "id": "delhi-delhi university-legal-assistant-junior-hindi-translator",
     "title": "Delhi University Recruitment 2026 – Legal Assistant, Junior Hindi Translator Posts",
     "shortInfo": "Delhi University has announced notification for Legal Assistant, Junior Hindi Translator posts. Required qualification: Graduate. Last date to apply: 20-11-26.",
@@ -5206,40 +5813,6 @@
     "officialWebsite": "https://www.meity.gov.in/static/uploads/2026/10/fc620c9d3cbee30f8840725fc1515150.pdf",
     "notificationLink": "https://www.meity.gov.in/static/uploads/2026/10/fc620c9d3cbee30f8840725fc1515150.pdf",
     "applyOnlineLink": "https://www.meity.gov.in/static/uploads/2026/10/fc620c9d3cbee30f8840725fc1515150.pdf",
-    "state": "Delhi",
-    "stateCode": "delhi",
-    "scrapedAt": "2026-11-14"
-  },
-  {
-    "id": "delhi-becil-executive",
-    "title": "BECIL Recruitment 2026 – Executive Posts",
-    "shortInfo": "BECIL has announced notification for Executive posts. Required qualification: B.B.A, MBA / PGDM. Last date to apply: 13-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "13-11-26",
-    "officialWebsite": "https://www.becil.com/uploads/topics/17933432526029.pdf",
-    "notificationLink": "https://www.becil.com/uploads/topics/17933432526029.pdf",
-    "applyOnlineLink": "https://www.becil.com/uploads/topics/17933432526029.pdf",
-    "state": "Delhi",
-    "stateCode": "delhi",
-    "scrapedAt": "2026-11-14"
-  },
-  {
-    "id": "delhi-becil-social-media-analyst",
-    "title": "BECIL Recruitment 2026 – Social Media Analyst Posts",
-    "shortInfo": "BECIL has announced notification for Social Media Analyst posts. Required qualification: Graduate. Last date to apply: 13-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "2",
-    "lastDate": "13-11-26",
-    "officialWebsite": "https://www.becil.com/uploads/topics/17933435031654.pdf",
-    "notificationLink": "https://www.becil.com/uploads/topics/17933435031654.pdf",
-    "applyOnlineLink": "https://www.becil.com/uploads/topics/17933435031654.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
     "scrapedAt": "2026-11-14"
@@ -5393,23 +5966,6 @@
     "scrapedAt": "2026-11-14"
   },
   {
-    "id": "delhi-negd-mlops-engineer",
-    "title": "NeGD Recruitment 2026 – MLOps Engineer Posts",
-    "shortInfo": "NeGD has announced notification for MLOps Engineer posts. Required qualification: M.E / M.Tech, B.Tech / B.E. Last date to apply: 13-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "13-11-26",
-    "officialWebsite": "https://diccdnmedia.digitalindiacorporation.in/wp-content/uploads/2026/10/Vacancy-Advert.-AI-Team-NeGD-27.10.2026.pdf",
-    "notificationLink": "https://diccdnmedia.digitalindiacorporation.in/wp-content/uploads/2026/10/Vacancy-Advert.-AI-Team-NeGD-27.10.2026.pdf",
-    "applyOnlineLink": "https://diccdnmedia.digitalindiacorporation.in/wp-content/uploads/2026/10/Vacancy-Advert.-AI-Team-NeGD-27.10.2026.pdf",
-    "state": "Delhi",
-    "stateCode": "delhi",
-    "scrapedAt": "2026-11-14"
-  },
-  {
     "id": "delhi-nmet-consultant-accountant-",
     "title": "NMET Recruitment 2026 – Consultant (Accountant) Posts",
     "shortInfo": "NMET has announced notification for Consultant (Accountant) posts. Required qualification: Retired Staff. Last date to apply: 25-11-26.",
@@ -5490,23 +6046,6 @@
     "officialWebsite": "https://crcs.gov.in/public/uploads/society_notification/6ae330f5d39c2_advertisementforhiringofoneconsultant.pdf",
     "notificationLink": "https://crcs.gov.in/public/uploads/society_notification/6ae330f5d39c2_advertisementforhiringofoneconsultant.pdf",
     "applyOnlineLink": "https://crcs.gov.in/public/uploads/society_notification/6ae330f5d39c2_advertisementforhiringofoneconsultant.pdf",
-    "state": "Delhi",
-    "stateCode": "delhi",
-    "scrapedAt": "2026-11-14"
-  },
-  {
-    "id": "delhi-aiims delhi-project-research-scientist-project-nurse",
-    "title": "AIIMS Delhi Recruitment 2026 – Project Research Scientist, Project Nurse Posts",
-    "shortInfo": "AIIMS Delhi has announced notification for Project Research Scientist, Project Nurse posts. Required qualification: B.Sc. Last date to apply: 13-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "4",
-    "lastDate": "13-11-26",
-    "officialWebsite": "https://www.aiims.edu/images/pdf/recruitment/advertisement/readiationonco-29-10-26.pdf",
-    "notificationLink": "https://www.aiims.edu/images/pdf/recruitment/advertisement/readiationonco-29-10-26.pdf",
-    "applyOnlineLink": "https://www.aiims.edu/images/pdf/recruitment/advertisement/readiationonco-29-10-26.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
     "scrapedAt": "2026-11-14"
@@ -5682,23 +6221,6 @@
     "scrapedAt": "2026-11-14"
   },
   {
-    "id": "delhi-negd-mlops-engineer",
-    "title": "NeGD Recruitment 2026 – MLOps Engineer Posts",
-    "shortInfo": "NeGD has announced notification for MLOps Engineer posts. Required qualification: M.E / M.Tech, B.Tech / B.E. Last date to apply: 13-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "13-11-26",
-    "officialWebsite": "https://diccdnmedia.digitalindiacorporation.in/wp-content/uploads/2026/10/Vacancy-Advert.-AI-Team-NeGD-27.10.2026.pdf",
-    "notificationLink": "https://diccdnmedia.digitalindiacorporation.in/wp-content/uploads/2026/10/Vacancy-Advert.-AI-Team-NeGD-27.10.2026.pdf",
-    "applyOnlineLink": "https://diccdnmedia.digitalindiacorporation.in/wp-content/uploads/2026/10/Vacancy-Advert.-AI-Team-NeGD-27.10.2026.pdf",
-    "state": "Delhi",
-    "stateCode": "delhi",
-    "scrapedAt": "2026-11-14"
-  },
-  {
     "id": "delhi-abvims &amp; rml hospital-consultant-legal-",
     "title": "ABVIMS &amp; RML Hospital Recruitment 2026 – Consultant (Legal) Posts",
     "shortInfo": "ABVIMS &amp; RML Hospital has announced notification for Consultant (Legal) posts. Required qualification: Graduate. Last date to apply: 16-11-26.",
@@ -5762,40 +6284,6 @@
     "officialWebsite": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1793085133254_2566vgf.pdf",
     "notificationLink": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1793085133254_2566vgf.pdf",
     "applyOnlineLink": "https://ird.iitd.ac.in/api/uploadsProjectPositions/project_position_1793085133254_2566vgf.pdf",
-    "state": "Delhi",
-    "stateCode": "delhi",
-    "scrapedAt": "2026-11-14"
-  },
-  {
-    "id": "delhi-negd-ai-ml-lead",
-    "title": "NeGD Recruitment 2026 – AI / ML Lead Posts",
-    "shortInfo": "NeGD has announced notification for AI / ML Lead posts. Required qualification: M.Sc, B.Tech / B.E, M.Phil / Ph.D, M.E / M.Tech. Last date to apply: 13-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "4",
-    "lastDate": "13-11-26",
-    "officialWebsite": "https://dic.gov.in/jobs/ai-ml-lead-3/",
-    "notificationLink": "https://dic.gov.in/jobs/ai-ml-lead-3/",
-    "applyOnlineLink": "https://dic.gov.in/jobs/ai-ml-lead-3/",
-    "state": "Delhi",
-    "stateCode": "delhi",
-    "scrapedAt": "2026-11-14"
-  },
-  {
-    "id": "delhi-hil-project-manager-assistant-project-manager",
-    "title": "HIL Recruitment 2026 – Project Manager, Assistant Project Manager Posts",
-    "shortInfo": "HIL has announced notification for Project Manager, Assistant Project Manager posts. Required qualification: M.Phil / Ph.D, Post Graduate, MBA / PGDM. Last date to apply: 13-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "2",
-    "lastDate": "13-11-26",
-    "officialWebsite": "https://www.hil.gov.in/Career/Advertisement%20No%20RECTT%20UNIDO%201%202026.pdf",
-    "notificationLink": "https://www.hil.gov.in/Career/Advertisement%20No%20RECTT%20UNIDO%201%202026.pdf",
-    "applyOnlineLink": "https://www.hil.gov.in/Career/Advertisement%20No%20RECTT%20UNIDO%201%202026.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
     "scrapedAt": "2026-11-14"
@@ -5949,23 +6437,6 @@
     "officialWebsite": "https://www.du.ac.in/uploads/new-web/26102026-rajdhani-Advt-AO.pdf",
     "notificationLink": "https://www.du.ac.in/uploads/new-web/26102026-rajdhani-Advt-AO.pdf",
     "applyOnlineLink": "https://www.du.ac.in/uploads/new-web/26102026-rajdhani-Advt-AO.pdf",
-    "state": "Delhi",
-    "stateCode": "delhi",
-    "scrapedAt": "2026-11-14"
-  },
-  {
-    "id": "delhi-niti aayog-protocol-officer",
-    "title": "NITI Aayog Recruitment 2026 – Protocol Officer Posts",
-    "shortInfo": "NITI Aayog has announced notification for Protocol Officer posts. Required qualification: Any Bachelor's Degree. Last date to apply: 13-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "13-11-26",
-    "officialWebsite": "https://www.niti.gov.in/sites/default/files/2026-10/NITI-Aayog-vacancy-circular-dated-05-10-2026.pdf",
-    "notificationLink": "https://www.niti.gov.in/sites/default/files/2026-10/NITI-Aayog-vacancy-circular-dated-05-10-2026.pdf",
-    "applyOnlineLink": "https://www.niti.gov.in/sites/default/files/2026-10/NITI-Aayog-vacancy-circular-dated-05-10-2026.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
     "scrapedAt": "2026-11-14"
@@ -6981,101 +7452,6 @@
     "scrapedAt": "2026-11-14"
   },
   {
-    "id": "delhi-itpo-assistant-and-more-junior-steno",
-    "title": "ITPO Recruitment 2026 – Assistant and More, Junior Steno Posts",
-    "shortInfo": "ITPO has announced notification for Assistant and More, Junior Steno posts. Required qualification: Diploma, B.Tech / B.E, Any Graduate. Last date to apply: 13-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "46",
-    "lastDate": "13-11-26",
-    "officialWebsite": "https://www.itpo.gov.in/",
-    "notificationLink": "https://jobapply.in/itpo2026/Adv_Eng.pdf",
-    "applyOnlineLink": "https://jobapply.in/itpo2026/",
-    "state": "Delhi",
-    "stateCode": "delhi",
-    "scrapedAt": "2026-11-14",
-    "fees": [
-      {
-        "category": "General/OBC/EWS",
-        "fee": "Rs. 1000/-"
-      },
-      {
-        "category": "SC/ST/PwBD/Ex-Servicemen",
-        "fee": "Exempted"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Opening Date for Online Application",
-        "date": "17/10/2026"
-      },
-      {
-        "event": "Last Date for Submission of Online Application and Payment of Fee",
-        "date": "13/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Senior Assistant (Civil)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Assistant (Electrical)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Assistant (Architecture)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Assistant (Accounts)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Stenographer",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Assistant (General Cadre)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the ITPO official website (www.indiatradefair.com) for the online application portal details.",
-      "Register and fill in the online application form with accurate personal, educational, and experience details.",
-      "Upload scanned copy of passport size color photograph and signature.",
-      "Upload self-attested copy of proof of birth.",
-      "Upload self-attested copies of educational qualifications.",
-      "Upload self-attested copy of Caste/Category certificates (SC/ST/OBC/EWS/PwBD) as applicable.",
-      "Upload mark sheet of relevant SSC examination (JE-2024, CGL-2024, Stenographer Grade C-2024) or GATE 2024/2025/2026 score for Architecture and Planning as applicable.",
-      "Upload self-attested copy of qualifying cut-off marks secured in GATE 2024/2025/2026 (for Senior Assistant Architecture post).",
-      "Candidates working in Central/State Government or Autonomous Organizations must upload a No Objection Certificate (NOC) from their present employer.",
-      "Upload self-attested copy of experience certificates in chronological order as applicable.",
-      "Pay the application fee of Rs. 1000/- through the payment gateway (SC/ST/PwBD/Ex-Servicemen are exempted).",
-      "Submit the online application before 13/11/2026."
-    ]
-  },
-  {
     "id": "delhi-ncdc-young-professional-ii",
     "title": "NCDC Recruitment 2026 – Young Professional-II Posts",
     "shortInfo": "NCDC has announced notification for Young Professional-II posts. Required qualification: PG Diploma, M.E / M.Tech. Last date to apply: 19-11-26.",
@@ -7198,23 +7574,6 @@
     "officialWebsite": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wggsg_89.pdf",
     "notificationLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wggsg_89.pdf",
     "applyOnlineLink": "https://health.delhi.gov.in/sites/default/files/Health/circulars-orders/wggsg_89.pdf",
-    "state": "Delhi",
-    "stateCode": "delhi",
-    "scrapedAt": "2026-11-14"
-  },
-  {
-    "id": "delhi-icar iari-young-professional-walk-in-",
-    "title": "ICAR IARI Recruitment 2026 – Young Professional (Walk-in) Posts",
-    "shortInfo": "ICAR IARI has announced notification for Young Professional (Walk-in) posts. Required qualification: Post Graduate Degree. Last date to apply: 13-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "01",
-    "lastDate": "13-11-26",
-    "officialWebsite": "https://iari.res.in/files/jobs/Website_publishing_matte_16102026r.pdf",
-    "notificationLink": "https://iari.res.in/files/jobs/Website_publishing_matte_16102026r.pdf",
-    "applyOnlineLink": "https://iari.res.in/files/jobs/Website_publishing_matte_16102026r.pdf",
     "state": "Delhi",
     "stateCode": "delhi",
     "scrapedAt": "2026-11-14"

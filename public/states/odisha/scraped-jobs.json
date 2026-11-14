@@ -80,6 +80,23 @@
     ]
   },
   {
+    "id": "odisha-vdu-assistant-professor-head-of-the-department",
+    "title": "VDU Recruitment 2026 – Assistant Professor, Head of the Department Posts",
+    "shortInfo": "VDU has announced notification for Assistant Professor, Head of the Department posts. Required qualification: M.E / M.Tech, PG, M.Sc, CS, M.Ed, B.Ed, MBA / PGDM, MCA, M.Phil / Ph.D, M.P.Ed, MFA. Last date to apply: 16-12-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "37",
+    "lastDate": "16-12-26",
+    "officialWebsite": "https://vikramdevuniversity.ac.in/API//writable/uploads/20261113/1794575396_798a6665693a635fef7c.pdf",
+    "notificationLink": "https://vikramdevuniversity.ac.in/API//writable/uploads/20261113/1794575396_798a6665693a635fef7c.pdf",
+    "applyOnlineLink": "https://vikramdevuniversity.ac.in/API//writable/uploads/20261113/1794575396_798a6665693a635fef7c.pdf",
+    "state": "Odisha",
+    "stateCode": "odisha",
+    "scrapedAt": "2026-11-14"
+  },
+  {
     "id": "odisha-isro sdsc shar-technical-assistant-scientific-assistant-library-a",
     "title": "ISRO SDSC SHAR Recruitment 2026 – Technical Assistant, Scientific Assistant, Library Assistant 'A', Nurse 'B', Technician 'B', Draughtsman 'B', Fireman 'A', Driver, MTS (Re Open) Posts",
     "shortInfo": "ISRO SDSC SHAR has announced notification for Technical Assistant, Scientific Assistant, Library Assistant 'A', Nurse 'B', Technician 'B', Draughtsman 'B', Fireman 'A', Driver, MTS (Re Open) posts. Required qualification: First Class Diploma, B.Sc, Bachelor's Degree, Master's Degree, SSLC/SSC with ITI/NTC/NAC, Matriculation. Last date to apply: 16-11-26.",
@@ -1175,23 +1192,6 @@
     "officialWebsite": "https://www.iitbbs.ac.in/wp-content/uploads/2026/11/Advt_CEP-SG-1.pdf",
     "notificationLink": "https://www.iitbbs.ac.in/wp-content/uploads/2026/11/Advt_CEP-SG-1.pdf",
     "applyOnlineLink": "https://www.iitbbs.ac.in/wp-content/uploads/2026/11/Advt_CEP-SG-1.pdf",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-14"
-  },
-  {
-    "id": "odisha-aiims bhubaneswar-project-research-scientist-i-medical-",
-    "title": "AIIMS Bhubaneswar Recruitment 2026 – Project Research Scientist-I (Medical) Posts",
-    "shortInfo": "AIIMS Bhubaneswar has announced notification for Project Research Scientist-I (Medical) posts. Required qualification: MBBS, MS/MD. Last date to apply: 13-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "13-11-26",
-    "officialWebsite": "https://aiimsbhubaneswar.nic.in/wp-content/uploads/2026/11/BIochem-adv.pdf",
-    "notificationLink": "https://aiimsbhubaneswar.nic.in/wp-content/uploads/2026/11/BIochem-adv.pdf",
-    "applyOnlineLink": "https://aiimsbhubaneswar.nic.in/wp-content/uploads/2026/11/BIochem-adv.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
     "scrapedAt": "2026-11-14"
@@ -2475,12 +2475,49 @@
     "district": "State Level",
     "vacancies": "38",
     "lastDate": "25-11-26",
-    "officialWebsite": "https://orissahighcourt.nic.in/uploads/recruitment/recruitment-1793857547.pdf",
+    "officialWebsite": "https://orissahighcourt.nic.in",
     "notificationLink": "https://orissahighcourt.nic.in/uploads/recruitment/recruitment-1793857547.pdf",
-    "applyOnlineLink": "https://orissahighcourt.nic.in/uploads/recruitment/recruitment-1793857547.pdf",
+    "applyOnlineLink": "https://ohcrecruitment.in/ohc/index_new",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-14"
+    "scrapedAt": "2026-11-14",
+    "fees": [
+      {
+        "category": "General",
+        "fee": "Rs.750/-"
+      },
+      {
+        "category": "SC/ST/PwBD",
+        "fee": "Free"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Application Start Date",
+        "date": "09/11/2026"
+      },
+      {
+        "event": "Application End Date",
+        "date": "25/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "District Judge",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website of the High Court of Orissa.",
+      "Go to the Recruitment Corner and click on DIRECT RECRUITMENT TO THE POSTS IN THE CADRE OF DISTRICT JUDGE, 2026.",
+      "Fill in the online application form carefully.",
+      "Upload the required documents.",
+      "Pay the application fee through the provided online options.",
+      "Submit the application before the last date."
+    ]
   },
   {
     "id": "odisha-orissa high court-district-judge",
@@ -2492,12 +2529,43 @@
     "district": "State Level",
     "vacancies": "46",
     "lastDate": "25-11-26",
-    "officialWebsite": "https://orissahighcourt.nic.in/uploads/recruitment/recruitment-1793857582.pdf",
+    "officialWebsite": "https://orissahighcourt.nic.in/",
     "notificationLink": "https://orissahighcourt.nic.in/uploads/recruitment/recruitment-1793857582.pdf",
-    "applyOnlineLink": "https://orissahighcourt.nic.in/uploads/recruitment/recruitment-1793857582.pdf",
+    "applyOnlineLink": "https://ohcrecruitment.in/ohc/index_new",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-14"
+    "scrapedAt": "2026-11-14",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online application starts from",
+        "date": "09/11/2026"
+      },
+      {
+        "event": "Closing Date to Fill Application Form",
+        "date": "25/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "District Judge",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website of High Court of Orissa.",
+      "Log into the Examination Portal.",
+      "Fill the online application form completely.",
+      "Submit the form well before the closing date and time."
+    ]
   },
   {
     "id": "odisha-nlc-graduate-executive-trainee",
@@ -2634,12 +2702,12 @@
     "howToApply": [
       "Register on the NATS 2.0 Portal (www.nats.education.gov.in) before applying. Only candidates who passed graduation on or after 1st April 2022 need to register here. Ensure 100% complete profile on the portal.",
       "Note down the Enrolment ID generated in NATS 2.0 Portal for future correspondence.",
-      "Visit the Bank’s website www.indianbank.bank.in and click on the Careers page or visit https://www.nats.education.gov.in and click on ‘Engagement of Apprentices in Indian Bank – 2026’.",
-      "Click on ‘Click here for New Registration’, enter Name, contact details and email ID. Note the Provisional Registration Number and Password generated.",
-      "Fill in the application form. Use ‘SAVE AND NEXT’ to save data if unable to complete in one go.",
-      "Upload scanned photograph (4.5cm x 3.5cm, 20KB–50KB), signature (black ink on white paper, 10KB–20KB), left thumb impression (20KB–50KB), and handwritten declaration (50KB–100KB) as per specifications in Annexure-II.",
-      "Preview and verify all details before clicking ‘COMPLETE REGISTRATION’.",
-      "Proceed to the ‘Payment’ tab and pay the application fee online using Debit/Credit Card or Internet Banking.",
+      "Visit the Bank&#8217;s website www.indianbank.bank.in and click on the Careers page or visit https://www.nats.education.gov.in and click on &#8216;Engagement of Apprentices in Indian Bank – 2026&#8217;.",
+      "Click on &#8216;Click here for New Registration&#8217;, enter Name, contact details and email ID. Note the Provisional Registration Number and Password generated.",
+      "Fill in the application form. Use &#8216;SAVE AND NEXT&#8217; to save data if unable to complete in one go.",
+      "Upload scanned photograph (4.5cm x 3.5cm, 20KB–50KB), signature (black ink on white paper, 10KB–20KB), left thumb impression (20KB–50KB), and handwritten declaration (50KB���100KB) as per specifications in Annexure-II.",
+      "Preview and verify all details before clicking &#8216;COMPLETE REGISTRATION&#8217;.",
+      "Proceed to the &#8216;Payment&#8217; tab and pay the application fee online using Debit/Credit Card or Internet Banking.",
       "On successful payment, an e-Receipt will be generated. Take a printout of the e-Receipt and online application form for future reference.",
       "Do NOT send the printout to the Bank."
     ]
@@ -2708,23 +2776,6 @@
     "officialWebsite": "https://tmc.gov.in/postmaster/DownloadFile.aspx?FileId=2554",
     "notificationLink": "https://tmc.gov.in/postmaster/DownloadFile.aspx?FileId=2554",
     "applyOnlineLink": "https://tmc.gov.in/postmaster/DownloadFile.aspx?FileId=2554",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-14"
-  },
-  {
-    "id": "odisha-samagra shiksha bhadrak-warden",
-    "title": "Samagra Shiksha Bhadrak Recruitment 2026 – Warden Posts",
-    "shortInfo": "Samagra Shiksha Bhadrak has announced notification for Warden posts. Required qualification: B.Sc, 10TH, B.Ed, B.A, Graduate. Last date to apply: 13-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "13-11-26",
-    "officialWebsite": "https://bhadrak.odisha.gov.in/sites/default/files/2026-11/Warden_KGBV_Bdk.pdf",
-    "notificationLink": "https://bhadrak.odisha.gov.in/sites/default/files/2026-11/Warden_KGBV_Bdk.pdf",
-    "applyOnlineLink": "https://bhadrak.odisha.gov.in/sites/default/files/2026-11/Warden_KGBV_Bdk.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
     "scrapedAt": "2026-11-14"
@@ -3339,23 +3390,6 @@
       "Application fee (if applicable) must be submitted via Demand Draft in favor of ‘ESI Fund A/c No. 1’ payable at Bhubaneswar, to be submitted on the date of walk-in interview.",
       "Report at: Office of the Dean, ESIC Medical College &amp; Hospital, Chandrasekharpur, Bhubaneswar, Odisha (Near Hotel Mayfair) between 09:00 AM to 10:00 AM on the scheduled interview date."
     ]
-  },
-  {
-    "id": "odisha-cari-consultant-and-more-young-professional",
-    "title": "CARI Recruitment 2026 – Consultant and More, Young Professional Posts",
-    "shortInfo": "CARI has announced notification for Consultant and More, Young Professional posts. Required qualification: MS / MD, BAMS. Last date to apply: 13-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "8",
-    "lastDate": "13-11-26",
-    "officialWebsite": "https://ccras.nic.in/wp-content/uploads/2026/10/27102026-CARI-BHU_VAC.pdf",
-    "notificationLink": "https://ccras.nic.in/wp-content/uploads/2026/10/27102026-CARI-BHU_VAC.pdf",
-    "applyOnlineLink": "https://ccras.nic.in/wp-content/uploads/2026/10/27102026-CARI-BHU_VAC.pdf",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-14"
   },
   {
     "id": "odisha-iop bhubaneswar-research-associate",

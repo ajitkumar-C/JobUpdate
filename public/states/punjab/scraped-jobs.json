@@ -14,7 +14,7 @@
     "applyOnlineLink": "https://pau.edu/index.php?_act=manageVacancy&#038;DO=viewVacancyDetail&#038;intID=7663",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-niper-research-associate-iii",
@@ -31,7 +31,7 @@
     "applyOnlineLink": "https://www.niper.gov.in/sites/default/files/inline-files/upload_224115a06268.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-punjabi university-lecturer-more-tgt",
@@ -48,7 +48,7 @@
     "applyOnlineLink": "https://www.punjabiuniversity.ac.in/Pages/SF/TQR/PF8FE6A86.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-district court faridkot-support-persons",
@@ -65,7 +65,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3ca9c267dad0305d1a6308d2a0cf1c39c/uploads/2026/11/17945489384360.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-cari-consultant-ayurveda-",
@@ -82,7 +82,7 @@
     "applyOnlineLink": "https://ccras.nic.in/wp-content/uploads/2026/11/12112026-Advt-CARI-Patiala.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-psssb-junior-engineer-je-civil-mechanical-electrical-re-",
@@ -99,7 +99,7 @@
     "applyOnlineLink": "https://eservices.punjab.gov.in/loginWindow.do",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13",
+    "scrapedAt": "2026-11-14",
     "fees": [
       {
         "category": "Ex-Servicemen, EWS, PwD and LDESM of Punjab State Only",
@@ -216,7 +216,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/esic-ludhiana-faculty-recruitment-2026/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13",
+    "scrapedAt": "2026-11-14",
     "fees": [
       {
         "category": "SC/ST/ESIC (Regular Employee)/Female Candidate/Defence Ex-servicemen & PH Candidate",
@@ -311,7 +311,7 @@
     "applyOnlineLink": "https://recruitment-application.mbspsu.ac.in/apply/advt-04-2026",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13",
+    "scrapedAt": "2026-11-14",
     "fees": [
       {
         "category": "Fee",
@@ -656,7 +656,7 @@
     "applyOnlineLink": "https://nabi.res.in/backend/web/img/jobs/jobs-418-Advt.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-aiims bathinda-senior-resident",
@@ -673,7 +673,7 @@
     "applyOnlineLink": "https://aiimsbathinda.edu.in/images/Reqruitment/20261109105128.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-aiims bathinda-more-professor-assistant-professor",
@@ -685,12 +685,399 @@
     "district": "State Level",
     "vacancies": "55",
     "lastDate": "30-11-26",
-    "officialWebsite": "https://aiimsbathinda.edu.in/images/Reqruitment/20261109052537.pdf",
+    "officialWebsite": "https://www.aiimsbathinda.edu.in",
     "notificationLink": "https://aiimsbathinda.edu.in/images/Reqruitment/20261109052537.pdf",
-    "applyOnlineLink": "https://aiimsbathinda.edu.in/images/Reqruitment/20261109052537.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/aiims-bathinda-faculty-recruitment-2026-2/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14",
+    "fees": [
+      {
+        "category": "General/OBC/EWS",
+        "fee": "Rs.2360/-"
+      },
+      {
+        "category": "SC/ST",
+        "fee": "Rs.1180/-"
+      },
+      {
+        "category": "PwBD",
+        "fee": "NIL"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Closing Date to Fill Application Form",
+        "date": "30/11/2026"
+      },
+      {
+        "event": "Qualification & Age Criteria Calculated As On",
+        "date": "30/11/2026"
+      },
+      {
+        "event": "Last Date of Receipt of Hard Copy of Application Form",
+        "date": "03/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Professor (Anatomy)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Anaesthesiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Burns and Plastic Surgery)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Dentistry)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (ENT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (General Surgery)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Hospital Administration)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Microbiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Nephrology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Neurology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Neurosurgery)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Paediatric Surgery)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Paediatrics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Pharmacology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Pulmonary Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Radiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Professor (Urology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Additional Professor (Obstetrics & Gynaecology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Additional Professor (Orthopaedics)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Additional Professor (Physiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Additional Professor (Nuclear Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Anatomy)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Cardiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Dermatology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (ENT)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Gastroenterology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (General Surgery)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Medical Oncology / Hematology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Neurology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Ophthalmology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Pathology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Physiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Radiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Surgical Oncology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Cardiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Endocrinology & Metabolism)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Gastroenterology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (General Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (General Surgery)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Medical Oncology / Hematology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Nephrology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Nuclear Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Pulmonary Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Radiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Surgical Gastroenterology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Surgical Oncology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Trauma and Emergency - Emergency Medicine)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Trauma and Emergency - Trauma (Surgery))",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Trauma and Emergency - Trauma (Orthopaedics))",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Urology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Fill mandatory online Google Form through the provided link by 30 November 2026.",
+      "Visit the website www.aiimsbathinda.edu.in to download the application form.",
+      "Fill the form, print it, and send it with supporting documents to Recruitment Cell, AIIMS, Bathinda by 03 December 2026.",
+      "Pay the application fee online via the provided payment gateway link.",
+      "Submit self-attested documents along with the application as mentioned."
+    ]
   },
   {
     "id": "punjab-rrc northern railway-act-apprentice",
@@ -707,7 +1094,7 @@
     "applyOnlineLink": "https://app.rrcnr.org/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13",
+    "scrapedAt": "2026-11-14",
     "fees": [
       {
         "category": "General/OBC/EWS (Male)",
@@ -765,7 +1152,7 @@
     "applyOnlineLink": "https://punjabandsind.bank.in/system/uploads/recruitment/7932_2026110618401062183.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-tehsildar nawanshahr-nambardar",
@@ -782,7 +1169,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s308d98638c6fcd194a4b1e6992063e944/uploads/2026/11/17939408635783.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-pau-junior-field-lab-helper",
@@ -799,7 +1186,7 @@
     "applyOnlineLink": "https://pau.edu/index.php?_act=manageVacancy&#038;DO=viewVacancyDetail&#038;intID=7647",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-iocl-trade-apprentice-and-more-technician-apprentice",
@@ -816,7 +1203,7 @@
     "applyOnlineLink": "https://plapps.indianoilpipelines.in/PLApprentice/user/main?adv_no=MTQ=&Digest=qOLTAc7VxS7RbGmNVXuktQ",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13",
+    "scrapedAt": "2026-11-14",
     "fees": [
       {
         "category": "Fee",
@@ -909,7 +1296,7 @@
     "applyOnlineLink": "https://www.apssangrur.edu.in/Vacanies.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-hbch &amp; rc punjab-clinical-specialist",
@@ -926,7 +1313,7 @@
     "applyOnlineLink": "https://tmc.gov.in/postmaster/ViewFile.aspx?FileId=f3ltK8/ZaC8xhDoZoGhhcg==",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-pbti-project-associate-and-more-project-assistant",
@@ -943,7 +1330,7 @@
     "applyOnlineLink": "https://pbtilabs.punjab.gov.in/pdf/Detailed%20Draft%20advertisement_Project%20posts%20for%20Website.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-district ayush society sangrur-male-yoga-instructor",
@@ -960,7 +1347,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3eb6fdc36b281b7d5eabf33396c2683a2/uploads/2026/11/17937835846918.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-dcpu fazilka-support-person",
@@ -977,7 +1364,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s33def184ad8f4755ff269862ea77393dd/uploads/2026/11/17937814588023.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-nicl-graduate-apprentice",
@@ -994,7 +1381,7 @@
     "applyOnlineLink": "https://nats.education.gov.in/index.php",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13",
+    "scrapedAt": "2026-11-14",
     "fees": [
       {
         "category": "Fee",
@@ -1046,7 +1433,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/inbraoct26/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13",
+    "scrapedAt": "2026-11-14",
     "fees": [
       {
         "category": "General/OBC/EWS candidates",
@@ -1104,7 +1491,7 @@
     "applyOnlineLink": "https://pbtilabs.punjab.gov.in/pdf/Detailed%20Draft%20advertisement_Project%20posts%20for%20Website.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-district ayush society sangrur-male-yoga-instructor",
@@ -1121,7 +1508,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3eb6fdc36b281b7d5eabf33396c2683a2/uploads/2026/11/17937835846918.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-iiser mohali-junior-engineer-civil-counsellor",
@@ -1138,7 +1525,7 @@
     "applyOnlineLink": "https://web.iisermohali.ac.in:8080/noticeportal/attachments/article/3215/Website%20advertisement%20for%20NF%20(06).pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-iit ropar-bee-certified-energy-manager",
@@ -1155,7 +1542,7 @@
     "applyOnlineLink": "https://www.iitrpr.ac.in/api/v2/files/download/230",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-pesco-waiter",
@@ -1172,7 +1559,7 @@
     "applyOnlineLink": "https://pesco.punjab.gov.in/media/documents/Website16_Recruitment_Notice_dated_03.11.2026.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-pesco-dgm-it-",
@@ -1189,7 +1576,7 @@
     "applyOnlineLink": "https://pesco.punjab.gov.in/media/documents/Website15_Recruitment_Notice_dated_03.11.2026.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-iiser mohali-internal-audit-officer-consultant",
@@ -1206,7 +1593,7 @@
     "applyOnlineLink": "https://web.iisermohali.ac.in:8080/noticeportal/attachments/article/3213/Website%20advt..pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-nitj tbi-chief-executive-officer",
@@ -1223,7 +1610,7 @@
     "applyOnlineLink": "https://nitj.ac.in/files/1793613671364-Application_Form_CEO_TBI.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-chandigarh district court-gate-keeper-chowkidar-parking-attendant",
@@ -1240,7 +1627,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/chandigarh-district-court-recruitment-2026/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13",
+    "scrapedAt": "2026-11-14",
     "fees": [
       {
         "category": "Fee",
@@ -1301,7 +1688,7 @@
     "applyOnlineLink": "https://prsc.punjab.gov.in/images/Advertisements/Advt_5_2026DT1112026_GRAM_GROUP.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-punjab and haryana high court chandigarh-chowkidar",
@@ -1318,7 +1705,7 @@
     "applyOnlineLink": "https://phconapp.formflix.org/chowkidar/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13",
+    "scrapedAt": "2026-11-14",
     "fees": [
       {
         "category": "General",
@@ -1393,7 +1780,7 @@
     "applyOnlineLink": "https://pesco.punjab.gov.in/media/documents/Website15_Recruitment_Notice_dated_30.10.2026.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-bbmb-apprentice",
@@ -1405,12 +1792,135 @@
     "district": "State Level",
     "vacancies": "58",
     "lastDate": "30-11-26",
-    "officialWebsite": "https://bbmb.gov.in/writereaddata/Portal/JobOpening/130_1_Apprenticeship_training_Canal_Power_House.pdf",
+    "officialWebsite": "https://bbmb.gov.in",
     "notificationLink": "https://bbmb.gov.in/writereaddata/Portal/JobOpening/130_1_Apprenticeship_training_Canal_Power_House.pdf",
-    "applyOnlineLink": "https://bbmb.gov.in/writereaddata/Portal/JobOpening/130_1_Apprenticeship_training_Canal_Power_House.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/bbmb-recruitment-2026-apply-online-for-58-lineman-fitter-other-posts/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14",
+    "fees": [],
+    "dates": [
+      {
+        "event": "Advertisement Date",
+        "date": "29/10/2026"
+      },
+      {
+        "event": "Online Application Start Date",
+        "date": "01/11/2026"
+      },
+      {
+        "event": "Online Application Last Date",
+        "date": "30/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Mechanical/Electrical/Civil Engineering (Degree Holder - 4 years)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "BA (Degree Holder - 3 years)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "B.Com (Degree Holder - 3 years)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "B.Sc (Degree Holder - 3 years)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Mechanical/Electrical/Civil Engineering (Diploma Holder)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Fitter (ITI)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Electrician (ITI)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Lineman (ITI)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Carpenter (ITI)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Welder (ITI)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Motor Vehicle Mechanic (ITI)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Painter General (ITI)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Computer Operator and Programming Assistant (ITI)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Plumber (ITI)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "ITI trade candidates must apply online on the NAPS portal: https://apprenticeshipindia.gov.in",
+      "Graduate Degree / Diploma holders must apply online on the NATS portal: https://nats.education.gov.in",
+      "Applications must be submitted between 01.11.2026 and 30.11.2026.",
+      "No other mode of application will be accepted.",
+      "Candidates must have a valid Aadhaar Card for online registration.",
+      "Candidates whose results are still awaited on the last date of receipt of applications will not be considered."
+    ]
   },
   {
     "id": "punjab-echs barnala-more-driver-clerk-pharmacist",
@@ -1427,7 +1937,7 @@
     "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/Advt%20for%20Barnala%20RC%20Chandimandir%20on%2020%20Nov.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-hbch&amp;rc-more-scientific-officer-it-assistant",
@@ -1444,7 +1954,7 @@
     "applyOnlineLink": "https://tmc.gov.in/postmaster/DownloadFile.aspx?FileId=2516",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-muktisar institute of higher education-assistant-professor",
@@ -1461,7 +1971,7 @@
     "applyOnlineLink": "https://facultyjobs.puchd.ac.in/uploads/advt/A482-advertisement-Advertiesment_College_29_10_20262.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-hbch-psychologist-tutor-walk-in-",
@@ -1478,7 +1988,7 @@
     "applyOnlineLink": "https://tmc.gov.in/postmaster/ViewFile?FileId=Q24ANDpliwpiMuGSB7s90A==",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-hbchrc-assistant-dietician-elv-technician-walk-in-",
@@ -1495,7 +2005,7 @@
     "applyOnlineLink": "https://tmc.gov.in/postmaster/DownloadFile.aspx?FileId=2499",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-aps old amritsar cantt-principal",
@@ -1512,7 +2022,7 @@
     "applyOnlineLink": "https://www.armyschoolasr.org.in/assets/pdf/OAC%20Advt_26102026.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-hbch-tutor-psychologist-walk-in-",
@@ -1529,7 +2039,7 @@
     "applyOnlineLink": "https://tmc.gov.in/postmaster/ViewFile?FileId=Q24ANDpliwpiMuGSB7s90A==",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-psou-senior-assistant-and-more-superintendent",
@@ -1546,7 +2056,7 @@
     "applyOnlineLink": "https://jobs.psou.ac.in/Login",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13",
+    "scrapedAt": "2026-11-14",
     "fees": [
       {
         "category": "General Category",
@@ -1658,7 +2168,7 @@
     "applyOnlineLink": "https://cdn.digialm.com/EForms/configuredHtml/1258/102008/NfZBa1oTtA8qQSS0xE/Index.html",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13",
+    "scrapedAt": "2026-11-14",
     "fees": [
       {
         "category": "Group A (Administrative Officer, Purchase & Stores Officer, Accounts Officer - SCL 2601, 2602, 2603)",
@@ -1910,7 +2420,7 @@
     "applyOnlineLink": "https://cdn.digialm.com//EForms/configuredHtml/2650/102705/2PZd1Mu2dpiCo1xDSD/Index.html",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13",
+    "scrapedAt": "2026-11-14",
     "fees": [
       {
         "category": "Persons with Benchmark Disabilities (PwBD)",
@@ -2027,7 +2537,7 @@
     "applyOnlineLink": "https://facultyjobs.puchd.ac.in/uploads/advt/A475-advertisement-advertisement_2026_(1)1.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   },
   {
     "id": "punjab-iiser mohali-assistant-professor",
@@ -2044,7 +2554,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/iiser-mohali-assistant-professor-recruitment-2026/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13",
+    "scrapedAt": "2026-11-14",
     "fees": [
       {
         "category": "Fee",
@@ -2152,6 +2662,6 @@
     "applyOnlineLink": "https://digital.gndu.ac.in/pdf/news/Advt._No._12_(2026)_20260820151330443.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-13"
+    "scrapedAt": "2026-11-14"
   }
 ]

@@ -89,12 +89,195 @@
     "district": "State Level",
     "vacancies": "37",
     "lastDate": "16-12-26",
-    "officialWebsite": "https://vikramdevuniversity.ac.in/API//writable/uploads/20261113/1794575396_798a6665693a635fef7c.pdf",
+    "officialWebsite": "https://vikramdevuniversity.ac.in",
     "notificationLink": "https://vikramdevuniversity.ac.in/API//writable/uploads/20261113/1794575396_798a6665693a635fef7c.pdf",
-    "applyOnlineLink": "https://vikramdevuniversity.ac.in/API//writable/uploads/20261113/1794575396_798a6665693a635fef7c.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/vdu-assistant-professor-recruitment-2026/",
     "state": "Odisha",
     "stateCode": "odisha",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-15",
+    "fees": [],
+    "dates": [
+      {
+        "event": "Advertisement Date (No. 1169/Estt/26)",
+        "date": "13/11/2026"
+      },
+      {
+        "event": "Walk-in Interview Start Date",
+        "date": "07/12/2026"
+      },
+      {
+        "event": "Walk-in Interview End Date",
+        "date": "16/12/2026"
+      },
+      {
+        "event": "Academic Session Commencement",
+        "date": "17/06/2027"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Head of Department (Professor/Associate Professor in Education)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor - Mathematics (Science Unit)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor - Physics (Science Unit)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor - Chemistry (Science Unit)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor - Zoology/Life Science/Bio Science (Science Unit)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor - Botany/Life Science/Bio Science (Science Unit)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor - Communicative Skill in English (Science Unit)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor - Communicative Skill in MIL/Odia (Science Unit)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor - Education Studies (Science Unit)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor - History (Humanities Unit)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor - Geography (Humanities Unit)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor - Political Science (Humanities Unit)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor - Economics (Humanities Unit)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor - English/MIL (Humanities Unit)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor - Communicative Skill in English (Humanities Unit)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor - Communicative Skill in MIL/Odia (Humanities Unit)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor - Education Studies (Humanities Unit)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor - Health & Physical Education (Part Time)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor - Arts Education (Part Time)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor - Career Guidance and Counselling (Part Time)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor - Master of Computer Science",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor - Master of Business Administration (MBA)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates must appear for Walk-in Interview as per the schedule published on the University website and in the advertisement.",
+      "Bring your CV along with all certificates and mark sheets from H.S.C. onwards, duly self-attested.",
+      "Bring original copies of all certificates and mark sheets for verification.",
+      "Report to the Conference Hall of Vikram Dev University, Jayapur at the scheduled date and time for your subject.",
+      "On selection, submit an affidavit on non-judicial stamp paper in the prescribed proforma as per NCTE norms.",
+      "Visit the official website vikramdevuniversity.ac.in for detailed information."
+    ]
   },
   {
     "id": "odisha-isro sdsc shar-technical-assistant-scientific-assistant-library-a",
@@ -3154,23 +3337,6 @@
     "scrapedAt": "2026-11-15"
   },
   {
-    "id": "odisha-berhampur university-senior-research-fellow",
-    "title": "Berhampur University Recruitment 2026 – Senior Research Fellow Posts",
-    "shortInfo": "Berhampur University has announced notification for Senior Research Fellow posts. Required qualification: Post Graduate, M.Sc. Last date to apply: 14-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "-",
-    "lastDate": "14-11-26",
-    "officialWebsite": "https://buodisha.edu.in/wp-content/uploads/2026/10/Advt-26_ISRO-Project_MSC_BU_Oct2026-Signed.pdf",
-    "notificationLink": "https://buodisha.edu.in/wp-content/uploads/2026/10/Advt-26_ISRO-Project_MSC_BU_Oct2026-Signed.pdf",
-    "applyOnlineLink": "https://buodisha.edu.in/wp-content/uploads/2026/10/Advt-26_ISRO-Project_MSC_BU_Oct2026-Signed.pdf",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-15"
-  },
-  {
     "id": "odisha-iop-scientific-assistant-b-electronics-",
     "title": "IOP Recruitment 2026 – Scientific Assistant-B (Electronics) Posts",
     "shortInfo": "IOP has announced notification for Scientific Assistant-B (Electronics) posts. Required qualification: B.Sc, Diploma. Last date to apply: 30-11-26.",
@@ -3529,23 +3695,6 @@
     "officialWebsite": "https://dg1ya6cdc7ief.cloudfront.net/Upload/career_post/94938a91f0a44fabb770a446cf304463_20261015130153242.pdf",
     "notificationLink": "https://dg1ya6cdc7ief.cloudfront.net/Upload/career_post/94938a91f0a44fabb770a446cf304463_20261015130153242.pdf",
     "applyOnlineLink": "https://dg1ya6cdc7ief.cloudfront.net/Upload/career_post/94938a91f0a44fabb770a446cf304463_20261015130153242.pdf",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-15"
-  },
-  {
-    "id": "odisha-ocpl-manager-medical-officer",
-    "title": "OCPL Recruitment 2026 – Manager, Medical Officer Posts",
-    "shortInfo": "OCPL has announced notification for Manager, Medical Officer posts. Required qualification: Member of ICAI, B.Tech / B.E, M.Sc, Diploma, M.E / M.Tech, MBBS. Last date to apply: 14-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "14",
-    "lastDate": "14-11-26",
-    "officialWebsite": "https://ocpl.org.in/Detailed_Advertisement_OCPL_HR_26_01.pdf",
-    "notificationLink": "https://ocpl.org.in/Detailed_Advertisement_OCPL_HR_26_01.pdf",
-    "applyOnlineLink": "https://ocpl.org.in/Detailed_Advertisement_OCPL_HR_26_01.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
     "scrapedAt": "2026-11-15"

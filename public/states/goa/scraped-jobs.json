@@ -284,12 +284,168 @@
     "district": "State Level",
     "vacancies": "38",
     "lastDate": "28-11-26",
-    "officialWebsite": "https://www.goa.gov.in/wp-content/uploads/2026/11/DOIT-REV_021180.pdf",
+    "officialWebsite": "https://www.goa.gov.in/",
     "notificationLink": "https://www.goa.gov.in/wp-content/uploads/2026/11/DOIT-REV_021180.pdf",
-    "applyOnlineLink": "https://www.goa.gov.in/wp-content/uploads/2026/11/DOIT-REV_021180.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/goa-srlm-recruitment-2026/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-15",
+    "fees": [],
+    "dates": [
+      {
+        "event": "Advertisement/Notification Date",
+        "date": "10/11/2026"
+      },
+      {
+        "event": "Walk-in Interview (Posts 01-05): Registration & Document Verification",
+        "date": "23/11/2026"
+      },
+      {
+        "event": "Walk-in Interview (Posts 01-05): Interview",
+        "date": "23/11/2026"
+      },
+      {
+        "event": "Walk-in Interview (Posts 06-08): Registration & Document Verification",
+        "date": "24/11/2026"
+      },
+      {
+        "event": "Walk-in Interview (Posts 06-08): Interview",
+        "date": "24/11/2026"
+      },
+      {
+        "event": "Walk-in Interview (Posts 09-10): Registration & Document Verification",
+        "date": "25/11/2026"
+      },
+      {
+        "event": "Walk-in Interview (Posts 09-10): Interview",
+        "date": "25/11/2026"
+      },
+      {
+        "event": "Walk-in Interview (Posts 11-13): Registration & Document Verification",
+        "date": "26/11/2026"
+      },
+      {
+        "event": "Walk-in Interview (Posts 11-13): Interview",
+        "date": "26/11/2026"
+      },
+      {
+        "event": "Walk-in Interview (Post 14 - Cluster Coordinator): Registration & Document Verification",
+        "date": "28/11/2026"
+      },
+      {
+        "event": "Walk-in Interview (Post 14 - Cluster Coordinator): Interview",
+        "date": "28/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "District Manager - Knowledge Management & Communication",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Block Manager - Institution Building & Capacity Building",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Block Manager - VA/ML/CD",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Block Manager - MIS",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Block Manager - Financial Inclusion (FI)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Block Manager - Social Inclusion & Social Development (SISD)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Block Manager - Farm Livelihood",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Block Manager - Non Farm Livelihood",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Mission Executive - Non Farm Livelihood",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Mission Executive - Financial Management",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Block Project Manager (BPM) under SVEP",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Personal Secretary (CEO & COO)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Office Assistant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Cluster Coordinator",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates possessing required essential qualifications, experience and age criteria may attend walk-in interview at 7th floor, Spaces Building, Patto, Panaji Goa on the date as indicated in the schedule.",
+      "Candidates must bring duly filled in prescribed application form along with supporting documents of proof of date of birth, qualifications and experience.",
+      "Separate applications should be submitted for each post, if applying for more than one post.",
+      "Incomplete applications, application not submitted in prescribed format and application without supportive documents shall be summarily rejected.",
+      "Candidates must bring all original certificates: (1) Educational qualification (2) Proof of Date of birth (3) Experience certificates/testimonials (4) One self-attested recent passport size photograph (5) ID Proof (Aadhar/PAN/Voter ID/Driving License etc.) (6) One set of self-attested photocopies of all documents (7) SC/ST/OBC Certificates, if applicable (8) 15 years valid Resident of Goa certificate issued by Competent Authority (9) Valid employment card issued by Competent Authority.",
+      "For Cluster Coordinator post, applications to be submitted to the respective Model Cluster Level Federation.",
+      "The advertisement and the prescribed application form is available on website https://www.goa.gov.in/."
+    ]
   },
   {
     "id": "goa-icar ccari-young-professional-i",

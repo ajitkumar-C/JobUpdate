@@ -676,21 +676,48 @@
     "scrapedAt": "2026-11-15"
   },
   {
-    "id": "punjab-aiims bathinda-senior-resident",
-    "title": "AIIMS Bathinda Recruitment 2026 – Senior Resident Posts",
-    "shortInfo": "AIIMS Bathinda has announced notification for Senior Resident posts. Required qualification: M.Phil / Ph.D, DNB, MS / MD. Last date to apply: 19-11-26.",
+    "id": "punjab-aiims bathinda-senior-resident-walk-in-",
+    "title": "AIIMS Bathinda Recruitment 2026 – Senior Resident (Walk-in) Posts",
+    "shortInfo": "AIIMS Bathinda has announced notification for Senior Resident (Walk-in) posts. Required qualification: M.Phil / Ph.D, DNB, MS / MD. Last date to apply: 18-11-26.",
     "category": "Others",
     "categoryIcon": "🏢",
     "categoryMarathi": "Others",
     "district": "State Level",
     "vacancies": "33",
-    "lastDate": "19-11-26",
-    "officialWebsite": "https://aiimsbathinda.edu.in/images/Reqruitment/20261109105128.pdf",
+    "lastDate": "18-11-26",
+    "officialWebsite": "https://www.aiimsbathinda.edu.in",
     "notificationLink": "https://aiimsbathinda.edu.in/images/Reqruitment/20261109105128.pdf",
-    "applyOnlineLink": "https://aiimsbathinda.edu.in/images/Reqruitment/20261109105128.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/aiims-bathinda-senior-resident-recruitment-2026/",
     "state": "Punjab",
     "stateCode": "punjab",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-15",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Walk-in Interview",
+        "date": "18/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Senior Resident (Non-Academic)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Fill the Google Form provided in the link.",
+      "Download and fill in the ‘Brief Profile of the Candidate’.",
+      "Bring the soft copy and all original documents with photocopies to the venue.",
+      "Report at the venue by 09:00 AM on 18th November 2026."
+    ]
   },
   {
     "id": "punjab-aiims bathinda-more-professor-assistant-professor",
@@ -1297,23 +1324,6 @@
       "Ensure the same e-mail ID and mobile number used in NAPS/NATS Portal are used in the Indian Oil Pipelines portal.",
       "The application window is from 06.11.2026 to 05.12.2026. No other mode of application will be accepted."
     ]
-  },
-  {
-    "id": "punjab-aps sangrur-tgt-more-prt",
-    "title": "APS Sangrur Recruitment 2026 – TGT, More, PRT Posts",
-    "shortInfo": "APS Sangrur has announced notification for TGT, More, PRT posts. Required qualification: D.El.Ed, B.El.Ed, B.Ed, Graduate, Post Graduate. Last date to apply: 14-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "7",
-    "lastDate": "14-11-26",
-    "officialWebsite": "https://www.apssangrur.edu.in/Vacanies.pdf",
-    "notificationLink": "https://www.apssangrur.edu.in/Vacanies.pdf",
-    "applyOnlineLink": "https://www.apssangrur.edu.in/Vacanies.pdf",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-11-15"
   },
   {
     "id": "punjab-hbch &amp; rc punjab-clinical-specialist",
@@ -1969,23 +1979,6 @@
     "officialWebsite": "https://tmc.gov.in/postmaster/DownloadFile.aspx?FileId=2499",
     "notificationLink": "https://tmc.gov.in/postmaster/DownloadFile.aspx?FileId=2499",
     "applyOnlineLink": "https://tmc.gov.in/postmaster/DownloadFile.aspx?FileId=2499",
-    "state": "Punjab",
-    "stateCode": "punjab",
-    "scrapedAt": "2026-11-15"
-  },
-  {
-    "id": "punjab-aps old amritsar cantt-principal",
-    "title": "APS Old Amritsar Cantt Recruitment 2026 – Principal Posts",
-    "shortInfo": "APS Old Amritsar Cantt has announced notification for Principal posts. Required qualification: Any Post Graduate, B.Ed. Last date to apply: 14-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "14-11-26",
-    "officialWebsite": "https://www.armyschoolasr.org.in/assets/pdf/OAC%20Advt_26102026.pdf",
-    "notificationLink": "https://www.armyschoolasr.org.in/assets/pdf/OAC%20Advt_26102026.pdf",
-    "applyOnlineLink": "https://www.armyschoolasr.org.in/assets/pdf/OAC%20Advt_26102026.pdf",
     "state": "Punjab",
     "stateCode": "punjab",
     "scrapedAt": "2026-11-15"

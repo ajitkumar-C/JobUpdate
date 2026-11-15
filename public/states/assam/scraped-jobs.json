@@ -1,5 +1,175 @@
 [
   {
+    "id": "assam-kkhsou-assistant-professor",
+    "title": "KKHSOU Recruitment 2026 – Assistant Professor Posts",
+    "shortInfo": "KKHSOU has announced notification for Assistant Professor posts. Required qualification: Master's Degree, NET/SLET/SET. Last date to apply: 27-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "53",
+    "lastDate": "27-11-26",
+    "officialWebsite": "https://kkhsou.ac.in",
+    "notificationLink": "https://kkhsou.ac.in/web/storage/uploads/news/Nov_2026/Advt-for-Contractual-Teachers-20261115020022.pdf",
+    "applyOnlineLink": "https://kkhsourec.samarth.edu.in/",
+    "state": "Assam",
+    "stateCode": "assam",
+    "scrapedAt": "2026-11-15",
+    "fees": [
+      {
+        "category": "Unreserved (UR) Candidates",
+        "fee": "₹400/-"
+      },
+      {
+        "category": "Reserved Category Candidates",
+        "fee": "₹200/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last date for online submission of application form, payment of application fee and downloading of PDF copy",
+        "date": "27/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Assistant Professor (Contractual) - Assamese",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Contractual) - Bengali",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Contractual) - Chemistry",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Contractual) - Commerce",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Contractual) - Computer Science",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Contractual) - English",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Contractual) - Hindi",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Contractual) - History",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Contractual) - Library Science",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Contractual) - Management",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Contractual) - Mathematics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Contractual) - Philosophy",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Contractual) - Physics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Contractual) - Political Science",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Contractual) - Sanskrit",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Contractual) - Sociology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Contractual) - Social Work",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Contractual) - Yoga",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official application portal of Krishna Kanta Handiqui State Open University (KKHSOU).",
+      "Fill in the online application form with all required details accurately.",
+      "Pay the non-refundable application fee online through the payment gateway link(s) provided in the application portal.",
+      "Download the PDF copy of the submitted application form before the deadline of 27 November 2026, 11:59 p.m.",
+      "Take a printout of the application form and enclose proof of payment along with the hard copy.",
+      "Submit the hard copy of the duly completed application along with self-attested copies of all relevant supporting documents at the time of the interview.",
+      "Produce all original certificates, testimonials and other relevant documents for verification at the time of the interview."
+    ]
+  },
+  {
     "id": "assam-nid assam-visiting-medical-officer",
     "title": "NID Assam Recruitment 2026 – Visiting Medical Officer Posts",
     "shortInfo": "NID Assam has announced notification for Visiting Medical Officer posts. Required qualification: MBBS. Last date to apply: 29-11-26.",
@@ -1570,23 +1740,6 @@
     "scrapedAt": "2026-11-15"
   },
   {
-    "id": "assam-cmaaa society assam-chief-minister-s-fellow",
-    "title": "CMAAA Society Assam Recruitment 2026 – Chief Minister’s Fellow Posts",
-    "shortInfo": "CMAAA Society Assam has announced notification for Chief Minister’s Fellow posts. Required qualification: MBA / PGDM. Last date to apply: 14-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "-",
-    "lastDate": "14-11-26",
-    "officialWebsite": "https://niyukti.assam.gov.in/cand_payment/file_display/NWI4Y2ViMTYyMDg4MzQzZGI3M2E2ZDIzZWFhYjQ0ZTkxYmUwZmZjNTFiOTE4ZjUzZDhlZDFlNDYwNTRjZjIwNGZjNzEyNDQ4ZjllNThmZTI1MmMyM2Y0NzRhNjFiNDVlZTQ3YmI3NjQ5ZTlkZjQ0MzhkMjg2MWFjNGE2YWM1ZTVOaEV0NGhRbDhod1c4TXNFaXY4Y1p6WmlyU0ltVTBpRnlKb1BlTlpIL3lUWHlFcVdnS25mbUtuZ3p6eXE0c29vUjhPS2tSb01EeGplejU5cXJlZXAzUT09",
-    "notificationLink": "https://niyukti.assam.gov.in/cand_payment/file_display/NWI4Y2ViMTYyMDg4MzQzZGI3M2E2ZDIzZWFhYjQ0ZTkxYmUwZmZjNTFiOTE4ZjUzZDhlZDFlNDYwNTRjZjIwNGZjNzEyNDQ4ZjllNThmZTI1MmMyM2Y0NzRhNjFiNDVlZTQ3YmI3NjQ5ZTlkZjQ0MzhkMjg2MWFjNGE2YWM1ZTVOaEV0NGhRbDhod1c4TXNFaXY4Y1p6WmlyU0ltVTBpRnlKb1BlTlpIL3lUWHlFcVdnS25mbUtuZ3p6eXE0c29vUjhPS2tSb01EeGplejU5cXJlZXAzUT09",
-    "applyOnlineLink": "https://niyukti.assam.gov.in/cand_payment/file_display/NWI4Y2ViMTYyMDg4MzQzZGI3M2E2ZDIzZWFhYjQ0ZTkxYmUwZmZjNTFiOTE4ZjUzZDhlZDFlNDYwNTRjZjIwNGZjNzEyNDQ4ZjllNThmZTI1MmMyM2Y0NzRhNjFiNDVlZTQ3YmI3NjQ5ZTlkZjQ0MzhkMjg2MWFjNGE2YWM1ZTVOaEV0NGhRbDhod1c4TXNFaXY4Y1p6WmlyU0ltVTBpRnlKb1BlTlpIL3lUWHlFcVdnS25mbUtuZ3p6eXE0c29vUjhPS2tSb01EeGplejU5cXJlZXAzUT09",
-    "state": "Assam",
-    "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
-  },
-  {
     "id": "assam-echs missamari-medical-officer-nursing-assistant",
     "title": "ECHS Missamari Recruitment 2026 – Medical Officer, Nursing Assistant Posts",
     "shortInfo": "ECHS Missamari has announced notification for Medical Officer, Nursing Assistant posts. Required qualification: MBBS, Diploma, GNM. Last date to apply: 19-11-26.",
@@ -1706,40 +1859,6 @@
     "scrapedAt": "2026-11-15"
   },
   {
-    "id": "assam-amch-technical-coordinator",
-    "title": "AMCH Recruitment 2026 – Technical Coordinator Posts",
-    "shortInfo": "AMCH has announced notification for Technical Coordinator posts. Required qualification: MSW, MPH. Last date to apply: 14-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "14-11-26",
-    "officialWebsite": "https://amch-dibrugarh.assam.gov.in/sites/default/files/public_utility/Walk%20In%20Interview%20COE.pdf",
-    "notificationLink": "https://amch-dibrugarh.assam.gov.in/sites/default/files/public_utility/Walk%20In%20Interview%20COE.pdf",
-    "applyOnlineLink": "https://amch-dibrugarh.assam.gov.in/sites/default/files/public_utility/Walk%20In%20Interview%20COE.pdf",
-    "state": "Assam",
-    "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
-  },
-  {
-    "id": "assam-amch-technical-coordinator-walk-in-",
-    "title": "AMCH Recruitment 2026 – Technical Coordinator (Walk-in) Posts",
-    "shortInfo": "AMCH has announced notification for Technical Coordinator (Walk-in) posts. Required qualification: MPH, MSW, Post Graduate. Last date to apply: 14-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "14-11-26",
-    "officialWebsite": "https://amch-dibrugarh.assam.gov.in/sites/default/files/public_utility/Walk%20In%20Interview%20COE.pdf",
-    "notificationLink": "https://amch-dibrugarh.assam.gov.in/sites/default/files/public_utility/Walk%20In%20Interview%20COE.pdf",
-    "applyOnlineLink": "https://amch-dibrugarh.assam.gov.in/sites/default/files/public_utility/Walk%20In%20Interview%20COE.pdf",
-    "state": "Assam",
-    "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
-  },
-  {
     "id": "assam-gurucharan university-assistant-professor-controller-of-examination",
     "title": "Gurucharan University Recruitment 2026 – Assistant Professor, Controller of Examination Posts",
     "shortInfo": "Gurucharan University has announced notification for Assistant Professor, Controller of Examination posts. Required qualification: M.Phil / Ph.D, Post Graduate. Last date to apply: 21-11-26.",
@@ -1768,28 +1887,19 @@
     "lastDate": "19,",
     "officialWebsite": "https://ircon.org",
     "notificationLink": "https://ircon.org/sites/default/files/2026-10/C_12_Manager_Electrical24_10_2026.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/ircon-manager-recruitment-2026/",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/ircon-manager-electrical-recruitment-2026/",
     "state": "Assam",
     "stateCode": "assam",
     "scrapedAt": "2026-11-15",
-    "fees": [
-      {
-        "category": "Fee",
-        "fee": "Not Mentioned"
-      }
-    ],
+    "fees": [],
     "dates": [
       {
-        "event": "Advertisement Date",
+        "event": "Notification Date",
         "date": "23/10/2026"
       },
       {
-        "event": "Walk-in Interview at Kolkata (Eastern Region)",
-        "date": "19/11/2026"
-      },
-      {
-        "event": "Walk-in Interview at Kolkata (Eastern Region)",
-        "date": "20/11/2026"
+        "event": "Walk-in Interview at Kolkata (Eastern Region) (19-20 November 2026)",
+        "date": ""
       },
       {
         "event": "Walk-in Interview at Guwahati, Assam",
@@ -1798,7 +1908,7 @@
     ],
     "vacancyList": [
       {
-        "postName": "Manager/Electrical (Contract)",
+        "postName": "Manager/Electrical (on Contract)",
         "count": "",
         "qualification": "",
         "ageLimit": "",
@@ -1806,13 +1916,12 @@
       }
     ],
     "howToApply": [
-      "Candidates should ensure they fulfill all eligibility criteria before reporting for Walk-in Interview.",
-      "Register at the respective venue as per the schedule (Registration starts at 09:30 AM, closes at 1:00 PM).",
-      "Bring one set of photocopies along with originals of: Application typed on A-4 size paper in the prescribed format, Experience Certificates in chronological order (with last two months’ salary slip for present employment), Date of Birth/Class X passing certificate, Caste/EWS/Age relaxation certificate (in prescribed GoI format), Qualification Degree/Diploma and all semester/year mark sheets.",
-      "OBC candidates must bring a caste certificate issued in the current financial year as proof of not belonging to the creamy layer.",
-      "Candidates with CGPA/OGPA/DGPA should bring a conversion certificate from their university/institute if applicable.",
-      "No request for change of date, time, or location will be entertained.",
-      "For queries, email: recruitment@ircon.org"
+      "Before reporting for Walk-in-Interview, candidates should ensure that they fulfill all the eligibility criteria mentioned in the advertisement.",
+      "Applicants who consider themselves eligible should register themselves as per the schedule and bring one set of photocopies along with Originals: Application typed on A-4 size paper in the prescribed format, Experience Certificates in chronological order (with last two months’ salary slip for present employment), Date of Birth/Class X certificate, Caste/EWS/Age relaxation certificate, and Qualification Degree/Diploma with all semester/year mark sheets.",
+      "Registration for Walk-in-Interview shall start at 09:30 AM at the respective location. Candidates may register up to 1:00 PM only on the mentioned date and location.",
+      "No request for change of date, time, and location for any post would be entertained.",
+      "Only eligible applicants will be interviewed. Applicants must bring original certificates in proof of age, community, educational qualifications, and experience.",
+      "In case of doubt/query/clarification, mail at recruitment@ircon.org."
     ]
   },
   {
@@ -1899,193 +2008,6 @@
     "state": "Assam",
     "stateCode": "assam",
     "scrapedAt": "2026-11-15"
-  },
-  {
-    "id": "assam-oil india-senior-officer-superintending-research-scientist",
-    "title": "Oil India Recruitment 2026 – Senior Officer, Superintending Research Scientist Posts",
-    "shortInfo": "Oil India has announced notification for Senior Officer, Superintending Research Scientist posts. Required qualification: M.E / M.Tech, M.Phil / Ph.D, ICMAI, B.Tech / B.E, M.A, M.Sc, Any Graduate. Last date to apply: 14-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "32",
-    "lastDate": "14-11-26",
-    "officialWebsite": "https://www.oil-india.com/",
-    "notificationLink": "https://govtjobguru.in/wp-content/uploads/2026/10/Oil-india-recruitmebt-2026.pdf",
-    "applyOnlineLink": "https://cdn.digialm.com/EForms/configuredHtml/1258/101869/cLS13NVBAyZXSMfBYd/Index.html",
-    "state": "Assam",
-    "stateCode": "assam",
-    "scrapedAt": "2026-11-15",
-    "fees": [
-      {
-        "category": "General / OBC (NCL)",
-        "fee": "Rs. 500 + Applicable Taxes"
-      },
-      {
-        "category": "SC / ST / PwBD / EWS / Ex-Servicemen",
-        "fee": "Nil"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Opening of OIL website for online submission of application",
-        "date": "15/10/2026"
-      },
-      {
-        "event": "Last date for submission of online application",
-        "date": "14/11/2026"
-      },
-      {
-        "event": "Date of Computer Based Test (CBT)",
-        "date": "28/12/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Superintending Research Scientist (CH-01)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Officer (Mechanical) (ME-02)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Officer (Petroleum) (PE-03)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Senior Accounts Officer / Senior Internal Auditor (AC-04)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Hindi Officer - Official Language (HO-05)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Confidential Secretary (CS-06)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit OIL’s official website (www.oil-india.com) and click on the ‘Click Here’ hyperlink to initiate registration.",
-      "Step-I: Register by filling Personal Details and Contact Details. An OTP will be sent to your registered Mobile No. and E-mail ID. Enter both OTPs to verify. Accept terms &amp; conditions and click Submit. You will receive an Application Sequence No. (User ID) and Password.",
-      "Step-II: Re-login using User ID and Password. Fill in Personal Details, Additional Details, Communication Details, Qualification Details, Experience Details, and Declaration. Upload scanned photograph (JPG/JPEG, 100KB–200KB, 3.5cm x 4.5cm) and signature (JPG/JPEG, 80KB–150KB).",
-      "Preview the application and verify all details. Edit if required before final submission.",
-      "Submit the application. After submission, pay the applicable non-refundable application fee of Rs. 500/- (plus applicable taxes) via SBI e-Pay Lite Payment Gateway. SC/ST/PwBD/EWS/Ex-Servicemen are exempted from fee.",
-      "After successful payment, print/save the submitted Application Form in PDF for future reference.",
-      "Ensure your e-mail ID and mobile number remain valid throughout the recruitment process.",
-      "For technical queries, contact Help Desk at Phone No: 9513253397 (Monday to Friday, 10 AM to 5 PM)."
-    ]
-  },
-  {
-    "id": "assam-slrc assam-field-assistant-statistics-enumerator",
-    "title": "SLRC Assam Recruitment 2026 – Field Assistant (Statistics) / Enumerator Posts",
-    "shortInfo": "SLRC Assam has announced notification for Field Assistant (Statistics) / Enumerator posts. Required qualification: Any Bachelor's Degree. Last date to apply: 14-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "72",
-    "lastDate": "14-11-26",
-    "officialWebsite": "https://assam.gov.in",
-    "notificationLink": "https://assam.gov.in/sites/default/files/2026-09/Advt.%20for%2072%20FA%28stats%29%20Enumerator%2C%20AHV%20deptt.%20%282%29.pdf",
-    "applyOnlineLink": "https://formsrec.in/SLRC_III_FASE/WebPages/instruction.php",
-    "state": "Assam",
-    "stateCode": "assam",
-    "scrapedAt": "2026-11-15",
-    "fees": [
-      {
-        "category": "All Categories",
-        "fee": "No Fee"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Starting Date of Application",
-        "date": "15/10/2026"
-      },
-      {
-        "event": "Last Date of Application",
-        "date": "14/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Field Assistant (Statistics)/Enumerator (Open Category)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Field Assistant (Statistics)/Enumerator (OBC/MOBC)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Field Assistant (Statistics)/Enumerator (OBC Tea Tribes & Adivasi Community)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Field Assistant (Statistics)/Enumerator (SC)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Field Assistant (Statistics)/Enumerator (ST-P)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Field Assistant (Statistics)/Enumerator (ST-H)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Field Assistant (Statistics)/Enumerator (Total)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the official website: www.sebaonline.org",
-      "Click on the online application link for Field Assistant (Statistics)/Enumerator under ISS.",
-      "Fill in the required personal, educational, and other details in the application form.",
-      "Upload all required documents including educational certificates, caste certificate (if applicable), Computer Course Certificate, Employment Exchange registration certificate, Ex-Servicemen Identity Card and Discharge Book (if applicable), and PwBD certificate (if applicable).",
-      "Submit the application form online before the last date i.e., 14th November, 2026 (23:59 PM).",
-      "No application fee is required for any category."
-    ]
   },
   {
     "id": "assam-dlsa west karbi anglong-para-legal-volunteer",

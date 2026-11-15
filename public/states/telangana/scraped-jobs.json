@@ -1384,23 +1384,6 @@
     "scrapedAt": "2026-11-15"
   },
   {
-    "id": "telangana-uoh-project-associate-1-junior-research-fellow-jrf-",
-    "title": "UoH Recruitment 2026 – Project Associate 1, Junior Research Fellow (JRF) Posts",
-    "shortInfo": "UoH has announced notification for Project Associate 1, Junior Research Fellow (JRF) posts. Required qualification: M.E / M.Tech, B.Tech / B.E, M.Phil / Ph.D, M.Sc. Last date to apply: 14-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "14-11-26",
-    "officialWebsite": "https://uohyd.ac.in/careers-uoh/files/postings/12008.pdf",
-    "notificationLink": "https://uohyd.ac.in/careers-uoh/files/postings/12008.pdf",
-    "applyOnlineLink": "https://uohyd.ac.in/careers-uoh/files/postings/12008.pdf",
-    "state": "Telangana",
-    "stateCode": "telangana",
-    "scrapedAt": "2026-11-15"
-  },
-  {
     "id": "telangana-aiims bibinagar-senior-resident",
     "title": "AIIMS Bibinagar Recruitment 2026 – Senior Resident Posts",
     "shortInfo": "AIIMS Bibinagar has announced notification for Senior Resident posts. Required qualification: DM, DNB, MS / MD. Last date to apply: 15-11-26.",
@@ -2035,23 +2018,6 @@
     "scrapedAt": "2026-11-15"
   },
   {
-    "id": "telangana-aiims bibinagar-guest-faculty",
-    "title": "AIIMS Bibinagar Recruitment 2026 – Guest Faculty Posts",
-    "shortInfo": "AIIMS Bibinagar has announced notification for Guest Faculty posts. Required qualification: Post Graduate. Last date to apply: 14-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "3",
-    "lastDate": "14-11-26",
-    "officialWebsite": "https://aiimsbibinagar.edu.in/pdf/Guest%20Faculty%20Advertisement_27102026.pdf",
-    "notificationLink": "https://aiimsbibinagar.edu.in/pdf/Guest%20Faculty%20Advertisement_27102026.pdf",
-    "applyOnlineLink": "https://aiimsbibinagar.edu.in/pdf/Guest%20Faculty%20Advertisement_27102026.pdf",
-    "state": "Telangana",
-    "stateCode": "telangana",
-    "scrapedAt": "2026-11-15"
-  },
-  {
     "id": "telangana-arci-technician-a-assistant-and-more",
     "title": "ARCI Recruitment 2026 – Technician A, Assistant and More Posts",
     "shortInfo": "ARCI has announced notification for Technician A, Assistant and More posts. Required qualification: ITI, MBA / PGDM, Any Graduate, 10TH, B.Tech / B.E, B.Sc, Diploma. Last date to apply: 21-11-26.",
@@ -2198,11 +2164,68 @@
     "district": "State Level",
     "vacancies": "34",
     "lastDate": "30-11-26",
-    "officialWebsite": "https://nitw.ac.in/api/static/files/faculty_rec_2026_2026-10-14-12-10-11.pdf",
+    "officialWebsite": "https://nitw.ac.in/",
     "notificationLink": "https://nitw.ac.in/api/static/files/faculty_rec_2026_2026-10-14-12-10-11.pdf",
-    "applyOnlineLink": "https://nitw.ac.in/api/static/files/faculty_rec_2026_2026-10-14-12-10-11.pdf",
+    "applyOnlineLink": "https://recruit.nitw.ac.in/",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-15",
+    "fees": [
+      {
+        "category": "Unreserved/OBCNCL/EWS",
+        "fee": "₹2000"
+      },
+      {
+        "category": "SC/ST/PwD",
+        "fee": "₹1000"
+      },
+      {
+        "category": "Indian citizens applying from abroad",
+        "fee": "$50"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date to Apply",
+        "date": "30/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Professor",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor Grade I",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor Grade II",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Go to the official recruitment portal.",
+      "Fill in the application form for the desired position.",
+      "Upload required documents.",
+      "Pay the applicable application fee.",
+      "Submit the application before the last date."
+    ]
   }
 ]

@@ -43,6 +43,9 @@ const stateCodes = [
   'sikkim', 'tamilnadu', 'telangana', 'tripura', 'up', 'uttarakhand', 'wb'
 ];
 
+// Define qualification slugs for targeted education level hubs
+const qualificationSlugs = ['10th-pass', '12th-pass', 'graduate'];
+
 function generateSitemap() {
   console.log('🌐 Generating sitemap.xml...');
 
@@ -73,6 +76,15 @@ function generateSitemap() {
       loc: `${BASE_URL}/state/${code}`,
       changefreq: 'daily',
       priority: code === 'up' || code === 'bihar' || code === 'delhi' ? '0.9' : '0.8'
+    });
+  });
+
+  // 4. Add qualification hub pages
+  qualificationSlugs.forEach(slug => {
+    urls.push({
+      loc: `${BASE_URL}/jobs/${slug}`,
+      changefreq: 'daily',
+      priority: '0.9'
     });
   });
 

@@ -980,6 +980,282 @@ export function prerender() {
     });
   }
 
+  // ==========================================
+  // F. PRE-RENDER ENGINEERED QUALIFICATION HUBS (10th, 12th, Graduate)
+  // ==========================================
+  console.log('🎓 Pre-rendering Engineered Qualification Hubs (10th Pass, 12th Pass, Graduate)...');
+
+  const qualificationMeta = {
+    '10th-pass': {
+      slug: '10th-pass',
+      name: '10th Pass (Matriculation)',
+      badge: 'Matriculation Entry',
+      title: '10th Pass Govt Jobs 2026: Matric / High School Sarkari Naukri Vacancies | Sarkari Aavedan',
+      desc: 'Latest 10th pass government jobs in India 2026. Explore SSC MTS, Railway Group D, India Post GDS, Defence Agniveer, and Police Constable recruitments.',
+      level: 'Matriculation / Class 10 (Secondary Examination)',
+      intro: 'Candidates who have passed Class 10 (Matriculation) from any recognized board are eligible for over 100,000+ government vacancies annually across Staff Selection Commission (SSC MTS/Havaldar), Indian Railways (RRC Group D / Level-1), India Post (Gramin Dak Sevak GDS), and Defence Forces (Agniveer GD/Tradesman). In-hand salaries range from ₹22,000 to ₹31,000 per month with complete job security and pension benefits.',
+      regex: /\b(10th|matric|matriculation|high\s*school|highschool|mts|havaldar|gds|gramin dak sevak|group\s*d|agniveer\s*tradesman|safai|peon)\b/i,
+      calendar: [
+        { name: 'SSC MTS & Havaldar', body: 'Staff Selection Commission (SSC)', month: 'May – July (Annual)', vacancies: '8,000 – 12,000 Posts', mode: 'CBT Exam (No Interview)' },
+        { name: 'India Post GDS', body: 'Department of Posts (India Post)', month: 'January & July (Biannual)', vacancies: '30,000 – 44,000 Posts', mode: '10th Board Merit (No Exam)' },
+        { name: 'Railway RRC Group D', body: 'Railway Recruitment Control Board', month: 'RRB Annual Cycle', vacancies: '30,000+ Posts', mode: 'CBT + Physical (PET)' },
+        { name: 'Indian Army Agniveer GD', body: 'Indian Army', month: 'Rally-Wise Schedule', vacancies: '25,000+ Posts', mode: 'CEE Exam + Physical Test' }
+      ],
+      salary: [
+        { role: 'SSC Multi-Tasking Staff (MTS)', level: 'Pay Level 1', basic: '₹18,000', inhand: '₹26,500 – ₹31,200', perks: 'DA (53%) + HRA + TA' },
+        { role: 'Railway Trackman / Helper (Group D)', level: 'Pay Level 1', basic: '₹18,000', inhand: '₹27,000 – ₹33,500', perks: 'DA + HRA + Risk Allowance' },
+        { role: 'India Post GDS (Branch Postmaster)', level: 'TRCA Slab 2', basic: '₹12,000', inhand: '₹14,500 – ₹17,000', perks: 'TRCA Allowance + DA' }
+      ],
+      faqs: [
+        { q: 'Which is the best government job for 10th pass candidates in 2026?', a: 'The top central government recruitments for 10th pass candidates are SSC MTS & Havaldar and Railway RRC Group D (Level-1). Both offer central pay commission benefits, healthcare (CGHS), and in-hand salary of ₹26,000–₹32,000.' },
+        { q: 'Can I get a sarkari job after 10th without any written exam?', a: 'Yes. India Post Gramin Dak Sevak (GDS) recruitment for Branch Postmaster (BPM) and Assistant Branch Postmaster (ABPM) does not conduct any written examination. Selection is prepared purely based on 10th board marks.' },
+        { q: 'What is the age limit for 10th pass government vacancies?', a: 'The general age bracket is 18 to 25 or 27 years. For Railway Group D, the upper age limit is 33 years. Reserved categories receive standard relaxations: OBC gets 3 years, SC/ST gets 5 years, and PwD gets 10 years.' }
+      ]
+    },
+    '12th-pass': {
+      slug: '12th-pass',
+      name: '12th Pass (Intermediate)',
+      badge: 'Intermediate Entry',
+      title: '12th Pass Govt Jobs 2026: Intermediate / 10+2 Sarkari Vacancies | Sarkari Aavedan',
+      desc: 'Latest 12th pass government jobs in India 2026. Apply for SSC CHSL, State Police Constable, Railway Junior Clerk, Stenographer, and Defence NDA recruitments.',
+      level: 'Intermediate / Higher Secondary (10+2 Standard)',
+      intro: 'Candidates with a 10+2 (Intermediate / Higher Secondary) qualification from Arts, Science, or Commerce streams can apply for premier clerical, administrative, and defence positions across SSC CHSL (Lower Division Clerk / Data Entry Operator), State Police Constables (UP, MP, Bihar, Maharashtra), Railway Undergraduate Posts (Junior Clerk cum Typist), and National Defence Academy (NDA). Monthly in-hand salaries range from ₹28,000 to ₹42,000.',
+      regex: /\b(12th|10\+2|intermediate|inter\s*pass|senior\s*secondary|chsl|stenographer|steno|clerk|ldc|lower\s*division|junior\s*assistant|constable|head\s*constable|nda)\b/i,
+      calendar: [
+        { name: 'SSC CHSL (LDC / DEO / JSA)', body: 'Staff Selection Commission (SSC)', month: 'March – May (Annual)', vacancies: '4,000 – 6,000 Posts', mode: 'Tier 1 CBT + Tier 2 CBT & Typing' },
+        { name: 'State Police Constable Bharti', body: 'State Police Boards (UP, Bihar, Maha)', month: 'State-wise Cycles', vacancies: '60,000+ Posts', mode: 'Written Test + Physical PET/PST' },
+        { name: 'SSC Stenographer (Grade C & D)', body: 'Staff Selection Commission (SSC)', month: 'July – September', vacancies: '2,000 – 3,500 Posts', mode: 'CBT Exam + Shorthand Dictation' },
+        { name: 'UPSC National Defence Academy (NDA)', body: 'UPSC', month: 'NDA I (April) & NDA II (Sept)', vacancies: '400+ Officers', mode: 'Written (Maths+GAT) + 5-Day SSB' }
+      ],
+      salary: [
+        { role: 'SSC CHSL Data Entry Operator (DEO)', level: 'Pay Level 4', basic: '₹25,500', inhand: '₹37,500 – ₹43,200', perks: 'DA (53%) + HRA + TA' },
+        { role: 'State Police Constable', level: 'Pay Level 3', basic: '₹21,700', inhand: '₹31,500 – ₹36,800', perks: 'Ration Money + Uniform + HRA + DA' },
+        { role: 'Railway Junior Clerk cum Typist', level: 'Pay Level 2', basic: '₹19,900', inhand: '₹30,000 – ₹35,000', perks: 'Free Railway Pass + DA + HRA' }
+      ],
+      faqs: [
+        { q: 'Which is the highest-paying government job for 12th pass in India?', a: 'SSC CHSL Data Entry Operator (DEO) Grade A in Pay Level 4 (in-hand ~₹38,000–₹43,000) and officer cadet entry through UPSC NDA (stipend ₹56,100 during training) are the top-paying paths for 12th pass candidates.' },
+        { q: 'Can Arts or Commerce students apply for SSC CHSL?', a: 'Yes! 12th pass students from any stream (Arts, Commerce, or Science) are eligible for Lower Division Clerk (LDC), Junior Secretariat Assistant (JSA), and general DEO posts in SSC CHSL.' },
+        { q: 'What is the standard typing speed required for 12th pass clerk jobs?', a: 'Most central and state clerk recruitments mandate a computer typing speed of 35 words per minute (wpm) in English or 30 wpm in Hindi.' }
+      ]
+    },
+    'graduate': {
+      slug: 'graduate',
+      name: 'Graduate (Degree Level)',
+      badge: 'Officer & Graduate Entry',
+      title: 'Graduate Govt Jobs 2026: Degree Level Sarkari Naukri Vacancies | Sarkari Aavedan',
+      desc: 'Top government jobs for graduates 2026 (BA, BSc, BCom, BTech). Apply for SSC CGL, UPSC Civil Services, Bank PO, State PSCs, and Railway NTPC Graduate recruitments.',
+      level: 'Bachelor\'s Degree (BA / BSc / BCom / BTech / Any Stream)',
+      intro: 'Graduates holding any Bachelor\'s degree from a recognized university can access India\'s most prestigious officer-level government jobs through SSC CGL (Income Tax Inspector, ASO in Central Ministries, GST Inspector), UPSC Civil Services (IAS, IPS, IRS), Banking (SBI PO, IBPS PO), and State Public Service Commissions (MPSC, UPPSC, BPSC). Starting monthly salaries range from ₹55,000 to ₹95,000 with government accommodation, official transport, and high administrative authority.',
+      regex: /\b(graduate|graduation|degree|bachelor|b\.?a\b|b\.?sc\b|b\.?com\b|b\.?tech\b|b\.?e\b|cgl|probationary\s*officer|\bpo\b|inspector|sub\s*inspector|\bsi\b|assistant\s*manager|officer|civil\s*services|upsc|mpsc|uppsc|bpsc)\b/i,
+      calendar: [
+        { name: 'SSC Combined Graduate Level (CGL)', body: 'Staff Selection Commission (SSC)', month: 'June – August (Annual)', vacancies: '12,000 – 18,000 Posts', mode: 'Tier 1 CBT + Tier 2 CBT & Typing' },
+        { name: 'UPSC Civil Services Examination (CSE)', body: 'Union Public Service Commission (UPSC)', month: 'February (Notification)', vacancies: '1,000+ Officers', mode: 'Prelims + Mains + Interview' },
+        { name: 'IBPS / SBI Probationary Officer (PO)', body: 'IBPS & State Bank of India', month: 'August – October', vacancies: '6,000 – 9,000 Officers', mode: 'Prelims + Mains + Interview' },
+        { name: 'Railway RRB NTPC (Station Master)', body: 'Railway Recruitment Control Board', month: 'Annual RRB Calendar', vacancies: '8,000 – 15,000 Posts', mode: 'CBT 1 + CBT 2 + CBAT Aptitude' }
+      ],
+      salary: [
+        { role: 'Assistant Section Officer (ASO) in CSS / MEA', level: 'Pay Level 7', basic: '₹44,900', inhand: '₹68,000 – ₹78,500', perks: 'DA (53%) + HRA (30%) + TA + CGHS' },
+        { role: 'Inspector of Income Tax / Central GST', level: 'Pay Level 7', basic: '₹44,900', inhand: '₹68,000 – ₹78,500', perks: 'DA + HRA + Uniform + Petrol Reimbursement' },
+        { role: 'State Bank of India PO (Scale I)', level: 'JMGS-I', basic: '₹41,960', inhand: '₹65,000 – ₹75,000', perks: 'Bank Leased Housing + Medical + Allowances' }
+      ],
+      faqs: [
+        { q: 'Can final year degree students apply for SSC CGL 2026?', a: 'Yes! Final year Bachelor\'s degree students can apply for SSC CGL provided they receive their qualifying degree certificate on or before the crucial educational cutoff date.' },
+        { q: 'Is there any minimum percentage required in graduation for govt jobs?', a: 'For SSC CGL, UPSC Civil Services, and Railway NTPC, a simple pass from any UGC-recognized university is eligible. Some specialized banking and regulatory recruitments (like RBI Grade B) mandate 60% aggregate marks.' },
+        { q: 'Can B.Tech / Engineering graduates apply for SSC CGL and Bank PO?', a: 'Yes, absolutely. Engineering graduates are 100% eligible for all general graduate recruitments including SSC CGL, UPSC, Bank PO, and State PCS.' }
+      ]
+    }
+  };
+
+  Object.values(qualificationMeta).forEach(qData => {
+    // Filter matching active jobs
+    const matchedJobs = allScrapedJobs.filter(j => {
+      const text = (
+        (j.title || '') + ' ' + 
+        (j.shortInfo || '') + ' ' + 
+        (j.vacancies || []).map(v => (v.postName || '') + ' ' + (v.eligibility || '')).join(' ')
+      );
+      return qData.regex.test(text);
+    });
+
+    const qCanonical = `${BASE_URL}/jobs/${qData.slug}`;
+
+    const collectionSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'CollectionPage',
+      'name': qData.title,
+      'description': qData.desc,
+      'url': qCanonical
+    };
+
+    const breadcrumbSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'BreadcrumbList',
+      'itemListElement': [
+        { '@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': BASE_URL },
+        { '@type': 'ListItem', 'position': 2, 'name': 'Jobs by Qualification', 'item': `${BASE_URL}/jobs/${qData.slug}` },
+        { '@type': 'ListItem', 'position': 3, 'name': qData.name, 'item': qCanonical }
+      ]
+    };
+
+    const faqSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      'mainEntity': qData.faqs.map(f => ({
+        '@type': 'Question',
+        'name': f.q,
+        'acceptedAnswer': {
+          '@type': 'Answer',
+          'text': f.a
+        }
+      }))
+    };
+
+    const itemListSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'ItemList',
+      'itemListElement': matchedJobs.slice(0, 15).map((job, idx) => ({
+        '@type': 'ListItem',
+        'position': idx + 1,
+        'url': `${BASE_URL}/job/${job.id}`,
+        'name': job.title
+      }))
+    };
+
+    const qBody = `
+      <main style="max-width: 1000px; margin: 2rem auto; padding: 1rem; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #1e293b;">
+        <nav style="font-size: 0.85rem; margin-bottom: 1rem; color: #64748b;">
+          <a href="${BASE_URL}" style="color: #2563eb; text-decoration: none;">Home</a> &raquo;
+          <span>Jobs by Qualification</span> &raquo;
+          <strong>${escapeHtml(qData.name)}</strong>
+        </nav>
+
+        <header style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.5rem; margin-bottom: 2rem;">
+          <span style="background: #2563eb; color: #fff; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; padding: 0.25rem 0.6rem; border-radius: 4px;">
+            ${escapeHtml(qData.badge)}
+          </span>
+          <h1 style="font-size: 1.85rem; font-weight: 800; margin: 0.5rem 0; color: #0f172a;">${escapeHtml(qData.title)}</h1>
+          <p style="font-size: 1.05rem; color: #475569; margin: 0 0 1rem 0;">${escapeHtml(qData.desc)}</p>
+          
+          <div style="background: #ffffff; border-left: 4px solid #2563eb; border-radius: 4px; padding: 0.85rem 1rem; font-size: 0.92rem; color: #1e293b; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+            <strong>📌 Eligibility Summary:</strong> ${escapeHtml(qData.intro)}
+          </div>
+        </header>
+
+        <section style="margin-bottom: 2rem;">
+          <h2 style="font-size: 1.4rem; font-weight: 800; margin-bottom: 0.5rem;">Active ${escapeHtml(qData.name)} Recruitments (${matchedJobs.length} Found)</h2>
+          <p style="font-size: 0.88rem; color: #64748b; margin-bottom: 1rem;">Verified live job vacancies matching this educational requirement:</p>
+          
+          <div style="display: grid; gap: 0.75rem;">
+            ${matchedJobs.slice(0, 20).map(j => `
+              <article style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 1rem;">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.35rem;">
+                  <span style="font-size: 0.72rem; font-weight: 700; color: #2563eb; background: #eff6ff; padding: 0.15rem 0.45rem; border-radius: 4px;">${escapeHtml(j.category)}</span>
+                  <span style="font-size: 0.75rem; color: #64748b;">Post Date: ${escapeHtml(j.postDate)}</span>
+                </div>
+                <h3 style="font-size: 1.05rem; font-weight: 700; margin: 0 0 0.4rem 0;">
+                  <a href="${BASE_URL}/job/${escapeHtml(j.id)}" style="color: #0f172a; text-decoration: none;">${escapeHtml(j.title)}</a>
+                </h3>
+                ${j.applicationLastDate ? `<div style="font-size: 0.82rem; color: #dc2626; font-weight: 600;">Last Date: ${escapeHtml(j.applicationLastDate)}</div>` : ''}
+                <div style="margin-top: 0.5rem;">
+                  <a href="${BASE_URL}/job/${escapeHtml(j.id)}" style="display: inline-block; font-size: 0.8rem; font-weight: 700; color: #2563eb; text-decoration: underline;">View Full Notification & Eligibility &raquo;</a>
+                </div>
+              </article>
+            `).join('')}
+          </div>
+        </section>
+
+        <section style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.25rem; margin-bottom: 2rem;">
+          <h2 style="font-size: 1.3rem; font-weight: 800; margin: 0 0 0.5rem 0;">Annual Recurring ${escapeHtml(qData.name)} Exam Calendar</h2>
+          <p style="font-size: 0.85rem; color: #64748b; margin: 0 0 1rem 0;">Fixed recruitment cycles conducted annually by central commissions:</p>
+          <div style="overflow-x: auto;">
+            <table style="width: 100%; border-collapse: collapse; font-size: 0.85rem; text-align: left;">
+              <thead>
+                <tr style="background: #f1f5f9; border-bottom: 2px solid #cbd5e1;">
+                  <th style="padding: 0.6rem 0.75rem;">Exam Name</th>
+                  <th style="padding: 0.6rem 0.75rem;">Conducting Body</th>
+                  <th style="padding: 0.6rem 0.75rem;">Expected Window</th>
+                  <th style="padding: 0.6rem 0.75rem;">Avg. Posts</th>
+                  <th style="padding: 0.6rem 0.75rem;">Selection Mode</th>
+                </tr>
+              </thead>
+              <tbody>
+                ${qData.calendar.map(c => `
+                  <tr style="border-bottom: 1px solid #e2e8f0;">
+                    <td style="padding: 0.6rem 0.75rem; font-weight: 700; color: #2563eb;">${escapeHtml(c.name)}</td>
+                    <td style="padding: 0.6rem 0.75rem;">${escapeHtml(c.body)}</td>
+                    <td style="padding: 0.6rem 0.75rem; color: #16a34a; font-weight: 600;">${escapeHtml(c.month)}</td>
+                    <td style="padding: 0.6rem 0.75rem;">${escapeHtml(c.vacancies)}</td>
+                    <td style="padding: 0.6rem 0.75rem; color: #64748b;">${escapeHtml(c.mode)}</td>
+                  </tr>
+                `).join('')}
+              </tbody>
+            </table>
+          </div>
+        </section>
+
+        <section style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.25rem; margin-bottom: 2rem;">
+          <h2 style="font-size: 1.3rem; font-weight: 800; margin: 0 0 0.5rem 0;">Post-Wise Salary Breakdown (7th Pay Commission)</h2>
+          <p style="font-size: 0.85rem; color: #64748b; margin: 0 0 1rem 0;">Monthly in-hand bank credit estimations based on current Dearness Allowance (DA 53%):</p>
+          <div style="overflow-x: auto;">
+            <table style="width: 100%; border-collapse: collapse; font-size: 0.85rem; text-align: left;">
+              <thead>
+                <tr style="background: #f1f5f9; border-bottom: 2px solid #cbd5e1;">
+                  <th style="padding: 0.6rem 0.75rem;">Post / Role</th>
+                  <th style="padding: 0.6rem 0.75rem;">Pay Level</th>
+                  <th style="padding: 0.6rem 0.75rem;">Basic Pay</th>
+                  <th style="padding: 0.6rem 0.75rem;">Est. In-Hand Monthly</th>
+                  <th style="padding: 0.6rem 0.75rem;">Allowances</th>
+                </tr>
+              </thead>
+              <tbody>
+                ${qData.salary.map(s => `
+                  <tr style="border-bottom: 1px solid #e2e8f0;">
+                    <td style="padding: 0.6rem 0.75rem; font-weight: 700;">${escapeHtml(s.role)}</td>
+                    <td style="padding: 0.6rem 0.75rem;">${escapeHtml(s.level)}</td>
+                    <td style="padding: 0.6rem 0.75rem;">${escapeHtml(s.basic)}</td>
+                    <td style="padding: 0.6rem 0.75rem; color: #16a34a; font-weight: 800;">${escapeHtml(s.inhand)}</td>
+                    <td style="padding: 0.6rem 0.75rem; color: #64748b;">${escapeHtml(s.perks)}</td>
+                  </tr>
+                `).join('')}
+              </tbody>
+            </table>
+          </div>
+        </section>
+
+        <section style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 1.25rem; margin-bottom: 2rem;">
+          <h2 style="font-size: 1.25rem; font-weight: 800; margin: 0 0 1rem 0;">Frequently Asked Questions (${escapeHtml(qData.name)})</h2>
+          ${qData.faqs.map(f => `
+            <div style="margin-bottom: 1rem;">
+              <h3 style="font-size: 0.95rem; font-weight: 700; margin: 0 0 0.25rem 0; color: #0f172a;">${escapeHtml(f.q)}</h3>
+              <p style="font-size: 0.88rem; color: #334155; margin: 0;">${escapeHtml(f.a)}</p>
+            </div>
+          `).join('')}
+        </section>
+
+        <footer style="text-align: center; padding: 1rem; border-top: 1px solid #e2e8f0; font-size: 0.85rem; color: #64748b;">
+          <p>Explore other qualifications: 
+            <a href="${BASE_URL}/jobs/10th-pass" style="color: #2563eb; margin: 0 0.3rem;">10th Pass Jobs</a> | 
+            <a href="${BASE_URL}/jobs/12th-pass" style="color: #2563eb; margin: 0 0.3rem;">12th Pass Jobs</a> | 
+            <a href="${BASE_URL}/jobs/graduate" style="color: #2563eb; margin: 0 0.3rem;">Graduate Jobs</a> | 
+            <a href="${BASE_URL}/state-jobs" style="color: #2563eb; margin: 0 0.3rem;">State Jobs</a>
+          </p>
+        </footer>
+      </main>
+    `;
+
+    writePrerenderedPage(
+      `jobs/${qData.slug}`,
+      {
+        title: qData.title,
+        description: qData.desc,
+        canonical: qCanonical,
+        image: `${BASE_URL}/logos/og_banner.png`
+      },
+      { '@graph': [collectionSchema, breadcrumbSchema, faqSchema, itemListSchema] },
+      qBody
+    );
+  });
+
   console.log(`✅ Static Pre-rendering complete! Total pages generated: ${totalRendered}`);
 }
 

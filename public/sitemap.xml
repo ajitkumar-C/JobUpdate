@@ -272,6 +272,21 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sarkariavedan.info/jobs/10th-pass</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/jobs/12th-pass</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/jobs/graduate</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://sarkariavedan.info/job/result-uttarakhand-teacher-eligibility-test-utet-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

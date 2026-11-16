@@ -17,6 +17,8 @@ import { CategorySeoInfo } from './components/CategorySeoInfo';
 import { CommunityBanner } from './components/CommunityBanner';
 import { ImageResizer } from './components/tools/ImageResizer';
 import { AgeCalculator } from './components/tools/AgeCalculator';
+import { QualificationJobs } from './components/QualificationJobs';
+import { QUALIFICATIONS_CONFIG } from './config/qualifications';
 import { SOCIAL_LINKS } from './config/social';
 import './App.css';
 export const generateJobSlug = (title: string, category: string): string => {
@@ -79,20 +81,22 @@ export const App: React.FC = () => {
   const [searchTerm, setSearchTerm] = useState('');
   const [theme, setTheme] = useState<'light' | 'dark'>('light');
   const [showAdminButton, setShowAdminButton] = useState(false);
-  const [currentView, setCurrentView] = useState<'home' | 'about' | 'contact' | 'disclaimer' | 'privacy' | 'terms' | 'state-directory' | 'state-view' | 'blog-directory' | 'blog-view' | 'tool-resizer' | 'tool-age'>('home');
+  const [currentView, setCurrentView] = useState<'home' | 'about' | 'contact' | 'disclaimer' | 'privacy' | 'terms' | 'state-directory' | 'state-view' | 'blog-directory' | 'blog-view' | 'tool-resizer' | 'tool-age' | 'qualification-view'>('home');
   const [selectedStateCode, setSelectedStateCode] = useState<string | null>(null);
   const [selectedCategoryCode, setSelectedCategoryCode] = useState<string | null>(null);
   const [selectedBlogId, setSelectedBlogId] = useState<string | null>(null);
+  const [selectedQualification, setSelectedQualification] = useState<'10th-pass' | '12th-pass' | 'graduate' | null>(null);
   const [isDrawerOpen, setIsDrawerOpen] = useState(false);
 
   // --- Zero-Dependency Router Helper ---
   const navigateTo = (
-    view: 'home' | 'about' | 'contact' | 'disclaimer' | 'privacy' | 'terms' | 'state-directory' | 'state-view' | 'blog-directory' | 'blog-view' | 'tool-resizer' | 'tool-age',
+    view: 'home' | 'about' | 'contact' | 'disclaimer' | 'privacy' | 'terms' | 'state-directory' | 'state-view' | 'blog-directory' | 'blog-view' | 'tool-resizer' | 'tool-age' | 'qualification-view',
     categoryCode: string | null,
     jobId: string | null,
     admin: boolean,
     stateCode: string | null = null,
-    blogId: string | null = null
+    blogId: string | null = null,
+    qualificationSlug: '10th-pass' | '12th-pass' | 'graduate' | null = null
   ) => {
     setCurrentView(view);
     setSelectedCategoryCode(categoryCode);
@@ -100,6 +104,7 @@ export const App: React.FC = () => {
     setIsAdminMode(admin);
     setSelectedStateCode(stateCode);
     setSelectedBlogId(blogId);
+    setSelectedQualification(qualificationSlug);
     setIsDrawerOpen(false); // Close drawer if open
 
     let path = '/';
@@ -107,6 +112,8 @@ export const App: React.FC = () => {
       path = '/admin';
     } else if (jobId) {
       path = `/job/${jobId}`;
+    } else if (view === 'qualification-view' && qualificationSlug) {
+      path = `/jobs/${qualificationSlug}`;
     } else if (view === 'state-directory') {
       path = '/state-jobs';
     } else if (view === 'state-view' && stateCode) {
@@ -144,6 +151,17 @@ export const App: React.FC = () => {
       setSelectedJobId(null);
       if (!isAuthorized) {
         setShowAuthModal(true);
+      }
+    } else if (segments[0] === 'jobs' && segments[1]) {
+      const qSlug = segments[1].toLowerCase().replace(/\/$/, '') as '10th-pass' | '12th-pass' | 'graduate';
+      if (['10th-pass', '12th-pass', 'graduate'].includes(qSlug)) {
+        setCurrentView('qualification-view');
+        setSelectedQualification(qSlug);
+        setSelectedJobId(null);
+        setSelectedCategoryCode(null);
+        setIsAdminMode(false);
+      } else {
+        setCurrentView('home');
       }
     } else if (segments[0] === 'job' && segments[1]) {
       setSelectedJobId(segments[1]);
@@ -244,6 +262,17 @@ export const App: React.FC = () => {
     if (currentView === 'blog-directory' || currentView === 'blog-view') {
       return; // Handled internally by BlogDirectory and BlogDetail components
     }
+    if (currentView === 'qualification-view' && selectedQualification) {
+      const qConfig = QUALIFICATIONS_CONFIG[selectedQualification];
+      if (qConfig) {
+        document.title = `${qConfig.heroTitle} | Sarkari Aavedan`;
+        const metaDesc = document.querySelector('meta[name="description"]');
+        if (metaDesc) {
+          metaDesc.setAttribute('content', qConfig.heroSubtitle);
+        }
+      }
+      return;
+    }
     const activeCategory = categories.find(c => c.id === selectedCategoryCode);
     const categoryName = activeCategory ? activeCategory.name : null;
     const seoView = currentView === 'state-view' 
@@ -251,7 +280,7 @@ export const App: React.FC = () => {
       : (currentView === 'home' ? null : currentView);
 
     updateSEO(selectedJob, categoryName, seoView);
-  }, [selectedJobId, selectedCategoryCode, currentView, selectedStateCode, jobs, categories]);
+  }, [selectedJobId, selectedCategoryCode, currentView, selectedStateCode, selectedQualification, jobs, categories]);
 
   // --- Legacy Slug Redirect Support Hook ---
   useEffect(() => {
@@ -597,6 +626,29 @@ export const App: React.FC = () => {
             );
           })}
 
+          {/* Qualification Jobs */}
+          <a
+            href="/jobs/10th-pass"
+            className={`sub-nav-item ${currentView === 'qualification-view' && selectedQualification === '10th-pass' ? 'active' : ''}`}
+            onClick={(e) => { e.preventDefault(); navigateTo('qualification-view', null, null, false, null, null, '10th-pass'); window.scrollTo(0, 0); }}
+          >
+            🎓 10th Pass
+          </a>
+          <a
+            href="/jobs/12th-pass"
+            className={`sub-nav-item ${currentView === 'qualification-view' && selectedQualification === '12th-pass' ? 'active' : ''}`}
+            onClick={(e) => { e.preventDefault(); navigateTo('qualification-view', null, null, false, null, null, '12th-pass'); window.scrollTo(0, 0); }}
+          >
+            📘 12th Pass
+          </a>
+          <a
+            href="/jobs/graduate"
+            className={`sub-nav-item ${currentView === 'qualification-view' && selectedQualification === 'graduate' ? 'active' : ''}`}
+            onClick={(e) => { e.preventDefault(); navigateTo('qualification-view', null, null, false, null, null, 'graduate'); window.scrollTo(0, 0); }}
+          >
+            🏛️ Graduate
+          </a>
+
           {/* State-Wise Jobs */}
           <a
             href="/state-jobs"
@@ -681,6 +733,14 @@ export const App: React.FC = () => {
           <StateDirectory onSelectState={(code) => navigateTo('state-view', null, null, false, code)} />
         ) : currentView === 'state-view' && selectedStateCode ? (
           <StateJobs stateCode={selectedStateCode} />
+        ) : currentView === 'qualification-view' && selectedQualification ? (
+          <QualificationJobs
+            slug={selectedQualification}
+            jobs={jobs}
+            onNavigateToJob={(id) => navigateTo('home', null, id, false)}
+            onNavigateToQualification={(qSlug) => navigateTo('qualification-view', null, null, false, null, null, qSlug)}
+            onNavigateHome={handleHomeClick}
+          />
         ) : (
           /* Consumer Dashboard Home Screen */
           <>

@@ -1,5 +1,140 @@
 [
   {
+    "id": "hp-sjvn-graduate-apprentices-technician-diploma-apprentice",
+    "title": "SJVN Recruitment 2026 – Graduate Apprentices, Technician (Diploma) Apprentices, Other Posts Posts",
+    "shortInfo": "SJVN has announced notification for Graduate Apprentices, Technician (Diploma) Apprentices, Other Posts posts. Required qualification: Bachelor's degree in Engineering, Polytechnical diploma, ITI Certificate. Last date to apply: 17-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "100",
+    "lastDate": "17-12-26",
+    "officialWebsite": "https://sjvn.nic.in",
+    "notificationLink": "https://sjvn.nic.in/sites/default/files/2026-11/Detailed%20english%20advertisement-Apprenticeship.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/sjvn-apprentice-2026/",
+    "state": "Himachal Pradesh",
+    "stateCode": "hp",
+    "scrapedAt": "2026-11-16",
+    "fees": [
+      {
+        "category": "General",
+        "fee": "Rs.100/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Registration Starts From",
+        "date": "18/11/2026"
+      },
+      {
+        "event": "Closing Date to Fill Application Form",
+        "date": "17/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Graduate Apprentice (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Graduate Apprentice (Information Technology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (Diploma) Apprentice (Civil)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (Diploma) Apprentice (Electrical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (Diploma) Apprentice (Mechanical)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (Diploma) Apprentice (Information Technology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (ITI) Apprentice (Electrician)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (ITI) Apprentice (Stenographer & Secretarial Assistant)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (ITI) Apprentice (Fitter)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (ITI) Apprentice (Welder)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (ITI) Apprentice (Mechanic)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Go to the SJVN website: www.sjvn.nic.in.",
+      "Navigate to the Career section.",
+      "Register with a valid email ID and mobile number.",
+      "Fill in personal and educational details.",
+      "Upload scanned photo and signature.",
+      "Make a payment of Rs. 100/- if applicable.",
+      "Submit the application before the closing date."
+    ]
+  },
+  {
     "id": "hp-hpscb-general-manager",
     "title": "HPSCB Recruitment 2026 – General Manager Posts",
     "shortInfo": "HPSCB has announced notification for General Manager posts. Required qualification: Graduate. Last date to apply: 15-12-26.",
@@ -14,7 +149,7 @@
     "applyOnlineLink": "https://hpscb.bank.in/upload/notification/doc/DIPcCs2umVv9CeEJieQWzWng0EBsy8eDv5fwGeIn.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "hp-hppwd-junior-engineer-and-more-junior-office-assistant",
@@ -31,7 +166,7 @@
     "applyOnlineLink": "https://hppwd.hp.gov.in/sites/default/files/2026-11/Advertisement%20PwBDs%202026.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "hp-uhf-guest-teacher",
@@ -48,7 +183,7 @@
     "applyOnlineLink": "https://uhf.ac.in/storage/uploads/docs/1794548906.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "hp-csir ihbt-project-associate-project-assistant-and-more",
@@ -65,7 +200,7 @@
     "applyOnlineLink": "https://www.ihbt.res.in/components/com_chronoforms5/chronoforms/uploads/Recruitment/20261112183701_AdvtNo18_2026.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "hp-deputy commissioner kinnaur-naib-tehsildar",
@@ -82,7 +217,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3766ebcd59621e305170616ba3d3dac32/uploads/2026/11/17939443203674.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "hp-iocl-trade-apprentice-and-more-technician-apprentice",
@@ -99,7 +234,7 @@
     "applyOnlineLink": "https://plapps.indianoilpipelines.in/PLApprentice/user/main?adv_no=MTQ=&Digest=qOLTAc7VxS7RbGmNVXuktQ",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-15",
+    "scrapedAt": "2026-11-16",
     "fees": [
       {
         "category": "Fee",
@@ -192,7 +327,7 @@
     "applyOnlineLink": "https://www.hpnlu.ac.in/PDF/5e22a4fe-6897-447e-9a73-4fe8713be41e.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "hp-indian bank-apprentice",
@@ -209,7 +344,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/inbraoct26/",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-15",
+    "scrapedAt": "2026-11-16",
     "fees": [
       {
         "category": "General/OBC/EWS candidates",
@@ -267,7 +402,7 @@
     "applyOnlineLink": "https://www.hpnlu.ac.in/PDF/5e22a4fe-6897-447e-9a73-4fe8713be41e.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "hp-hprca-radiographer-job-trainee-",
@@ -284,7 +419,7 @@
     "applyOnlineLink": "https://hprca.hp.gov.in/login",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-15",
+    "scrapedAt": "2026-11-16",
     "fees": [
       {
         "category": "All Categories (Examination Fee + Processing Fee)",
@@ -352,7 +487,7 @@
     "applyOnlineLink": "https://hprca.hp.gov.in/login",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-15",
+    "scrapedAt": "2026-11-16",
     "fees": [
       {
         "category": "All Categories (Examination Fee + Processing Fee)",
@@ -518,7 +653,7 @@
     "applyOnlineLink": "https://aiimsbilaspur.edu.in/sites/default/files/2026-10/Advertisement%2001.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "hp-nit hamirpur-project-assistant",
@@ -535,7 +670,7 @@
     "applyOnlineLink": "https://nith.ac.in/uploads/files/oct26/ad-project.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "hp-uhf-senior-research-fellow-young-professional",
@@ -552,7 +687,7 @@
     "applyOnlineLink": "https://uhf.ac.in/storage/uploads/docs/1793186055.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "hp-bilaspur district-naib-tehsildar-kanungos-tehsildar-retired-staff",
@@ -569,7 +704,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s38d7d8ee069cb0cbbf816bbb65d56947e/uploads/2026/10/17927432757000.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "hp-hpnlu-professor-of-law",
@@ -586,7 +721,7 @@
     "applyOnlineLink": "https://www.hpnlu.ac.in/PDF/62a7ab49-2c81-44fc-97f4-970965ef2224.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "hp-hppsc-agriculture-development-officer-ado-group-a-job-tr",
@@ -603,7 +738,7 @@
     "applyOnlineLink": "https://hppsconline.hp.gov.in/HPPSC/ApplicantRegistration/Home/Login",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-15",
+    "scrapedAt": "2026-11-16",
     "fees": [
       {
         "category": "All Candidates (irrespective of category or gender)",

@@ -337,11 +337,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-nta-scheme-residential-education-students-high</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sarkariavedan.info/job/latest-jobs-isro-ursc-technician-driver-2026-61</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -358,6 +353,11 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/latest-jobs-uppsc-various-2026-25</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-asrb-icar-technical-assistant-t-3</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -482,6 +482,16 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sarkariavedan.info/job/outsourcing-offline-jobs-uttar-pradesh-up-basic-education-sant</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/outsourcing-offline-jobs-uttar-pradesh-up-basic-education-etawah</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sarkariavedan.info/job/outsourcing-offline-jobs-uttar-pradesh-up-basic-education-mathura</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -498,16 +508,6 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/outsourcing-offline-jobs-up-basic-education-ecce-educator-balrampur</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/outsourcing-offline-jobs-up-madhyamik-shiksha-special-educator-various</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/outsourcing-offline-jobs-uttar-pradesh-building-other-construction-workers</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -562,6 +562,21 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sarkariavedan.info/job/admit-card-sbi-probationary-officers-po-interview-letter</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-upessc-up-assistant-professor-admit-card</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-indian-coast-guard-cgept-01-2027</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sarkariavedan.info/job/admit-card-mpesb-subedar-steno-asi-admit-card</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -577,37 +592,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sarkariavedan.info/job/admit-card-ssc-cpo-si-capf-paper-i</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/admit-card-cisf-constable-tradesmen-date-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/admit-card-cisf-constable-fire-date-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-assam-rifles-technical-tradesman-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-rrb-ntpc-10-2-ug-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-supreme-court-sci-court-master-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-cwc-assistant-manager-junior-executive-2026</loc>
+    <loc>https://sarkariavedan.info/job/latest-jobs-bpsc-auditor-mains-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -617,7 +602,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-assam-rifles-technical-tradesman-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sarkariavedan.info/job/latest-jobs-railway-rrb-station-master-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-railway-rrc-nr-apprentice-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-upessc-up-tgt-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -712,17 +712,57 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-assam-rifles-technical-tradesman-rally-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-nta-scheme-residential-education-students-high</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/outsourcing-offline-jobs-up-madhyamik-shiksha-special-educator-various</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/outsourcing-offline-jobs-uttar-pradesh-building-other-construction-workers</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-ssc-cpo-si-capf-paper-i</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-cisf-constable-tradesmen-date-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/admit-card-cisf-constable-fire-date-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-rrb-ntpc-10-2-ug-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-supreme-court-sci-court-master-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarkariavedan.info/job/latest-jobs-cwc-assistant-manager-junior-executive-2026</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sarkariavedan.info/job/admit-card-cisf-constable-driver-date-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-railway-rrc-nr-apprentice-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-upessc-up-tgt-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -743,11 +783,6 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/admit-card-ssc-sub-inspector-delhi-police-central</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-asrb-icar-technical-assistant-t-3</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1428,11 +1463,6 @@
   </url>
   <url>
     <loc>https://sarkariavedan.info/job/admit-card-ntpc-assistant-officer-admit-card-2026</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sarkariavedan.info/job/latest-jobs-bpsc-auditor-mains-2026</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

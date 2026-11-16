@@ -1,5 +1,174 @@
 [
   {
+    "id": "assam-assam rifles-warrant-officer-rifleman-havildar-amp-other-posts",
+    "title": "Assam Rifles Recruitment 2026 – Warrant Officer, Rifleman, Havildar &amp; Other Posts Posts",
+    "shortInfo": "Assam Rifles has announced notification for Warrant Officer, Rifleman, Havildar &amp; Other Posts posts. Required qualification: Class 10, ITI/Diploma/Degree. Last date to apply: 14-12-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "354",
+    "lastDate": "14-12-26",
+    "officialWebsite": "https://www.assamrifles.gov.in/",
+    "notificationLink": "https://www.assamrifles.gov.in/ar-recruitment-pdf-viewer/8215",
+    "applyOnlineLink": "https://govtjobguru.in/wp-content/uploads/2026/10/Assam-Rifles-Recruitment-2026.pdf",
+    "state": "Assam",
+    "stateCode": "assam",
+    "scrapedAt": "2026-11-16",
+    "fees": [
+      {
+        "category": "General/EWS",
+        "fee": "Rs. 100 (Rupees One Hundred only)"
+      },
+      {
+        "category": "SC/ST/Ex-Servicemen",
+        "fee": "No Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Starting Date for Apply Online",
+        "date": "15/11/2026"
+      },
+      {
+        "event": "Closing Date for Apply Online",
+        "date": "14/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Warrant Officer (Cipher)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Rifleman (Electrical Field Signal)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Rifleman (Lineman Field)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Rifleman (Armourer)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Rifleman (Engineer Equipment Mechanic)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Rifleman (Recovery Vehicle Mechanic)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Rifleman (Electrician Motor Vehicle)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Havildar (Instrument Mechanic)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Rifleman (Metalsmith)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Rifleman (Upholster)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Rifleman Store Keeper (Technical & Mechanical Engineer)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Rifleman (Vehicle Mechanic)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Rifleman (Welder)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Warrant Officer (Draughtsman)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Warrant Officer (Operation Theatre Technician)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Warrant Officer (Physiotherapist)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Rifleman (Mason)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official Assam Rifles website at assam-rifles.gov.in.",
+      "Click on the ‘ONLINE APPLICATION’ option on the website.",
+      "Fill in the required details as prescribed in the application form.",
+      "After filling the application, make online payment via the link given for online payment OR payment can be made at SBI Branch as well.",
+      "Upload a copy of the payment receipt/challan.",
+      "Candidates must produce the original copy of payment receipt/challan at the time of RFID Based Physical Standard Test (PST) / Physical Efficiency Test (PET).",
+      "Candidates must also produce the printed copy of the online Application Form duly completed and a copy of the certificate downloaded from the Assam Rifles website.",
+      "Only a single application per candidate will be accepted through online mode. Multiple applications will not be accepted.",
+      "After submission of the online application form, no change/correction/modification will be allowed under any circumstances."
+    ]
+  },
+  {
     "id": "assam-kkhsou-assistant-professor",
     "title": "KKHSOU Recruitment 2026 – Assistant Professor Posts",
     "shortInfo": "KKHSOU has announced notification for Assistant Professor posts. Required qualification: Master's Degree, NET/SLET/SET. Last date to apply: 27-11-26.",
@@ -14,7 +183,7 @@
     "applyOnlineLink": "https://kkhsourec.samarth.edu.in/",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15",
+    "scrapedAt": "2026-11-16",
     "fees": [
       {
         "category": "Unreserved (UR) Candidates",
@@ -184,7 +353,7 @@
     "applyOnlineLink": "https://nidj.ac.in/wp-content/uploads/2026/11/vmc-contract-basis-bl.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-iocl eastern region-technician-apprentice-trade-apprentice-other-posts",
@@ -201,7 +370,7 @@
     "applyOnlineLink": "https://nats.education.gov.in/student_register.php",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15",
+    "scrapedAt": "2026-11-16",
     "fees": [
       {
         "category": "Fee",
@@ -538,7 +707,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3kv032eea8b56d3b1ef59946fa60b0b43/uploads/2026/11/2026111319.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-bhattadev university-associate-professor-dietician",
@@ -555,7 +724,7 @@
     "applyOnlineLink": "https://www.bhattadevuniversity.ac.in/docs/notifications/Advertisement_Department_Physical_Education_&#038;_Sports_BU_8770.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-nit silchar-junior-research-fellow",
@@ -572,7 +741,7 @@
     "applyOnlineLink": "https://www.nits.ac.in/storage/CareerDocument/Career_6af5bd9f25c3d.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-avfu-skilled-worker",
@@ -589,7 +758,7 @@
     "applyOnlineLink": "https://avfu.ac.in/notices/recruitment/sw_dean.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-rfri-junior-project-fellow-project-assistant",
@@ -606,7 +775,7 @@
     "applyOnlineLink": "https://rfri.icfre.gov.in/jobs/vacancy231.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-assam btc-graduate-teacher-post-graduate-teacher",
@@ -623,7 +792,7 @@
     "applyOnlineLink": "https://recruitment.bodoland.co/",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15",
+    "scrapedAt": "2026-11-16",
     "fees": [
       {
         "category": "General",
@@ -720,7 +889,7 @@
     "applyOnlineLink": "https://www.iitg.ac.in/pdf/587b43f8be0d2b90b5b9d7e764d4ce44.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-aau-assistant-technology-manager-block-technology-mana",
@@ -737,7 +906,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aau-recruitment-2026/",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15",
+    "scrapedAt": "2026-11-16",
     "fees": [
       {
         "category": "General Category",
@@ -826,7 +995,7 @@
     "applyOnlineLink": "https://kokrajharuniversity.ac.in/wp-content/uploads/2026/11/Advertisement-for-Teaching-Posts-in-Physical-Education-Course-in-the-Department-of-Sports-Physical-Education-of-Kokrajhar-University.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-kvs-atl-instructor-vocational-instructor",
@@ -843,7 +1012,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3kv036d153e2c7dc8e79d1d56118bf313/uploads/2026/11/2026111120.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-amscl-executive-procurement-bme-",
@@ -860,7 +1029,7 @@
     "applyOnlineLink": "https://amscl.assam.gov.in/sites/default/files/public_utility/SD%20Website%20Advertisement.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-nowboicha college-principal",
@@ -877,7 +1046,7 @@
     "applyOnlineLink": "https://madhabdevuniversity.ac.in/mduweb/cam/notice/Advertisement%20for%20the%20post%20of%20Principal%20(Nowboicha%20College).pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-neramac-sr-executive",
@@ -894,7 +1063,7 @@
     "applyOnlineLink": "https://neramac.com/files/userfiles/2026/11/10/files/Sr._Executive_-_Marketing_-_Retail__1_.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-dlsa morigaon-para-legal-volunteer-plv-adhikar-mitra",
@@ -911,7 +1080,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec053e77a14629775492504515dc4b23/uploads/2026/11/2026111066.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-nit silchar-project-associate-i",
@@ -928,7 +1097,7 @@
     "applyOnlineLink": "https://www.nits.ac.in/storage/CareerDocument/Career_6af30ff8ab975.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-nit silchar-project-intern",
@@ -945,7 +1114,7 @@
     "applyOnlineLink": "https://www.nits.ac.in/storage/CareerDocument/Career_6aedc9f22018c.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-hll-associate-manager-biomedical-",
@@ -962,7 +1131,7 @@
     "applyOnlineLink": "https://drive.usercontent.google.com/download?id=1iybmiYo4hjP4RaXVL1QqdcVMISf26NtD&#038;export=download",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-ongc-apprentices",
@@ -979,7 +1148,7 @@
     "applyOnlineLink": "https://nats.education.gov.in",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15",
+    "scrapedAt": "2026-11-16",
     "fees": [],
     "dates": [
       {
@@ -1330,7 +1499,7 @@
     "applyOnlineLink": "http://www.lifecarehll.com/careers/view/reference/801c14f07f9724229175b8ef8b4585a8hYCFgA",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-iocl-trade-apprentice-and-more-technician-apprentice",
@@ -1347,7 +1516,7 @@
     "applyOnlineLink": "https://plapps.indianoilpipelines.in/PLApprentice/user/main?adv_no=MTQ=&Digest=qOLTAc7VxS7RbGmNVXuktQ",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15",
+    "scrapedAt": "2026-11-16",
     "fees": [
       {
         "category": "Fee",
@@ -1440,7 +1609,7 @@
     "applyOnlineLink": "https://amch-dibrugarh.assam.gov.in/sites/default/files/public_utility/Walk%20In%20Interview.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-nedfl-assistant-manager-deputy-manager",
@@ -1457,7 +1626,7 @@
     "applyOnlineLink": "https://recruitment.purabi.coop/files/TOR%20AM%20DM%20Plant%20Silchar.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-audc-guest-faculty",
@@ -1474,7 +1643,7 @@
     "applyOnlineLink": "https://www.aus.ac.in/diphucampus-lifesciencedepartment/wp-content/uploads/sites/68/2026/11/Advertisement-.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-asacs-medical-officer-senior-medical-officer",
@@ -1491,7 +1660,7 @@
     "applyOnlineLink": "https://asacs.assam.gov.in/sites/default/files/public_utility/Website%20adv%20for%20MO%20and%20SMO.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-oil-domain-expert-critical-minerals-",
@@ -1508,7 +1677,7 @@
     "applyOnlineLink": "https://www.oil-india.com/download-advertisement-document?detail=NlVTMA==",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-crcsre guwahati-lecturer-guest-faculty",
@@ -1525,7 +1694,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s37b66b4fd401a271a1c7224027ce111bc/uploads/2026/11/202611051678822275.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-bbci-consultant-senior-resident",
@@ -1542,7 +1711,7 @@
     "applyOnlineLink": "https://tmc.gov.in/postmaster/Details?adv=04wD0eYE9GM3HOEZ2aKrqQ==",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-bhattadev university-professor-associate-professor-and-more",
@@ -1559,7 +1728,7 @@
     "applyOnlineLink": "https://www.bhattadevuniversity.ac.in/docs/notifications/Recruitment_Notice_8732_05-11-2026_Teaching_Posts_(1).pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-nicl-graduate-apprentice",
@@ -1576,7 +1745,7 @@
     "applyOnlineLink": "https://nats.education.gov.in/index.php",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15",
+    "scrapedAt": "2026-11-16",
     "fees": [
       {
         "category": "Fee",
@@ -1628,7 +1797,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/inbraoct26/",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15",
+    "scrapedAt": "2026-11-16",
     "fees": [
       {
         "category": "General/OBC/EWS candidates",
@@ -1686,7 +1855,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s37b66b4fd401a271a1c7224027ce111bc/uploads/2026/11/202611041274945773.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-lgbrimh-senior-resident-psychiatry-",
@@ -1703,7 +1872,7 @@
     "applyOnlineLink": "https://lgbrimh.gov.in/resources/2026/advertisement/Advertisement_HEADs.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-muc-assistant-professor-internal-auditor",
@@ -1720,7 +1889,7 @@
     "applyOnlineLink": "https://www.muoc.ac.in/storage/announcements/documents/luMTCHy8JwTKlj2TAqUlL8nDQht311CJDGeAZwvM.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-gauhati high court-usher",
@@ -1737,7 +1906,7 @@
     "applyOnlineLink": "https://ghconline.gov.in/General/Notification-04-11-2026.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-echs missamari-medical-officer-nursing-assistant",
@@ -1754,7 +1923,7 @@
     "applyOnlineLink": "https://www.echs.gov.in/assets/advertisement/Advt%20of%20Echs%20stn%20hq%20missamari.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-oil-contractual-geologist",
@@ -1771,7 +1940,7 @@
     "applyOnlineLink": "https://www.oil-india.com/download-advertisement-document?detail=NlVTMw==",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-nedfl-deputy-manager-assistant-manager",
@@ -1788,7 +1957,7 @@
     "applyOnlineLink": "https://recruitment.purabi.coop/files/TOR%20AM%20DM%20S&#038;D%20-Frozen%20Segment.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-amch-medical-officer",
@@ -1805,7 +1974,7 @@
     "applyOnlineLink": "https://amch-dibrugarh.assam.gov.in/sites/default/files/public_utility/Image_032.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-wamul-supervisor-deputy-manager-executive",
@@ -1822,7 +1991,7 @@
     "applyOnlineLink": "https://recruitment.purabi.coop/files/REOI99721d.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-dci-project-manager-hydrographic-surveyor-walk-in-",
@@ -1839,7 +2008,7 @@
     "applyOnlineLink": "http://dredge-india.com/files/Advtno052026.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-wamul-deputy-manager-executive-supervisor",
@@ -1856,7 +2025,7 @@
     "applyOnlineLink": "https://recruitment.purabi.coop/files/REOI99721d.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-gurucharan university-assistant-professor-controller-of-examination",
@@ -1873,7 +2042,7 @@
     "applyOnlineLink": "https://www.gurucharanuniversity.ac.in/notice/Advertisment_Teaching_and_CoE%20-%20Google%20Docs.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-ircon-manager-walk-in-",
@@ -1890,7 +2059,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/ircon-manager-electrical-recruitment-2026/",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15",
+    "scrapedAt": "2026-11-16",
     "fees": [],
     "dates": [
       {
@@ -1939,7 +2108,7 @@
     "applyOnlineLink": "https://nagaonuniversity.ac.in/ngu_files/news/advertisement-for-the-post-of-registrar-with-application-form-1-6ae02f3911c2a.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-dlsa west karbi anglong-para-legal-volunteer",
@@ -1956,7 +2125,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0562e7f2e090fe150ef8deb4466fdc/uploads/2026/10/2026101333.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-gauhati high court-group-d-mts-",
@@ -1973,7 +2142,7 @@
     "applyOnlineLink": "https://ghconline.gov.in/Recruitment/Notification-16-10-2026-AZL.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-nid assam-senior-assistant-finance-amp-accounts-",
@@ -1990,7 +2159,7 @@
     "applyOnlineLink": "https://nidj.ac.in/wp-content/uploads/2026/10/RecAdvtSrAsstFA14102026.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-nid assam-technical-instructor-and-more-design-instructor",
@@ -2007,7 +2176,7 @@
     "applyOnlineLink": "https://nidj.ac.in/wp-content/uploads/2026/10/RecAdvtTechnicalPosts15102026-1.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   },
   {
     "id": "assam-dlsa west karbi anglong-para-legal-volunteer",
@@ -2024,6 +2193,6 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0562e7f2e090fe150ef8deb4466fdc/uploads/2026/10/2026101333.pdf",
     "state": "Assam",
     "stateCode": "assam",
-    "scrapedAt": "2026-11-15"
+    "scrapedAt": "2026-11-16"
   }
 ]

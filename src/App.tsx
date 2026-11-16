@@ -353,6 +353,9 @@ export const App: React.FC = () => {
     // Load Jobs from Fetch, LocalStorage, or Seed Data
     const loadData = async () => {
       let finalJobs: JobPost[] = [];
+      const retentionCutoff = new Date();
+      retentionCutoff.setDate(retentionCutoff.getDate() - 35);
+
       try {
         const response = await fetch('/scraped-jobs.json');
         if (response.ok) {
@@ -362,7 +365,11 @@ export const App: React.FC = () => {
             if (savedJobsRaw) {
               const savedJobs = JSON.parse(savedJobsRaw) as JobPost[];
               const fetchedTitles = new Set(fetchedJobs.map(j => j.title));
-              const manualJobs = savedJobs.filter(j => !fetchedTitles.has(j.title));
+              // Only keep manual jobs that are recent (within 35 days / ~1 month)
+              const manualJobs = savedJobs.filter(j => 
+                !fetchedTitles.has(j.title) && 
+                (!j.postDate || new Date(j.postDate) >= retentionCutoff)
+              );
               finalJobs = [...fetchedJobs, ...manualJobs];
             } else {
               finalJobs = fetchedJobs;
@@ -383,10 +390,11 @@ export const App: React.FC = () => {
         }
       }
 
-      // Filter out any jobs belonging to the "Defense" or "Defance" categories and sanitize legacy numeric IDs
+      // Filter out Defense/Defance, discard posts older than 35 days (~1 month), and sanitize legacy numeric IDs
       const cleanJobs = finalJobs.filter(j => 
         !j.category.toLowerCase().includes('defen') && 
-        !j.category.toLowerCase().includes('defan')
+        !j.category.toLowerCase().includes('defan') &&
+        (!j.postDate || new Date(j.postDate) >= retentionCutoff)
       ).map(job => {
         // If job ID is missing OR has legacy numeric timestamp format (e.g. latest-jobs-1784429869619-11)
         if (!job.id || /-\d{10,}(-\d+)?$/.test(job.id)) {

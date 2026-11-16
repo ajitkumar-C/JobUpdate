@@ -704,9 +704,11 @@ async function scrapeSarkariPortal() {
       console.warn('⚠️ Could not load existing scraped-jobs.json for merging:', err.message);
     }
     
-    // Merge database by checking titles and deduplicate
+    // Merge database by checking titles and deduplicate (retain only last 35 days / ~1 month)
     const mergedJobs = [];
     const seenMergedKeys = new Set();
+    const retentionCutoff = new Date();
+    retentionCutoff.setDate(retentionCutoff.getDate() - 35);
     
     // Add scraped jobs first
     scrapedJobs.forEach(job => {
@@ -717,12 +719,15 @@ async function scrapeSarkariPortal() {
       }
     });
     
-    // Add existing jobs
+    // Add existing jobs if within the retention window (1 month)
     existingJobs.forEach(oldJob => {
       const key = `${oldJob.category.toLowerCase().trim()}||${oldJob.title.toLowerCase().trim()}`;
       if (!seenMergedKeys.has(key)) {
-        seenMergedKeys.add(key);
-        mergedJobs.push(oldJob);
+        const isRecent = oldJob.postDate && new Date(oldJob.postDate) >= retentionCutoff;
+        if (isRecent) {
+          seenMergedKeys.add(key);
+          mergedJobs.push(oldJob);
+        }
       }
     });
 

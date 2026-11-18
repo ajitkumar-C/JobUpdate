@@ -1,5 +1,93 @@
 [
   {
+    "id": "odisha-osssc-medical-laboratory-technician",
+    "title": "OSSSC Recruitment 2026 – Medical Laboratory Technician Posts",
+    "shortInfo": "OSSSC has announced notification for Medical Laboratory Technician posts. Required qualification: Diploma in MLT, BMLT. Last date to apply: 17-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "380",
+    "lastDate": "17-12-26",
+    "officialWebsite": "https://www.osssc.gov.in",
+    "notificationLink": "https://govtjobguru.in/wp-content/uploads/2026/11/OSSSC-Laboratory-Technician-recruitment-2026.pdf",
+    "applyOnlineLink": "https://www.osssc.gov.in/Public/Pages/Post_detail_information.aspx",
+    "state": "Odisha",
+    "stateCode": "odisha",
+    "scrapedAt": "2026-11-18",
+    "fees": [
+      {
+        "category": "General/OBC/EWS/Other Categories",
+        "fee": "₹500/-"
+      },
+      {
+        "category": "SC/ST/PwD Candidates",
+        "fee": "Nil (Exempted)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Registration Start Date (New User)",
+        "date": "17/11/2026"
+      },
+      {
+        "event": "Online Registration End Date (New User)",
+        "date": "10/12/2026"
+      },
+      {
+        "event": "Re-registration Start Date (Registered User)",
+        "date": "17/11/2026"
+      },
+      {
+        "event": "Re-registration End Date (Registered User)",
+        "date": "10/12/2026"
+      },
+      {
+        "event": "Online Application Submission Start Date",
+        "date": "17/11/2026"
+      },
+      {
+        "event": "Online Application Submission Last Date",
+        "date": "17/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Medical Laboratory Technician (District Cadre Group-C)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website www.osssc.gov.in and click on ‘Apply Online’ on the Home page.",
+      "Fresh candidates (New User) must register by clicking ‘Apply Online’. Registered Users must re-register by selecting the ‘Re-registration’ option under the Applicant Menu.",
+      "After Registration/Re-registration, login and fill up the online application form with all required details and documents.",
+      "Upload scanned passport size photograph (jpg/jpeg/png, 20kb–100kb) and full specimen signature (jpg/jpeg/png, 20kb–50kb).",
+      "Pay the examination fee of ₹500/- (if applicable) via Net Banking/Credit Card/Debit Card/UPI through the Payment Gateway. SC, ST, and PwD candidates are exempted.",
+      "Submit the online application before 17.12.2026. Print the Confirmation Page after successful payment.",
+      "Keep all original certificates and documents ready for Document Verification at a later stage."
+    ]
+  },
+  {
+    "id": "odisha-ravenshaw university-associate-professor-assistant-professor",
+    "title": "Ravenshaw University Recruitment 2026 – Associate Professor, Assistant Professor Posts",
+    "shortInfo": "Ravenshaw University has announced notification for Associate Professor, Assistant Professor posts. Required qualification: M.A, B.Ed, PG Diploma, M.Ed, M.P.Ed, M.Phil / Ph.D. Last date to apply: 03-12-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "35",
+    "lastDate": "03-12-26",
+    "officialWebsite": "https://ravenshawuniversity.ac.in/topnews/121.pdf",
+    "notificationLink": "https://ravenshawuniversity.ac.in/topnews/121.pdf",
+    "applyOnlineLink": "https://ravenshawuniversity.ac.in/topnews/121.pdf",
+    "state": "Odisha",
+    "stateCode": "odisha",
+    "scrapedAt": "2026-11-18"
+  },
+  {
     "id": "odisha-nlc-executive-engineer-mechanical-executive-engineer-e",
     "title": "NLC Recruitment 2026 – Executive Engineer (Mechanical), Executive Engineer (Electrical), Other Posts Posts",
     "shortInfo": "NLC has announced notification for Executive Engineer (Mechanical), Executive Engineer (Electrical), Other Posts posts. Required qualification: Bachelor Degree, Post Graduate Degree in relevant Engineering, Science. Last date to apply: 19-12-26.",
@@ -231,6 +319,91 @@
       "Take a printout of the Registration-cum-Application Form for future reference and produce it at the time of Document/Certificate verification.",
       "Candidates applying for more than one post must submit separate applications with unique email IDs for each post."
     ]
+  },
+  {
+    "id": "odisha-vikram dev university-part-time-faculty",
+    "title": "Vikram Dev University Recruitment 2026 – Part-time Faculty Posts",
+    "shortInfo": "Vikram Dev University has announced notification for Part-time Faculty posts. Required qualification: PG. Last date to apply: 17-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "3",
+    "lastDate": "17-12-26",
+    "officialWebsite": "https://vikramdevuniversity.ac.in/API//writable/uploads/20261117/1794916749_09572f151773a7d30517.pdf",
+    "notificationLink": "https://vikramdevuniversity.ac.in/API//writable/uploads/20261117/1794916749_09572f151773a7d30517.pdf",
+    "applyOnlineLink": "https://vikramdevuniversity.ac.in/API//writable/uploads/20261117/1794916749_09572f151773a7d30517.pdf",
+    "state": "Odisha",
+    "stateCode": "odisha",
+    "scrapedAt": "2026-11-18"
+  },
+  {
+    "id": "odisha-jnv boudh-tgt-pet-tgt-mathematics",
+    "title": "JNV Boudh Recruitment 2026 – TGT PET, TGT Mathematics Posts",
+    "shortInfo": "JNV Boudh has announced notification for TGT PET, TGT Mathematics posts. Required qualification: B.Sc, D.P.Ed, Diploma, B.Ed, M.Sc. Last date to apply: 21-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "4",
+    "lastDate": "21-11-26",
+    "officialWebsite": "https://boudh.odisha.gov.in/sites/default/files/2026-11/Notification%20and%20Application%20Format%20(2).pdf",
+    "notificationLink": "https://boudh.odisha.gov.in/sites/default/files/2026-11/Notification%20and%20Application%20Format%20(2).pdf",
+    "applyOnlineLink": "https://boudh.odisha.gov.in/sites/default/files/2026-11/Notification%20and%20Application%20Format%20(2).pdf",
+    "state": "Odisha",
+    "stateCode": "odisha",
+    "scrapedAt": "2026-11-18"
+  },
+  {
+    "id": "odisha-mcl-post-diploma-practical-training-pdpt-mining-discip",
+    "title": "MCL Recruitment 2026 – Post Diploma Practical Training (PDPT) - Mining Discipline Posts",
+    "shortInfo": "MCL has announced notification for Post Diploma Practical Training (PDPT) - Mining Discipline posts. Required qualification: Diploma. Last date to apply: 27-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "27-11-26",
+    "officialWebsite": "https://www.mahanadicoal.in/OurPeople/pdf/NOTIFICATION%20PDPT%20WARDS%202026-27%2007112026.pdf",
+    "notificationLink": "https://www.mahanadicoal.in/OurPeople/pdf/NOTIFICATION%20PDPT%20WARDS%202026-27%2007112026.pdf",
+    "applyOnlineLink": "https://www.mahanadicoal.in/OurPeople/pdf/NOTIFICATION%20PDPT%20WARDS%202026-27%2007112026.pdf",
+    "state": "Odisha",
+    "stateCode": "odisha",
+    "scrapedAt": "2026-11-18"
+  },
+  {
+    "id": "odisha-nit rourkela-professor",
+    "title": "NIT Rourkela Recruitment 2026 – Professor Posts",
+    "shortInfo": "NIT Rourkela has announced notification for Professor posts. Required qualification: M.Phil / Ph.D. Last date to apply: 20-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "20-12-26",
+    "officialWebsite": "https://www.nitrkl.ac.in/docs/Career/Faculty/2026/17112026105639623.pdf",
+    "notificationLink": "https://www.nitrkl.ac.in/docs/Career/Faculty/2026/17112026105639623.pdf",
+    "applyOnlineLink": "https://www.nitrkl.ac.in/docs/Career/Faculty/2026/17112026105639623.pdf",
+    "state": "Odisha",
+    "stateCode": "odisha",
+    "scrapedAt": "2026-11-18"
+  },
+  {
+    "id": "odisha-district judiciary, khurda-local-person-on-daily-wage-basis-cooking-sweeping-",
+    "title": "District Judiciary, Khurda Recruitment 2026 – Local Person on Daily Wage Basis (Cooking, Sweeping, Housekeeping) Posts",
+    "shortInfo": "District Judiciary, Khurda has announced notification for Local Person on Daily Wage Basis (Cooking, Sweeping, Housekeeping) posts. Required qualification: Other. Last date to apply: 19-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "19-11-26",
+    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3ec03e94fe9ac8dc10dd8b9a239e6abee/uploads/2026/11/2026111732.pdf",
+    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec03e94fe9ac8dc10dd8b9a239e6abee/uploads/2026/11/2026111732.pdf",
+    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec03e94fe9ac8dc10dd8b9a239e6abee/uploads/2026/11/2026111732.pdf",
+    "state": "Odisha",
+    "stateCode": "odisha",
+    "scrapedAt": "2026-11-18"
   },
   {
     "id": "odisha-icar-crri-young-professional-ii",
@@ -1196,23 +1369,6 @@
     "scrapedAt": "2026-11-18"
   },
   {
-    "id": "odisha-odisha wcd-additional-juvenile-justice-board-member",
-    "title": "Odisha WCD Recruitment 2026 – Additional Juvenile Justice Board, Member Posts",
-    "shortInfo": "Odisha WCD has announced notification for Additional Juvenile Justice Board, Member posts. Required qualification: . Last date to apply: 17-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "17-11-26",
-    "officialWebsite": "https://nabarangpur.odisha.gov.in/sites/default/files/2026-11/Adobe%20Scan%2010%20Nov%202026.pdf",
-    "notificationLink": "https://nabarangpur.odisha.gov.in/sites/default/files/2026-11/Adobe%20Scan%2010%20Nov%202026.pdf",
-    "applyOnlineLink": "https://nabarangpur.odisha.gov.in/sites/default/files/2026-11/Adobe%20Scan%2010%20Nov%202026.pdf",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-18"
-  },
-  {
     "id": "odisha-moef&amp;cc-assistant-udc",
     "title": "MoEF&amp;CC Recruitment 2026 – Assistant, UDC Posts",
     "shortInfo": "MoEF&amp;CC has announced notification for Assistant, UDC posts. Required qualification: Graduate. Last date to apply: 17-12-26.",
@@ -1310,23 +1466,6 @@
     "officialWebsite": "https://www.dahd.gov.in/static/uploads/2026/11/dc4258ec15f767397d6a2df2b26c517a.pdf",
     "notificationLink": "https://www.dahd.gov.in/static/uploads/2026/11/dc4258ec15f767397d6a2df2b26c517a.pdf",
     "applyOnlineLink": "https://www.dahd.gov.in/static/uploads/2026/11/dc4258ec15f767397d6a2df2b26c517a.pdf",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-18"
-  },
-  {
-    "id": "odisha-epi-senior-manager-electrical-e-4-",
-    "title": "EPI Recruitment 2026 – Senior Manager - Electrical (E-4) Posts",
-    "shortInfo": "EPI has announced notification for Senior Manager - Electrical (E-4) posts. Required qualification: Graduate, B.Tech/B.E. Last date to apply: 17-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "17-11-26",
-    "officialWebsite": "https://epi.gov.in/admin/image/1793702198_17112026_Walk_in_interviewPCOB.pdf",
-    "notificationLink": "https://epi.gov.in/admin/image/1793702198_17112026_Walk_in_interviewPCOB.pdf",
-    "applyOnlineLink": "https://epi.gov.in/admin/image/1793702198_17112026_Walk_in_interviewPCOB.pdf",
     "state": "Odisha",
     "stateCode": "odisha",
     "scrapedAt": "2026-11-18"
@@ -3513,114 +3652,6 @@
     "state": "Odisha",
     "stateCode": "odisha",
     "scrapedAt": "2026-11-18"
-  },
-  {
-    "id": "odisha-ousssc-constable-civil-constable-communication-constable-",
-    "title": "OUSSSC Recruitment 2026 – Constable (Civil), Constable (Communication), Constable OISF, Firefighter, Firefighting Driver, Driver PMT, Traffic Constable (Last Date Extended) Posts",
-    "shortInfo": "OUSSSC has announced notification for Constable (Civil), Constable (Communication), Constable OISF, Firefighter, Firefighting Driver, Driver PMT, Traffic Constable (Last Date Extended) posts. Required qualification: 10th / Matriculation or Higher Secondary (+2). Last date to apply: 17-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "7268",
-    "lastDate": "17-11-26",
-    "officialWebsite": "https://ousssc.odisha.gov.in",
-    "notificationLink": "https://ousssc.odisha.gov.in/Public/Pages/View_Content.aspx?id=qdQ52BB071UH5hFb1SsuoA==",
-    "applyOnlineLink": "https://ousssceabedana.odisha.gov.in/#/auth/landing",
-    "state": "Odisha",
-    "stateCode": "odisha",
-    "scrapedAt": "2026-11-18",
-    "fees": [
-      {
-        "category": "SC/ST Candidates",
-        "fee": "No Fee"
-      },
-      {
-        "category": "All Other Candidates (UR, SEBC, etc.)",
-        "fee": "₹500/-"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Advertisement Date",
-        "date": "23/10/2026"
-      },
-      {
-        "event": "Online Registration Start Date",
-        "date": "23/10/2026"
-      },
-      {
-        "event": "Online Registration End Date (Extended Upto)",
-        "date": "17/11/2026"
-      },
-      {
-        "event": "Last Date for Online Fee Payment (Extended Upto)",
-        "date": "18/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Constable (Civil)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Constable (Communication)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Constable OISF",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Firefighter",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Firefighting Driver",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Driver PMT",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Traffic Constable",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the official OUSSSC website: https://ousssc.odisha.gov.in",
-      "Locate the relevant recruitment advertisement and click the Apply button to access the online recruitment portal.",
-      "Click Register to create a new account and complete Basic Registration by providing personal details, verifying email and mobile via OTP, and creating a password.",
-      "After Basic Registration, log in and complete Detailed Registration by filling in Personal Details, Other Details, Educational Qualification, uploading required documents, and selecting post preferences and examination districts.",
-      "Upload scanned copies of all required certificates and documents (photograph, signature, left thumb impression, educational certificates, caste certificate, identity proof, etc.) in the specified formats and sizes.",
-      "Select preferred posts in order of preference and choose up to three preferred examination districts.",
-      "Review the application carefully in the Preview section before final submission.",
-      "Pay the examination fee of ₹500/- (if applicable, i.e., candidates other than SC/ST) using Net Banking, Credit Card, Debit Card, or UPI through the Payment Gateway.",
-      "After successful submission/payment, download and print the confirmation page and application form for future reference.",
-      "Check Application History on the portal to verify submission and payment status."
-    ]
   },
   {
     "id": "odisha-omc-director",

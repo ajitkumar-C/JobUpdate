@@ -1,5 +1,648 @@
 [
   {
+    "id": "up-bhu-nursing-officer-medical-officer-other-posts",
+    "title": "BHU Recruitment 2026 – Nursing Officer, Medical Officer, Other Posts Posts",
+    "shortInfo": "BHU has announced notification for Nursing Officer, Medical Officer, Other Posts posts. Required qualification: MBBS, B.Sc. Nursing, Diploma, B.Sc., M.Sc., Post Graduate Degree. Last date to apply: 15-12-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "633",
+    "lastDate": "15-12-26",
+    "officialWebsite": "https://bhu.ac.in",
+    "notificationLink": "https://www.bhu.ac.in/Images/files/Advt%20No_%2006-2026-27%20hospital%20group%20A%20B%20%26%20C%202026.pdf",
+    "applyOnlineLink": "https://bhunt.samarth.edu.in/index.php/site/login",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-11-18",
+    "fees": [
+      {
+        "category": "UR, EWS and OBC (Group A posts)",
+        "fee": "Rs. 1000/-"
+      },
+      {
+        "category": "UR, EWS and OBC (Group B & C posts)",
+        "fee": "Rs. 500/-"
+      },
+      {
+        "category": "SC, ST, PwDs and Women candidates",
+        "fee": "No Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date for Online Submission of Application Form and Fee Payment",
+        "date": "15/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Deputy Medical Superintendent",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Chief Nursing Officer (Deputation)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Nursing Superintendent",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medical Officer (Sir Sunderlal Hospital/Trauma Centre/UEHCC/USHCC etc.)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medical Officer (National Centre of Ageing)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medical Officer (Specialist) – Critical Care and Burns Block",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Radiological Physicist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Optometrist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Nursing Officer (Female) – Sir Sunderlal Hospital/UEHCC/USHCC/Centenary Super Specialty Complex/Trauma Centre/IMS",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Nursing Officer (Male) – Sir Sunderlal Hospital/UEHCC/USHCC/Centenary Super Specialty Complex/Trauma Centre/IMS",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Nursing Officer (Female) – National Centre of Ageing",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Nursing Officer (Male) – National Centre of Ageing",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medical Record Officer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Physiotherapist (National Centre of Ageing)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Occupational Therapist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Medical Social Worker – Critical Care and Burns Block",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Physiotherapist – Sir Sunderlal Hospital/Trauma Centre",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Dental Hygienist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Dental Instrument Mechanic",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Dental Mechanic",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Panch Karma Therapist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medical Social Worker",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Biofeedback Therapist",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Technical Assistant (Speech & Hearing)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Dietician",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technical Assistant (Medical Record)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Biofeedback Assistant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Health Educator",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technical Assistant (Cath Lab)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technical Assistant (Dialysis)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technical Assistant (Perfusionist)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technical Assistant (OT-cum-Anaesthesia)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technical Assistant (Optometry)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Laboratory Assistant (Radiology)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Laboratory Assistant (Speech & Hearing)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Assistant (Medical Record)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Radiology Assistant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Workshop Assistant (Medical Gas)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Laboratory Attendant (OT-cum-Anaesthesia)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Laboratory Attendant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Workshop Attendant",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates shall first register on the Recruitment &amp; Assessment Cell Samarth portal on the BHU website at https://bhunt.samarth.edu.in/index.php/site/login.",
+      "After registration, fill up the prescribed electronic application form online.",
+      "Upload a recent passport-size photograph and signature in JPEG format, each not exceeding 50 KB.",
+      "Submit separate applications for different positions.",
+      "After successful submission, candidates will be directed to the payment gateway for online payment of application fee, if applicable.",
+      "Pay the application fee through Internet Banking/Debit Card/Credit Card/UPI via the payment gateway.",
+      "Retain a copy of the successfully submitted online application form and payment receipt for future reference.",
+      "Applicants who are in employment should route their application through proper channel or submit a ‘No Objection Certificate’ from the employer prior to the interview/selection process."
+    ]
+  },
+  {
+    "id": "up-cmp degree college-assistant-professor-other-posts",
+    "title": "CMP Degree College Recruitment 2026 – Assistant Professor, Other Posts Posts",
+    "shortInfo": "CMP Degree College has announced notification for Assistant Professor, Other Posts posts. Required qualification: Master Degree, NET/SET/SLET/PhD. Last date to apply: 08-12-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "44",
+    "lastDate": "08-12-26",
+    "officialWebsite": "https://cmpcollege.ac.in",
+    "notificationLink": "https://cmpcollege.ac.in/storage/uploads/media//1794849978_NnHdBw.pdf",
+    "applyOnlineLink": "https://recruitment.cmpcollege.ac.in/",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-11-18",
+    "fees": [
+      {
+        "category": "General / OBC / EWS",
+        "fee": "2500/-"
+      },
+      {
+        "category": "SC / ST / PH",
+        "fee": "1500/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Application Start Date",
+        "date": "17/11/2026"
+      },
+      {
+        "event": "Last Date for Apply Online",
+        "date": "08/12/2026"
+      },
+      {
+        "event": "Pay Exam Fee Last Date",
+        "date": "08/12/2026"
+      },
+      {
+        "event": "Last Date for Receiving Hard Copy",
+        "date": "15/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Law",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Political Science",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Sociology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Computer Science",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Statistics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Botany",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Chemistry",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Commerce",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Economics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Education",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "English",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Geography",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Medieval History",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Music",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Philosophy",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Physics",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Psychology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Zoology",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Urdu",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Read the Notification Before Applying the C.M.P Assistant Professor Latest Recruitment 2026 Application Form.",
+      "Check and Collect all Documents – Handwriting, Eligibility, ID Proof, Address Details, Basic Details.",
+      "Ready Scanned Documents related to Recruitment Form – Photo, Sign, ID, Thumb, Proof, etc.",
+      "Before Submitting the Application Form, check the Preview and all Columns carefully.",
+      "Pay the Application Fee if required. If you have not paid the required Application Fees, your Form will not be completed.",
+      "Take a Print Out of the Final Submitted Form."
+    ]
+  },
+  {
+    "id": "up-dfccil-jgm-dgm",
+    "title": "DFCCIL Recruitment 2026 – JGM, DGM Posts",
+    "shortInfo": "DFCCIL has announced notification for JGM, DGM posts. Required qualification: Retired Staff. Last date to apply: 08-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "4",
+    "lastDate": "08-12-26",
+    "officialWebsite": "https://dfccil.com/upload/Static-one_merged-(20)_KNOM.pdf",
+    "notificationLink": "https://dfccil.com/upload/Static-one_merged-(20)_KNOM.pdf",
+    "applyOnlineLink": "https://dfccil.com/upload/Static-one_merged-(20)_KNOM.pdf",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-11-18"
+  },
+  {
+    "id": "up-upmrc-chief-engineer",
+    "title": "UPMRC Recruitment 2026 – Chief Engineer Posts",
+    "shortInfo": "UPMRC has announced notification for Chief Engineer posts. Required qualification: B.Tech / B.E. Last date to apply: 16-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "16-12-26",
+    "officialWebsite": "https://upmrcl-media.s3.amazonaws.com/media/documents/CE_CIVIL_Notification_c2LorgB.pdf",
+    "notificationLink": "https://upmrcl-media.s3.amazonaws.com/media/documents/CE_CIVIL_Notification_c2LorgB.pdf",
+    "applyOnlineLink": "https://upmrcl-media.s3.amazonaws.com/media/documents/CE_CIVIL_Notification_c2LorgB.pdf",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-11-18"
+  },
+  {
+    "id": "up-integral university-data-analyst",
+    "title": "Integral University Recruitment 2026 – Data Analyst Posts",
+    "shortInfo": "Integral University has announced notification for Data Analyst posts. Required qualification: MCA, M.E / M.Tech, B.Tech / B.E. Last date to apply: 22-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "22-11-26",
+    "officialWebsite": "https://iul.ac.in/CMS/News/fileupload/Academic-News-5RZ-20261106123158993.pdf",
+    "notificationLink": "https://iul.ac.in/CMS/News/fileupload/Academic-News-5RZ-20261106123158993.pdf",
+    "applyOnlineLink": "https://iul.ac.in/CMS/News/fileupload/Academic-News-5RZ-20261106123158993.pdf",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-11-18"
+  },
+  {
+    "id": "up-aiims raebareli-junior-resident",
+    "title": "AIIMS Raebareli Recruitment 2026 – Junior Resident Posts",
+    "shortInfo": "AIIMS Raebareli has announced notification for Junior Resident posts. Required qualification: MBBS. Last date to apply: 23-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "10",
+    "lastDate": "23-11-26",
+    "officialWebsite": "https://aiimsrbl.edu.in/recruitments%5Cdownload%5C132",
+    "notificationLink": "https://aiimsrbl.edu.in/recruitments%5Cdownload%5C132",
+    "applyOnlineLink": "https://aiimsrbl.edu.in/recruitments%5Cdownload%5C132",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-11-18"
+  },
+  {
+    "id": "up-rlbcau-associate-professor-and-more-professor",
+    "title": "RLBCAU Recruitment 2026 – Associate Professor and More, Professor Posts",
+    "shortInfo": "RLBCAU has announced notification for Associate Professor and More, Professor posts. Required qualification: M.Phil / Ph.D, PG. Last date to apply: 18-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "82",
+    "lastDate": "18-12-26",
+    "officialWebsite": "https://rlbcau.ac.in/wp-content/uploads/2026/11/Advt_09_26.pdf",
+    "notificationLink": "https://rlbcau.ac.in/wp-content/uploads/2026/11/Advt_09_26.pdf",
+    "applyOnlineLink": "https://rlbcau.ac.in/wp-content/uploads/2026/11/Advt_09_26.pdf",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-11-18"
+  },
+  {
+    "id": "up-iittm noida-field-project-associate",
+    "title": "IITTM Noida Recruitment 2026 – Field Project Associate Posts",
+    "shortInfo": "IITTM Noida has announced notification for Field Project Associate posts. Required qualification: PG. Last date to apply: 19-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "19-11-26",
+    "officialWebsite": "https://www.iittmnoida.ac.in/wp-content/uploads/2026/11/PDF-IITTM_Agra_Advertisement_Website.pdf",
+    "notificationLink": "https://www.iittmnoida.ac.in/wp-content/uploads/2026/11/PDF-IITTM_Agra_Advertisement_Website.pdf",
+    "applyOnlineLink": "https://www.iittmnoida.ac.in/wp-content/uploads/2026/11/PDF-IITTM_Agra_Advertisement_Website.pdf",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-11-18"
+  },
+  {
+    "id": "up-cmo moradabad-medical-officer",
+    "title": "CMO Moradabad Recruitment 2026 – Medical Officer Posts",
+    "shortInfo": "CMO Moradabad has announced notification for Medical Officer posts. Required qualification: PG Diploma, MBBS. Last date to apply: 23-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "29",
+    "lastDate": "23-11-26",
+    "officialWebsite": "https://cdn.s3waas.gov.in/s382161242827b703e6acf9c726942a1e4/uploads/2026/11/17949287752160.pdf",
+    "notificationLink": "https://cdn.s3waas.gov.in/s382161242827b703e6acf9c726942a1e4/uploads/2026/11/17949287752160.pdf",
+    "applyOnlineLink": "https://cdn.s3waas.gov.in/s382161242827b703e6acf9c726942a1e4/uploads/2026/11/17949287752160.pdf",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-11-18"
+  },
+  {
     "id": "up-nlc-executive-engineer-mechanical-executive-engineer-e",
     "title": "NLC Recruitment 2026 – Executive Engineer (Mechanical), Executive Engineer (Electrical), Other Posts Posts",
     "shortInfo": "NLC has announced notification for Executive Engineer (Mechanical), Executive Engineer (Electrical), Other Posts posts. Required qualification: Bachelor Degree, Post Graduate Degree in relevant Engineering, Science. Last date to apply: 19-12-26.",
@@ -231,6 +874,210 @@
       "Take a printout of the Registration-cum-Application Form for future reference and produce it at the time of Document/Certificate verification.",
       "Candidates applying for more than one post must submit separate applications with unique email IDs for each post."
     ]
+  },
+  {
+    "id": "up-crpf-specialist-medical-officer-surgeon",
+    "title": "CRPF Recruitment 2026 – Specialist Medical Officer, Surgeon Posts",
+    "shortInfo": "CRPF has announced notification for Specialist Medical Officer, Surgeon posts. Required qualification: PG Diploma, MBBS, Diploma (Walk-in). Last date to apply: 15-12-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "19",
+    "lastDate": "15-12-26",
+    "officialWebsite": "https://rect.crpf.gov.in/Upload/Recruitment/Walk-in-interview_for_19_Specialist_Medical_Officers_337112026-567.pdf",
+    "notificationLink": "https://rect.crpf.gov.in/Upload/Recruitment/Walk-in-interview_for_19_Specialist_Medical_Officers_337112026-567.pdf",
+    "applyOnlineLink": "https://rect.crpf.gov.in/Upload/Recruitment/Walk-in-interview_for_19_Specialist_Medical_Officers_337112026-567.pdf",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-11-18"
+  },
+  {
+    "id": "up-ncc gp hq prayagraj-associate-ncc-officer-ano-senior-division",
+    "title": "NCC Gp HQ Prayagraj Recruitment 2026 – Associate NCC Officer (ANO) - Senior Division Posts",
+    "shortInfo": "NCC Gp HQ Prayagraj has announced notification for Associate NCC Officer (ANO) - Senior Division posts. Required qualification: Graduate, PG. Last date to apply: 30-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "30-11-26",
+    "officialWebsite": "https://allduniv.ac.in/public/upload/news/Adobe%20Scan%2016%20Nov%202026_removed.pdf",
+    "notificationLink": "https://allduniv.ac.in/public/upload/news/Adobe%20Scan%2016%20Nov%202026_removed.pdf",
+    "applyOnlineLink": "https://allduniv.ac.in/public/upload/news/Adobe%20Scan%2016%20Nov%202026_removed.pdf",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-11-18"
+  },
+  {
+    "id": "up-upmrc-general-manager-hr-",
+    "title": "UPMRC Recruitment 2026 – General Manager (HR) Posts",
+    "shortInfo": "UPMRC has announced notification for General Manager (HR) posts. Required qualification: Graduate. Last date to apply: 16-12-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "16-12-26",
+    "officialWebsite": "https://upmrcl-media.s3.amazonaws.com/media/documents/GM_HR_Notification_E0wfGtk.pdf",
+    "notificationLink": "https://upmrcl-media.s3.amazonaws.com/media/documents/GM_HR_Notification_E0wfGtk.pdf",
+    "applyOnlineLink": "https://upmrcl-media.s3.amazonaws.com/media/documents/GM_HR_Notification_E0wfGtk.pdf",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-11-18"
+  },
+  {
+    "id": "up-nsi-young-professional-of-organic-chemistry",
+    "title": "NSI Recruitment 2026 – Young Professional of Organic Chemistry Posts",
+    "shortInfo": "NSI has announced notification for Young Professional of Organic Chemistry posts. Required qualification: PG. Last date to apply: 17-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "17-12-26",
+    "officialWebsite": "https://nsi.gov.in/storage/files/1/Vacancies/Engagement_Young_Professional_Organic_Chemistry-17112026.pdf",
+    "notificationLink": "https://nsi.gov.in/storage/files/1/Vacancies/Engagement_Young_Professional_Organic_Chemistry-17112026.pdf",
+    "applyOnlineLink": "https://nsi.gov.in/storage/files/1/Vacancies/Engagement_Young_Professional_Organic_Chemistry-17112026.pdf",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-11-18"
+  },
+  {
+    "id": "up-biet jhansi-junior-research-assistant",
+    "title": "BIET Jhansi Recruitment 2026 – Junior Research Assistant Posts",
+    "shortInfo": "BIET Jhansi has announced notification for Junior Research Assistant posts. Required qualification: M.E / M.Tech, B.Tech / B.E. Last date to apply: 30-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "30-11-26",
+    "officialWebsite": "https://bietjhs.ac.in/public/media/files/144731Advertisement_171126.pdf",
+    "notificationLink": "https://bietjhs.ac.in/public/media/files/144731Advertisement_171126.pdf",
+    "applyOnlineLink": "https://bietjhs.ac.in/public/media/files/144731Advertisement_171126.pdf",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-11-18"
+  },
+  {
+    "id": "up-hal-graduate-apprentice-diploma-apprentice",
+    "title": "HAL Recruitment 2026 – Graduate Apprentice, Diploma Apprentice Posts",
+    "shortInfo": "HAL has announced notification for Graduate Apprentice, Diploma Apprentice posts. Required qualification: B.B.A, Diploma, B.Com, B.Sc, B.Tech / B.E. Last date to apply: 07-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "07-12-26",
+    "officialWebsite": "https://hal-india.co.in/backend//wp-content/uploads/career/Degree%20and%20Diploma%20Apprenticeship%20Notification%202026-27_1794905502.pdf",
+    "notificationLink": "https://hal-india.co.in/backend//wp-content/uploads/career/Degree%20and%20Diploma%20Apprenticeship%20Notification%202026-27_1794905502.pdf",
+    "applyOnlineLink": "https://hal-india.co.in/backend//wp-content/uploads/career/Degree%20and%20Diploma%20Apprenticeship%20Notification%202026-27_1794905502.pdf",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-11-18"
+  },
+  {
+    "id": "up-bel-graduate-apprentice",
+    "title": "BEL Recruitment 2026 – Graduate Apprentice Posts",
+    "shortInfo": "BEL has announced notification for Graduate Apprentice posts. Required qualification: B.Tech / B.E. Last date to apply: 30-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "15",
+    "lastDate": "30-11-26",
+    "officialWebsite": "https://bel-india.in/wp-content/uploads/2026/11/Graduate-Adv.pdf",
+    "notificationLink": "https://bel-india.in/wp-content/uploads/2026/11/Graduate-Adv.pdf",
+    "applyOnlineLink": "https://bel-india.in/wp-content/uploads/2026/11/Graduate-Adv.pdf",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-11-18"
+  },
+  {
+    "id": "up-sgpgims-senior-project-assistant-data-entry-operator",
+    "title": "SGPGIMS Recruitment 2026 – Senior Project Assistant, Data Entry Operator Posts",
+    "shortInfo": "SGPGIMS has announced notification for Senior Project Assistant, Data Entry Operator posts. Required qualification: PG, Graduate. Last date to apply: 24-11-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "24-11-26",
+    "officialWebsite": "https://sgpgims.org.in/Home/recruit/Project/2026/Proj_NSG_DrPawan_171126.pdf",
+    "notificationLink": "https://sgpgims.org.in/Home/recruit/Project/2026/Proj_NSG_DrPawan_171126.pdf",
+    "applyOnlineLink": "https://sgpgims.org.in/Home/recruit/Project/2026/Proj_NSG_DrPawan_171126.pdf",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-11-18"
+  },
+  {
+    "id": "up-jiit-junior-research-assistant",
+    "title": "JIIT Recruitment 2026 – Junior Research Assistant Posts",
+    "shortInfo": "JIIT has announced notification for Junior Research Assistant posts. Required qualification: M.E / M.Tech, B.Tech / B.E, M.Sc. Last date to apply: 20-12-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "20-12-26",
+    "officialWebsite": "https://www.jiit.ac.in/uploads/Advt_JRA_CSE_1b2cf79faa.pdf",
+    "notificationLink": "https://www.jiit.ac.in/uploads/Advt_JRA_CSE_1b2cf79faa.pdf",
+    "applyOnlineLink": "https://www.jiit.ac.in/uploads/Advt_JRA_CSE_1b2cf79faa.pdf",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-11-18"
+  },
+  {
+    "id": "up-hal-non-engineering-graduate-apprentice-bsc-nursing-",
+    "title": "HAL Recruitment 2026 – Non-Engineering Graduate Apprentice (BSc Nursing) Posts",
+    "shortInfo": "HAL has announced notification for Non-Engineering Graduate Apprentice (BSc Nursing) posts. Required qualification: B.Sc. Last date to apply: 01-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "01-12-26",
+    "officialWebsite": "https://hal-india.co.in/backend//wp-content/uploads/career/Advertisement%20for%20Selection%20of%20Non-%20Engineering%20Graduate%20Apprentice%20_BSc%20in%20Nursing%202026-27_1794893360.pdf",
+    "notificationLink": "https://hal-india.co.in/backend//wp-content/uploads/career/Advertisement%20for%20Selection%20of%20Non-%20Engineering%20Graduate%20Apprentice%20_BSc%20in%20Nursing%202026-27_1794893360.pdf",
+    "applyOnlineLink": "https://hal-india.co.in/backend//wp-content/uploads/career/Advertisement%20for%20Selection%20of%20Non-%20Engineering%20Graduate%20Apprentice%20_BSc%20in%20Nursing%202026-27_1794893360.pdf",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-11-18"
+  },
+  {
+    "id": "up-ccsu-project-associate-i",
+    "title": "CCSU Recruitment 2026 – Project Associate-I Posts",
+    "shortInfo": "CCSU has announced notification for Project Associate-I posts. Required qualification: PG. Last date to apply: 08-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "08-12-26",
+    "officialWebsite": "https://cdn.ccsuniversity.ac.in/public/pdf/2026/11/New%20Doc%2011-16-2026%2012.13.pdf",
+    "notificationLink": "https://cdn.ccsuniversity.ac.in/public/pdf/2026/11/New%20Doc%2011-16-2026%2012.13.pdf",
+    "applyOnlineLink": "https://cdn.ccsuniversity.ac.in/public/pdf/2026/11/New%20Doc%2011-16-2026%2012.13.pdf",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-11-18"
+  },
+  {
+    "id": "up-kv afs manauri-tgt-trained-graduate-teacher-",
+    "title": "KV AFS Manauri Recruitment 2026 – TGT (Trained Graduate Teacher) Posts",
+    "shortInfo": "KV AFS Manauri has announced notification for TGT (Trained Graduate Teacher) posts. Required qualification: M.Ed, B.Ed. Last date to apply: 18-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "18-11-26",
+    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3kv0197c6f8e6b4c41d76f9b079d0e841/uploads/2026/11/2026111775.pdf",
+    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3kv0197c6f8e6b4c41d76f9b079d0e841/uploads/2026/11/2026111775.pdf",
+    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3kv0197c6f8e6b4c41d76f9b079d0e841/uploads/2026/11/2026111775.pdf",
+    "state": "Uttar Pradesh",
+    "stateCode": "up",
+    "scrapedAt": "2026-11-18"
   },
   {
     "id": "up-aiims raebareli-senior-research-fellow-srf-senior-research-assista",
@@ -1032,23 +1879,6 @@
     "scrapedAt": "2026-11-18"
   },
   {
-    "id": "up-bbau-contractual-faculty",
-    "title": "BBAU Recruitment 2026 – Contractual Faculty Posts",
-    "shortInfo": "BBAU has announced notification for Contractual Faculty posts. Required qualification: . Last date to apply: 17-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "5",
-    "lastDate": "17-11-26",
-    "officialWebsite": "https://www.bbau.ac.in/Office%20Notice/off%20note/nov26/Advertisement%20and%20Application%20form%20for%20Contractual%20Faculty.pdf",
-    "notificationLink": "https://www.bbau.ac.in/Office%20Notice/off%20note/nov26/Advertisement%20and%20Application%20form%20for%20Contractual%20Faculty.pdf",
-    "applyOnlineLink": "https://www.bbau.ac.in/Office%20Notice/off%20note/nov26/Advertisement%20and%20Application%20form%20for%20Contractual%20Faculty.pdf",
-    "state": "Uttar Pradesh",
-    "stateCode": "up",
-    "scrapedAt": "2026-11-18"
-  },
-  {
     "id": "up-iit (bhu)-project-technical-support-iii-",
     "title": "IIT (BHU) Recruitment 2026 – Project Technical Support (III) Posts",
     "shortInfo": "IIT (BHU) has announced notification for Project Technical Support (III) posts. Required qualification: M.E / M.Tech, M.Pharma, MS. Last date to apply: 02-12-26.",
@@ -1678,23 +2508,6 @@
     ]
   },
   {
-    "id": "up-unnao district court-junior-assistant",
-    "title": "Unnao District Court Recruitment 2026 – Junior Assistant Posts",
-    "shortInfo": "Unnao District Court has announced notification for Junior Assistant posts. Required qualification: . Last date to apply: 17-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "19",
-    "lastDate": "17-11-26",
-    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3ec0598afdcc1ebd85daa0f1749c5e56b/uploads/2026/11/2026110551.pdf",
-    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec0598afdcc1ebd85daa0f1749c5e56b/uploads/2026/11/2026110551.pdf",
-    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0598afdcc1ebd85daa0f1749c5e56b/uploads/2026/11/2026110551.pdf",
-    "state": "Uttar Pradesh",
-    "stateCode": "up",
-    "scrapedAt": "2026-11-18"
-  },
-  {
     "id": "up-uppsc-sports-officer-and-more-assistant-architect-planne",
     "title": "UPPSC Recruitment 2026 – Sports Officer and More, Assistant Architect Planner Posts",
     "shortInfo": "UPPSC has announced notification for Sports Officer and More, Assistant Architect Planner posts. Required qualification: Post Graduate, B.Arch, B.Tech / B.E, PG Diploma. Last date to apply: 04-12-26.",
@@ -1815,23 +2628,6 @@
     "scrapedAt": "2026-11-18"
   },
   {
-    "id": "up-nios-senior-consultant-it-lms-consultant-it-lms-",
-    "title": "NIOS Recruitment 2026 – Senior Consultant (IT / LMS), Consultant (IT / LMS) Posts",
-    "shortInfo": "NIOS has announced notification for Senior Consultant (IT / LMS), Consultant (IT / LMS) posts. Required qualification: Post Graduate. Last date to apply: 17-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "3",
-    "lastDate": "17-11-26",
-    "officialWebsite": "https://nios.ac.in/media%5Cdocuments%5Cvacancy%5Cyr2026%5CCon_IT_LMS.pdf",
-    "notificationLink": "https://nios.ac.in/media%5Cdocuments%5Cvacancy%5Cyr2026%5CCon_IT_LMS.pdf",
-    "applyOnlineLink": "https://nios.ac.in/media%5Cdocuments%5Cvacancy%5Cyr2026%5CCon_IT_LMS.pdf",
-    "state": "Uttar Pradesh",
-    "stateCode": "up",
-    "scrapedAt": "2026-11-18"
-  },
-  {
     "id": "up-shri tulsidas udayraj sanskrit mahavidyalaya-teacher-assistant-professor",
     "title": "Shri Tulsidas Udayraj Sanskrit Mahavidyalaya Recruitment 2026 – Teacher, Assistant Professor Posts",
     "shortInfo": "Shri Tulsidas Udayraj Sanskrit Mahavidyalaya has announced notification for Teacher, Assistant Professor posts. Required qualification: Post Graduate. Last date to apply: 18-11-26.",
@@ -1881,65 +2677,6 @@
     "state": "Uttar Pradesh",
     "stateCode": "up",
     "scrapedAt": "2026-11-18"
-  },
-  {
-    "id": "up-district court unnao-class-and-more-junior-assistant",
-    "title": "District Court Unnao Recruitment 2026 – Class and More, Junior Assistant Posts",
-    "shortInfo": "District Court Unnao has announced notification for Class and More, Junior Assistant posts. Required qualification: . Last date to apply: 17-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "27",
-    "lastDate": "17-11-26",
-    "officialWebsite": "https://www.allahabadhighcourt.in",
-    "notificationLink": "https://www.allahabadhighcourt.in/event/event_27498_05-11-2026.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/district-court-unnao-junior-assistant-recruitment-2026/",
-    "state": "Uttar Pradesh",
-    "stateCode": "up",
-    "scrapedAt": "2026-11-18",
-    "fees": [],
-    "dates": [
-      {
-        "event": "Notification Date",
-        "date": "05/11/2026"
-      },
-      {
-        "event": "Last Date to Apply",
-        "date": "17/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Junior Assistant (Kanishtha Sahayak)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Fourth Class (Chaturthi Shreni)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Sweeper (Sweepar)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Eligible retired employees of District Court Unnao should obtain the prescribed application format (attached with the notification).",
-      "Fill in all required details including name, father/husband’s name, date of birth, date of retirement, last post held, identity proof details, permanent address, temporary address, mobile number, email ID, and educational qualification.",
-      "Attach a copy of the last drawn salary and pension order along with the application form.",
-      "Submit a signed undertaking declaring physical fitness, clean service record, and no pending criminal/civil cases.",
-      "Submit the completed application form in person at the Administrative Office, District Court, Unnao by 5:00 PM on 17-11-2026.",
-      "Applications received after the deadline will not be considered."
-    ]
   },
   {
     "id": "up-csjmu-project-fellow",
@@ -2616,23 +3353,6 @@
     "scrapedAt": "2026-11-18"
   },
   {
-    "id": "up-rmlau-field-assistant",
-    "title": "RMLAU Recruitment 2026 – Field Assistant Posts",
-    "shortInfo": "RMLAU has announced notification for Field Assistant posts. Required qualification: 12TH. Last date to apply: 17-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "17-11-26",
-    "officialWebsite": "https://www.rmlau.ac.in/news/RMLCareer_311026110342.pdf",
-    "notificationLink": "https://www.rmlau.ac.in/news/RMLCareer_311026110342.pdf",
-    "applyOnlineLink": "https://www.rmlau.ac.in/news/RMLCareer_311026110342.pdf",
-    "state": "Uttar Pradesh",
-    "stateCode": "up",
-    "scrapedAt": "2026-11-18"
-  },
-  {
     "id": "up-bbau-project-associate-i-junior-research-fellow-jrf-",
     "title": "BBAU Recruitment 2026 – Project Associate - I, Junior Research Fellow (JRF) Posts",
     "shortInfo": "BBAU has announced notification for Project Associate - I, Junior Research Fellow (JRF) posts. Required qualification: M.Sc. Last date to apply: 18-11-26.",
@@ -2912,23 +3632,6 @@
     ]
   },
   {
-    "id": "up-rmlau-field-assistant",
-    "title": "RMLAU Recruitment 2026 – Field Assistant Posts",
-    "shortInfo": "RMLAU has announced notification for Field Assistant posts. Required qualification: 12TH. Last date to apply: 17-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "17-11-26",
-    "officialWebsite": "https://www.rmlau.ac.in/news/RMLCareer_311026110342.pdf",
-    "notificationLink": "https://www.rmlau.ac.in/news/RMLCareer_311026110342.pdf",
-    "applyOnlineLink": "https://www.rmlau.ac.in/news/RMLCareer_311026110342.pdf",
-    "state": "Uttar Pradesh",
-    "stateCode": "up",
-    "scrapedAt": "2026-11-18"
-  },
-  {
     "id": "up-atal awasiya vidyalaya-guest-faculty-computer-teacher-tgt-",
     "title": "Atal Awasiya Vidyalaya Recruitment 2026 – Guest Faculty Computer Teacher (TGT) Posts",
     "shortInfo": "Atal Awasiya Vidyalaya has announced notification for Guest Faculty Computer Teacher (TGT) posts. Required qualification: B.Tech / B.E, BCA, MCA, Post Graduate, Graduate, B.Sc. Last date to apply: 18-11-26.",
@@ -3141,23 +3844,6 @@
       "Only Indian Nationals are eligible to apply.",
       "Candidates who have acquired or are pursuing higher qualifications are not eligible."
     ]
-  },
-  {
-    "id": "up-cmo raebareli-medical-officer",
-    "title": "CMO Raebareli Recruitment 2026 – Medical Officer Posts",
-    "shortInfo": "CMO Raebareli has announced notification for Medical Officer posts. Required qualification: MBBS. Last date to apply: 17-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "18",
-    "lastDate": "17-11-26",
-    "officialWebsite": "https://cdn.s3waas.gov.in/s3e3796ae838835da0b6f6ea37bcf8bcb7/uploads/2026/10/17931893901048.pdf",
-    "notificationLink": "https://cdn.s3waas.gov.in/s3e3796ae838835da0b6f6ea37bcf8bcb7/uploads/2026/10/17931893901048.pdf",
-    "applyOnlineLink": "https://cdn.s3waas.gov.in/s3e3796ae838835da0b6f6ea37bcf8bcb7/uploads/2026/10/17931893901048.pdf",
-    "state": "Uttar Pradesh",
-    "stateCode": "up",
-    "scrapedAt": "2026-11-18"
   },
   {
     "id": "up-bsa lakhimpur kheri-principal-post-graduate-teacher-lab-assistant-peon",
@@ -4856,7 +5542,7 @@
       "Download the prescribed application format from the official website: www.asmcbrh.edu.in",
       "Fill in the application form completely with all required details.",
       "Attach all relevant documents along with the application.",
-      "Attach a Demand Draft of Rs. 2,000/- payable in favour of “Principal, ASMC and Associated Teaching Hospitals Bahraich” as application fee.",
+      "Attach a Demand Draft of Rs. 2,000/- payable in favour of &#8220;Principal, ASMC and Associated Teaching Hospitals Bahraich&#8221; as application fee.",
       "Candidates working in any institute must submit a No Objection Certificate (NOC) from the concerned institute.",
       "Send the completed application by registered/speed post to: Office of the Principal, MSD Autonomous State Medical College &amp; Maharishi Balark Hospitals, KDC Road, Bahraich-271801, Uttar Pradesh.",
       "Applications must reach by 25.11.2026 till 05:00 p.m.",
@@ -5513,23 +6199,6 @@
     "officialWebsite": "https://iwai.gov.in/sites/default/files/2026-10/emp._notice_of_section_officer_2026.pdf",
     "notificationLink": "https://iwai.gov.in/sites/default/files/2026-10/emp._notice_of_section_officer_2026.pdf",
     "applyOnlineLink": "https://iwai.gov.in/sites/default/files/2026-10/emp._notice_of_section_officer_2026.pdf",
-    "state": "Uttar Pradesh",
-    "stateCode": "up",
-    "scrapedAt": "2026-11-18"
-  },
-  {
-    "id": "up-nsi-foreman-electrical-",
-    "title": "NSI Recruitment 2026 – Foreman (Electrical) Posts",
-    "shortInfo": "NSI has announced notification for Foreman (Electrical) posts. Required qualification: Diploma. Last date to apply: 17-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "17-11-26",
-    "officialWebsite": "https://nsi.gov.in/storage/files/1/Vacancies/Vacancy_circular_Foreman(Electrical)_Deputation_29092026.pdf",
-    "notificationLink": "https://nsi.gov.in/storage/files/1/Vacancies/Vacancy_circular_Foreman(Electrical)_Deputation_29092026.pdf",
-    "applyOnlineLink": "https://nsi.gov.in/storage/files/1/Vacancies/Vacancy_circular_Foreman(Electrical)_Deputation_29092026.pdf",
     "state": "Uttar Pradesh",
     "stateCode": "up",
     "scrapedAt": "2026-11-18"

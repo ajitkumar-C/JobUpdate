@@ -14,7 +14,7 @@
     "applyOnlineLink": "https://nats.education.gov.in/student_register.php",
     "state": "Sikkim",
     "stateCode": "sikkim",
-    "scrapedAt": "2026-11-17",
+    "scrapedAt": "2026-11-18",
     "fees": [
       {
         "category": "Fee",
@@ -351,24 +351,7 @@
     "applyOnlineLink": "https://ccras.nic.in/wp-content/uploads/2026/11/05112026-ADVT-RARI-Gangtok.pdf",
     "state": "Sikkim",
     "stateCode": "sikkim",
-    "scrapedAt": "2026-11-17"
-  },
-  {
-    "id": "sikkim-nmhs-junior-research-fellow",
-    "title": "NMHS Recruitment 2026 – Junior Research Fellow Posts",
-    "shortInfo": "NMHS has announced notification for Junior Research Fellow posts. Required qualification: Post Graduate, M.Phil / Ph.D. Last date to apply: 16-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "16-11-26",
-    "officialWebsite": "https://cus.ac.in/images/content/dynamic/noti/2026/Oct/NHMS_SU_ATREE-2025_Agroforestry_Advertisement%20for%20GIS%20Position.pdf",
-    "notificationLink": "https://cus.ac.in/images/content/dynamic/noti/2026/Oct/NHMS_SU_ATREE-2025_Agroforestry_Advertisement%20for%20GIS%20Position.pdf",
-    "applyOnlineLink": "https://cus.ac.in/images/content/dynamic/noti/2026/Oct/NHMS_SU_ATREE-2025_Agroforestry_Advertisement%20for%20GIS%20Position.pdf",
-    "state": "Sikkim",
-    "stateCode": "sikkim",
-    "scrapedAt": "2026-11-17"
+    "scrapedAt": "2026-11-18"
   },
   {
     "id": "sikkim-sikkim high court-developer-and-more-it-assistant",
@@ -385,7 +368,7 @@
     "applyOnlineLink": "https://hcs.gov.in/hcs/sites/default/files/Notification/31_4.pdf",
     "state": "Sikkim",
     "stateCode": "sikkim",
-    "scrapedAt": "2026-11-17"
+    "scrapedAt": "2026-11-18"
   },
   {
     "id": "sikkim-aai-graduate-apprentice-diploma-apprentice-iti-apprent",
@@ -402,7 +385,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
     "state": "Sikkim",
     "stateCode": "sikkim",
-    "scrapedAt": "2026-11-17",
+    "scrapedAt": "2026-11-18",
     "fees": [],
     "dates": [
       {

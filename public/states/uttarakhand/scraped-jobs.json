@@ -14,7 +14,7 @@
     "applyOnlineLink": "https://nabcons.com/uploads/career/NABCONS1794802105Advertisement_DPSP_2026.pdf",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17"
+    "scrapedAt": "2026-11-18"
   },
   {
     "id": "uttarakhand-wii-more-project-assistant-project-associate",
@@ -26,12 +26,167 @@
     "district": "State Level",
     "vacancies": "26",
     "lastDate": "01-12-26",
-    "officialWebsite": "https://wii.gov.in/uploads/media/pdf/recruitment/Advertisement1_RPCell_November_2026.pdf",
+    "officialWebsite": "https://wii.gov.in",
     "notificationLink": "https://wii.gov.in/uploads/media/pdf/recruitment/Advertisement1_RPCell_November_2026.pdf",
-    "applyOnlineLink": "https://wii.gov.in/uploads/media/pdf/recruitment/Advertisement1_RPCell_November_2026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/wii-recruitment-2026-apply-online-for-26-project-associate-other-posts/",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17"
+    "scrapedAt": "2026-11-18",
+    "fees": [
+      {
+        "category": "General",
+        "fee": "Rs.500/-"
+      },
+      {
+        "category": "SC/ST/OBC/EWS/PC",
+        "fee": "Rs.100/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Application Open Date",
+        "date": "17/11/2026"
+      },
+      {
+        "event": "Online Application Close Date",
+        "date": "01/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Senior Project Associate (Conservation of Gavialis)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate – II (Conservation of Gavialis)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate – I (Conservation of Gavialis)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Senior Project Associate (Batagur baska Conservation)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate –I (Impact Assessment of Vibrations)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate – II (Riverine Dolphins)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate I (Social, Bonai Forest)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate I (GIS, Bonai Forest)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Assistant (Bonai Forest)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Manager (Advisory and Policy Cell)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Assistant (Mountain Ungulates)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate II (Great Indian Bustard)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate I (Great Indian Bustard)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Assistant (Great Indian Bustard)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Field Worker (Great Indian Bustard)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate – I (Dugong Recovery)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Project Associate – I (GIS & RS, Dugong Recovery)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Administrative Assistant (Dugong Recovery)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Go to the application portal link https://wiirp.com/application.php.",
+      "Keep scanned copies of necessary documents ready.",
+      "Fill out the online application form.",
+      "Upload the required documents and fee receipt.",
+      "Submit the application before the closing date."
+    ]
   },
   {
     "id": "uttarakhand-udd-program-manager-manager-mis-and-more",
@@ -48,7 +203,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s38208974663db80265e9bfe7b222dcb18/uploads/2026/11/20261116619249497.pdf",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17"
+    "scrapedAt": "2026-11-18"
   },
   {
     "id": "uttarakhand-iit roorkee-general-duty-medical-officer",
@@ -65,7 +220,7 @@
     "applyOnlineLink": "https://iitr.ac.in/Careers/static/Recruitment/2026/Walk_in_Advt_GDMO_13.11.pdf",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17"
+    "scrapedAt": "2026-11-18"
   },
   {
     "id": "uttarakhand-ignfa-it-associate-technical-associate",
@@ -82,7 +237,7 @@
     "applyOnlineLink": "https://www.ignfa.gov.in/images/news/3157-2026-advertisement.pdf",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17"
+    "scrapedAt": "2026-11-18"
   },
   {
     "id": "uttarakhand-hnbgu-guest-faculty",
@@ -99,24 +254,7 @@
     "applyOnlineLink": "https://www.hnbgu.ac.in/sites/default/files/2026-11/Engagement%20of%20Guest%20Faculty%20in%20the%20%20Centre%20for%20Folk%20Performing%20%20%20Arts.pdf",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17"
-  },
-  {
-    "id": "uttarakhand-iit roorkee-project-assistant",
-    "title": "IIT Roorkee Recruitment 2026 – Project Assistant Posts",
-    "shortInfo": "IIT Roorkee has announced notification for Project Assistant posts. Required qualification: Graduate. Last date to apply: 16-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "16-11-26",
-    "officialWebsite": "https://iitr.ac.in/Careers/static/Project_Jobs/AR/2026/adv14112026.pdf",
-    "notificationLink": "https://iitr.ac.in/Careers/static/Project_Jobs/AR/2026/adv14112026.pdf",
-    "applyOnlineLink": "https://iitr.ac.in/Careers/static/Project_Jobs/AR/2026/adv14112026.pdf",
-    "state": "Uttarakhand",
-    "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17"
+    "scrapedAt": "2026-11-18"
   },
   {
     "id": "uttarakhand-gbnihe-technical-assistant-junior-research-fellow",
@@ -133,7 +271,7 @@
     "applyOnlineLink": "https://gbpihed.gov.in/PDF/Recruitment/Rec_Doc1794554474Advt_No_NIHE_SRC-06_26-27.pdf",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17"
+    "scrapedAt": "2026-11-18"
   },
   {
     "id": "uttarakhand-iit roorkee-research-associate",
@@ -150,7 +288,7 @@
     "applyOnlineLink": "https://iitr.ac.in/Careers/static/Project_Jobs/ECE/2026/adv13112026.pdf",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17"
+    "scrapedAt": "2026-11-18"
   },
   {
     "id": "uttarakhand-hnbgu-guest-faculty",
@@ -167,7 +305,7 @@
     "applyOnlineLink": "https://hnbgu.ac.in/sites/default/files/2026-11/Notification%20for%20Guest%20Faculty%20in%20HAPPRC%202026.pdf",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17"
+    "scrapedAt": "2026-11-18"
   },
   {
     "id": "uttarakhand-gmc haldwani-scientist-b-medical-non-medical-",
@@ -184,7 +322,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s37e05d6f828574fbc975a896b25bb011e/uploads/2026/11/202611121008285051.pdf",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17"
+    "scrapedAt": "2026-11-18"
   },
   {
     "id": "uttarakhand-gbpuat-young-professional-i",
@@ -201,7 +339,7 @@
     "applyOnlineLink": "https://www.gbpuat.ac.in/employments/adv-6-11-26.pdf",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17"
+    "scrapedAt": "2026-11-18"
   },
   {
     "id": "uttarakhand-gbpuat-project-assistant",
@@ -218,7 +356,7 @@
     "applyOnlineLink": "https://www.gbpuat.ac.in/employments/Employment%20Notice%20Project%20Assistant%20Biochemistry%20CBSH%20%2022.11.1016.pdf",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17"
+    "scrapedAt": "2026-11-18"
   },
   {
     "id": "uttarakhand-bel-trainee-engineer-i",
@@ -235,7 +373,7 @@
     "applyOnlineLink": "https://jobapply.in/bel2026kotdwarte",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17",
+    "scrapedAt": "2026-11-18",
     "fees": [
       {
         "category": "UR / EWS / OBC-NCL Candidates",
@@ -312,7 +450,7 @@
     "applyOnlineLink": "https://thdc.co.in/sites/default/files/career/ADVT_INTERVIEW_ADHOC_GDMO.pdf",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17"
+    "scrapedAt": "2026-11-18"
   },
   {
     "id": "uttarakhand-lbsnaa-multi-tasking-staff-group-c-",
@@ -329,7 +467,7 @@
     "applyOnlineLink": "https://www.lbsnaa.gov.in/storage/uploads/vacancy/fy2dN2lRSsT5lE6vEFYUTnQWNAukXONQicifJyC1.pdf",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17"
+    "scrapedAt": "2026-11-18"
   },
   {
     "id": "uttarakhand-thdc-associate-retired-executive-",
@@ -346,7 +484,7 @@
     "applyOnlineLink": "https://thdc.co.in/sites/default/files/career/Associate.pdf",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17"
+    "scrapedAt": "2026-11-18"
   },
   {
     "id": "uttarakhand-ongc-apprentices",
@@ -363,7 +501,7 @@
     "applyOnlineLink": "https://nats.education.gov.in",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17",
+    "scrapedAt": "2026-11-18",
     "fees": [],
     "dates": [
       {
@@ -714,7 +852,7 @@
     "applyOnlineLink": "https://plapps.indianoilpipelines.in/PLApprentice/user/main?adv_no=MTQ=&Digest=qOLTAc7VxS7RbGmNVXuktQ",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17",
+    "scrapedAt": "2026-11-18",
     "fees": [
       {
         "category": "Fee",
@@ -807,7 +945,7 @@
     "applyOnlineLink": "https://pscuk.net.in/notification?postid=eyJpdiI6IndHbjhaUG9PYTVONmJmOU8iLCJ2YWx1ZSI6ImtsSjFhSlE9IiwibWFjIjoiIiwidGFnIjoiSHIrRmEzcTVVcWg4RnBlTG9ZM0QzUT09In0=",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17",
+    "scrapedAt": "2026-11-18",
     "fees": [
       {
         "category": "Unreserved",
@@ -926,7 +1064,7 @@
       "After login, the Educational Details page will appear. Fill in High School details and click ‘Add Education Details’. Similarly fill Intermediate, Graduate and other educational qualifications. Fill other details and click Continue. Then upload Photo and Signature as per instructions shown.",
       "After uploading Photo and Signature, tick the declaration ‘I hereby declare that the photograph &amp; signature are correct and accurate representation of myself’ and click Continue. The filled data will be displayed on screen.",
       "Carefully check all filled details. If incorrect, click ‘Back &amp; Edit’ to go back and correct. If correct, tick the declaration and click ‘Final Button’ to complete the online application process. Click ‘Print Application’ to get a printout of the online application form.",
-      "After Final Submission, if there is an error in the application form, the candidate can cancel the application and reapply by clicking ‘Cancel My Application’. After cancellation, no claim will be accepted for the cancelled application."
+      "After Final Submission, if there is an error in the application form, the candidate can cancel the application and reapply by clicking ‘Cancel My Application��. After cancellation, no claim will be accepted for the cancelled application."
     ]
   },
   {
@@ -944,7 +1082,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3cf05968255451bdefe3c5bc64d550517/uploads/2026/11/202611061966929821.pdf",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17"
+    "scrapedAt": "2026-11-18"
   },
   {
     "id": "uttarakhand-uerc-assistant-director",
@@ -961,24 +1099,7 @@
     "applyOnlineLink": "https://uerc.uk.gov.in/vacancies/",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17"
-  },
-  {
-    "id": "uttarakhand-iit roorkee-field-attendant",
-    "title": "IIT Roorkee Recruitment 2026 – Field Attendant Posts",
-    "shortInfo": "IIT Roorkee has announced notification for Field Attendant posts. Required qualification: 12TH. Last date to apply: 16-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "16-11-26",
-    "officialWebsite": "https://iitr.ac.in/Careers/static/Project_Jobs/CE/2026/adv06112026.pdf",
-    "notificationLink": "https://iitr.ac.in/Careers/static/Project_Jobs/CE/2026/adv06112026.pdf",
-    "applyOnlineLink": "https://iitr.ac.in/Careers/static/Project_Jobs/CE/2026/adv06112026.pdf",
-    "state": "Uttarakhand",
-    "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17"
+    "scrapedAt": "2026-11-18"
   },
   {
     "id": "uttarakhand-niepvd-video-editor-guest-narrator-artist",
@@ -995,7 +1116,7 @@
     "applyOnlineLink": "https://drive.usercontent.google.com/download?id=1komUAMBfpVMsCiBYaDaXC1djjlp9VFKf&#038;export=download",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17"
+    "scrapedAt": "2026-11-18"
   },
   {
     "id": "uttarakhand-nicl-graduate-apprentice",
@@ -1012,7 +1133,7 @@
     "applyOnlineLink": "https://nats.education.gov.in/index.php",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17",
+    "scrapedAt": "2026-11-18",
     "fees": [
       {
         "category": "Fee",
@@ -1064,7 +1185,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/inbraoct26/",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17",
+    "scrapedAt": "2026-11-18",
     "fees": [
       {
         "category": "General/OBC/EWS candidates",
@@ -1122,7 +1243,7 @@
     "applyOnlineLink": "https://careers.bhel.in/static/Detailed%20ad%20of%20Recruitment%20for%20the%20post%20of%20FTA%20Translator%20Gr.III%20in%20BHEL,%20CFP,%20Rudrapur.pdf",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17"
+    "scrapedAt": "2026-11-18"
   },
   {
     "id": "uttarakhand-wii-non-scientific-consultant-research-associate-scien",
@@ -1139,7 +1260,7 @@
     "applyOnlineLink": "https://wii.gov.in/uploads/media/pdf/recruitment/Advertisement2_RPCell_July_2026.pdf",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17"
+    "scrapedAt": "2026-11-18"
   },
   {
     "id": "uttarakhand-nhm uttarakhand-paediatrician-and-more-obstetrician-amp-gynaecolog",
@@ -1156,7 +1277,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s37993e11204b215b27694b6f139e34ce8/uploads/2026/11/202611021927162340.pdf",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17"
+    "scrapedAt": "2026-11-18"
   },
   {
     "id": "uttarakhand-wii-scientist-c",
@@ -1173,41 +1294,7 @@
     "applyOnlineLink": "https://wii.gov.in/uploads/media/pdf/recruitment/Advertisement_WII_ADM_2026_27_38_204.pdf",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17"
-  },
-  {
-    "id": "uttarakhand-udd-urban-infrastructure-expert-urban-planner-and-more",
-    "title": "UDD Recruitment 2026 – Urban Infrastructure Expert, Urban Planner and More Posts",
-    "shortInfo": "UDD has announced notification for Urban Infrastructure Expert, Urban Planner and More posts. Required qualification: M.E / M.Tech, B.Tech / B.E, Graduate, MBA / PGDM, MCA, Diploma. Last date to apply: 16-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "8",
-    "lastDate": "16-11-26",
-    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s38208974663db80265e9bfe7b222dcb18/uploads/2026/10/20261031240538056.pdf",
-    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s38208974663db80265e9bfe7b222dcb18/uploads/2026/10/20261031240538056.pdf",
-    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s38208974663db80265e9bfe7b222dcb18/uploads/2026/10/20261031240538056.pdf",
-    "state": "Uttarakhand",
-    "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17"
-  },
-  {
-    "id": "uttarakhand-udd uttarakhand-urban-planner-and-more-urban-infrastructure-expert",
-    "title": "UDD Uttarakhand Recruitment 2026 – Urban Planner and More, Urban Infrastructure Expert Posts",
-    "shortInfo": "UDD Uttarakhand has announced notification for Urban Planner and More, Urban Infrastructure Expert posts. Required qualification: Graduate. Last date to apply: 16-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "8",
-    "lastDate": "16-11-26",
-    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s38208974663db80265e9bfe7b222dcb18/uploads/2026/10/20261031457150099.pdf",
-    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s38208974663db80265e9bfe7b222dcb18/uploads/2026/10/20261031457150099.pdf",
-    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s38208974663db80265e9bfe7b222dcb18/uploads/2026/10/20261031457150099.pdf",
-    "state": "Uttarakhand",
-    "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17"
+    "scrapedAt": "2026-11-18"
   },
   {
     "id": "uttarakhand-bel-probationary-engineer",
@@ -1224,7 +1311,7 @@
     "applyOnlineLink": "https://g06.tcsion.com/EForms/configuredHtml/33192/103061/uPVtXzjwivanf3RWlN/Index.html",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17",
+    "scrapedAt": "2026-11-18",
     "fees": [
       {
         "category": "General (UR)",
@@ -1299,24 +1386,7 @@
     "applyOnlineLink": "https://iitr.ac.in/Careers/static/Post_Doctoral_Fellowship/IIC/2026/adv26102026.pdf",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17"
-  },
-  {
-    "id": "uttarakhand-nih-project-associate-i",
-    "title": "NIH Recruitment 2026 – Project Associate-I Posts",
-    "shortInfo": "NIH has announced notification for Project Associate-I posts. Required qualification: Any Post Graduate. Last date to apply: 16-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "16-11-26",
-    "officialWebsite": "https://nihroorkee.gov.in/job27102026.pdf",
-    "notificationLink": "https://nihroorkee.gov.in/job27102026.pdf",
-    "applyOnlineLink": "https://nihroorkee.gov.in/job27102026.pdf",
-    "state": "Uttarakhand",
-    "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17"
+    "scrapedAt": "2026-11-18"
   },
   {
     "id": "uttarakhand-bhel-fitter-welder-turner-machinist-electrician-electro",
@@ -1333,7 +1403,7 @@
     "applyOnlineLink": "https://cdn.digialm.com/EForms/configuredHtml/33192/102813/o0zKIYO3CqWa8uMPmN/login.html",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17",
+    "scrapedAt": "2026-11-18",
     "fees": [
       {
         "category": "UR/EWS/OBC",
@@ -1436,7 +1506,7 @@
     "applyOnlineLink": "https://ukssscrecruitment.in/UKSSSC_PAGES/Instructions.aspx",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17",
+    "scrapedAt": "2026-11-18",
     "fees": [
       {
         "category": "Unreserved (UR) / Uttarakhand OBC",
@@ -1528,7 +1598,7 @@
     "applyOnlineLink": "https://recruitment-nt.nituk.ac.in/login",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-17",
+    "scrapedAt": "2026-11-18",
     "fees": [
       {
         "category": "General/OBC/EWS (S.No.1 & S.No.2)",

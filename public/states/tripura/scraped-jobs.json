@@ -14,7 +14,7 @@
     "applyOnlineLink": "https://nita.ac.in/MO_13-11-2026_Advt-Staff-GK-MHSS-Nov26_admin.pdf",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-11-19"
+    "scrapedAt": "2026-11-20"
   },
   {
     "id": "tripura-iocl eastern region-technician-apprentice-trade-apprentice-other-posts",
@@ -31,7 +31,7 @@
     "applyOnlineLink": "https://nats.education.gov.in/student_register.php",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-11-19",
+    "scrapedAt": "2026-11-20",
     "fees": [
       {
         "category": "Fee",
@@ -368,7 +368,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec0109d37c08f7b129e9627738875753/uploads/2026/11/2026111126.pdf",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-11-19"
+    "scrapedAt": "2026-11-20"
   },
   {
     "id": "tripura-nit agartala-medical-officer-campus-doctor",
@@ -385,24 +385,24 @@
     "applyOnlineLink": "https://nita.ac.in/MO_10-11-2026_CampusDoctor-Nov26_admin.pdf",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-11-19"
+    "scrapedAt": "2026-11-20"
   },
   {
-    "id": "tripura-ongc-apprentices",
-    "title": "ONGC Recruitment 2026 – Apprentices Posts",
-    "shortInfo": "ONGC has announced notification for Apprentices posts. Required qualification: 10th Pass, 12th Pass, ITI, Diploma, B.Sc, B.Com, B.B.A, Any Graduate, B.E, B.Tech. Last date to apply: 20-11-26.",
+    "id": "tripura-ongc-apprentices-last-date-extended-",
+    "title": "ONGC Recruitment 2026 – Apprentices (Last Date Extended) Posts",
+    "shortInfo": "ONGC has announced notification for Apprentices (Last Date Extended) posts. Required qualification: 10th Pass, 12th Pass, ITI, Diploma, B.Sc, B.Com, B.B.A, Any Graduate, B.E, B.Tech. Last date to apply: 29-11-26.",
     "category": "Others",
     "categoryIcon": "🏢",
     "categoryMarathi": "Others",
     "district": "State Level",
     "vacancies": "3047",
-    "lastDate": "20-11-26",
+    "lastDate": "29-11-26",
     "officialWebsite": "https://ongcindia.com/",
     "notificationLink": "https://ongcindia.com/documents/77751/2660534/Advertisement-engagement-Apprentices2026-27.pdf/e926a825-c08b-6403-60f1-ea0232bcaab8",
     "applyOnlineLink": "https://nats.education.gov.in",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-11-19",
+    "scrapedAt": "2026-11-20",
     "fees": [],
     "dates": [
       {
@@ -753,7 +753,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/inbraoct26/",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-11-19",
+    "scrapedAt": "2026-11-20",
     "fees": [
       {
         "category": "General/OBC/EWS candidates",
@@ -811,7 +811,7 @@
     "applyOnlineLink": "https://recruitment.industriestripura.in/",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-11-19",
+    "scrapedAt": "2026-11-20",
     "fees": [
       {
         "category": "All Candidates",
@@ -877,6 +877,6 @@
     "applyOnlineLink": "https://tsecl.in/sites/default/files/2026-10/Advertisement%20for%20the%20post%20of%20General%20Manager%20(Human%20Resource)%20in%20TPGL.pdf",
     "state": "Tripura",
     "stateCode": "tripura",
-    "scrapedAt": "2026-11-19"
+    "scrapedAt": "2026-11-20"
   }
 ]

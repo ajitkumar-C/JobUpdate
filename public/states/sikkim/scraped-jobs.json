@@ -14,7 +14,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3kv058afbb339e48ea1ccdeba6b8f8a02/uploads/2026/11/2026111992.pdf",
     "state": "Sikkim",
     "stateCode": "sikkim",
-    "scrapedAt": "2026-11-21"
+    "scrapedAt": "2026-11-22"
   },
   {
     "id": "sikkim-iocl eastern region-technician-apprentice-trade-apprentice-other-posts",
@@ -31,7 +31,7 @@
     "applyOnlineLink": "https://nats.education.gov.in/student_register.php",
     "state": "Sikkim",
     "stateCode": "sikkim",
-    "scrapedAt": "2026-11-21",
+    "scrapedAt": "2026-11-22",
     "fees": [
       {
         "category": "Fee",
@@ -354,23 +354,6 @@
     ]
   },
   {
-    "id": "sikkim-sikkim high court-developer-and-more-it-assistant",
-    "title": "Sikkim High Court Recruitment 2026 – Developer and More, IT Assistant Posts",
-    "shortInfo": "Sikkim High Court has announced notification for Developer and More, IT Assistant posts. Required qualification: BCA, MCA, B.Sc, M.Sc, B.Tech / B.E. Last date to apply: 20-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "6",
-    "lastDate": "20-11-26",
-    "officialWebsite": "https://hcs.gov.in/hcs/sites/default/files/Notification/31_4.pdf",
-    "notificationLink": "https://hcs.gov.in/hcs/sites/default/files/Notification/31_4.pdf",
-    "applyOnlineLink": "https://hcs.gov.in/hcs/sites/default/files/Notification/31_4.pdf",
-    "state": "Sikkim",
-    "stateCode": "sikkim",
-    "scrapedAt": "2026-11-21"
-  },
-  {
     "id": "sikkim-aai-graduate-apprentice-diploma-apprentice-iti-apprent",
     "title": "AAI Recruitment 2026 – Graduate Apprentice, Diploma Apprentice, ITI Apprentice Posts",
     "shortInfo": "AAI has announced notification for Graduate Apprentice, Diploma Apprentice, ITI Apprentice posts. Required qualification: Graduate Degree / Diploma / ITI. Last date to apply: Update.",
@@ -385,7 +368,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
     "state": "Sikkim",
     "stateCode": "sikkim",
-    "scrapedAt": "2026-11-21",
+    "scrapedAt": "2026-11-22",
     "fees": [],
     "dates": [
       {

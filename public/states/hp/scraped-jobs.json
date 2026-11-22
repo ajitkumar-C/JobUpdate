@@ -1,5 +1,22 @@
 [
   {
+    "id": "hp-cskhpkv-project-assistant",
+    "title": "CSKHPKV Recruitment 2026 – Project Assistant Posts",
+    "shortInfo": "CSKHPKV has announced notification for Project Assistant posts. Required qualification: B.Sc. Last date to apply: 04-12-26.",
+    "category": "Latest Jobs",
+    "categoryIcon": "📚",
+    "categoryMarathi": "Latest Jobs",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "04-12-26",
+    "officialWebsite": "https://www.hillagric.ac.in/info/jobs_advt/2026/2026-11-21-FN-672-732.pdf",
+    "notificationLink": "https://www.hillagric.ac.in/info/jobs_advt/2026/2026-11-21-FN-672-732.pdf",
+    "applyOnlineLink": "https://www.hillagric.ac.in/info/jobs_advt/2026/2026-11-21-FN-672-732.pdf",
+    "state": "Himachal Pradesh",
+    "stateCode": "hp",
+    "scrapedAt": "2026-11-22"
+  },
+  {
     "id": "hp-nabard-junior-project-associate-senior-project-associate",
     "title": "NABARD Recruitment 2026 – Junior Project Associate, Senior Project Associate Posts",
     "shortInfo": "NABARD has announced notification for Junior Project Associate, Senior Project Associate posts. Required qualification: Graduate. Last date to apply: 07-12-26.",
@@ -14,7 +31,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/nabardoct26/",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-21",
+    "scrapedAt": "2026-11-22",
     "fees": [
       {
         "category": "SC/ST/PWBD",
@@ -205,6 +222,23 @@
     ]
   },
   {
+    "id": "hp-hp high court-stenographer",
+    "title": "HP High Court Recruitment 2026 – Stenographer Posts",
+    "shortInfo": "HP High Court has announced notification for Stenographer posts. Required qualification: Graduate. Last date to apply: 03-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "5",
+    "lastDate": "03-12-26",
+    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3ec03d5d7f5bba709f5cbbe1f74977096/uploads/2026/11/2026111951.pdf",
+    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3ec03d5d7f5bba709f5cbbe1f74977096/uploads/2026/11/2026111951.pdf",
+    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec03d5d7f5bba709f5cbbe1f74977096/uploads/2026/11/2026111951.pdf",
+    "state": "Himachal Pradesh",
+    "stateCode": "hp",
+    "scrapedAt": "2026-11-22"
+  },
+  {
     "id": "hp-parwanoo urban co-operative bank-peon-cum-guard-general-manager-and-more",
     "title": "Parwanoo Urban Co-operative Bank Recruitment 2026 – Peon cum Guard, General Manager and More Posts",
     "shortInfo": "Parwanoo Urban Co-operative Bank has announced notification for Peon cum Guard, General Manager and More posts. Required qualification: 8th, Graduate. Last date to apply: 07-12-26.",
@@ -219,7 +253,7 @@
     "applyOnlineLink": "https://img1.wsimg.com/blobby/go/ff2849c8-f2a6-4bf6-ba86-7ffabf1df4ab/JOB.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-21"
+    "scrapedAt": "2026-11-22"
   },
   {
     "id": "hp-cuhp-associate-professor-professor",
@@ -236,7 +270,7 @@
     "applyOnlineLink": "https://www.cuhimachal.ac.in/admin/assets/uploads/job/20261119114744168d1bdb4c.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-21"
+    "scrapedAt": "2026-11-22"
   },
   {
     "id": "hp-rggec-adjunct-faculty-resource-persons",
@@ -253,7 +287,7 @@
     "applyOnlineLink": "https://rggec.ac.in/wp-content/uploads/2026/11/Notice-for-Engagement-of-Adjunct-Faculty-of-EE-and-CSE-at-RGGEC-Kangra.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-21"
+    "scrapedAt": "2026-11-22"
   },
   {
     "id": "hp-sjvn-graduate-apprentices-technician-diploma-apprentice",
@@ -270,7 +304,7 @@
     "applyOnlineLink": "https://recruitment.sjvn.co.in/ErecruitLogin/Login.jsp",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-21",
+    "scrapedAt": "2026-11-22",
     "fees": [
       {
         "category": "General",
@@ -405,7 +439,7 @@
     "applyOnlineLink": "https://hpscb.bank.in/upload/notification/doc/DIPcCs2umVv9CeEJieQWzWng0EBsy8eDv5fwGeIn.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-21"
+    "scrapedAt": "2026-11-22"
   },
   {
     "id": "hp-hppwd-junior-engineer-and-more-junior-office-assistant",
@@ -422,7 +456,7 @@
     "applyOnlineLink": "https://hppwd.hp.gov.in/sites/default/files/2026-11/Advertisement%20PwBDs%202026.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-21"
+    "scrapedAt": "2026-11-22"
   },
   {
     "id": "hp-uhf-guest-teacher",
@@ -439,24 +473,7 @@
     "applyOnlineLink": "https://uhf.ac.in/storage/uploads/docs/1794548906.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-21"
-  },
-  {
-    "id": "hp-csir ihbt-project-associate-project-assistant-and-more",
-    "title": "CSIR IHBT Recruitment 2026 – Project Associate, Project Assistant and More Posts",
-    "shortInfo": "CSIR IHBT has announced notification for Project Associate, Project Assistant and More posts. Required qualification: M.Phil / Ph.D, ITI, B.Sc, M.Sc, MBA / PGDM. Last date to apply: 19-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "12",
-    "lastDate": "19-11-26",
-    "officialWebsite": "https://www.ihbt.res.in/components/com_chronoforms5/chronoforms/uploads/Recruitment/20261112183701_AdvtNo18_2026.pdf",
-    "notificationLink": "https://www.ihbt.res.in/components/com_chronoforms5/chronoforms/uploads/Recruitment/20261112183701_AdvtNo18_2026.pdf",
-    "applyOnlineLink": "https://www.ihbt.res.in/components/com_chronoforms5/chronoforms/uploads/Recruitment/20261112183701_AdvtNo18_2026.pdf",
-    "state": "Himachal Pradesh",
-    "stateCode": "hp",
-    "scrapedAt": "2026-11-21"
+    "scrapedAt": "2026-11-22"
   },
   {
     "id": "hp-deputy commissioner kinnaur-naib-tehsildar",
@@ -473,7 +490,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3766ebcd59621e305170616ba3d3dac32/uploads/2026/11/17939443203674.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-21"
+    "scrapedAt": "2026-11-22"
   },
   {
     "id": "hp-iocl-trade-apprentice-and-more-technician-apprentice",
@@ -490,7 +507,7 @@
     "applyOnlineLink": "https://plapps.indianoilpipelines.in/PLApprentice/user/main?adv_no=MTQ=&Digest=qOLTAc7VxS7RbGmNVXuktQ",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-21",
+    "scrapedAt": "2026-11-22",
     "fees": [
       {
         "category": "Fee",
@@ -583,7 +600,7 @@
     "applyOnlineLink": "https://www.hpnlu.ac.in/PDF/5e22a4fe-6897-447e-9a73-4fe8713be41e.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-21"
+    "scrapedAt": "2026-11-22"
   },
   {
     "id": "hp-indian bank-apprentice",
@@ -600,7 +617,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/inbraoct26/",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-21",
+    "scrapedAt": "2026-11-22",
     "fees": [
       {
         "category": "General/OBC/EWS candidates",
@@ -658,7 +675,7 @@
     "applyOnlineLink": "https://www.hpnlu.ac.in/PDF/5e22a4fe-6897-447e-9a73-4fe8713be41e.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-21"
+    "scrapedAt": "2026-11-22"
   },
   {
     "id": "hp-hprca-radiographer-job-trainee-",
@@ -675,7 +692,7 @@
     "applyOnlineLink": "https://hprca.hp.gov.in/login",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-21",
+    "scrapedAt": "2026-11-22",
     "fees": [
       {
         "category": "All Categories (Examination Fee + Processing Fee)",
@@ -743,7 +760,7 @@
     "applyOnlineLink": "https://hprca.hp.gov.in/login",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-21",
+    "scrapedAt": "2026-11-22",
     "fees": [
       {
         "category": "All Categories (Examination Fee + Processing Fee)",
@@ -895,40 +912,6 @@
     ]
   },
   {
-    "id": "hp-nit hamirpur-project-assistant",
-    "title": "NIT Hamirpur Recruitment 2026 – Project Assistant Posts",
-    "shortInfo": "NIT Hamirpur has announced notification for Project Assistant posts. Required qualification: B.Tech / B.E, Diploma. Last date to apply: 20-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "20-11-26",
-    "officialWebsite": "https://nith.ac.in/uploads/files/oct26/ad-project.pdf",
-    "notificationLink": "https://nith.ac.in/uploads/files/oct26/ad-project.pdf",
-    "applyOnlineLink": "https://nith.ac.in/uploads/files/oct26/ad-project.pdf",
-    "state": "Himachal Pradesh",
-    "stateCode": "hp",
-    "scrapedAt": "2026-11-21"
-  },
-  {
-    "id": "hp-bilaspur district-naib-tehsildar-kanungos-tehsildar-retired-staff",
-    "title": "Bilaspur District Recruitment 2026 – Naib Tehsildar, Kanungos, Tehsildar, Retired Staff Posts",
-    "shortInfo": "Bilaspur District has announced notification for Naib Tehsildar, Kanungos, Tehsildar, Retired Staff posts. Required qualification: Retired Staff. Last date to apply: 20-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "-",
-    "lastDate": "20-11-26",
-    "officialWebsite": "https://cdn.s3waas.gov.in/s38d7d8ee069cb0cbbf816bbb65d56947e/uploads/2026/10/17927432757000.pdf",
-    "notificationLink": "https://cdn.s3waas.gov.in/s38d7d8ee069cb0cbbf816bbb65d56947e/uploads/2026/10/17927432757000.pdf",
-    "applyOnlineLink": "https://cdn.s3waas.gov.in/s38d7d8ee069cb0cbbf816bbb65d56947e/uploads/2026/10/17927432757000.pdf",
-    "state": "Himachal Pradesh",
-    "stateCode": "hp",
-    "scrapedAt": "2026-11-21"
-  },
-  {
     "id": "hp-hpnlu-professor-of-law",
     "title": "HPNLU Recruitment 2026 – Professor of Law Posts",
     "shortInfo": "HPNLU has announced notification for Professor of Law posts. Required qualification: M.Phil / Ph.D. Last date to apply: 21-11-26.",
@@ -943,7 +926,7 @@
     "applyOnlineLink": "https://www.hpnlu.ac.in/PDF/62a7ab49-2c81-44fc-97f4-970965ef2224.pdf",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-21"
+    "scrapedAt": "2026-11-22"
   },
   {
     "id": "hp-hppsc-agriculture-development-officer-ado-group-a-job-tr",
@@ -960,7 +943,7 @@
     "applyOnlineLink": "https://hppsconline.hp.gov.in/HPPSC/ApplicantRegistration/Home/Login",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-21",
+    "scrapedAt": "2026-11-22",
     "fees": [
       {
         "category": "All Candidates (irrespective of category or gender)",

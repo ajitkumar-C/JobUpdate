@@ -1,5 +1,22 @@
 [
   {
+    "id": "manipur-cau-osd-works-",
+    "title": "CAU Recruitment 2026 – OSD (Works) Posts",
+    "shortInfo": "CAU has announced notification for OSD (Works) posts. Required qualification: B.Tech / B.E. Last date to apply: 04-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "04-12-26",
+    "officialWebsite": "https://cau.ac.in/wp-content/uploads/2026/11/osd_works_2.pdf",
+    "notificationLink": "https://cau.ac.in/wp-content/uploads/2026/11/osd_works_2.pdf",
+    "applyOnlineLink": "https://cau.ac.in/wp-content/uploads/2026/11/osd_works_2.pdf",
+    "state": "Manipur",
+    "stateCode": "manipur",
+    "scrapedAt": "2026-11-22"
+  },
+  {
     "id": "manipur-mtu-junior-research-fellow-jrf-project-associate-i",
     "title": "MTU Recruitment 2026 – Junior Research Fellow (JRF) / Project Associate-I Posts",
     "shortInfo": "MTU has announced notification for Junior Research Fellow (JRF) / Project Associate-I posts. Required qualification: B.Tech / B.E, M.Sc, M.E / M.Tech. Last date to apply: 27-11-26.",
@@ -14,7 +31,7 @@
     "applyOnlineLink": "http://mtu.ac.in/wp-content/uploads/2026/11/Dt-19-11-2026-Notice-for-advertisement-for-the-post-of-Junior-Research-Fellow-JRF-Project-Associate.pdf",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-21"
+    "scrapedAt": "2026-11-22"
   },
   {
     "id": "manipur-ibsd-scientist-c-scientist-d-and-more",
@@ -31,7 +48,7 @@
     "applyOnlineLink": "https://ibsd.gov.in/notice-tender-vacancy/job-portal",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-21"
+    "scrapedAt": "2026-11-22"
   },
   {
     "id": "manipur-emrs-junior-secretariat-assistant-accountant-and-more",
@@ -48,7 +65,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s36e2713a6efee97bacb63e52c54f0ada0/uploads/2026/11/17948178133616.pdf",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-21"
+    "scrapedAt": "2026-11-22"
   },
   {
     "id": "manipur-iocl eastern region-technician-apprentice-trade-apprentice-other-posts",
@@ -65,7 +82,7 @@
     "applyOnlineLink": "https://nats.education.gov.in/student_register.php",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-21",
+    "scrapedAt": "2026-11-22",
     "fees": [
       {
         "category": "Fee",
@@ -402,7 +419,7 @@
     "applyOnlineLink": "https://agrimanipurrecruitment.com/",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-21",
+    "scrapedAt": "2026-11-22",
     "fees": [
       {
         "category": "UR Candidates",
@@ -470,7 +487,7 @@
     "applyOnlineLink": "https://agrimanipurrecruitment.com/",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-21"
+    "scrapedAt": "2026-11-22"
   },
   {
     "id": "manipur-indian bank-apprentice",
@@ -487,7 +504,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/inbraoct26/",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-21",
+    "scrapedAt": "2026-11-22",
     "fees": [
       {
         "category": "General/OBC/EWS candidates",
@@ -545,7 +562,7 @@
     "applyOnlineLink": "https://rims.edu.in/rimsman/wp-content/uploads/Notice-JR-Dental-03-11-2026.pdf",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-21"
+    "scrapedAt": "2026-11-22"
   },
   {
     "id": "manipur-rims-junior-resident",
@@ -562,7 +579,7 @@
     "applyOnlineLink": "https://rims.edu.in/rimsman/wp-content/uploads/Notice-JR-Dental-03-11-2026.pdf",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-21"
+    "scrapedAt": "2026-11-22"
   },
   {
     "id": "manipur-one stop centre jiribam-psycho-social-counsellor-para-legal-personnel-lawy",
@@ -579,7 +596,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s33b3dbaf68507998acd6a5a5254ab2d76/uploads/2026/11/17936295246771.pdf",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-21"
+    "scrapedAt": "2026-11-22"
   },
   {
     "id": "manipur-rims-assistant-professor",
@@ -596,6 +613,6 @@
     "applyOnlineLink": "https://rims.edu.in/rimsman/wp-content/uploads/Advt-AP-22-10-2026.pdf",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-21"
+    "scrapedAt": "2026-11-22"
   }
 ]

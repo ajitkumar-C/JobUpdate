@@ -698,12 +698,86 @@
     "district": "State Level",
     "vacancies": "29",
     "lastDate": "21-12-26",
-    "officialWebsite": "https://www.csir.res.in/sites/default/files/2026-11/combined_advt.pdf",
+    "officialWebsite": "https://www.csir.res.in",
     "notificationLink": "https://www.csir.res.in/sites/default/files/2026-11/combined_advt.pdf",
-    "applyOnlineLink": "https://www.csir.res.in/sites/default/files/2026-11/combined_advt.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/csir-mts-recruitment-2026/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-11-22"
+    "scrapedAt": "2026-11-22",
+    "fees": [
+      {
+        "category": "General/OBC/EWS (Male Candidates)",
+        "fee": "Rs. 500/-"
+      },
+      {
+        "category": "Women/SC/ST/PwBD/Ex-Servicemen",
+        "fee": "Exempted (No Fee)"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Start Date for Registration for Online Application",
+        "date": "20/11/2026"
+      },
+      {
+        "event": "Last Date for Registration & Submission of Online Application",
+        "date": "21/12/2026"
+      },
+      {
+        "event": "Last Date for Payment of Online Application",
+        "date": "21/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Security Officer (Group-B) [Post Code: SECO]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Security Assistant/Watch & Ward Assistant (Group-B) [Post Code: SECA]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Junior Hindi Translator (Group-B) [Post Code: JHT]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Driver (Group-C) [Post Code: DRIVER]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Multi-Tasking Staff - Non-Tech (Group-C) [Post Code: MTS]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website https://recruitment.csir.res.in or https://www.csir.res.in.",
+      "Click on ‘Apply Online’ and register with your name, email address and mobile number. You will receive a User ID and password on your registered email and mobile number.",
+      "Login using the User ID and password and complete your profile page (Basic details such as Gender, Date of Birth, Marital Status, Category, PwBD status, Ex-Serviceman status, Govt. Employee and CSIR Employee status).",
+      "Once the profile is verified and locked, fill in the Online Application Form across 7 tabs: Apply, Personal Details, Education, Experience, Additional Details, Uploads, and Preview &amp; Submit.",
+      "Upload scanned copies of photograph (jpg, less than 50 KB), signature (jpg, less than 50 KB), and all required documents (PDF, less than 1 MB each) including proof of date of birth, educational qualifications, experience certificate, caste/disability certificate, discharge book (if applicable).",
+      "Complete the Live Photo Capture through webcam or QR code scan.",
+      "Preview and verify the entire application form before final submission.",
+      "Pay the application fee of Rs. 500/- online through SBI Collect (if applicable). Enter the Application No., Name, Post Code, Post Name, Email ID and Mobile No. in the payment details form.",
+      "After successful payment, upload the e-Receipt/Transaction Receipt in the online application portal on or before 21.12.2026 (05:00 PM).",
+      "Submit the application and download/print the filled-in online application form for future reference.",
+      "Candidates applying for more than one post must submit separate online application forms with separate fees for each post code."
+    ]
   },
   {
     "id": "delhi-gipmer-junior-resident",
@@ -987,12 +1061,57 @@
     "district": "State Level",
     "vacancies": "40",
     "lastDate": "03-12-26",
-    "officialWebsite": "https://careers.ntpc.co.in/recruitment/pdf_viewer.php?token=T0F2dHlHVWF3R3JwZEE2NFYxQTFKMU94NVNkdmNrelppbThFSzIybXNMQ0RLZk9nU2RuY0FsNjJFR1A4ZDNSY0dock1lUFc1SlZMTzkvZFU3V1RpbEk0RGpOT1Z5dmdubG5oYzBwWFR6WGc9Ojp2MVZqVmRJb0Uwa3E4ektqeTdBWHhnPT0%3D",
-    "notificationLink": "https://careers.ntpc.co.in/recruitment/pdf_viewer.php?token=T0F2dHlHVWF3R3JwZEE2NFYxQTFKMU94NVNkdmNrelppbThFSzIybXNMQ0RLZk9nU2RuY0FsNjJFR1A4ZDNSY0dock1lUFc1SlZMTzkvZFU3V1RpbEk0RGpOT1Z5dmdubG5oYzBwWFR6WGc9Ojp2MVZqVmRJb0Uwa3E4ektqeTdBWHhnPT0%3D",
-    "applyOnlineLink": "https://careers.ntpc.co.in/recruitment/pdf_viewer.php?token=T0F2dHlHVWF3R3JwZEE2NFYxQTFKMU94NVNkdmNrelppbThFSzIybXNMQ0RLZk9nU2RuY0FsNjJFR1A4ZDNSY0dock1lUFc1SlZMTzkvZFU3V1RpbEk0RGpOT1Z5dmdubG5oYzBwWFR6WGc9Ojp2MVZqVmRJb0Uwa3E4ektqeTdBWHhnPT0%3D",
+    "officialWebsite": "https://ntpc.co.in",
+    "notificationLink": "https://govtjobguru.in/wp-content/uploads/2026/11/NTPC-Recruitment-2026.pdf",
+    "applyOnlineLink": "https://careers.ntpc.co.in/recruitment/login.php",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-11-22"
+    "scrapedAt": "2026-11-22",
+    "fees": [
+      {
+        "category": "General/EWS/OBC",
+        "fee": "Rs. 500 (non-refundable)"
+      },
+      {
+        "category": "SC/ST/PwBD/XSM and Female Candidates",
+        "fee": "No Fee"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Commencement of Online Application",
+        "date": "19/11/2026"
+      },
+      {
+        "event": "Last Date for Online Application (till 6 PM)",
+        "date": "03/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Manager (Finance)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Deputy Manager (Finance)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Log on to careers.ntpc.co.in; only online applications are accepted.",
+      "Keep a valid email ID for the application.",
+      "Upload all listed documents while applying; incomplete documents are liable to rejection.",
+      "Pay Rs. 500 fee via SBI pay-in-slip (A/C No. 30987919993, CAG branch, New Delhi, Code 09996) or online through Net banking/Debit Card/Credit Card if applicable.",
+      "Fill the journal number and branch code in the online form when paying at SBI.",
+      "Download the system-generated application slip; no document is to be sent by post.",
+      "Apply on or before 3 December 2026 (till 6 PM)."
+    ]
   },
   {
     "id": "delhi-satyawati college-counselor-on-part-time-basis",
@@ -1055,12 +1174,51 @@
     "district": "State Level",
     "vacancies": "50",
     "lastDate": "30-11-26",
-    "officialWebsite": "https://cdot.in/cdotweb/assets/docs/curr_openings/adv/Notification_PaidInternship_2027.pdf",
+    "officialWebsite": "https://www.cdot.in",
     "notificationLink": "https://cdot.in/cdotweb/assets/docs/curr_openings/adv/Notification_PaidInternship_2027.pdf",
-    "applyOnlineLink": "https://cdot.in/cdotweb/assets/docs/curr_openings/adv/Notification_PaidInternship_2027.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/c-dot-intern-recruitment-2026/",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-11-22"
+    "scrapedAt": "2026-11-22",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Application Portal Opens (Winter Batch 2027)",
+        "date": "19/11/2026"
+      },
+      {
+        "event": "Last Date to Apply (Winter Batch 2027)",
+        "date": "30/11/2026"
+      },
+      {
+        "event": "Winter Batch Start Date",
+        "date": "11/01/2027"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Paid Intern (B.Tech/BE - CS/EC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official C-DOT Paid Internship portal: https://paid-internship.cdot.in",
+      "Register by clicking “Register” and entering basic details — Name, Email, Institute, Degree, Semester, CGPA/Percentage.",
+      "Verify your email via OTP to complete registration.",
+      "Login using your registered email and password.",
+      "Go to “Apply” and fill in the Internship Form.",
+      "Upload all required documents: CV/Resume, academic marksheets, photograph, and institute No-Objection Certificate (NOC).",
+      "Carefully review all fields before final submission. Only one application per candidate is allowed.",
+      "Submit the form and ensure you receive a confirmation email for the application to be treated as complete."
+    ]
   },
   {
     "id": "delhi-dda-young-professional-and-more-consultant",
@@ -1259,12 +1417,66 @@
     "district": "State Level",
     "vacancies": "17",
     "lastDate": "04-12-26",
-    "officialWebsite": "https://www.nspcl.co.in/storage/app/public/uploads/careers/NSPCL_website003.pdf",
+    "officialWebsite": "https://www.nspcl.co.in",
     "notificationLink": "https://www.nspcl.co.in/storage/app/public/uploads/careers/NSPCL_website003.pdf",
-    "applyOnlineLink": "https://www.nspcl.co.in/storage/app/public/uploads/careers/NSPCL_website003.pdf",
+    "applyOnlineLink": "https://nspclregistration.ibtexamination.com/App02NSpcL2026/index.php",
     "state": "Delhi",
     "stateCode": "delhi",
-    "scrapedAt": "2026-11-22"
+    "scrapedAt": "2026-11-22",
+    "fees": [
+      {
+        "category": "General / UR",
+        "fee": "Rs. 300/- (Non-Refundable)"
+      },
+      {
+        "category": "SC / ST / PwBD / XSM / Female Candidates",
+        "fee": "Nil"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Commencement of Online Application",
+        "date": "20/11/2026"
+      },
+      {
+        "event": "Last Date for Online Application",
+        "date": "04/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Field Engineer (Power Station - O&M) on Fixed Term Basis",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Field Engineer (Power Station - Civil) on Fixed Term Basis",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Field Engineer (Power Station - Safety) on Fixed Term Basis",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Eligible candidates need to apply online on the website: https://www.nspcl.co.in/page/10",
+      "Candidates will be required to upload their photograph and signature during online application.",
+      "Read the instructions carefully and fill-in the online application form giving accurate information. After successful registration, system will generate a Unique Registration Number. Candidates are required to keep the printout of the Registration slip generated by the system after successful registration.",
+      "Please ensure that details are filled up correctly. No request with respect to the change in any data entered by the candidate will be entertained once the application is submitted successfully.",
+      "Candidate belonging to General category is required to pay a non-refundable registration fee of Rs. 300/-. The candidates from SC/ST/PwBD/XSM category and female candidates need not pay the registration fee.",
+      "Payment in online mode: Candidate have to pay the fees online (through Net Banking / Debit Card / Credit Card / UPI). The online payment option will be available on the website.",
+      "Fee once paid will not be refunded under any circumstances. Candidates are therefore requested to verify their eligibility before paying the registration fee.",
+      "After applying online, the candidate is required to download the application slip generated by the system with unique application number. Copy of application slip may be retained by the candidate for future reference. No document is required to be sent to us by post.",
+      "Uploading of Documents: The candidates should necessarily upload all documents while applying. Applications with incomplete / insufficient documents are liable to be rejected / not considered for further process."
+    ]
   },
   {
     "id": "delhi-ncb-assistant-director-cyber-",

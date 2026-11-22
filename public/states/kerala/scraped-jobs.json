@@ -537,14 +537,118 @@
     "categoryIcon": "🏢",
     "categoryMarathi": "Others",
     "district": "State Level",
-    "vacancies": "27",
+    "vacancies": "21",
     "lastDate": "16-12-26",
-    "officialWebsite": "https://hckrecruitment.keralacourts.in/hckrecruitment/Recruitment/viewFile?token=NDAx",
+    "officialWebsite": "https://govtjobguru.in/jobs/kerala-high-court-civil-judge-junior-division-recruitment-2026/",
     "notificationLink": "https://hckrecruitment.keralacourts.in/hckrecruitment/Recruitment/viewFile?token=NDAx",
-    "applyOnlineLink": "https://hckrecruitment.keralacourts.in/hckrecruitment/Recruitment/viewFile?token=NDAx",
+    "applyOnlineLink": "https://hckrecruitment.keralacourts.in",
     "state": "Kerala",
     "stateCode": "kerala",
-    "scrapedAt": "2026-11-22"
+    "scrapedAt": "2026-11-22",
+    "fees": [
+      {
+        "category": "SC/ST/Unemployed Persons with Benchmark Disabilities",
+        "fee": "Nil"
+      },
+      {
+        "category": "All Other Categories",
+        "fee": "₹1250/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Date of Notification",
+        "date": "19/11/2026"
+      },
+      {
+        "event": "Commencement of Online Application & Fee Payment",
+        "date": "23/11/2026"
+      },
+      {
+        "event": "Closure of Online Application & Fee Payment",
+        "date": "16/12/2026"
+      },
+      {
+        "event": "Commencement of Offline Fee Payment",
+        "date": "19/12/2026"
+      },
+      {
+        "event": "Last Date for Offline Fee Payment",
+        "date": "24/12/2026"
+      },
+      {
+        "event": "Preliminary Examination (Tentative)",
+        "date": "07/02/2027"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Civil Judge (Junior Division) – Special Recruitment (Backlog – Persons with Benchmark Disabilities) [Rec. No. 26/2026] – Blindness and Low Vision",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Civil Judge (Junior Division) – Special Recruitment (Backlog – Persons with Benchmark Disabilities) [Rec. No. 26/2026] – Deaf and Hard of Hearing",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Civil Judge (Junior Division) – Special Recruitment (Backlog – Persons with Benchmark Disabilities) [Rec. No. 26/2026] – Locomotor Disability incl. Cerebral Palsy, Leprosy Cured, Dwarfism & Acid Attack Victims",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Civil Judge (Junior Division) – Special Recruitment (Backlog – Persons with Benchmark Disabilities) [Rec. No. 26/2026] – Autism, Specific Learning Disability and Mental Illness",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Civil Judge (Junior Division) – NCA Vacancy [Rec. No. 27/2026] – Scheduled Tribes (ST/SC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Civil Judge (Junior Division) – NCA Vacancy [Rec. No. 28/2026] – Scheduled Tribes (ST/SC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Civil Judge (Junior Division) – NCA Vacancy [Rec. No. 29/2026] – Scheduled Castes (SC/ST)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Civil Judge (Junior Division) – Regular Vacancies [Rec. No. 30/2026]",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Complete ‘One Time Registration’ at https://hckrecruitment.keralacourts.in if not already done.",
+      "Login to your profile and ensure all details in ‘My Profile’ page and related tabs are complete and up to date.",
+      "Upload scanned photograph (200-250 x 150-180 pixels) and signature (100-130 x 150-180 pixels) as per guidelines.",
+      "Click ‘Apply Now’ from the Dashboard and fill in the online application form selecting the relevant recruitment number(s).",
+      "Preview the application carefully before final submission. No changes can be made after submission.",
+      "Pay the application fee online (or offline via SBI challan within the specified dates). SC/ST/Unemployed Persons with Benchmark Disabilities are exempt from fee.",
+      "Keep a copy (soft/hard) of the submitted application for future reference.",
+      "Candidates applying from abroad must email their location with public IP address to recruitment.hckerala@nic.in before applying."
+    ]
   },
   {
     "id": "kerala-nam wayanad-lab-technician-pharmacist-more",

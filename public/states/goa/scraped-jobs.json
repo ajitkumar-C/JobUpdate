@@ -9,12 +9,33 @@
     "district": "State Level",
     "vacancies": "52",
     "lastDate": "23-11-26",
-    "officialWebsite": "https://citizen.goapolice.gov.in/documents/2003747/6267451/Home+Guard.PDF/d652ebf3-e4e6-400e-adea-a2f8d7575f0a",
-    "notificationLink": "https://citizen.goapolice.gov.in/documents/2003747/6267451/Home+Guard.PDF/d652ebf3-e4e6-400e-adea-a2f8d7575f0a",
-    "applyOnlineLink": "https://citizen.goapolice.gov.in/documents/2003747/6267451/Home+Guard.PDF/d652ebf3-e4e6-400e-adea-a2f8d7575f0a",
+    "officialWebsite": "https://citizen.goapolice.gov.in",
+    "notificationLink": "https://govtjobguru.in/jobs/goa-police-constable-recruitment-2026/",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/goa-police-constable-recruitment-2026/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-11-22"
+    "scrapedAt": "2026-11-22",
+    "fees": [],
+    "dates": [
+      {
+        "event": "Last Date to Submit Application",
+        "date": "23/11/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Police Constable",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Prescribed application forms are available free of cost at the Office of the Home Guard and Civil Defence Organisation, Altinho, Panaji-Goa.",
+      "Complete the application form in all respects.",
+      "Submit the completed application form on 23.11.2026 at the Office of the Home Guard and Civil Defence Organisation, Altinho, Panaji-Goa."
+    ]
   },
   {
     "id": "goa-gmfc-college-counsellor-assistant-professor",
@@ -145,12 +166,57 @@
     "district": "State Level",
     "vacancies": "176",
     "lastDate": "31-12-26",
-    "officialWebsite": "https://www.goa.gov.in/wp-content/uploads/2026/11/HomeGuardAndCivilDefenceOrganization18112027Adv.pdf",
+    "officialWebsite": "https://www.goa.gov.in",
     "notificationLink": "https://www.goa.gov.in/wp-content/uploads/2026/11/HomeGuardAndCivilDefenceOrganization18112027Adv.pdf",
-    "applyOnlineLink": "https://www.goa.gov.in/wp-content/uploads/2026/11/HomeGuardAndCivilDefenceOrganization18112027Adv.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/goa-home-guard-civil-defence-recruitment-2026/",
     "state": "Goa",
     "stateCode": "goa",
-    "scrapedAt": "2026-11-22"
+    "scrapedAt": "2026-11-22",
+    "fees": [
+      {
+        "category": "Application Form Fee",
+        "fee": "Rs. 20/- per form"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Application Forms Issued From",
+        "date": "25/11/2026"
+      },
+      {
+        "event": "Last Date to Submit Application Form",
+        "date": "31/12/2026"
+      },
+      {
+        "event": "Date for Counting Age and Eligibility",
+        "date": "31/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Regular Home Guards",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Marine Home Guards",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Collect the prescribed Application Form from the Office of the Home Guards &amp; Civil Defence Organisation, Second Floor, Goa Reserve Police Camp, Altinho, Panaji-Goa, from 25 November 2026.",
+      "Forms are issued on all working days from 10:00 hrs to 13:00 hrs and 14:00 hrs to 17:30 hrs, on payment of Rs. 20/- per form.",
+      "Fill in the form completely. Do not attach any certificates or documents.",
+      "Submit the form personally at the Enrolment Cell in the Office of the Commandant General Home Guards &amp; Director, Civil Defence, Goa Reserve Police Camp, Altinho, Panaji-Goa, on or before 31 December 2026.",
+      "At submission, show photocopies of the 15 years Residence Certificate of Goa, the passing certificate of Educational Qualification and the Birth Certificate. These photocopies will be returned to you.",
+      "Collect the acknowledgement of receipt, which is issued on the spot.",
+      "Wait for the call letter for the Selection Test, which will be sent by post at a later stage."
+    ]
   },
   {
     "id": "goa-gpsc-assistant-professor-assistant-public-prosecutor-mo",

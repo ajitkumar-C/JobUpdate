@@ -880,12 +880,65 @@
     "district": "State Level",
     "vacancies": "22",
     "lastDate": "16-12-26",
-    "officialWebsite": "https://cetonline.karnataka.gov.in/keawebentry456/teharpc2026/TEXTILES_HANDLOOM_DEPARTMENT_NOTIFICATION_RPCkannada.pdf",
+    "officialWebsite": "https://cetonline.karnataka.gov.in/kea/",
     "notificationLink": "https://cetonline.karnataka.gov.in/keawebentry456/teharpc2026/TEXTILES_HANDLOOM_DEPARTMENT_NOTIFICATION_RPCkannada.pdf",
-    "applyOnlineLink": "https://cetonline.karnataka.gov.in/keawebentry456/teharpc2026/TEXTILES_HANDLOOM_DEPARTMENT_NOTIFICATION_RPCkannada.pdf",
+    "applyOnlineLink": "https://cetonline.karnataka.gov.in/kea/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-22"
+    "scrapedAt": "2026-11-22",
+    "fees": [
+      {
+        "category": "General Merit and Category 2A / 2B / 3A / 3B",
+        "fee": "Rs. 750"
+      },
+      {
+        "category": "SC / ST / Category-1 / Ex-servicemen / Third gender",
+        "fee": "Rs. 500"
+      },
+      {
+        "category": "Persons with disabilities",
+        "fee": "Rs. 250"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "17/11/2026"
+      },
+      {
+        "event": "Online Application Starts",
+        "date": "18/11/2026"
+      },
+      {
+        "event": "Last Date for Online Application",
+        "date": "16/12/2026"
+      },
+      {
+        "event": "Last Date for Fee Payment",
+        "date": "17/12/2026"
+      },
+      {
+        "event": "Kannada Language Test",
+        "date": "08/01/2027"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Textile Inspector",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the KEA website https://cetonline.karnataka.gov.in/kea/ and select the recruitment link.",
+      "Fill the online application from 18-11-2026 to 16-12-2026.",
+      "Upload a recent photograph (JPEG, white background, 50KB-200KB) and signature in black ink (JPEG, 50KB-70KB).",
+      "Enter the correct RD number of reservation certificates when claiming reservation.",
+      "Pay the fee online only by 17-12-2026.",
+      "Download a copy of the submitted application and keep the fee challan."
+    ]
   },
   {
     "id": "karnataka-kea-marketing-overseer-sericulture-inspector",
@@ -897,12 +950,70 @@
     "district": "State Level",
     "vacancies": "38",
     "lastDate": "15-12-26",
-    "officialWebsite": "https://www.cetonline.karnataka.gov.in/keawebentry456/seragkk2026/Notification_KKenglish.pdf",
+    "officialWebsite": "https://cetonline.karnataka.gov.in/kea/",
     "notificationLink": "https://www.cetonline.karnataka.gov.in/keawebentry456/seragkk2026/Notification_KKenglish.pdf",
-    "applyOnlineLink": "https://www.cetonline.karnataka.gov.in/keawebentry456/seragkk2026/Notification_KKenglish.pdf",
+    "applyOnlineLink": "https://cetonline.karnataka.gov.in/kea/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-22"
+    "scrapedAt": "2026-11-22",
+    "fees": [
+      {
+        "category": "Category as printed (first row)",
+        "fee": "Rs. 750"
+      },
+      {
+        "category": "Category as printed (second row)",
+        "fee": "Rs. 500"
+      },
+      {
+        "category": "Category as printed (third row)",
+        "fee": "Rs. 250"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notice Date",
+        "date": "17/11/2026"
+      },
+      {
+        "event": "Last Date to Apply Online",
+        "date": "15/12/2026"
+      },
+      {
+        "event": "Last Date to Pay Fee",
+        "date": "16/12/2026"
+      },
+      {
+        "event": "Paper-2 Examination",
+        "date": "08/01/2027"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Sericulture Inspector",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Marketing Overseer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the KEA official website at https://cetonline.karnataka.gov.in/kea/",
+      "Find and click on the KEA Recruitment 2026 notification link.",
+      "Register and fill in the online application form with accurate details.",
+      "Upload a recent photograph in JPEG format with white background (50KB to 200KB).",
+      "Upload your signature in JPEG format (50KB to 70KB).",
+      "Pay the application fee online as per your category.",
+      "Submit the application form on or before 15 December 2026.",
+      "Take a printout of the submitted application for future reference."
+    ]
   },
   {
     "id": "karnataka-kea-assistant-public-prosecutor-cum-assistant-governme",
@@ -985,12 +1096,65 @@
     "district": "State Level",
     "vacancies": "52",
     "lastDate": "15-12-26",
-    "officialWebsite": "https://cetonline.karnataka.gov.in/keawebentry456/lawkk2026/lawkkkannada.pdf",
+    "officialWebsite": "https://cetonline.karnataka.gov.in/kea/",
     "notificationLink": "https://cetonline.karnataka.gov.in/keawebentry456/lawkk2026/lawkkkannada.pdf",
-    "applyOnlineLink": "https://cetonline.karnataka.gov.in/keawebentry456/lawkk2026/lawkkkannada.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/kea-app-recruitment-2026/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-22"
+    "scrapedAt": "2026-11-22",
+    "fees": [
+      {
+        "category": "General Merit and other categories (Category-2A / 2B / 3A / 3B)",
+        "fee": "Rs. 750/-"
+      },
+      {
+        "category": "Scheduled Caste / Scheduled Tribe / Category-1 / Ex-servicemen / Third gender candidates",
+        "fee": "Rs. 500/-"
+      },
+      {
+        "category": "Persons with disabilities",
+        "fee": "Rs. 250/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "17/11/2026"
+      },
+      {
+        "event": "Online Application Starts",
+        "date": "18/11/2026"
+      },
+      {
+        "event": "Last Date to Apply Online",
+        "date": "15/12/2026"
+      },
+      {
+        "event": "Last Date for Online Fee Payment",
+        "date": "16/12/2026"
+      },
+      {
+        "event": "Preliminary Examination",
+        "date": "01/02/2027"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Assistant Public Prosecutor-cum-Assistant Government Pleader (Group-B)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Open the link given on the KEA website https://cetonline.karnataka.gov.in/kea/ between 18.11.2026 and 15.12.2026.",
+      "Read the instructions on eligibility and fill the online application according to them.",
+      "Enter the correct RD number of each reservation certificate (caste, rural, Kalyana-Karnataka and others) obtained by the last date.",
+      "Upload a recent photograph in JPEG format with a white background, of 50 KB to 200 KB, and your signature in JPEG format.",
+      "Pay the fee online by 16.12.2026.",
+      "Check the details before submitting: no information in the submitted application can be changed or corrected at any stage."
+    ]
   },
   {
     "id": "karnataka-kea-industrial-expansion-officer",
@@ -1002,12 +1166,65 @@
     "district": "State Level",
     "vacancies": "35",
     "lastDate": "15-12-26",
-    "officialWebsite": "https://www.cetonline.karnataka.gov.in/keawebentry456/indrpc2026/detailed_notification_industrykannada.pdf",
+    "officialWebsite": "https://cetonline.karnataka.gov.in/kea/",
     "notificationLink": "https://www.cetonline.karnataka.gov.in/keawebentry456/indrpc2026/detailed_notification_industrykannada.pdf",
-    "applyOnlineLink": "https://www.cetonline.karnataka.gov.in/keawebentry456/indrpc2026/detailed_notification_industrykannada.pdf",
+    "applyOnlineLink": "https://cetonline.karnataka.gov.in/kea/",
     "state": "Karnataka",
     "stateCode": "karnataka",
-    "scrapedAt": "2026-11-22"
+    "scrapedAt": "2026-11-22",
+    "fees": [
+      {
+        "category": "General Merit and Category-2A / 2B / 3A / 3B",
+        "fee": "Rs. 750"
+      },
+      {
+        "category": "SC / ST / Category-1 / Ex-serviceman / Third gender",
+        "fee": "Rs. 500"
+      },
+      {
+        "category": "Persons with disabilities",
+        "fee": "Rs. 250"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "17/11/2026"
+      },
+      {
+        "event": "Online Application Start",
+        "date": "18/11/2026"
+      },
+      {
+        "event": "Last Date for Online Application",
+        "date": "15/12/2026"
+      },
+      {
+        "event": "Last Date for Fee Payment",
+        "date": "16/12/2026"
+      },
+      {
+        "event": "Kannada Language Test",
+        "date": "08/01/2027"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Industrial Expansion Officer",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Open the KEA official website at https://cetonline.karnataka.gov.in/kea/.",
+      "Fill in the application online between 18.11.2026 and 15.12.2026.",
+      "Enter the correct RD number of each reservation certificate claimed.",
+      "Upload a recent photograph (JPEG, white background, 50KB to 200KB) and signature (JPEG, 50KB to 70KB).",
+      "Pay the fee online only by 16.12.2026.",
+      "Download a copy of the application and keep the fee challan until the recruitment ends."
+    ]
   },
   {
     "id": "karnataka-beml-iti-trainee",
@@ -2879,14 +3096,14 @@
   },
   {
     "id": "karnataka-aees-principal-pgt-prt-tgt-balvatika-teacher-librarian-",
-    "title": "AEES Recruitment 2026 – Principal, PGT, PRT, TGT, Balvatika Teacher, Librarian &amp; Other Posts",
-    "shortInfo": "AEES has announced notification for Principal, PGT, PRT, TGT, Balvatika Teacher, Librarian &amp; Other posts. Required qualification: Relevant degree, B.Ed, CTET. Last date to apply: 22-11-26.",
+    "title": "AEES Recruitment 2026 – Principal, PGT, PRT, TGT, Balvatika Teacher, Librarian &amp; Other (Last Date Extended) Posts",
+    "shortInfo": "AEES has announced notification for Principal, PGT, PRT, TGT, Balvatika Teacher, Librarian &amp; Other (Last Date Extended) posts. Required qualification: Relevant degree, B.Ed, CTET. Last date to apply: 29-11-26.",
     "category": "Others",
     "categoryIcon": "🏢",
     "categoryMarathi": "Others",
     "district": "State Level",
     "vacancies": "254",
-    "lastDate": "22-11-26",
+    "lastDate": "29-11-26",
     "officialWebsite": "https://aees.gov.in",
     "notificationLink": "https://www.aees.gov.in/DOCUMENTS/rv/2.(%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%80%20%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%B5%E0%A4%BE%E0%A4%A6)%20AEES_Recruitment_Notice_01_2026_29.10.2026.pdf",
     "applyOnlineLink": "https://govtjobguru.in/jobs/aees-teacher-recruitment-2026/",
@@ -2909,12 +3126,12 @@
         "date": "02/11/2026"
       },
       {
-        "event": "Last date of online submission of applications",
-        "date": "22/11/2026"
+        "event": "Last date of online submission of applications (Extended Upto)",
+        "date": "29/11/2026"
       },
       {
-        "event": "Last date for payment of application fee",
-        "date": "22/11/2026"
+        "event": "Last date for payment of application fee (Extended Upto)",
+        "date": "29/11/2026"
       }
     ],
     "vacancyList": [

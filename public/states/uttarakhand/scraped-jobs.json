@@ -9,12 +9,60 @@
     "district": "State Level",
     "vacancies": "18",
     "lastDate": "11-12-26",
-    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3bc7f621451b4f5df308a8e098112185d/uploads/2026/11/202611211444857266.pdf",
+    "officialWebsite": "https://highcourtofuttarakhand.gov.in",
     "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3bc7f621451b4f5df308a8e098112185d/uploads/2026/11/202611211444857266.pdf",
-    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3bc7f621451b4f5df308a8e098112185d/uploads/2026/11/202611211444857266.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/uttarakhand-high-court-counsellor-recruitment-2026/",
     "state": "Uttarakhand",
     "stateCode": "uttarakhand",
-    "scrapedAt": "2026-11-22"
+    "scrapedAt": "2026-11-22",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Notification Date",
+        "date": "21/11/2026"
+      },
+      {
+        "event": "Last Date for Submission of Applications",
+        "date": "11/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "General Counsellor",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Counsellor",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Child Counsellor",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Download the prescribed application form from the official website: https://highcourtofuttarakhand.gov.in",
+      "Fill in the application form completely in the prescribed format.",
+      "Attach self-attested copies of all requisite documents.",
+      "Send the duly completed application form along with all documents only by Speed Post/Registered Post/Courier.",
+      "Superscribe the envelope as: “APPLICATION FOR ENGAGEMENT AS [NAME OF POST] IN THE FAMILY COURT”.",
+      "Applications received through Email shall NOT be entertained.",
+      "The last date for submission of applications is 11.12.2026."
+    ]
   },
   {
     "id": "uttarakhand-nabard-junior-project-associate-senior-project-associate",

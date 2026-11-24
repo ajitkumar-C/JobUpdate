@@ -1,5 +1,22 @@
 [
   {
+    "id": "goa-kv no 1 vasco-da-gama-pgt-tgt-amp-more",
+    "title": "KV No 1 Vasco-da-Gama Recruitment 2026 – PGT, TGT &amp; More Posts",
+    "shortInfo": "KV No 1 Vasco-da-Gama has announced notification for PGT, TGT &amp; More posts. Required qualification: PG, Graduate. Last date to apply: 23-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "5",
+    "lastDate": "23-11-26",
+    "officialWebsite": "https://cdnbbsr.s3waas.gov.in/s3kv02b8dff4a4604c6c454036e8fa2660/uploads/2026/11/2026112148.pdf",
+    "notificationLink": "https://cdnbbsr.s3waas.gov.in/s3kv02b8dff4a4604c6c454036e8fa2660/uploads/2026/11/2026112148.pdf",
+    "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3kv02b8dff4a4604c6c454036e8fa2660/uploads/2026/11/2026112148.pdf",
+    "state": "Goa",
+    "stateCode": "goa",
+    "scrapedAt": "2026-11-24"
+  },
+  {
     "id": "goa-goa police-police-constable",
     "title": "Goa Police Recruitment 2026 – Police Constable Posts",
     "shortInfo": "Goa Police has announced notification for Police Constable posts. Required qualification: 10th Pass. Last date to apply: 23-11-26.",
@@ -735,23 +752,6 @@
     "scrapedAt": "2026-11-24"
   },
   {
-    "id": "goa-bits pilani-phd-position",
-    "title": "BITS Pilani Recruitment 2026 – PhD Position Posts",
-    "shortInfo": "BITS Pilani has announced notification for PhD Position posts. Required qualification: B.Tech/B.E, M.Sc, M.E/M.Tech, M.Phil/Ph.D. Last date to apply: 21-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "21-11-26",
-    "officialWebsite": "https://www.bits-pilani.ac.in/wp-content/uploads/PhD_ad-21st-NOV-2026.pdf",
-    "notificationLink": "https://www.bits-pilani.ac.in/wp-content/uploads/PhD_ad-21st-NOV-2026.pdf",
-    "applyOnlineLink": "https://www.bits-pilani.ac.in/wp-content/uploads/PhD_ad-21st-NOV-2026.pdf",
-    "state": "Goa",
-    "stateCode": "goa",
-    "scrapedAt": "2026-11-24"
-  },
-  {
     "id": "goa-gspcb-scientific-assistant-and-more-mts",
     "title": "GSPCB Recruitment 2026 – Scientific Assistant and More, MTS Posts",
     "shortInfo": "GSPCB has announced notification for Scientific Assistant and More, MTS posts. Required qualification: Post Graduate, ITI, 10TH. Last date to apply: 30-11-26.",
@@ -1456,233 +1456,6 @@
     "state": "Goa",
     "stateCode": "goa",
     "scrapedAt": "2026-11-24"
-  },
-  {
-    "id": "goa-gsl-junior-manager-manager-and-more",
-    "title": "GSL Recruitment 2026 – Junior Manager, Manager and More Posts",
-    "shortInfo": "GSL has announced notification for Junior Manager, Manager and More posts. Required qualification: B.Tech / B.E, LLB, MBA / PGDM, Diploma, CA, Any Graduate. Last date to apply: 22-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "40",
-    "lastDate": "22-11-26",
-    "officialWebsite": "https://goashipyard.in",
-    "notificationLink": "https://goashipyard.in/storage/clients_logo/1792555837.pdf",
-    "applyOnlineLink": "https://goashipyard.ibtexamination.com/App06GSl2o26vEr6/",
-    "state": "Goa",
-    "stateCode": "goa",
-    "scrapedAt": "2026-11-24",
-    "fees": [
-      {
-        "category": "General/OBC/EWS",
-        "fee": "₹500/- (Non-Refundable)"
-      },
-      {
-        "category": "SC/ST/PwBD/Ex-Servicemen",
-        "fee": "Exempted"
-      },
-      {
-        "category": "Internal Candidates",
-        "fee": "No Fee"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Commencement of Online Applications",
-        "date": "23/10/2026"
-      },
-      {
-        "event": "Last Date for Submitting Online Applications",
-        "date": "22/11/2026"
-      },
-      {
-        "event": "Last Date for Receipt of Printout & Hard Copies at GSL",
-        "date": "02/12/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Chief General Manager (Finance) [Regular]",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Additional General Manager (Naval Architecture) / Deputy General Manager (Naval Architecture) [Regular]",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Additional General Manager (Human Resources) [Regular]",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Additional General Manager (Finance) [Regular]",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Manager (Safety) [Regular]",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Manager (Public Relations) [Regular]",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Deputy Manager (Electrical) [Regular]",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Deputy Manager (Technical) [Regular]",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Deputy Manager (Digital Design & Additive Manufacturing) [Regular]",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Deputy Manager (Welding & Automation) [Regular]",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Deputy Manager (HVACR) [Regular]",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Deputy Manager (Marketing & Costing) [Regular]",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Deputy Manager (Information Technology) [Regular]",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Deputy Manager (Rajbhasha) [Regular]",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Deputy Manager (Finance) [Regular]",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Deputy Manager (Legal) [Regular]",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Manager (Coordination - Delhi Office) [Regular]",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Junior Manager (Safety) [Regular]",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Chief General Manager (HR&A) [Fixed Term]",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Chief General Manager (Business Development) / General Manager (Business Development) [Fixed Term]",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Chief General Manager (Technical) / General Manager (Technical) [Fixed Term]",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Deputy General Manager (Ship Repairs) [Fixed Term]",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Manager (Civil) [Fixed Term]",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Deputy Manager (Ship Repairs) [Fixed Term]",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the official website www.goashipyard.in and navigate to Notice Board &gt; Careers &gt; GSL Careers.",
-      "Click on ‘Apply Online’ button and select the post you wish to apply for.",
-      "Go through the eligibility criteria and Terms &amp; Conditions before applying.",
-      "Keep scanned copies of required documents ready (Photograph, Signature, SSC Certificate, Educational Qualification, Caste Certificate, Experience Certificates, Aadhaar Card).",
-      "Fill in the online application form with all required details.",
-      "Pay the application fee of ₹500/- (Non-Refundable) online through SBI e-pay (debit card/credit card/net banking). SC/ST/PwBD/Ex-Servicemen are exempted from fee.",
-      "Download and take a printout of the fee receipt upon successful payment.",
-      "Submit the online application form after completing all details.",
-      "Take two printouts of the system-generated online application form.",
-      "Send one printout along with all relevant documents to: General Manager (HR&amp;A), HR&amp;A Department, Goa Shipyard Limited, Vasco-Da-Gama, Goa – 403802, on or before 02.12.2026."
-    ]
   },
   {
     "id": "goa-directorate of vigilance goa-technical-examiner",

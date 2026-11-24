@@ -1,5 +1,22 @@
 [
   {
+    "id": "puducherry-jipmer-project-nurse-ii",
+    "title": "JIPMER Recruitment 2026 – Project Nurse-II Posts",
+    "shortInfo": "JIPMER has announced notification for Project Nurse-II posts. Required qualification: GNM, B.Sc. Last date to apply: 07-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "10",
+    "lastDate": "07-12-26",
+    "officialWebsite": "https://jipmer.edu.in/sites/default/files/Advertisemet_Referral_Department%20of%20OBG_Project%20Nurse-II.pdf",
+    "notificationLink": "https://jipmer.edu.in/sites/default/files/Advertisemet_Referral_Department%20of%20OBG_Project%20Nurse-II.pdf",
+    "applyOnlineLink": "https://jipmer.edu.in/sites/default/files/Advertisemet_Referral_Department%20of%20OBG_Project%20Nurse-II.pdf",
+    "state": "Puducherry",
+    "stateCode": "puducherry",
+    "scrapedAt": "2026-11-24"
+  },
+  {
     "id": "puducherry-pajancoa &amp; ri-consultant",
     "title": "PAJANCOA &amp; RI Recruitment 2026 – Consultant Posts",
     "shortInfo": "PAJANCOA &amp; RI has announced notification for Consultant posts. Required qualification: Graduate. Last date to apply: 26-11-26.",
@@ -593,68 +610,6 @@
       "Proceed to the ‘Payment’ tab and pay the application fee online using Debit/Credit Card or Internet Banking.",
       "On successful payment, an e-Receipt will be generated. Take a printout of the e-Receipt and online application form for future reference.",
       "Do NOT send the printout to the Bank."
-    ]
-  },
-  {
-    "id": "puducherry-rites-senior-technical-assistant",
-    "title": "RITES Recruitment 2026 – Senior Technical Assistant Posts",
-    "shortInfo": "RITES has announced notification for Senior Technical Assistant posts. Required qualification: Diploma (Civil Engg). Last date to apply: 22-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "31",
-    "lastDate": "22-11-26",
-    "officialWebsite": "https://rites.com",
-    "notificationLink": "https://rites.com/Upload/Career/CL_12_26_pdf-2026-Nov-02-17-43-47.pdf",
-    "applyOnlineLink": "https://recruit.rites.com/frmRegistration.aspx",
-    "state": "Puducherry",
-    "stateCode": "puducherry",
-    "scrapedAt": "2026-11-24",
-    "fees": [
-      {
-        "category": "General/OBC Candidates",
-        "fee": "Rs. 300/- plus Taxes as applicable"
-      },
-      {
-        "category": "EWS/SC/ST/PWD Candidates",
-        "fee": "Rs. 100/- plus Taxes as applicable"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Commencement of submission of online application and payment of fees",
-        "date": "02/11/2026"
-      },
-      {
-        "event": "Last date of submission of online application and payment of fees",
-        "date": "22/11/2026"
-      },
-      {
-        "event": "Date of Written Test (Tentative)",
-        "date": "29/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Senior Technical Assistant",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Before applying, candidates should ensure that they satisfy the necessary conditions and requirements of the position.",
-      "Interested candidates fulfilling the eligibility criteria are required to apply online in the registration format available in the Career Section of RITES website: http://www.rites.com.",
-      "While submitting the online application, the system would generate a ‘Registration No.’ on top of the online form filled up by the candidate. Note down this Registration No. and quote it for all further communication with RITES Ltd.",
-      "While filling up the required details, candidates are advised to carefully and correctly fill the details of ‘Identity Proof’.",
-      "After filling up the required details, candidates must upload all documents under the ‘Upload Document’ section, including: High School certificate for proof of Date of Birth, Certificates of Academic &amp; Professional qualifications with mark sheets, Percentage Conversion Document (if applicable), EWS/SC/ST/OBC-NCL/PwBD Certificate (if applicable), Proof of Identity &amp; Address, PAN Card, Proof of experience, and any other supporting documents.",
-      "After uploading all documents, candidates are required to make online payment under the ‘Make Payment’ section.",
-      "Post successful payment of application fee, the final application form must be downloaded and a copy retained for future reference.",
-      "Applications without successful fee payment shall be treated as incomplete and shall be summarily rejected.",
-      "Hard copies of documents are NOT to be sent to the office through post/courier.",
-      "Candidates should submit only one application for one vacancy. Application once submitted cannot be altered."
     ]
   }
 ]

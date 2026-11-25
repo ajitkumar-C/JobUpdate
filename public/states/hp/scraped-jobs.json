@@ -1,5 +1,39 @@
 [
   {
+    "id": "hp-iit mandi campus school-tgt-pgt",
+    "title": "IIT Mandi Campus School Recruitment 2026 – TGT, PGT Posts",
+    "shortInfo": "IIT Mandi Campus School has announced notification for TGT, PGT posts. Required qualification: MFA, B.Ed, BFA, Diploma. Last date to apply: 15-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "4",
+    "lastDate": "15-12-26",
+    "officialWebsite": "https://iitmandi.ac.in/recruitment/IIT_Mandi_Campus_School_Teacher_Recruitment.pdf",
+    "notificationLink": "https://iitmandi.ac.in/recruitment/IIT_Mandi_Campus_School_Teacher_Recruitment.pdf",
+    "applyOnlineLink": "https://iitmandi.ac.in/recruitment/IIT_Mandi_Campus_School_Teacher_Recruitment.pdf",
+    "state": "Himachal Pradesh",
+    "stateCode": "hp",
+    "scrapedAt": "2026-11-25"
+  },
+  {
+    "id": "hp-hpnlu-accountant",
+    "title": "HPNLU Recruitment 2026 – Accountant Posts",
+    "shortInfo": "HPNLU has announced notification for Accountant posts. Required qualification: B.Com. Last date to apply: 07-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "07-12-26",
+    "officialWebsite": "https://www.hpnlu.ac.in/PDF/461ff6cc-0d88-45c5-aace-8f474874112c.pdf",
+    "notificationLink": "https://www.hpnlu.ac.in/PDF/461ff6cc-0d88-45c5-aace-8f474874112c.pdf",
+    "applyOnlineLink": "https://www.hpnlu.ac.in/PDF/461ff6cc-0d88-45c5-aace-8f474874112c.pdf",
+    "state": "Himachal Pradesh",
+    "stateCode": "hp",
+    "scrapedAt": "2026-11-25"
+  },
+  {
     "id": "hp-aiims bilaspur-associate-professor-professor-amp-more",
     "title": "AIIMS Bilaspur Recruitment 2026 – Associate Professor, Professor &amp; More Posts",
     "shortInfo": "AIIMS Bilaspur has announced notification for Associate Professor, Professor &amp; More posts. Required qualification: DM, DNB, MS / MD. Last date to apply: 21-12-26.",
@@ -9,12 +43,84 @@
     "district": "State Level",
     "vacancies": "73",
     "lastDate": "21-12-26",
-    "officialWebsite": "https://aiimsbilaspur.edu.in/sites/default/files/2026-11/Advertisement%20Nov%202026.pdf",
-    "notificationLink": "https://aiimsbilaspur.edu.in/sites/default/files/2026-11/Advertisement%20Nov%202026.pdf",
-    "applyOnlineLink": "https://aiimsbilaspur.edu.in/sites/default/files/2026-11/Advertisement%20Nov%202026.pdf",
+    "officialWebsite": "https://aiimsbilaspur.edu.in",
+    "notificationLink": "https://www.aiimsbilaspur.edu.in/sites/default/files/2026-11/Advertisement%20Nov%202026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/aiims-bilaspur-faculty-recruitment-2026/",
     "state": "Himachal Pradesh",
     "stateCode": "hp",
-    "scrapedAt": "2026-11-25"
+    "scrapedAt": "2026-11-25",
+    "fees": [
+      {
+        "category": "SC/ST/Persons with Benchmark Disabilities (PwBD)",
+        "fee": "Exempted"
+      },
+      {
+        "category": "General/UR/OBC/EWS and Others",
+        "fee": "Rs. 2,000 + 18% GST = Rs. 2,360/-"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date for Online Google Form Submission",
+        "date": "14/12/2026"
+      },
+      {
+        "event": "Last Date for Receipt of Offline Application (Hard Copy)",
+        "date": "21/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Professor (Faculty Code-001) – Direct/Deputation",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Additional Professor (Faculty Code-002) – Direct/Deputation/Contractual",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Professor (Faculty Code-003) – Direct/Deputation/Contractual",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor (Faculty Code-003) – Direct Recruitment",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Assistant Professor – Contractual",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Lecturer in Nursing (Assistant Professor), College of Nursing – Regular Basis",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Step 1 – Application Fee: Pay non-refundable application fee via NEFT only in favor of ‘Executive Director, AIIMS-Bilaspur’. SC/ST/PwBD candidates are exempted. Others pay Rs. 2,000 + 18% GST = Rs. 2,360/-. Bank: State Bank of India, Bilaspur; Account No: 42734198120; IFSC: SBIN0063972. Upload proof of payment in the Google Form.",
+      "Step 2 – Download Application Forms: Download Appendix-I (Application Form), Appendix-II (Career Graph in MS Word, Times New Roman Font Size 12, save as PDF), and Appendix-III (Presentation in PPT format) from the provided links.",
+      "Step 3 – Submit Google Form: Fill and submit the Google Form at https://forms.gle/DGvRFdBmXoghGqCg7 along with scanned copies of application forms and required documents. The Google Form link remains active till 14.12.2026 up to 05:00 PM.",
+      "Step 4 – Submit Offline Application: Send duly filled and signed hard copy (Appendix-I) along with self-attested copies of all relevant certificates (age, qualification, experience, proof of payment, caste/EWS/PwBD certificate, NOC, etc.) to: Deputy Director (Administration), Administrative Block, 3rd Floor, All India Institute of Medical Sciences, Kothipura, Bilaspur, Himachal Pradesh-174037. The envelope must be superscribed: ‘Application for the post of ………, Department of ………… for AIIMS, Bilaspur (H.P.)’. Must reach by 21.12.2026 by 05:00 PM.",
+      "Candidates already employed in Central/State Govt./Autonomous Institutions must route their applications through proper channel with NOC, Vigilance, Integrity and Penalty certificates.",
+      "For more than one post, submit separate applications for each post."
+    ]
   },
   {
     "id": "hp-cskhpkv-project-assistant",

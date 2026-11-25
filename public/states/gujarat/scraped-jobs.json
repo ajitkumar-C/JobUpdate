@@ -1,5 +1,294 @@
 [
   {
+    "id": "gujarat-eil-associate-engineer",
+    "title": "EIL Recruitment 2026 – Associate Engineer Posts",
+    "shortInfo": "EIL has announced notification for Associate Engineer posts. Required qualification: B.Sc, B.Tech / B.E. Last date to apply: 09-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "87",
+    "lastDate": "09-12-26",
+    "officialWebsite": "https://engineersindia.com/",
+    "notificationLink": "https://recruitment.eil.co.in/hrdnew/others/79.pdf",
+    "applyOnlineLink": "https://recruitment.eil.co.in/",
+    "state": "Gujarat",
+    "stateCode": "gujarat",
+    "scrapedAt": "2026-11-25",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Online Application Start Date",
+        "date": "25/11/2026"
+      },
+      {
+        "event": "Online Application End Date",
+        "date": "09/12/2026"
+      },
+      {
+        "event": "Cut-off Date for Eligibility",
+        "date": "31/10/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Associate Engineer Gr I - Electrical (A1)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Engineer Gr I - Instrumentation (A2)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Engineer Gr II - Electrical (B1)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Engineer Gr II - Instrumentation (B2)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Engineer Gr II - Piping (B3)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Engineer Gr II - General Civil (B4)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Engineer Gr II - Structural (B5)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Engineer Gr II - Safety (B6)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Engineer Gr II - EWS (B7)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Engineer Gr II - SMED 1 (B8)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Engineer Gr II - SMED 2 (B9)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Engineer Gr II - FED 1 (BA)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Engineer Gr II - FED 3 (BB)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Engineer Gr II - Process 2 (BC)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Associate Engineer Gr II - Process 2 Alumina (BD)",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the EIL official website: http://www.engineersindia.com and navigate to the career link.",
+      "Read all instructions carefully given on the website.",
+      "Fill in the online application form with all relevant correct details. Round off percentage of marks to lower whole number (e.g., for 60.9, write 60). Round off CGPA to lower decimal (e.g., for 6.95, write 6.9).",
+      "Keep scanned copies ready for uploading: Latest passport size colour photograph in .jpg/.jpeg format (not more than 75 KB) and Signature in .jpg/.jpeg format (not more than 25 KB).",
+      "Submit the online application form. Note the valid registration number.",
+      "Take a printout of the application form (6 copies), affix colour photograph, and bring the same while reporting for the Walk-In Interview.",
+      "Candidates are NOT required to send the printout of the registered application form by post."
+    ]
+  },
+  {
+    "id": "gujarat-iim ahmedabad-executive",
+    "title": "IIM Ahmedabad Recruitment 2026 – Executive Posts",
+    "shortInfo": "IIM Ahmedabad has announced notification for Executive posts. Required qualification: Graduate. Last date to apply: 03-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "03-12-26",
+    "officialWebsite": "https://iima.ac.in/sites/default/files/2026-11/JD_Executive-Placement.pdf",
+    "notificationLink": "https://iima.ac.in/sites/default/files/2026-11/JD_Executive-Placement.pdf",
+    "applyOnlineLink": "https://iima.ac.in/sites/default/files/2026-11/JD_Executive-Placement.pdf",
+    "state": "Gujarat",
+    "stateCode": "gujarat",
+    "scrapedAt": "2026-11-25"
+  },
+  {
+    "id": "gujarat-iit gandhinagar-project-associate-ii",
+    "title": "IIT Gandhinagar Recruitment 2026 – Project Associate II Posts",
+    "shortInfo": "IIT Gandhinagar has announced notification for Project Associate II posts. Required qualification: M.Sc, M.E / M.Tech, B.Tech / B.E. Last date to apply: 12-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "12-12-26",
+    "officialWebsite": "https://drive.google.com/uc?export=download&#038;id=1MSsC_b9OFqUf-_9EN_bx9Z1hAVpTTPIF",
+    "notificationLink": "https://drive.google.com/uc?export=download&#038;id=1MSsC_b9OFqUf-_9EN_bx9Z1hAVpTTPIF",
+    "applyOnlineLink": "https://drive.google.com/uc?export=download&#038;id=1MSsC_b9OFqUf-_9EN_bx9Z1hAVpTTPIF",
+    "state": "Gujarat",
+    "stateCode": "gujarat",
+    "scrapedAt": "2026-11-25"
+  },
+  {
+    "id": "gujarat-iit gandhinagar-project-associate-i-videographer-",
+    "title": "IIT Gandhinagar Recruitment 2026 – Project Associate I (Videographer) Posts",
+    "shortInfo": "IIT Gandhinagar has announced notification for Project Associate I (Videographer) posts. Required qualification: ICWA, B.Tech / B.E, B.Sc, M.Sc, B.Com, B.A, MBA / PGDM, B.B.A, LLB, LLM, Chartered Accountant, Company Secretary. Last date to apply: 12-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "12-12-26",
+    "officialWebsite": "https://drive.google.com/uc?export=download&#038;id=1LqBd9t7YMiJ1Qwx4YHLuGz4k2qAVzD4X",
+    "notificationLink": "https://drive.google.com/uc?export=download&#038;id=1LqBd9t7YMiJ1Qwx4YHLuGz4k2qAVzD4X",
+    "applyOnlineLink": "https://drive.google.com/uc?export=download&#038;id=1LqBd9t7YMiJ1Qwx4YHLuGz4k2qAVzD4X",
+    "state": "Gujarat",
+    "stateCode": "gujarat",
+    "scrapedAt": "2026-11-25"
+  },
+  {
+    "id": "gujarat-iitram-deputy-registrar",
+    "title": "IITRAM Recruitment 2026 – Deputy Registrar Posts",
+    "shortInfo": "IITRAM has announced notification for Deputy Registrar posts. Required qualification: PG. Last date to apply: 24-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "24-12-26",
+    "officialWebsite": "https://iitram.ac.in/frontend/Career/20261125_Recruitment-Advt-DR_on_Deputation.pdf",
+    "notificationLink": "https://iitram.ac.in/frontend/Career/20261125_Recruitment-Advt-DR_on_Deputation.pdf",
+    "applyOnlineLink": "https://iitram.ac.in/frontend/Career/20261125_Recruitment-Advt-DR_on_Deputation.pdf",
+    "state": "Gujarat",
+    "stateCode": "gujarat",
+    "scrapedAt": "2026-11-25"
+  },
+  {
+    "id": "gujarat-esic-senior-resident-full-time-specialist-part-time-spe",
+    "title": "ESIC Recruitment 2026 – Senior Resident, Full Time Specialist / Part Time Specialist Posts",
+    "shortInfo": "ESIC has announced notification for Senior Resident, Full Time Specialist / Part Time Specialist posts. Required qualification: PG Diploma, MS / MD, MBBS. Last date to apply: 08-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "25",
+    "lastDate": "08-12-26",
+    "officialWebsite": "https://esic.gov.in/attachments/recruitmentfile/WALK_IN_INTERVIEW_FOR_ENGAGEMENT_OF_CONTRACTUAL_FULL_TIME_SPECIALIST_FTCS_PART_TIME_SPECIALIST_PTCS_AND_SENIOR_RESIDENT_ON_CONTRACT_BASIS_HELD_ON_DATED_08_12_2026_IN_ESIC_HOSPITAL_VAPI_GUJARAT_1795601285.pdf",
+    "notificationLink": "https://esic.gov.in/attachments/recruitmentfile/WALK_IN_INTERVIEW_FOR_ENGAGEMENT_OF_CONTRACTUAL_FULL_TIME_SPECIALIST_FTCS_PART_TIME_SPECIALIST_PTCS_AND_SENIOR_RESIDENT_ON_CONTRACT_BASIS_HELD_ON_DATED_08_12_2026_IN_ESIC_HOSPITAL_VAPI_GUJARAT_1795601285.pdf",
+    "applyOnlineLink": "https://esic.gov.in/attachments/recruitmentfile/WALK_IN_INTERVIEW_FOR_ENGAGEMENT_OF_CONTRACTUAL_FULL_TIME_SPECIALIST_FTCS_PART_TIME_SPECIALIST_PTCS_AND_SENIOR_RESIDENT_ON_CONTRACT_BASIS_HELD_ON_DATED_08_12_2026_IN_ESIC_HOSPITAL_VAPI_GUJARAT_1795601285.pdf",
+    "state": "Gujarat",
+    "stateCode": "gujarat",
+    "scrapedAt": "2026-11-25"
+  },
+  {
+    "id": "gujarat-rari-senior-research-fellow",
+    "title": "RARI Recruitment 2026 – Senior Research Fellow Posts",
+    "shortInfo": "RARI has announced notification for Senior Research Fellow posts. Required qualification: BAMS. Last date to apply: 14-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "14-12-26",
+    "officialWebsite": "https://ccras.nic.in/wp-content/uploads/2026/11/25112026-Advertisement-for-SRF-for-website-25-11-2026.pdf",
+    "notificationLink": "https://ccras.nic.in/wp-content/uploads/2026/11/25112026-Advertisement-for-SRF-for-website-25-11-2026.pdf",
+    "applyOnlineLink": "https://ccras.nic.in/wp-content/uploads/2026/11/25112026-Advertisement-for-SRF-for-website-25-11-2026.pdf",
+    "state": "Gujarat",
+    "stateCode": "gujarat",
+    "scrapedAt": "2026-11-25"
+  },
+  {
+    "id": "gujarat-sdau-junior-research-fellow",
+    "title": "SDAU Recruitment 2026 – Junior Research Fellow Posts",
+    "shortInfo": "SDAU has announced notification for Junior Research Fellow posts. Required qualification: M.Sc, M.Phil / Ph.D, B.Sc. Last date to apply: 07-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "07-12-26",
+    "officialWebsite": "http://dcs.sdau.edu.in/Uploads/news/JRF.pdf",
+    "notificationLink": "http://dcs.sdau.edu.in/Uploads/news/JRF.pdf",
+    "applyOnlineLink": "http://dcs.sdau.edu.in/Uploads/news/JRF.pdf",
+    "state": "Gujarat",
+    "stateCode": "gujarat",
+    "scrapedAt": "2026-11-25"
+  },
+  {
+    "id": "gujarat-nardes gnfc-trainer",
+    "title": "NARDES GNFC Recruitment 2026 – Trainer Posts",
+    "shortInfo": "NARDES GNFC has announced notification for Trainer posts. Required qualification: ITI, Diploma, 10th Pass. Last date to apply: 05-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "2",
+    "lastDate": "05-12-26",
+    "officialWebsite": "https://www.gnfc.in/wp-content/uploads/2026/08/NARDES-Recruitment-Advertisement.pdf",
+    "notificationLink": "https://www.gnfc.in/wp-content/uploads/2026/08/NARDES-Recruitment-Advertisement.pdf",
+    "applyOnlineLink": "https://www.gnfc.in/wp-content/uploads/2026/08/NARDES-Recruitment-Advertisement.pdf",
+    "state": "Gujarat",
+    "stateCode": "gujarat",
+    "scrapedAt": "2026-11-25"
+  },
+  {
     "id": "gujarat-gsssb-food-safety-officer-fso-last-date-extended-",
     "title": "GSSSB Recruitment 2026 – Food Safety Officer (FSO) (Last Date Extended) Posts",
     "shortInfo": "GSSSB has announced notification for Food Safety Officer (FSO) (Last Date Extended) posts. Required qualification: Master's Degree in Chemistry OR Degree in Food Technology. Last date to apply: 10-12-26.",
@@ -653,23 +942,6 @@
     "officialWebsite": "https://gbu.edu.in/wp-content/uploads/2026/11/JRF-advertisement-JRF-01_DFA-19112026.pdf",
     "notificationLink": "https://gbu.edu.in/wp-content/uploads/2026/11/JRF-advertisement-JRF-01_DFA-19112026.pdf",
     "applyOnlineLink": "https://gbu.edu.in/wp-content/uploads/2026/11/JRF-advertisement-JRF-01_DFA-19112026.pdf",
-    "state": "Gujarat",
-    "stateCode": "gujarat",
-    "scrapedAt": "2026-11-25"
-  },
-  {
-    "id": "gujarat-mamlatdar office bhanvad-sanchalak-cum-cook",
-    "title": "Mamlatdar Office Bhanvad Recruitment 2026 – Sanchalak-cum-Cook Posts",
-    "shortInfo": "Mamlatdar Office Bhanvad has announced notification for Sanchalak-cum-Cook posts. Required qualification: 10th. Last date to apply: 24-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "24-11-26",
-    "officialWebsite": "https://cdn.s3waas.gov.in/s35807a685d1a9ab3b599035bc566ce2b9/uploads/2026/11/17950049433145.pdf",
-    "notificationLink": "https://cdn.s3waas.gov.in/s35807a685d1a9ab3b599035bc566ce2b9/uploads/2026/11/17950049433145.pdf",
-    "applyOnlineLink": "https://cdn.s3waas.gov.in/s35807a685d1a9ab3b599035bc566ce2b9/uploads/2026/11/17950049433145.pdf",
     "state": "Gujarat",
     "stateCode": "gujarat",
     "scrapedAt": "2026-11-25"
@@ -2617,56 +2889,5 @@
     "state": "Gujarat",
     "stateCode": "gujarat",
     "scrapedAt": "2026-11-25"
-  },
-  {
-    "id": "gujarat-indian coast guard-chargeman",
-    "title": "Indian Coast Guard Recruitment 2026 – Chargeman Posts",
-    "shortInfo": "Indian Coast Guard has announced notification for Chargeman posts. Required qualification: Diploma. Last date to apply: 24-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "3",
-    "lastDate": "24-11-26",
-    "officialWebsite": "https://indiancoastguard.gov.in/",
-    "notificationLink": "https://indiancoastguard.gov.in/sites/default/files/Chargeman%20Eng.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/icg-chargeman-recruitment-2026/",
-    "state": "Gujarat",
-    "stateCode": "gujarat",
-    "scrapedAt": "2026-11-25",
-    "fees": [
-      {
-        "category": "Fee",
-        "fee": "Not Mentioned"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Application Start Date",
-        "date": "10/10/2026"
-      },
-      {
-        "event": "Last Date of Receiving Applications",
-        "date": "24/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Chargeman (General Central Service, Group 'B', Non-Gazetted, Non-ministerial)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Fill the application form in English or Hindi as per the prescribed format given at Annexure-1.",
-      "Affix a self-attested colour photograph on the application form.",
-      "Attach photocopies of the following documents, duly self-attested with name and date: Aadhaar card, Matriculation or equivalent marksheet and certificate, UG/PG/Diploma marksheet and certificate, Latest Category Certificate (for reserved category candidates), Experience Certificate, PwBD Certificate (if applicable), NOC from employer (if applicable), Two latest passport size colour photographs.",
-      "Enclose a separate blank envelope with Rs. 50/- postal stamp pasted on it, addressed to yourself.",
-      "Super-scribe the envelope in BOLD letters: “APPLICATION FOR THE POST OF CHARGEMAN” along with the category applied for.",
-      "Send the duly filled application with all attachments by ordinary post only to: The Director General, {For PD (Rectt)}, Coast Guard Headquarters, Directorate of Recruitment, C-1, Phase II, Industrial Area, Sector-62, Noida, U.P. – 201309.",
-      "Applications must reach by 24 Nov 26. Applications sent by hand or courier will not be considered."
-    ]
   }
 ]

@@ -14,7 +14,7 @@
     "applyOnlineLink": "https://cau.ac.in/wp-content/uploads/2026/11/Advertisement.pdf",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "arunachal-iim shillong-mukhya-mantri-fellow-assistant-fellow",
@@ -31,7 +31,7 @@
     "applyOnlineLink": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=g9iH47Q7VUi3oLFXVvJfYR_Tmle1wQ9NojnpVf6PEUlUQzgwMjdSTFhSQVc2RjhRSUFQU0cwSktFMC4u&route=shorturl",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-11-24",
+    "scrapedAt": "2026-11-25",
     "fees": [
       {
         "category": "Fee",
@@ -86,7 +86,7 @@
     "applyOnlineLink": "https://nerist.ac.in/wp-content/uploads/2026/11/NERIST_PDF_Advt_Application.pdf",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "arunachal-iocl eastern region-technician-apprentice-trade-apprentice-other-posts",
@@ -103,7 +103,7 @@
     "applyOnlineLink": "https://nats.education.gov.in/student_register.php",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-11-24",
+    "scrapedAt": "2026-11-25",
     "fees": [
       {
         "category": "Fee",
@@ -440,7 +440,7 @@
     "applyOnlineLink": "https://culture.gov.in/files/vacancies_documents/Advertisement_for_the_Post_of_Director_CIHCS.pdf",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "arunachal-rgu-internal-audit-officer-executive-engineer",
@@ -457,7 +457,7 @@
     "applyOnlineLink": "https://rgu.ac.in/uploads/notices/1%20Adv%20IAO%20&#038;%20EE%205.11.2026.pdf",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "arunachal-indian bank-apprentice",
@@ -474,7 +474,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/inbraoct26/",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-11-24",
+    "scrapedAt": "2026-11-25",
     "fees": [
       {
         "category": "General/OBC/EWS candidates",
@@ -515,64 +515,6 @@
       "Proceed to the ‘Payment’ tab and pay the application fee online using Debit/Credit Card or Internet Banking.",
       "On successful payment, an e-Receipt will be generated. Take a printout of the e-Receipt and online application form for future reference.",
       "Do NOT send the printout to the Bank."
-    ]
-  },
-  {
-    "id": "arunachal-apssb-mts",
-    "title": "APSSB Recruitment 2026 – MTS Posts",
-    "shortInfo": "APSSB has announced notification for MTS posts. Required qualification: Class 10th / ITI passed. Last date to apply: 23-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "93",
-    "lastDate": "23-11-26",
-    "officialWebsite": "https://apssb.nic.in",
-    "notificationLink": "https://apssb.nic.in/upload/files/RECINS001/ADVERTISEMENT_OF_CSLE_2026_20261014_172726.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/apssb-mts-recruitment-2026/",
-    "state": "Arunachal Pradesh",
-    "stateCode": "arunachal",
-    "scrapedAt": "2026-11-24",
-    "fees": [
-      {
-        "category": "Fee",
-        "fee": "₹150/-"
-      },
-      {
-        "category": "For PWD/PwBD category",
-        "fee": "No Fee"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Opening Date of Application",
-        "date": "09/11/2026"
-      },
-      {
-        "event": "Closing Date of Application",
-        "date": "23/11/2026"
-      },
-      {
-        "event": "Tentative Date of Written Examination",
-        "date": "20/12/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "MTS (Multi Tasking Staff)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Visit the official website www.apssb.nic.in.",
-      "Read the Recruitment Notice carefully before applying.",
-      "Fill the online application form with correct and relevant information.",
-      "Ensure all eligibility conditions like Age, Educational Qualifications, Experience, and Category are met.",
-      "Submit the application before the closing date 23-11-2026 (03:00 PM).",
-      "Applications received through any other mode shall be rejected."
     ]
   }
 ]

@@ -14,7 +14,7 @@
     "applyOnlineLink": "https://www.manipuruniv.ac.in/upload/recruitmentDBTbotany23nov2026.pdf",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "manipur-cau-osd-works-",
@@ -31,7 +31,7 @@
     "applyOnlineLink": "https://cau.ac.in/wp-content/uploads/2026/11/osd_works_2.pdf",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "manipur-mtu-junior-research-fellow-jrf-project-associate-i",
@@ -48,7 +48,7 @@
     "applyOnlineLink": "http://mtu.ac.in/wp-content/uploads/2026/11/Dt-19-11-2026-Notice-for-advertisement-for-the-post-of-Junior-Research-Fellow-JRF-Project-Associate.pdf",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "manipur-ibsd-scientist-c-scientist-d-and-more",
@@ -65,7 +65,7 @@
     "applyOnlineLink": "https://ibsd.gov.in/notice-tender-vacancy/job-portal",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "manipur-emrs-junior-secretariat-assistant-accountant-and-more",
@@ -82,7 +82,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s36e2713a6efee97bacb63e52c54f0ada0/uploads/2026/11/17948178133616.pdf",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "manipur-iocl eastern region-technician-apprentice-trade-apprentice-other-posts",
@@ -99,7 +99,7 @@
     "applyOnlineLink": "https://nats.education.gov.in/student_register.php",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-24",
+    "scrapedAt": "2026-11-25",
     "fees": [
       {
         "category": "Fee",
@@ -436,7 +436,7 @@
     "applyOnlineLink": "https://agrimanipurrecruitment.com/",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-24",
+    "scrapedAt": "2026-11-25",
     "fees": [
       {
         "category": "UR Candidates",
@@ -504,7 +504,7 @@
     "applyOnlineLink": "https://agrimanipurrecruitment.com/",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "manipur-indian bank-apprentice",
@@ -521,7 +521,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/inbraoct26/",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-24",
+    "scrapedAt": "2026-11-25",
     "fees": [
       {
         "category": "General/OBC/EWS candidates",
@@ -565,40 +565,6 @@
     ]
   },
   {
-    "id": "manipur-rims-junior-resident",
-    "title": "RIMS Recruitment 2026 – Junior Resident Posts",
-    "shortInfo": "RIMS has announced notification for Junior Resident posts. Required qualification: BDS, Graduate. Last date to apply: 23-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "4",
-    "lastDate": "23-11-26",
-    "officialWebsite": "https://rims.edu.in/rimsman/wp-content/uploads/Notice-JR-Dental-03-11-2026.pdf",
-    "notificationLink": "https://rims.edu.in/rimsman/wp-content/uploads/Notice-JR-Dental-03-11-2026.pdf",
-    "applyOnlineLink": "https://rims.edu.in/rimsman/wp-content/uploads/Notice-JR-Dental-03-11-2026.pdf",
-    "state": "Manipur",
-    "stateCode": "manipur",
-    "scrapedAt": "2026-11-24"
-  },
-  {
-    "id": "manipur-rims-junior-resident",
-    "title": "RIMS Recruitment 2026 – Junior Resident Posts",
-    "shortInfo": "RIMS has announced notification for Junior Resident posts. Required qualification: Graduate, BDS. Last date to apply: 23-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "4",
-    "lastDate": "23-11-26",
-    "officialWebsite": "https://rims.edu.in/rimsman/wp-content/uploads/Notice-JR-Dental-03-11-2026.pdf",
-    "notificationLink": "https://rims.edu.in/rimsman/wp-content/uploads/Notice-JR-Dental-03-11-2026.pdf",
-    "applyOnlineLink": "https://rims.edu.in/rimsman/wp-content/uploads/Notice-JR-Dental-03-11-2026.pdf",
-    "state": "Manipur",
-    "stateCode": "manipur",
-    "scrapedAt": "2026-11-24"
-  },
-  {
     "id": "manipur-rims-assistant-professor",
     "title": "RIMS Recruitment 2026 – Assistant Professor Posts",
     "shortInfo": "RIMS has announced notification for Assistant Professor posts. Required qualification: M.Ed, M.Phil / Ph.D, Diploma, MBBS. Last date to apply: 30-11-26.",
@@ -613,6 +579,6 @@
     "applyOnlineLink": "https://rims.edu.in/rimsman/wp-content/uploads/Advt-AP-22-10-2026.pdf",
     "state": "Manipur",
     "stateCode": "manipur",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   }
 ]

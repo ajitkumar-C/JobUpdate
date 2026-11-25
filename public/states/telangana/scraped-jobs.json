@@ -1,5 +1,108 @@
 [
   {
+    "id": "telangana-ecil-graduate-engineer-apprentice-gea-and-technician-ap",
+    "title": "ECIL Recruitment 2026 – Graduate Engineer Apprentice (GEA) and Technician Apprentice (TA) Posts",
+    "shortInfo": "ECIL has announced notification for Graduate Engineer Apprentice (GEA) and Technician Apprentice (TA) posts. Required qualification: BE/B.Tech, Diploma. Last date to apply: 13-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "242",
+    "lastDate": "13-12-26",
+    "officialWebsite": "https://www.ecil.co.in",
+    "notificationLink": "https://www.ecil.co.in/jobs/Advt_12_2026.pdf",
+    "applyOnlineLink": "https://govtjobguru.in/jobs/ecil-graduate-engineer-apprentice-recruitment-2026/",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-11-25",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Hosting Advertisement on ECIL website",
+        "date": "24/11/2026"
+      },
+      {
+        "event": "Last date for submitting online applications",
+        "date": "13/12/2026"
+      },
+      {
+        "event": "Document Verification Date (17-12-2026 to 19-12-2026)",
+        "date": ""
+      },
+      {
+        "event": "Release of offer letters to provisionally selected candidates by e-mail (23-12-2026 to 24-12-2026)",
+        "date": ""
+      },
+      {
+        "event": "Apprenticeship training will start from",
+        "date": "01/01/2027"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Graduate Engineer Apprentice (GEA) - ECE/CSE/IT/Mechanical/EEE/EIE/Civil/Chemical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      },
+      {
+        "postName": "Technician (Diploma) Apprentice (TA) - ECE/CSE/IT/Mechanical/EEE/EIE/Civil/Chemical",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Register on the National Apprenticeship Training Scheme (NATS) portal at www.nats.education.gov.in.",
+      "After NATS registration, submit the online application through ECIL website: www.ecil.co.in &gt; Careers &gt; Current Job Openings.",
+      "After applying online, take a printout of the registered online application form with the system-generated application serial number and note it for future reference.",
+      "Quote the system-generated online application number for all future correspondence.",
+      "No TA/DA will be paid for attending Document Verification.",
+      "The date, time, mode and venue of document verification will be hosted on www.ecil.co.in."
+    ]
+  },
+  {
+    "id": "telangana-dmho kamareddy-pharmacist-staff-nurse-amp-more",
+    "title": "DMHO Kamareddy Recruitment 2026 – Pharmacist, Staff Nurse &amp; More Posts",
+    "shortInfo": "DMHO Kamareddy has announced notification for Pharmacist, Staff Nurse &amp; More posts. Required qualification: PG Diploma, 10th Pass, ANM, B.Sc, BAMS, BPT, Diploma, GNM, M.Sc, MBA / PGDM, MBBS. Last date to apply: 25-11-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "60",
+    "lastDate": "25-11-26",
+    "officialWebsite": "https://cdn.s3waas.gov.in/s3c2626d850c80ea07e7511bbae4c76f4b/uploads/2026/11/17949866154096.pdf",
+    "notificationLink": "https://cdn.s3waas.gov.in/s3c2626d850c80ea07e7511bbae4c76f4b/uploads/2026/11/17949866154096.pdf",
+    "applyOnlineLink": "https://cdn.s3waas.gov.in/s3c2626d850c80ea07e7511bbae4c76f4b/uploads/2026/11/17949866154096.pdf",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-11-25"
+  },
+  {
+    "id": "telangana-kamareddy district-watchman-cook-amp-more",
+    "title": "Kamareddy District Recruitment 2026 – Watchman, Cook &amp; More Posts",
+    "shortInfo": "Kamareddy District has announced notification for Watchman, Cook &amp; More posts. Required qualification: 7th, 5th. Last date to apply: 11-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "6",
+    "lastDate": "11-12-26",
+    "officialWebsite": "https://cdn.s3waas.gov.in/s3c2626d850c80ea07e7511bbae4c76f4b/uploads/2026/11/17954322136459.pdf",
+    "notificationLink": "https://cdn.s3waas.gov.in/s3c2626d850c80ea07e7511bbae4c76f4b/uploads/2026/11/17954322136459.pdf",
+    "applyOnlineLink": "https://cdn.s3waas.gov.in/s3c2626d850c80ea07e7511bbae4c76f4b/uploads/2026/11/17954322136459.pdf",
+    "state": "Telangana",
+    "stateCode": "telangana",
+    "scrapedAt": "2026-11-25"
+  },
+  {
     "id": "telangana-bhel-supervisor-trainee",
     "title": "BHEL Recruitment 2026 – Supervisor Trainee Posts",
     "shortInfo": "BHEL has announced notification for Supervisor Trainee posts. Required qualification: Diploma in Engineering, Bachelor Degree, BBA, BMS/BBS. Last date to apply: 28-12-26.",
@@ -14,7 +117,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/bhel-supervisor-trainee-recruitment-2026/",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24",
+    "scrapedAt": "2026-11-25",
     "fees": [
       {
         "category": "UR/EWS/OBC",
@@ -110,7 +213,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/bhel-engineer-trainee-recruitment-2026-27/",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24",
+    "scrapedAt": "2026-11-25",
     "fees": [
       {
         "category": "UR/EWS/OBC",
@@ -213,7 +316,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/bdl-iti-apprentice-recruitment-2026/",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24",
+    "scrapedAt": "2026-11-25",
     "fees": [
       {
         "category": "Fee",
@@ -349,7 +452,7 @@
     "applyOnlineLink": "https://api.icar-iior.org.in/uploads/image-1795433570992-551600322.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-district educational officer, jangaon-guest-special-needs-educator",
@@ -366,7 +469,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3e2c420d928d4bf8ce0ff2ec19b371514/uploads/2026/11/17954134816468.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-sfio-assistant-director-deputy-director-amp-other",
@@ -383,7 +486,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/sfio-director-recruitment-2026/",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24",
+    "scrapedAt": "2026-11-25",
     "fees": [
       {
         "category": "Fee",
@@ -531,7 +634,7 @@
     "applyOnlineLink": "https://tgcab.bank.in/crm/public/uploads/Tenders/images/Notification-Selection-of-CEO-of-Nizamabad-DCCB-211126.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-district transport office yadadri bhuvanagiri-road-safety-co-ordinator",
@@ -548,7 +651,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3795c7a7a5ec6b460ec00c5841019b9e9/uploads/2026/11/17952617506567.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-mahabubnagar district court-special-judicial-magistrate-of-second-class",
@@ -565,7 +668,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec028c9a14ffebb7677d033ffce84799/uploads/2026/11/2026112130.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-uoh-project-technical-support-ii",
@@ -582,7 +685,7 @@
     "applyOnlineLink": "https://uohyd.ac.in/careers-uoh/files/postings/12024.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-nabard-junior-project-associate-senior-project-associate",
@@ -599,7 +702,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/nabardoct26/",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24",
+    "scrapedAt": "2026-11-25",
     "fees": [
       {
         "category": "SC/ST/PWBD",
@@ -804,7 +907,7 @@
     "applyOnlineLink": "https://assets-bg.gem.gov.in/resources/upload/shared_doc/jd-senior-assistant-director-states-union-territor_1795159400.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-pjtau-graduate-teaching-assistant",
@@ -821,7 +924,7 @@
     "applyOnlineLink": "https://pjtau.edu.in/wp-content/uploads/2026/11/128-interview-notification.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-mahabubnagar district court-court-attendant",
@@ -838,7 +941,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec028c9a14ffebb7677d033ffce84799/uploads/2026/11/2026111987.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-iit hyderabad-research-associate",
@@ -855,7 +958,7 @@
     "applyOnlineLink": "https://iith.ac.in/assets/files/careers/staff/RA_Recruitment_Advertisement_Nov_2026.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-pjtau-teaching-associate",
@@ -872,7 +975,7 @@
     "applyOnlineLink": "https://pjtau.edu.in/wp-content/uploads/2026/11/Walk-in-Interview-for-Part-time-teachers-02-at-Agricultural-College-Huzurnagar-on-27-11-2026.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-pjtau-part-time-teacher",
@@ -889,7 +992,7 @@
     "applyOnlineLink": "https://pjtau.edu.in/wp-content/uploads/2026/11/Walk-in-Interview-for-Part-time-teachers-02-at-Agricultural-College-Huzurnagar-on-26-11-2026.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-nalsar-research-assistant-law-and-economic-regulation-",
@@ -906,7 +1009,7 @@
     "applyOnlineLink": "https://nalsar.ac.in/wp-content/uploads/2026/11/Advertisement-for-the-post-of-Research-Assistant-Law-and-Economic-Regulation.docx",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-depwd hyderabad-sweeper-junior-assistant-more",
@@ -923,7 +1026,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/depwd-hyderabad-recruitment-2026/",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24",
+    "scrapedAt": "2026-11-25",
     "fees": [
       {
         "category": "Fee",
@@ -1077,7 +1180,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec050d8080853a54f8985276b0130266/uploads/2026/11/2026111897.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-manuu-professor-associate-professor-and-more",
@@ -1094,7 +1197,7 @@
     "applyOnlineLink": "https://manuu.edu.in/sites/default/files/Notification/2026-11/Employment-Notification-No-74-2026.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-crpf-specialist-medical-officer-surgeon",
@@ -1111,7 +1214,7 @@
     "applyOnlineLink": "https://rect.crpf.gov.in/Upload/Recruitment/Walk-in-interview_for_19_Specialist_Medical_Officers_337112026-567.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-iit hyderabad-project-accountant",
@@ -1128,7 +1231,7 @@
     "applyOnlineLink": "https://iith.ac.in/assets/files/careers/staff/Adv_CS_63_Project%20Accountant_Dt_17-11-2026.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-iith-junior-engineer-electrical-",
@@ -1145,7 +1248,7 @@
     "applyOnlineLink": "https://iith.ac.in/assets/files/careers/staff/Adv_CS_64_Junior%20Engineer(Electrical)_Dt_17-11-2026.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-icar-crida-senior-research-fellow-young-professional-i",
@@ -1162,7 +1265,7 @@
     "applyOnlineLink": "https://icar-crida.res.in/Recruitment/2026/Nov_2026/CRP-CA_Project.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-uoh-guest-faculty",
@@ -1179,7 +1282,7 @@
     "applyOnlineLink": "https://uohyd.ac.in/careers-uoh/files/postings/12019.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-uoh-senior-project-associate-project-associate-ii",
@@ -1196,7 +1299,7 @@
     "applyOnlineLink": "https://uohyd.ac.in/careers-uoh/files/postings/12018.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-simcs-professor-associate-professor-assistant-professor",
@@ -1213,7 +1316,7 @@
     "applyOnlineLink": "https://osmania.ac.in/Collegecareer2026/Spectrum%20Inst2026.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-ni-msme-faculty-associate",
@@ -1230,7 +1333,7 @@
     "applyOnlineLink": "https://www.nimsme.gov.in/media/notifications/faculty-associate-seic-recruitment-notification-dated-16-11-26.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-manuu-assistant-professor",
@@ -1247,7 +1350,7 @@
     "applyOnlineLink": "https://manuu.edu.in/sites/default/files/Notification/2026-11/Walk-in-School-Science%20-25-11-26.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-school education department telangana-teacher-eligibility-test-paper-i-amp-paper-ii-tgte",
@@ -1264,7 +1367,7 @@
     "applyOnlineLink": "https://tgtet.aptonline.in/UI/HomePage/HomePage.aspx",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24",
+    "scrapedAt": "2026-11-25",
     "fees": [
       {
         "category": "General & BC (One Paper)",
@@ -1371,7 +1474,7 @@
     "applyOnlineLink": "https://www.drdo.gov.in/drdo/sites/default/files/vacancy/advtDLRL13112026.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-tgslsa-chairman",
@@ -1388,24 +1491,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3f78ab8a5341dac088339408e8783c726/uploads/2026/11/20261113664808357.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
-  },
-  {
-    "id": "telangana-gprcp-professor-amp-principal-assistant-professors",
-    "title": "GPRCP Recruitment 2026 – Professor &amp; Principal, Assistant Professors Posts",
-    "shortInfo": "GPRCP has announced notification for Professor &amp; Principal, Assistant Professors posts. Required qualification: M.Phil / Ph.D, D.Pharm, M.Pharma. Last date to apply: 23-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "2",
-    "lastDate": "23-11-26",
-    "officialWebsite": "https://osmania.ac.in/Collegecareer2026/G%20P%20R%20Faculty%20advertisent.pdf",
-    "notificationLink": "https://osmania.ac.in/Collegecareer2026/G%20P%20R%20Faculty%20advertisent.pdf",
-    "applyOnlineLink": "https://osmania.ac.in/Collegecareer2026/G%20P%20R%20Faculty%20advertisent.pdf",
-    "state": "Telangana",
-    "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-icar-crida-young-professional-i",
@@ -1422,7 +1508,7 @@
     "applyOnlineLink": "https://icar-crida.res.in/Recruitment/2026/Nov_2026/Audit%20Accounts%20PME.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-district court, jayashankar bhupalpally-typist",
@@ -1439,7 +1525,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec04d38ee19a4815c4aeba4822791309/uploads/2026/11/2026111320.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-icar iimr-field-lab-assistant",
@@ -1456,7 +1542,7 @@
     "applyOnlineLink": "https://millets.res.in/ad/Notification-NMHYS-13nov26.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-suryapet district court-office-subordinate",
@@ -1473,7 +1559,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec056346dc723395e1ee8ef57f4883be/uploads/2026/11/2026111367.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-dlsa-office-assistant-office-peon",
@@ -1490,7 +1576,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec05ba304f3809ed31d0ad97b5a2b5df/uploads/2026/11/2026111239.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-aiims bibinagar-senior-project-assistant-project-technical-support",
@@ -1507,7 +1593,7 @@
     "applyOnlineLink": "https://aiimsbibinagar.edu.in/pdf/Research/recruitment%20advertisement%20notice.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-dlsa kamareddy-office-assistant-clerk",
@@ -1524,7 +1610,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3ec056754e06e46dfa419d5afe3c9781c/uploads/2026/11/2026111233.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-uoh-psychological-counselor",
@@ -1541,7 +1627,7 @@
     "applyOnlineLink": "https://uohyd.ac.in/careers-uoh/files/postings/12015.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-iiit hyderabad-marketing-intern",
@@ -1558,7 +1644,7 @@
     "applyOnlineLink": "https://www.iiit.ac.in/wp-content/uploads/2026/11/DFL-04-JD-Marketing-Intern-Nov-11-2026.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-dmrl-research-associate",
@@ -1575,7 +1661,7 @@
     "applyOnlineLink": "https://www.drdo.gov.in/drdo/sites/default/files/vacancy/advtDMRL11102026.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-nitw-project-scientist-i",
@@ -1592,7 +1678,7 @@
     "applyOnlineLink": "https://nitw.ac.in/api/static/files/project_scientist_MEITY_2026-11-11-15-10-41.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-aiims bibinagar-project-technical-support-i-project-technical-supp",
@@ -1609,7 +1695,7 @@
     "applyOnlineLink": "https://aiimsbibinagar.edu.in/pdf/Research/02%20Advertisement%20Project%20Technical%20Support.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-uoh-junior-research-fellow-senior-research-fellow",
@@ -1626,7 +1712,7 @@
     "applyOnlineLink": "https://uohyd.ac.in/careers-uoh/files/postings/12009.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-iit hyderabad-more-av-technician-network-engineer",
@@ -1643,7 +1729,7 @@
     "applyOnlineLink": "https://www.iith.ac.in/assets/files/careers/staff/Adv_CS_62_CC_Dt_10-11-2026.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-bits pilani-junior-research-fellow",
@@ -1660,7 +1746,7 @@
     "applyOnlineLink": "https://www.bits-pilani.ac.in/wp-content/uploads/Advertisement_JRF_CSIR_BITS-H_Sounak-Roy-Sounak-Roy.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-aaal-synthetic-flight-instructor",
@@ -1677,7 +1763,7 @@
     "applyOnlineLink": "https://plone.allianceair.in/allianceair/en/assets/careers/sfi-appliaction-advertisement-10-11-2026.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-bric-cdfd-research-associate-more-project-scientist",
@@ -1694,7 +1780,7 @@
     "applyOnlineLink": "https://cdfd.org.in/assets/300/2026/11/Announcements/FINAL_ADVERTISEMENT_.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-aiims bibinagar-research-associate-grade-iii",
@@ -1711,7 +1797,7 @@
     "applyOnlineLink": "https://aiimsbibinagar.edu.in/pdf/Research/Recruitment%20notice%20with%20application%20proforma.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-aiims bibinagar-administrative-officer",
@@ -1728,7 +1814,7 @@
     "applyOnlineLink": "https://aiimsbibinagar.edu.in/pdf/Detailed%20Advertisement%20for%20the%20post%20of%20Administrative%20Officer.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-bric-niab-scientist-c-scientist-d",
@@ -1745,7 +1831,7 @@
     "applyOnlineLink": "https://dbt.gov.in/storage/media/mndGuoBSNFNIA5TPc1hiFuuJyIWBpUZWOvMGizvj.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-iocl-trade-apprentice-and-more-technician-apprentice",
@@ -1762,7 +1848,7 @@
     "applyOnlineLink": "https://plapps.indianoilpipelines.in/PLApprentice/user/main?adv_no=MTQ=&Digest=qOLTAc7VxS7RbGmNVXuktQ",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24",
+    "scrapedAt": "2026-11-25",
     "fees": [
       {
         "category": "Fee",
@@ -1855,7 +1941,7 @@
     "applyOnlineLink": "https://nitw.ac.in/api/static/files/JRF_AnjanaPA_2026-11-5-17-59-15.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-bits pilani hyderabad-research-associate",
@@ -1872,7 +1958,7 @@
     "applyOnlineLink": "https://www.bits-pilani.ac.in/wp-content/uploads/Advertisement_RA_NFSG.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-bits pilani hyderabad campus-research-associate",
@@ -1889,7 +1975,7 @@
     "applyOnlineLink": "https://www.bits-pilani.ac.in/wp-content/uploads/Job_Description_RA_NFSG.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-indian bank-apprentice",
@@ -1906,7 +1992,7 @@
     "applyOnlineLink": "https://ibpsreg.ibps.in/inbraoct26/",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24",
+    "scrapedAt": "2026-11-25",
     "fees": [
       {
         "category": "General/OBC/EWS candidates",
@@ -1964,7 +2050,7 @@
     "applyOnlineLink": "https://www.bits-pilani.ac.in/wp-content/uploads/RA-NFSG.docx-Kanchan-Mittal.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-bits pilani hyderabad-research-associate",
@@ -1981,7 +2067,7 @@
     "applyOnlineLink": "https://www.bits-pilani.ac.in/wp-content/uploads/RA-NFSG.docx-Kanchan-Mittal.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-aees-principal-pgt-prt-tgt-balvatika-teacher-librarian-",
@@ -1998,7 +2084,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aees-teacher-recruitment-2026/",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24",
+    "scrapedAt": "2026-11-25",
     "fees": [
       {
         "category": "General/OBC/EWS (Application Fee + Processing Fee)",
@@ -2226,7 +2312,7 @@
     "applyOnlineLink": "https://otr.tgpsc.gov.in/login?type=new",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24",
+    "scrapedAt": "2026-11-25",
     "fees": [
       {
         "category": "OC & BC Candidates (Application Processing Fee)",
@@ -2301,7 +2387,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/telangana-high-court-research-assistant-recruitment-2026/",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24",
+    "scrapedAt": "2026-11-25",
     "fees": [
       {
         "category": "fee",
@@ -2359,7 +2445,7 @@
     "applyOnlineLink": "https://cdfd.org.in/APPS/recruit2026/Advt.04_2026.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-aiims bibinagar-administrative-officer",
@@ -2376,7 +2462,7 @@
     "applyOnlineLink": "https://aiimsbibinagar.edu.in/pdf/Detailed%20Advertisement%20for%20the%20post%20of%20Administrative%20Officer.pdf",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24"
+    "scrapedAt": "2026-11-25"
   },
   {
     "id": "telangana-nit warangal-assistant-professor-and-more-professor",
@@ -2393,7 +2479,7 @@
     "applyOnlineLink": "https://recruit.nitw.ac.in/",
     "state": "Telangana",
     "stateCode": "telangana",
-    "scrapedAt": "2026-11-24",
+    "scrapedAt": "2026-11-25",
     "fees": [
       {
         "category": "Unreserved/OBCNCL/EWS",

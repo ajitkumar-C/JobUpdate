@@ -2398,7 +2398,7 @@
     "lastDate": "-",
     "officialWebsite": "https://slprb.ap.gov.in",
     "notificationLink": "https://slprb.ap.gov.in/2026_PDFS/FSL-%20Scientific%20Assistant%20Notification-2026.pdf",
-    "applyOnlineLink": "https://govtjobguru.in/jobs/slprb-ap-police-recruitment-2026/",
+    "applyOnlineLink": "https://slprb.ap.gov.in/apply-online/si-civil",
     "state": "Andhra Pradesh",
     "stateCode": "andhra",
     "scrapedAt": "2026-11-27",
@@ -2426,8 +2426,12 @@
         "date": "16/09/2026"
       },
       {
-        "event": "Age Reckoning Date",
-        "date": "01/07/2026"
+        "event": "Starting Date for Apply Online",
+        "date": "27/11/2026"
+      },
+      {
+        "event": "Closing Date for Apply Online",
+        "date": "16/12/2026"
       }
     ],
     "vacancyList": [
@@ -2454,34 +2458,6 @@
       },
       {
         "postName": "SCT Sub Inspector of Police (Communications) (Men & Women)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "SCT Sub Inspector (Police Transport Organisation) (Men)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Scientific Assistant (Physical)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Scientific Assistant (Chemical)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Scientific Assistant (Biology/Serology)",
         "count": "",
         "qualification": "",
         "ageLimit": "",
@@ -2517,27 +2493,6 @@
       },
       {
         "postName": "Warder (Women), Prisons and Correctional Services Dept.",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "SCT Police Constable (Communications) (Men & Women)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Stipendiary Constable (Mechanics) (Men), Police Transport Organisation",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      },
-      {
-        "postName": "Stipendiary Constable (Drivers) (Men), Police Transport Organisation",
         "count": "",
         "qualification": "",
         "ageLimit": "",

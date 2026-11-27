@@ -1,5 +1,22 @@
 [
   {
+    "id": "megha-mati-sweeper-peon-amp-more",
+    "title": "MATI Recruitment 2026 – Sweeper, Peon &amp; More Posts",
+    "shortInfo": "MATI has announced notification for Sweeper, Peon &amp; More posts. Required qualification: 8TH. Last date to apply: 31-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "16",
+    "lastDate": "31-12-26",
+    "officialWebsite": "https://meghalaya.gov.in/sites/default/files/announcement/MATI_7_2015_Vol_II_241_A.pdf",
+    "notificationLink": "https://meghalaya.gov.in/sites/default/files/announcement/MATI_7_2015_Vol_II_241_A.pdf",
+    "applyOnlineLink": "https://meghalaya.gov.in/sites/default/files/announcement/MATI_7_2015_Vol_II_241_A.pdf",
+    "state": "Meghalaya",
+    "stateCode": "megha",
+    "scrapedAt": "2026-11-27"
+  },
+  {
     "id": "megha-hclsc-front-office-coordinator",
     "title": "HCLSC Recruitment 2026 – Front Office Coordinator Posts",
     "shortInfo": "HCLSC has announced notification for Front Office Coordinator posts. Required qualification: Graduate. Last date to apply: 05-12-26.",
@@ -14,7 +31,7 @@
     "applyOnlineLink": "https://meghalayahighcourt.nic.in/sites/default/files/recruitment/R224.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-26"
+    "scrapedAt": "2026-11-27"
   },
   {
     "id": "megha-dme meghalaya-senior-resident-assistant-professor-amp-more",
@@ -31,7 +48,7 @@
     "applyOnlineLink": "https://meghealth.gov.in/news/2026-11-16-DHSMER-189-SMC-HR-IV-291-2026-8073Advertisement%20pdf.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-26"
+    "scrapedAt": "2026-11-27"
   },
   {
     "id": "megha-kv tura-atl-instructor-pgt-math",
@@ -48,7 +65,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3kv02ad68862ca46272eedd5bc808e614/uploads/2026/11/2026112312.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-26"
+    "scrapedAt": "2026-11-27"
   },
   {
     "id": "megha-nhm meghalaya-adolescent-health-counsellor",
@@ -60,12 +77,43 @@
     "district": "State Level",
     "vacancies": "55",
     "lastDate": "30-11-26",
-    "officialWebsite": "https://nhmmeghalaya.nic.in/recruitment/DHS-MCH&#038;FW-NHM-HRH-_COM-94-Pt.2-2021-22_(XLII).pdf",
-    "notificationLink": "https://nhmmeghalaya.nic.in/recruitment/DHS-MCH&#038;FW-NHM-HRH-_COM-94-Pt.2-2021-22_(XLII).pdf",
-    "applyOnlineLink": "https://nhmmeghalaya.nic.in/recruitment/DHS-MCH&#038;FW-NHM-HRH-_COM-94-Pt.2-2021-22_(XLII).pdf",
+    "officialWebsite": "https://nhmmeghalaya.nic.in",
+    "notificationLink": "https://nhmmeghalaya.nic.in/recruitment/DHS-MCH&FW-NHM-HRH-_COM-94-Pt.2-2021-22_(XLII).pdf",
+    "applyOnlineLink": "https://forms.gle/G2fzSnJsHXccL61d9",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-26"
+    "scrapedAt": "2026-11-27",
+    "fees": [
+      {
+        "category": "Fee",
+        "fee": "Not Mentioned"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Last Date to Apply",
+        "date": "04/12/2026"
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Adolescent Health Counsellor",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Candidates should use only Gmail account for registration in the Google form.",
+      "Candidates should apply only once using the Google form and upload the CV along with the supporting scanned Documents in a Single PDF file (the PDF should be renamed by first and last name of the applicant and its total size should be less than 15 MB).",
+      "When uploading, select pdf file from your local device/drive.",
+      "All applications will be subjected to a screening process constituted for the purpose.",
+      "Shortlisted candidates will have to undergo Written test/personal interview.",
+      "Those in employment must submit a “No Objection Certificate” from the employer at the time of the interview.",
+      "Candidates are to check the NHM Meghalaya website (nhmmeghalaya.nic.in) from time to time for any updates regarding written test/interview.",
+      "All relevant Certificates/Testimonials etc. (IN ORIGINAL) to be produced at the time of the interview if shortlisted."
+    ]
   },
   {
     "id": "megha-pm shri kv eac upper shillong-pgt-economics",
@@ -82,7 +130,7 @@
     "applyOnlineLink": "https://cdnbbsr.s3waas.gov.in/s3kv01d0368f93ab0c5eecf09c030c6d7a/uploads/2026/11/2026112355.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-26"
+    "scrapedAt": "2026-11-27"
   },
   {
     "id": "megha-iim shillong-young-professional",
@@ -99,7 +147,7 @@
     "applyOnlineLink": "https://www.iimshillong.ac.in/wp-content/uploads/2026/11/Young-Professionals-Recruitment-GoAP.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-26"
+    "scrapedAt": "2026-11-27"
   },
   {
     "id": "megha-sres-did-block-programme-assistant-bpa-district-programme-a",
@@ -116,7 +164,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/11/17950909571768.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-26"
+    "scrapedAt": "2026-11-27"
   },
   {
     "id": "megha-das, south garo hills-yoga-instructor-ayush-medical-officer-mo-",
@@ -133,7 +181,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3a67f096809415ca1c9f112d96d27689b/uploads/2026/11/17950860424132.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-26"
+    "scrapedAt": "2026-11-27"
   },
   {
     "id": "megha-dmho ri bhoi-immunisation-field-volunteer",
@@ -150,7 +198,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3fe8c15fed5f808006ce95eddb7366e35/uploads/2026/11/17949936605589.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-26"
+    "scrapedAt": "2026-11-27"
   },
   {
     "id": "megha-nehu-field-investigator-research-assistant",
@@ -167,7 +215,7 @@
     "applyOnlineLink": "https://nehu.ac.in/public/assets/files/advertisements/20261118011535_Advertisement-for-the-recruitment-of-staff-for-ICSSR-minor-project.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-26"
+    "scrapedAt": "2026-11-27"
   },
   {
     "id": "megha-neigrihms-research-scientist-i-medical-multi-tasking-staff-m",
@@ -184,7 +232,7 @@
     "applyOnlineLink": "https://neigrihms.gov.in/Latest%20News/Other/2026/advertisement%20for%20the%20various%20post.%20under%20the%20project%20of%20VRDL.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-26"
+    "scrapedAt": "2026-11-27"
   },
   {
     "id": "megha-neigrihms-dental-consultant-specialist",
@@ -201,7 +249,7 @@
     "applyOnlineLink": "https://neigrihms.gov.in/Latest%20News/estt-1/2026/Advertisement%20for%20Dental%20Consultant%20.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-26"
+    "scrapedAt": "2026-11-27"
   },
   {
     "id": "megha-iocl eastern region-technician-apprentice-trade-apprentice-other-posts",
@@ -218,7 +266,7 @@
     "applyOnlineLink": "https://nats.education.gov.in/student_register.php",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-26",
+    "scrapedAt": "2026-11-27",
     "fees": [
       {
         "category": "Fee",
@@ -555,7 +603,7 @@
     "applyOnlineLink": "https://necouncil.gov.in/sites/default/files/document-688.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-26"
+    "scrapedAt": "2026-11-27"
   },
   {
     "id": "megha-khadc-land-recording-officer",
@@ -572,24 +620,7 @@
     "applyOnlineLink": "https://khadc.nic.in/acts_rules_regulations_bills/Notification_update/land_recording_officer.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-26"
-  },
-  {
-    "id": "megha-meghalaya mssds-program-associate",
-    "title": "Meghalaya MSSDS Recruitment 2026 – Program Associate Posts",
-    "shortInfo": "Meghalaya MSSDS has announced notification for Program Associate posts. Required qualification: B.Com. Last date to apply: 25-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1",
-    "lastDate": "25-11-26",
-    "officialWebsite": "https://mssds.nic.in/doc/Advertisement_PA_Accounts.pdf",
-    "notificationLink": "https://mssds.nic.in/doc/Advertisement_PA_Accounts.pdf",
-    "applyOnlineLink": "https://mssds.nic.in/doc/Advertisement_PA_Accounts.pdf",
-    "state": "Meghalaya",
-    "stateCode": "megha",
-    "scrapedAt": "2026-11-26"
+    "scrapedAt": "2026-11-27"
   },
   {
     "id": "megha-district ayush society ri-bhoi-ayush-medical-officer-cum-cho-yoga-professionals",
@@ -606,7 +637,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3fe8c15fed5f808006ce95eddb7366e35/uploads/2026/11/17943857353088.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-26"
+    "scrapedAt": "2026-11-27"
   },
   {
     "id": "megha-dm&amp;ho-multi-purpose-worker",
@@ -623,7 +654,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s3fe8c15fed5f808006ce95eddb7366e35/uploads/2026/11/17943858709766.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-26"
+    "scrapedAt": "2026-11-27"
   },
   {
     "id": "megha-msrls-project-manager-district-functional-specialist",
@@ -640,24 +671,7 @@
     "applyOnlineLink": "https://msrls.nic.in/sites/default/files/advertisement-post-project-manager-non-farm-marketing-pm-nfm-start-village-enterpreneurship.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-26"
-  },
-  {
-    "id": "megha-dhs meghalaya-medical-physicist-cum-radiation-safety-officer-rso",
-    "title": "DHS Meghalaya Recruitment 2026 – Medical Physicist-cum-Radiation Safety Officer (RSO), Medical Physicist Posts",
-    "shortInfo": "DHS Meghalaya has announced notification for Medical Physicist-cum-Radiation Safety Officer (RSO), Medical Physicist posts. Required qualification: PG Diploma, M.Sc, Diploma. Last date to apply: 25-11-26.",
-    "category": "Latest Jobs",
-    "categoryIcon": "📚",
-    "categoryMarathi": "Latest Jobs",
-    "district": "State Level",
-    "vacancies": "2",
-    "lastDate": "25-11-26",
-    "officialWebsite": "https://meghealth.gov.in/news/2026-11-06-HSM-EST-GZT-Appt-DAE-61-2026-41872-Advertisement%20-%20Medical%20Physicist%20Cum%20RSO.pdf",
-    "notificationLink": "https://meghealth.gov.in/news/2026-11-06-HSM-EST-GZT-Appt-DAE-61-2026-41872-Advertisement%20-%20Medical%20Physicist%20Cum%20RSO.pdf",
-    "applyOnlineLink": "https://meghealth.gov.in/news/2026-11-06-HSM-EST-GZT-Appt-DAE-61-2026-41872-Advertisement%20-%20Medical%20Physicist%20Cum%20RSO.pdf",
-    "state": "Meghalaya",
-    "stateCode": "megha",
-    "scrapedAt": "2026-11-26"
+    "scrapedAt": "2026-11-27"
   },
   {
     "id": "megha-sres-did-district-programme-manager-sbm-g-",
@@ -674,7 +688,7 @@
     "applyOnlineLink": "https://cdn.s3waas.gov.in/s32a084e55c87b1ebcdaad1f62fdbbac8e/uploads/2026/11/17940738181324.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-26"
+    "scrapedAt": "2026-11-27"
   },
   {
     "id": "megha-nit meghalaya-junior-assistant-technician-and-more",
@@ -691,65 +705,7 @@
     "applyOnlineLink": "https://www.nitm.ac.in/news_details.php?p=1833",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-26"
-  },
-  {
-    "id": "megha-indian bank-apprentice",
-    "title": "Indian Bank Recruitment 2026 – Apprentice Posts",
-    "shortInfo": "Indian Bank has announced notification for Apprentice posts. Required qualification: Graduate (Any Discipline). Last date to apply: 25-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1500",
-    "lastDate": "25-11-26",
-    "officialWebsite": "https://www.indianbank.bank.in/c/",
-    "notificationLink": "https://indianbank.bank.in/documents/20117/34414/FINAL%20UPDATED%20ADVERTISEMENT%20FOR%20ENGAGEMENT%20OF%20APPRENTICES%20FOR%20FY%202026-27%20-%2004.11.20262026_11_04_04_14_20.pdf/451450a2-0501-51ba-e37c-db63b9c27425",
-    "applyOnlineLink": "https://ibpsreg.ibps.in/inbraoct26/",
-    "state": "Meghalaya",
-    "stateCode": "megha",
-    "scrapedAt": "2026-11-26",
-    "fees": [
-      {
-        "category": "General/OBC/EWS candidates",
-        "fee": "₹800/- plus GST"
-      },
-      {
-        "category": "SC/ST/PwBD candidates",
-        "fee": "₹175/- plus GST"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Opening Date for Online Registration & Payment of Application Fees",
-        "date": "05/11/2026"
-      },
-      {
-        "event": "Closing Date for Online Registration & Payment of Application Fees",
-        "date": "25/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Apprentice (Graduate Apprentice under Apprentices Act, 1961)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Register on the NATS 2.0 Portal (www.nats.education.gov.in) before applying. Only candidates who passed graduation on or after 1st April 2022 need to register here. Ensure 100% complete profile on the portal.",
-      "Note down the Enrolment ID generated in NATS 2.0 Portal for future correspondence.",
-      "Visit the Bank’s website www.indianbank.bank.in and click on the Careers page or visit https://www.nats.education.gov.in and click on ‘Engagement of Apprentices in Indian Bank – 2026’.",
-      "Click on ‘Click here for New Registration’, enter Name, contact details and email ID. Note the Provisional Registration Number and Password generated.",
-      "Fill in the application form. Use ‘SAVE AND NEXT’ to save data if unable to complete in one go.",
-      "Upload scanned photograph (4.5cm x 3.5cm, 20KB–50KB), signature (black ink on white paper, 10KB–20KB), left thumb impression (20KB–50KB), and handwritten declaration (50KB–100KB) as per specifications in Annexure-II.",
-      "Preview and verify all details before clicking ‘COMPLETE REGISTRATION’.",
-      "Proceed to the ‘Payment’ tab and pay the application fee online using Debit/Credit Card or Internet Banking.",
-      "On successful payment, an e-Receipt will be generated. Take a printout of the e-Receipt and online application form for future reference.",
-      "Do NOT send the printout to the Bank."
-    ]
+    "scrapedAt": "2026-11-27"
   },
   {
     "id": "megha-neiah-deputy-director-nursing-officer-assistant-administ",
@@ -766,7 +722,7 @@
     "applyOnlineLink": "https://neiah.nic.in/pdf/26-10-26/VN.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-26"
+    "scrapedAt": "2026-11-27"
   },
   {
     "id": "megha-nec-research-officer",
@@ -783,6 +739,6 @@
     "applyOnlineLink": "https://necouncil.gov.in/sites/default/files/document-663.pdf",
     "state": "Meghalaya",
     "stateCode": "megha",
-    "scrapedAt": "2026-11-26"
+    "scrapedAt": "2026-11-27"
   }
 ]

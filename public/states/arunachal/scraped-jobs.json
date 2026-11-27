@@ -14,7 +14,7 @@
     "applyOnlineLink": "https://cau.ac.in/wp-content/uploads/2026/11/Advertisement.pdf",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-11-26"
+    "scrapedAt": "2026-11-27"
   },
   {
     "id": "arunachal-iim shillong-mukhya-mantri-fellow-assistant-fellow",
@@ -31,7 +31,7 @@
     "applyOnlineLink": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=g9iH47Q7VUi3oLFXVvJfYR_Tmle1wQ9NojnpVf6PEUlUQzgwMjdSTFhSQVc2RjhRSUFQU0cwSktFMC4u&route=shorturl",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-11-26",
+    "scrapedAt": "2026-11-27",
     "fees": [
       {
         "category": "Fee",
@@ -86,7 +86,7 @@
     "applyOnlineLink": "https://nerist.ac.in/wp-content/uploads/2026/11/NERIST_PDF_Advt_Application.pdf",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-11-26"
+    "scrapedAt": "2026-11-27"
   },
   {
     "id": "arunachal-iocl eastern region-technician-apprentice-trade-apprentice-other-posts",
@@ -103,7 +103,7 @@
     "applyOnlineLink": "https://nats.education.gov.in/student_register.php",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-11-26",
+    "scrapedAt": "2026-11-27",
     "fees": [
       {
         "category": "Fee",
@@ -440,7 +440,7 @@
     "applyOnlineLink": "https://culture.gov.in/files/vacancies_documents/Advertisement_for_the_Post_of_Director_CIHCS.pdf",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-11-26"
+    "scrapedAt": "2026-11-27"
   },
   {
     "id": "arunachal-rgu-internal-audit-officer-executive-engineer",
@@ -457,64 +457,6 @@
     "applyOnlineLink": "https://rgu.ac.in/uploads/notices/1%20Adv%20IAO%20&#038;%20EE%205.11.2026.pdf",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-11-26"
-  },
-  {
-    "id": "arunachal-indian bank-apprentice",
-    "title": "Indian Bank Recruitment 2026 – Apprentice Posts",
-    "shortInfo": "Indian Bank has announced notification for Apprentice posts. Required qualification: Graduate (Any Discipline). Last date to apply: 25-11-26.",
-    "category": "Others",
-    "categoryIcon": "🏢",
-    "categoryMarathi": "Others",
-    "district": "State Level",
-    "vacancies": "1500",
-    "lastDate": "25-11-26",
-    "officialWebsite": "https://www.indianbank.bank.in/c/",
-    "notificationLink": "https://indianbank.bank.in/documents/20117/34414/FINAL%20UPDATED%20ADVERTISEMENT%20FOR%20ENGAGEMENT%20OF%20APPRENTICES%20FOR%20FY%202026-27%20-%2004.11.20262026_11_04_04_14_20.pdf/451450a2-0501-51ba-e37c-db63b9c27425",
-    "applyOnlineLink": "https://ibpsreg.ibps.in/inbraoct26/",
-    "state": "Arunachal Pradesh",
-    "stateCode": "arunachal",
-    "scrapedAt": "2026-11-26",
-    "fees": [
-      {
-        "category": "General/OBC/EWS candidates",
-        "fee": "₹800/- plus GST"
-      },
-      {
-        "category": "SC/ST/PwBD candidates",
-        "fee": "₹175/- plus GST"
-      }
-    ],
-    "dates": [
-      {
-        "event": "Opening Date for Online Registration & Payment of Application Fees",
-        "date": "05/11/2026"
-      },
-      {
-        "event": "Closing Date for Online Registration & Payment of Application Fees",
-        "date": "25/11/2026"
-      }
-    ],
-    "vacancyList": [
-      {
-        "postName": "Apprentice (Graduate Apprentice under Apprentices Act, 1961)",
-        "count": "",
-        "qualification": "",
-        "ageLimit": "",
-        "payScale": ""
-      }
-    ],
-    "howToApply": [
-      "Register on the NATS 2.0 Portal (www.nats.education.gov.in) before applying. Only candidates who passed graduation on or after 1st April 2022 need to register here. Ensure 100% complete profile on the portal.",
-      "Note down the Enrolment ID generated in NATS 2.0 Portal for future correspondence.",
-      "Visit the Bank’s website www.indianbank.bank.in and click on the Careers page or visit https://www.nats.education.gov.in and click on ‘Engagement of Apprentices in Indian Bank – 2026’.",
-      "Click on ‘Click here for New Registration’, enter Name, contact details and email ID. Note the Provisional Registration Number and Password generated.",
-      "Fill in the application form. Use ‘SAVE AND NEXT’ to save data if unable to complete in one go.",
-      "Upload scanned photograph (4.5cm x 3.5cm, 20KB–50KB), signature (black ink on white paper, 10KB–20KB), left thumb impression (20KB–50KB), and handwritten declaration (50KB–100KB) as per specifications in Annexure-II.",
-      "Preview and verify all details before clicking ‘COMPLETE REGISTRATION’.",
-      "Proceed to the ‘Payment’ tab and pay the application fee online using Debit/Credit Card or Internet Banking.",
-      "On successful payment, an e-Receipt will be generated. Take a printout of the e-Receipt and online application form for future reference.",
-      "Do NOT send the printout to the Bank."
-    ]
+    "scrapedAt": "2026-11-27"
   }
 ]

@@ -1,5 +1,22 @@
 [
   {
+    "id": "an-dcpu n&amp;m andaman-chowkidar-ayahs-amp-more",
+    "title": "DCPU N&amp;M Andaman Recruitment 2026 – Chowkidar, Ayahs &amp; More Posts",
+    "shortInfo": "DCPU N&amp;M Andaman has announced notification for Chowkidar, Ayahs &amp; More posts. Required qualification: B.Sc, MBBS, 10th Pass. Last date to apply: 12-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "9",
+    "lastDate": "12-12-26",
+    "officialWebsite": "https://cdn.s3waas.gov.in/s30537fb40a68c18da59a35c2bfe1ca554/uploads/2026/11/17956933451593.pdf",
+    "notificationLink": "https://cdn.s3waas.gov.in/s30537fb40a68c18da59a35c2bfe1ca554/uploads/2026/11/17956933451593.pdf",
+    "applyOnlineLink": "https://cdn.s3waas.gov.in/s30537fb40a68c18da59a35c2bfe1ca554/uploads/2026/11/17956933451593.pdf",
+    "state": "Andaman & Nicobar",
+    "stateCode": "an",
+    "scrapedAt": "2026-11-28"
+  },
+  {
     "id": "an-andaman &amp; nicobar administration-mazdoor",
     "title": "Andaman &amp; Nicobar Administration Recruitment 2026 – Mazdoor Posts",
     "shortInfo": "Andaman &amp; Nicobar Administration has announced notification for Mazdoor posts. Required qualification: 10th Pass. Last date to apply: 26-12-26.",
@@ -9,12 +26,59 @@
     "district": "State Level",
     "vacancies": "64",
     "lastDate": "26-12-26",
-    "officialWebsite": "https://andamannicobar.gov.in/admin-pannel/vacancy/1-890-Final%20vacancy%20Notice%20mazdoor%20Nicobar%202026.pdf",
+    "officialWebsite": "https://andamannicobar.gov.in",
     "notificationLink": "https://andamannicobar.gov.in/admin-pannel/vacancy/1-890-Final%20vacancy%20Notice%20mazdoor%20Nicobar%202026.pdf",
-    "applyOnlineLink": "https://andamannicobar.gov.in/admin-pannel/vacancy/1-890-Final%20vacancy%20Notice%20mazdoor%20Nicobar%202026.pdf",
+    "applyOnlineLink": "https://erecruitment.andamannicobar.gov.in/CSignin.aspx",
     "state": "Andaman & Nicobar",
     "stateCode": "an",
-    "scrapedAt": "2026-11-27"
+    "scrapedAt": "2026-11-28",
+    "fees": [
+      {
+        "category": "General/OBC/EWS/Others",
+        "fee": "Rs. 100"
+      },
+      {
+        "category": "Women Candidates & Scheduled Tribe (ST)",
+        "fee": "Exempted"
+      }
+    ],
+    "dates": [
+      {
+        "event": "Starting Date of Online Application",
+        "date": "26/11/2026"
+      },
+      {
+        "event": "Closing Date for Online Application",
+        "date": "26/12/2026"
+      },
+      {
+        "event": "Closing Date for Online Fee Payment",
+        "date": "26/12/2026"
+      },
+      {
+        "event": "Window for Application Form Correction (26-12-2026 to 05-01-2027)",
+        "date": ""
+      }
+    ],
+    "vacancyList": [
+      {
+        "postName": "Mazdoor",
+        "count": "",
+        "qualification": "",
+        "ageLimit": "",
+        "payScale": ""
+      }
+    ],
+    "howToApply": [
+      "Visit the official website: https://erecruitment.andamannicobar.gov.in",
+      "Register and fill in all mandatory details in the online application form.",
+      "Upload a recent passport-size photograph in 8-bit JPEG format (10 KB to 50 KB, 100×200 pixels).",
+      "Pay the application fee online (Rs. 100) via BHIM UPI, Net Banking, or Credit/Debit Card (Visa, Master, Maestro, RuPay). Women and ST candidates are exempted.",
+      "Submit the application before 26/12/2026 (2359 Hrs.).",
+      "Take a printout of the submitted application for future reference.",
+      "Candidates registered with Employment Exchange must enter their registration number in the appropriate field.",
+      "At the time of document verification, bring self-attested copies of all required certificates along with the printed online application."
+    ]
   },
   {
     "id": "an-iocl eastern region-technician-apprentice-trade-apprentice-other-posts",
@@ -31,7 +95,7 @@
     "applyOnlineLink": "https://nats.education.gov.in/student_register.php",
     "state": "Andaman & Nicobar",
     "stateCode": "an",
-    "scrapedAt": "2026-11-27",
+    "scrapedAt": "2026-11-28",
     "fees": [
       {
         "category": "Fee",
@@ -368,7 +432,7 @@
     "applyOnlineLink": "https://apwd.and.nic.in/Admin/Uploads/1229.pdf",
     "state": "Andaman & Nicobar",
     "stateCode": "an",
-    "scrapedAt": "2026-11-27"
+    "scrapedAt": "2026-11-28"
   },
   {
     "id": "an-aai-graduate-apprentice-diploma-apprentice-iti-apprent",
@@ -385,7 +449,7 @@
     "applyOnlineLink": "https://govtjobguru.in/jobs/aai-er-apprentice-recruitment-2026/",
     "state": "Andaman & Nicobar",
     "stateCode": "an",
-    "scrapedAt": "2026-11-27",
+    "scrapedAt": "2026-11-28",
     "fees": [],
     "dates": [
       {

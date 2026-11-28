@@ -1,5 +1,22 @@
 [
   {
+    "id": "arunachal-apsac-project-scientist",
+    "title": "APSAC Recruitment 2026 – Project Scientist Posts",
+    "shortInfo": "APSAC has announced notification for Project Scientist posts. Required qualification: M.Sc. Last date to apply: 11-12-26.",
+    "category": "Others",
+    "categoryIcon": "🏢",
+    "categoryMarathi": "Others",
+    "district": "State Level",
+    "vacancies": "1",
+    "lastDate": "11-12-26",
+    "officialWebsite": "https://srsac.arunachal.gov.in/admin/uploads/ADVERTISEMENT%20SILAAS%20PROJECT.pdf",
+    "notificationLink": "https://srsac.arunachal.gov.in/admin/uploads/ADVERTISEMENT%20SILAAS%20PROJECT.pdf",
+    "applyOnlineLink": "https://srsac.arunachal.gov.in/admin/uploads/ADVERTISEMENT%20SILAAS%20PROJECT.pdf",
+    "state": "Arunachal Pradesh",
+    "stateCode": "arunachal",
+    "scrapedAt": "2026-11-28"
+  },
+  {
     "id": "arunachal-cau imphal-project-assistant",
     "title": "CAU Imphal Recruitment 2026 – Project Assistant Posts",
     "shortInfo": "CAU Imphal has announced notification for Project Assistant posts. Required qualification: Graduate, PG. Last date to apply: 30-11-26.",
@@ -14,7 +31,7 @@
     "applyOnlineLink": "https://cau.ac.in/wp-content/uploads/2026/11/Advertisement.pdf",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-11-27"
+    "scrapedAt": "2026-11-28"
   },
   {
     "id": "arunachal-iim shillong-mukhya-mantri-fellow-assistant-fellow",
@@ -31,7 +48,7 @@
     "applyOnlineLink": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=g9iH47Q7VUi3oLFXVvJfYR_Tmle1wQ9NojnpVf6PEUlUQzgwMjdSTFhSQVc2RjhRSUFQU0cwSktFMC4u&route=shorturl",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-11-27",
+    "scrapedAt": "2026-11-28",
     "fees": [
       {
         "category": "Fee",
@@ -86,7 +103,7 @@
     "applyOnlineLink": "https://nerist.ac.in/wp-content/uploads/2026/11/NERIST_PDF_Advt_Application.pdf",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-11-27"
+    "scrapedAt": "2026-11-28"
   },
   {
     "id": "arunachal-iocl eastern region-technician-apprentice-trade-apprentice-other-posts",
@@ -103,7 +120,7 @@
     "applyOnlineLink": "https://nats.education.gov.in/student_register.php",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-11-27",
+    "scrapedAt": "2026-11-28",
     "fees": [
       {
         "category": "Fee",
@@ -440,7 +457,7 @@
     "applyOnlineLink": "https://culture.gov.in/files/vacancies_documents/Advertisement_for_the_Post_of_Director_CIHCS.pdf",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-11-27"
+    "scrapedAt": "2026-11-28"
   },
   {
     "id": "arunachal-rgu-internal-audit-officer-executive-engineer",
@@ -457,6 +474,6 @@
     "applyOnlineLink": "https://rgu.ac.in/uploads/notices/1%20Adv%20IAO%20&#038;%20EE%205.11.2026.pdf",
     "state": "Arunachal Pradesh",
     "stateCode": "arunachal",
-    "scrapedAt": "2026-11-27"
+    "scrapedAt": "2026-11-28"
   }
 ]
